@@ -1,0 +1,90 @@
+T1	Transaction_Transfer-Ownership 576 580	cost
+E51	Transaction_Transfer-Ownership:T1
+A1	Realis E51 Other
+T2	Transaction_Transfer-Money 2613 2620	selling
+E55	Transaction_Transfer-Money:T2
+A2	Realis E55 Other
+T3	Manufacture_Artifact 475 479	made
+E134	Manufacture_Artifact:T3
+A3	Realis E134 Actual
+T4	Manufacture_Artifact 1357 1361	made
+E160	Manufacture_Artifact:T4
+A4	Realis E160 Other
+T5	Transaction_Transfer-Money 576 580	cost
+E214	Transaction_Transfer-Money:T5
+A5	Realis E214 Other
+T6	Transaction_Transfer-Ownership 610 616	retail
+E246	Transaction_Transfer-Ownership:T6
+A6	Realis E246 Other
+T7	Transaction_Transfer-Ownership 2772 2779	sellers
+E282	Transaction_Transfer-Ownership:T7
+A7	Realis E282 Other
+T8	Transaction_Transfer-Ownership 2462 2466	sell
+E332	Transaction_Transfer-Ownership:T8
+A8	Realis E332 Other
+T9	Manufacture_Artifact 1650 1657	prodcut
+E341	Manufacture_Artifact:T9
+A9	Realis E341 Other
+T10	Transaction_Transfer-Money 244 247	buy
+E346	Transaction_Transfer-Money:T10
+A10	Realis E346 Other
+T11	Transaction_Transfer-Money 610 616	retail
+E367	Transaction_Transfer-Money:T11
+A11	Realis E367 Other
+T12	Manufacture_Artifact 592 599	produce
+E384	Manufacture_Artifact:T12
+A12	Realis E384 Other
+T13	Contact_Contact 2226 2231	check
+E420	Contact_Contact:T13
+A13	Realis E420 Other
+T14	Movement_Transport-Artifact 1366 1370	take
+E564	Movement_Transport-Artifact:T14
+A14	Realis E564 Other
+T15	Transaction_Transfer-Ownership 244 247	buy
+E571	Transaction_Transfer-Ownership:T15
+A15	Realis E571 Other
+T16	Transaction_Transfer-Ownership 864 870	ripped
+E573	Transaction_Transfer-Ownership:T16
+A16	Realis E573 Other
+T17	Transaction_Transfer-Ownership 1136 1139	rip
+E634	Transaction_Transfer-Ownership:T17
+A17	Realis E634 Other
+T18	Contact_Contact 2023 2029	advise
+E725	Contact_Contact:T18
+A18	Realis E725 Other
+T19	Transaction_Transfer-Ownership 2613 2620	selling
+E735	Transaction_Transfer-Ownership:T19
+A19	Realis E735 Other
+T20	Transaction_Transfer-Money 813 819	invest
+E753	Transaction_Transfer-Money:T20
+A20	Realis E753 Other
+T21	Transaction_Transfer-Money 1136 1139	rip
+E801	Transaction_Transfer-Money:T21
+A21	Realis E801 Other
+T22	Transaction_Transfer-Money 2462 2466	sell
+E811	Transaction_Transfer-Money:T22
+A22	Realis E811 Other
+T23	Transaction_Transfer-Money 2129 2134	costs
+E828	Transaction_Transfer-Money:T23
+A23	Realis E828 Generic
+T24	Transaction_Transfer-Money 2772 2779	sellers
+E831	Transaction_Transfer-Money:T24
+A24	Realis E831 Other
+T25	Transaction_Transfer-Ownership 388 395	ripping
+E842	Transaction_Transfer-Ownership:T25
+A25	Realis E842 Generic
+T26	Manufacture_Artifact 195 205	inventions
+E864	Manufacture_Artifact:T26
+A26	Realis E864 Generic
+T27	Transaction_Transfer-Ownership 264 268	sell
+E894	Transaction_Transfer-Ownership:T27
+A27	Realis E894 Other
+T28	Transaction_Transfer-Money 388 395	ripping
+E924	Transaction_Transfer-Money:T28
+A28	Realis E924 Generic
+T29	Transaction_Transfer-Money 864 870	ripped
+E941	Transaction_Transfer-Money:T29
+A29	Realis E941 Other
+T30	Transaction_Transfer-Money 264 268	sell
+E960	Transaction_Transfer-Money:T30
+A30	Realis E960 Other

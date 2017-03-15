@@ -1,0 +1,106 @@
+T1	Transaction_Transfer-Ownership 299 303	sell
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Ownership 395 399	sell
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Ownership 407 410	buy
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Generic
+T4	Transaction_Transfer-Money 553 557;570 578	make payments
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Generic
+T5	Transaction_Transfer-Money 697 700	pay
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 731 737	paying
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Transaction_Transfer-Money 833 840	payment
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 979 986	selling
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Money 1001 1007	paying
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Money 1077 1084	payment
+E10	Transaction_Transfer-Money:T10 
+A10	Questionable E10 Realis
+A11	Realis E10 Generic
+T11	Transaction_Transfer-Ownership 1177 1186	purchased
+E11	Transaction_Transfer-Ownership:T11 
+A12	Questionable E11 Realis
+A13	Realis E11 Generic
+T12	Transaction_Transfer-Ownership 1370 1376	bought
+E12	Transaction_Transfer-Ownership:T12 
+A14	Realis E12 Actual
+T13	Life_Be-Born 1402 1406	born
+E13	Life_Be-Born:T13 
+A15	Realis E13 Actual
+T14	Transaction_Transfer-Ownership 1439 1443	sell
+E14	Transaction_Transfer-Ownership:T14 
+A16	Realis E14 Other
+T15	Transaction_Transfer-Ownership 1451 1453	by
+E15	Transaction_Transfer-Ownership:T15 
+A17	Realis E15 Other
+T16	Transaction_Transfer-Money 1534 1537	pay
+E16	Transaction_Transfer-Money:T16 
+A18	Questionable E16 Realis
+A19	Realis E16 Other
+T17	Transaction_Transfer-Ownership 2182 2188	bought
+E17	Transaction_Transfer-Ownership:T17 
+A20	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 2214 2218	sell
+E18	Transaction_Transfer-Ownership:T18 
+A21	Realis E18 Other
+T19	Transaction_Transfer-Money 2223 2226	pay
+E19	Transaction_Transfer-Money:T19 
+A22	Realis E19 Other
+T20	Transaction_Transfer-Money 2383 2386	pay
+E20	Transaction_Transfer-Money:T20 
+A23	Realis E20 Other
+T21	Transaction_Transfer-Money 2646 2650	paid
+E21	Transaction_Transfer-Money:T21 
+A24	Realis E21 Generic
+T22	Transaction_Transfer-Money 2719 2725	income
+E22	Transaction_Transfer-Money:T22 
+A25	Realis E22 Generic
+T23	Transaction_Transfer-Ownership 2875 2878	get
+E23	Transaction_Transfer-Ownership:T23 
+A26	Questionable E23 Realis
+A27	Realis E23 Generic
+T24	Transaction_Transfer-Money 3160 3164	paid
+E24	Transaction_Transfer-Money:T24 
+A28	Realis E24 Generic
+T25	Transaction_Transfer-Money 3233 3239	income
+E25	Transaction_Transfer-Money:T25 
+A29	Realis E25 Generic
+T26	Transaction_Transfer-Ownership 3389 3392	get
+E26	Transaction_Transfer-Ownership:T26 
+A30	Realis E26 Generic
+T27	Transaction_Transfer-Ownership 3512 3515	buy
+E27	Transaction_Transfer-Ownership:T27 
+A31	Realis E27 Generic
+T28	Transaction_Transfer-Money 3863 3867	paid
+E28	Transaction_Transfer-Money:T28 
+A32	Realis E28 Generic
+T29	Transaction_Transfer-Money 3936 3942	income
+E29	Transaction_Transfer-Money:T29 
+A33	Realis E29 Generic
+T30	Transaction_Transfer-Ownership 4092 4095	get
+E30	Transaction_Transfer-Ownership:T30 
+A34	Realis E30 Generic
+T31	Transaction_Transfer-Ownership 4215 4218	buy
+E31	Transaction_Transfer-Ownership:T31 
+A35	Realis E31 Generic
+T32	Transaction_Transfer-Money 4431 4434;4445 4456	put downpayment
+E32	Transaction_Transfer-Money:T32 
+A36	Realis E32 Other
+T33	Transaction_Transfer-Money 4500 4506	income
+E33	Transaction_Transfer-Money:T33 
+A37	Realis E33 Actual
+T34	Contact_Communicate 274 279	tells
+E34	Contact_Communicate:T34 
+A38	Realis E34 Actual

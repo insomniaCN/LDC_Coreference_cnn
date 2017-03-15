@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaac0000000000000169" doc_id="78f345e55468c3412e4a4afe839d9121" source_type="multi_post">
+  <event_mention id="em-12" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="712" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-43" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1357" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-45" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1844" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-50" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1626" length="11">immigration</trigger>
+  </event_mention>
+  <event_mention id="em-94" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="424" length="8">homemade</trigger>
+  </event_mention>
+  <event_mention id="em-191" type="life" subtype="injure" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="572" length="7">injured</trigger>
+  </event_mention>
+  <event_mention id="em-199" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="2462" length="7">bombing</trigger>
+  </event_mention>
+  <event_mention id="em-213" type="justice" subtype="convict" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1028" length="6">guilty</trigger>
+  </event_mention>
+  <event_mention id="em-216" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1240" length="9">terrorism</trigger>
+  </event_mention>
+  <event_mention id="em-289" type="personnel" subtype="elect" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1681" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-299" type="life" subtype="die" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1093" length="8">executed</trigger>
+  </event_mention>
+  <event_mention id="em-302" type="justice" subtype="execute" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1093" length="8">executed</trigger>
+  </event_mention>
+  <event_mention id="em-360" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="667" length="7">attacks</trigger>
+  </event_mention>
+  <event_mention id="em-421" type="life" subtype="die" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="562" length="4">dead</trigger>
+  </event_mention>
+  <event_mention id="em-436" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="2145" length="7">attacks</trigger>
+  </event_mention>
+  <event_mention id="em-479" type="life" subtype="die" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1055" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-490" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1162" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-496" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="221" length="6">Terror</trigger>
+  </event_mention>
+  <event_mention id="em-541" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1888" length="7">bombing</trigger>
+  </event_mention>
+  <event_mention id="em-570" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="3904" length="11">terroristic</trigger>
+  </event_mention>
+  <event_mention id="em-627" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="995" length="5">Siege</trigger>
+  </event_mention>
+  <event_mention id="em-637" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="2263" length="13">ecoterrorists</trigger>
+  </event_mention>
+  <event_mention id="em-641" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="631" length="7">bombing</trigger>
+  </event_mention>
+  <event_mention id="em-662" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1055" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-674" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="2978" length="9">TeaTerror</trigger>
+  </event_mention>
+  <event_mention id="em-694" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="3517" length="12">ecoterrorism</trigger>
+  </event_mention>
+  <event_mention id="em-710" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="536" length="9">explosion</trigger>
+  </event_mention>
+  <event_mention id="em-803" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="2384" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-816" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="3892" length="7">violent</trigger>
+  </event_mention>
+  <event_mention id="em-819" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="167" length="7">Bombing</trigger>
+  </event_mention>
+  <event_mention id="em-829" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1961" length="7">attacks</trigger>
+  </event_mention>
+  <event_mention id="em-885" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="725" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-894" type="conflict" subtype="attack" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="398" length="9">detonated</trigger>
+  </event_mention>
+  <event_mention id="em-898" type="conflict" subtype="attack" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="2858" length="10">Terrorists</trigger>
+  </event_mention>
+  <event_mention id="em-941" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="1045" length="6">counts</trigger>
+  </event_mention>
+  <event_mention id="em-969" type="life" subtype="die" realis="generic">
+    <trigger source="78f345e55468c3412e4a4afe839d9121" offset="647" length="9">deadliest</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,69 @@
+T1	Business_Declare-Bankruptcy 351 373	go into administration
+E1	Business_Declare-Bankruptcy:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 394 400	bought
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 626 633	contact
+E3	Contact_Communicate:T3 
+A3	Realis E3 Other
+T4	Contact_Communicate 743 747	said
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 780 784;795 801	give a call
+E5	Contact_Communicate:T5 
+A5	Realis E5 Other
+T6	Contact_Communicate 1752 1760	comments
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Business_Declare-Bankruptcy 157 166	gone bust
+E7	Business_Declare-Bankruptcy:T7 
+A7	Realis E7 Actual
+T8	Business_End-Org 200 207	closing
+E8	Business_End-Org:T8 
+A8	Realis E8 Other
+T9	Contact_Communicate 284 288	call
+E9	Contact_Communicate:T9 
+A9	Realis E9 Other
+T10	Contact_Communicate 304 308	call
+E10	Contact_Communicate:T10 
+A10	Realis E10 Other
+T11	Business_Start-Org 484 488	open
+E11	Business_Start-Org:T11 
+A11	Realis E11 Actual
+T13	Business_Declare-Bankruptcy 1005 1014	gone bust
+E13	Business_Declare-Bankruptcy:T13 
+A13	Realis E13 Actual
+T14	Business_End-Org 1048 1055	closing
+E14	Business_End-Org:T14 
+A14	Realis E14 Other
+T15	Contact_Communicate 1132 1136	call
+E15	Contact_Communicate:T15 
+A15	Realis E15 Other
+T16	Contact_Communicate 1152 1156	call
+E16	Contact_Communicate:T16 
+A16	Realis E16 Other
+T17	Business_Declare-Bankruptcy 1234 1256	go into administration
+E17	Business_Declare-Bankruptcy:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 1277 1283	bought
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Actual
+T19	Business_Start-Org 1367 1371	open
+E19	Business_Start-Org:T19 
+A19	Realis E19 Actual
+T20	Business_Start-Org 1397 1411	up and running
+E20	Business_Start-Org:T20 
+A20	Realis E20 Actual
+T21	Contact_Communicate 1509 1516	contact
+E21	Contact_Communicate:T21 
+A21	Realis E21 Other
+T22	Contact_Communicate 1626 1630	said
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Contact_Communicate 1663 1667;1678 1684	give a call
+E23	Contact_Communicate:T23 
+A23	Realis E23 Other
+T12	Business_Start-Org 514 528	up and running
+E12	Business_Start-Org:T12 
+A12	Realis E12 Actual

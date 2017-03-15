@@ -1,0 +1,48 @@
+T1	Personnel_End-Position 118 124	Former
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 188 194	Former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Justice_Acquit 221 238	judged not guilty
+E3	Justice_Acquit:T3 
+A3	Realis E3 Actual
+T4	Justice_Acquit 325 342	judged not guilty
+E4	Justice_Acquit:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 292 298	Former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 414 420	former
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 465 472	accused
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Justice_Acquit 531 538	cleared
+E8	Justice_Acquit:T8 
+A8	Realis E8 Actual
+T9	Justice_Acquit 621 626;647 656	ruled no guilty
+E9	Justice_Acquit:T9 
+A9	Realis E9 Actual
+T10	Justice_Charge-Indict 672 679	charges
+E10	Justice_Charge-Indict:T10 
+A10	Realis E10 Actual
+T11	Justice_Trial-Hearing 723 728	trial
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Justice_Acquit 795 801	ruling
+E12	Justice_Acquit:T12 
+A12	Realis E12 Actual
+T13	Justice_Trial-Hearing 1017 1022	trial
+E13	Justice_Trial-Hearing:T13 
+A13	Realis E13 Actual
+T14	Justice_Acquit 1041 1045;1066 1069;1071 1077	find not guilty
+E14	Justice_Acquit:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 476 486	embezzling
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T16	Justice_Charge-Indict 557 564	charges
+E16	Justice_Charge-Indict:T16 
+A16	Realis E16 Actual

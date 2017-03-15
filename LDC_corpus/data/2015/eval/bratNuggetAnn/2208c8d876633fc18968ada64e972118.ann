@@ -1,0 +1,78 @@
+T1	Justice_Release-Parole 643 650	Liberez
+E24	Justice_Release-Parole:T1
+A1	Realis E24 Other
+T2	Life_Marry 180 188	marriage
+E36	Life_Marry:T2
+A2	Realis E36 Generic
+T3	Conflict_Demonstrate 152 162	protesters
+E84	Conflict_Demonstrate:T3
+A3	Realis E84 Actual
+T4	Movement_Transport-Person 329 336	landing
+E160	Movement_Transport-Person:T4
+A4	Realis E160 Actual
+T5	Justice_Arrest-Jail 839 845	prison
+E163	Justice_Arrest-Jail:T5
+A5	Realis E163 Other
+T6	Justice_Arrest-Jail 998 1004	caught
+E260	Justice_Arrest-Jail:T6
+A6	Realis E260 Actual
+T7	Movement_Transport-Person 505 517	disembarking
+E273	Movement_Transport-Person:T7
+A7	Realis E273 Actual
+T8	Movement_Transport-Person 1775 1783	landings
+E282	Movement_Transport-Person:T8
+A8	Realis E282 Actual
+T9	Conflict_Demonstrate 494 504	protesters
+E308	Conflict_Demonstrate:T9
+A9	Realis E308 Actual
+T10	Movement_Transport-Person 195 202	landing
+E309	Movement_Transport-Person:T10
+A10	Realis E309 Actual
+T11	Conflict_Demonstrate 203 210	protest
+E322	Conflict_Demonstrate:T11
+A11	Realis E322 Actual
+T12	Life_Marry 921 929	marriage
+E343	Life_Marry:T12
+A12	Realis E343 Generic
+T13	Business_Start-Org 230 236	formed
+E345	Business_Start-Org:T13
+A13	Realis E345 Actual
+T14	Contact_Broadcast 439 445	posted
+E407	Contact_Broadcast:T14
+A14	Realis E407 Actual
+T15	Conflict_Demonstrate 819 826	protest
+E459	Conflict_Demonstrate:T15
+A15	Realis E459 Actual
+T16	Life_Marry 402 410	marriage
+E488	Life_Marry:T16
+A16	Realis E488 Generic
+T17	Conflict_Demonstrate 930 943	demonstration
+E549	Conflict_Demonstrate:T17
+A17	Realis E549 Actual
+T18	Life_Marry 278 286	marriage
+E589	Life_Marry:T18
+A18	Realis E589 Generic
+T19	Justice_Arrest-Jail 694 700	jailed
+E662	Justice_Arrest-Jail:T19
+A19	Realis E662 Actual
+T20	Movement_Transport-Person 949 953	fled
+E688	Movement_Transport-Person:T20
+A20	Realis E688 Actual
+T21	Life_Marry 746 754	marriage
+E690	Life_Marry:T21
+A21	Realis E690 Generic
+T22	Conflict_Demonstrate 676 685	protester
+E800	Conflict_Demonstrate:T22
+A22	Realis E800 Generic
+T23	Conflict_Demonstrate 1617 1624	protest
+E871	Conflict_Demonstrate:T23
+A23	Realis E871 Actual
+T24	Conflict_Demonstrate 240 247	protest
+E894	Conflict_Demonstrate:T24
+A24	Realis E894 Other
+T25	Contact_Meet 971 975	gave
+E949	Contact_Meet:T25
+A25	Realis E949 Actual
+T26	Conflict_Demonstrate 730 737	protest
+E978	Conflict_Demonstrate:T26
+A26	Realis E978 Actual

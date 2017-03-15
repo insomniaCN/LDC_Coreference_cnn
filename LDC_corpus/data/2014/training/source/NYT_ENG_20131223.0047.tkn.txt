@@ -1,0 +1,31 @@
+<DOC id= " NYT_ENG_20131223.0047 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20131223 / 20131223,46d12bdb54b64ff7bd41b77c91e9572f . xml " > 
+<HEADLINE> 
+VIOLENCE ACROSS SYRIA LEAVES DOZENS DEAD 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+BEIRUT - At least 25 people were killed in the northern Syrian city of Aleppo on Sunday , anti-government activists reported , in the eighth straight day of intense government bombardment of rebel - held areas there , while a suicide car bombing that the state news media blamed on insurgents killed at least 10 people in the central province of Homs .
+< / P> 
+<P> 
+Even as preparations are being made for internationally sponsored peace talks scheduled for late January , violence in Syria appears , if anything , to have escalated in recent weeks . Rebel and government groups have each been accused of massacring civilians , and the government has stepped up air attacks on Aleppo with barrages of improvised “ barrel bombs ” packed with high explosives that activists say have killed more than 200 people .
+< / P> 
+<P> 
+Video from Aleppo posted by activists showed a red fireball over a neighborhood , body parts and people digging frantically through the rubble as sirens wailed in the background . An anti-government group , the Aleppo Media Center , put the death toll at 32 , while the Syrian Observatory for Human Rights , which tracks the conflict through a network of contacts in Syria , said it was 25 , with others in critical condition .
+< / P> 
+<P> 
+The government has said it is targeting “ terrorist ” insurgents in Aleppo , while residents and activists have said that , in recent days , the bombings have mainly killed civilians in some of the fiercest attacks there in months .
+< / P> 
+<P> 
+In Homs , the state news media and anti-government activists said the bombing struck near a primary school in a village . Syrian state news media said five schoolchildren and five other people were killed there . The Syrian Observatory put the toll at 12 and said the bombing was aimed at a school where displaced Shiite Muslims had been staying .
+< / P> 
+<P> 
+As a conflict that began with demands for political rights takes on a more sectarian tone , many insurgent groups have ratcheted up anti-Shiite statements , equating Syria ’s tiny Shiite minority with Shiite powers like Iran and the Lebanese militia Hezbollah , which support the Syrian president , Bashar Assad .
+< / P> 
+<P> 
+The peace talks are scheduled to start Jan . 22 in Switzerland , but the government appears to be pressing its hand militarily as the opposition seems more divided than ever . The war has killed more than 120,000 people , according to the Syrian Observatory for Human Rights , and the United Nations said that nearly 9 million people , more than a third of the country ’s population , had been driven from their homes .
+< / P> 
+< / TEXT> 
+< / DOC

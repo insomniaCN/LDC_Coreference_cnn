@@ -1,0 +1,94 @@
+T1	Personnel_End-Position 172 178	FORMER
+E187	Personnel_End-Position:T1
+A1	Realis E187 Actual
+T2	Personnel_End-Position 392 400	resigned
+E908	Personnel_End-Position:T2
+A2	Realis E908 Actual
+T3	Personnel_End-Position 925 932	leaving
+E764	Personnel_End-Position:T3
+A3	Realis E764 Actual
+T4	Personnel_Nominate 285 294	appointed
+E825	Personnel_Nominate:T4
+A4	Realis E825 Actual
+T5	Personnel_Nominate 494 505	appointment
+E392	Personnel_Nominate:T5
+A5	Realis E392 Actual
+T6	Personnel_Nominate 188 195	EMERGES
+E99	Personnel_Nominate:T6
+A6	Realis E99 Other
+T7	Personnel_End-Position 590 599	departure
+E369	Personnel_End-Position:T7
+A7	Realis E369 Actual
+T8	Personnel_End-Position 1819 1828	step down
+E24	Personnel_End-Position:T8
+A8	Realis E24 Other
+T9	Contact_Meet 707 714	meeting
+E894	Contact_Meet:T9
+A9	Realis E894 Actual
+T10	Personnel_Start-Position 949 955	become
+E474	Personnel_Start-Position:T10
+A10	Realis E474 Actual
+T11	Personnel_End-Position 1068 1077	step down
+E263	Personnel_End-Position:T11
+A11	Realis E263 Other
+T12	Personnel_Nominate 1149 1158	appointed
+E321	Personnel_Nominate:T12
+A12	Realis E321 Other
+T13	Business_Merge-Org 1380 1388	takeover
+E490	Business_Merge-Org:T13
+A13	Realis E490 Actual
+T14	Business_Merge-Org 1532 1538	merged
+E270	Business_Merge-Org:T14
+A14	Realis E270 Actual
+T15	Contact_Broadcast 1183 1192	statement
+E912	Contact_Broadcast:T15
+A15	Realis E912 Actual
+T16	Contact_Broadcast 1498 1507	announced
+E868	Contact_Broadcast:T16
+A16	Realis E868 Actual
+T17	Personnel_End-Position 1520 1527	leaving
+E132	Personnel_End-Position:T17
+A17	Realis E132 Other
+T18	Personnel_End-Position 1627 1635	departed
+E387	Personnel_End-Position:T18
+A18	Realis E387 Actual
+T19	Contact_Broadcast 1671 1680	announced
+E608	Contact_Broadcast:T19
+A19	Realis E608 Actual
+T20	Personnel_End-Position 1685 1696	resignation
+E756	Personnel_End-Position:T20
+A20	Realis E756 Other
+T21	Personnel_End-Position 1728 1734	former
+E136	Personnel_End-Position:T21
+A21	Realis E136 Actual
+T22	Contact_Contact 1805 1809	said
+E741	Contact_Contact:T22
+A22	Realis E741 Actual
+T23	Transaction_Transfer-Money 1980 1987	bonuses
+E346	Transaction_Transfer-Money:T23
+A23	Realis E346 Other
+T24	Transaction_Transfer-Money 2465 2472	bonuses
+E276	Transaction_Transfer-Money:T24
+A24	Realis E276 Other
+T25	Personnel_Nominate 2153 2164	reappointed
+E993	Personnel_Nominate:T25
+A25	Realis E993 Other
+T26	Contact_Contact 2175 2179	told
+E847	Contact_Contact:T26
+A26	Realis E847 Actual
+T27	Contact_Broadcast 2427 2436	statement
+E938	Contact_Broadcast:T27
+A27	Realis E938 Actual
+T28	Contact_Broadcast 2545 2554	announced
+E510	Contact_Broadcast:T28
+A28	Realis E510 Actual
+T29	Transaction_Transfer-Money 2571 2576	costs
+E473	Transaction_Transfer-Money:T29
+A29	Realis E473 Generic
+R1	Coreference Arg1:E187 Arg2:E908
+R2	Coreference Arg1:E908 Arg2:E764
+R3	Coreference Arg1:E99 Arg2:E825
+R4	Coreference Arg1:E825 Arg2:E392
+R5	Coreference Arg1:E369 Arg2:E24
+R6	Coreference Arg1:E490 Arg2:E270
+R7	Coreference Arg1:E346 Arg2:E276

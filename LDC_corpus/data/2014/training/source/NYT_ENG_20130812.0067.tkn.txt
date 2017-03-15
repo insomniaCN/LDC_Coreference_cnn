@@ -1,0 +1,40 @@
+<DOC id= " NYT_ENG_20130812.0067 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130812 / 20130812,53665dbfba35d77f2ee88538f8978 ac9 . xml " > 
+<HEADLINE> 
+ACCUSED WAR CRIMINAL , 98 , DIES AWAITING TRIAL 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EDS : ADDS and SUBS three grafs at end , beginning “ Efraim Zuroff , the director ... ” ; MINOR edits . ) ; ( This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+LONDON - A 98 - year - old man whose name figured prominently on an authoritative list of suspected Nazi war criminals died over the weekend in Budapest while awaiting trial , his lawyer said Monday .
+< / P> 
+<P> 
+The man , Laszlo Csatary , was charged in June with having “ intentionally assisted the unlawful executions and tortures committed against Jewish people ” for his role in the deportation of Jews from the ghetto in Kassa , now called Kosice , in eastern Slovakia , according to prosecutors . He had denied the accusations .
+< / P> 
+<P> 
+His lawyer , Gabor Horvath , told news agencies in Budapest on Monday that the Hungarian - born Csatary died in a hospital of pneumonia Saturday . Csatary ranked high on an annual list compiled by the Simon Wiesenthal Center of the most - wanted Nazi criminals . In 1948 , he was tried in absentia and sentenced to death in what was then Czechoslovakia , but , according to the Wiesenthal Center , he fled to Canada and obtained citizenship .
+< / P> 
+<P> 
+In 1997 , the Canadian authorities accused him of lying to immigration officials about his wartime activities and stripped him of citizenship . He left the country , and people trying to discover his whereabouts lost track of him until he was discovered living in Budapest in 2011 . He was detained there in July 2012 .
+< / P> 
+<P> 
+The Hungarian indictment said that in May 1944 , Csatary was the commander of a concentration camp in Kosice , where Jews were collected for deportation .
+< / P> 
+<P> 
+Csatary “ regularly beat the interned Jews with his bare hands and whipped them with a dog - whip without any special reasons and irrespective of the sex , age or health condition of the assaulted people , ” the indictment said .
+< / P> 
+<P> 
+The charges against Csatary reflected a broader debate in Hungary over how to assess the country ’s role in World War II , when the country was an ally of Germany .
+< / P> 
+<P> 
+Efraim Zuroff , the director of the Jersualem office of the Wiesenthal Center and its chief Nazi - hunter , described the trial of Csatary as “ a way of showing good will and doing the right thing . ” 
+< / P> 
+<P> 
+After word of Csatary ’s death emerged Monday , Zuroff said his organization was “ deeply disappointed ” that Csatary had died weeks before he was to face trial and had “ ultimately eluded justice and punishment at the very last minute . ” 
+< / P> 
+<P> 
+Csatary ’s death left nine names on the Wiesenthal Center ’s list , suspected war criminals living in the United States , Canada , Germany and Estonia . But , Zuroff said in a telephone interview , “ They are just the tip of the iceberg . ” 
+< / P> 
+< / TEXT> 
+< / DOC

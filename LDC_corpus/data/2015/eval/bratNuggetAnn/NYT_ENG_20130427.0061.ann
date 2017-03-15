@@ -1,0 +1,69 @@
+T1	Contact_Contact 1884 1888	said
+E40	Contact_Contact:T1
+A1	Realis E40 Actual
+T2	Contact_Contact 1716 1720	said
+E49	Contact_Contact:T2
+A2	Realis E49 Actual
+T3	Transaction_Transfer-Ownership 1742 1749	provide
+E70	Transaction_Transfer-Ownership:T3
+A3	Realis E70 Other
+T4	Contact_Contact 1469 1473	said
+E104	Contact_Contact:T4
+A4	Realis E104 Actual
+T5	Contact_Contact 564 568	said
+E150	Contact_Contact:T5
+A5	Realis E150 Actual
+T6	Contact_Contact 1232 1236	said
+E155	Contact_Contact:T6
+A6	Realis E155 Actual
+T7	Movement_Transport-Person 1818 1823	moved
+E189	Movement_Transport-Person:T7
+A7	Realis E189 Other
+T8	Movement_Transport-Person 296 300	fled
+E352	Movement_Transport-Person:T8
+A8	Realis E352 Actual
+T9	Contact_Meet 1693 1701	meetings
+E353	Contact_Meet:T9
+A9	Realis E353 Actual
+T10	Movement_Transport-Person 1539 1546	stormed
+E435	Movement_Transport-Person:T10
+A10	Realis E435 Actual
+T11	Life_Die 186 189	DIE
+E442	Life_Die:T11
+A11	Realis E442 Actual
+T12	Manufacture_Artifact 1636 1649	prefabricated
+E545	Manufacture_Artifact:T12
+A12	Realis E545 Generic
+T13	Movement_Transport-Person 1016 1028	displacement
+E638	Movement_Transport-Person:T13
+A13	Realis E638 Generic
+T14	Contact_Contact 463 467	said
+E639	Contact_Contact:T14
+A14	Realis E639 Actual
+T15	Life_Injure 1344 1349	burns
+E670	Life_Injure:T15
+A15	Realis E670 Actual
+T16	Contact_Broadcast 597 604	reports
+E708	Contact_Broadcast:T16
+A16	Realis E708 Actual
+T17	Contact_Contact 890 894	said
+E721	Contact_Contact:T17
+A17	Realis E721 Actual
+T18	Conflict_Attack 311 314	war
+E813	Conflict_Attack:T18
+A18	Realis E813 Actual
+T19	Conflict_Demonstrate 815 822	protest
+E855	Conflict_Demonstrate:T19
+A19	Realis E855 Actual
+T20	Conflict_Attack 808 811	set
+E892	Conflict_Attack:T20
+A20	Realis E892 Actual
+T21	Life_Die 1386 1390	died
+E893	Life_Die:T21
+A21	Realis E893 Actual
+T22	Contact_Meet 1593 1599	demand
+E992	Contact_Meet:T22
+A22	Realis E992 Actual
+T23	Life_Die 329 335	killed
+E999	Life_Die:T23
+A23	Realis E999 Actual

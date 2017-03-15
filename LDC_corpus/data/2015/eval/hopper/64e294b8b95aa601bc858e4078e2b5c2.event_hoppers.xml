@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaa60000000000000158" doc_id="64e294b8b95aa601bc858e4078e2b5c2" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-749" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="349" length="7">testify</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-190" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="372" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-959" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="441" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-309" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="598" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-256" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="412" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-83" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="587" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-9" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="1074" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-16" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="490" length="7">charges</trigger>
+      </event_mention>
+      <event_mention id="em-76" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="732" length="6">counts</trigger>
+      </event_mention>
+      <event_mention id="em-259" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2977" length="5">count</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-278" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="885" length="9">testified</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-182" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="1021" length="8">messages</trigger>
+      </event_mention>
+      <event_mention id="em-638" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="1901" length="8">messages</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-176">
+      <event_mention id="em-113" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="1310" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-217">
+      <event_mention id="em-377" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2176" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-232">
+      <event_mention id="em-780" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2278" length="9">testified</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-247">
+      <event_mention id="em-628" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2194" length="7">request</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-262">
+      <event_mention id="em-81" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2355" length="7">testify</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-277">
+      <event_mention id="em-237" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2518" length="8">messages</trigger>
+      </event_mention>
+      <event_mention id="em-663" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2737" length="8">messages</trigger>
+      </event_mention>
+      <event_mention id="em-696" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2898" length="8">exchange</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-305">
+      <event_mention id="em-339" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2823" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-333">
+      <event_mention id="em-25" type="justice" subtype="convict" realis="other">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2912" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-348">
+      <event_mention id="em-6" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2961" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-363">
+      <event_mention id="em-88" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="3001" length="9">probation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-378">
+      <event_mention id="em-492" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="3244" length="10">Doing time</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-432">
+      <event_mention id="em-52" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="1100" length="9">testimony</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-473">
+      <event_mention id="em-516" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="1918" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-514">
+      <event_mention id="em-639" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="64e294b8b95aa601bc858e4078e2b5c2" offset="2572" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

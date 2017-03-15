@@ -1,0 +1,41 @@
+T1	Business_Declare-Bankruptcy 108 118	bankruptcy
+E1	Business_Declare-Bankruptcy:T1 
+A1	Realis E1 Generic
+T2	Business_Declare-Bankruptcy 156 168	bankruptcies
+E2	Business_Declare-Bankruptcy:T2 
+A2	Realis E2 Generic
+T3	Business_Declare-Bankruptcy 241 253	bankruptcies
+E3	Business_Declare-Bankruptcy:T3 
+A3	Realis E3 Generic
+T4	Business_Declare-Bankruptcy 355 367	bankruptcies
+E4	Business_Declare-Bankruptcy:T4 
+A4	Realis E4 Generic
+T5	Business_Declare-Bankruptcy 576 588	bankruptcies
+E5	Business_Declare-Bankruptcy:T5 
+A5	Realis E5 Generic
+T6	Business_Declare-Bankruptcy 844 857	went bankrupt
+E6	Business_Declare-Bankruptcy:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 869 883	incurred debts
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Money 1049 1062	debt incurred
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+A9	Realis E9 Actual
+T10	Business_Declare-Bankruptcy 1312 1331	declared bankruptcy
+E10	Business_Declare-Bankruptcy:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 1549 1557	spending
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Generic
+T12	Transaction_Transfer-Money 1655 1660;1662 1671	loans taken out
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic
+A14	Questionable E3 Realis
+A15	Questionable E4 Realis
+T13	Transaction_Transfer-Money 1859 1869	investment
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Generic
+T9	Business_Declare-Bankruptcy 1076 1081;1083 1091	going bankrupt
+E9	Business_Declare-Bankruptcy:T9 

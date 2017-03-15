@@ -1,0 +1,49 @@
+<DOC id="NYT_ENG_20131025.0030" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20131025/20131025,1a4222cc79e962764e8fb99b9c0c4a58.xml">
+<HEADLINE>
+LAW FIRMS ORRICK AND PILLSBURY IN MERGER TALKS
+</HEADLINE>
+<TEXT>
+<P>
+The law firms Orrick Herrington &amp; Sutcliffe and Pillsbury Winthrop Shaw Pittman are in advanced merger talks, with an announcement of a deal expected as early as next week.
+</P>
+<P>
+A combination would create one of the country’s 10 largest firms with about 1,700 lawyers. The discussions underscore the pressure on corporate law firms to grow their businesses amid persistently soft demand for legal services and the increasing globalization of the corporate law industry.
+</P>
+<P>
+“Our firms are in exploratory discussions about a possible combination,” James Rishwain, the chairman of Pillsbury, and Mitch Zuklie, the chairman of Orrick, said in a joint statement. “These talks are serving to confirm the great respect our firms have for each other.”
+</P>
+<P>
+People close to the talks said that the deal could still fall apart but that they were far along. Typically, the executive committees of each firm agree to the main terms of a merger and then the entire partnerships vote at a later date. The news was first reported by Reuters.
+</P>
+<P>
+Mergers among the nation’s 100 largest firms once occurred infrequently, and marriages involving top firms were rarer still. But today, firms are under pressure to add to their practices quickly to break into new geographic markets and practice areas. And some legal industry studies have concluded that size matters in corporate law - the larger the firm, the stronger the brand.
+</P>
+<P>
+Law firm mergers are booming, and a combination of Orrick and Pillsbury would be the year’s largest. Fifty-eight law firms had announced mergers as of the end of September, a 41 percent increase from the same period last year, according to survey by Altman Weil, a legal industry consulting firm.
+</P>
+<P>
+In 2012, the large Houston firm, Fulbright &amp; Jaworksi, joined forces with Norton Rose in Britain, creating a firm of nearly 4,000 lawyers. Dentons, a firm of about 2,500 lawyers, is in talks to acquire McKenna Long &amp; Aldridge in a deal that would push its lawyer count to more than 3,000.
+</P>
+<P>
+But law firm mergers carry significant risk.
+</P>
+<P>
+For starters, there is a possibility that the leaking of merger talks can have a destabilizing effect on the firms involved, leading to defections by important partners who may disapprove of a deal or fear a lesser role - or less compensation - at the combined firm.
+</P>
+<P>
+Big law firm deals have a mixed track record and often result in power struggles and cultural clashes. Most infamously, the 2007 merger of Dewey Ballantine and LeBoeuf Lamb Greene &amp; MacRae - the largest merger of New York law firms in history - was a fiasco. Last year, the combined firm, Dewey &amp; LeBoeuf, collapsed in bankruptcy amid financial mismanagement and partner defections.
+</P>
+<P>
+In 2006, Orrick had flirted with possible disaster when it had agreed to the main terms of a combination with Dewey Ballantine, but the deal fell apart after several top partners jumped ship when merger talks were leaked.
+</P>
+<P>
+Orrick, with 1,100 lawyers, has talked with several firms over the past decade but never made it to the altar. Pillsbury, too, recently discussed a deal with Fulbright.
+</P>
+<P>
+Although today each has offices across the globe, both Orrick’s and Pillsbury’s historical roots are firmly grounded on the West Coast. Each was started in San Francisco in the 1860s in the wake of the California gold rush.
+</P>
+<P>
+A merger would create a formidable presence in Silicon Valley, which has become an area of expansion for corporate firms. In Washington, Pillsbury has an especially strong nuclear energy practice, another hot practice area.
+</P>
+</TEXT>
+</DOC>

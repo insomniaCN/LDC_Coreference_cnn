@@ -1,0 +1,51 @@
+T1	Life_Marry 1641 1649	marriage
+E282	Life_Marry:T1
+A1	Realis E282 Generic
+T2	Contact_Correspondence 1385 1392	respond
+E284	Contact_Correspondence:T2
+A2	Realis E284 Other
+T3	Life_Marry 377 385	marriage
+E459	Life_Marry:T3
+A3	Realis E459 Actual
+T4	Contact_Correspondence 1408 1412	post
+E463	Contact_Correspondence:T4
+A4	Realis E463 Actual
+T5	Life_Divorce 238 240	ex
+E559	Life_Divorce:T5
+A5	Realis E559 Actual
+T6	Life_Divorce 170 177	divorce
+E613	Life_Divorce:T6
+A6	Realis E613 Generic
+T7	Life_Divorce 1445 1453	divorced
+E659	Life_Divorce:T7
+A7	Realis E659 Actual
+T8	Life_Divorce 260 268	divorced
+E663	Life_Divorce:T8
+A8	Realis E663 Actual
+T9	Life_Marry 724 731	married
+E674	Life_Marry:T9
+A9	Realis E674 Actual
+T10	Life_Divorce 389 392	end
+E721	Life_Divorce:T10
+A10	Realis E721 Actual
+T11	Life_Divorce 497 505	divorced
+E735	Life_Divorce:T11
+A11	Realis E735 Actual
+T12	Contact_Contact 1661 1667	spoken
+E800	Contact_Contact:T12
+A12	Realis E800 Other
+T13	Life_Divorce 1031 1039	divorced
+E862	Life_Divorce:T13
+A13	Realis E862 Actual
+T14	Life_Divorce 203 210	divorce
+E888	Life_Divorce:T14
+A14	Realis E888 Generic
+T15	Life_Divorce 619 627	divorced
+E934	Life_Divorce:T15
+A15	Realis E934 Actual
+T16	Life_Divorce 1533 1541	divorced
+E940	Life_Divorce:T16
+A16	Realis E940 Actual
+T17	Contact_Correspondence 1374 1380	poster
+E959	Contact_Correspondence:T17
+A17	Realis E959 Actual

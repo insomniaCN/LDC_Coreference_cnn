@@ -1,0 +1,147 @@
+T1	Contact_Communicate 268 276;303 309	answered emails
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T4	Contact_Communicate 358 365	replied
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 440 449;453 459	exchanges emails
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T7	Contact_Meet 491 495	meet
+E7	Contact_Meet:T7 
+A7	Realis E7 Other
+T8	Movement_Transport-Person 549 555	flight
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Movement_Transport-Person 583 591	transfer
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Other
+T10	Transaction_Transfer-Money 645 649	sent
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 701 706	heard
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 728 732	said
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 742 751	come over
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Other
+T14	Movement_Transport-Person 774 782	embarked
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Ownership 788 802	shopping spree
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 876 879;883 888	got email
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T18	Transaction_Transfer-Money 968 989	needed $ 1500 or £900
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Other
+T19	Contact_Communicate 1011 1018	checked
+E19	Contact_Communicate:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 1080 1089	convinced
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Money 1131 1136;1141 1146	wired money
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1196 1202	arrive
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Other
+T23	Contact_Communicate 1207 1210;1214 1219	got email
+E23	Contact_Communicate:T23 
+A23	Realis E23 Actual
+T24	Movement_Transport-Person 1257 1265	visiting
+E24	Movement_Transport-Person:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 1288 1294	mugged
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Transaction_Transfer-Money 1301 1307;1313 1318	needed money
+E26	Transaction_Transfer-Money:T26 
+A26	Realis E26 Other
+T27	Contact_Meet 1361 1365	meet
+E27	Contact_Meet:T27 
+A27	Realis E27 Other
+T28	Transaction_Transfer-Money 1393 1397	paid
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 1451 1458	show up
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Other
+T30	Contact_Meet 1523 1527	meet
+E30	Contact_Meet:T30 
+A30	Realis E30 Other
+T31	Transaction_Transfer-Money 2115 2122	rake in
+E31	Transaction_Transfer-Money:T31 
+A31	Realis E31 Generic
+T33	Contact_Communicate 2320 2333	communicating
+E33	Contact_Communicate:T33 
+A33	Realis E33 Actual
+T34	Transaction_Transfer-Money 2380 2390	send money
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Generic
+T35	Contact_Meet 2431 2434	met
+E35	Contact_Meet:T35 
+A35	Realis E35 Generic
+T37	Contact_Communicate 2814 2819	heard
+E37	Contact_Communicate:T37 
+A37	Realis E37 Generic
+T38	Transaction_Transfer-Money 2865 2875	send money
+E38	Transaction_Transfer-Money:T38 
+A38	Realis E38 Actual
+T42	Contact_Communicate 3186 3190;3194 3199	gets email
+E42	Contact_Communicate:T42 
+A42	Realis E42 Other
+T44	Transaction_Transfer-Money 3261 3265	send
+E44	Transaction_Transfer-Money:T44 
+A44	Realis E44 Other
+T45	Transaction_Transfer-Ownership 3431 3434;3437 3441	get VISA
+E45	Transaction_Transfer-Ownership:T45 
+A45	Realis E45 Generic
+T46	Movement_Transport-Person 3445 3450	visit
+E46	Movement_Transport-Person:T46 
+A46	Realis E46 Generic
+T47	Life_Marry 3734 3743	marriages
+E47	Life_Marry:T47 
+A47	Realis E47 Generic
+T48	Conflict_Attack 3808 3814	mugged
+E48	Conflict_Attack:T48 
+A48	Realis E48 Actual
+T49	Transaction_Transfer-Money 3833 3837;3843 3848	send money
+E49	Transaction_Transfer-Money:T49 
+A49	Realis E49 Other
+T50	Movement_Transport-Person 3868 3875	turn up
+E50	Movement_Transport-Person:T50 
+A50	Realis E50 Actual
+T53	Transaction_Transfer-Ownership 4302 4305;4308 4312	get VISA
+E53	Transaction_Transfer-Ownership:T53 
+A53	Realis E53 Generic
+T54	Movement_Transport-Person 4316 4321	visit
+E54	Movement_Transport-Person:T54 
+A54	Realis E54 Generic
+T62	Life_Marry 4743 4748	marry
+E62	Life_Marry:T62 
+A62	Realis E62 Generic
+T64	Contact_Communicate 5017 5020	say
+E64	Contact_Communicate:T64 
+A64	Realis E64 Actual
+T65	Contact_Communicate 5026 5033	checked
+E65	Contact_Communicate:T65 
+A65	Realis E65 Actual
+T66	Contact_Communicate 5107 5118	run this by
+E66	Contact_Communicate:T66 
+A66	Realis E66 Other
+T68	Contact_Communicate 5594 5598	said
+E68	Contact_Communicate:T68 
+A68	Realis E68 Generic
+T2	Transaction_Transfer-Money 3274 3281;3286 3291	release money
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Other
+T3	Life_Be-Born 5894 5898	born
+E3	Life_Be-Born:T3 
+A3	Realis E3 Generic

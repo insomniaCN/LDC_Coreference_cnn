@@ -1,0 +1,187 @@
+T1	Justice_Convict 135 144	Convicted
+E364	Justice_Convict:T1
+A1	Realis E364 Actual
+T2	Justice_Convict 3379 3388	Convicted
+E536	Justice_Convict:T2
+A2	Realis E536 Actual
+T3	Justice_Arrest-Jail 200 204	jail
+E8	Justice_Arrest-Jail:T3
+A3	Realis E8 Actual
+T4	Justice_Arrest-Jail 3444 3448	jail
+E457	Justice_Arrest-Jail:T4
+A4	Realis E457 Actual
+T5	Conflict_Attack 267 273	beaten
+E448	Conflict_Attack:T5
+A5	Realis E448 Actual
+T6	Conflict_Attack 842 847	fight
+E585	Conflict_Attack:T6
+A6	Realis E585 Actual
+T7	Conflict_Attack 1001 1008	punched
+E803	Conflict_Attack:T7
+A7	Realis E803 Actual
+T8	Conflict_Attack 1154 1162	attacked
+E73	Conflict_Attack:T8
+A8	Realis E73 Actual
+T9	Conflict_Attack 3511 3517	beaten
+E59	Conflict_Attack:T9
+A9	Realis E59 Actual
+T10	Justice_Trial-Hearing 377 384	hearing
+E638	Justice_Trial-Hearing:T10
+A10	Realis E638 Other
+T11	Justice_Trial-Hearing 2728 2736	in court
+E762	Justice_Trial-Hearing:T11
+A11	Realis E762 Other
+T12	Movement_Transport-Person 392 401	returning
+E276	Movement_Transport-Person:T12
+A12	Realis E276 Other
+T13	Justice_Arrest-Jail 543 547	held
+E51	Justice_Arrest-Jail:T13
+A13	Realis E51 Actual
+T14	Contact_Contact 725 729	said
+E49	Contact_Contact:T14
+A14	Realis E49 Actual
+T15	Contact_Meet 822 830	confront
+E148	Contact_Meet:T15
+A15	Realis E148 Actual
+T16	Contact_Contact 945 954	confirmed
+E508	Contact_Contact:T16
+A16	Realis E508 Actual
+T17	Conflict_Attack 980 986	jumped
+E355	Conflict_Attack:T17
+A17	Realis E355 Actual
+T18	Life_Injure 1025 1033	knocking
+E467	Life_Injure:T18
+A18	Realis E467 Actual
+T19	Contact_Broadcast 1142 1146	said
+E204	Contact_Broadcast:T19
+A19	Realis E204 Actual
+T20	Movement_Transport-Person 1195 1209	transportation
+E136	Movement_Transport-Person:T20
+A20	Realis E136 Other
+T21	Justice_Trial-Hearing 1261 1269	hearings
+E823	Justice_Trial-Hearing:T21
+A21	Realis E823 Other
+T22	Justice_Charge-Indict 1474 1481	charges
+E646	Justice_Charge-Indict:T22
+A22	Realis E646 Other
+T23	Life_Injure 1532 1540	injuries
+E178	Life_Injure:T23
+A23	Realis E178 Actual
+T24	Contact_Contact 1645 1654	discussed
+E822	Contact_Contact:T24
+A24	Realis E822 Generic
+T25	Contact_Meet 1749 1758	persuaded
+E159	Contact_Meet:T25
+A25	Realis E159 Actual
+T26	Movement_Transport-Person 1800 1802	go
+E391	Movement_Transport-Person:T26
+A26	Realis E391 Actual
+T27	Contact_Contact 1884 1888	said
+E894	Contact_Contact:T27
+A27	Realis E894 Actual
+T28	Life_Die 2050 2057	suicide
+E620	Life_Die:T28
+A28	Realis E620 Other
+T29	Justice_Sentence 2334 2343	sentenced
+E744	Justice_Sentence:T29
+A29	Realis E744 Actual
+T30	Justice_Sentence 2779 2789	sentencing
+E948	Justice_Sentence:T30
+A30	Realis E948 Actual
+T31	Justice_Arrest-Jail 2367 2373	prison
+E761	Justice_Arrest-Jail:T31
+A31	Realis E761 Other
+T32	Justice_Arrest-Jail 2610 2616	prison
+E561	Justice_Arrest-Jail:T32
+A32	Realis E561 Actual
+T33	Contact_Contact 2415 2419	said
+E91	Contact_Contact:T33
+A33	Realis E91 Actual
+T34	Transaction_Transfer-Ownership 2456 2461	stole
+E365	Transaction_Transfer-Ownership:T34
+A34	Realis E365 Actual
+T35	Movement_Transport-Person 2517 2522	drive
+E615	Movement_Transport-Person:T35
+A35	Realis E615 Other
+T36	Justice_Release-Parole 2563 2571	released
+E393	Justice_Release-Parole:T36
+A36	Realis E393 Actual
+T37	Justice_Release-Parole 2887 2895	released
+E266	Justice_Release-Parole:T37
+A37	Realis E266 Actual
+T38	Movement_Transport-Person 2646 2651	moved
+E422	Movement_Transport-Person:T38
+A38	Realis E422 Actual
+T39	Justice_Arrest-Jail 2861 2873	incarcerated
+E27	Justice_Arrest-Jail:T39
+A39	Realis E27 Other
+T40	Transaction_Transfer-Ownership 2911 2922	distributed
+E855	Transaction_Transfer-Ownership:T40
+A40	Realis E855 Actual
+T41	Movement_Transport-Person 3048 3053	moved
+E138	Movement_Transport-Person:T41
+A41	Realis E138 Actual
+T42	Justice_Arrest-Jail 3164 3172	arrested
+E939	Justice_Arrest-Jail:T42
+A42	Realis E939 Actual
+T43	Conflict_Attack 151 159	molester
+E382	Conflict_Attack:T43
+A43	Realis E382 Actual
+T44	Conflict_Attack 3395 3403	molester
+E221	Conflict_Attack:T44
+A44	Realis E221 Actual
+T45	Movement_Transport-Person 188 194	placed
+E429	Movement_Transport-Person:T45
+A45	Realis E429 Actual
+T46	Movement_Transport-Person 426 429	put
+E738	Movement_Transport-Person:T46
+A46	Realis E738 Actual
+T47	Movement_Transport-Person 3432 3438	placed
+E575	Movement_Transport-Person:T47
+A47	Realis E575 Actual
+T48	Conflict_Attack 232 238	abused
+E31	Conflict_Attack:T48
+A48	Realis E31 Actual
+T49	Conflict_Attack 3476 3482	abused
+E728	Conflict_Attack:T49
+A49	Realis E728 Actual
+T50	Conflict_Attack 609 615	abused
+E401	Conflict_Attack:T50
+A50	Realis E401 Actual
+T51	Conflict_Attack 1857 1865	molested
+E768	Conflict_Attack:T51
+A51	Realis E768 Actual
+T52	Conflict_Attack 2013 2020	assault
+E574	Conflict_Attack:T52
+A52	Realis E574 Actual
+T53	Conflict_Attack 1608 1615	assault
+E98	Conflict_Attack:T53
+A53	Realis E98 Generic
+T54	Contact_Broadcast 1697 1706	interview
+E951	Contact_Broadcast:T54
+A54	Realis E951 Actual
+T55	Contact_Broadcast 1842 1852	threatened
+E901	Contact_Broadcast:T55
+A55	Realis E901 Actual
+T56	Conflict_Attack 2050 2057	suicide
+E691	Conflict_Attack:T56
+A56	Realis E691 Other
+T57	Contact_Contact 2971 2975	said
+E182	Contact_Contact:T57
+A57	Realis E182 Actual
+R1	Coreference Arg1:E364 Arg2:E536
+R2	Coreference Arg1:E8 Arg2:E457
+R3	Coreference Arg1:E448 Arg2:E585
+R4	Coreference Arg1:E585 Arg2:E803
+R5	Coreference Arg1:E803 Arg2:E73
+R6	Coreference Arg1:E73 Arg2:E59
+R7	Coreference Arg1:E638 Arg2:E762
+R8	Coreference Arg1:E744 Arg2:E948
+R9	Coreference Arg1:E761 Arg2:E561
+R10	Coreference Arg1:E393 Arg2:E266
+R11	Coreference Arg1:E382 Arg2:E221
+R12	Coreference Arg1:E429 Arg2:E738
+R13	Coreference Arg1:E738 Arg2:E575
+R14	Coreference Arg1:E31 Arg2:E728
+R15	Coreference Arg1:E401 Arg2:E768
+R16	Coreference Arg1:E768 Arg2:E574

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea8e0000000000000108" doc_id="13ea3b8e0c9ed62df3e580d6a9331372" source_type="multi_post">
+  <event_mention id="em-206" type="contact" subtype="contact" realis="generic" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+    <trigger source="13ea3b8e0c9ed62df3e580d6a9331372" offset="443" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-520" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="13ea3b8e0c9ed62df3e580d6a9331372" offset="522" length="7">brought</trigger>
+  </event_mention>
+  <event_mention id="em-595" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="13ea3b8e0c9ed62df3e580d6a9331372" offset="399" length="4">left</trigger>
+  </event_mention>
+  <event_mention id="em-738" type="movement" subtype="transportartifact" realis="other">
+    <trigger source="13ea3b8e0c9ed62df3e580d6a9331372" offset="782" length="5">bring</trigger>
+  </event_mention>
+  <event_mention id="em-804" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+    <trigger source="13ea3b8e0c9ed62df3e580d6a9331372" offset="962" length="6">talked</trigger>
+  </event_mention>
+  <event_mention id="em-896" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="13ea3b8e0c9ed62df3e580d6a9331372" offset="617" length="6">discus</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

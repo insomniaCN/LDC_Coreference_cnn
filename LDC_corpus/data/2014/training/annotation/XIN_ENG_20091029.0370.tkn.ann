@@ -1,0 +1,57 @@
+T1	Justice_Arrest-Jail 180 186	jailed
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 345 354	sentenced
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T6	Transaction_Transfer-Ownership 612 619	dealing
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Generic
+T8	Justice_Charge-Indict 721 728	accused
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Justice_Fine 794 799	fined
+E9	Justice_Fine:T9 
+A9	Realis E9 Actual
+T12	Justice_Sentence 930 939	sentenced
+E12	Justice_Sentence:T12 
+A12	Realis E12 Actual
+T14	Justice_Fine 1036 1041	fined
+E14	Justice_Fine:T14 
+A14	Realis E14 Actual
+T15	Justice_Charge-Indict 1091 1098	accused
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Actual
+T16	Justice_Fine 1128 1133	fined
+E16	Justice_Fine:T16 
+A16	Realis E16 Actual
+T19	Transaction_Transfer-Ownership 1305 1312	trading
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Ownership 1404 1411	dealing
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Ownership 1482 1489	dealing
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 1574 1579	buyer
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Ownership 1585 1591	seller
+E23	Transaction_Transfer-Ownership:T23 
+A23	Realis E23 Actual
+T24	Transaction_Transfer-Money 1596 1603;1606 1609	charged fee
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Actual
+T26	Transaction_Transfer-Ownership 1620 1624	deal
+E26	Transaction_Transfer-Ownership:T26 
+A26	Realis E26 Actual
+T27	Transaction_Transfer-Money 1649 1666	payment collected
+E27	Transaction_Transfer-Money:T27 
+A27	Realis E27 Actual
+T28	Transaction_Transfer-Money 1726 1733	earning
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Actual
+T29	Transaction_Transfer-Ownership 1756 1763	dealing
+E29	Transaction_Transfer-Ownership:T29 
+A29	Realis E29 Actual

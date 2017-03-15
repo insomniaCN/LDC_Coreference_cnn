@@ -1,0 +1,46 @@
+T1	Movement_Transport-Person 215 220	VISIT
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 253 260	BOMBING
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 337 345	visiting
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 406 413	bombing
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T7	Conflict_Attack 444 450	attack
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T11	Conflict_Attack 867 873	attack
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 897 899	it
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+#1	AnnotatorNotes E12	anaphor
+T21	Movement_Transport-Person 1760 1766	return
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1808 1813	visit
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T26	Movement_Transport-Person 1952 1956	left
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Actual
+T27	Life_Die 2046 2052	killed
+E27	Life_Die:T27 
+A27	Realis E27 Actual
+T30	Transaction_Transfer-Money 2173 2182	purchased
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Other
+T31	Movement_Transport-Person 2215 2219	left
+E31	Movement_Transport-Person:T31 
+A31	Realis E31 Other
+T34	Contact_Meet 2301 2311	conference
+E34	Contact_Meet:T34 
+A34	Realis E34 Actual
+T39	Movement_Transport-Person 2812 2816	came
+E39	Movement_Transport-Person:T39 
+A39	Realis E39 Actual

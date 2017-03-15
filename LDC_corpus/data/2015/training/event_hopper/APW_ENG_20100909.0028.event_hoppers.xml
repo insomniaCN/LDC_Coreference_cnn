@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000556" doc_id="APW_ENG_20100909.0028" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100909.0028" offset="85" length="4">sues</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100909.0028" offset="241" length="7">lawsuit</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100909.0028" offset="341" length="4">sued</trigger>
+      </event_mention>
+      <event_mention id="em-49" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100909.0028" offset="549" length="7">lawsuit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-75">
+      <event_mention id="em-62" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100909.0028" offset="708" length="6">e-mail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-90">
+      <event_mention id="em-77" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100909.0028" offset="780" length="8">answered</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-92" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100909.0028" offset="894" length="5">state</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20100909.0028" offset="576" length="7">berated</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

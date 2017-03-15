@@ -1,0 +1,48 @@
+T1	Life_Die 81 85	dead
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 114 119	clash
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Life_Die 220 224	died
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Life_Injure 230 238	injuries
+E4	Life_Injure:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 267 274	clashed
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T8	Life_Die 434 438	died
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T10	Life_Die 552 556	died
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Life_Injure 615 623	injuries
+E11	Life_Injure:T11 
+A11	Realis E11 Actual
+T12	Life_Injure 679 686	injured
+E12	Life_Injure:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 700 710	demolished
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 744 747;772 778	set ablaze
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T16	Life_Die 853 861	fatality
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Conflict_Attack 919 922	war
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T19	Conflict_Attack 961 969	violence
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 1045 1048	war
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Life_Die 1054 1061;1079 1084	claimed lives
+E21	Life_Die:T21 
+A21	Realis E21 Actual

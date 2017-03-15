@@ -1,0 +1,51 @@
+T1	Contact_Communicate 796 803	chat up
+E1	Contact_Communicate:T1 
+A1	Realis E1 Generic
+T2	Contact_Communicate 878 896	shoulder - rubbing
+E2	Contact_Communicate:T2 
+A2	Realis E2 Generic
+T3	Life_Divorce 1853 1861	divorced
+E3	Life_Divorce:T3 
+A3	Realis E3 Actual
+T4	Business_Start-Org 1982 1987;2011 2019	start business
+E4	Business_Start-Org:T4 
+A4	Realis E4 Other
+T5	Contact_Meet 2238 2243	talks
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 2288 2296	arriving
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Contact_Meet 2351 2357	agreed
+E7	Contact_Meet:T7 
+A7	Realis E7 Actual
+T8	Personnel_Start-Position 2361 2365;2421 2426	give seats
+E8	Personnel_Start-Position:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 479 484	phone
+E9	Contact_Communicate:T9 
+A9	Realis E9 Other
+T10	Contact_Communicate 639 643	call
+E10	Contact_Communicate:T10 
+A10	Realis E10 Other
+T11	Transaction_Transfer-Money 1376 1385	investors
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Generic
+T12	Personnel_End-Position 1664 1671	onetime
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 1730 1739	investing
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Generic
+T14	Business_Declare-Bankruptcy 1842 1850	bankrupt
+E14	Business_Declare-Bankruptcy:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 2023 2030	raising
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 2327 2335	investor
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 2614 2623	investors
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic

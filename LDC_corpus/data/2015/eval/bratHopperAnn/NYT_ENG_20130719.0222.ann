@@ -1,0 +1,75 @@
+T1	Transaction_Transfer-Ownership 201 208	TRADING
+E827	Transaction_Transfer-Ownership:T1
+A1	Realis E827 Generic
+T2	Transaction_Transfer-Ownership 300 307	trading
+E486	Transaction_Transfer-Ownership:T2
+A2	Realis E486 Generic
+T3	Transaction_Transfer-Ownership 494 501	trading
+E325	Transaction_Transfer-Ownership:T3
+A3	Realis E325 Generic
+T4	Transaction_Transfer-Ownership 564 571	trading
+E202	Transaction_Transfer-Ownership:T4
+A4	Realis E202 Generic
+T5	Transaction_Transfer-Ownership 746 753	trading
+E494	Transaction_Transfer-Ownership:T5
+A5	Realis E494 Generic
+T6	Transaction_Transfer-Ownership 982 989	trading
+E970	Transaction_Transfer-Ownership:T6
+A6	Realis E970 Generic
+T7	Transaction_Transfer-Ownership 1207 1214	trading
+E230	Transaction_Transfer-Ownership:T7
+A7	Realis E230 Generic
+T8	Transaction_Transfer-Ownership 1281 1288	trading
+E849	Transaction_Transfer-Ownership:T8
+A8	Realis E849 Generic
+T9	Transaction_Transfer-Ownership 1444 1451	trading
+E845	Transaction_Transfer-Ownership:T9
+A9	Realis E845 Generic
+T10	Transaction_Transfer-Ownership 1654 1661	trading
+E777	Transaction_Transfer-Ownership:T10
+A10	Realis E777 Generic
+T11	Transaction_Transfer-Money 444 452	financed
+E897	Transaction_Transfer-Money:T11
+A11	Realis E897 Generic
+T12	Contact_Correspondence 469 476	letters
+E690	Contact_Correspondence:T12
+A12	Realis E690 Actual
+T13	Contact_Correspondence 658 664	letter
+E382	Contact_Correspondence:T13
+A13	Realis E382 Actual
+T14	Contact_Correspondence 1075 1081	letter
+E396	Contact_Correspondence:T14
+A14	Realis E396 Actual
+T15	Contact_Correspondence 1500 1506	letter
+E277	Contact_Correspondence:T15
+A15	Realis E277 Actual
+T16	Transaction_Transfer-Ownership 851 858	trading
+E261	Transaction_Transfer-Ownership:T16
+A16	Realis E261 Generic
+T17	Transaction_Transfer-Ownership 1036 1043	trading
+E223	Transaction_Transfer-Ownership:T17
+A17	Realis E223 Generic
+T18	Transaction_Transfer-Ownership 1354 1361	trading
+E131	Transaction_Transfer-Ownership:T18
+A18	Realis E131 Generic
+T19	Transaction_Transfer-Money 1384 1388	lost
+E419	Transaction_Transfer-Money:T19
+A19	Realis E419 Actual
+T20	Business_Declare-Bankruptcy 1425 1433	bankrupt
+E455	Business_Declare-Bankruptcy:T20
+A20	Realis E455 Other
+T21	Contact_Broadcast 1608 1614	report
+E243	Contact_Broadcast:T21
+A21	Realis E243 Actual
+R1	Coreference Arg1:E827 Arg2:E486
+R2	Coreference Arg1:E486 Arg2:E325
+R3	Coreference Arg1:E325 Arg2:E202
+R4	Coreference Arg1:E202 Arg2:E494
+R5	Coreference Arg1:E494 Arg2:E970
+R6	Coreference Arg1:E970 Arg2:E230
+R7	Coreference Arg1:E230 Arg2:E849
+R8	Coreference Arg1:E849 Arg2:E845
+R9	Coreference Arg1:E845 Arg2:E777
+R10	Coreference Arg1:E690 Arg2:E382
+R11	Coreference Arg1:E382 Arg2:E396
+R12	Coreference Arg1:E396 Arg2:E277

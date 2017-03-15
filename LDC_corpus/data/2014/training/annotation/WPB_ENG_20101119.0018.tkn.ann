@@ -1,0 +1,177 @@
+T1	Justice_Trial-Hearing 75 81	Trials
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Other
+T2	Justice_Acquit 425 434	acquittal
+E2	Justice_Acquit:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 472 482	conviction
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Trial-Hearing 625 630	trial
+E4	Justice_Trial-Hearing:T4 
+A4	Realis E4 Other
+T5	Justice_Trial-Hearing 676 681	trial
+E5	Justice_Trial-Hearing:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 879 887	bombings
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Justice_Trial-Hearing 924 929	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Actual
+T8	Justice_Trial-Hearing 1375 1378	try
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Other
+T9	Justice_Trial-Hearing 1508 1513	trial
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Other
+T10	Justice_Convict 1639 1649	convicting
+E10	Justice_Convict:T10 
+A10	Realis E10 Other
+T11	Justice_Trial-Hearing 1843 1849	trials
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Generic
+T12	Justice_Trial-Hearing 2477 2493	commission trial
+E12	Justice_Trial-Hearing:T12 
+A12	Realis E12 Other
+T13	Justice_Trial-Hearing 2560 2565	trial
+E13	Justice_Trial-Hearing:T13 
+A13	Realis E13 Other
+T14	Justice_Charge-Indict 2611 2617	charge
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Actual
+T15	Justice_Trial-Hearing 3016 3021	tried
+E15	Justice_Trial-Hearing:T15 
+A15	Realis E15 Actual
+T16	Justice_Convict 3075 3086	convictions
+E16	Justice_Convict:T16 
+A16	Realis E16 Generic
+T17	Justice_Appeal 3138 3144	appeal
+E17	Justice_Appeal:T17 
+A17	Realis E17 Generic
+T18	Justice_Trial-Hearing 3241 3247	trials
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Other
+T19	Justice_Trial-Hearing 3313 3318	trial
+E19	Justice_Trial-Hearing:T19 
+A19	Realis E19 Other
+T20	Justice_Convict 3523 3533	convicting
+E20	Justice_Convict:T20 
+A20	Realis E20 Generic
+T21	Justice_Trial-Hearing 3560 3565	trial
+E21	Justice_Trial-Hearing:T21 
+A21	Realis E21 Generic
+T22	Justice_Trial-Hearing 3851 3857	trials
+E22	Justice_Trial-Hearing:T22 
+A22	Realis E22 Generic
+T23	Justice_Trial-Hearing 4132 4138	trying
+E23	Justice_Trial-Hearing:T23 
+A23	Realis E23 Actual
+T24	Justice_Acquit 4455 4464	acquitted
+E24	Justice_Acquit:T24 
+A24	Realis E24 Other
+T25	Justice_Release-Parole 4548 4557	releasing
+E25	Justice_Release-Parole:T25 
+A25	Realis E25 Other
+T26	Justice_Acquit 4702 4711	acquittal
+E26	Justice_Acquit:T26 
+A26	Realis E26 Other
+T27	Justice_Acquit 4842 4851	acquittal
+E27	Justice_Acquit:T27 
+A27	Realis E27 Actual
+T28	Justice_Trial-Hearing 4912 4917	trial
+E28	Justice_Trial-Hearing:T28 
+A28	Realis E28 Other
+T29	Conflict_Attack 5249 5252	war
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Justice_Trial-Hearing 5637 5643	trials
+E30	Justice_Trial-Hearing:T30 
+A30	Realis E30 Generic
+T31	Justice_Trial-Hearing 5706 5712	trials
+E31	Justice_Trial-Hearing:T31 
+A31	Realis E31 Generic
+T32	Justice_Trial-Hearing 5498 5503	trial
+E32	Justice_Trial-Hearing:T32 
+A32	Realis E32 Generic
+T33	Movement_Transport-Person 5327 5336	returning
+E33	Movement_Transport-Person:T33 
+A33	Realis E33 Other
+T34	Justice_Charge-Indict 461 467	counts
+E34	Justice_Charge-Indict:T34 
+A34	Realis E34 Actual
+T35	Justice_Trial-Hearing 569 580	commissions
+E35	Justice_Trial-Hearing:T35 
+A35	Realis E35 Generic
+T36	Justice_Arrest-Jail 658 667	detention
+E36	Justice_Arrest-Jail:T36 
+A36	Realis E36 Generic
+T37	Justice_Trial-Hearing 1100 1106	trials
+E37	Justice_Trial-Hearing:T37 
+A37	Realis E37 Generic
+T38	Justice_Trial-Hearing 1526 1537	commissions
+E38	Justice_Trial-Hearing:T38 
+A38	Realis E38 Generic
+T39	Justice_Trial-Hearing 1912 1922	commission
+E39	Justice_Trial-Hearing:T39 
+A39	Realis E39 Generic
+T40	Justice_Trial-Hearing 2018 2029	commissions
+E40	Justice_Trial-Hearing:T40 
+A40	Realis E40 Generic
+T41	Justice_Trial-Hearing 2407 2417	commission
+E41	Justice_Trial-Hearing:T41 
+A41	Realis E41 Other
+T42	Justice_Trial-Hearing 2678 2689	commissions
+E42	Justice_Trial-Hearing:T42 
+A42	Realis E42 Generic
+T43	Justice_Trial-Hearing 2889 2900	commissions
+E43	Justice_Trial-Hearing:T43 
+A43	Realis E43 Generic
+T44	Justice_Trial-Hearing 3215 3226	commissions
+E44	Justice_Trial-Hearing:T44 
+A44	Realis E44 Generic
+T45	Justice_Arrest-Jail 3295 3304	detention
+E45	Justice_Arrest-Jail:T45 
+A45	Realis E45 Generic
+T46	Justice_Arrest-Jail 3393 3397	held
+E46	Justice_Arrest-Jail:T46 
+A46	Realis E46 Generic
+T47	Justice_Arrest-Jail 3469 3478	detention
+E47	Justice_Arrest-Jail:T47 
+A47	Realis E47 Generic
+T48	Justice_Arrest-Jail 3632 3641	detention
+E48	Justice_Arrest-Jail:T48 
+A48	Realis E48 Generic
+T49	Justice_Arrest-Jail 3801 3810	detention
+E49	Justice_Arrest-Jail:T49 
+A49	Realis E49 Generic
+T50	Justice_Trial-Hearing 4360 4365	trial
+E50	Justice_Trial-Hearing:T50 
+A50	Realis E50 Generic
+T51	Justice_Charge-Indict 4321 4332	prosecution
+E51	Justice_Charge-Indict:T51 
+A51	Realis E51 Actual
+T52	Justice_Charge-Indict 4472 4478	counts
+E52	Justice_Charge-Indict:T52 
+A52	Realis E52 Actual
+T53	Justice_Arrest-Jail 4646 4650;4655 4657;4667 4676	hold in detention
+E53	Justice_Arrest-Jail:T53 
+A53	Realis E53 Other
+T54	Justice_Arrest-Jail 5018 5027	detention
+E54	Justice_Arrest-Jail:T54 
+A54	Realis E54 Generic
+T55	Justice_Arrest-Jail 5264 5273	detention
+E55	Justice_Arrest-Jail:T55 
+A55	Realis E55 Generic
+T56	Justice_Trial-Hearing 5656 5667	commissions
+E56	Justice_Trial-Hearing:T56 
+A56	Realis E56 Generic
+T57	Justice_Trial-Hearing 5908 5913	trial
+E57	Justice_Trial-Hearing:T57 
+A57	Realis E57 Generic
+T58	Justice_Charge-Indict 5979 5991	prosecutions
+E58	Justice_Charge-Indict:T58 
+A58	Realis E58 Generic
+T59	Personnel_End-Position 6168 6174	served
+E59	Personnel_End-Position:T59 
+A59	Realis E59 Actual

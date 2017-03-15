@@ -1,0 +1,40 @@
+<DOC id= " NYT_ENG_20130703.0083 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130703 / 20130703,50953f51c4842f1585c405bb9fe383e3 . xml " > 
+<HEADLINE> 
+MORSI IS OUT AS PRESIDENT , EGYPTIAN STATE MEDIA SAYS 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EDS : SUBS top , PICKUP at “ By 6:30 p.m. military ... ” ; NEW headline ; DELETES last three grafs . ) ; ( This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+CAIRO - Egypt ’s military moved forcefully to seize power from President Mohammed Morsi on Wednesday , deploying tanks and troops in Cairo and other cities , restricting his travel and convening an emergency meeting of top civilian and religious leaders to devise an interim government and lay the groundwork for new elections .
+< / P> 
+<P> 
+Ahramonline , the government ’s official English - language website , said the military had informed Morsi that he was no longer head of state . There was no word on Morsi ’s whereabouts .
+< / P> 
+<P> 
+The military ’s actions came as enormous crowds of the president ’s supporters and opponents filled the streets of the capital and soldiers were deployed in significant numbers to keep the spiraling political crisis from going out of complete control .
+< / P> 
+<P> 
+State radio said that the emergency meeting , which included Mohamed ElBaradei , a prominent Egyptian statesman who has emerged as a leading critic of Morsi , along with top Muslim and Christian leaders , had adjourned after several hours and a “ road map ” for a post-Morsi government would be announced later .
+< / P> 
+<P> 
+The developments followed the lapse of a 48 - hour deadline imposed by the military generals on the increasingly isolated president to meet the demands of millions of Egyptians disaffected with the one - year - old governance of Morsi , the first democratically elected leader of Egypt .
+< / P> 
+<P> 
+By 6:30 p.m. military forces began moving around Cairo . Tanks and troops headed for the presidential palace - although it was unclear whether Morsi was inside - while other soldiers ringed the nearby square where tens of thousands of the president ’s supporters were rallying .
+< / P> 
+<P> 
+Many of the Islamists had armed themselves with makeshift clubs , shields made of potcovers or metal scraps and plastic hard hats , and there were small scuffles with the better - armed soldiers . Some soldiers fired their weapons in the air . But the military forces held back .
+< / P> 
+<P> 
+Morsi ’s senior foreign policy adviser , Essam el - Haddad , issued an open letter Wednesday on his official Web page lamenting what he called the imminent takeover of Egypt ’s first freely elected government .
+< / P> 
+<P> 
+“ As I write these lines I am fully aware that these may be the last lines I get to post on this page , ” he wrote . “ For the sake of Egypt and for historical accuracy , let ’s call what is happening by its real name : Military coup . ” 
+< / P> 
+<P> 
+Security officials said the military ’s intelligence service had banned any travel by Morsi and senior Islamist aides , including the Muslim Brotherhood ’s supreme guide , Mohamed Badie , and his influential deputy , Khairat el - Shater .
+< / P> 
+< / TEXT> 
+< / DOC

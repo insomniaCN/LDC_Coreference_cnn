@@ -1,0 +1,84 @@
+T1	Conflict_Attack 235 244	attacking
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 316 324	attacked
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 353 357;366 370	lock away
+E3	Justice_Arrest-Jail:T3 
+T4	Life_Die 459 463	dead
+E4	Life_Die:T4 
+A3	Realis E4 Actual
+T5	Conflict_Attack 522 530	fighting
+E5	Conflict_Attack:T5 
+A4	Realis E5 Generic
+T6	Life_Die 535 540	dying
+E6	Life_Die:T6 
+A5	Realis E6 Generic
+T7	Conflict_Attack 758 764	fought
+E7	Conflict_Attack:T7 
+A6	Realis E7 Actual
+T8	Conflict_Attack 798 806	fighting
+E8	Conflict_Attack:T8 
+A7	Realis E8 Generic
+T9	Conflict_Attack 835 843	attacked
+E9	Conflict_Attack:T9 
+A8	Realis E9 Generic
+T10	Conflict_Attack 2010 2016	fought
+E10	Conflict_Attack:T10 
+A9	Realis E10 Actual
+T11	Conflict_Attack 2050 2058	fighting
+E11	Conflict_Attack:T11 
+A10	Realis E11 Other
+T12	Conflict_Attack 2087 2095	attacked
+E12	Conflict_Attack:T12 
+A11	Realis E12 Generic
+T13	Conflict_Attack 123 126	war
+E13	Conflict_Attack:T13 
+A12	Realis E13 Generic
+T14	Life_Die 295 304	murdering
+E14	Life_Die:T14 
+A13	Realis E14 Generic
+T15	Justice_Arrest-Jail 335 340	seize
+E15	Justice_Arrest-Jail:T15 
+A14	Realis E15 Actual
+T16	Conflict_Attack 2148 2157	conflicts
+E16	Conflict_Attack:T16 
+A15	Questionable E16 Realis
+A16	Realis E16 Generic
+T17	Personnel_Elect 3690 3699	Elections
+E17	Personnel_Elect:T17 
+A17	Realis E17 Generic
+T18	Personnel_Nominate 4184 4193	nominated
+E18	Personnel_Nominate:T18 
+A18	Realis E18 Actual
+T19	Personnel_Elect 7484 7493	Elections
+E19	Personnel_Elect:T19 
+A19	Realis E19 Generic
+T20	Conflict_Attack 7832 7835	war
+E20	Conflict_Attack:T20 
+A20	Realis E20 Generic
+T21	Conflict_Attack 7939 7942	war
+E21	Conflict_Attack:T21 
+A21	Realis E21 Generic
+T22	Conflict_Attack 8822 8825	war
+E22	Conflict_Attack:T22 
+A22	Realis E22 Generic
+T23	Conflict_Attack 8929 8932	war
+E23	Conflict_Attack:T23 
+A23	Realis E23 Generic
+T24	Conflict_Attack 8974 8977	war
+E24	Conflict_Attack:T24 
+A24	Realis E24 Generic
+T25	Conflict_Attack 9243 9246	war
+E25	Conflict_Attack:T25 
+A25	Realis E25 Generic
+T26	Conflict_Attack 9431 9434	War
+E26	Conflict_Attack:T26 
+A26	Realis E26 Generic
+T27	Conflict_Attack 9480 9483	war
+E27	Conflict_Attack:T27 
+A27	Realis E27 Generic
+T28	Life_Die 9545 9550;9561 9565	lives lost
+E28	Life_Die:T28 
+A28	Realis E28 Other

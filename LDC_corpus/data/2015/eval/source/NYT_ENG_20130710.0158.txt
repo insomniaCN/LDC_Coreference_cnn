@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130710.0158" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130710/20130710,8ea8ff8fbafd8461815b16db7681f545.xml">
+<HEADLINE>
+SOUTH KOREAN MANAGERS RETURN TO SHUTTERED PLANT IN NORTH
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+SEOUL, South Korea - South Korean factory managers returned Wednesday to a shuttered industrial park in North Korea for the first time in two months, as the two governments resumed talks on reopening the complex, once a symbol of inter-Korean economic cooperation.
+</P>
+<P>
+Sixty factory managers from the South arrived in the Kaesong Industrial Zone, in the North Korean border town of the same name, for a day trip to check on their factories, which have been idle since the last of the managers left in late April. North Korea halted production there in early April by withdrawing its 53,000 workers, in part blaming tensions it said were caused by joint U.S.-South Korean military drills at the time.
+</P>
+<P>
+The managers inspected their manufacturing equipment before the possible resumption of operations. More managers planned to visit Kaesong on Thursday.
+</P>
+<P>
+Representatives of the two Korean governments met on the border over the weekend and agreed upon the managers’ return, but they remained far apart over the terms of reopening the complex.
+</P>
+<P>
+Suh Ho, the chief South Korean negotiator, said Wednesday that North Korea must accept “common sense and international standards” in Kaesong before the complex can be “normalized and further developed.”
+</P>
+<P>
+South Korea is urging North Korea to take steps to assure that it will not let political and military disputes interfere again with the factory park’s operation. South Korean President Park Geun-hye has suggested that one step would be for North Korea to agree to invite non-Korean factories to Kaesong.
+</P>
+<P>
+The chief North Korean negotiator, Pak Chol-su, is pressing South Korea to agree to an early resumption of work at the complex, citing fears among factory owners that if their plants were not restarted soon, their equipment would start deteriorating in the monsoon season.
+</P>
+<P>
+The factory managers’ return and the continuing talks were a sign that tensions between the two Koreas were easing after months of hostile exchanges, which peaked when the North threatened to attack the South with nuclear weapons and the South responded with warnings of counterattacks.
+</P>
+<P>
+The Kaesong complex, where textile and electronic parts companies from the South employed low-cost North Korean workers, started producing goods in late 2004. It is the last remaining toehold for South Korea’s efforts from a previous era to use economic cooperation to help the North open up and move toward the reunification of the peninsula.
+</P>
+</TEXT>
+</DOC>

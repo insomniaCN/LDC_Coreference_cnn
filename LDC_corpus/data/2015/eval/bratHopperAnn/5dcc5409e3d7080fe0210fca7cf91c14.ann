@@ -1,0 +1,89 @@
+T1	Conflict_Demonstrate 338 346	protests
+E330	Conflict_Demonstrate:T1
+A1	Realis E330 Actual
+T2	Conflict_Demonstrate 1057 1064	protest
+E588	Conflict_Demonstrate:T2
+A2	Realis E588 Other
+T3	Conflict_Demonstrate 262 270	protests
+E22	Conflict_Demonstrate:T3
+A3	Realis E22 Actual
+T4	Life_Injure 314 321	injured
+E644	Life_Injure:T4
+A4	Realis E644 Actual
+T5	Life_Injure 240 247	injured
+E670	Life_Injure:T5
+A5	Realis E670 Actual
+T6	Conflict_Attack 413 418	fired
+E20	Conflict_Attack:T6
+A6	Realis E20 Actual
+T7	Justice_Arrest-Jail 453 460	arrests
+E981	Justice_Arrest-Jail:T7
+A7	Realis E981 Actual
+T8	Contact_Contact 568 577	described
+E673	Contact_Contact:T8
+A8	Realis E673 Actual
+T9	Life_Die 940 944	lost
+E758	Life_Die:T9
+A9	Realis E758 Other
+T10	Conflict_Demonstrate 1224 1232	protests
+E688	Conflict_Demonstrate:T10
+A10	Realis E688 Other
+T11	Conflict_Demonstrate 1356 1363	protest
+E409	Conflict_Demonstrate:T11
+A11	Realis E409 Generic
+T12	Conflict_Demonstrate 1424 1431	protest
+E566	Conflict_Demonstrate:T12
+A12	Realis E566 Generic
+T13	Conflict_Demonstrate 1475 1482	protest
+E127	Conflict_Demonstrate:T13
+A13	Realis E127 Generic
+T14	Conflict_Attack 1389 1396	beating
+E892	Conflict_Attack:T14
+A14	Realis E892 Generic
+T15	Conflict_Demonstrate 1605 1613	protests
+E459	Conflict_Demonstrate:T15
+A15	Realis E459 Actual
+T16	Conflict_Demonstrate 1650 1657	protest
+E407	Conflict_Demonstrate:T16
+A16	Realis E407 Actual
+T17	Conflict_Demonstrate 1703 1711	uprising
+E625	Conflict_Demonstrate:T17
+A17	Realis E625 Actual
+T18	Conflict_Demonstrate 1728 1738	protestors
+E299	Conflict_Demonstrate:T18
+A18	Realis E299 Actual
+T19	Conflict_Demonstrate 1786 1796	protestors
+E18	Conflict_Demonstrate:T19
+A19	Realis E18 Actual
+T20	Conflict_Demonstrate 1925 1932	protest
+E323	Conflict_Demonstrate:T20
+A20	Realis E323 Actual
+T21	Conflict_Attack 1720 1727	beating
+E231	Conflict_Attack:T21
+A21	Realis E231 Actual
+T22	Conflict_Attack 1011 1019	attacked
+E787	Conflict_Attack:T22
+A22	Realis E787 Generic
+T23	Conflict_Attack 618 626	thuggery
+E379	Conflict_Attack:T23
+A23	Realis E379 Generic
+T24	Conflict_Demonstrate 1615 1620	Riots
+E672	Conflict_Demonstrate:T24
+A24	Realis E672 Actual
+T25	Conflict_Demonstrate 494 501	rioting
+E64	Conflict_Demonstrate:T25
+A25	Realis E64 Actual
+T26	Conflict_Demonstrate 214 219	riots
+E304	Conflict_Demonstrate:T26
+A26	Realis E304 Actual
+R1	Coreference Arg1:E22 Arg2:E330
+R2	Coreference Arg1:E330 Arg2:E588
+R3	Coreference Arg1:E670 Arg2:E644
+R4	Coreference Arg1:E409 Arg2:E566
+R5	Coreference Arg1:E566 Arg2:E127
+R6	Coreference Arg1:E459 Arg2:E407
+R7	Coreference Arg1:E407 Arg2:E625
+R8	Coreference Arg1:E625 Arg2:E299
+R9	Coreference Arg1:E299 Arg2:E18
+R10	Coreference Arg1:E18 Arg2:E323
+R11	Coreference Arg1:E304 Arg2:E64

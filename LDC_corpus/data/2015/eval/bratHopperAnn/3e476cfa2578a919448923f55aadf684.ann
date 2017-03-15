@@ -1,0 +1,75 @@
+T1	Life_Divorce 321 329	divorced
+E696	Life_Divorce:T1
+A1	Realis E696 Actual
+T2	Life_Divorce 424 430	former
+E313	Life_Divorce:T2
+A2	Realis E313 Actual
+T3	Life_Divorce 556 563	divorce
+E904	Life_Divorce:T3
+A3	Realis E904 Actual
+T4	Life_Divorce 657 665	break-up
+E454	Life_Divorce:T4
+A4	Realis E454 Other
+T5	Life_Divorce 1403 1410	divorce
+E365	Life_Divorce:T5
+A5	Realis E365 Actual
+T6	Life_Divorce 1675 1682	divorce
+E102	Life_Divorce:T6
+A6	Realis E102 Actual
+T7	Life_Divorce 4655 4662	divorce
+E965	Life_Divorce:T7
+A7	Realis E965 Actual
+T8	Life_Marry 733 741	marriage
+E526	Life_Marry:T8
+A8	Realis E526 Actual
+T9	Life_Marry 836 843	married
+E244	Life_Marry:T9
+A9	Realis E244 Actual
+T10	Contact_Broadcast 505 514	announced
+E234	Contact_Broadcast:T10
+A10	Realis E234 Actual
+T11	Life_Beborn 751 755	bore
+E767	Life_Beborn:T11
+A11	Realis E767 Actual
+T12	Life_Marry 815 824	marriages
+E943	Life_Marry:T12
+A12	Realis E943 Actual
+T13	Life_Marry 910 917	married
+E932	Life_Marry:T13
+A13	Realis E932 Actual
+T14	Personnel_Nominate 1018 1022	heir
+E664	Personnel_Nominate:T14
+A14	Realis E664 Actual
+T15	Transaction_Transfer-Money 2661 2665	give
+E662	Transaction_Transfer-Money:T15
+A15	Realis E662 Generic
+T16	Transaction_Transfer-Money 2732 2736	take
+E554	Transaction_Transfer-Money:T16
+A16	Realis E554 Generic
+T17	Transaction_Transfer-Money 3226 3230	give
+E237	Transaction_Transfer-Money:T17
+A17	Realis E237 Generic
+T18	Transaction_Transfer-Money 3297 3301	take
+E594	Transaction_Transfer-Money:T18
+A18	Realis E594 Generic
+T19	Transaction_Transfer-Money 3994 3998	give
+E894	Transaction_Transfer-Money:T19
+A19	Realis E894 Generic
+T20	Transaction_Transfer-Money 4065 4069	take
+E222	Transaction_Transfer-Money:T20
+A20	Realis E222 Generic
+T21	Contact_Contact 1052 1056	word
+E853	Contact_Contact:T21
+A21	Realis E853 Other
+R1	Coreference Arg1:E696 Arg2:E313
+R2	Coreference Arg1:E313 Arg2:E904
+R3	Coreference Arg1:E904 Arg2:E454
+R4	Coreference Arg1:E454 Arg2:E365
+R5	Coreference Arg1:E365 Arg2:E102
+R6	Coreference Arg1:E102 Arg2:E965
+R7	Coreference Arg1:E526 Arg2:E244
+R8	Coreference Arg1:E662 Arg2:E554
+R9	Coreference Arg1:E554 Arg2:E237
+R10	Coreference Arg1:E237 Arg2:E594
+R11	Coreference Arg1:E594 Arg2:E894
+R12	Coreference Arg1:E894 Arg2:E222

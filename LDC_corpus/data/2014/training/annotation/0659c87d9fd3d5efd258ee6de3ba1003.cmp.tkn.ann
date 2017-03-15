@@ -1,0 +1,18 @@
+T1	Justice_Arrest-Jail 335 343	arrested
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 800 807	selling
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Money 1482 1487	given
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 1550 1554	paid
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Business_Merge-Org 1799 1804	merge
+E5	Business_Merge-Org:T5 
+A5	Realis E5 Actual
+T6	Personnel_Start-Position 1593 1601	employed
+E6	Personnel_Start-Position:T6 
+A6	Realis E6 Actual

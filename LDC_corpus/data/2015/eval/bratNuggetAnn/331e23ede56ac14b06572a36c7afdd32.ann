@@ -1,0 +1,48 @@
+T1	Transaction_Transfer-Money 879 884	sales
+E7	Transaction_Transfer-Money:T1
+A1	Realis E7 Actual
+T2	Life_Die 1240 1244	died
+E82	Life_Die:T2
+A2	Realis E82 Actual
+T3	Transaction_Transfer-Money 576 580	sold
+E91	Transaction_Transfer-Money:T3
+A3	Realis E91 Actual
+T4	Life_Die 565 569	died
+E130	Life_Die:T4
+A4	Realis E130 Actual
+T5	Contact_Contact 1399 1408	interview
+E233	Contact_Contact:T5
+A5	Realis E233 Actual
+T6	Transaction_Transfer-Money 303 309	bought
+E442	Transaction_Transfer-Money:T6
+A6	Realis E442 Actual
+T7	Transaction_Transfer-Ownership 441 449	acquired
+E496	Transaction_Transfer-Ownership:T7
+A7	Realis E496 Actual
+T8	Life_Marry 262 269	married
+E509	Life_Marry:T8
+A8	Realis E509 Actual
+T9	Business_Start-Org 1015 1022	founded
+E512	Business_Start-Org:T9
+A9	Realis E512 Actual
+T10	Transaction_Transfer-Ownership 879 884	sales
+E589	Transaction_Transfer-Ownership:T10
+A10	Realis E589 Actual
+T11	Transaction_Transfer-Money 441 449	acquired
+E602	Transaction_Transfer-Money:T11
+A11	Realis E602 Actual
+T12	Manufacture_Artifact 783 787	make
+E712	Manufacture_Artifact:T12
+A12	Realis E712 Actual
+T13	Transaction_Transfer-Money 835 841	profit
+E757	Transaction_Transfer-Money:T13
+A13	Realis E757 Actual
+T14	Life_Die 194 197	die
+E786	Life_Die:T14
+A14	Realis E786 Generic
+T15	Transaction_Transfer-Ownership 576 580	sold
+E951	Transaction_Transfer-Ownership:T15
+A15	Realis E951 Actual
+T16	Transaction_Transfer-Ownership 303 309	bought
+E974	Transaction_Transfer-Ownership:T16
+A16	Realis E974 Actual

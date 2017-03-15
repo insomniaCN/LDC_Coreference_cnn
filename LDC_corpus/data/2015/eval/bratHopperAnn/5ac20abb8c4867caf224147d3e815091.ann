@@ -1,0 +1,52 @@
+T1	Personnel_Elect 193 201	election
+E272	Personnel_Elect:T1
+A1	Realis E272 Actual
+T2	Personnel_Elect 361 369	election
+E809	Personnel_Elect:T2
+A2	Realis E809 Actual
+T3	Transaction_Transfer-Money 437 441	fund
+E443	Transaction_Transfer-Money:T3
+A3	Realis E443 Generic
+T4	Transaction_Transaction 689 694	graft
+E649	Transaction_Transaction:T4
+A4	Realis E649 Generic
+T5	Personnel_Elect 845 848	win
+E197	Personnel_Elect:T5
+A5	Realis E197 Actual
+T6	Transaction_Transfer-Money 1211 1216	taxes
+E211	Transaction_Transfer-Money:T6
+A6	Realis E211 Generic
+T7	Transaction_Transfer-Money 1241 1244	tax
+E463	Transaction_Transfer-Money:T7
+A7	Realis E463 Generic
+T8	Transaction_Transfer-Money 1296 1299	tax
+E397	Transaction_Transfer-Money:T8
+A8	Realis E397 Generic
+T9	Transaction_Transfer-Money 1350 1353	tax
+E371	Transaction_Transfer-Money:T9
+A9	Realis E371 Generic
+T10	Transaction_Transfer-Money 1364 1371	earning
+E147	Transaction_Transfer-Money:T10
+A10	Realis E147 Generic
+T11	Contact_Contact 1052 1061	harangued
+E744	Contact_Contact:T11
+A11	Realis E744 Generic
+T12	Contact_Contact 1120 1131	criticizing
+E807	Contact_Contact:T12
+A12	Realis E807 Generic
+T13	Contact_Contact 1417 1427	criticized
+E291	Contact_Contact:T13
+A13	Realis E291 Actual
+T14	Personnel_Start-Position 1486 1490	hire
+E709	Personnel_Start-Position:T14
+A14	Realis E709 Generic
+T15	Personnel_End-Position 1495 1499	fire
+E281	Personnel_End-Position:T15
+A15	Realis E281 Generic
+T16	Transaction_Transfer-Money 1253 1261	deposits
+E364	Transaction_Transfer-Money:T16
+A16	Realis E364 Generic
+T17	Contact_Contact 1196 1201	vowed
+E910	Contact_Contact:T17
+A17	Realis E910 Generic
+R1	Coreference Arg1:E272 Arg2:E809

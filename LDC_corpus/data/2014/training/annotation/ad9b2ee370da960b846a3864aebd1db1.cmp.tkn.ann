@@ -1,0 +1,63 @@
+T1	Transaction_Transfer-Money 949 959	compensate
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Other
+T2	Life_Die 1210 1215	dying
+E2	Life_Die:T2 
+A2	Realis E2 Generic
+T3	Life_Die 1362 1367	dying
+E3	Life_Die:T3 
+A3	Realis E3 Generic
+T4	Conflict_Attack 1717 1720	war
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Die 2144 2149	dying
+E5	Life_Die:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Money 2485 2493	spending
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Life_Die 3957 3964	culling
+E7	Life_Die:T7 
+A7	Realis E7 Generic
+T9	Life_Die 4258 4265	killing
+E9	Life_Die:T9 
+A9	Realis E9 Generic
+T10	Life_Die 4345 4351	killed
+E10	Life_Die:T10 
+A10	Realis E10 Generic
+T11	Conflict_Attack 4362 4366	bomb
+E11	Conflict_Attack:T11 
+A11	Realis E11 Other
+T8	Conflict_Attack 4232 4246	bomb exploding
+E8	Conflict_Attack:T8 
+A8	Realis E8 Generic
+T12	Conflict_Attack 4709 4723	bomb exploding
+E12	Conflict_Attack:T12 
+A12	Realis E12 Generic
+T13	Life_Die 4735 4742	killing
+E13	Life_Die:T13 
+A13	Realis E13 Generic
+T14	Life_Die 4822 4828	killed
+E14	Life_Die:T14 
+A14	Realis E14 Generic
+T15	Conflict_Attack 4839 4843	bomb
+E15	Conflict_Attack:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 516 523	benefit
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 558 565	benefit
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic
+T18	Transaction_Transfer-Ownership 738 749;793 802	contributed resources
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Generic
+T19	Conflict_Attack 1081 1087	defeat
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Business_End-Org 1644 1652	collapse
+E20	Business_End-Org:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 5190 5194	Move
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Generic

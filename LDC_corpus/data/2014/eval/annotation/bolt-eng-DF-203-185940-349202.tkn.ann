@@ -1,0 +1,141 @@
+T1	Transaction_Transfer-Money 66 78	Fund Raising
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Money 432 435	pay
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Money 482 494	fund raisers
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Generic
+T4	Transaction_Transfer-Money 595 607	raised funds
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Ownership 983 990	donated
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 1127 1139	raised money
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 1171 1180	donations
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Money 1282 1292	gave money
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 1604 1615	fundraisers
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Ownership 1686 1692	donate
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Generic
+T11	Transaction_Transfer-Ownership 1748 1755	donates
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Generic
+T12	Transaction_Transfer-Money 1866 1872	donate
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic
+T13	Transaction_Transfer-Ownership 2006 2012	donate
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Money 2188 2200	fund raising
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Generic
+T15	Transaction_Transfer-Ownership 2308 2315	donated
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Ownership 2580 2587	Selling
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Money 2729 2741	fund raising
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Money 3106 3111	sales
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Money 3354 3365	fundraising
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Ownership 3980 3987	donated
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Ownership 4039 4046	donated
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 4077 4084	donated
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Money 4647 4652	sales
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Other
+T24	Movement_Transport-Person 797 802	rides
+E24	Movement_Transport-Person:T24 
+A24	Realis E24 Generic
+T25	Movement_Transport-Person 1220 1224	went
+E25	Movement_Transport-Person:T25 
+A25	Realis E25 Other
+T26	Transaction_Transfer-Ownership 912 918	raffle
+E26	Transaction_Transfer-Ownership:T26 
+A26	Realis E26 Generic
+T27	Transaction_Transfer-Ownership 927 931	gift
+E27	Transaction_Transfer-Ownership:T27 
+A27	Realis E27 Generic
+T28	Transaction_Transfer-Ownership 968 975	auction
+E28	Transaction_Transfer-Ownership:T28 
+A28	Realis E28 Generic
+T29	Transaction_Transfer-Ownership 1457 1465	auctions
+E29	Transaction_Transfer-Ownership:T29 
+A29	Realis E29 Generic
+T30	Transaction_Transfer-Ownership 1789 1796	raffled
+E30	Transaction_Transfer-Ownership:T30 
+A30	Realis E30 Actual
+T31	Transaction_Transfer-Money 2054 2058	sale
+E31	Transaction_Transfer-Money:T31 
+A31	Realis E31 Other
+T32	Transaction_Transfer-Money 2301 2305	sale
+E32	Transaction_Transfer-Money:T32 
+A32	Realis E32 Generic
+T33	Transaction_Transfer-Money 2393 2400	auction
+E33	Transaction_Transfer-Money:T33 
+A33	Realis E33 Generic
+T34	Transaction_Transfer-Money 2407 2412	sales
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Generic
+T35	Transaction_Transfer-Money 2509 2520	raise money
+E35	Transaction_Transfer-Money:T35 
+A35	Realis E35 Generic
+T36	Transaction_Transfer-Ownership 2545 2552	Raffles
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Generic
+T37	Transaction_Transfer-Ownership 2566 2570	gift
+E37	Transaction_Transfer-Ownership:T37 
+A37	Realis E37 Generic
+T38	Transaction_Transfer-Money 3088 3093	makes
+E38	Transaction_Transfer-Money:T38 
+A38	Realis E38 Generic
+T39	Transaction_Transfer-Money 4019 4026	Auction
+E39	Transaction_Transfer-Money:T39 
+A39	Realis E39 Actual
+T40	Transaction_Transfer-Money 4060 4064	Sale
+E40	Transaction_Transfer-Money:T40 
+A40	Realis E40 Actual
+T41	Transaction_Transfer-Money 4149 4156	donated
+E41	Transaction_Transfer-Money:T41 
+A41	Realis E41 Actual
+T42	Transaction_Transfer-Money 4168 4173	sales
+E42	Transaction_Transfer-Money:T42 
+A42	Realis E42 Actual
+T43	Transaction_Transfer-Ownership 4212 4216	sell
+E43	Transaction_Transfer-Ownership:T43 
+A43	Realis E43 Actual
+T44	Movement_Transport-Person 4331 4335	trip
+E44	Movement_Transport-Person:T44 
+A44	Realis E44 Other
+T45	Transaction_Transfer-Money 4338 4341;4350 4356	get amount
+E45	Transaction_Transfer-Money:T45 
+A45	Realis E45 Other
+T46	Transaction_Transfer-Money 4366 4370	cost
+E46	Transaction_Transfer-Money:T46 
+A46	Realis E46 Other
+T47	Transaction_Transfer-Money 4623 4629	donate
+E47	Transaction_Transfer-Money:T47 
+A47	Realis E47 Other

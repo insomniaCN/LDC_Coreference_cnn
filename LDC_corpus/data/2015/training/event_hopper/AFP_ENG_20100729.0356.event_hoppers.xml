@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589763c0000000000000029" doc_id="AFP_ENG_20100729.0356" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-38" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20100729.0356" offset="211" length="6">seized</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20100729.0356" offset="66" length="6">seizes</trigger>
+      </event_mention>
+      <event_mention id="em-64" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20100729.0356" offset="369" length="6">seized</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-77" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="269" length="8">visiting</trigger>
+      </event_mention>
+      <event_mention id="em-90" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="92" length="5">visit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-103" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="420" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-116" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="247" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-129" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20100729.0356" offset="1019" length="5">enter</trigger>
+      </event_mention>
+      <event_mention id="em-142" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20100729.0356" offset="533" length="8">entering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-155" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="AFP_ENG_20100729.0356" offset="999" length="11">prosecution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-168" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20100729.0356" offset="1103" length="6">seized</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-181" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="1130" length="6">headed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-194" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="1322" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-207" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="1380" length="8">visiting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-220" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="1416" length="8">released</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-233" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="1525" length="4">wars</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-246" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100729.0356" offset="1638" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-259" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20100729.0356" offset="637" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-272" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20100729.0356" offset="706" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-285" type="conflict" subtype="attack" realis="other">
+        <trigger source="AFP_ENG_20100729.0356" offset="1231" length="7">destroy</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

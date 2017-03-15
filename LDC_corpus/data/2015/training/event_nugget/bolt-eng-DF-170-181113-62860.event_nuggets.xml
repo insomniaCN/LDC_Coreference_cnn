@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000573" doc_id="bolt-eng-DF-170-181113-62860" source_type="multi_post">
+<event_mention id="em-10" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="55" length="9">acquiring</trigger>
+      </event_mention>
+<event_mention id="em-23" type="justice" subtype="sue" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="199" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-53" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="597" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-105" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1221" length="6">Letter</trigger>
+      </event_mention>
+<event_mention id="em-120" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="751" length="6">aquire</trigger>
+      </event_mention>
+<event_mention id="em-135" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="920" length="6">aquire</trigger>
+      </event_mention>
+<event_mention id="em-148" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1257" length="6">Merger</trigger>
+      </event_mention>
+<event_mention id="em-163" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1083" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-176" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1616" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-189" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1640" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-202" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1723" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-215" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1825" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-228" type="business" subtype="mergeorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="1907" length="6">merger</trigger>
+      </event_mention>
+<event_mention id="em-241" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="2256" length="7">merging</trigger>
+      </event_mention>
+<event_mention id="em-256" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="2734" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-271" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="3095" length="7">merging</trigger>
+      </event_mention>
+<event_mention id="em-284" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="3371" length="6">buying</trigger>
+      </event_mention>
+<event_mention id="em-299" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-62860" offset="3422" length="6">buying</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,108 @@
+T1	Justice_Sue 213 217	sued
+E1	Justice_Sue:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 231 239	paddling
+E2	Conflict_Attack:T2 
+A2	Realis E2 Other
+T3	Conflict_Attack 313 321	spanking
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 873 877	make
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Conflict_Attack 1004 1015	dishing out
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 1073 1078	spank
+E6	Conflict_Attack:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 1282 1290	spanking
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Justice_Fine 1412 1417	fines
+E8	Justice_Fine:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Money 1455 1462	revenue
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Generic
+T10	Conflict_Attack 1772 1783	dishing out
+E10	Conflict_Attack:T10 
+A10	Realis E10 Other
+T11	Conflict_Attack 1841 1846	spank
+E11	Conflict_Attack:T11 
+A11	Realis E11 Other
+T12	Conflict_Attack 1946 1953	assault
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 2354 2361	assault
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 2714 2722	paddling
+E14	Conflict_Attack:T14 
+A14	Realis E14 Generic
+T15	Conflict_Attack 195 203	spanking
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 3046 3054	spanking
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Justice_Sue 3064 3068	sued
+E17	Justice_Sue:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 3082 3090	paddling
+E18	Conflict_Attack:T18 
+A18	Realis E18 Other
+T19	Conflict_Attack 3164 3172	spanking
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 3558 3566	paddling
+E20	Conflict_Attack:T20 
+A20	Realis E20 Generic
+T21	Conflict_Attack 4021 4029	paddling
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 4260 4266	paddle
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Money 4640 4643	pay
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Other
+T24	Conflict_Attack 4678 4686	paddling
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 4801 4809	spanking
+E25	Conflict_Attack:T25 
+A25	Realis E25 Generic
+T26	Conflict_Attack 4982 4989	spanked
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Personnel_End-Position 5376 5381	fired
+E27	Personnel_End-Position:T27 
+A27	Realis E27 Other
+T28	Conflict_Attack 5405 5413	spanking
+E28	Conflict_Attack:T28 
+A28	Realis E28 Generic
+T29	Transaction_Transfer-Money 5700 5703	pay
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Other
+T30	Conflict_Attack 6003 6010	spanked
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Justice_Sue 6519 6525	sueing
+E31	Justice_Sue:T31 
+A31	Realis E31 Actual
+T32	Justice_Sue 6638 6641	sue
+E32	Justice_Sue:T32 
+A32	Realis E32 Other
+T33	Personnel_End-Position 6666 6673	removed
+E33	Personnel_End-Position:T33 
+A33	Realis E33 Other
+T34	Personnel_End-Position 6711 6718	removed
+E34	Personnel_End-Position:T34 
+A34	Realis E34 Other
+T35	Transaction_Transfer-Money 6732 6735	get
+E35	Transaction_Transfer-Money:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 6850 6858	paddling
+E36	Conflict_Attack:T36 
+A36	Realis E36 Generic

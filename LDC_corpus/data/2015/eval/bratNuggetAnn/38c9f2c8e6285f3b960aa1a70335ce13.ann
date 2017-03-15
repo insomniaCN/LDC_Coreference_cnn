@@ -1,0 +1,93 @@
+T1	Justice_Sue 355 362	lawsuit
+E31	Justice_Sue:T1
+A1	Realis E31 Actual
+T2	Transaction_Transfer-Money 3066 3070	make
+E58	Transaction_Transfer-Money:T2
+A2	Realis E58 Generic
+T3	Transaction_Transfer-Money 2817 2823	expect
+E80	Transaction_Transfer-Money:T3
+A3	Realis E80 Generic
+T4	Transaction_Transfer-Money 1718 1730	compensation
+E176	Transaction_Transfer-Money:T4
+A4	Realis E176 Other
+T5	Personnel_Start-Position 2348 2352	hire
+E194	Personnel_Start-Position:T5
+A5	Realis E194 Generic
+T6	Justice_Sue 131 138	Lawsuit
+E197	Justice_Sue:T6
+A6	Realis E197 Actual
+T7	Contact_Broadcast 1846 1853	comment
+E237	Contact_Broadcast:T7
+A7	Realis E237 Other
+T8	Transaction_Transfer-Money 2426 2430	paid
+E243	Transaction_Transfer-Money:T8
+A8	Realis E243 Generic
+T9	Justice_Sue 2132 2139	lawsuit
+E263	Justice_Sue:T9
+A9	Realis E263 Actual
+T10	Justice_Sue 544 548	suit
+E282	Justice_Sue:T10
+A10	Realis E282 Actual
+T11	Justice_Sue 281 288	Lawsuit
+E359	Justice_Sue:T11
+A11	Realis E359 Actual
+T12	Transaction_Transfer-Money 2745 2751	expect
+E384	Transaction_Transfer-Money:T12
+A12	Realis E384 Generic
+T13	Contact_Broadcast 2000 2003	say
+E448	Contact_Broadcast:T13
+A13	Realis E448 Actual
+T14	Personnel_End-Position 1889 1895	let go
+E494	Personnel_End-Position:T14
+A14	Realis E494 Other
+T15	Contact_Broadcast 1815 1819	said
+E555	Contact_Broadcast:T15
+A15	Realis E555 Actual
+T16	Personnel_End-Position 1744 1746	ex
+E573	Personnel_End-Position:T16
+A16	Realis E573 Actual
+T17	Transaction_Transfer-Money 2384 2387	pay
+E574	Transaction_Transfer-Money:T17
+A17	Realis E574 Generic
+T18	Personnel_End-Position 644 646	ex
+E591	Personnel_End-Position:T18
+A18	Realis E591 Actual
+T19	Justice_Sue 1032 1039	lawsuit
+E614	Justice_Sue:T19
+A19	Realis E614 Actual
+T20	Personnel_End-Position 916 926	terminated
+E639	Personnel_End-Position:T20
+A20	Realis E639 Actual
+T21	Transaction_Transfer-Money 2491 2495	paid
+E644	Transaction_Transfer-Money:T21
+A21	Realis E644 Generic
+T22	Transaction_Transfer-Money 618 630	compensation
+E688	Transaction_Transfer-Money:T22
+A22	Realis E688 Other
+T23	Contact_Broadcast 746 753	comment
+E707	Contact_Broadcast:T23
+A23	Realis E707 Other
+T24	Justice_Sue 1231 1238	Lawsuit
+E713	Justice_Sue:T24
+A24	Realis E713 Actual
+T25	Contact_Broadcast 715 719	said
+E739	Contact_Broadcast:T25
+A25	Realis E739 Actual
+T26	Justice_Sue 1381 1388	Lawsuit
+E756	Justice_Sue:T26
+A26	Realis E756 Actual
+T27	Personnel_End-Position 2016 2026	terminated
+E788	Personnel_End-Position:T27
+A27	Realis E788 Actual
+T28	Justice_Sue 1644 1648	suit
+E861	Justice_Sue:T28
+A28	Realis E861 Actual
+T29	Justice_Sue 1455 1462	lawsuit
+E864	Justice_Sue:T29
+A29	Realis E864 Actual
+T30	Contact_Broadcast 900 903	say
+E896	Contact_Broadcast:T30
+A30	Realis E896 Actual
+T31	Personnel_End-Position 789 795	let go
+E979	Personnel_End-Position:T31
+A31	Realis E979 Other

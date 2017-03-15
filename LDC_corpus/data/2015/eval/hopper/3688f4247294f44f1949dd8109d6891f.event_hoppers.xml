@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea990000000000000131" doc_id="3688f4247294f44f1949dd8109d6891f" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-72" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="3688f4247294f44f1949dd8109d6891f" offset="227" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-275" type="life" subtype="marry" realis="other">
+        <trigger source="3688f4247294f44f1949dd8109d6891f" offset="484" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-705" type="life" subtype="injure" realis="actual">
+        <trigger source="3688f4247294f44f1949dd8109d6891f" offset="791" length="15">self-mutilation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-4" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="3688f4247294f44f1949dd8109d6891f" offset="823" length="9">explained</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

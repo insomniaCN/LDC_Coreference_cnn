@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130614.0193" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130614/20130614,b9b45b426e73bec2745dc58460405d3f.xml">
+<HEADLINE>
+DIARY OF A HITLER AIDE RESURFACES AFTER A HUNT THAT LASTED YEARS
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+Pages from the diary of a chief Hitler aide, Alfred Rosenberg, missing since the conclusion of the Nuremberg trials of Nazi leaders nearly 70 years ago, were briefly displayed Thursday for the first time by the federal investigators who helped recover them. The diary, handwritten on loose-leaf pages with entries dating from 1936 through 1944, is likely to offer new insights into the decision to exterminate the Jews, infighting among top Nazi officials and the plunder of Europe’s art, said scholars at the U.S. Holocaust Memorial Museum in Washington.
+</P>
+<P>
+It offers a window “into the mind of a dark soul,” said John T. Morton, director of the federal Immigration and Customs Enforcement agency, which investigates lost and stolen cultural property. Although parts of Rosenberg’s diary are in the National Archives, and excerpts have been published in German, most of this first-person account remains unknown.
+</P>
+<P>
+The tangled journey of the diary could itself be the subject of a television mini-series.
+</P>
+<P>
+According to the Holocaust museum, after the trials ended, and Rosenberg was hanged in 1946, Robert M.W. Kempner, a Nuremberg prosecutor, received permission from the office of the chief of counsel of war crimes to keep documents “for purposes of writing, lecturing and study.” With that brief approval in hand, Kempner took the diary, along with thousands of other documents, back to his home in Landsdowne, Pa.
+</P>
+<P>
+After Kempner died in 1993, the Holocaust museum negotiated a deal with his sons to collect his papers, said Henry Mayer, the museum’s senior adviser on archives. Legal wrangling over the estate delayed the transfer, and when the museum finally picked up the documents in 1999, the diary and other materials were not among them.
+</P>
+<P>
+Federal agents tracked a batch of missing papers to Herbert Richardson, an academic publisher and former professor in Lewiston, N.Y., and a friend of one of Kempner’s longtime secretaries. He turned over some documents, but the diary was not among them, Mayer explained.
+</P>
+<P>
+The museum kept up the search, and it led again to Richardson. He turned the pages over to federal agents in April, and the museum authenticated them.
+</P>
+<P>
+Morton declined to comment on the investigation, but he said that when the government’s civil forfeiture process was completed, the diary would be turned over to the museum. There are “fewer and fewer living victims and witnesses to the horror of the Third Reich,” he said, which makes the original documents of that era all the more important.
+</P>
+</TEXT>
+</DOC>

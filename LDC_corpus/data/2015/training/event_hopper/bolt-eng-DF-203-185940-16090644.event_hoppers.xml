@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000629" doc_id="bolt-eng-DF-203-185940-16090644" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="59" length="6">moving</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="202" length="4">move</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="252" length="6">merger</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="304" length="3">tax</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="540" length="3">tax</trigger>
+      </event_mention>
+      <event_mention id="em-109" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="725" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="464" length="8">rollover</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-94" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="665" length="4">roll</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="825" length="8">laid off</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1023" length="6">rolled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-182" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1112" length="4">roll</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-167" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1150" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-195" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1208" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-210" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1250" length="10">retirement</trigger>
+      </event_mention>
+      <event_mention id="em-397" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1538" length="10">retirement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-225" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="866" length="9">contacted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-253">
+      <event_mention id="em-240" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1269" length="4">roll</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-268">
+      <event_mention id="em-255" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1316" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-283">
+      <event_mention id="em-270" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1346" length="5">taxed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-298">
+      <event_mention id="em-285" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1435" length="3">tax</trigger>
+      </event_mention>
+      <event_mention id="em-300" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1467" length="3">tax</trigger>
+      </event_mention>
+      <event_mention id="em-341" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1523" length="3">tax</trigger>
+      </event_mention>
+      <event_mention id="em-384" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1719" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-339">
+      <event_mention id="em-326" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1574" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-367">
+      <event_mention id="em-354" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1595" length="8">rollover</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-382">
+      <event_mention id="em-369" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16090644" offset="1628" length="5">taxed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

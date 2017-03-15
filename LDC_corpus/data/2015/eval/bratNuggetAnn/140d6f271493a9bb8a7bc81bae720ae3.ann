@@ -1,0 +1,21 @@
+T1	Justice_Sue 1024 1028	suit
+E254	Justice_Sue:T1
+A1	Realis E254 Actual
+T2	Justice_Fine 886 895	penalties
+E258	Justice_Fine:T2
+A2	Realis E258 Generic
+T3	Justice_Sue 271 278	lawsuit
+E484	Justice_Sue:T3
+A3	Realis E484 Actual
+T4	Transaction_Transfer-Money 484 489	costs
+E571	Transaction_Transfer-Money:T4
+A4	Realis E571 Actual
+T5	Justice_Sue 551 556	suing
+E845	Justice_Sue:T5
+A5	Realis E845 Actual
+T6	Justice_Sue 688 692	suit
+E951	Justice_Sue:T6
+A6	Realis E951 Actual
+T7	Transaction_Transfer-Money 473 479	recoup
+E969	Transaction_Transfer-Money:T7
+A7	Realis E969 Other

@@ -1,0 +1,57 @@
+T1	Manufacture_Artifact 2413 2425	construction
+E7	Manufacture_Artifact:T1
+A1	Realis E7 Actual
+T2	Transaction_Transfer-Money 1399 1403	sold
+E19	Transaction_Transfer-Money:T2
+A2	Realis E19 Actual
+T3	Movement_Transport-Person 1425 1430	moved
+E42	Movement_Transport-Person:T3
+A3	Realis E42 Actual
+T4	Conflict_Attack 1474 1480	beaten
+E85	Conflict_Attack:T4
+A4	Realis E85 Actual
+T5	Manufacture_Artifact 1319 1331	construction
+E88	Manufacture_Artifact:T5
+A5	Realis E88 Actual
+T6	Contact_Contact 2496 2500	told
+E234	Contact_Contact:T6
+A6	Realis E234 Actual
+T7	Transaction_Transfer-Money 1551 1555	cost
+E255	Transaction_Transfer-Money:T7
+A7	Realis E255 Other
+T8	Manufacture_Artifact 1189 1197	creating
+E370	Manufacture_Artifact:T8
+A8	Realis E370 Actual
+T9	Movement_Transport-Person 2264 2274	dispatched
+E441	Movement_Transport-Person:T9
+A9	Realis E441 Actual
+T10	Contact_Broadcast 2436 2441	issue
+E623	Contact_Broadcast:T10
+A10	Realis E623 Other
+T11	Manufacture_Artifact 569 580	Constructed
+E660	Manufacture_Artifact:T11
+A11	Realis E660 Actual
+T12	Contact_Broadcast 2109 2113	said
+E665	Contact_Broadcast:T12
+A12	Realis E665 Actual
+T13	Contact_Meet 1493 1503	confronted
+E704	Contact_Meet:T13
+A13	Realis E704 Actual
+T14	Contact_Contact 2777 2786	interview
+E763	Contact_Contact:T14
+A14	Realis E763 Actual
+T15	Manufacture_Artifact 2710 2721	constructed
+E770	Manufacture_Artifact:T15
+A15	Realis E770 Actual
+T16	Manufacture_Artifact 506 511	built
+E844	Manufacture_Artifact:T16
+A16	Realis E844 Actual
+T17	Transaction_Transfer-Ownership 1399 1403	sold
+E908	Transaction_Transfer-Ownership:T17
+A17	Realis E908 Actual
+T18	Transaction_Transfer-Money 1792 1799	amassed
+E969	Transaction_Transfer-Money:T18
+A18	Realis E969 Actual
+T19	Contact_Broadcast 2597 2603	notice
+E974	Contact_Broadcast:T19
+A19	Realis E974 Actual

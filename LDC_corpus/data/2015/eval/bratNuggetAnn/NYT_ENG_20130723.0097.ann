@@ -1,0 +1,126 @@
+T1	Justice_Sentence 4805 4813	sentence
+E21	Justice_Sentence:T1
+A1	Realis E21 Actual
+T2	Contact_Broadcast 4379 4383	said
+E53	Contact_Broadcast:T2
+A2	Realis E53 Actual
+T3	Justice_Trial-Hearing 2719 2724	trial
+E101	Justice_Trial-Hearing:T3
+A3	Realis E101 Other
+T4	Movement_Transport-Person 5181 5185	sent
+E199	Movement_Transport-Person:T4
+A4	Realis E199 Actual
+T5	Justice_Sentence 1590 1599	sentences
+E231	Justice_Sentence:T5
+A5	Realis E231 Actual
+T6	Justice_Sentence 3986 3994	sentence
+E257	Justice_Sentence:T6
+A6	Realis E257 Generic
+T7	Personnel_End-Position 759 765	former
+E350	Personnel_End-Position:T7
+A7	Realis E350 Actual
+T8	Justice_Release-Parole 868 872	free
+E403	Justice_Release-Parole:T8
+A8	Realis E403 Other
+T9	Movement_Transport-Artifact 5010 5021	trafficking
+E407	Movement_Transport-Artifact:T9
+A9	Realis E407 Generic
+T10	Contact_Broadcast 5230 5239	admitting
+E413	Contact_Broadcast:T10
+A10	Realis E413 Actual
+T11	Contact_Broadcast 3392 3396	said
+E476	Contact_Broadcast:T11
+A11	Realis E476 Actual
+T12	Justice_Appeal 4912 4921	Âappealed
+E480	Justice_Appeal:T12
+A12	Realis E480 Actual
+T13	Justice_Sentence 4683 4692	sentenced
+E483	Justice_Sentence:T13
+A13	Realis E483 Actual
+T14	Justice_Arrest-Jail 1860 1872	imprisonment
+E488	Justice_Arrest-Jail:T14
+A14	Realis E488 Other
+T15	Contact_Broadcast 5309 5313	said
+E503	Contact_Broadcast:T15
+A15	Realis E503 Actual
+T16	Contact_Broadcast 3208 3217	statement
+E509	Contact_Broadcast:T16
+A16	Realis E509 Actual
+T17	Justice_Release-Parole 1418 1425	release
+E523	Justice_Release-Parole:T17
+A17	Realis E523 Actual
+T18	Justice_Charge-Indict 2197 2204	charges
+E526	Justice_Charge-Indict:T18
+A18	Realis E526 Actual
+T19	Justice_Trial-Hearing 4058 4066	hearings
+E529	Justice_Trial-Hearing:T19
+A19	Realis E529 Actual
+T20	Justice_Appeal 5160 5168	appealed
+E541	Justice_Appeal:T20
+A20	Realis E541 Actual
+T21	Justice_Sentence 5076 5084	sentence
+E544	Justice_Sentence:T21
+A21	Realis E544 Actual
+T22	Contact_Broadcast 2381 2385	said
+E575	Contact_Broadcast:T22
+A22	Realis E575 Actual
+T23	Justice_Sentence 1185 1193	sentence
+E608	Justice_Sentence:T23
+A23	Realis E608 Actual
+T24	Justice_Convict 910 921	convictions
+E640	Justice_Convict:T24
+A24	Realis E640 Actual
+T25	Justice_Sentence 426 435	sentences
+E655	Justice_Sentence:T25
+A25	Realis E655 Actual
+T26	Justice_Sentence 1720 1729	sentences
+E686	Justice_Sentence:T26
+A26	Realis E686 Generic
+T27	Transaction_Transfer-Ownership 4664 4674	distribute
+E709	Transaction_Transfer-Ownership:T27
+A27	Realis E709 Generic
+T28	Justice_Sentence 4279 4287	sentence
+E720	Justice_Sentence:T28
+A28	Realis E720 Generic
+T29	Justice_Arrest-Jail 1052 1064	incarcerated
+E727	Justice_Arrest-Jail:T29
+A29	Realis E727 Other
+T30	Justice_Convict 1093 1104	convictions
+E729	Justice_Convict:T30
+A30	Realis E729 Actual
+T31	Justice_Arrest-Jail 4725 4731	prison
+E779	Justice_Arrest-Jail:T31
+A31	Realis E779 Generic
+T32	Contact_Broadcast 2941 2945	said
+E786	Contact_Broadcast:T32
+A32	Realis E786 Actual
+T33	Justice_Trial-Hearing 2819 2825	trials
+E802	Justice_Trial-Hearing:T33
+A33	Realis E802 Other
+T34	Justice_Trial-Hearing 488 494	trials
+E808	Justice_Trial-Hearing:T34
+A34	Realis E808 Other
+T35	Justice_Convict 2857 2867	conviction
+E885	Justice_Convict:T35
+A35	Realis E885 Generic
+T36	Justice_Arrest-Jail 5196 5203	custody
+E899	Justice_Arrest-Jail:T36
+A36	Realis E899 Actual
+T37	Personnel_Nominate 3887 3896	appointed
+E905	Personnel_Nominate:T37
+A37	Realis E905 Actual
+T38	Justice_Appeal 1758 1764	appeal
+E926	Justice_Appeal:T38
+A38	Realis E926 Generic
+T39	Contact_Contact 3948 3956	sessions
+E935	Contact_Contact:T39
+A39	Realis E935 Actual
+T40	Justice_Convict 720 731	convictions
+E940	Justice_Convict:T40
+A40	Realis E940 Actual
+T41	Contact_Contact 3028 3036	sessions
+E977	Contact_Contact:T41
+A41	Realis E977 Actual
+T42	Justice_Trial-Hearing 1917 1922	trial
+E995	Justice_Trial-Hearing:T42
+A42	Realis E995 Other

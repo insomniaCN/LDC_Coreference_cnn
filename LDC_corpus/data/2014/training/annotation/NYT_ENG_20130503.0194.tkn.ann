@@ -1,0 +1,78 @@
+T1	Transaction_Transfer-Ownership 324 330	return
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Ownership 419 425	looted
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 452 457	given
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 602 612	repatriate
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Other
+T5	Contact_Communicate 822 826	told
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 852 858	letter
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 887 891	send
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Ownership 1140 1153	repatriations
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Generic
+T9	Contact_Communicate 1640 1655	phone interview
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 1742 1746	said
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 1938 1942	said
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 2184 2190	looted
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 2411 2417	return
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Other
+T14	Justice_Trial-Hearing 2472 2476	case
+E14	Justice_Trial-Hearing:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Ownership 2638 2645	auction
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Actual
+T16	Justice_Trial-Hearing 2783 2788	trial
+E16	Justice_Trial-Hearing:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Ownership 2350 2357	auction
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Ownership 2710 2717	auction
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Ownership 2873 2878	gifts
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Actual
+T20	Transaction_Transfer-Ownership 3001 3008	donated
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Ownership 3050 3057	donated
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 3128 3133	gifts
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Ownership 212 218	RETURN
+E23	Transaction_Transfer-Ownership:T23 
+A23	Realis E23 Other
+T24	Transaction_Transfer-Ownership 1274 1281	removed
+E24	Transaction_Transfer-Ownership:T24 
+A24	Realis E24 Actual
+T25	Transaction_Transfer-Ownership 1506 1517	acquisition
+E25	Transaction_Transfer-Ownership:T25 
+A25	Realis E25 Actual
+T26	Transaction_Transfer-Ownership 2299 2306	removed
+E26	Transaction_Transfer-Ownership:T26 
+A26	Realis E26 Actual

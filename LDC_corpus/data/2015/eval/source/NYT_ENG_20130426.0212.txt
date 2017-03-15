@@ -1,0 +1,43 @@
+<DOC id="NYT_ENG_20130426.0212" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130426/20130426,dbc9676e8763101db6c83062d9435dbb.xml">
+<HEADLINE>
+KATHRYN W. DAVIS, HUDSON RIVER BENEFACTOR, DIES AT 106
+</HEADLINE>
+<TEXT>
+<P>
+Kathryn Wasserman Davis, who contributed tens of millions of dollars to cleaning the Hudson River and promoting peace through an organization she founded when she was 100, died Tuesday at her home in Hobe Sound, Fla. She was 106.
+</P>
+<P>
+Her death was confirmed by her grandson Christopher Davis.
+</P>
+<P>
+Davis donated millions to Scenic Hudson, a group that works to clean the river and its environs, after taking up kayaking in her 90s near her home in Tarrytown, N.Y.
+</P>
+<P>
+In 2007, when she turned 100, she founded Davis Projects for Peace, which awards $10,000 grants to humanitarian endeavors around the world initiated by college students.
+</P>
+<P>
+About 600 proposals from students of the 90 schools associated with the Davis United World College Scholars Program have been financed so far. This year’s projects include an attempt to provide solar-powered lamps to an impoverished county in China.
+</P>
+<P>
+For her efforts Davis was awarded the Woodrow Wilson Award for Public Service.
+</P>
+<P>
+Davis was also a benefactor of higher education, giving to Ivy League universities such as Harvard and Columbia and particularly to Wellesley College, her undergraduate alma mater, where she created the Davis Museum and Cultural Center.
+</P>
+<P>
+Kathryn Stix Wasserman was born in Philadelphia on Feb. 25, 1907. She received a bachelor’s degree from Wellesley, in Massachusetts, a master’s in international relations from Columbia University and a doctorate from the University of Geneva in Switzerland.
+</P>
+<P>
+A lifelong globetrotter and a Russophile since her first visit to the Caucasus Mountains in 1929, she met the insurance investment magnate Shelby Cullom Davis on a train to Geneva in 1930. They were married on Jan. 4, 1932. Shelby Davis died in 1994.
+</P>
+<P>
+Davis is survived by a daughter, Diana Davis Spencer; a son, Shelby; eight grandchildren; and 11 great-grandchildren.
+</P>
+<P>
+She also owned a home in Northeast Harbor, Maine, and supported environmental charities there including the Maine Coast Heritage Trust.
+</P>
+<P>
+Her grandson Christopher said that virtually all of the Davis fortune would be left to charity.
+</P>
+</TEXT>
+</DOC>

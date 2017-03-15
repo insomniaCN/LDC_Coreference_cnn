@@ -1,0 +1,43 @@
+<DOC id="NYT_ENG_20130912.0240" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130912/20130912,ec01a03207cd94e04e813306282c6c9b.xml">
+<HEADLINE>
+LHOTA ACCUSES DE BLASIO OF TRYING TO DIVIDE THE CITY
+</HEADLINE>
+<TEXT>
+<P>
+NEW YORK - Joseph J. Lhota, making his first campaign appearances since winning the Republican nomination for mayor, on Thursday criticized his likely Democratic opponent, Bill de Blasio, accusing him of trying to divide the city by class in order to score votes.
+</P>
+<P>
+Lhota, in a series of interviews, portrayed de Blasio as a free-spending liberal who wants to raise taxes, and who would seek to undo the progress made by the current mayor, Michael Bloomberg, and his predecessor, Rudolph W. Giuliani.
+</P>
+<P>
+“His approach to things is to tear things down and build them up in the image that he wants, which I think is a failed image,” Lhota said in a television interview. He said de Blasio’s approach amounted to “a repudiation of everything great that’s happened over the last 20 years, and we can’t let that happen.”
+</P>
+<P>
+The media tour by Lhota marked the beginning of an effort by the candidate to appeal to a wide audience of voters, after months in which he focused on drumming up support among the Republicans whose support he needed in Tuesday’s primary. His remarks came as the Democratic race remained unsettled, with de Blasio hovering slightly above the 40 percent threshold required to avoid a runoff, but thousands of paper ballots still to count.
+</P>
+<P>
+De Blasio, trying to create an air of inevitability about his nomination, held a rally in Brooklyn with supporters, many of whom had earlier endorsed his rivals.
+</P>
+<P>
+In Lhota’s appearances, which also included radio interviews, he acknowledged that the Democratic primary was still unresolved, but he spoke as if de Blasio were his opponent. He mounted a direct attack on de Blasio’s “tale of two cities” campaign theme, saying that de Blasio was trying to “separate classes” as a political strategy.
+</P>
+<P>
+“Calling it a tale of two cities, that level of invective has no place in any campaign, at all,” Lhota said. “It divides people. What we really need to do is to work together and provide a solution, not separating people and then saying that the ends justify the means.”
+</P>
+<P>
+He also criticized the policy centerpiece of de Blasio’s campaign, a proposal to raise taxes on high earners to pay for expanded prekindergarten and after-school programs.
+</P>
+<P>
+Lhota said that de Blasio’s “knee-jerk response to any new program is to raise taxes,” an approach he said was “instinctively wrong.” Instead, Lhota said the mayor should look to find efficiencies in the city’s budget.
+</P>
+<P>
+Lhota also visited the Queens burial site of Rabbi Menachem Mendel Schneerson, who was the revered leader of Lubavitch Hasidim.
+</P>
+<P>
+Around 9 a.m., Lhota entered Ohel Chabad-Lubavitch, a ramshackle building next to the burial site. Flanked by rabbis, one of whom addressed him as Mayor, Lhota asked for, and received, a gift of honey cake, following a Jewish tradition associated with the Lubavitcher rebbe, as Schneerson was known.
+</P>
+<P>
+Lhota brought a note to the rebbe’s grave site, tore it and cast it onto a pile of other torn notes, in accordance with another Jewish custom. He said a prayer at the site; in an interview, he declined to say what the prayer was, only that it was a prayer for all New Yorkers.
+</P>
+</TEXT>
+</DOC>

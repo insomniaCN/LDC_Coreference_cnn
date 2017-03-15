@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea9b0000000000000137" doc_id="3e476cfa2578a919448923f55aadf684" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-696" type="life" subtype="divorce" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="321" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-313" type="life" subtype="divorce" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="424" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-904" type="life" subtype="divorce" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="556" length="7">divorce</trigger>
+      </event_mention>
+      <event_mention id="em-454" type="life" subtype="divorce" realis="other">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="657" length="8">break-up</trigger>
+      </event_mention>
+      <event_mention id="em-365" type="life" subtype="divorce" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="1403" length="7">divorce</trigger>
+      </event_mention>
+      <event_mention id="em-102" type="life" subtype="divorce" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="1675" length="7">divorce</trigger>
+      </event_mention>
+      <event_mention id="em-965" type="life" subtype="divorce" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="4655" length="7">divorce</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-526" type="life" subtype="marry" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="733" length="8">marriage</trigger>
+      </event_mention>
+      <event_mention id="em-244" type="life" subtype="marry" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="836" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-234" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="505" length="9">announced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-161">
+      <event_mention id="em-767" type="life" subtype="beborn" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="751" length="4">bore</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-176">
+      <event_mention id="em-943" type="life" subtype="marry" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="815" length="9">marriages</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-217">
+      <event_mention id="em-932" type="life" subtype="marry" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="910" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-275">
+      <event_mention id="em-664" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="1018" length="4">heir</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-342">
+      <event_mention id="em-662" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="2661" length="4">give</trigger>
+      </event_mention>
+      <event_mention id="em-554" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="2732" length="4">take</trigger>
+      </event_mention>
+      <event_mention id="em-237" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="3226" length="4">give</trigger>
+      </event_mention>
+      <event_mention id="em-594" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="3297" length="4">take</trigger>
+      </event_mention>
+      <event_mention id="em-894" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="3994" length="4">give</trigger>
+      </event_mention>
+      <event_mention id="em-222" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="4065" length="4">take</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-448">
+      <event_mention id="em-853" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="3e476cfa2578a919448923f55aadf684" offset="1052" length="4">word</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

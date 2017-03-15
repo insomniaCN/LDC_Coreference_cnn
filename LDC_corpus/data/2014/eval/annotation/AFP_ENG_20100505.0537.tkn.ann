@@ -1,0 +1,60 @@
+T1	Conflict_Attack 109 117	shooting
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Business_Start-Org 240 247	founded
+E2	Business_Start-Org:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 300 308	arrested
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Life_Injure 325 333	wounding
+E4	Life_Injure:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 386 394	shooting
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 540 545;556 561	fired shots
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Life_Injure 606 614	wounding
+E7	Life_Injure:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 673 678	fired
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 796 802	attack
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Justice_Arrest-Jail 920 928	arrested
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Actual
+T12	Life_Die 1055 1061	murder
+E12	Life_Die:T12 
+A12	Realis E12 Other
+T13	Justice_Convict 1093 1104	convictions
+E13	Justice_Convict:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Ownership 1110 1118	burglary
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 1121 1128	robbery
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Actual
+T11	Justice_Arrest-Jail 1030 1032;1034 1040	in prison
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T16	Movement_Transport-Person 98 103	drive
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Actual
+T17	Movement_Transport-Person 374 379	drive
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Actual
+T18	Justice_Convict 1003 1008	felon
+E18	Justice_Convict:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 523 535	motorcyclist
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 686 696	motorcycle
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual

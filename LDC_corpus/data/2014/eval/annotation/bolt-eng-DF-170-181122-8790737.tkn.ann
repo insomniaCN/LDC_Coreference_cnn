@@ -1,0 +1,34 @@
+T1	Conflict_Demonstrate 375 380	March
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Life_Die 517 521	died
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Life_Die 552 556	lost
+E3	Life_Die:T3 
+A4	Realis E3 Other
+T4	Life_Die 590 594	lose
+E4	Life_Die:T4 
+A5	Realis E4 Actual
+T5	Life_Die 624 636	assasination
+E5	Life_Die:T5 
+A6	Realis E5 Actual
+T6	Life_Die 1549 1553	died
+E6	Life_Die:T6 
+A7	Realis E6 Actual
+T7	Life_Die 1595 1600	death
+E7	Life_Die:T7 
+A8	Realis E7 Actual
+T8	Life_Die 1728 1731	die
+E8	Life_Die:T8 
+A9	Questionable E8 Realis
+A10	Realis E8 Generic
+T9	Life_Die 1894 1905	passed away
+E9	Life_Die:T9 
+A11	Realis E9 Actual
+T10	Life_Be-Born 1945 1949	Born
+E10	Life_Be-Born:T10 
+A12	Realis E10 Actual
+T11	Life_Die 3664 3671	passing
+E11	Life_Die:T11 
+A13	Realis E11 Actual

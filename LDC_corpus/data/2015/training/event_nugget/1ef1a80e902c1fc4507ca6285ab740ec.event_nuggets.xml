@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589762e0000000000000020" doc_id="1ef1a80e902c1fc4507ca6285ab740ec" source_type="multi_post">
+<event_mention id="em-86" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="920" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-99" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="192" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-112" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="1273" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-125" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5500" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-138" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8239" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-151" type="conflict" subtype="attack" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2482" length="4">wars</trigger>
+      </event_mention>
+<event_mention id="em-164" type="conflict" subtype="attack" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2359" length="4">wars</trigger>
+      </event_mention>
+<event_mention id="em-177" type="justice" subtype="execute" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="3305" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-190" type="justice" subtype="execute" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="3546" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-203" type="justice" subtype="execute" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="3901" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-216" type="justice" subtype="sentence" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4902" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-229" type="justice" subtype="sentence" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4551" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-242" type="justice" subtype="sentence" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5986" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-255" type="justice" subtype="sentence" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6543" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-268" type="justice" subtype="sentence" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9310" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-281" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4913" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-294" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4562" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-307" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5997" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-320" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6554" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-333" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9321" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-346" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4641" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-359" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4992" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-372" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6076" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-385" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6633" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-398" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9400" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-411" type="justice" subtype="convict" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4954" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-424" type="justice" subtype="convict" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4603" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-437" type="justice" subtype="convict" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6038" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-450" type="justice" subtype="convict" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6595" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-463" type="justice" subtype="convict" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9362" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-476" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5050" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-489" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4699" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-502" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6134" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-515" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6691" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-528" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9458" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-541" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7416" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-554" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7588" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-567" type="personnel" subtype="endposition" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8175" length="9">discharge</trigger>
+      </event_mention>
+<event_mention id="em-580" type="personnel" subtype="endposition" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5436" length="9">discharge</trigger>
+      </event_mention>
+<event_mention id="em-593" type="justice" subtype="execute" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8516" length="4">hung</trigger>
+      </event_mention>
+<event_mention id="em-606" type="justice" subtype="execute" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5777" length="4">hung</trigger>
+      </event_mention>
+<event_mention id="em-619" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8272" length="4">left</trigger>
+      </event_mention>
+<event_mention id="em-632" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5533" length="4">left</trigger>
+      </event_mention>
+<event_mention id="em-645" type="personnel" subtype="endposition" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5648" length="6">resign</trigger>
+      </event_mention>
+<event_mention id="em-658" type="personnel" subtype="endposition" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8387" length="6">resign</trigger>
+      </event_mention>
+<event_mention id="em-671" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="531" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-684" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="580" length="8">Charging</trigger>
+      </event_mention>
+<event_mention id="em-710" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="1146" length="12">prosecutions</trigger>
+      </event_mention>
+<event_mention id="em-723" type="life" subtype="die" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="1587" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-736" type="life" subtype="die" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="1663" length="7">murders</trigger>
+      </event_mention>
+<event_mention id="em-749" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2094" length="9">providing</trigger>
+      </event_mention>
+<event_mention id="em-762" type="life" subtype="die" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2430" length="6">deaths</trigger>
+      </event_mention>
+<event_mention id="em-775" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2263" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-788" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2867" length="8">got hold</trigger>
+      </event_mention>
+<event_mention id="em-801" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4340" length="17">throwing the book</trigger>
+      </event_mention>
+<event_mention id="em-827" type="conflict" subtype="attack" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7490" length="8">attacked</trigger>
+      </event_mention>
+<event_mention id="em-840" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7549" length="8">diverted</trigger>
+      </event_mention>
+<event_mention id="em-853" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7624" length="7">running</trigger>
+      </event_mention>
+<event_mention id="em-866" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8580" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-879" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8685" length="8">obtained</trigger>
+      </event_mention>
+<event_mention id="em-892" type="conflict" subtype="attack" realis="actual">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8730" length="4">raid</trigger>
+      </event_mention>
+<event_mention id="em-905" type="life" subtype="die" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9065" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-918" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="504" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-944" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="2534" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-957" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7455" length="9">terrorism</trigger>
+      </event_mention>
+<event_mention id="em-970" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8602" length="9">testimony</trigger>
+      </event_mention>
+<event_mention id="em-983" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8914" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-996" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8866" length="7">putting</trigger>
+      </event_mention>
+<event_mention id="em-1009" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="719" length="6">posted</trigger>
+      </event_mention>
+<event_mention id="em-1022" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="779" length="4">gave</trigger>
+      </event_mention>
+<event_mention id="em-1035" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="1587" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-1050" type="conflict" subtype="attack" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="1663" length="7">murders</trigger>
+      </event_mention>
+<event_mention id="em-1065" type="life" subtype="die" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="3305" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-1080" type="life" subtype="die" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="3546" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-1093" type="life" subtype="die" realis="generic">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="3901" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-1106" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4485" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1121" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4562" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-1136" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4615" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1151" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4836" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1164" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4913" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-1177" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="4966" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1190" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5227" length="6">leaked</trigger>
+      </event_mention>
+<event_mention id="em-1203" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5327" length="6">leaked</trigger>
+      </event_mention>
+<event_mention id="em-1216" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8458" length="7">leaking</trigger>
+      </event_mention>
+<event_mention id="em-1231" type="life" subtype="die" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="8516" length="4">hung</trigger>
+      </event_mention>
+<event_mention id="em-1246" type="life" subtype="die" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5777" length="4">hung</trigger>
+      </event_mention>
+<event_mention id="em-1259" type="conflict" subtype="attack" realis="other">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9065" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-1272" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9244" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1285" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9321" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-1298" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="5997" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-1311" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6554" length="4">Sell</trigger>
+      </event_mention>
+<event_mention id="em-1324" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="6050" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1337" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="9374" length="4">Leak</trigger>
+      </event_mention>
+<event_mention id="em-1350" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7416" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-1363" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7588" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-1376" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1ef1a80e902c1fc4507ca6285ab740ec" offset="7624" length="7">running</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

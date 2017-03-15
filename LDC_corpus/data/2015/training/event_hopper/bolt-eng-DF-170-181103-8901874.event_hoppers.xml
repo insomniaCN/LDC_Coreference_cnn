@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000566" doc_id="bolt-eng-DF-170-181103-8901874" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="388" length="4">shot</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="842" length="8">shooting</trigger>
+      </event_mention>
+      <event_mention id="em-111" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="2979" length="9">shootings</trigger>
+      </event_mention>
+      <event_mention id="em-137" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="4296" length="9">shootings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="896" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="1011" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="1069" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-81" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="1471" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-96" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="2522" length="12">expenditures</trigger>
+      </event_mention>
+      <event_mention id="em-124" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="3839" length="12">expenditures</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-150" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="4943" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-165" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="7088" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-180" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="7239" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-193" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="7437" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-221" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="9063" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-260" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="14164" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-387" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="10841" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-219">
+      <event_mention id="em-206" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="7530" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-234" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="9429" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-247" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="9953" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-286">
+      <event_mention id="em-273" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="14504" length="9">purchases</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-301">
+      <event_mention id="em-288" type="justice" subtype="convict" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="14580" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-316">
+      <event_mention id="em-303" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="14998" length="6">deaths</trigger>
+      </event_mention>
+      <event_mention id="em-333" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="15829" length="6">deaths</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-331">
+      <event_mention id="em-318" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="15104" length="11">impeachment</trigger>
+      </event_mention>
+      <event_mention id="em-346" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="15935" length="11">impeachment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-372">
+      <event_mention id="em-359" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="3195" length="3">say</trigger>
+      </event_mention>
+      <event_mention id="em-374" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="4512" length="3">say</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-413">
+      <event_mention id="em-400" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="9373" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-415" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-170-181103-8901874" offset="9897" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

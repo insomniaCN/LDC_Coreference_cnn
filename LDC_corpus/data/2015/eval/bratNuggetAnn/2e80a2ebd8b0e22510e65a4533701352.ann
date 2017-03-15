@@ -1,0 +1,39 @@
+T1	Contact_Broadcast 1253 1260	leaking
+E38	Contact_Broadcast:T1
+A1	Realis E38 Other
+T2	Movement_Transport-Person 270 276	exiled
+E101	Movement_Transport-Person:T2
+A2	Realis E101 Actual
+T3	Personnel_End-Position 1325 1331	former
+E167	Personnel_End-Position:T3
+A3	Realis E167 Actual
+T4	Contact_Contact 514 524	complaints
+E251	Contact_Contact:T4
+A4	Realis E251 Actual
+T5	Contact_Broadcast 680 688	notified
+E447	Contact_Broadcast:T5
+A5	Realis E447 Actual
+T6	Personnel_End-Position 693 699	former
+E454	Personnel_End-Position:T6
+A6	Realis E454 Actual
+T7	Movement_Transport-Person 1167 1172	exile
+E561	Movement_Transport-Person:T7
+A7	Realis E561 Actual
+T8	Personnel_End-Position 1062 1071	dismissed
+E684	Personnel_End-Position:T8
+A8	Realis E684 Actual
+T9	Personnel_End-Position 969 975	former
+E723	Personnel_End-Position:T9
+A9	Realis E723 Actual
+T10	Contact_Broadcast 932 937	wrote
+E738	Contact_Broadcast:T10
+A10	Realis E738 Actual
+T11	Justice_Convict 1219 1228	convicted
+E739	Justice_Convict:T11
+A11	Realis E739 Actual
+T12	Personnel_End-Position 348 354	former
+E865	Personnel_End-Position:T12
+A12	Realis E865 Actual
+T13	Movement_Transport-Person 1318 1324	exiled
+E990	Movement_Transport-Person:T13
+A13	Realis E990 Actual

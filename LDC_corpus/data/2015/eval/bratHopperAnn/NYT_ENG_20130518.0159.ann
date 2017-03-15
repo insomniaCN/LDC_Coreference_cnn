@@ -1,0 +1,179 @@
+T1	Personnel_End-Position 196 200	OUST
+E56	Personnel_End-Position:T1
+A1	Realis E56 Other
+T2	Personnel_End-Position 300 306	ousted
+E611	Personnel_End-Position:T2
+A2	Realis E611 Actual
+T3	Personnel_End-Position 1003 1011	rejected
+E576	Personnel_End-Position:T3
+A3	Realis E576 Actual
+T4	Personnel_End-Position 1049 1058	step down
+E757	Personnel_End-Position:T4
+A4	Realis E757 Other
+T5	Personnel_End-Position 1573 1582	departing
+E202	Personnel_End-Position:T5
+A5	Realis E202 Other
+T6	Personnel_End-Position 2973 2983	voting out
+E421	Personnel_End-Position:T6
+A6	Realis E421 Other
+T7	Personnel_End-Position 3281 3291	voting out
+E883	Personnel_End-Position:T7
+A7	Realis E883 Other
+T8	Transaction_Transfer-Money 228 236	DIVIDEND
+E813	Transaction_Transfer-Money:T8
+A8	Realis E813 Other
+T9	Transaction_Transfer-Money 474 482	dividend
+E298	Transaction_Transfer-Money:T9
+A9	Realis E298 Other
+T10	Transaction_Transfer-Money 1889 1897	dividend
+E180	Transaction_Transfer-Money:T10
+A10	Realis E180 Other
+T11	Transaction_Transfer-Money 3572 3580	dividend
+E373	Transaction_Transfer-Money:T11
+A11	Realis E373 Other
+T12	Life_Die 2506 2512	killed
+E280	Life_Die:T12
+A12	Realis E280 Actual
+T13	Personnel_Elect 345 354	installed
+E284	Personnel_Elect:T13
+A13	Realis E284 Actual
+T14	Personnel_Elect 962 967	chose
+E617	Personnel_Elect:T14
+A14	Realis E617 Actual
+T15	Personnel_Elect 2996 3004	electing
+E8	Personnel_Elect:T15
+A15	Realis E8 Actual
+T16	Personnel_Nominate 396 404	nominees
+E26	Personnel_Nominate:T16
+A16	Realis E26 Actual
+T17	Personnel_Nominate 974 981	nominee
+E455	Personnel_Nominate:T17
+A17	Realis E455 Actual
+T18	Personnel_Nominate 2129 2137	nominees
+E409	Personnel_Nominate:T18
+A18	Realis E409 Actual
+T19	Contact_Meet 662 669	meeting
+E575	Contact_Meet:T19
+A19	Realis E575 Actual
+T20	Contact_Meet 4181 4188	meeting
+E522	Contact_Meet:T20
+A20	Realis E522 Actual
+T21	Contact_Meet 4439 4446	meeting
+E319	Contact_Meet:T21
+A21	Realis E319 Actual
+T22	Transaction_Transfer-Money 765 773	dividend
+E717	Transaction_Transfer-Money:T22
+A22	Realis E717 Other
+T23	Transaction_Transfer-Money 804 811	payable
+E605	Transaction_Transfer-Money:T23
+A23	Realis E605 Other
+T24	Transaction_Transfer-Money 1397 1405	dividend
+E96	Transaction_Transfer-Money:T24
+A24	Realis E96 Other
+T25	Personnel_Nominate 1191 1201	candidates
+E59	Personnel_Nominate:T25
+A25	Realis E59 Actual
+T26	Personnel_Elect 1121 1129	approved
+E292	Personnel_Elect:T26
+A26	Realis E292 Actual
+T27	Personnel_Nominate 1165 1173	nominees
+E602	Personnel_Nominate:T27
+A27	Realis E602 Actual
+T28	Contact_Correspondence 1287 1296	interview
+E266	Contact_Correspondence:T28
+A28	Realis E266 Actual
+T29	Transaction_Transfer-Money 1977 1983	bought
+E168	Transaction_Transfer-Money:T29
+A29	Realis E168 Actual
+T30	Transaction_Transfer-Ownership 1977 1983	bought
+E235	Transaction_Transfer-Ownership:T30
+A30	Realis E235 Actual
+T31	Contact_Contact 1937 1946	disclosed
+E84	Contact_Contact:T31
+A31	Realis E84 Actual
+T32	Personnel_End-Position 2727 2731	oust
+E860	Personnel_End-Position:T32
+A32	Realis E860 Other
+T33	Personnel_Start-Position 2784 2793	replacing
+E53	Personnel_Start-Position:T33
+A33	Realis E53 Other
+T34	Personnel_End-Position 2813 2819	former
+E384	Personnel_End-Position:T34
+A34	Realis E384 Actual
+T35	Contact_Contact 2258 2263	cited
+E365	Contact_Contact:T35
+A35	Realis E365 Actual
+T36	Transaction_Transfer-Money 2672 2679	trading
+E251	Transaction_Transfer-Money:T36
+A36	Realis E251 Generic
+T37	Contact_Contact 3030 3039	statement
+E973	Contact_Contact:T37
+A37	Realis E973 Actual
+T38	Personnel_Start-Position 3656 3665	selecting
+E656	Personnel_Start-Position:T38
+A38	Realis E656 Other
+T39	Personnel_End-Position 3971 3979	retiring
+E479	Personnel_End-Position:T39
+A39	Realis E479 Actual
+T40	Personnel_End-Position 3843 3849	former
+E803	Personnel_End-Position:T40
+A40	Realis E803 Actual
+T41	Personnel_End-Position 1615 1623	formerly
+E356	Personnel_End-Position:T41
+A41	Realis E356 Actual
+T42	Personnel_End-Position 4088 4094	former
+E499	Personnel_End-Position:T42
+A42	Realis E499 Actual
+T43	Personnel_Elect 4201 4211	re-elected
+E594	Personnel_Elect:T43
+A43	Realis E594 Actual
+T44	Personnel_Nominate 4259 4266	nominee
+E466	Personnel_Nominate:T44
+A44	Realis E466 Actual
+T45	Manufacture_Artifact 4320 4325	maker
+E510	Manufacture_Artifact:T45
+A45	Realis E510 Generic
+T46	Personnel_Elect 4344 4351	elected
+E686	Personnel_Elect:T46
+A46	Realis E686 Actual
+T47	Contact_Contact 4636 4645	statement
+E30	Contact_Contact:T47
+A47	Realis E30 Actual
+T48	Contact_Contact 237 245	PROPOSAL
+E276	Contact_Contact:T48
+A48	Realis E276 Actual
+T49	Contact_Contact 446 454	proposal
+E664	Contact_Contact:T49
+A49	Realis E664 Actual
+T50	Contact_Contact 1898 1906	proposal
+E81	Contact_Contact:T50
+A50	Realis E81 Actual
+T51	Personnel_Elect 1096 1106	re-elected
+E467	Personnel_Elect:T51
+A51	Realis E467 Other
+T52	Personnel_Elect 929 933	vote
+E325	Personnel_Elect:T52
+A52	Realis E325 Actual
+T53	Contact_Contact 2700 2708	proposed
+E366	Contact_Contact:T53
+A53	Realis E366 Actual
+R1	Coreference Arg1:E56 Arg2:E611
+R2	Coreference Arg1:E611 Arg2:E576
+R3	Coreference Arg1:E576 Arg2:E757
+R4	Coreference Arg1:E757 Arg2:E202
+R5	Coreference Arg1:E202 Arg2:E421
+R6	Coreference Arg1:E421 Arg2:E883
+R7	Coreference Arg1:E813 Arg2:E298
+R8	Coreference Arg1:E298 Arg2:E180
+R9	Coreference Arg1:E180 Arg2:E373
+R10	Coreference Arg1:E284 Arg2:E617
+R11	Coreference Arg1:E617 Arg2:E8
+R12	Coreference Arg1:E26 Arg2:E455
+R13	Coreference Arg1:E455 Arg2:E409
+R14	Coreference Arg1:E575 Arg2:E522
+R15	Coreference Arg1:E522 Arg2:E319
+R16	Coreference Arg1:E717 Arg2:E605
+R17	Coreference Arg1:E605 Arg2:E96
+R18	Coreference Arg1:E356 Arg2:E803
+R19	Coreference Arg1:E276 Arg2:E664
+R20	Coreference Arg1:E664 Arg2:E81

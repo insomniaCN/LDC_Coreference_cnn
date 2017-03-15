@@ -1,0 +1,90 @@
+T1	Transaction_Transfer-Ownership 342 348	bought
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Business_Merge-Org 392 398	merged
+E2	Business_Merge-Org:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 474 483	appointed
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T4	Business_Merge-Org 941 944;950 958	put together
+E4	Business_Merge-Org:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 1115 1122	revenue
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+A6	Questionable E5 Realis
+T6	Business_Merge-Org 1174 1180	merged
+E6	Business_Merge-Org:T6 
+A7	Realis E6 Actual
+T7	Transaction_Transfer-Money 1201 1209	revenues
+E7	Transaction_Transfer-Money:T7 
+A8	Questionable E7 Realis
+A9	Realis E7 Actual
+T8	Business_Merge-Org 1275 1281	merger
+E8	Business_Merge-Org:T8 
+A10	Realis E8 Actual
+T9	Transaction_Transfer-Ownership 1353 1359	bought
+E9	Transaction_Transfer-Ownership:T9 
+A11	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 1441 1446;1447 1450	sold  off
+E10	Transaction_Transfer-Ownership:T10 
+A12	Realis E10 Actual
+T11	Business_Merge-Org 1497 1503	joined
+E11	Business_Merge-Org:T11 
+A13	Realis E11 Actual
+T12	Business_Merge-Org 1605 1611	merger
+E12	Business_Merge-Org:T12 
+A14	Realis E12 Actual
+T13	Contact_Meet 1929 1933	meet
+E13	Contact_Meet:T13 
+A15	Realis E13 Actual
+T14	Contact_Meet 2474 2478	told
+E14	Contact_Meet:T14 
+A16	Realis E14 Actual
+T15	Movement_Transport-Person 2619 2624;2625 2627	walk  in
+E15	Movement_Transport-Person:T15 
+A17	Questionable E15 Realis
+A18	Realis E15 Generic
+T16	Business_Merge-Org 2854 2862	combined
+E16	Business_Merge-Org:T16 
+A19	Realis E16 Actual
+T17	Transaction_Transfer-Ownership 2970 2978	provides
+E17	Transaction_Transfer-Ownership:T17 
+A20	Realis E17 Actual
+T18	Transaction_Transfer-Money 3056 3060;3063 3069	turn profit
+E18	Transaction_Transfer-Money:T18 
+A21	Questionable E18 Realis
+A22	Realis E18 Actual
+T19	Business_Merge-Org 3093 3099	merger
+E19	Business_Merge-Org:T19 
+A23	Realis E19 Actual
+T20	Transaction_Transfer-Ownership 2874 2880	buying
+E20	Transaction_Transfer-Ownership:T20 
+A24	Questionable E20 Realis
+A25	Realis E20 Other
+T21	Transaction_Transfer-Ownership 3151 3158	renting
+E21	Transaction_Transfer-Ownership:T21 
+A26	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 3529 3536	renting
+E22	Transaction_Transfer-Ownership:T22 
+A27	Realis E22 Generic
+T23	Transaction_Transfer-Money 3664 3671	revenue
+E23	Transaction_Transfer-Money:T23 
+A28	Questionable E23 Realis
+A29	Realis E23 Actual
+T24	Business_Merge-Org 3729 3735	merger
+E24	Business_Merge-Org:T24 
+A30	Realis E24 Actual
+T25	Transaction_Transfer-Money 4062 4068;4084 4095	secure credit line
+E25	Transaction_Transfer-Money:T25 
+A31	Realis E25 Actual
+T26	Transaction_Transfer-Money 4471 4478;4488 4494	recover income
+E26	Transaction_Transfer-Money:T26 
+A32	Realis E26 Other
+T27	Transaction_Transfer-Ownership 5186 5192	bought
+E27	Transaction_Transfer-Ownership:T27 
+A33	Realis E27 Actual
+T28	Transaction_Transfer-Ownership 5406 5410	sold
+E28	Transaction_Transfer-Ownership:T28 
+A34	Realis E28 Actual

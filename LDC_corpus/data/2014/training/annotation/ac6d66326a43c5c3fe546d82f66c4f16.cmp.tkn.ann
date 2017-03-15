@@ -1,0 +1,129 @@
+T1	Life_Die 91 95	dead
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Personnel_Elect 299 307	election
+E2	Personnel_Elect:T2 
+A2	Realis E2 Other
+T3	Justice_Arrest-Jail 428 436	captured
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 790 793	war
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Personnel_Elect 905 913	election
+E5	Personnel_Elect:T5 
+A5	Realis E5 Other
+T6	Life_Die 1506 1511	death
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Die 1741 1745	dead
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Life_Die 1994 1999	death
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Life_Die 2155 2160	death
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Life_Die 2336 2342	killed
+E10	Life_Die:T10 
+A10	Realis E10 Other
+T11	Life_Die 2365 2369	dead
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Justice_Arrest-Jail 2398 2404	caught
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Other
+T13	Life_Die 2450 2453	die
+E13	Life_Die:T13 
+A13	Realis E13 Other
+T14	Life_Die 2535 2540	death
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 2568 2571	War
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 2575 2581	Terror
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Life_Die 2621 2626	death
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Transaction 2942 2947	death
+E18	Transaction:T18 
+A18	Realis E18 Generic
+T19	Movement_Transport-Person 3008 3012	drag
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Other
+T20	Contact_Meet 3062 3073	interacting
+E20	Contact_Meet:T20 
+A20	Realis E20 Other
+T21	Conflict_Attack 3275 3278	war
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 3314 3317	war
+E22	Conflict_Attack:T22 
+A22	Realis E22 Generic
+T23	Movement_Transport-Person 3462 3471	picked up
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 3555 3561	fought
+E24	Conflict_Attack:T24 
+A24	Realis E24 Generic
+T25	Conflict_Attack 3570 3573	war
+E25	Conflict_Attack:T25 
+A25	Realis E25 Generic
+T26	Conflict_Attack 3619 3621	it
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Life_Die 3777 3781	dead
+E27	Life_Die:T27 
+A27	Realis E27 Actual
+T28	Contact_Communicate 4610 4613	say
+E28	Contact_Communicate:T28 
+A28	Realis E28 Other
+T29	Life_Die 5207 5211	dead
+E29	Life_Die:T29 
+A29	Realis E29 Other
+T30	Justice_Arrest-Jail 5286 5294	captured
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Other
+T31	Justice_Arrest-Jail 5315 5317	it
+E31	Justice_Arrest-Jail:T31 
+A31	Realis E31 Other
+T32	Life_Die 5468 5472	dead
+E32	Life_Die:T32 
+A32	Realis E32 Other
+T33	Justice_Arrest-Jail 5547 5555	captured
+E33	Justice_Arrest-Jail:T33 
+A33	Realis E33 Other
+T34	Justice_Arrest-Jail 5576 5578	it
+E34	Justice_Arrest-Jail:T34 
+A34	Realis E34 Other
+T35	Conflict_Attack 5639 5647	shootout
+E35	Conflict_Attack:T35 
+A35	Realis E35 Other
+T36	Justice_Arrest-Jail 5695 5702	capture
+E36	Justice_Arrest-Jail:T36 
+A36	Realis E36 Other
+T37	Justice_Arrest-Jail 5763 5772	detention
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Other
+T38	Justice_Trial-Hearing 5784 5789	trial
+E38	Justice_Trial-Hearing:T38 
+A38	Realis E38 Other
+T39	Life_Die 5877 5881	kill
+E39	Life_Die:T39 
+A39	Realis E39 Other
+T40	Justice_Convict 5932 5941	convicted
+E40	Justice_Convict:T40 
+A40	Realis E40 Other
+T41	Justice_Execute 5957 5965	executed
+E41	Justice_Execute:T41 
+A41	Realis E41 Other
+T42	Justice_Trial-Hearing 5992 5996;6020 6025	give trial
+E42	Justice_Trial-Hearing:T42 
+A42	Realis E42 Other
+T43	Conflict_Attack 3488 3491	WW2
+E43	Conflict_Attack:T43 
+A43	Realis E43 Actual

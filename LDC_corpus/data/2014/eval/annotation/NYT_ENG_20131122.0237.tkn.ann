@@ -1,0 +1,51 @@
+T1	Transaction_Transfer-Ownership 1778 1790	commandeered
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 2305 2314	locked up
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 2660 2666	remove
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Other
+T4	Personnel_Elect 2803 2808	elect
+E4	Personnel_Elect:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 3195 3203	spending
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Generic
+T6	Personnel_Elect 3325 3332	elected
+E6	Personnel_Elect:T6 
+A6	Realis E6 Actual
+T7	Business_End-Org 3415 3424	dissolved
+E7	Business_End-Org:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 3709 3714;3721 3726	takes calls
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 3788 3792	call
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Personnel_End-Position 3852 3853	i
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Other
+T11	Contact_Communicate 4107 4115	responds
+E11	Contact_Communicate:T11 
+A11	Realis E11 Generic
+T12	Contact_Communicate 880 886	posted
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 931 935	rant
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Contact_Meet 832 842	consorting
+E14	Contact_Meet:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 2134 2146	rode through
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Conflict_Demonstrate 2342 2349	protest
+E16	Conflict_Demonstrate:T16 
+A16	Realis E16 Actual
+T17	Personnel_Elect 4588 4593	elect
+E17	Personnel_Elect:T17 
+A17	Realis E17 Other

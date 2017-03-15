@@ -1,0 +1,102 @@
+T1	Justice_Charge-Indict 201 207	CHARGE
+E52	Justice_Charge-Indict:T1
+A1	Realis E52 Other
+T2	Contact_Contact 268 273	asked
+E61	Contact_Contact:T2
+A2	Realis E61 Actual
+T3	Contact_Broadcast 1614 1618	said
+E93	Contact_Broadcast:T3
+A3	Realis E93 Actual
+T4	Personnel_End-Position 3044 3051	replace
+E103	Personnel_End-Position:T4
+A4	Realis E103 Actual
+T5	Justice_Charge-Indict 533 540	charges
+E140	Justice_Charge-Indict:T5
+A5	Realis E140 Generic
+T6	Contact_Contact 397 401	said
+E142	Contact_Contact:T6
+A6	Realis E142 Actual
+T7	Transaction_Transaction 2706 2709	buy
+E182	Transaction_Transaction:T7
+A7	Realis E182 Generic
+T8	Justice_Charge-Indict 780 787	charged
+E189	Justice_Charge-Indict:T8
+A8	Realis E189 Actual
+T9	Personnel_Start-Position 1060 1065	posts
+E208	Personnel_Start-Position:T9
+A9	Realis E208 Other
+T10	Contact_Contact 406 413	request
+E264	Contact_Contact:T10
+A10	Realis E264 Actual
+T11	Contact_Broadcast 1624 1633	statement
+E294	Contact_Broadcast:T11
+A11	Realis E294 Actual
+T12	Transaction_Transfer-Money 2380 2388	offering
+E391	Transaction_Transfer-Money:T12
+A12	Realis E391 Generic
+T13	Justice_Charge-Indict 1977 1984	charges
+E395	Justice_Charge-Indict:T13
+A13	Realis E395 Other
+T14	Personnel_End-Position 308 314	former
+E398	Personnel_End-Position:T14
+A14	Realis E398 Actual
+T15	Contact_Correspondence 1940 1944	said
+E402	Contact_Correspondence:T15
+A15	Realis E402 Actual
+T16	Personnel_End-Position 2331 2337	resign
+E446	Personnel_End-Position:T16
+A16	Realis E446 Generic
+T17	Personnel_Nominate 2983 2992	appointed
+E455	Personnel_Nominate:T17
+A17	Realis E455 Actual
+T18	Personnel_End-Position 733 739	resign
+E471	Personnel_End-Position:T18
+A18	Realis E471 Actual
+T19	Contact_Contact 1184 1188	said
+E631	Contact_Contact:T19
+A19	Realis E631 Actual
+T20	Justice_Charge-Indict 1016 1023	charged
+E682	Justice_Charge-Indict:T20
+A20	Realis E682 Actual
+T21	Personnel_Start-Position 630 643	came to power
+E687	Personnel_Start-Position:T21
+A21	Realis E687 Actual
+T22	Contact_Meet 2795 2802	discuss
+E694	Contact_Meet:T22
+A22	Realis E694 Other
+T23	Personnel_Start-Position 2503 2510	awarded
+E723	Personnel_Start-Position:T23
+A23	Realis E723 Other
+T24	Personnel_Start-Position 3044 3051	replace
+E755	Personnel_Start-Position:T24
+A24	Realis E755 Other
+T25	Contact_Correspondence 2189 2193	said
+E765	Contact_Correspondence:T25
+A25	Realis E765 Actual
+T26	Contact_Contact 910 918	ordering
+E777	Contact_Contact:T26
+A26	Realis E777 Actual
+T27	Life_Divorce 983 992	divorcing
+E793	Life_Divorce:T27
+A27	Realis E793 Other
+T28	Personnel_End-Position 208 210	EX
+E876	Personnel_End-Position:T28
+A28	Realis E876 Actual
+T29	Justice_Charge-Indict 1596 1603	charged
+E884	Justice_Charge-Indict:T29
+A29	Realis E884 Other
+T30	Personnel_End-Position 3016 3022	former
+E890	Personnel_End-Position:T30
+A30	Realis E890 Actual
+T31	Contact_Contact 2902 2906	said
+E900	Contact_Contact:T31
+A31	Realis E900 Actual
+T32	Justice_Charge-Indict 431 439	charging
+E917	Justice_Charge-Indict:T32
+A32	Realis E917 Other
+T33	Contact_Contact 2279 2283	said
+E934	Contact_Contact:T33
+A33	Realis E934 Actual
+T34	Contact_Broadcast 1401 1405	said
+E957	Contact_Broadcast:T34
+A34	Realis E957 Actual

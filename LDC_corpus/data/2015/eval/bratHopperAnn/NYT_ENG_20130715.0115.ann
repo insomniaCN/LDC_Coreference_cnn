@@ -1,0 +1,98 @@
+T1	Contact_Contact 407 416	declaring
+E350	Contact_Contact:T1
+A1	Realis E350 Actual
+T2	Conflict_Demonstrate 626 632	strike
+E48	Conflict_Demonstrate:T2
+A2	Realis E48 Actual
+T3	Justice_Release-Parole 765 772	release
+E349	Justice_Release-Parole:T3
+A3	Realis E349 Other
+T4	Justice_Release-Parole 2473 2480	release
+E220	Justice_Release-Parole:T4
+A4	Realis E220 Other
+T5	Justice_Release-Parole 2638 2645	release
+E83	Justice_Release-Parole:T5
+A5	Realis E83 Other
+T6	Justice_Arrest-Jail 673 684	confinement
+E943	Justice_Arrest-Jail:T6
+A6	Realis E943 Generic
+T7	Justice_Arrest-Jail 1377 1388	confinement
+E444	Justice_Arrest-Jail:T7
+A7	Realis E444 Generic
+T8	Movement_Transport-Person 806 814	transfer
+E108	Movement_Transport-Person:T8
+A8	Realis E108 Other
+T9	Life_Die 864 870	deadly
+E974	Life_Die:T9
+A9	Realis E974 Generic
+T10	Contact_Contact 1250 1254	said
+E297	Contact_Contact:T10
+A10	Realis E297 Actual
+T11	Justice_Sue 1355 1362	lawsuit
+E580	Justice_Sue:T11
+A11	Realis E580 Actual
+T12	Contact_Contact 1710 1713	say
+E964	Contact_Contact:T12
+A12	Realis E964 Actual
+T13	Contact_Contact 1814 1817	say
+E768	Contact_Contact:T13
+A13	Realis E768 Actual
+T14	Contact_Contact 2185 2193	declared
+E980	Contact_Contact:T14
+A14	Realis E980 Actual
+T15	Contact_Contact 2387 2397	threatened
+E228	Contact_Contact:T15
+A15	Realis E228 Actual
+T16	Justice_Appeal 2509 2517	appealed
+E385	Justice_Appeal:T16
+A16	Realis E385 Actual
+T17	Justice_Arrest-Jail 206 213	PRISONS
+E680	Justice_Arrest-Jail:T17
+A17	Realis E680 Generic
+T18	Justice_Arrest-Jail 427 433	prison
+E325	Justice_Arrest-Jail:T18
+A18	Realis E325 Generic
+T19	Justice_Arrest-Jail 541 547	prison
+E343	Justice_Arrest-Jail:T19
+A19	Realis E343 Generic
+T20	Justice_Arrest-Jail 906 913	prisons
+E700	Justice_Arrest-Jail:T20
+A20	Realis E700 Generic
+T21	Justice_Arrest-Jail 1616 1622	prison
+E526	Justice_Arrest-Jail:T21
+A21	Realis E526 Generic
+T22	Justice_Arrest-Jail 2275 2282	prisons
+E586	Justice_Arrest-Jail:T22
+A22	Realis E586 Generic
+T23	Justice_Arrest-Jail 790 797	inmates
+E648	Justice_Arrest-Jail:T23
+A23	Realis E648 Actual
+T24	Justice_Arrest-Jail 2481 2490	prisoners
+E78	Justice_Arrest-Jail:T24
+A24	Realis E78 Actual
+T25	Justice_Arrest-Jail 2649 2658	prisoners
+E131	Justice_Arrest-Jail:T25
+A25	Realis E131 Actual
+T26	Contact_Broadcast 945 951	called
+E256	Contact_Broadcast:T26
+A26	Realis E256 Actual
+T27	Justice_Arrest-Jail 1020 1024	bars
+E947	Justice_Arrest-Jail:T27
+A27	Realis E947 Actual
+T28	Justice_Arrest-Jail 1124 1133	prisoners
+E620	Justice_Arrest-Jail:T28
+A28	Realis E620 Generic
+T29	Justice_Arrest-Jail 1804 1813	prisoners
+E283	Justice_Arrest-Jail:T29
+A29	Realis E283 Generic
+R1	Coreference Arg1:E349 Arg2:E220
+R2	Coreference Arg1:E220 Arg2:E83
+R3	Coreference Arg1:E943 Arg2:E444
+R4	Coreference Arg1:E680 Arg2:E325
+R5	Coreference Arg1:E325 Arg2:E343
+R6	Coreference Arg1:E343 Arg2:E700
+R7	Coreference Arg1:E700 Arg2:E526
+R8	Coreference Arg1:E526 Arg2:E586
+R9	Coreference Arg1:E648 Arg2:E78
+R10	Coreference Arg1:E78 Arg2:E131
+R11	Coreference Arg1:E620 Arg2:E283

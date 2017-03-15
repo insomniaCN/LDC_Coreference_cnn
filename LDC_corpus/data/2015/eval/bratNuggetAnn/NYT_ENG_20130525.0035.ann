@@ -1,0 +1,144 @@
+T1	Personnel_End-Position 440 446	former
+E21	Personnel_End-Position:T1
+A1	Realis E21 Actual
+T2	Justice_Convict 814 823	convicted
+E29	Justice_Convict:T2
+A2	Realis E29 Actual
+T3	Contact_Broadcast 1282 1291	reporters
+E33	Contact_Broadcast:T3
+A3	Realis E33 Generic
+T4	Movement_Transport-Person 497 501	sent
+E49	Movement_Transport-Person:T4
+A4	Realis E49 Other
+T5	Life_Die 837 847	annihilate
+E51	Life_Die:T5
+A5	Realis E51 Other
+T6	Justice_Extradite 421 432	extradition
+E112	Justice_Extradite:T6
+A6	Realis E112 Actual
+T7	Movement_Transport-Person 2037 2045	transfer
+E117	Movement_Transport-Person:T7
+A7	Realis E117 Actual
+T8	Movement_Transport-Person 2539 2548	extradite
+E173	Movement_Transport-Person:T8
+A8	Realis E173 Actual
+T9	Movement_Transport-Person 201 205	SENT
+E180	Movement_Transport-Person:T9
+A9	Realis E180 Actual
+T10	Conflict_Attack 912 915	war
+E220	Conflict_Attack:T10
+A10	Realis E220 Actual
+T11	Contact_Contact 580 590	complaints
+E229	Contact_Contact:T11
+A11	Realis E229 Generic
+T12	Conflict_Demonstrate 2320 2330	Protesters
+E239	Conflict_Demonstrate:T12
+A12	Realis E239 Actual
+T13	Justice_Extradite 201 205	SENT
+E240	Justice_Extradite:T13
+A13	Realis E240 Actual
+T14	Personnel_Start-Position 1428 1434	worked
+E242	Personnel_Start-Position:T14
+A14	Realis E242 Actual
+T15	Movement_Transport-Person 1321 1330	kidnapped
+E244	Movement_Transport-Person:T15
+A15	Realis E244 Other
+T16	Justice_Charge-Indict 1103 1110	charges
+E251	Justice_Charge-Indict:T16
+A16	Realis E251 Actual
+T17	Justice_Charge-Indict 399 406	charges
+E306	Justice_Charge-Indict:T17
+A17	Realis E306 Actual
+T18	Contact_Contact 1617 1623	called
+E310	Contact_Contact:T18
+A18	Realis E310 Actual
+T19	Contact_Broadcast 1302 1306	said
+E336	Contact_Broadcast:T19
+A19	Realis E336 Actual
+T20	Justice_Extradite 2539 2548	extradite
+E368	Justice_Extradite:T20
+A20	Realis E368 Actual
+T21	Justice_Trial-Hearing 1763 1767	case
+E392	Justice_Trial-Hearing:T21
+A21	Realis E392 Actual
+T22	Justice_Charge-Indict 1575 1582	charges
+E394	Justice_Charge-Indict:T22
+A22	Realis E394 Actual
+T23	Personnel_End-Position 760 766	former
+E424	Personnel_End-Position:T23
+A23	Realis E424 Actual
+T24	Personnel_End-Position 1064 1067	was
+E426	Personnel_End-Position:T24
+A24	Realis E426 Actual
+T25	Justice_Trial-Hearing 222 227	TRIAL
+E523	Justice_Trial-Hearing:T25
+A25	Realis E523 Other
+T26	Conflict_Attack 837 847	annihilate
+E544	Conflict_Attack:T26
+A26	Realis E544 Other
+T27	Justice_Charge-Indict 1534 1541	charges
+E554	Justice_Charge-Indict:T27
+A27	Realis E554 Actual
+T28	Transaction_Transfer-Money 1521 1533	embezzlement
+E562	Transaction_Transfer-Money:T28
+A28	Realis E562 Generic
+T29	Life_Die 733 741	genocide
+E572	Life_Die:T29
+A29	Realis E572 Actual
+T30	Justice_Trial-Hearing 1377 1381	case
+E607	Justice_Trial-Hearing:T30
+A30	Realis E607 Other
+T31	Movement_Transport-Person 349 354	plane
+E628	Movement_Transport-Person:T31
+A31	Realis E628 Actual
+T32	Personnel_End-Position 172 174	EX
+E651	Personnel_End-Position:T32
+A32	Realis E651 Actual
+T33	Conflict_Attack 733 741	genocide
+E660	Conflict_Attack:T33
+A33	Realis E660 Actual
+T34	Movement_Transport-Person 1481 1491	extradited
+E670	Movement_Transport-Person:T34
+A34	Realis E670 Actual
+T35	Movement_Transport-Person 421 432	extradition
+E701	Movement_Transport-Person:T35
+A35	Realis E701 Actual
+T36	Justice_Arrest-Jail 297 307	imprisoned
+E716	Justice_Arrest-Jail:T36
+A36	Realis E716 Actual
+T37	Movement_Transport-Person 1934 1939	flown
+E811	Movement_Transport-Person:T37
+A37	Realis E811 Actual
+T38	Justice_Extradite 497 501	sent
+E822	Justice_Extradite:T38
+A38	Realis E822 Other
+T39	Personnel_End-Position 308 314	former
+E833	Personnel_End-Position:T39
+A39	Realis E833 Actual
+T40	Justice_Arrest-Jail 1841 1847	prison
+E852	Justice_Arrest-Jail:T40
+A40	Realis E852 Actual
+T41	Justice_Extradite 669 680	extradition
+E863	Justice_Extradite:T41
+A41	Realis E863 Actual
+T42	Movement_Transport-Person 1251 1254	put
+E871	Movement_Transport-Person:T42
+A42	Realis E871 Actual
+T43	Transaction_Transfer-Money 1154 1161	launder
+E907	Transaction_Transfer-Money:T43
+A43	Realis E907 Other
+T44	Justice_Acquit 1736 1745	acquitted
+E941	Justice_Acquit:T44
+A44	Realis E941 Actual
+T45	Justice_Trial-Hearing 991 996	trial
+E942	Justice_Trial-Hearing:T45
+A45	Realis E942 Actual
+T46	Justice_Extradite 1481 1491	extradited
+E952	Justice_Extradite:T46
+A46	Realis E952 Actual
+T47	Movement_Transport-Person 669 680	extradition
+E972	Movement_Transport-Person:T47
+A47	Realis E972 Actual
+T48	Personnel_End-Position 1409 1416	leaving
+E976	Personnel_End-Position:T48
+A48	Realis E976 Actual

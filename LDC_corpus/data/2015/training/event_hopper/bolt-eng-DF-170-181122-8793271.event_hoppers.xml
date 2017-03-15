@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000580" doc_id="bolt-eng-DF-170-181122-8793271" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-23" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="250" length="17">filed for divorce</trigger>
+      </event_mention>
+      <event_mention id="em-257" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="4204" length="2">ex</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="322" length="10">confession</trigger>
+      </event_mention>
+      <event_mention id="em-184" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="3456" length="9">confessed</trigger>
+      </event_mention>
+      <event_mention id="em-270" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="4779" length="9">confessed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="546" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="562" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-81" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="1416" length="4">gave</trigger>
+      </event_mention>
+      <event_mention id="em-126" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="1752" length="4">gave</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-96" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="1580" length="6">funded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-111" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="1587" length="4">trip</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-139" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="1946" length="7">Divorce</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-154" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="1989" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-169" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="2174" length="7">divorce</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-197" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="3787" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-212" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="3803" length="6">taking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-227" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="3984" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-242" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8793271" offset="3984" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

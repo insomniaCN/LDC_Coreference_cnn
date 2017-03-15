@@ -1,0 +1,45 @@
+T1	Movement_Transport-Person 274 276	go
+E64	Movement_Transport-Person:T1
+A1	Realis E64 Other
+T2	Contact_Meet 157 161	date
+E91	Contact_Meet:T2
+A2	Realis E91 Other
+T3	Movement_Transport-Person 890 895	going
+E210	Movement_Transport-Person:T3
+A3	Realis E210 Other
+T4	Contact_Correspondence 545 554	answering
+E312	Contact_Correspondence:T4
+A4	Realis E312 Other
+T5	Contact_Correspondence 1595 1599	call
+E317	Contact_Correspondence:T5
+A5	Realis E317 Other
+T6	Contact_Meet 1087 1091	date
+E330	Contact_Meet:T6
+A6	Realis E330 Other
+T7	Movement_Transport-Person 295 302	back to
+E423	Movement_Transport-Person:T7
+A7	Realis E423 Other
+T8	Contact_Correspondence 608 612	call
+E466	Contact_Correspondence:T8
+A8	Realis E466 Other
+T9	Contact_Correspondence 1112 1116	call
+E625	Contact_Correspondence:T9
+A9	Realis E625 Other
+T10	Contact_Meet 715 719	show
+E666	Contact_Meet:T10
+A10	Realis E666 Other
+T11	Contact_Meet 1380 1386	seeing
+E731	Contact_Meet:T11
+A11	Realis E731 Other
+T12	Contact_Correspondence 490 498	messaged
+E889	Contact_Correspondence:T12
+A12	Realis E889 Actual
+T13	Contact_Correspondence 523 530	calling
+E892	Contact_Correspondence:T13
+A13	Realis E892 Actual
+T14	Movement_Transport-Person 213 217	went
+E935	Movement_Transport-Person:T14
+A14	Realis E935 Actual
+T15	Contact_Correspondence 818 821	let
+E973	Contact_Correspondence:T15
+A15	Realis E973 Generic

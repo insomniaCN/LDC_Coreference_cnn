@@ -1,0 +1,28 @@
+<DOC id="NYT_ENG_20130429.0191" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130429/20130429,b8de4fbf4e95d435fe5c0aaa1b898231.xml">
+<HEADLINE>
+KODAK SPINOFFS CLEAR PATH FOR EXIT FROM BANKRUPTCY
+</HEADLINE>
+<TEXT>
+<P>
+Kodak said Monday that it would spin off its document and personal imaging units to its British pension plan for $650 million in cash and noncash considerations, a move that paves the way for Kodak’s exit from bankruptcy protection.
+</P>
+<P>
+Kodak had been seeking to sell off the two imaging operations. Two weeks ago, Eastman Kodak announced a plan to sell its document imaging business to Brother of Japan for $210 million, with the provision that it could revisit the deal if it could sell both units together.
+</P>
+<P>
+Now the bankrupt film pioneer has struck an even more advantageous deal after a protracted sales process.
+</P>
+<P>
+More important, the pension plan will settle its bankruptcy claim of $2.8 billion, paving the way for the company to emerge from Chapter 11 bankruptcy in the United States. On Tuesday, Kodak plans to file a draft plan to emerge from bankruptcy.
+</P>
+<P>
+“In one comprehensive transaction, Kodak will realize its previously announced intention to divest its personalized imaging and document imaging businesses and settle its largest legacy liability,” Antonio M. Perez, Kodak’s chairman and chief executive, said in a statement.
+</P>
+<P>
+The company had filed for bankruptcy protection in January 2012 and has been selling off various assets since then. In December, Kodak reached an agreement to sell 1,100 digital imaging patents to a consortium of technology companies for $525 million, far less than expected. But as part of that sale, Kodak retained a license to use the digital imaging portfolio patents in its future businesses, and for those businesses that it is selling.
+</P>
+<P>
+Kodak is being advised by Lazard and the law firm Sullivan &amp; Cromwell.
+</P>
+</TEXT>
+</DOC>

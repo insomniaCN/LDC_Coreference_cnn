@@ -1,0 +1,238 @@
+T1	Conflict_Attack 172 178	KILLER
+E979	Conflict_Attack:T1
+A1	Realis E979 Actual
+T2	Conflict_Attack 448 455	killing
+E772	Conflict_Attack:T2
+A2	Realis E772 Actual
+T3	Conflict_Attack 647 656	shootings
+E864	Conflict_Attack:T3
+A3	Realis E864 Actual
+T4	Conflict_Attack 1802 1809	murders
+E239	Conflict_Attack:T4
+A4	Realis E239 Actual
+T5	Conflict_Attack 2181 2187	killed
+E927	Conflict_Attack:T5
+A5	Realis E927 Actual
+T6	Conflict_Attack 2288 2292	shot
+E285	Conflict_Attack:T6
+A6	Realis E285 Actual
+T7	Conflict_Attack 1257 1264	victims
+E879	Conflict_Attack:T7
+A7	Realis E879 Actual
+T8	Life_Die 172 178	KILLER
+E634	Life_Die:T8
+A8	Realis E634 Actual
+T9	Life_Die 448 455	killing
+E519	Life_Die:T9
+A9	Realis E519 Actual
+T10	Life_Die 1802 1809	murders
+E220	Life_Die:T10
+A10	Realis E220 Actual
+T11	Life_Die 2181 2187	killed
+E754	Life_Die:T11
+A11	Realis E754 Actual
+T12	Life_Die 2288 2292	shot
+E48	Life_Die:T12
+A12	Realis E48 Actual
+T13	Justice_Sentence 509 518	sentenced
+E975	Justice_Sentence:T13
+A13	Realis E975 Actual
+T14	Justice_Sentence 1130 1137	penalty
+E881	Justice_Sentence:T14
+A14	Realis E881 Actual
+T15	Justice_Sentence 211 215	SENT
+E280	Justice_Sentence:T15
+A15	Realis E280 Actual
+T16	Justice_Sentence 794 800	return
+E341	Justice_Sentence:T16
+A16	Realis E341 Actual
+T17	Justice_Execute 538 541	die
+E246	Justice_Execute:T17
+A17	Realis E246 Other
+T18	Justice_Execute 1471 1480	execution
+E129	Justice_Execute:T18
+A18	Realis E129 Other
+T19	Justice_Execute 429 434	death
+E671	Justice_Execute:T19
+A19	Realis E671 Other
+T20	Justice_Execute 1124 1129	death
+E135	Justice_Execute:T20
+A20	Realis E135 Other
+T21	Justice_Execute 2438 2443	death
+E986	Justice_Execute:T21
+A21	Realis E986 Other
+T22	Justice_Execute 2578 2583	death
+E218	Justice_Execute:T22
+A22	Realis E218 Other
+T23	Justice_Execute 2696 2701	death
+E929	Justice_Execute:T23
+A23	Realis E929 Other
+T24	Justice_Execute 2824 2829	death
+E998	Justice_Execute:T24
+A24	Realis E998 Other
+T25	Life_Die 1471 1480	execution
+E532	Life_Die:T25
+A25	Realis E532 Other
+T26	Life_Die 2438 2443	death
+E294	Life_Die:T26
+A26	Realis E294 Other
+T27	Life_Die 2578 2583	death
+E844	Life_Die:T27
+A27	Realis E844 Other
+T28	Life_Die 2696 2701	death
+E506	Life_Die:T28
+A28	Realis E506 Other
+T29	Life_Die 2824 2829	death
+E706	Life_Die:T29
+A29	Realis E706 Other
+T30	Contact_Broadcast 1703 1707	said
+E974	Contact_Broadcast:T30
+A30	Realis E974 Actual
+T31	Contact_Contact 1925 1932	comment
+E38	Contact_Contact:T31
+A31	Realis E38 Other
+T32	Justice_Sentence 435 443	sentence
+E632	Justice_Sentence:T32
+A32	Realis E632 Actual
+T33	Justice_Sentence 2584 2591	verdict
+E544	Justice_Sentence:T33
+A33	Realis E544 Actual
+T34	Justice_Sentence 2702 2710	sentence
+E958	Justice_Sentence:T34
+A34	Realis E958 Actual
+T35	Justice_Appeal 2673 2680	Appeals
+E440	Justice_Appeal:T35
+A35	Realis E440 Generic
+T36	Movement_Transport-Person 2778 2784	parole
+E301	Movement_Transport-Person:T36
+A36	Realis E301 Generic
+T37	Justice_Trial-Hearing 580 589	testimony
+E813	Justice_Trial-Hearing:T37
+A37	Realis E813 Actual
+T38	Contact_Meet 580 589	testimony
+E228	Contact_Meet:T38
+A38	Realis E228 Actual
+T39	Justice_Arrest-Jail 608 612	jail
+E66	Justice_Arrest-Jail:T39
+A39	Realis E66 Actual
+T40	Justice_Arrest-Jail 2763 2769	prison
+E437	Justice_Arrest-Jail:T40
+A40	Realis E437 Actual
+T41	Life_Beborn 689 697	fathered
+E98	Life_Beborn:T41
+A41	Realis E98 Actual
+T42	Contact_Meet 917 926	responded
+E304	Contact_Meet:T42
+A42	Realis E304 Actual
+T43	Movement_Transport-Person 1193 1196	led
+E646	Movement_Transport-Person:T43
+A43	Realis E646 Actual
+T44	Contact_Contact 1295 1299	said
+E210	Contact_Contact:T44
+A44	Realis E210 Actual
+T45	Life_Die 538 541	die
+E433	Life_Die:T45
+A45	Realis E433 Generic
+T46	Life_Die 224 229	DEATH
+E50	Life_Die:T46
+A46	Realis E50 Generic
+T47	Life_Die 429 434	death
+E112	Life_Die:T47
+A47	Realis E112 Generic
+T48	Life_Die 819 824	death
+E140	Life_Die:T48
+A48	Realis E140 Generic
+T49	Justice_Sentence 1949 1956	penalty
+E174	Justice_Sentence:T49
+A49	Realis E174 Generic
+T50	Justice_Sentence 2052 2059	penalty
+E828	Justice_Sentence:T50
+A50	Realis E828 Generic
+T51	Justice_Sentence 2512 2530	capital punishment
+E819	Justice_Sentence:T51
+A51	Realis E819 Generic
+T52	Justice_Trial-Hearing 1957 1963	trials
+E12	Justice_Trial-Hearing:T52
+A52	Realis E12 Generic
+T53	Justice_Trial-Hearing 2139 2144	trial
+E25	Justice_Trial-Hearing:T53
+A53	Realis E25 Generic
+T54	Transaction_Transfer-Ownership 2265 2268	buy
+E252	Transaction_Transfer-Ownership:T54
+A54	Realis E252 Other
+T55	Transaction_Transfer-Money 2265 2268	buy
+E331	Transaction_Transfer-Money:T55
+A55	Realis E331 Other
+T56	Justice_Sentence 2444 2451	penalty
+E73	Justice_Sentence:T56
+A56	Realis E73 Other
+T57	Justice_Sentence 2743 2751	sentence
+E62	Justice_Sentence:T57
+A57	Realis E62 Actual
+T58	Justice_Execute 224 229	DEATH
+E496	Justice_Execute:T58
+A58	Realis E496 Generic
+T59	Justice_Execute 819 824	death
+E872	Justice_Execute:T59
+A59	Realis E872 Generic
+T60	Justice_Arrest-Jail 860 866	served
+E18	Justice_Arrest-Jail:T60
+A60	Realis E18 Generic
+T61	Life_Die 1124 1129	death
+E790	Life_Die:T61
+A61	Realis E790 Generic
+T62	Life_Die 1943 1948	Death
+E682	Life_Die:T62
+A62	Realis E682 Generic
+T63	Life_Die 2046 2051	death
+E926	Life_Die:T63
+A63	Realis E926 Generic
+T64	Justice_Execute 1943 1948	Death
+E931	Justice_Execute:T64
+A64	Realis E931 Generic
+T65	Justice_Execute 2046 2051	death
+E720	Justice_Execute:T65
+A65	Realis E720 Generic
+T66	Justice_Arrest-Jail 677 684	inmates
+E172	Justice_Arrest-Jail:T66
+A66	Realis E172 Actual
+T67	Life_Die 1257 1264	victims
+E738	Life_Die:T67
+A67	Realis E738 Actual
+R1	Coreference Arg1:E979 Arg2:E772
+R2	Coreference Arg1:E772 Arg2:E864
+R3	Coreference Arg1:E864 Arg2:E879
+R4	Coreference Arg1:E879 Arg2:E239
+R5	Coreference Arg1:E239 Arg2:E927
+R6	Coreference Arg1:E927 Arg2:E285
+R7	Coreference Arg1:E634 Arg2:E519
+R8	Coreference Arg1:E519 Arg2:E220
+R9	Coreference Arg1:E220 Arg2:E754
+R10	Coreference Arg1:E754 Arg2:E48
+R11	Coreference Arg1:E280 Arg2:E975
+R12	Coreference Arg1:E975 Arg2:E341
+R13	Coreference Arg1:E341 Arg2:E881
+R14	Coreference Arg1:E671 Arg2:E246
+R15	Coreference Arg1:E246 Arg2:E135
+R16	Coreference Arg1:E135 Arg2:E129
+R17	Coreference Arg1:E129 Arg2:E986
+R18	Coreference Arg1:E986 Arg2:E218
+R19	Coreference Arg1:E218 Arg2:E929
+R20	Coreference Arg1:E929 Arg2:E998
+R21	Coreference Arg1:E532 Arg2:E294
+R22	Coreference Arg1:E294 Arg2:E844
+R23	Coreference Arg1:E844 Arg2:E506
+R24	Coreference Arg1:E506 Arg2:E706
+R25	Coreference Arg1:E632 Arg2:E544
+R26	Coreference Arg1:E544 Arg2:E958
+R27	Coreference Arg1:E66 Arg2:E437
+R28	Coreference Arg1:E50 Arg2:E112
+R29	Coreference Arg1:E112 Arg2:E433
+R30	Coreference Arg1:E433 Arg2:E140
+R31	Coreference Arg1:E174 Arg2:E828
+R32	Coreference Arg1:E828 Arg2:E819
+R33	Coreference Arg1:E12 Arg2:E25
+R34	Coreference Arg1:E496 Arg2:E872
+R35	Coreference Arg1:E790 Arg2:E682
+R36	Coreference Arg1:E682 Arg2:E926
+R37	Coreference Arg1:E931 Arg2:E720

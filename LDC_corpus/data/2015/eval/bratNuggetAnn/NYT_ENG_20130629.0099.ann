@@ -1,0 +1,147 @@
+T1	Conflict_Demonstrate 702 712	protesters
+E65	Conflict_Demonstrate:T1
+A1	Realis E65 Actual
+T2	Life_Die 921 927	deadly
+E84	Life_Die:T2
+A2	Realis E84 Actual
+T3	Contact_Broadcast 417 425	advisory
+E94	Contact_Broadcast:T3
+A3	Realis E94 Actual
+T4	Conflict_Attack 2181 2187	killed
+E120	Conflict_Attack:T4
+A4	Realis E120 Actual
+T5	Conflict_Attack 1211 1219	attacked
+E176	Conflict_Attack:T5
+A5	Realis E176 Actual
+T6	Conflict_Demonstrate 884 892	protests
+E179	Conflict_Demonstrate:T6
+A6	Realis E179 Actual
+T7	Conflict_Attack 1473 1481	violence
+E193	Conflict_Attack:T7
+A7	Realis E193 Actual
+T8	Conflict_Attack 1110 1117	stabbed
+E216	Conflict_Attack:T8
+A8	Realis E216 Actual
+T9	Conflict_Demonstrate 841 848	rallies
+E258	Conflict_Demonstrate:T9
+A9	Realis E258 Actual
+T10	Life_Die 2181 2187	killed
+E262	Life_Die:T10
+A10	Realis E262 Actual
+T11	Conflict_Demonstrate 982 992	protesters
+E268	Conflict_Demonstrate:T11
+A11	Realis E268 Actual
+T12	Conflict_Demonstrate 2589 2599	protesters
+E301	Conflict_Demonstrate:T12
+A12	Realis E301 Actual
+T13	Conflict_Attack 1399 1405	killed
+E322	Conflict_Attack:T13
+A13	Realis E322 Actual
+T14	Movement_Transport-Person 1680 1687	marches
+E325	Movement_Transport-Person:T14
+A14	Realis E325 Other
+T15	Life_Die 1121 1126	death
+E329	Life_Die:T15
+A15	Realis E329 Actual
+T16	Conflict_Attack 1664 1672	violence
+E349	Conflict_Attack:T16
+A16	Realis E349 Other
+T17	Conflict_Attack 993 1001	set fire
+E375	Conflict_Attack:T17
+A17	Realis E375 Actual
+T18	Conflict_Attack 928 935	clashes
+E399	Conflict_Attack:T18
+A18	Realis E399 Actual
+T19	Life_Die 1399 1405	killed
+E401	Life_Die:T19
+A19	Realis E401 Actual
+T20	Movement_Transport-Person 1996 2002	travel
+E419	Movement_Transport-Person:T20
+A20	Realis E419 Generic
+T21	Conflict_Attack 189 195	KILLED
+E422	Conflict_Attack:T21
+A21	Realis E422 Actual
+T22	Contact_Contact 1424 1428	said
+E433	Contact_Contact:T22
+A22	Realis E433 Actual
+T23	Movement_Transport-Person 2089 2094	leave
+E476	Movement_Transport-Person:T23
+A23	Realis E476 Other
+T24	Conflict_Attack 2385 2391	killed
+E490	Conflict_Attack:T24
+A24	Realis E490 Actual
+T25	Life_Die 189 195	KILLED
+E515	Life_Die:T25
+A25	Realis E515 Actual
+T26	Personnel_Elect 1624 1633	elections
+E517	Personnel_Elect:T26
+A26	Realis E517 Other
+T27	Life_Die 2385 2391	killed
+E534	Life_Die:T27
+A27	Realis E534 Actual
+T28	Contact_Contact 1181 1185	said
+E551	Contact_Contact:T28
+A28	Realis E551 Actual
+T29	Contact_Broadcast 1056 1060	said
+E562	Contact_Broadcast:T29
+A29	Realis E562 Actual
+T30	Conflict_Attack 626 632	killed
+E608	Conflict_Attack:T30
+A30	Realis E608 Actual
+T31	Life_Die 626 632	killed
+E631	Life_Die:T31
+A31	Realis E631 Actual
+T32	Contact_Broadcast 2016 2020	said
+E664	Contact_Broadcast:T32
+A32	Realis E664 Actual
+T33	Conflict_Attack 713 722	ransacked
+E694	Conflict_Attack:T33
+A33	Realis E694 Actual
+T34	Contact_Broadcast 1952 1958	warned
+E705	Contact_Broadcast:T34
+A34	Realis E705 Actual
+T35	Contact_Contact 1365 1374	confirmed
+E758	Contact_Contact:T35
+A35	Realis E758 Actual
+T36	Life_Die 1902 1908	deadly
+E794	Life_Die:T36
+A36	Realis E794 Generic
+T37	Personnel_End-Position 2816 2822	resign
+E799	Personnel_End-Position:T37
+A37	Realis E799 Other
+T38	Conflict_Demonstrate 2505 2513	protests
+E808	Conflict_Demonstrate:T38
+A38	Realis E808 Actual
+T39	Conflict_Attack 2395 2402	attacks
+E819	Conflict_Attack:T39
+A39	Realis E819 Actual
+T40	Contact_Broadcast 2349 2353	said
+E828	Contact_Broadcast:T40
+A40	Realis E828 Actual
+T41	Personnel_End-Position 1604 1613	step down
+E873	Personnel_End-Position:T41
+A41	Realis E873 Other
+T42	Movement_Transport-Person 410 416	travel
+E917	Movement_Transport-Person:T42
+A42	Realis E917 Generic
+T43	Contact_Broadcast 1871 1877	warned
+E938	Contact_Broadcast:T43
+A43	Realis E938 Actual
+T44	Movement_Transport-Person 2472 2479	took to
+E948	Movement_Transport-Person:T44
+A44	Realis E948 Actual
+T45	Conflict_Demonstrate 1680 1687	marches
+E964	Conflict_Demonstrate:T45
+A45	Realis E964 Other
+T46	Conflict_Demonstrate 1529 1537	protests
+E979	Conflict_Demonstrate:T46
+A46	Realis E979 Other
+T47	Life_Die 341 346	death
+E980	Life_Die:T47
+A47	Realis E980 Actual
+T48	Movement_Transport-Person 2600 2608	gathered
+E981	Movement_Transport-Person:T48
+A48	Realis E981 Actual
+T49	Life_Injure 651 658	injured
+E983	Life_Injure:T49
+A49	Realis E983 Actual

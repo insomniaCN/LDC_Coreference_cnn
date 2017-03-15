@@ -1,0 +1,101 @@
+T1	Contact_Communicate 907 912	talks
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 1151 1154	war
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 1549 1553	trip
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+A4	Questionable E3 Realis
+T4	Conflict_Attack 1726 1743	counterinsurgency
+E4	Conflict_Attack:T4 
+A5	Realis E4 Generic
+T5	Conflict_Attack 1939 1942	war
+E5	Conflict_Attack:T5 
+A6	Realis E5 Generic
+T6	Contact_Communicate 2017 2022	talks
+E6	Contact_Communicate:T6 
+A7	Realis E6 Actual
+T7	Movement_Transport-Person 2044 2051	entered
+E7	Movement_Transport-Person:T7 
+A8	Realis E7 Actual
+T8	Movement_Transport-Person 2117 2126	traveling
+E8	Movement_Transport-Person:T8 
+A9	Realis E8 Actual
+T9	Life_Be-Born 2298 2302	born
+E9	Life_Be-Born:T9 
+A10	Realis E9 Actual
+T10	Conflict_Attack 2351 2354	war
+E10	Conflict_Attack:T10 
+A11	Realis E10 Actual
+T11	Contact_Communicate 2467 2472	talks
+E11	Contact_Communicate:T11 
+A12	Realis E11 Actual
+T12	Contact_Communicate 2493 2498	talks
+E12	Contact_Communicate:T12 
+A13	Realis E12 Actual
+T13	Transaction_Transfer-Money 2684 2690	income
+E13	Transaction_Transfer-Money:T13 
+A14	Realis E13 Generic
+A15	Questionable E13 Realis
+T14	Justice_Arrest-Jail 220 227	HOLDING
+E14	Justice_Arrest-Jail:T14 
+A16	Realis E14 Actual
+T15	Justice_Release-Parole 576 583	release
+E15	Justice_Release-Parole:T15 
+A17	Realis E15 Other
+T16	Personnel_End-Position 586 592	former
+E16	Personnel_End-Position:T16 
+A18	Realis E16 Actual
+T17	Justice_Arrest-Jail 646 653	holding
+E17	Justice_Arrest-Jail:T17 
+A19	Realis E17 Actual
+T18	Justice_Release-Parole 1373 1380	release
+E18	Justice_Release-Parole:T18 
+A20	Realis E18 Other
+T19	Justice_Arrest-Jail 1323 1333	kidnapping
+E19	Justice_Arrest-Jail:T19 
+A21	Realis E19 Actual
+T20	Justice_Arrest-Jail 1911 1915	hold
+E20	Justice_Arrest-Jail:T20 
+A22	Realis E20 Actual
+T21	Justice_Release-Parole 1954 1961	release
+E21	Justice_Release-Parole:T21 
+A23	Realis E21 Other
+T22	Justice_Arrest-Jail 2179 2192	taken hostage
+E22	Justice_Arrest-Jail:T22 
+A24	Realis E22 Actual
+T23	Justice_Arrest-Jail 2599 2610	kidnappings
+E23	Justice_Arrest-Jail:T23 
+A25	Realis E23 Generic
+T24	Transaction_Transfer-Money 2615 2621	ransom
+E24	Transaction_Transfer-Money:T24 
+A26	Realis E24 Generic
+T25	Transaction_Transfer-Ownership 2648 2659	trafficking
+E25	Transaction_Transfer-Ownership:T25 
+A27	Realis E25 Generic
+T26	Transaction_Transfer-Money 2732 2738	ransom
+E26	Transaction_Transfer-Money:T26 
+A28	Realis E26 Generic
+T27	Justice_Arrest-Jail 2739 2750	kidnappings
+E27	Justice_Arrest-Jail:T27 
+A29	Realis E27 Generic
+T28	Justice_Release-Parole 2761 2766	freed
+E28	Justice_Release-Parole:T28 
+A30	Realis E28 Actual
+T29	Justice_Arrest-Jail 2830 2837	holding
+E29	Justice_Arrest-Jail:T29 
+A31	Realis E29 Actual
+T30	Justice_Arrest-Jail 2896 2905	kidnapped
+E30	Justice_Arrest-Jail:T30 
+A32	Realis E30 Actual
+T31	Justice_Arrest-Jail 2988 2997	kidnapped
+E31	Justice_Arrest-Jail:T31 
+A33	Realis E31 Actual
+T32	Justice_Arrest-Jail 3014 3018	held
+E32	Justice_Arrest-Jail:T32 
+A34	Realis E32 Actual
+T33	Personnel_End-Position 3134 3140	former
+E33	Personnel_End-Position:T33 
+A35	Realis E33 Actual

@@ -1,0 +1,28 @@
+<DOC id="NYT_ENG_20130721.0011" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130721/20130721,182ab99350fc7aa7858fbffc43600b04.xml">
+<HEADLINE>
+'Machete' takes swing at state
+</HEADLINE>
+<TEXT>
+<P>
+A lawsuit filed by Austin filmmaker Robert Rodriguez and the production company behind his film ''Machete’' accuses The Texas Film Commission of denying agreed-to financial incentives after the agency decided the film was ''inappropriate.''
+</P>
+<P>
+Machete Chop Shop Inc. says in a suit filed Saturday in Travis County that the commission backed out of partially reimbursing the cost of the film after coming under fire for its violence and depiction of Texans.
+</P>
+<P>
+Before the movie was released in September 2010, anti-immigration groups were upset over the film’s trailer, citing its violent imagery and Robert DeNiro’s cartoonish role as a senator who kills illegal immigrants.
+</P>
+<P>
+According to court documents, the producers’ application for a grant under the Texas Moving Image Industry Incentive Program was approved in May 2009, one month after Gov. Rick Perry signed the program into law at Rodriguez’s Troublemaker Studios.
+</P>
+<P>
+At the bill signing, Rod-riguez announced that the bill would allow him to make films in Texas, including ''Machete.''
+</P>
+<P>
+The complaint states that former commission head Bob Hudgins verified that the script complied with content requirements and also claims he approved the incentive package.
+</P>
+<P>
+Once filmmakers knew they had additional state funding, they increased their budget, the complaint says, banking on a state contribution of nearly $8 million. XXX - End of Story&lt;3D&gt;
+</P>
+</TEXT>
+</DOC>

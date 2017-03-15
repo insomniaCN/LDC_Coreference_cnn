@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea950000000000000124" doc_id="289682d41eaa594e399080d972c8816c" source_type="multi_post">
+  <event_mention id="em-97" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="152" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-239" type="justice" subtype="sue" realis="actual">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="758" length="8">lawsuits</trigger>
+  </event_mention>
+  <event_mention id="em-390" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="152" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-411" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="964" length="4">loan</trigger>
+  </event_mention>
+  <event_mention id="em-447" type="justice" subtype="sue" realis="actual">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="247" length="8">lawsuits</trigger>
+  </event_mention>
+  <event_mention id="em-718" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="796" length="4">loan</trigger>
+  </event_mention>
+  <event_mention id="em-866" type="business" subtype="declarebankruptcy" realis="generic">
+    <trigger source="289682d41eaa594e399080d972c8816c" offset="459" length="10">bankruptcy</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

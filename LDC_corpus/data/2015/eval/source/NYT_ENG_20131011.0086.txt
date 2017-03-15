@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20131011.0086" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20131011/20131011,555a7f37b9ad9e311cc1c53d3a60f5e9.xml">
+<HEADLINE>
+U.N. HUMAN RIGHTS CHIEF CONDEMNS MASS EXECUTIONS IN IRAQ
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+GENEVA - The U.N. human rights chief, Navi Pillay, on Friday condemned Iraq’s execution of 42 prisoners over two days this week, denouncing such mass executions as “obscene and inhuman” and warning that they undermined efforts to reduce violence and achieve a more stable society.
+</P>
+<P>
+Iraq’s justice system is “too deeply flawed to warrant even a limited use of the death penalty, let alone dozens of executions at a time,” Pillay said in a statement released in Geneva, repeating a view she has expressed on several occasions.
+</P>
+<P>
+At least some of the latest executions, which were carried out Wednesday and Thursday, breached international law because Iraq is unable to hold fair trials, Pillay’s spokesman, Rupert Colville, told reporters. And Iraq’s decision to proceed with executions Thursday, which was World Day Against the Death Penalty, was “particularly perverse,” Pillay said.
+</P>
+<P>
+Iraq’s Justice Ministry said the executed prisoners had been convicted of “terrorist crimes, killing dozens of innocents in addition to other crimes aimed at destabilizing the country, causing chaos and spreading horror.”
+</P>
+<P>
+Pillay also expressed concern about the “dramatic and shocking increase” in Iraq’s resort to the death penalty. This week’s executions brought to 140 the number of people executed so far this year, compared with 123 in 2012 and 18 in 2010, the United Nations reported. Pillay will be in direct contact with Iraqi authorities in the coming days, Colville said, but in the meantime she urged the government to immediately halt executions and to commute the sentences of about 900 prisoners now held on death row.
+</P>
+<P>
+U.N. human rights officials say the integrity of the judicial system has been tainted, citing the numerous reports of confessions obtained through torture and ill-treatment, the weakness of the judiciary and trial procedures that fall far short of international standards. They also said some of the offenses for which prisoners are executed did not meet the threshold of “most serious crimes,” which international law sets for the use of the death penalty.
+</P>
+<P>
+Iraq’s justification for using the death penalty as a deterrent to terrorism was “clearly exposed as a fallacy” by the sharp rise in civilian casualties over the same period, Pillay noted. The rash of recent bombings in the capital, Baghdad, and other parts of the country had driven up civilian casualties to the highest level since 2008, Pillay observed.
+</P>
+</TEXT>
+</DOC>

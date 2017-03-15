@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea840000000000000094" doc_id="NYT_ENG_20131001.0151" source_type="newswire">
+  <event_mention id="em-59" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="363" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-77" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="2318" length="9">smuggling</trigger>
+  </event_mention>
+  <event_mention id="em-92" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1182" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-96" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="1403" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-105" type="justice" subtype="extradite" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1284" length="10">extradited</trigger>
+  </event_mention>
+  <event_mention id="em-124" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="815" length="7">founded</trigger>
+  </event_mention>
+  <event_mention id="em-159" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="693" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-171" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="2975" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-178" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="1414" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-179" type="personnel" subtype="elect" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="602" length="9">elections</trigger>
+  </event_mention>
+  <event_mention id="em-286" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="426" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-337" type="personnel" subtype="startposition" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="1564" length="9">enlisting</trigger>
+  </event_mention>
+  <event_mention id="em-338" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1284" length="10">extradited</trigger>
+  </event_mention>
+  <event_mention id="em-425" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1348" length="10">indictment</trigger>
+  </event_mention>
+  <event_mention id="em-432" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20131001.0151" offset="468" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-465" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="984" length="10">indictment</trigger>
+  </event_mention>
+  <event_mention id="em-482" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1706" length="3">war</trigger>
+  </event_mention>
+  <event_mention id="em-499" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="2857" length="3">try</trigger>
+  </event_mention>
+  <event_mention id="em-506" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="3256" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-517" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1148" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-529" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="1403" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-537" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="2691" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-544" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="936" length="7">rallies</trigger>
+  </event_mention>
+  <event_mention id="em-550" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="2771" length="7">sending</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="2813" length="10">indictment</trigger>
+  </event_mention>
+  <event_mention id="em-570" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="674" length="4">beat</trigger>
+  </event_mention>
+  <event_mention id="em-576" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="2613" length="4">held</trigger>
+  </event_mention>
+  <event_mention id="em-591" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20131001.0151" offset="2738" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-636" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1735" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-700" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="2564" length="7">violent</trigger>
+  </event_mention>
+  <event_mention id="em-707" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20131001.0151" offset="2921" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-761" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1204" length="6">ousted</trigger>
+  </event_mention>
+  <event_mention id="em-777" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="351" length="8">indicted</trigger>
+  </event_mention>
+  <event_mention id="em-789" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1262" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-799" type="justice" subtype="extradite" realis="other">
+    <trigger source="NYT_ENG_20131001.0151" offset="2691" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-808" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20131001.0151" offset="3330" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-813" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="1969" length="9">smuggling</trigger>
+  </event_mention>
+  <event_mention id="em-847" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20131001.0151" offset="693" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-879" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20131001.0151" offset="1471" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-880" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="2396" length="3">war</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20131001.0151" offset="1204" length="6">ousted</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000630" doc_id="bolt-eng-DF-203-185940-16091824" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="426" length="7">leaving</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="531" length="5">leave</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="575" length="8">quitting</trigger>
+      </event_mention>
+      <event_mention id="em-49" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1024" length="7">leaving</trigger>
+      </event_mention>
+      <event_mention id="em-62" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1204" length="4">quit</trigger>
+      </event_mention>
+      <event_mention id="em-133" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1607" length="4">quit</trigger>
+      </event_mention>
+      <event_mention id="em-176" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="2089" length="4">quit</trigger>
+      </event_mention>
+      <event_mention id="em-260" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="3546" length="4">quit</trigger>
+      </event_mention>
+      <event_mention id="em-273" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="3705" length="7">vacated</trigger>
+      </event_mention>
+      <event_mention id="em-286" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="4212" length="3">get</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-88">
+      <event_mention id="em-75" type="personnel" subtype="startposition" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1288" length="5">hired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-118">
+      <event_mention id="em-105" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1427" length="4">hand</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-146">
+      <event_mention id="em-163" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1768" length="9">walk away</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-161">
+      <event_mention id="em-148" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1692" length="4">fire</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-202">
+      <event_mention id="em-90" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1393" length="5">start</trigger>
+      </event_mention>
+      <event_mention id="em-189" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="2364" length="5">start</trigger>
+      </event_mention>
+      <event_mention id="em-204" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="2538" length="5">start</trigger>
+      </event_mention>
+      <event_mention id="em-217" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="3003" length="5">start</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-243">
+      <event_mention id="em-230" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="3249" length="5">quite</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-258">
+      <event_mention id="em-245" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="3283" length="7">Contact</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-299">
+      <event_mention id="em-120" type="contact" subtype="meet" realis="other" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16091824" offset="1427" length="4">hand</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

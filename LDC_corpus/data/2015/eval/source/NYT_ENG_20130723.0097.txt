@@ -1,0 +1,88 @@
+<DOC id="NYT_ENG_20130723.0097" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130723/20130723,59da641ef8c30ab5cee38ee978886813.xml">
+<HEADLINE>
+Drug lab
+</HEADLINE>
+<TEXT>
+<P>
+EDNOTES: (FOR USE BY NEW YORK TIMES NEWS SERVICE CLIENTS)
+</P>
+<P>
+scandal
+</P>
+<P>
+system
+</P>
+<P>
+upheld © 2013 The New York Times
+</P>
+<P>
+The state’s highest court has ruled that judges have the authorÂity to stay the sentences of so-called Dookhan defendants who are seeking new trials, upholding the legal framework created to review hundreds of cases tied to the state drug lab scandal.
+</P>
+<P>
+In a decision issued Monday, the Supreme Judicial Court ruled that the ''exceptional circumstances’' surrounding convictions tied to Annie Dookhan, the former state chemist who allegedly falsified suspected drug samples, gave Superior Court judges the power to free defendants who are challenging their convictions.
+</P>
+<P>
+''The allegations of misÂconduct at the Hinton drug lab have given rise to serious concerns about defendants who may be incarcerated as a consequence of tainted convictions,'' the ruling stated. ''Thus, a defendant’s motion to stay the execution of his sentence should be decided in an expeditious manner.''
+</P>
+<P>
+While largely procedural, the decision highlighted the swirl of legal questions surrounding Dookhan-related cases, which have flooded the judicial system and led to the release of hundreds of defendants, more than 300 from state prisons and more from county facilities.
+</P>
+<P>
+Last fall, Essex County prosecutors contested motions to stay sentences in more than 50 cases involving allegedly tainted drug evidence, contending that the judge lacked the authority to stay sentences in the absence of a pending appeal.
+</P>
+<P>
+The court disagreed, saying ''the interest of justice is not served by the continued imprisonment of a defendant who may be entitled to a new trial.''
+</P>
+<P>
+''The magnitude of the allegations of serious and far-reaching misconduct by Dookhan at the Hinton drug lab cannot be overstated,'' the ruling stated. ''The alleged misconduct may have compromised thousands of Âcases.''
+</P>
+<P>
+Dookhan faces a host of criminal charges related to misÂhandling or falsifying drug evidence. She has pleaded not guilty.
+</P>
+<P>
+Matthew Segal, legal director of the American Civil Liberties Union of Massachusetts, said the decision marked a ''complete Ârejection’' of prosecutors’ attempt to challenge the system set up to handle the Dookhan cases.
+</P>
+<P>
+''It said the exact procedure being used is fine,'' he said.
+</P>
+<P>
+The court went a step further, Segal said, in indicating that Dookhan’s involvement in cases may be enough to warrant a new trial.
+</P>
+<P>
+''My hope is that courts will look at this opinion and see reasons for granting new trials,'' he said. ''You can’t rest a conviction on fraud.''
+</P>
+<P>
+Jonathan W. Blodgett, the ÂEssex district attorney, said the decision clarified legal and procedural questions around the special drug lab sessions, reducing the chances of further litigation.
+</P>
+<P>
+''Our overriding concern was the possibility of relitigating Dookhan drug lab cases for a third time,'' he said in a statement. ''This would have stretched the already limited Âresources of all the district attorney’s offices.''
+</P>
+<P>
+Michael O’Keefe, district Âattorney for the Cape and ÂIslands, said the decision would help prosecutors handle the host of legal challenges arising from the scandal, which officials have estimated could affect well over 100,000 cases.
+</P>
+<P>
+''As district attorneys, our goal is to expedite the cases as quickly as possible,'' said O’Keefe, president of the state association of district attorneys. ''In that Âregard, it’s helpful to know what the rules are.''
+</P>
+<P>
+In a separate section of the ruling, the court said that special magistrates who were appointed by the Superior Court to preside over the drug lab sessions are not authorized to stay a sentence. But the magistrates, who by March had conducted more than 900 hearings on Dookhan-related cases, can make ''conclusions of law’' for judges to review, as they have been doing.
+</P>
+<P>
+The court also ruled that magistrates cannot overrule a Superior Court judge’s decision to stay a sentence.
+</P>
+<P>
+Anne Goldbach, forensic services director in the state public defender’s office, said the decision upholds the status quo.
+</P>
+<P>
+''It says that the process set up to handle these cases is a valid one,'' she said.
+</P>
+<P>
+The court’s decision focused on a case involving a Lynn man, Shubar Charles, who in 2010 pleaded guilty to cocaine possession with intent to distribute. He was sentenced to four to seven years in state prison.
+</P>
+<P>
+Last December, he filed a Âmotion to stay the execution of his sentence, noting that Dookhan was the primary chemist on the case. The motion was granted, and prosecutors Âappealed.
+</P>
+<P>
+A second case involved ÂHector Milette, who in 2011 pleaded guilty to cocaine trafficking. In November, a judge Âdenied his motion for a stayed sentence, but a special magistrate overturned the decision in February. Prosecutors appealed, and he was sent back into custody. He later pleaded guilty, admitting the substance was cocaine despite Dookhan’s involvement, prosecutors said.
+</P>
+</TEXT>
+</DOC>

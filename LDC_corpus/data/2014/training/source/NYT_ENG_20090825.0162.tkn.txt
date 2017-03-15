@@ -1,0 +1,188 @@
+<DOC id= " NYT_ENG_20090825.0162 " type= " story " from_file= " / ldc / collections / newswire / daily . process / nyt / english / source_data / 20090825 / 200908252250NYTNS___HRSTNEWS_2104_1 . xml " > 
+<HEADLINE> 
+THE PLANET , A WEB - HOSTING COMPANY , FINDS ITS OWN ORBIT 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+HOUSTON -- Three years ago , investors bought two stagnant 
+Web - hosting 
+companies and merged them into what is now known as The Planet .
+< / P> 
+<P> 
+They tasked newly appointed CEO Doug Erwin with melding two 
+different 
+corporate cultures , turning profits and taking the company public .
+Observers say he 's done well by hitting two out of three .
+< / P> 
+<P> 
+" IPOs are not a possibility at the moment " for anyone , said 
+Dan Golding , 
+vice president of Tier 1 Research , " so that 's not a negative for 
+them , 
+necessarily . " 
+< / P> 
+<P> 
+" The real value is that they took two firms that had really 
+sort of 
+plateaued and put them together successfully . That 's a very 
+difficult 
+trick to do . " 
+< / P> 
+<P> 
+The privately held company wo n't disclose net income figures but 
+said 
+its annual revenue runs about $ 150 million . When the two companies 
+merged , they had combined revenues of less than $ 100 million , 
+officials 
+said .
+< / P> 
+<P> 
+The merger 
+< / P> 
+<P> 
+GI Partners , a California - based private equity firm , bought 
+Houston 's 
+EV1 Servers whose sister dial - up business Everyones Internet was 
+sold 
+off and Dallas - based The Planet separately . It joined the two in 
+2006 , 
+eventually making Houston the company 's headquarters .
+< / P> 
+<P> 
+News of the merger between EV1 and The Planet was n't greeted by 
+each 
+company 's employees with much enthusiasm .
+< / P> 
+<P> 
+They were also dealing with new top management , including Erwin .
+< / P> 
+<P> 
+Employees in each city considered their business practices 
+better , Erwin 
+said . So he had employees from Dallas and Houston meet at a 
+gymnasium in 
+Crockett for a competition .
+< / P> 
+<P> 
+He gave each employee 10 toy bricks and told them to build 
+something .
+Whoever built the most creative sculpture would get to pick where 
+the 
+piece would sit in the company 's new downtown Houston offices .
+< / P> 
+<P> 
+After discovering they could n't build much with 10 bricks each , 
+the 
+employees formed teams to build a construction zone , a server , a 
+pyramid 
+and other sculptures , all of which are on display at the 
+headquarters in 
+Bayou Place .
+< / P> 
+<P> 
+" I told them we were rebuilding the company brick by brick , " 
+Erwin said .
+Some from Dallas ended up winning , " so every time the Houston 
+folks walk 
+in , they have to look at it . " 
+< / P> 
+<P> 
+New markets 
+< / P> 
+<P> 
+Aside from getting employees to get along , the new management 
+also had 
+to make the company profitable and expand it .
+< / P> 
+<P> 
+First , they used the combined company 's buying power to 
+renegotiate 
+contracts with everyone from the utility company to Dell , which 
+provides 
+all of The Planet 's servers .
+< / P> 
+<P> 
+The company cut costs enough to turn a profit within a year of 
+the 
+merger .
+< / P> 
+<P> 
+Last year it also moved from solely renting servers used to host 
+Web 
+sites and run applications to managing the servers for businesses , 
+competing with companies like San Antonio - based Rackspace Hosting .
+< / P> 
+<P> 
+Late last year , The Planet entered the cloud storage space 
+storage 
+accessed from anywhere via the Web and started renewed efforts to 
+push 
+its co-location services , which is essentially renting space in 
+data 
+centers for companies that want to locate servers off site .
+< / P> 
+<P> 
+Today , 50 percent of the company 's revenue comes from services 
+neither 
+company offered before the merger .
+< / P> 
+<P> 
+" We 've achieved our growth , " finance chief Kevin Klausmeyer 
+said . He 
+added that the company is targeting small to medium - size 
+businesses .
+Almost half of its customers are overseas .
+< / P> 
+<P> 
+Growth has slowed since September as the economy declined , he 
+said , but 
+the company still managed to secure a $ 45 million credit line in 
+October 
+that it has never used .
+< / P> 
+<P> 
+But sustaining growth while introducing new products could prove 
+challenging , Golding said . Last year , for instance , an outage 
+caused by 
+a fire at one of its Houston data centers knocked the sites of 
+about 
+8,000 customers offline . The company waived monthly fees for its 
+customers for two months and is trying to recover the lost income , 
+more 
+than $ 3 million , from its insurance company .
+< / P> 
+<P> 
+" When you 're growing at the pace they 're growing , you 're going 
+to run 
+into problems you 're never going to see , " Golding said . " Your 
+customers 
+expect you to execute perfectly . They also need to introduce new 
+products and hit the cloud computing wave . Doing all that at the 
+pace 
+they 're growing is tough . " 
+< / P> 
+<P> 
+Going public ? 
+< / P> 
+<P> 
+Whether the company eventually goes public does n't matter , Erwin 
+said .
+He 's running the company as if it were , he added .
+< / P> 
+<P> 
+Erwin ran Houston - based blade server company RLX Technologies 
+with 
+Klausmeyer before Hewlett - Packard Co. bought it in 2005 .
+< / P> 
+<P> 
+" Whether we go public or not , time will tell , " said Erwin .
+" But that 's 
+how you add value . I 've done this four times before , and we never 
+made 
+it to the altar . It always got sold . " 
+< / P> 
+<P> 
+purva . patel@chron . com 
+< / P> 
+< / TEXT> 
+< / DOC> 

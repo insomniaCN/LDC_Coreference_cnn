@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea690000000000000054" doc_id="NYT_ENG_20130718.0075" source_type="newswire">
+  <event_mention id="em-15" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+    <trigger source="NYT_ENG_20130718.0075" offset="1269" length="10">embezzling</trigger>
+  </event_mention>
+  <event_mention id="em-49" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="523" length="6">guilty</trigger>
+  </event_mention>
+  <event_mention id="em-70" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="1559" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-101" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130718.0075" offset="3069" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-108" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="1392" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-211" type="justice" subtype="fine" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="1312" length="5">fined</trigger>
+  </event_mention>
+  <event_mention id="em-220" type="personnel" subtype="elect" realis="generic">
+    <trigger source="NYT_ENG_20130718.0075" offset="2540" length="9">elections</trigger>
+  </event_mention>
+  <event_mention id="em-234" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="818" length="8">prisoner</trigger>
+  </event_mention>
+  <event_mention id="em-235" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="2751" length="8">led away</trigger>
+  </event_mention>
+  <event_mention id="em-254" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="3028" length="12">announcement</trigger>
+  </event_mention>
+  <event_mention id="em-257" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="3089" length="6">attend</trigger>
+  </event_mention>
+  <event_mention id="em-313" type="personnel" subtype="elect" realis="generic">
+    <trigger source="NYT_ENG_20130718.0075" offset="2406" length="9">elections</trigger>
+  </event_mention>
+  <event_mention id="em-314" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="2869" length="6">gather</trigger>
+  </event_mention>
+  <event_mention id="em-333" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130718.0075" offset="640" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-338" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130718.0075" offset="2288" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-341" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="613" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-376" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="2810" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-387" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="1633" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-425" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130718.0075" offset="2068" length="9">described</trigger>
+  </event_mention>
+  <event_mention id="em-481" type="personnel" subtype="elect" realis="other">
+    <trigger source="NYT_ENG_20130718.0075" offset="1985" length="7">ballots</trigger>
+  </event_mention>
+  <event_mention id="em-488" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130718.0075" offset="2559" length="5">wrote</trigger>
+  </event_mention>
+  <event_mention id="em-536" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="717" length="8">declared</trigger>
+  </event_mention>
+  <event_mention id="em-544" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="1548" length="6">called</trigger>
+  </event_mention>
+  <event_mention id="em-591" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="186" length="8">CONVICTS</trigger>
+  </event_mention>
+  <event_mention id="em-598" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="1610" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-683" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="1559" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-697" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="1392" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-770" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="2592" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-780" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="NYT_ENG_20130718.0075" offset="542" length="8">stealing</trigger>
+  </event_mention>
+  <event_mention id="em-798" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130718.0075" offset="2686" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-885" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130718.0075" offset="1224" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-907" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="1765" length="7">calling</trigger>
+  </event_mention>
+  <event_mention id="em-930" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130718.0075" offset="1702" length="13">cross-examine</trigger>
+  </event_mention>
+  <event_mention id="em-940" type="personnel" subtype="elect" realis="generic">
+    <trigger source="NYT_ENG_20130718.0075" offset="2183" length="9">electoral</trigger>
+  </event_mention>
+  <event_mention id="em-965" type="personnel" subtype="elect" realis="other">
+    <trigger source="NYT_ENG_20130718.0075" offset="1956" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-970" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="2043" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-991" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130718.0075" offset="1197" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-997" type="conflict" subtype="demonstrate" realis="other">
+    <trigger source="NYT_ENG_20130718.0075" offset="2978" length="5">rally</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

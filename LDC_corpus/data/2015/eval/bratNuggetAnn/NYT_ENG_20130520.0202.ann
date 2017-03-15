@@ -1,0 +1,93 @@
+T1	Movement_Transport-Artifact 590 601	trafficking
+E13	Movement_Transport-Artifact:T1
+A1	Realis E13 Actual
+T2	Transaction_Transfer-Ownership 1777 1783	resale
+E38	Transaction_Transfer-Ownership:T2
+A2	Realis E38 Generic
+T3	Movement_Transport-Person 940 950	immigrants
+E58	Movement_Transport-Person:T3
+A3	Realis E58 Generic
+T4	Justice_Arrest-Jail 1000 1006	arrest
+E72	Justice_Arrest-Jail:T4
+A4	Realis E72 Actual
+T5	Justice_Arrest-Jail 1951 1955	held
+E113	Justice_Arrest-Jail:T5
+A5	Realis E113 Actual
+T6	Contact_Contact 2098 2102	says
+E153	Contact_Contact:T6
+A6	Realis E153 Actual
+T7	Movement_Transport-Person 2810 2818	deported
+E154	Movement_Transport-Person:T7
+A7	Realis E154 Actual
+T8	Transaction_Transfer-Money 2864 2867	tax
+E190	Transaction_Transfer-Money:T8
+A8	Realis E190 Generic
+T9	Justice_Arrest-Jail 2853 2859	prison
+E207	Justice_Arrest-Jail:T9
+A9	Realis E207 Actual
+T10	Transaction_Transfer-Money 1349 1356	funding
+E298	Transaction_Transfer-Money:T10
+A10	Realis E298 Actual
+T11	Contact_Contact 2322 2331	responded
+E339	Contact_Contact:T11
+A11	Realis E339 Actual
+T12	Justice_Arrest-Jail 292 300	arrested
+E402	Justice_Arrest-Jail:T12
+A12	Realis E402 Actual
+T13	Contact_Broadcast 2210 2219	described
+E456	Contact_Broadcast:T13
+A13	Realis E456 Actual
+T14	Conflict_Attack 2370 2379	terrorism
+E507	Conflict_Attack:T14
+A14	Realis E507 Generic
+T15	Justice_Charge-Indict 1672 1679	charges
+E562	Justice_Charge-Indict:T15
+A15	Realis E562 Actual
+T16	Contact_Broadcast 661 665	said
+E574	Contact_Broadcast:T16
+A16	Realis E574 Actual
+T17	Movement_Transport-Person 968 975	arrived
+E592	Movement_Transport-Person:T17
+A17	Realis E592 Actual
+T18	Business_Start-Org 1871 1877	create
+E597	Business_Start-Org:T18
+A18	Realis E597 Generic
+T19	Justice_Arrest-Jail 802 810	arrested
+E600	Justice_Arrest-Jail:T19
+A19	Realis E600 Actual
+T20	Justice_Arrest-Jail 207 215	ARRESTED
+E621	Justice_Arrest-Jail:T20
+A20	Realis E621 Actual
+T21	Movement_Transport-Artifact 1055 1063	smuggler
+E664	Movement_Transport-Artifact:T21
+A21	Realis E664 Generic
+T22	Contact_Broadcast 2641 2645	said
+E689	Contact_Broadcast:T22
+A22	Realis E689 Actual
+T23	Contact_Contact 1275 1279	said
+E713	Contact_Contact:T23
+A23	Realis E713 Actual
+T24	Contact_Contact 1507 1511	said
+E747	Contact_Contact:T24
+A24	Realis E747 Actual
+T25	Transaction_Transfer-Money 1777 1783	resale
+E777	Transaction_Transfer-Money:T25
+A25	Realis E777 Generic
+T26	Justice_Arrest-Jail 2002 2008	arrest
+E841	Justice_Arrest-Jail:T26
+A26	Realis E841 Actual
+T27	Transaction_Transfer-Money 2731 2736	funds
+E859	Transaction_Transfer-Money:T27
+A27	Realis E859 Actual
+T28	Transaction_Transfer-Money 1710 1722	embezzlement
+E912	Transaction_Transfer-Money:T28
+A28	Realis E912 Other
+T29	Movement_Transport-Person 2454 2464	immigrants
+E930	Movement_Transport-Person:T29
+A29	Realis E930 Generic
+T30	Justice_Arrest-Jail 2769 2777	arrested
+E965	Justice_Arrest-Jail:T30
+A30	Realis E965 Actual
+T31	Transaction_Transfer-Money 2380 2389	financing
+E985	Transaction_Transfer-Money:T31
+A31	Realis E985 Generic

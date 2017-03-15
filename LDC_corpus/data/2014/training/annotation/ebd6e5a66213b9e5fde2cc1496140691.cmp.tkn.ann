@@ -1,0 +1,51 @@
+T1	Conflict_Attack 565 570	nuked
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 632 640	invasion
+E2	Conflict_Attack:T2 
+A2	Realis E2 Other
+T3	Life_Die 725 732	carnage
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 742 752	decimation
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 1246 1253	stoning
+E5	Conflict_Attack:T5 
+A5	Realis E5 Generic
+T7	Conflict_Attack 1458 1462;1468 1472;1483 1489	turn into crater
+E7	Conflict_Attack:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 1866 1871	nuked
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 1935 1938	war
+E9	Conflict_Attack:T9 
+A9	Realis E9 Generic
+T10	Justice_Execute 2226 2234	executes
+E10	Justice_Execute:T10 
+A10	Realis E10 Generic
+T11	Conflict_Attack 2368 2375	destroy
+E11	Conflict_Attack:T11 
+A11	Realis E11 Other
+T13	Conflict_Attack 3318 3323	nuked
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 3387 3390	war
+E14	Conflict_Attack:T14 
+A14	Realis E14 Generic
+T15	Contact_Communicate 3470 3480	discussion
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 3775 3783;3791 3795	dropping bomb
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Justice_Execute 4122 4130	executes
+E17	Justice_Execute:T17 
+A17	Realis E17 Generic
+T18	Conflict_Attack 4476 4481	stone
+E18	Conflict_Attack:T18 
+A18	Realis E18 Other
+T19	Justice_Execute 4504 4508	hang
+E19	Justice_Execute:T19 
+A19	Realis E19 Other

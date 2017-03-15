@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976460000000000000042" doc_id="APW_ENG_20100128.0353" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-16" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20100128.0353" offset="149" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-29" type="justice" subtype="execute" realis="actual">
+        <trigger source="APW_ENG_20100128.0353" offset="195" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-42" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100128.0353" offset="177" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-55" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100128.0353" offset="138" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100128.0353" offset="195" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

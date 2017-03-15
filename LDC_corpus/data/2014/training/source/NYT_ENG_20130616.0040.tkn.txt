@@ -1,0 +1,28 @@
+<DOC id= " NYT_ENG_20130616.0040 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130616 / 20130616,514414c237eb37bdbd3f57d79d96 af22 . xml " > 
+<HEADLINE> 
+TURKISH POLICE STORM PARK OCCUPIED BY PROTESTERS 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EDS : ADDS report on number injured in 3rd graf ; UPDATES with reports of new protests in graf beginning “ By 3 a.m. Sunday , ” ; EDITS throughout ; CHANGES headline . ) ; ( This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+ISTANBUL - After 18 days of anti-government demonstrations that presented a broad rebuke to the country ’s leadership , Prime Minister Recep Tayyip Erdogan ordered the riot police to storm the center of the protest movement in Gezi Park on Saturday evening , setting off a night of chaos in downtown Istanbul .
+< / P> 
+<P> 
+As protesters fled the tear gas and water cannons , the police pursued them , in one case into a luxury hotel near the park where medics tended to people injured in the raid . Within hours , thousands of people began streaming downtown to protest the crackdown , setting bonfires on the city ’s main boulevard as tear gas wafted throughout streets normally bustling on a Saturday night .
+< / P> 
+<P> 
+Local officials said at least 44 people had been injured in the mayhem - the worst since the protests began - but their counts are often low . Some people sprawled on the floor of a makeshift clinic in a hotel ballroom complained of burns from chemicals in the jets of water shot from the water cannons .
+< / P> 
+<P> 
+The crackdown came just a day after it appeared that Erdogan may have outflanked the protesters , whose complaints against the planned destruction of Gezi Park for an Ottoman - themed shopping mall grew into broader anger and nationwide protests over what critics call Erdogan ’s authoritarian style . The wider protests began after the first police attack in the park , in Taksim Square .
+< / P> 
+<P> 
+Facing the gravest political crisis in more than 10 years in power , Erdogan was initially defiant , but late last week attempted to halt the broader movement against him by offering a compromise on the razing of the park that included letting the courts decide what should happen . He won over the protest organizers , but they struggled to bring along the rank - and - file demonstrators , who vowed on Saturday to stay put .
+< / P> 
+<P> 
+Then , even as the organizers continued to try to work for a peaceful solution , Erdogan appeared to lose patience , sending in the police . The brutality of the police assault set off new demonstrations in Istanbul , and the capital , Ankara , and appeared to harden the resolve of the core protesters . By 3 a.m. Sunday , the police were chasing protesters in the streets in Istanbul near the contested park , firing tear gas , water cannons and , according to many demonstrators , rubber bullets . Some protesters hurled rocks and bottles , but most were attempting to march peacefully to Taksim Square . To try to stem the flow of new protesters , the city shut down the subway , ferries and some bus routes and the police were blocking main arteries to Taksim .
+< / P> 
+< / TEXT> 
+< / DOC

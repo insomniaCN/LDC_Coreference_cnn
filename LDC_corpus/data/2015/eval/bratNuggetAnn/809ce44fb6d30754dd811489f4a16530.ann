@@ -1,0 +1,36 @@
+T1	Transaction_Transfer-Ownership 2277 2281	SOLD
+E17	Transaction_Transfer-Ownership:T1
+A1	Realis E17 Actual
+T2	Movement_Transport-Person 894 908	globe-trotting
+E24	Movement_Transport-Person:T2
+A2	Realis E24 Generic
+T3	Personnel_Nominate 1059 1069	nomination
+E78	Personnel_Nominate:T3
+A3	Realis E78 Actual
+T4	Transaction_Transfer-Money 2277 2281	SOLD
+E260	Transaction_Transfer-Money:T4
+A4	Realis E260 Actual
+T5	Life_Die 1783 1787	died
+E265	Life_Die:T5
+A5	Realis E265 Actual
+T6	Conflict_Attack 815 825	shoot down
+E363	Conflict_Attack:T6
+A6	Realis E363 Actual
+T7	Conflict_Attack 1708 1711	War
+E433	Conflict_Attack:T7
+A7	Realis E433 Generic
+T8	Contact_Contact 762 772	chewed out
+E459	Contact_Contact:T8
+A8	Realis E459 Actual
+T9	Conflict_Attack 1795 1804	Holocaust
+E651	Conflict_Attack:T9
+A9	Realis E651 Actual
+T10	Contact_Contact 1599 1608	interview
+E794	Contact_Contact:T10
+A10	Realis E794 Actual
+T11	Life_Die 1216 1220	died
+E867	Life_Die:T11
+A11	Realis E867 Actual
+T12	Life_Die 2561 2566	dying
+E938	Life_Die:T12
+A12	Realis E938 Actual

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000632" doc_id="bolt-eng-DF-203-185940-349202" source_type="multi_post">
+<event_mention id="em-10" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="398" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="421" length="6">talked</trigger>
+      </event_mention>
+<event_mention id="em-38" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1071" length="5">asked</trigger>
+      </event_mention>
+<event_mention id="em-53" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1189" length="4">gave</trigger>
+      </event_mention>
+<event_mention id="em-68" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1558" length="6">donate</trigger>
+      </event_mention>
+<event_mention id="em-83" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1619" length="7">donates</trigger>
+      </event_mention>
+<event_mention id="em-100" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1734" length="6">donate</trigger>
+      </event_mention>
+<event_mention id="em-113" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1858" length="6">donate</trigger>
+      </event_mention>
+<event_mention id="em-128" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="2123" length="4">sale</trigger>
+      </event_mention>
+<event_mention id="em-143" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="2130" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-158" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="2223" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-173" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="2384" length="7">Selling</trigger>
+      </event_mention>
+<event_mention id="em-188" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3345" length="2">$2</trigger>
+      </event_mention>
+<event_mention id="em-203" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3424" length="13">word of mouth</trigger>
+      </event_mention>
+<event_mention id="em-218" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3687" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-246" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3742" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-261" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3776" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-276" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3844" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-291" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3863" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-306" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="3902" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-321" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="4018" length="4">trip</trigger>
+      </event_mention>
+<event_mention id="em-349" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="4301" length="6">donate</trigger>
+      </event_mention>
+<event_mention id="em-364" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="4325" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-379" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="904" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-396" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1081" length="9">donations</trigger>
+      </event_mention>
+<event_mention id="em-409" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1129" length="4">went</trigger>
+      </event_mention>
+<event_mention id="em-424" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="1904" length="4">sale</trigger>
+      </event_mention>
+<event_mention id="em-437" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-349202" offset="2885" length="5">sales</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

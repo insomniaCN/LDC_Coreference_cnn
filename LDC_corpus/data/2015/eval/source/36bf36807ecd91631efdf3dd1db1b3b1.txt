@@ -1,0 +1,23 @@
+<doc id="36bf36807ecd91631efdf3dd1db1b3b1">
+<headline> </headline>
+<post author="Eugene" datetime="2013-12-28T10:08:00" id="p1">
+Source: Reuters
+
+<a href="http://www.reuters.com/article/2013/12/28/us-iraq-violence-idUSBRE9BR03120131228">Iraq troops arrest leading Sunni MP in violent raid</a>
+
+BY KAMAL NAMAA
+RAMADI, Iraq Sat Dec 28, 2013 8:08am EST
+
+(Reuters) - Iraqi security forces arrested a prominent Sunni Muslim lawmaker and supporter of anti-government protests in a raid on his home in the western province of Anbar, sparking clashes in which at least five people were killed, police sources said.
+
+The violent arrest of Ahmed al-Alwani is likely to inflame tensions in Sunni-dominated Anbar, where protesters have been demonstrating against what they see as marginalization of their sect by Prime Minister Nuri al-Maliki's Shi'ite-led government.
+
+Alwani belongs to the Sunni-backed Iraqiya bloc and has been a strong critic of Maliki and an influential figure in the protest movement.
+
+Police sources said a two-hour firefight broke out on Saturday when bodyguards and members of Alwani's tribe resisted police and army forces who went to arrest Alwani on charges of "terrorism" from his house in the center of the city of Ramadi.
+
+-snip-
+
+Read more: <a href="http://www.reuters.com/article/2013/12/28/us-iraq-violence-idUSBRE9BR03120131228">http://www.reuters.com/article/2013/12/28/us-iraq-violence-idUSBRE9BR03120131228</a>
+</post>
+</doc>

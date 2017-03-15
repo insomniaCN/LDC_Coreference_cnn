@@ -1,0 +1,58 @@
+T1	Conflict_Demonstrate 177 184	Protest
+E1	Conflict_Demonstrate:T1 
+A1	Questionable E1 Realis
+A2	Realis E1 Actual
+T2	Movement_Transport-Person 218 226	eviction
+E2	Movement_Transport-Person:T2 
+A3	Questionable E2 Realis
+A4	Realis E2 Other
+T3	Justice_Appeal 396 402	appeal
+E3	Justice_Appeal:T3 
+A5	Realis E3 Actual
+T4	Movement_Transport-Person 411 419	eviction
+E4	Movement_Transport-Person:T4 
+A6	Realis E4 Other
+T5	Movement_Transport-Person 485 492	removed
+E5	Movement_Transport-Person:T5 
+A7	Realis E5 Other
+T6	Justice_Appeal 521 527	Appeal
+E6	Justice_Appeal:T6 
+A8	Realis E6 Generic
+T7	Movement_Transport-Person 538 546	eviction
+E7	Movement_Transport-Person:T7 
+A9	Realis E7 Other
+T8	Conflict_Demonstrate 716 726	protesting
+E8	Conflict_Demonstrate:T8 
+A10	Realis E8 Actual
+T9	Conflict_Attack 739 742	war
+E9	Conflict_Attack:T9 
+A11	Realis E9 Actual
+T10	Movement_Transport-Person 857 862;868 871	force off
+E10	Movement_Transport-Person:T10 
+A12	Realis E10 Other
+T11	Conflict_Demonstrate 1431 1439;1452 1465	mounting demonstration
+E11	Conflict_Demonstrate:T11 
+A13	Realis E11 Other
+T12	Conflict_Demonstrate 1518 1525	protest
+E12	Conflict_Demonstrate:T12 
+A14	Realis E12 Actual
+A15	Questionable E12 Realis
+T13	Justice_Appeal 1540 1546	appeal
+E13	Justice_Appeal:T13 
+A16	Realis E13 Other
+T14	Conflict_Demonstrate 1663 1674	demonstrate
+E14	Conflict_Demonstrate:T14 
+A17	Realis E14 Generic
+T15	Conflict_Demonstrate 1683 1690	protest
+E15	Conflict_Demonstrate:T15 
+A18	Realis E15 Actual
+T16	Conflict_Demonstrate 1788 1795	protest
+E16	Conflict_Demonstrate:T16 
+A19	Questionable E16 Realis
+A20	Realis E16 Actual
+T17	Conflict_Demonstrate 1930 1937	protest
+E17	Conflict_Demonstrate:T17 
+A21	Realis E17 Generic
+T18	Movement_Transport-Person 2032 2037	leave
+E18	Movement_Transport-Person:T18 
+A22	Realis E18 Other

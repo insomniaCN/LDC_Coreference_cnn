@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea800000000000000089" doc_id="NYT_ENG_20130919.0086" source_type="newswire">
+  <event_mention id="em-7" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="2157" length="6">quoted</trigger>
+  </event_mention>
+  <event_mention id="em-45" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130919.0086" offset="2078" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-59" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130919.0086" offset="2233" length="7">tweeted</trigger>
+  </event_mention>
+  <event_mention id="em-69" type="life" subtype="marry" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="1464" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-88" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20130919.0086" offset="2078" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-109" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="1975" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-110" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="2700" length="8">bringing</trigger>
+  </event_mention>
+  <event_mention id="em-143" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130919.0086" offset="1811" length="8">comments</trigger>
+  </event_mention>
+  <event_mention id="em-150" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="1584" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-151" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="621" length="4">says</trigger>
+  </event_mention>
+  <event_mention id="em-181" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20130919.0086" offset="3214" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-185" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130919.0086" offset="3892" length="7">telling</trigger>
+  </event_mention>
+  <event_mention id="em-207" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130919.0086" offset="426" length="4">tour</trigger>
+  </event_mention>
+  <event_mention id="em-211" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="2807" length="4">came</trigger>
+  </event_mention>
+  <event_mention id="em-236" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130919.0086" offset="2718" length="6">dealer</trigger>
+  </event_mention>
+  <event_mention id="em-254" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3698" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-264" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="2663" length="7">written</trigger>
+  </event_mention>
+  <event_mention id="em-265" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3740" length="6">saying</trigger>
+  </event_mention>
+  <event_mention id="em-340" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="1630" length="7">message</trigger>
+  </event_mention>
+  <event_mention id="em-341" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="1727" length="10">thrown out</trigger>
+  </event_mention>
+  <event_mention id="em-358" type="life" subtype="marry" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="1395" length="7">wedding</trigger>
+  </event_mention>
+  <event_mention id="em-399" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="2951" length="6">lauded</trigger>
+  </event_mention>
+  <event_mention id="em-401" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="2199" length="10">kicked out</trigger>
+  </event_mention>
+  <event_mention id="em-438" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="1886" length="3">War</trigger>
+  </event_mention>
+  <event_mention id="em-461" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="3352" length="7">invited</trigger>
+  </event_mention>
+  <event_mention id="em-464" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="1648" length="5">spoke</trigger>
+  </event_mention>
+  <event_mention id="em-466" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130919.0086" offset="548" length="4">tour</trigger>
+  </event_mention>
+  <event_mention id="em-538" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="2173" length="6">saying</trigger>
+  </event_mention>
+  <event_mention id="em-543" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3550" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-598" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3873" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-635" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3004" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-638" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3369" length="4">talk</trigger>
+  </event_mention>
+  <event_mention id="em-651" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="2786" length="7">attacks</trigger>
+  </event_mention>
+  <event_mention id="em-654" type="life" subtype="divorce" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="1606" length="8">divorced</trigger>
+  </event_mention>
+  <event_mention id="em-679" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="269" length="9">describes</trigger>
+  </event_mention>
+  <event_mention id="em-695" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3604" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-701" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="2527" length="5">fired</trigger>
+  </event_mention>
+  <event_mention id="em-883" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="2484" length="5">party</trigger>
+  </event_mention>
+  <event_mention id="em-900" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3136" length="8">comments</trigger>
+  </event_mention>
+  <event_mention id="em-905" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130919.0086" offset="3117" length="10">apologized</trigger>
+  </event_mention>
+  <event_mention id="em-927" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130919.0086" offset="2688" length="5">fired</trigger>
+  </event_mention>
+  <event_mention id="em-934" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130919.0086" offset="3407" length="4">tour</trigger>
+  </event_mention>
+  <event_mention id="em-948" type="life" subtype="beborn" realis="other">
+    <trigger source="NYT_ENG_20130919.0086" offset="1523" length="6">having</trigger>
+  </event_mention>
+  <event_mention id="em-977" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130919.0086" offset="1212" length="6">gossip</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="life" subtype="divorce" realis="other">
+    <trigger source="NYT_ENG_20130919.0086" offset="1487" length="7">divorce</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

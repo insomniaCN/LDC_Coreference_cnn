@@ -1,0 +1,51 @@
+T1	Transaction_Transfer-Ownership 209 218	inherited
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 293 303	inheriting
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 449 459	inheriting
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 934 943	inherited
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 1605 1614	inherited
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1688 1699	inheritence
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 3414 3423	INHERITED
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 4133 4142	inherited
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 4462 4475	regurgitation
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 4499 4502	lie
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Ownership 4672 4681	INHERITED
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Life_Die 4703 4707	died
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 4786 4789	war
+E13	Conflict_Attack:T13 
+A13	Realis E13 Generic
+T14	Life_Die 5120 5124	died
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 5130 5138	returned
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Personnel_Start-Position 5163 5172	take over
+E16	Personnel_Start-Position:T16 
+A16	Realis E16 Actual
+T17	Personnel_Start-Position 5444 5451	becomes
+E17	Personnel_Start-Position:T17 
+A17	Realis E17 Actual

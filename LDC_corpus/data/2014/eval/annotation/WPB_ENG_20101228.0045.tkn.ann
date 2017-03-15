@@ -1,0 +1,54 @@
+T1	Justice_Execute 71 76	Hangs
+E1	Justice_Execute:T1 
+A1	Realis E1 Actual
+T2	Justice_Execute 257 265	executed
+E2	Justice_Execute:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 274 283	convicted
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 524 532	arrested
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Contact_Meet 755 758	met
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Justice_Execute 851 859	executed
+E6	Justice_Execute:T6 
+A6	Realis E6 Actual
+T7	Justice_Execute 966 974	executed
+E7	Justice_Execute:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 1006 1012;992 994	prison in
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Release-Parole 999 1012	out of prison
+E9	Justice_Release-Parole:T9 
+A9	Realis E9 Actual
+T10	Justice_Execute 1369 1379	executions
+E10	Justice_Execute:T10 
+T11	Justice_Sentence 1431 1440	sentenced
+E11	Justice_Sentence:T11 
+A10	Realis E11 Actual
+T12	Justice_Execute 1445 1450	death
+E12	Justice_Execute:T12 
+A11	Realis E12 Other
+T13	Justice_Convict 1513 1522	convicted
+E13	Justice_Convict:T13 
+A12	Realis E13 Actual
+T14	Justice_Execute 1598 1604	hanged
+E14	Justice_Execute:T14 
+A13	Realis E14 Actual
+T15	Justice_Convict 1617 1626	convicted
+E15	Justice_Convict:T15 
+A14	Realis E15 Actual
+T16	Justice_Execute 1732 1740	executed
+E16	Justice_Execute:T16 
+A15	Realis E16 Actual
+T17	Conflict_Attack 609 615	combat
+E17	Conflict_Attack:T17 
+A16	Realis E17 Generic
+T18	Conflict_Demonstrate 1645 1653	protests
+E18	Conflict_Demonstrate:T18 
+A17	Realis E18 Actual
+A18	Realis E10 Actual

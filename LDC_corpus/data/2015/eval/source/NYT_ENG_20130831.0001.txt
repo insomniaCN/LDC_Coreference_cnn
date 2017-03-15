@@ -1,0 +1,64 @@
+<DOC id="NYT_ENG_20130831.0001" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130831/20130831,001346b7926ababb8a66e5b64b8faf9d.xml">
+<HEADLINE>
+STUYVESANT PRINCIPAL, NOW RETIRED, MISHANDLED CHEATING CASE, REPORT SAYS
+</HEADLINE>
+<TEXT>
+<P>
+EDS: Minor EDITS throughout; REVISES headline.);
+</P>
+<P>
+NEW YORK - The principal of Stuyvesant High School, one of the city’s top public schools, mishandled the investigation into a large cheating operation there last year from the moment he was tipped off to it until state education officials became aware of it more than a week later, a city report issued Friday said.
+</P>
+<P>
+The principal, Stanley Teitel, retired last summer while the city’s Education Department was investigating his handling of the cheating, which involved more than 60 students using smartphones to receive answers for standardized city and state tests.
+</P>
+<P>
+The report, issued by the Education Department’s Office of Special Investigations, said that after Teitel was tipped off by a student about the cheating, he set up a sting operation to catch the ringleader when he should have tried to pre-emptively thwart the cheating, including by enforcing the citywide ban on phones inside schools.
+</P>
+<P>
+The report said that Teitel and an assistant principal, Randi Damesek, took too long to question students involved and did not report the cheating to state officials until eight days after catching the lead student, when reporters began inquiring about what had happened.
+</P>
+<P>
+“It is the conclusion of this office that due to a lack of foresight, candor and professional judgment, Teitel and Damesek failed to efficiently and effectively carry out the administrative duties entrusted to them during their handling of the 'cheating incident,' of June 2012,” the report said.
+</P>
+<P>
+It recommended that Teitel be barred from future employment in city schools, and the Education Department will follow that recommendation, Erin Hughes, a spokeswoman, said.
+</P>
+<P>
+Teitel said Friday he had not seen the report and would not discuss its contents.
+</P>
+<P>
+“No one sent me a copy of it,” he said, adding, “I am retired. I have been retired for over a year.”
+</P>
+<P>
+Efforts to reach Damesek were unsuccessful. The Education Department will bring disciplinary charges against her and seek her firing “or, at the very minimum, a demotion,” Hughes said.
+</P>
+<P>
+Besides its unflattering portrait of the leadership team at one of the most prestigious high schools in the country, the report also describes a 21st-century example of how students let others peek at their answers.
+</P>
+<P>
+The ringleader, Nayeem Ahsan, referred to as “Student A” in the report, told investigators he used his iPhone to send answers to other students via text messages to “garner good will” among classmates, the report said, and perhaps get help from them in subjects he was weaker in. The number of students involved who received his texts “grew and grew,” according to Ahsan’s account in the report.
+</P>
+<P>
+During the physics Regents exam, he told investigators, he waited until one proctor left the room and was replaced by a lax one who did not walk around. Eventually, she fell asleep, he said, and he began sending out answers. The proctor denied falling asleep.
+</P>
+<P>
+On June 16, a student emailed Teitel to say that Ahsan had “electronically assisted” several students on Regents exams and was set to do so again, the report said. In reaction to that message, Teitel “showed an extreme lack of judgment,” it said. He set up a sting operation for a June 18 language exam, placing a reliable proctor to catch Ahsan in the act, the report said. When the proctor did so, he notified Teitel, who took Ahsan and his phone out of the room.
+</P>
+<P>
+School staff members copied information from the phone to find out who else had been receiving answers. Shortly after Ahsan left, the information on his phone suddenly disappeared; he told school staff members that he had just suspended his phone service, which they did not believe, the report said.
+</P>
+<P>
+Teitel told Ahsan and his father, “There’s no way I’m keeping him” at Stuyvesant and told them to request a safety-related transfer to another school, which they reluctantly did, but education officials rejected it, saying his safety was not in jeopardy.
+</P>
+<P>
+Dozens of students were suspended for several days and had to retake exams. Nayeem spent his senior year at Forest Hills High School in Queens and graduated two months ago, according to his father.
+</P>
+<P>
+Although the report is dated Nov. 5, its release was delayed until Friday, “because there were allegations of a 'culture of cheating,'” at Stuyvesant, Hughes said.
+</P>
+<P>
+“We kept the investigation open and monitored until the end of the school year,” Hughes said. “No further evidence was presented that warranted a change in the report, so the report was issued as is.”
+</P>
+</TEXT>
+</DOC>

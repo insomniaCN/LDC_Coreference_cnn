@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea6d0000000000000061" doc_id="NYT_ENG_20130724.0108" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-508" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="202" length="10">BANKRUPTCY</trigger>
+      </event_mention>
+      <event_mention id="em-475" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="455" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-288" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="632" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-820" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="720" length="6">filing</trigger>
+      </event_mention>
+      <event_mention id="em-569" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="744" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-121" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="967" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-677" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="1120" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-670" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="1284" length="6">filing</trigger>
+      </event_mention>
+      <event_mention id="em-405" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="1952" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-766" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="NYT_ENG_20130724.0108" offset="2386" length="4">file</trigger>
+      </event_mention>
+      <event_mention id="em-697" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="NYT_ENG_20130724.0108" offset="2443" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-303" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="1786" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-541" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="NYT_ENG_20130724.0108" offset="395" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-669" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="NYT_ENG_20130724.0108" offset="564" length="10">Bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-233" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="NYT_ENG_20130724.0108" offset="782" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-219" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="NYT_ENG_20130724.0108" offset="1442" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-280">
+      <event_mention id="em-957" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130724.0108" offset="1343" length="8">pensions</trigger>
+      </event_mention>
+      <event_mention id="em-71" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130724.0108" offset="1430" length="8">pensions</trigger>
+      </event_mention>
+      <event_mention id="em-736" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130724.0108" offset="2102" length="8">pensions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-295">
+      <event_mention id="em-507" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="1355" length="7">retired</trigger>
+      </event_mention>
+      <event_mention id="em-28" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="2061" length="7">retired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-364">
+      <event_mention id="em-709" type="justice" subtype="appeal" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="1595" length="8">appealed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-379">
+      <event_mention id="em-195" type="justice" subtype="appeal" realis="generic">
+        <trigger source="NYT_ENG_20130724.0108" offset="1659" length="7">Appeals</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-552">
+      <event_mention id="em-801" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130724.0108" offset="2544" length="10">protesters</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-595">
+      <event_mention id="em-490" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130724.0108" offset="846" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-610">
+      <event_mention id="em-377" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130724.0108" offset="2431" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-625">
+      <event_mention id="em-418" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130724.0108" offset="2555" length="8">gathered</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

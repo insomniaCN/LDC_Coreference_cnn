@@ -1,0 +1,52 @@
+T1	Transaction_Transfer-Money 89 95	funded
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Money 944 950	funded
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Money 1312 1318	funded
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Generic
+T4	Justice_Sue 2430 2437	lawsuit
+E4	Justice_Sue:T4 
+A4	Realis E4 Other
+T5	Justice_Sue 8282 8286;8289 8296	file lawsuit
+E5	Justice_Sue:T5 
+A5	Realis E5 Other
+T6	Contact_Communicate 8588 8608	receiving complaints
+E6	Contact_Communicate:T6 
+A6	Questionable E6 Mention
+A7	Realis E6 Actual
+T7	Contact_Communicate 8713 8717;8720 8726	sent letter
+E7	Contact_Communicate:T7 
+A8	Realis E7 Actual
+T8	Contact_Communicate 8779 8785;8795 8799	letter sent
+E8	Contact_Communicate:T8 
+A9	Realis E8 Actual
+T9	Contact_Communicate 9294 9300;9310 9314	letter sent
+E9	Contact_Communicate:T9 
+A10	Realis E9 Actual
+T10	Movement_Transport-Person 11349 11363	transportation
+E10	Movement_Transport-Person:T10 
+A11	Realis E10 Generic
+T13	Contact_Communicate 11649 11654	write
+E13	Contact_Communicate:T13 
+A15	Realis E13 Other
+T14	Contact_Communicate 12065 12072	emailed
+E14	Contact_Communicate:T14 
+A16	Realis E14 Actual
+T15	Contact_Communicate 12231 12238	emailed
+E15	Contact_Communicate:T15 
+A17	Realis E15 Actual
+T16	Movement_Transport-Person 277 284	arrived
+E16	Movement_Transport-Person:T16 
+A18	Realis E16 Actual
+T17	Contact_Communicate 8742 8753	questioning
+E17	Contact_Communicate:T17 
+A19	Realis E17 Actual
+T18	Contact_Communicate 8814 8823	questions
+E18	Contact_Communicate:T18 
+A20	Realis E18 Actual
+T19	Contact_Communicate 8974 8978	says
+E19	Contact_Communicate:T19 
+A21	Realis E19 Actual

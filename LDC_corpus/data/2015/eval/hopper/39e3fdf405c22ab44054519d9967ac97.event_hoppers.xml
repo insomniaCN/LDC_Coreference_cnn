@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea9a0000000000000135" doc_id="39e3fdf405c22ab44054519d9967ac97" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-951" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="242" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-330" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="473" length="4">text</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-546" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="263" length="2">Ex</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-724" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="513" length="6">speech</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-121" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="551" length="10">conference</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-727" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="579" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-339" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="584" length="2">ex</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-912" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="686" length="6">hiring</trigger>
+      </event_mention>
+      <event_mention id="em-269" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="765" length="6">became</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-414" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="693" length="2">ex</trigger>
+      </event_mention>
+      <event_mention id="em-208" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="812" length="9">resigning</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-975" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="877" length="6">jailed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-850" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="984" length="7">funding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-223" type="personnel" subtype="elect" realis="generic">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="1225" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-884" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="605" length="6">claims</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-251" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="39e3fdf405c22ab44054519d9967ac97" offset="1317" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,85 @@
+<DOC id= " NYT_ENG_20131009.0035 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20131009 / 20131009,24d707723 af738b6dfc232078e645339 . xml " > 
+<HEADLINE> 
+HE'S OLDER THAN 80 , BUT A CONVICT GETS NO PAROLE 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+NEW YORK - It began with a parking ticket dispute on a street in Manhattan more than 35 years ago , then lots of stupidity , shots fired , everyone lived .
+< / P> 
+<P> 
+In a medical ward in May 2013 , the parole board was trying to figure out if it was safe to put Mohaman G . Koti , the driver involved , back on the street .
+< / P> 
+<P> 
+“ Where does your sister live , sir ? ” a parole commissioner asked .
+< / P> 
+<P> 
+“ Ma’am ? ” Koti replied , not making out the question .
+< / P> 
+<P> 
+Lots of that . Koti said he would not be a danger to society .
+< / P> 
+<P> 
+“ OK , why not ? ” the commissioner asked .
+< / P> 
+<P> 
+“ What ? ” Koti answered .
+< / P> 
+<P> 
+Koti will officially be 85 years old Friday , but his mother told him he was born in 1926 , not 1928 as the records show . So perhaps he will be 87 . The case is now so old that the parole board can not find a copy of the transcript from his sentencing .
+< / P> 
+<P> 
+Koti may be on in years , but he does not make the list of the 10 oldest prisoners in New York state , where , over the past decade , the number of inmates has dropped by close to 15,000 . One section of the prison system has run against that trend . There are 859 more prisoners older than 60 , a current total of 2,133 , said Linda M . Foglia , a public information officer for the prison system . About half are doing life without parole .
+< / P> 
+<P> 
+Koti got into an argument with a police officer in midtown Manhattan about an inspection sticker on his car . This was hideous judgment : he had a record dating back to the 1940s and was on federal parole for a bank robbery in South Carolina . Koti said the officer drew his gun , then he pulled a gun and shot the officer . Nine other police officers joined in a chase , with shots fired . Koti fled into a woman ’s apartment , and when he was arrested , the charges included attempted murder and kidnapping . Later , he was caught in the water , trying to escape from Rikers Island .
+< / P> 
+<P> 
+“ I do n’t think I should have had a gun in the first place , ” Koti said . “ I should not have shot the police officer . If he had done his job as a police officer and given me a ticket , let me go , give me a warning , that would have never happened . ” 
+< / P> 
+<P> 
+Still , he repeated , he should not have had a gun .
+< / P> 
+<P> 
+Offered a sentence of 7 1 / 2 to 15 years , he turned it down because he thought he could beat the charges at trial . The wounded officer had recovered , and his lawyer had found a witness who would give an account of the confrontation sympathetic to Koti . It did not work . He arrived in state prison in 1978 to serve a sentence of 25 years to life . There , he became known as a peacemaker and gave talks to schools .
+< / P> 
+<P> 
+“ You have done a lot of good things in prison , ” a commissioner said at the parole hearing .
+< / P> 
+<P> 
+Koti said , “ When I came to prison , instead of being with the gangsters and dopes and drug addicts , I went to school . ” 
+< / P> 
+<P> 
+For prisoners older than 60 , the rate of recidivism is about 1 percent , compared with the general prison population , which a 2011 study put at about 40 percent in New York .
+< / P> 
+<P> 
+Why do the older paroled inmates do better ? 
+< / P> 
+<P> 
+“ They age out of crime , ” said Mujahid Farid , a former prisoner and current Soros fellow who is working on a campaign to increase the rate of release of aging prisoners in New York .
+< / P> 
+<P> 
+“ They have spent a lot of time reflecting on their life , ” he said . “ Sometime , there is a lot of growth in prison , despite the oppressive conditions . Almost like a flower growing through cement . ” 
+< / P> 
+<P> 
+Even so , Koti , who was rated by parole investigators at a low risk to commit another crime , was turned down for release by a 2 - to - 1 vote .
+< / P> 
+<P> 
+Why ? The board said he had a history of violence , was at risk to commit another crime and letting him go would create disrespect for the law . Farid had another view : “ They ’re saying no because of this whole zeitgeist of the punishment . Once a person had been punished , punish them again . ” 
+< / P> 
+<P> 
+Koti , who has been turned down for parole six times , can apply again in two years . Will he last that long ? 
+< / P> 
+<P> 
+He has been in and out of hospitals dozens of times in the past few years , suffering from a neuromuscular disorder , asthma , intestinal problems . A sister has offered to take him in .
+< / P> 
+<P> 
+The parole decision “ deprives an old man of an opportunity not to die in prison , ” said Susan V . Tipograph , a lawyer for Koti .
+< / P> 
+<P> 
+At the hearing in May , the commissioners kept repeating questions .
+< / P> 
+<P> 
+“ I am a little hard of hearing , that is why , ” Koti said .
+< / P> 
+< / TEXT> 
+< / DOC

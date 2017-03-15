@@ -1,0 +1,180 @@
+T1	Contact_Meet 934 939	words
+E12	Contact_Meet:T1
+A1	Realis E12 Actual
+T2	Justice_Execute 1836 1845	execution
+E23	Justice_Execute:T2
+A2	Realis E23 Actual
+T3	Justice_Convict 1902 1911	convicted
+E30	Justice_Convict:T3
+A3	Realis E30 Actual
+T4	Contact_Broadcast 1336 1345	publishes
+E69	Contact_Broadcast:T4
+A4	Realis E69 Actual
+T5	Life_Die 1581 1587	deaths
+E72	Life_Die:T5
+A5	Realis E72 Actual
+T6	Contact_Meet 2806 2809	say
+E79	Contact_Meet:T6
+A6	Realis E79 Generic
+T7	Life_Die 2123 2128	death
+E94	Life_Die:T7
+A7	Realis E94 Generic
+T8	Contact_Meet 897 902	asked
+E95	Contact_Meet:T8
+A8	Realis E95 Actual
+T9	Life_Die 1756 1765	execution
+E137	Life_Die:T9
+A9	Realis E137 Actual
+T10	Justice_Sentence 2123 2136	death penalty
+E159	Justice_Sentence:T10
+A10	Realis E159 Generic
+T11	Life_Die 1311 1316	death
+E203	Life_Die:T11
+A11	Realis E203 Generic
+T12	Contact_Broadcast 2237 2247	statements
+E217	Contact_Broadcast:T12
+A12	Realis E217 Generic
+T13	Conflict_Attack 1944 1952	stabbing
+E247	Conflict_Attack:T13
+A13	Realis E247 Actual
+T14	Justice_Arrest-Jail 877 883	prison
+E296	Justice_Arrest-Jail:T14
+A14	Realis E296 Generic
+T15	Contact_Broadcast 1682 1689	cheered
+E309	Contact_Broadcast:T15
+A15	Realis E309 Actual
+T16	Contact_Broadcast 1356 1366	statements
+E330	Contact_Broadcast:T16
+A16	Realis E330 Generic
+T17	Transaction_Transfer-Ownership 505 514	borrowing
+E338	Transaction_Transfer-Ownership:T17
+A17	Realis E338 Other
+T18	Life_Die 2065 2083	capital punishment
+E345	Life_Die:T18
+A18	Realis E345 Generic
+T19	Conflict_Attack 594 599	raped
+E358	Conflict_Attack:T19
+A19	Realis E358 Actual
+T20	Justice_Execute 2550 2558	executed
+E381	Justice_Execute:T20
+A20	Realis E381 Generic
+T21	Justice_Convict 760 769	convicted
+E399	Justice_Convict:T21
+A21	Realis E399 Actual
+T22	Conflict_Attack 1924 1931	beating
+E415	Conflict_Attack:T22
+A22	Realis E415 Actual
+T23	Life_Die 1389 1397	executed
+E443	Life_Die:T23
+A23	Realis E443 Actual
+T24	Life_Die 639 643	kill
+E453	Life_Die:T24
+A24	Realis E453 Actual
+T25	Life_Injure 594 599	raped
+E458	Life_Injure:T25
+A25	Realis E458 Actual
+T26	Personnel_End-Position 1955 1962	retired
+E467	Personnel_End-Position:T26
+A26	Realis E467 Actual
+T27	Contact_Meet 1488 1494	claims
+E475	Contact_Meet:T27
+A27	Realis E475 Generic
+T28	Contact_Meet 1512 1523	confessions
+E489	Contact_Meet:T28
+A28	Realis E489 Generic
+T29	Contact_Contact 2383 2387	said
+E498	Contact_Contact:T29
+A29	Realis E498 Actual
+T30	Contact_Meet 1458 1466	rantings
+E504	Contact_Meet:T30
+A30	Realis E504 Generic
+T31	Justice_Execute 1756 1765	execution
+E536	Justice_Execute:T31
+A31	Realis E536 Actual
+T32	Conflict_Attack 781 787	murder
+E559	Conflict_Attack:T32
+A32	Realis E559 Actual
+T33	Justice_Execute 841 850	execution
+E564	Justice_Execute:T33
+A33	Realis E564 Generic
+T34	Life_Die 1836 1845	execution
+E581	Life_Die:T34
+A34	Realis E581 Actual
+T35	Contact_Broadcast 1800 1807	shouted
+E620	Contact_Broadcast:T35
+A35	Realis E620 Actual
+T36	Life_Die 1120 1123	die
+E624	Life_Die:T36
+A36	Realis E624 Other
+T37	Life_Die 2167 2176	execution
+E632	Life_Die:T37
+A37	Realis E632 Generic
+T38	Conflict_Attack 568 573	bound
+E657	Conflict_Attack:T38
+A38	Realis E657 Actual
+T39	Conflict_Attack 629 634	shoot
+E670	Conflict_Attack:T39
+A39	Realis E670 Actual
+T40	Justice_Execute 1311 1316	death
+E716	Justice_Execute:T40
+A40	Realis E716 Generic
+T41	Life_Die 781 787	murder
+E722	Life_Die:T41
+A41	Realis E722 Actual
+T42	Justice_Execute 2167 2176	execution
+E725	Justice_Execute:T42
+A42	Realis E725 Generic
+T43	Movement_Transport-Person 429 433	went
+E762	Movement_Transport-Person:T43
+A43	Realis E762 Actual
+T44	Justice_Arrest-Jail 2456 2462	Prison
+E764	Justice_Arrest-Jail:T44
+A44	Realis E764 Generic
+T45	Transaction_Transfer-Ownership 1915 1922	robbing
+E771	Transaction_Transfer-Ownership:T45
+A45	Realis E771 Actual
+T46	Contact_Meet 1468 1477	apologies
+E808	Contact_Meet:T46
+A46	Realis E808 Generic
+T47	Justice_Execute 1389 1397	executed
+E818	Justice_Execute:T47
+A47	Realis E818 Actual
+T48	Justice_Sentence 1602 1611	condemned
+E831	Justice_Sentence:T48
+A48	Realis E831 Actual
+T49	Life_Die 2550 2558	executed
+E837	Life_Die:T49
+A49	Realis E837 Generic
+T50	Life_Die 1936 1943	fatally
+E843	Life_Die:T50
+A50	Realis E843 Actual
+T51	Movement_Transport-Person 525 533	returned
+E855	Movement_Transport-Person:T51
+A51	Realis E855 Actual
+T52	Justice_Arrest-Jail 1403 1409	prison
+E859	Justice_Arrest-Jail:T52
+A52	Realis E859 Generic
+T53	Justice_Arrest-Jail 1374 1381	inmates
+E873	Justice_Arrest-Jail:T53
+A53	Realis E873 Actual
+T54	Justice_Execute 2065 2083	capital punishment
+E925	Justice_Execute:T54
+A54	Realis E925 Generic
+T55	Conflict_Attack 541 547	forced
+E929	Conflict_Attack:T55
+A55	Realis E929 Actual
+T56	Justice_Arrest-Jail 2251 2258	inmates
+E949	Justice_Arrest-Jail:T56
+A56	Realis E949 Actual
+T57	Contact_Meet 1028 1032	told
+E958	Contact_Meet:T57
+A57	Realis E958 Actual
+T58	Contact_Broadcast 1612 1619	praised
+E959	Contact_Broadcast:T58
+A58	Realis E959 Generic
+T59	Life_Die 841 850	execution
+E981	Life_Die:T59
+A59	Realis E981 Generic
+T60	Contact_Meet 192 197	WORDS
+E982	Contact_Meet:T60
+A60	Realis E982 Actual

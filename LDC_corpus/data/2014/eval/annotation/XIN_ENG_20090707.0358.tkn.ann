@@ -1,0 +1,42 @@
+T1	Conflict_Demonstrate 210 214	Riot
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Demonstrate 396 400	riot
+E2	Conflict_Demonstrate:T2 
+A2	Realis E2 Actual
+T3	Life_Die 419 425	killed
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Conflict_Demonstrate 495 499	riot
+E4	Conflict_Demonstrate:T4 
+A4	Realis E4 Generic
+T5	Movement_Transport-Person 566 576	patrolling
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Conflict_Demonstrate 839 843	riot
+E6	Conflict_Demonstrate:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 901 909	violence
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Life_Die 1011 1015	dead
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Life_Injure 1039 1046	injured
+E9	Life_Injure:T9 
+A9	Realis E9 Actual
+T10	Conflict_Demonstrate 1055 1059	riot
+E10	Conflict_Demonstrate:T10 
+A10	Realis E10 Actual
+T11	Conflict_Demonstrate 1075 1082	Rioters
+E11	Conflict_Demonstrate:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 1083 1089	burned
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T14	Justice_Arrest-Jail 1246 1254	detained
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Actual
+T15	Conflict_Demonstrate 1295 1299	riot
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Actual

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea610000000000000043" doc_id="NYT_ENG_20130701.0120" source_type="newswire">
+  <event_mention id="em-38" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="2064" length="6">starts</trigger>
+  </event_mention>
+  <event_mention id="em-43" type="business" subtype="mergeorg" realis="other">
+    <trigger source="NYT_ENG_20130701.0120" offset="741" length="6">merger</trigger>
+  </event_mention>
+  <event_mention id="em-47" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130701.0120" offset="1317" length="5">email</trigger>
+  </event_mention>
+  <event_mention id="em-72" type="business" subtype="mergeorg" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="1304" length="6">merger</trigger>
+  </event_mention>
+  <event_mention id="em-119" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="2782" length="5">sales</trigger>
+  </event_mention>
+  <event_mention id="em-131" type="business" subtype="mergeorg" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="358" length="6">merger</trigger>
+  </event_mention>
+  <event_mention id="em-155" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130701.0120" offset="2852" length="4">ship</trigger>
+  </event_mention>
+  <event_mention id="em-178" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130701.0120" offset="1987" length="7">will be</trigger>
+  </event_mention>
+  <event_mention id="em-226" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130701.0120" offset="1837" length="7">will be</trigger>
+  </event_mention>
+  <event_mention id="em-276" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="2957" length="5">costs</trigger>
+  </event_mention>
+  <event_mention id="em-309" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130701.0120" offset="2544" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-367" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="1695" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-378" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="373" length="8">creating</trigger>
+  </event_mention>
+  <event_mention id="em-440" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="2782" length="5">sales</trigger>
+  </event_mention>
+  <event_mention id="em-483" type="business" subtype="mergeorg" realis="other">
+    <trigger source="NYT_ENG_20130701.0120" offset="864" length="6">merger</trigger>
+  </event_mention>
+  <event_mention id="em-525" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130701.0120" offset="1214" length="7">take on</trigger>
+  </event_mention>
+  <event_mention id="em-541" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130701.0120" offset="727" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-677" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="1695" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-759" type="business" subtype="mergeorg" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="2874" length="8">combined</trigger>
+  </event_mention>
+  <event_mention id="em-763" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130701.0120" offset="1913" length="6">letter</trigger>
+  </event_mention>
+  <event_mention id="em-790" type="business" subtype="mergeorg" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="172" length="6">MERGER</trigger>
+  </event_mention>
+  <event_mention id="em-797" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="2648" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-799" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130701.0120" offset="1123" length="8">revenues</trigger>
+  </event_mention>
+  <event_mention id="em-807" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="1953" length="4">head</trigger>
+  </event_mention>
+  <event_mention id="em-830" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130701.0120" offset="2932" length="12">distribution</trigger>
+  </event_mention>
+  <event_mention id="em-858" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130701.0120" offset="2240" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-869" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130701.0120" offset="1820" length="12">stepped down</trigger>
+  </event_mention>
+  <event_mention id="em-895" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130701.0120" offset="2451" length="10">laying off</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

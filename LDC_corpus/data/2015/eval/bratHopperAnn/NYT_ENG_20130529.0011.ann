@@ -1,0 +1,86 @@
+T1	Personnel_Nominate 181 185	PICK
+E4	Personnel_Nominate:T1
+A1	Realis E4 Other
+T2	Personnel_Nominate 301 309	nominate
+E403	Personnel_Nominate:T2
+A2	Realis E403 Other
+T3	Personnel_Nominate 541 550	selection
+E573	Personnel_Nominate:T3
+A3	Realis E573 Actual
+T4	Personnel_Nominate 576 582	chosen
+E688	Personnel_Nominate:T4
+A4	Realis E688 Actual
+T5	Personnel_End-Position 328 334	former
+E14	Personnel_End-Position:T5
+A5	Realis E14 Actual
+T6	Personnel_End-Position 362 368	former
+E220	Personnel_End-Position:T6
+A6	Realis E220 Actual
+T7	Personnel_End-Position 186 192	FORMER
+E694	Personnel_End-Position:T7
+A7	Realis E694 Actual
+T8	Personnel_End-Position 1941 1948	service
+E990	Personnel_End-Position:T8
+A8	Realis E990 Actual
+T9	Personnel_Start-Position 439 446	replace
+E884	Personnel_Start-Position:T9
+A9	Realis E884 Other
+T10	Personnel_End-Position 439 446	replace
+E601	Personnel_End-Position:T10
+A10	Realis E601 Other
+T11	Personnel_Nominate 781 790	nominated
+E255	Personnel_Nominate:T11
+A11	Realis E255 Other
+T12	Personnel_Nominate 943 955	confirmation
+E367	Personnel_Nominate:T12
+A12	Realis E367 Other
+T13	Conflict_Attack 874 881	attacks
+E808	Conflict_Attack:T13
+A13	Realis E808 Actual
+T14	Conflict_Attack 1029 1035	attack
+E57	Conflict_Attack:T14
+A14	Realis E57 Actual
+T15	Contact_Meet 1283 1291	persuade
+E334	Contact_Meet:T15
+A15	Realis E334 Actual
+T16	Contact_Meet 1631 1638	refused
+E417	Contact_Meet:T16
+A16	Realis E417 Actual
+T17	Contact_Contact 1483 1493	tipped off
+E179	Contact_Contact:T17
+A17	Realis E179 Actual
+T18	Movement_Transport-Person 1547 1553	rushed
+E626	Movement_Transport-Person:T18
+A18	Realis E626 Actual
+T19	Contact_Contact 1691 1697	agreed
+E21	Contact_Contact:T19
+A19	Realis E21 Actual
+T20	Conflict_Attack 2172 2179	bombing
+E946	Conflict_Attack:T20
+A20	Realis E946 Actual
+T21	Life_Die 2218 2224	killed
+E974	Life_Die:T21
+A21	Realis E974 Actual
+T22	Contact_Contact 2313 2318	urged
+E458	Contact_Contact:T22
+A22	Realis E458 Actual
+T23	Justice_Charge-Indict 2451 2458	charges
+E630	Justice_Charge-Indict:T23
+A23	Realis E630 Other
+T24	Justice_Charge-Indict 2587 2595	indicted
+E139	Justice_Charge-Indict:T24
+A24	Realis E139 Actual
+T25	Personnel_Start-Position 661 667	served
+E259	Personnel_Start-Position:T25
+A25	Realis E259 Actual
+T26	Personnel_Start-Position 1941 1948	service
+E476	Personnel_Start-Position:T26
+A26	Realis E476 Actual
+R1	Coreference Arg1:E4 Arg2:E403
+R2	Coreference Arg1:E403 Arg2:E573
+R3	Coreference Arg1:E573 Arg2:E688
+R4	Coreference Arg1:E694 Arg2:E220
+R5	Coreference Arg1:E220 Arg2:E990
+R6	Coreference Arg1:E255 Arg2:E367
+R7	Coreference Arg1:E808 Arg2:E57
+R8	Coreference Arg1:E334 Arg2:E417

@@ -1,0 +1,107 @@
+T1	Justice_Arrest-Jail 104 112	arrested
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 229 235	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Justice_Charge-Indict 252 259	charges
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 344 352	arrested
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 263 276	siphoning off
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Justice_Arrest-Jail 498 506	arrested
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 583 591	arrested
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Charge-Indict 722 729	charged
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 735 745	embezzling
+E9	Transaction_Transfer-Money:T9 
+A9	Questionable E9 Mention
+A10	Realis E9 Other
+T10	Justice_Arrest-Jail 913 919	arrest
+E10	Justice_Arrest-Jail:T10 
+A11	Realis E10 Actual
+T11	Justice_Arrest-Jail 968 976	arrested
+E11	Justice_Arrest-Jail:T11 
+A12	Realis E11 Actual
+T12	Justice_Arrest-Jail 1168 1176	detained
+E12	Justice_Arrest-Jail:T12 
+A13	Realis E12 Actual
+T13	Justice_Extradite 1306 1317	extradition
+E13	Justice_Extradite:T13 
+A14	Realis E13 Other
+T14	Justice_Arrest-Jail 1427 1433	arrest
+E14	Justice_Arrest-Jail:T14 
+A15	Realis E14 Other
+A16	Questionable E14 Realis
+T15	Justice_Arrest-Jail 1541 1549	arrested
+E15	Justice_Arrest-Jail:T15 
+A17	Questionable E15 Realis
+A18	Realis E15 Other
+T16	Justice_Arrest-Jail 1686 1695	arresting
+E16	Justice_Arrest-Jail:T16 
+A19	Realis E16 Other
+T17	Movement_Transport-Person 1711 1715	fled
+E17	Movement_Transport-Person:T17 
+A20	Realis E17 Actual
+T18	Justice_Acquit 1805 1814	acquitted
+E18	Justice_Acquit:T18 
+A21	Realis E18 Actual
+T19	Justice_Charge-Indict 1848 1854	charge
+E19	Justice_Charge-Indict:T19 
+A22	Realis E19 Actual
+T21	Transaction_Transfer-Money 2010 2020	bankrolled
+E21	Transaction_Transfer-Money:T21 
+A24	Realis E21 Other
+T22	Personnel_Elect 2033 2041	election
+E22	Personnel_Elect:T22 
+A25	Questionable E22 Realis
+A26	Realis E22 Other
+T23	Justice_Arrest-Jail 2092 2098	arrest
+E23	Justice_Arrest-Jail:T23 
+A27	Questionable E23 Realis
+A28	Realis E23 Generic
+T24	Transaction_Transfer-Ownership 2242 2248	bought
+E24	Transaction_Transfer-Ownership:T24 
+A29	Questionable E24 Realis
+A30	Realis E24 Other
+T25	Transaction_Transfer-Money 2254 2266	stolen money
+E25	Transaction_Transfer-Money:T25 
+A31	Realis E25 Other
+T27	Contact_Communicate 2593 2606	interrogation
+E27	Contact_Communicate:T27 
+A33	Realis E27 Actual
+T28	Justice_Extradite 2652 2663	extradition
+E28	Justice_Extradite:T28 
+A34	Realis E28 Other
+T29	Contact_Communicate 2680 2689	discussed
+E29	Contact_Communicate:T29 
+A35	Questionable E29 Realis
+A36	Realis E29 Actual
+T30	Movement_Transport-Person 2765 2775	dispatched
+E30	Movement_Transport-Person:T30 
+A37	Realis E30 Actual
+T31	Movement_Transport-Person 2808 2815	sending
+E31	Movement_Transport-Person:T31 
+A38	Questionable E31 Realis
+A39	Realis E31 Other
+T32	Justice_Extradite 2874 2885	extradition
+E32	Justice_Extradite:T32 
+A40	Realis E32 Other
+T33	Justice_Arrest-Jail 3123 3131	arrested
+E33	Justice_Arrest-Jail:T33 
+A41	Realis E33 Actual
+T20	Justice_Charge-Indict 2169 2176	charges
+E20	Justice_Charge-Indict:T20 
+A23	Realis E20 Actual
+T26	Personnel_End-Position 3048 3054	former
+E26	Personnel_End-Position:T26 
+A32	Realis E26 Actual

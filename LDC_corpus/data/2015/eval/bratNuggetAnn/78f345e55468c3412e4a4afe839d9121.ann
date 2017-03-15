@@ -1,0 +1,108 @@
+T1	Contact_Contact 712 716	said
+E12	Contact_Contact:T1
+A1	Realis E12 Actual
+T2	Contact_Broadcast 1357 1363	report
+E43	Contact_Broadcast:T2
+A2	Realis E43 Actual
+T3	Conflict_Attack 1844 1853	terrorist
+E45	Conflict_Attack:T3
+A3	Realis E45 Generic
+T4	Movement_Transport-Person 1626 1637	immigration
+E50	Movement_Transport-Person:T4
+A4	Realis E50 Generic
+T5	Manufacture_Artifact 424 432	homemade
+E94	Manufacture_Artifact:T5
+A5	Realis E94 Actual
+T6	Life_Injure 572 579	injured
+E191	Life_Injure:T6
+A6	Realis E191 Actual
+T7	Conflict_Attack 2462 2469	bombing
+E199	Conflict_Attack:T7
+A7	Realis E199 Actual
+T8	Justice_Convict 1028 1034	guilty
+E213	Justice_Convict:T8
+A8	Realis E213 Actual
+T9	Conflict_Attack 1240 1249	terrorism
+E216	Conflict_Attack:T9
+A9	Realis E216 Generic
+T10	Personnel_Elect 1681 1689	election
+E289	Personnel_Elect:T10
+A10	Realis E289 Actual
+T11	Life_Die 1093 1101	executed
+E299	Life_Die:T11
+A11	Realis E299 Actual
+T12	Justice_Execute 1093 1101	executed
+E302	Justice_Execute:T12
+A12	Realis E302 Actual
+T13	Conflict_Attack 667 674	attacks
+E360	Conflict_Attack:T13
+A13	Realis E360 Actual
+T14	Life_Die 562 566	dead
+E421	Life_Die:T14
+A14	Realis E421 Actual
+T15	Conflict_Attack 2145 2152	attacks
+E436	Conflict_Attack:T15
+A15	Realis E436 Generic
+T16	Life_Die 1055 1061	murder
+E479	Life_Die:T16
+A16	Realis E479 Actual
+T17	Conflict_Attack 1162 1168	attack
+E490	Conflict_Attack:T17
+A17	Realis E490 Actual
+T18	Conflict_Attack 221 227	Terror
+E496	Conflict_Attack:T18
+A18	Realis E496 Generic
+T19	Conflict_Attack 1888 1895	bombing
+E541	Conflict_Attack:T19
+A19	Realis E541 Actual
+T20	Conflict_Attack 3904 3915	terroristic
+E570	Conflict_Attack:T20
+A20	Realis E570 Generic
+T21	Conflict_Attack 995 1000	Siege
+E627	Conflict_Attack:T21
+A21	Realis E627 Actual
+T22	Conflict_Attack 2263 2276	ecoterrorists
+E637	Conflict_Attack:T22
+A22	Realis E637 Generic
+T23	Conflict_Attack 631 638	bombing
+E641	Conflict_Attack:T23
+A23	Realis E641 Actual
+T24	Conflict_Attack 1055 1061	murder
+E662	Conflict_Attack:T24
+A24	Realis E662 Actual
+T25	Conflict_Attack 2978 2987	TeaTerror
+E674	Conflict_Attack:T25
+A25	Realis E674 Generic
+T26	Conflict_Attack 3517 3529	ecoterrorism
+E694	Conflict_Attack:T26
+A26	Realis E694 Generic
+T27	Conflict_Attack 536 545	explosion
+E710	Conflict_Attack:T27
+A27	Realis E710 Actual
+T28	Conflict_Attack 2384 2393	terrorist
+E803	Conflict_Attack:T28
+A28	Realis E803 Generic
+T29	Conflict_Attack 3892 3899	violent
+E816	Conflict_Attack:T29
+A29	Realis E816 Generic
+T30	Conflict_Attack 167 174	Bombing
+E819	Conflict_Attack:T30
+A30	Realis E819 Actual
+T31	Conflict_Attack 1961 1968	attacks
+E829	Conflict_Attack:T31
+A31	Realis E829 Generic
+T32	Conflict_Attack 725 733	attacked
+E885	Conflict_Attack:T32
+A32	Realis E885 Actual
+T33	Conflict_Attack 398 407	detonated
+E894	Conflict_Attack:T33
+A33	Realis E894 Actual
+T34	Conflict_Attack 2858 2868	Terrorists
+E898	Conflict_Attack:T34
+A34	Realis E898 Generic
+T35	Justice_Charge-Indict 1045 1051	counts
+E941	Justice_Charge-Indict:T35
+A35	Realis E941 Actual
+T36	Life_Die 647 656	deadliest
+E969	Life_Die:T36
+A36	Realis E969 Generic

@@ -1,0 +1,79 @@
+T1	Movement_Transport-Person 194 200	RETURN
+E155	Movement_Transport-Person:T1
+A1	Realis E155 Actual
+T2	Movement_Transport-Person 437 445	returned
+E435	Movement_Transport-Person:T2
+A2	Realis E435 Actual
+T3	Movement_Transport-Person 698 705	arrived
+E569	Movement_Transport-Person:T3
+A3	Realis E569 Actual
+T4	Movement_Transport-Person 798 802	trip
+E881	Movement_Transport-Person:T4
+A4	Realis E881 Actual
+T5	Movement_Transport-Person 1371 1377	return
+E648	Movement_Transport-Person:T5
+A5	Realis E648 Other
+T6	Movement_Transport-Person 2286 2292	return
+E975	Movement_Transport-Person:T6
+A6	Realis E975 Actual
+T7	Contact_Contact 567 572	talks
+E566	Contact_Contact:T7
+A7	Realis E566 Actual
+T8	Contact_Contact 1684 1690	urging
+E717	Contact_Contact:T8
+A8	Realis E717 Actual
+T9	Contact_Contact 2033 2041	pressing
+E716	Contact_Contact:T9
+A9	Realis E716 Actual
+T10	Contact_Contact 2312 2317	talks
+E66	Contact_Contact:T10
+A10	Realis E66 Actual
+T11	Movement_Transport-Person 884 888	left
+E384	Movement_Transport-Person:T11
+A11	Realis E384 Actual
+T12	Personnel_End-Position 958 969	withdrawing
+E792	Personnel_End-Position:T12
+A12	Realis E792 Actual
+T13	Contact_Contact 1018 1022	said
+E972	Contact_Contact:T13
+A13	Realis E972 Actual
+T14	Manufacture_Artifact 1129 1142	manufacturing
+E913	Manufacture_Artifact:T14
+A14	Realis E913 Generic
+T15	Manufacture_Artifact 1820 1829	operation
+E555	Manufacture_Artifact:T15
+A15	Realis E555 Generic
+T16	Manufacture_Artifact 923 933	production
+E287	Manufacture_Artifact:T16
+A16	Realis E287 Actual
+T17	Manufacture_Artifact 2689 2698	producing
+E849	Manufacture_Artifact:T17
+A17	Realis E849 Actual
+T18	Movement_Transport-Person 1224 1229	visit
+E751	Movement_Transport-Person:T18
+A18	Realis E751 Other
+T19	Contact_Meet 1306 1309	met
+E606	Contact_Meet:T19
+A19	Realis E606 Actual
+T20	Contact_Contact 1500 1504	said
+E663	Contact_Contact:T20
+A20	Realis E663 Actual
+T21	Contact_Contact 2403 2412	exchanges
+E869	Contact_Contact:T21
+A21	Realis E869 Actual
+T22	Conflict_Attack 2456 2462	attack
+E646	Conflict_Attack:T22
+A22	Realis E646 Other
+T23	Conflict_Attack 2535 2549	counterattacks
+E660	Conflict_Attack:T23
+A23	Realis E660 Other
+R1	Coreference Arg1:E155 Arg2:E435
+R2	Coreference Arg1:E435 Arg2:E569
+R3	Coreference Arg1:E569 Arg2:E881
+R4	Coreference Arg1:E881 Arg2:E648
+R5	Coreference Arg1:E648 Arg2:E975
+R6	Coreference Arg1:E566 Arg2:E717
+R7	Coreference Arg1:E717 Arg2:E716
+R8	Coreference Arg1:E716 Arg2:E66
+R9	Coreference Arg1:E913 Arg2:E555
+R10	Coreference Arg1:E287 Arg2:E849

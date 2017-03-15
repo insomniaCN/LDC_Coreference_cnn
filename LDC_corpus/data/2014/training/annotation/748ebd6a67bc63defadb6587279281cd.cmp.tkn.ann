@@ -1,0 +1,51 @@
+T1	Life_Divorce 1589 1594	leave
+E1	Life_Divorce:T1 
+A1	Realis E1 Other
+T2	Life_Divorce 1671 1676	leave
+E2	Life_Divorce:T2 
+A2	Realis E2 Other
+T3	Life_Divorce 2105 2110	leave
+E3	Life_Divorce:T3 
+A3	Realis E3 Other
+T4	Life_Divorce 2394 2401	leaving
+E4	Life_Divorce:T4 
+A4	Realis E4 Other
+T5	Contact_Communicate 2641 2648	discuss
+E5	Contact_Communicate:T5 
+A5	Realis E5 Other
+T6	Life_Divorce 4153 4155	ex
+E6	Life_Divorce:T6 
+A6	Realis E6 Actual
+T7	Life_Divorce 4239 4246	leaving
+E7	Life_Divorce:T7 
+A7	Realis E7 Actual
+T8	Life_Divorce 4299 4303	left
+E8	Life_Divorce:T8 
+A8	Realis E8 Actual
+T9	Life_Divorce 4541 4543	ex
+E9	Life_Divorce:T9 
+A9	Realis E9 Actual
+T10	Life_Divorce 4611 4615	left
+E10	Life_Divorce:T10 
+A10	Realis E10 Actual
+T11	Contact_Meet 4677 4680	met
+E11	Contact_Meet:T11 
+A11	Realis E11 Actual
+T12	Contact_Meet 3339 3343	meet
+E12	Contact_Meet:T12 
+A12	Realis E12 Other
+T13	Contact_Meet 3443 3452	introduce
+E13	Contact_Meet:T13 
+A13	Realis E13 Other
+T14	Contact_Meet 4931 4934	met
+E14	Contact_Meet:T14 
+A14	Realis E14 Actual
+T15	Life_Marry 5000 5007	married
+E15	Life_Marry:T15 
+A15	Realis E15 Other
+T16	Life_Marry 1160 1168	marriage
+E16	Life_Marry:T16 
+A16	Realis E16 Actual
+T17	Life_Marry 2422 2430	marriage
+E17	Life_Marry:T17 
+A17	Realis E17 Actual

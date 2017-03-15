@@ -1,0 +1,57 @@
+T1	Life_Die 117 123	deadly
+E1	Life_Die:T1 
+A1	Realis E1 Generic
+T2	Conflict_Attack 124 131	bombing
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 81 88	holiday
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 261 269	traveled
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 339 346	bombing
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Life_Die 377 383	killed
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Business_End-Org 498 505	destroy
+E7	Business_End-Org:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 584 591	hitting
+E8	Conflict_Attack:T8 
+A8	Realis E8 Other
+T9	Conflict_Attack 621 626	fight
+E9	Conflict_Attack:T9 
+A9	Realis E9 Other
+T10	Movement_Transport-Person 732 740	traveled
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Life_Die 899 905	killed
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 916 922	attack
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1007 1020	bomb exploded
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Life_Injure 1096 1104	injuring
+E14	Life_Injure:T14 
+A14	Realis E14 Actual
+T15	Life_Die 1267 1271	kill
+E15	Life_Die:T15 
+A15	Realis E15 Other
+T16	Conflict_Attack 1307 1312	shoot
+E16	Conflict_Attack:T16 
+A16	Realis E16 Other
+T17	Conflict_Attack 1403 1410	blow up
+E17	Conflict_Attack:T17 
+A17	Realis E17 Other
+T18	Life_Die 1527 1533	deaths
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 1189 1196	attacks
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual

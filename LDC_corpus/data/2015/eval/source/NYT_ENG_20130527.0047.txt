@@ -1,0 +1,49 @@
+<DOC id="NYT_ENG_20130527.0047" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130527/20130527,354be9a6ed8afb9fca77fef5cfa2eaa4.xml">
+<HEADLINE>
+OFFICIALS KNEW SUSPECT IN SOLDIER'S DEATH HAD TIES TO AL-QAIDA
+</HEADLINE>
+<TEXT>
+<P>
+LONDON - Britain’s security agencies appeared headed for a period of deeply uncomfortable scrutiny after the government said Sunday that it had been aware for more than two years that one of the two men suspected of hacking an off-duty British soldier to death on a London street had ties to al-Qaida.
+</P>
+<P>
+A Foreign Office spokesman confirmed that the ministry had provided “consular assistance” in Kenya in 2010 to the man, Michael Adebolajo, 28, a British citizen of Nigerian descent. He had been arrested by the Kenyan police on suspicion of planning to join al-Shabab, an extremist group in Somalia that Britain has classified as a terrorist organization.
+</P>
+<P>
+Adebolajo and the other suspect in the London attack - Michael Adebowale, 22, also of Nigerian origin - have been under armed police guard in separate London hospitals since the attack Wednesday. The soldier - Lee Rigby, 25 - was run down by a car on the sidewalk outside an army barracks, then attacked with meat cleavers. Police officers arriving on the scene shot and wounded the two suspects.
+</P>
+<P>
+The grisly brutality of the attack shocked Britain as few events have since the bombings on the London transit system on July 7, 2005, which killed 52 passengers and the four bombers. Sunday newspaper headlines about the case focused on what the government knew about Adebolajo and Adebowale and why no action was taken that might have prevented Rigby’s death.
+</P>
+<P>
+In a statement on Sunday, the Foreign Office spokesman sought to tamp down the controversy, saying that the office’s role in the events in Kenya in November 2010 was limited to consular assistance to Adebolajo, “as normal for British nationals.” It did not address the Kenyan government’s statements that Adebolajo, using a false name, had been arrested near the Somali border with five Kenyan nationals while carrying al-Shabab literature.
+</P>
+<P>
+The statement also did not address a claim made on BBC television on Friday night that Adebolajo spoke of rebuffing an attempt by MI5, the British domestic security agency, to recruit him. The claim was made by Ibrahim Hassan, a man who says he has links to Islamic extremist groups. Hassan said Adebolajo had told him that the recruitment attempt was made after he was deported from Kenya. British security officials quoted in the Sunday newspapers said that efforts to recruit Islamic extremists in such circumstances were common.
+</P>
+<P>
+Hassan himself was arrested in the BBC studio immediately after the interview by Scotland Yard counterterrorism detectives, who said that the arrest was not connected to the killing of Rigby.
+</P>
+<P>
+Hassan’s claims and his arrest added to a growing sense that inquiries into Rigby’s death are likely to delve into the murky world of the security agencies and their dealings with Islamic extremists.
+</P>
+<P>
+A Parliamentary panel, the Intelligence and Security Committee, has said it expects to receive a preliminary report from the government on the attack this week.
+</P>
+<P>
+Among the issues that the panel’s leading members have said they want to explore is whether MI5’s desire to penetrate groups with suspected terrorist ties had led to decisions not to prosecute people like Adebolajo under laws that bar Britons from engaging with terrorist organizations overseas. Security officials have said that MI5 viewed Adebolajo as posing a “low risk” of potential terrorism and did think he needed close monitoring.
+</P>
+<P>
+Security officials have also confirmed that Adebolajo, and to a more limited extent Adebowale, had been known to British security officials for several years because they took part in protests in Britain that were organized by extremist groups, some of which involved violent clashes with the police.
+</P>
+<P>
+Newspapers in Britain have carried accounts saying that Adebolajo had been heard in mosques and community centers in south London calling for jihadist attacks in Britain.
+</P>
+<P>
+Muslim community groups have condemned the killing of Rigby in unequivocal terms, and say that many British Muslims are deeply apprehensive over a number of incidents of hostile graffiti and invective since his death, despite appeals for calm from Prime Minister David Cameron, the archbishop of Canterbury, the Most Rev. Justin Welby, and other prominent figures.
+</P>
+<P>
+Tensions may rise further this week, when post-mortem details on Rigby are expected to be made public. The report may shed light on several aspects of the brutal attack that have seized public attention, including whether he was still alive after the car hit him, and whether he was beheaded, as some witnesses say. The police have so far declined to address those questions.
+</P>
+</TEXT>
+</DOC>

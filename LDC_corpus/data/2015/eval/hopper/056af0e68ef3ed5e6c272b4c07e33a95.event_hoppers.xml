@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea890000000000000100" doc_id="056af0e68ef3ed5e6c272b4c07e33a95" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-807" type="life" subtype="die" realis="actual">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="444" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-300" type="life" subtype="die" realis="actual">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="532" length="9">succumbed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-540" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="430" length="6">vacant</trigger>
+      </event_mention>
+      <event_mention id="em-698" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="514" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-836" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="583" length="9">nominated</trigger>
+      </event_mention>
+      <event_mention id="em-720" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="999" length="10">nomination</trigger>
+      </event_mention>
+      <event_mention id="em-137" type="personnel" subtype="nominate" realis="other">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="1038" length="6">picked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-273" type="personnel" subtype="nominate" realis="other">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="737" length="10">nomination</trigger>
+      </event_mention>
+      <event_mention id="em-651" type="personnel" subtype="nominate" realis="other">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="794" length="8">nominees</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-653" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="748" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-311" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="929" length="9">interview</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-189">
+      <event_mention id="em-901" type="personnel" subtype="elect" realis="other">
+        <trigger source="056af0e68ef3ed5e6c272b4c07e33a95" offset="369" length="11">by-election</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

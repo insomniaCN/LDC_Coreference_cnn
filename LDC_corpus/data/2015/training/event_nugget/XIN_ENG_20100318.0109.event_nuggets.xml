@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000656" doc_id="XIN_ENG_20100318.0109" source_type="newswire">
+<event_mention id="em-10" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="71" length="3">die</trigger>
+      </event_mention>
+<event_mention id="em-23" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="78" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-38" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="243" length="16">lost their lives</trigger>
+      </event_mention>
+<event_mention id="em-51" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="267" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-64" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100318.0109" offset="375" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-79" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="481" length="7">attacks</trigger>
+      </event_mention>
+<event_mention id="em-94" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="505" length="5">raids</trigger>
+      </event_mention>
+<event_mention id="em-109" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="520" length="7">attacks</trigger>
+      </event_mention>
+<event_mention id="em-124" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="538" length="8">bombings</trigger>
+      </event_mention>
+<event_mention id="em-139" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="551" length="8">ambushes</trigger>
+      </event_mention>
+<event_mention id="em-154" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="512" length="7">suicide</trigger>
+      </event_mention>
+<event_mention id="em-169" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="616" length="7">attacks</trigger>
+      </event_mention>
+<event_mention id="em-182" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="608" length="7">suicide</trigger>
+      </event_mention>
+<event_mention id="em-195" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="642" length="8">bombings</trigger>
+      </event_mention>
+<event_mention id="em-208" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="689" length="7">attacks</trigger>
+      </event_mention>
+<event_mention id="em-223" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="761" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-238" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="903" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-253" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="903" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-268" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="990" length="10">fatalities</trigger>
+      </event_mention>
+<event_mention id="em-283" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20100318.0109" offset="1057" length="7">wounded</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

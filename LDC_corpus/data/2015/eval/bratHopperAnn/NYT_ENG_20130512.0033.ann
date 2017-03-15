@@ -1,0 +1,183 @@
+T1	Contact_Meet 385 393	gathered
+E530	Contact_Meet:T1
+A1	Realis E530 Actual
+T2	Conflict_Attack 750 755	abuse
+E431	Conflict_Attack:T2
+A2	Realis E431 Actual
+T3	Conflict_Attack 1039 1045	groped
+E912	Conflict_Attack:T3
+A3	Realis E912 Actual
+T4	Justice_Charge-Indict 756 762	charge
+E771	Justice_Charge-Indict:T4
+A4	Realis E771 Actual
+T5	Justice_Trial-Hearing 733 740	retrial
+E210	Justice_Trial-Hearing:T5
+A5	Realis E210 Other
+T6	Justice_Trial-Hearing 1441 1446	trial
+E344	Justice_Trial-Hearing:T6
+A6	Realis E344 Other
+T7	Contact_Meet 884 888	said
+E743	Contact_Meet:T7
+A7	Realis E743 Actual
+T8	Movement_Transport-Person 895 899	left
+E975	Movement_Transport-Person:T8
+A8	Realis E975 Actual
+T9	Justice_Convict 956 965	convicted
+E222	Justice_Convict:T9
+A9	Realis E222 Actual
+T10	Justice_Convict 1234 1244	conviction
+E789	Justice_Convict:T10
+A10	Realis E789 Actual
+T11	Contact_Meet 1096 1106	encounters
+E719	Contact_Meet:T11
+A11	Realis E719 Actual
+T12	Contact_Broadcast 1290 1294	hear
+E502	Contact_Broadcast:T12
+A12	Realis E502 Actual
+T13	Contact_Contact 1297 1306	statement
+E465	Contact_Contact:T13
+A13	Realis E465 Actual
+T14	Contact_Contact 1506 1515	agreement
+E61	Contact_Contact:T14
+A14	Realis E61 Actual
+T15	Contact_Contact 1654 1663	agreement
+E677	Contact_Contact:T15
+A15	Realis E677 Actual
+T16	Contact_Contact 1584 1591	contact
+E540	Contact_Contact:T16
+A16	Realis E540 Generic
+T17	Contact_Contact 1831 1838	contact
+E916	Contact_Contact:T17
+A17	Realis E916 Generic
+T18	Contact_Contact 2133 2140	contact
+E613	Contact_Contact:T18
+A18	Realis E613 Generic
+T19	Contact_Meet 1911 1919	retreats
+E891	Contact_Meet:T19
+A19	Realis E891 Generic
+T20	Contact_Meet 1931 1942	confessions
+E447	Contact_Meet:T20
+A20	Realis E447 Generic
+T21	Personnel_Nominate 2013 2022	appointed
+E392	Personnel_Nominate:T21
+A21	Realis E392 Actual
+T22	Personnel_End-Position 2235 2242	removed
+E111	Personnel_End-Position:T22
+A22	Realis E111 Actual
+T23	Personnel_Start-Position 2340 2346	become
+E136	Personnel_Start-Position:T23
+A23	Realis E136 Actual
+T24	Contact_Contact 2109 2113	said
+E803	Contact_Contact:T24
+A24	Realis E803 Actual
+T25	Contact_Contact 2217 2226	inquiries
+E458	Contact_Contact:T25
+A25	Realis E458 Actual
+T26	Conflict_Attack 2486 2491	abuse
+E969	Conflict_Attack:T26
+A26	Realis E969 Generic
+T27	Personnel_End-Position 2537 2546	step down
+E82	Personnel_End-Position:T27
+A27	Realis E82 Other
+T28	Personnel_End-Position 3401 3410	step down
+E241	Personnel_End-Position:T28
+A28	Realis E241 Other
+T29	Contact_Broadcast 2604 2613	published
+E614	Contact_Broadcast:T29
+A29	Realis E614 Actual
+T30	Contact_Meet 2826 2834	retreats
+E985	Contact_Meet:T30
+A30	Realis E985 Actual
+T31	Movement_Transport-Person 2836 2844	traveled
+E882	Movement_Transport-Person:T31
+A31	Realis E882 Actual
+T32	Contact_Meet 2896 2907	confessions
+E935	Contact_Meet:T32
+A32	Realis E935 Actual
+T33	Contact_Broadcast 3026 3035	statement
+E234	Contact_Broadcast:T33
+A33	Realis E234 Actual
+T34	Contact_Broadcast 3248 3257	statement
+E273	Contact_Broadcast:T34
+A34	Realis E273 Actual
+T35	Personnel_Elect 3155 3162	elected
+E809	Personnel_Elect:T35
+A35	Realis E809 Generic
+T36	Contact_Contact 3500 3505	asked
+E800	Contact_Contact:T36
+A36	Realis E800 Actual
+T37	Contact_Contact 3983 3992	contacted
+E384	Contact_Contact:T37
+A37	Realis E384 Actual
+T38	Contact_Contact 3573 3577	said
+E877	Contact_Contact:T38
+A38	Realis E877 Actual
+T39	Personnel_End-Position 3670 3674	left
+E473	Personnel_End-Position:T39
+A39	Realis E473 Actual
+T40	Movement_Transport-Person 3735 3741	return
+E589	Movement_Transport-Person:T40
+A40	Realis E589 Other
+T41	Movement_Transport-Person 3780 3784	trip
+E627	Movement_Transport-Person:T41
+A41	Realis E627 Actual
+T42	Contact_Broadcast 3805 3810	speak
+E357	Contact_Broadcast:T42
+A42	Realis E357 Other
+T43	Contact_Contact 3900 3904	said
+E69	Contact_Contact:T43
+A43	Realis E69 Actual
+T44	Contact_Contact 4109 4116	invited
+E707	Contact_Contact:T44
+A44	Realis E707 Actual
+T45	Contact_Meet 4260 4266	Masses
+E377	Contact_Meet:T45
+A45	Realis E377 Actual
+T46	Contact_Meet 900 904	Mass
+E370	Contact_Meet:T46
+A46	Realis E370 Actual
+T47	Contact_Broadcast 4300 4309	statement
+E124	Contact_Broadcast:T47
+A47	Realis E124 Actual
+T48	Contact_Broadcast 4515 4524	statement
+E391	Contact_Broadcast:T48
+A48	Realis E391 Actual
+T49	Contact_Broadcast 4714 4723	statement
+E416	Contact_Broadcast:T49
+A49	Realis E416 Actual
+T50	Personnel_End-Position 4547 4555	resigned
+E550	Personnel_End-Position:T50
+A50	Realis E550 Actual
+T51	Contact_Meet 4961 4965	Mass
+E573	Contact_Meet:T51
+A51	Realis E573 Actual
+T52	Contact_Meet 5111 5119	services
+E753	Contact_Meet:T52
+A52	Realis E753 Actual
+T53	Personnel_Start-Position 5071 5073	be
+E993	Personnel_Start-Position:T53
+A53	Realis E993 Other
+T54	Justice_Appeal 1203 1212	appellate
+E309	Justice_Appeal:T54
+A54	Realis E309 Generic
+T55	Personnel_Nominate 2322 2330	assigned
+E33	Personnel_Nominate:T55
+A55	Realis E33 Actual
+T56	Personnel_Nominate 4582 4592	reassigned
+E243	Personnel_Nominate:T56
+A56	Realis E243 Actual
+T57	Contact_Broadcast 4928 4932	note
+E450	Contact_Broadcast:T57
+A57	Realis E450 Actual
+R1	Coreference Arg1:E431 Arg2:E912
+R2	Coreference Arg1:E210 Arg2:E344
+R3	Coreference Arg1:E222 Arg2:E789
+R4	Coreference Arg1:E61 Arg2:E677
+R5	Coreference Arg1:E540 Arg2:E916
+R6	Coreference Arg1:E916 Arg2:E613
+R7	Coreference Arg1:E82 Arg2:E241
+R8	Coreference Arg1:E234 Arg2:E273
+R9	Coreference Arg1:E800 Arg2:E384
+R10	Coreference Arg1:E124 Arg2:E391
+R11	Coreference Arg1:E391 Arg2:E416
+R12	Coreference Arg1:E573 Arg2:E753

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589763a0000000000000027" doc_id="AFP_ENG_20100630.0660" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-48" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="340" length="5">wages</trigger>
+      </event_mention>
+      <event_mention id="em-61" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="676" length="5">wages</trigger>
+      </event_mention>
+      <event_mention id="em-74" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="1217" length="5">wages</trigger>
+      </event_mention>
+      <event_mention id="em-87" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="1848" length="4">wage</trigger>
+      </event_mention>
+      <event_mention id="em-100" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="2374" length="5">wages</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-113" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="77" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-126" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="199" length="10">protesting</trigger>
+      </event_mention>
+      <event_mention id="em-139" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="649" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-152" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1122" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-165" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1199" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-178" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="322" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-191" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1463" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-204" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="2341" length="4">wage</trigger>
+      </event_mention>
+      <event_mention id="em-217" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="1777" length="5">wages</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-230" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20100630.0660" offset="2461" length="6">letter</trigger>
+      </event_mention>
+      <event_mention id="em-243" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20100630.0660" offset="2313" length="10">requesting</trigger>
+      </event_mention>
+      <event_mention id="em-360" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20100630.0660" offset="2274" length="5">wrote</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-256" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="383" length="5">fired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-269" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="402" length="4">used</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-282" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="712" length="6">hurled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-295" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1083" length="10">walked out</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-308" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1589" length="10">brought in</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-321" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="AFP_ENG_20100630.0660" offset="1618" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-334" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="1925" length="8">salaries</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-347" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100630.0660" offset="2118" length="7">exports</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-373" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1191" length="7">violent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-38">
+      <event_mention id="em-386" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="618" length="7">massing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-40">
+      <event_mention id="em-399" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100630.0660" offset="793" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-42">
+      <event_mention id="em-412" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100630.0660" offset="1485" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-44">
+      <event_mention id="em-425" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="1687" length="4">make</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-46">
+      <event_mention id="em-438" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20100630.0660" offset="1901" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-481" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20100630.0660" offset="2001" length="5">urged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-464">
+      <event_mention id="em-451" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100630.0660" offset="424" length="8">disperse</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-479">
+      <event_mention id="em-466" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="AFP_ENG_20100630.0660" offset="895" length="13">manufacturers</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

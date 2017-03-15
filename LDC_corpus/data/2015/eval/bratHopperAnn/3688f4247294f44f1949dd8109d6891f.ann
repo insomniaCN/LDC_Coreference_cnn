@@ -1,0 +1,12 @@
+T1	Contact_Meet 227 231	said
+E72	Contact_Meet:T1
+A1	Realis E72 Actual
+T2	Life_Marry 484 491	married
+E275	Life_Marry:T2
+A2	Realis E275 Other
+T3	Life_Injure 791 806	self-mutilation
+E705	Life_Injure:T3
+A3	Realis E705 Actual
+T4	Contact_Contact 823 832	explained
+E4	Contact_Contact:T4
+A4	Realis E4 Actual

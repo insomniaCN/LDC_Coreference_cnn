@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea500000000000000018" doc_id="NYT_ENG_20130522.0205" source_type="newswire">
+  <event_mention id="em-29" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="2723" length="8">homicide</trigger>
+  </event_mention>
+  <event_mention id="em-62" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="826" length="12">construction</trigger>
+  </event_mention>
+  <event_mention id="em-108" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="2723" length="8">homicide</trigger>
+  </event_mention>
+  <event_mention id="em-128" type="justice" subtype="convict" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="1032" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-191" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="2792" length="12">construction</trigger>
+  </event_mention>
+  <event_mention id="em-216" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130522.0205" offset="2765" length="6">bribed</trigger>
+  </event_mention>
+  <event_mention id="em-237" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="2510" length="9">concluded</trigger>
+  </event_mention>
+  <event_mention id="em-272" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="1858" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-335" type="justice" subtype="chargeindict" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="865" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-396" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130522.0205" offset="1639" length="9">retailers</trigger>
+  </event_mention>
+  <event_mention id="em-434" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="554" length="6">issued</trigger>
+  </event_mention>
+  <event_mention id="em-435" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="1214" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-449" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130522.0205" offset="1667" length="6">export</trigger>
+  </event_mention>
+  <event_mention id="em-472" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="2452" length="4">into</trigger>
+  </event_mention>
+  <event_mention id="em-483" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130522.0205" offset="1639" length="9">retailers</trigger>
+  </event_mention>
+  <event_mention id="em-486" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="1982" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-504" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="2311" length="6">called</trigger>
+  </event_mention>
+  <event_mention id="em-505" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130522.0205" offset="1071" length="5">urged</trigger>
+  </event_mention>
+  <event_mention id="em-509" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130522.0205" offset="1485" length="8">exporter</trigger>
+  </event_mention>
+  <event_mention id="em-548" type="justice" subtype="chargeindict" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="2701" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-598" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="439" length="11">constructed</trigger>
+  </event_mention>
+  <event_mention id="em-608" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="2293" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-644" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="1891" length="11">constructed</trigger>
+  </event_mention>
+  <event_mention id="em-649" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="2179" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-716" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="1167" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-730" type="justice" subtype="sentence" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="1010" length="9">sentences</trigger>
+  </event_mention>
+  <event_mention id="em-739" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="337" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-740" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130522.0205" offset="1088" length="6">return</trigger>
+  </event_mention>
+  <event_mention id="em-757" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="1943" length="9">employing</trigger>
+  </event_mention>
+  <event_mention id="em-783" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130522.0205" offset="1749" length="5">wages</trigger>
+  </event_mention>
+  <event_mention id="em-786" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130522.0205" offset="172" length="6">REPORT</trigger>
+  </event_mention>
+  <event_mention id="em-808" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130522.0205" offset="1713" length="5">costs</trigger>
+  </event_mention>
+  <event_mention id="em-967" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="2109" length="11">constructed</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130522.0205" offset="764" length="6">killed</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

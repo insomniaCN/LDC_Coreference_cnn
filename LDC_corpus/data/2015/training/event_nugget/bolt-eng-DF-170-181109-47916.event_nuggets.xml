@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000569" doc_id="bolt-eng-DF-170-181109-47916" source_type="multi_post">
+<event_mention id="em-10" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="55" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-23" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="81" length="7">lashing</trigger>
+      </event_mention>
+<event_mention id="em-51" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="221" length="7">whipped</trigger>
+      </event_mention>
+<event_mention id="em-64" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="248" length="9">going out</trigger>
+      </event_mention>
+<event_mention id="em-79" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="361" length="11">broken into</trigger>
+      </event_mention>
+<event_mention id="em-94" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="400" length="4">held</trigger>
+      </event_mention>
+<event_mention id="em-109" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="467" length="6">lashed</trigger>
+      </event_mention>
+<event_mention id="em-122" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="586" length="7">lashing</trigger>
+      </event_mention>
+<event_mention id="em-135" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="562" length="7">charded</trigger>
+      </event_mention>
+<event_mention id="em-161" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="628" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-174" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="654" length="7">lashing</trigger>
+      </event_mention>
+<event_mention id="em-187" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="768" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-202" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="1314" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-215" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="1548" length="4">kick</trigger>
+      </event_mention>
+<event_mention id="em-230" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="1915" length="9">marriages</trigger>
+      </event_mention>
+<event_mention id="em-245" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="1947" length="6">beaten</trigger>
+      </event_mention>
+<event_mention id="em-260" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2009" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-275" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2009" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-290" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2103" length="8">marriage</trigger>
+      </event_mention>
+<event_mention id="em-305" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2237" length="7">discuss</trigger>
+      </event_mention>
+<event_mention id="em-320" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2277" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-335" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2298" length="5">meets</trigger>
+      </event_mention>
+<event_mention id="em-350" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2379" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-365" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2422" length="8">entering</trigger>
+      </event_mention>
+<event_mention id="em-380" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2531" length="8">is asked</trigger>
+      </event_mention>
+<event_mention id="em-395" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2567" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-408" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2722" length="7">abusive</trigger>
+      </event_mention>
+<event_mention id="em-423" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="2742" length="7">returns</trigger>
+      </event_mention>
+<event_mention id="em-438" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="3032" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-453" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="3182" length="11">dissolution</trigger>
+      </event_mention>
+<event_mention id="em-466" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="3918" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-481" type="life" subtype="beborn" realis="actual">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="3953" length="4">born</trigger>
+      </event_mention>
+<event_mention id="em-496" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="4010" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-511" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-47916" offset="5595" length="4">dead</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

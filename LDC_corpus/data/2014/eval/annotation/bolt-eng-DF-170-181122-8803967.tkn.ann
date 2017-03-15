@@ -1,0 +1,204 @@
+T1	Conflict_Attack 371 381	assaulting
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Justice_Trial-Hearing 654 661	hearing
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Actual
+T3	Justice_Charge-Indict 680 687	charged
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 713 717	rape
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 942 946	rape
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 1180 1187	accused
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 1191 1200	molesting
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 1246 1252	raping
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 1333 1336	was
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Justice_Convict 1403 1413	conviction
+E10	Justice_Convict:T10 
+A10	Realis E10 Other
+T11	Justice_Sentence 1493 1501	sentence
+E11	Justice_Sentence:T11 
+A11	Realis E11 Other
+T12	Justice_Arrest-Jail 1510 1519	in prison
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Other
+T13	Justice_Release-Parole 1528 1534	parole
+E13	Justice_Release-Parole:T13 
+A13	Realis E13 Other
+T14	Personnel_End-Position 1610 1614	fire
+E14	Personnel_End-Position:T14 
+A14	Realis E14 Other
+T15	Personnel_Start-Position 1627 1636	appointed
+E15	Personnel_Start-Position:T15 
+A15	Realis E15 Actual
+T16	Justice_Charge-Indict 2563 2570	accused
+E16	Justice_Charge-Indict:T16 
+T17	Conflict_Attack 2583 2593	assaulting
+E17	Conflict_Attack:T17 
+A16	Realis E17 Actual
+T18	Conflict_Attack 2865 2869	rape
+E18	Conflict_Attack:T18 
+A17	Realis E18 Actual
+T19	Justice_Trial-Hearing 2957 2964	hearing
+E19	Justice_Trial-Hearing:T19 
+A18	Realis E19 Actual
+T20	Conflict_Attack 3154 3158	rape
+E20	Conflict_Attack:T20 
+A19	Realis E20 Actual
+T21	Contact_Meet 3044 3048	told
+E21	Contact_Meet:T21 
+A20	Realis E21 Actual
+T22	Contact_Meet 3521 3525	told
+E22	Contact_Meet:T22 
+A21	Realis E22 Actual
+T23	Justice_Arrest-Jail 3834 3842	arrested
+E23	Justice_Arrest-Jail:T23 
+A22	Realis E23 Actual
+T24	Justice_Arrest-Jail 3987 3995	arrested
+E24	Justice_Arrest-Jail:T24 
+A23	Realis E24 Actual
+T25	Justice_Charge-Indict 3999 4006	charges
+E25	Justice_Charge-Indict:T25 
+A24	Realis E25 Actual
+T26	Conflict_Attack 4010 4018	molested
+E26	Conflict_Attack:T26 
+A25	Realis E26 Actual
+T27	Justice_Charge-Indict 4078 4085	accused
+E27	Justice_Charge-Indict:T27 
+A26	Realis E27 Actual
+T28	Conflict_Attack 4089 4095	raping
+E28	Conflict_Attack:T28 
+A27	Realis E28 Actual
+T29	Justice_Arrest-Jail 4279 4290	in - prison
+E29	Justice_Arrest-Jail:T29 
+A28	Realis E29 Other
+T30	Justice_Sentence 4291 4299	sentence
+E30	Justice_Sentence:T30 
+A29	Realis E30 Other
+T31	Justice_Convict 4309 4318	convicted
+E31	Justice_Convict:T31 
+A30	Realis E31 Other
+T32	Movement_Transport-Person 5238 5243	bring
+E32	Movement_Transport-Person:T32 
+A31	Realis E32 Actual
+T33	Justice_Sentence 5509 5518	sentenced
+E33	Justice_Sentence:T33 
+A32	Realis E33 Other
+T34	Justice_Arrest-Jail 5527 5536	in prison
+E34	Justice_Arrest-Jail:T34 
+A33	Realis E34 Other
+T35	Justice_Convict 5540 5549	convicted
+E35	Justice_Convict:T35 
+A34	Realis E35 Other
+T36	Life_Marry 7564 7569	marry
+E36	Life_Marry:T36 
+A35	Realis E36 Other
+T37	Life_Marry 8376 8381	marry
+E37	Life_Marry:T37 
+A36	Realis E37 Other
+T38	Life_Marry 9520 9528	marriage
+E38	Life_Marry:T38 
+A37	Realis E38 Generic
+T39	Life_Marry 9796 9804	marriage
+E39	Life_Marry:T39 
+A38	Realis E39 Generic
+T40	Conflict_Attack 11333 11338	raped
+E40	Conflict_Attack:T40 
+A39	Realis E40 Actual
+T41	Conflict_Attack 11770 11775	raped
+E41	Conflict_Attack:T41 
+A40	Realis E41 Actual
+T42	Life_Die 11823 11829	killer
+E42	Life_Die:T42 
+A41	Realis E42 Actual
+T43	Life_Die 12062 12068	killer
+E43	Life_Die:T43 
+A42	Realis E43 Actual
+T44	Conflict_Attack 13885 13890	raped
+E44	Conflict_Attack:T44 
+A43	Realis E44 Actual
+T45	Conflict_Attack 15893 15898	raped
+E45	Conflict_Attack:T45 
+A44	Realis E45 Actual
+T46	Justice_Arrest-Jail 16298 16307	locked up
+E46	Justice_Arrest-Jail:T46 
+A45	Realis E46 Other
+T47	Conflict_Demonstrate 19623 19630	marches
+E47	Conflict_Demonstrate:T47 
+A46	Realis E47 Generic
+T48	Conflict_Demonstrate 19932 19939	marches
+E48	Conflict_Demonstrate:T48 
+A47	Realis E48 Generic
+T49	Conflict_Attack 22269 22274	raped
+E49	Conflict_Attack:T49 
+A48	Realis E49 Actual
+T50	Conflict_Attack 22878 22883	raped
+E50	Conflict_Attack:T50 
+A49	Realis E50 Actual
+T51	Conflict_Attack 22962 22967	raped
+E51	Conflict_Attack:T51 
+A50	Realis E51 Actual
+T52	Conflict_Attack 23188 23193	raped
+E52	Conflict_Attack:T52 
+A51	Realis E52 Actual
+T53	Conflict_Attack 23272 23277	raped
+E53	Conflict_Attack:T53 
+A52	Realis E53 Actual
+T54	Conflict_Attack 27060 27066	attack
+E54	Conflict_Attack:T54 
+A53	Realis E54 Generic
+T55	Conflict_Attack 27280 27286	attack
+E55	Conflict_Attack:T55 
+A54	Realis E55 Generic
+T56	Justice_Charge-Indict 929 936	charged
+E56	Justice_Charge-Indict:T56 
+A55	Realis E56 Actual
+T57	Contact_Meet 1222 1229	tutored
+E57	Contact_Meet:T57 
+A56	Realis E57 Actual
+T58	Conflict_Attack 1417 1421	rape
+E58	Conflict_Attack:T58 
+A57	Realis E58 Generic
+T59	Justice_Charge-Indict 1422 1428	counts
+E59	Justice_Charge-Indict:T59 
+A58	Realis E59 Actual
+T60	Justice_Charge-Indict 2854 2861	charges
+E60	Justice_Charge-Indict:T60 
+A59	Realis E60 Actual
+T61	Justice_Charge-Indict 3141 3148	charged
+E61	Justice_Charge-Indict:T61 
+A60	Realis E61 Actual
+T62	Justice_Trial-Hearing 3583 3588	trial
+E62	Justice_Trial-Hearing:T62 
+A61	Realis E62 Other
+T63	Contact_Meet 4044 4052	tutoring
+E63	Contact_Meet:T63 
+A62	Realis E63 Actual
+T64	Life_Be-Born 10587 10591	BORN
+E64	Life_Be-Born:T64 
+A63	Realis E64 Actual
+T65	Life_Be-Born 10689 10693	BORN
+E65	Life_Be-Born:T65 
+A64	Realis E65 Other
+T66	Life_Be-Born 10934 10938	BORN
+E66	Life_Be-Born:T66 
+A65	Realis E66 Other
+T67	Life_Be-Born 10350 10354	BORN
+E67	Life_Be-Born:T67 
+A66	Realis E67 Actual
+T68	Conflict_Attack 16368 16376	molested
+E68	Conflict_Attack:T68 
+A67	Realis E68 Generic
+A68	Realis E16 Actual

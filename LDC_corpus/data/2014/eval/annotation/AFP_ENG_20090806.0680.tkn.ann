@@ -1,0 +1,40 @@
+T1	Justice_Appeal 422 429	appeals
+E1	Justice_Appeal:T1 
+A1	Realis E1 Generic
+T2	Personnel_Start-Position 449 455	become
+E2	Personnel_Start-Position:T2 
+A2	Realis E2 Other
+T3	Personnel_Nominate 869 879	nomination
+E3	Personnel_Nominate:T3 
+A3	Realis E3 Actual
+T4	Personnel_Elect 1283 1292	elections
+E4	Personnel_Elect:T4 
+A4	Realis E4 Other
+A5	Questionable E4 Realis
+T5	Personnel_Nominate 1331 1341	nomination
+E5	Personnel_Nominate:T5 
+T6	Personnel_Elect 1914 1923	elections
+E6	Personnel_Elect:T6 
+A6	Realis E6 Other
+T7	Personnel_Elect 1988 1997	elections
+E7	Personnel_Elect:T7 
+A7	Realis E7 Actual
+T8	Personnel_Nominate 2640 2650	nomination
+E8	Personnel_Nominate:T8 
+A8	Realis E8 Actual
+T9	Personnel_Nominate 3484 3493	nominated
+E9	Personnel_Nominate:T9 
+A9	Realis E9 Actual
+T10	Justice_Appeal 3727 3734	appeals
+E10	Justice_Appeal:T10 
+A10	Realis E10 Generic
+T11	Personnel_Nominate 3784 3793	nominated
+E11	Personnel_Nominate:T11 
+A11	Realis E11 Actual
+T12	Personnel_Nominate 4205 4216	appointment
+E12	Personnel_Nominate:T12 
+A12	Realis E12 Actual
+A13	Realis E5 Actual
+T13	Contact_Meet 1513 1523	conference
+E13	Contact_Meet:T13 
+A14	Realis E13 Actual

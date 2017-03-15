@@ -1,0 +1,645 @@
+T1	Justice_Pardon 81 87	Pardon
+E1	Justice_Pardon:T1 
+A1	Realis E1 Actual
+T2	Justice_Pardon 252 259;270 277	granted pardons
+E2	Justice_Pardon:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 313 322	convicted
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Sentence 585 594	sentenced
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Justice_Fine 627 631	fine
+E5	Justice_Fine:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 691 697	charge
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T7	Justice_Pardon 1200 1206	pardon
+E7	Justice_Pardon:T7 
+A7	Realis E7 Generic
+T8	Justice_Pardon 1313 1321	pardoned
+E8	Justice_Pardon:T8 
+A8	Realis E8 Actual
+T9	Justice_Pardon 1369 1375	pardon
+E9	Justice_Pardon:T9 
+A9	Realis E9 Generic
+T10	Justice_Pardon 1536 1544	pardoned
+E10	Justice_Pardon:T10 
+A10	Realis E10 Actual
+T11	Justice_Pardon 1742 1749;1760 1767	granted pardons
+E11	Justice_Pardon:T11 
+A11	Realis E11 Actual
+T12	Justice_Convict 1803 1812	convicted
+E12	Justice_Convict:T12 
+A12	Realis E12 Actual
+T13	Justice_Sentence 2075 2084	sentenced
+E13	Justice_Sentence:T13 
+A13	Realis E13 Actual
+T14	Justice_Charge-Indict 2181 2187	charge
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Actual
+T15	Justice_Pardon 2690 2696	pardon
+E15	Justice_Pardon:T15 
+A15	Realis E15 Generic
+T16	Justice_Pardon 2803 2811	pardoned
+E16	Justice_Pardon:T16 
+A16	Realis E16 Actual
+T17	Justice_Pardon 2859 2865	pardon
+E17	Justice_Pardon:T17 
+A17	Realis E17 Generic
+T18	Justice_Pardon 3026 3034	pardoned
+E18	Justice_Pardon:T18 
+A18	Realis E18 Actual
+T19	Justice_Charge-Indict 3092 3103	impeachment
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Generic
+T20	Justice_Pardon 3580 3585;3600 3607	Grant Pardons
+E20	Justice_Pardon:T20 
+A20	Realis E20 Generic
+T21	Justice_Charge-Indict 3668 3679	Impeachment
+E21	Justice_Charge-Indict:T21 
+A21	Realis E21 Generic
+T22	Justice_Pardon 3790 3797	pardons
+E22	Justice_Pardon:T22 
+A22	Realis E22 Actual
+T23	Justice_Pardon 4599 4606;4617 4624	granted pardons
+E23	Justice_Pardon:T23 
+A23	Realis E23 Actual
+T24	Justice_Convict 4660 4669	convicted
+E24	Justice_Convict:T24 
+A24	Realis E24 Actual
+T25	Justice_Sentence 4932 4941	sentenced
+E25	Justice_Sentence:T25 
+A25	Realis E25 Actual
+T26	Justice_Fine 4974 4978	fine
+E26	Justice_Fine:T26 
+A26	Realis E26 Actual
+T27	Justice_Fine 2117 2121	fine
+E27	Justice_Fine:T27 
+A27	Realis E27 Actual
+T28	Justice_Charge-Indict 5038 5044	charge
+E28	Justice_Charge-Indict:T28 
+A28	Realis E28 Actual
+T29	Justice_Pardon 5547 5553	pardon
+E29	Justice_Pardon:T29 
+A29	Realis E29 Generic
+T30	Justice_Pardon 5660 5668	pardoned
+E30	Justice_Pardon:T30 
+A30	Realis E30 Actual
+T31	Justice_Pardon 5716 5722	pardon
+E31	Justice_Pardon:T31 
+A31	Realis E31 Generic
+T32	Justice_Pardon 5883 5891	pardoned
+E32	Justice_Pardon:T32 
+A32	Realis E32 Actual
+T33	Justice_Pardon 6001 6007	pardon
+E33	Justice_Pardon:T33 
+A33	Realis E33 Actual
+T34	Transaction_Transfer-Money 6111 6118	paid up
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Actual
+T35	Justice_Pardon 6337 6344	pardons
+E35	Justice_Pardon:T35 
+A35	Realis E35 Actual
+T36	Justice_Pardon 6844 6851;6862 6869	granted pardons
+E36	Justice_Pardon:T36 
+A36	Realis E36 Actual
+T37	Justice_Convict 6905 6914	convicted
+E37	Justice_Convict:T37 
+A37	Realis E37 Actual
+T38	Justice_Sentence 7177 7186	sentenced
+E38	Justice_Sentence:T38 
+A38	Realis E38 Actual
+T39	Justice_Fine 7219 7223	fine
+E39	Justice_Fine:T39 
+A39	Realis E39 Actual
+T40	Justice_Charge-Indict 7283 7289	charge
+E40	Justice_Charge-Indict:T40 
+A40	Realis E40 Actual
+T41	Justice_Pardon 7792 7798	pardon
+E41	Justice_Pardon:T41 
+A41	Realis E41 Generic
+T42	Justice_Pardon 7905 7913	pardoned
+E42	Justice_Pardon:T42 
+A42	Realis E42 Actual
+T43	Justice_Pardon 7961 7967	pardon
+E43	Justice_Pardon:T43 
+A43	Realis E43 Generic
+T44	Justice_Pardon 8128 8136	pardoned
+E44	Justice_Pardon:T44 
+A44	Realis E44 Actual
+T45	Justice_Pardon 8426 8433;8439 8446	granted pardons
+E45	Justice_Pardon:T45 
+A45	Realis E45 Actual
+T46	Justice_Trial-Hearing 8605 8610	trial
+E46	Justice_Trial-Hearing:T46 
+A46	Realis E46 Other
+T47	Justice_Charge-Indict 8625 8632	charges
+E47	Justice_Charge-Indict:T47 
+A47	Realis E47 Actual
+T48	Transaction_Transfer-Ownership 8690 8695	sales
+E48	Transaction_Transfer-Ownership:T48 
+A48	Realis E48 Actual
+T49	Transaction_Transfer-Ownership 8996 9005	shipments
+E49	Transaction_Transfer-Ownership:T49 
+A49	Realis E49 Actual
+T50	Transaction_Transfer-Ownership 9226 9235	turn over
+E50	Transaction_Transfer-Ownership:T50 
+A50	Realis E50 Actual
+T51	Justice_Pardon 9340 9347	pardons
+E51	Justice_Pardon:T51 
+A51	Realis E51 Actual
+T52	Justice_Pardon 9676 9683	pardons
+E52	Justice_Pardon:T52 
+A52	Realis E52 Actual
+T53	Justice_Pardon 9746 9753	pardons
+E53	Justice_Pardon:T53 
+A53	Realis E53 Actual
+T54	Justice_Release-Parole 9797 9804	release
+E54	Justice_Release-Parole:T54 
+A54	Realis E54 Actual
+T55	Justice_Pardon 10160 10167;10178 10185	granted pardons
+E55	Justice_Pardon:T55 
+A55	Realis E55 Actual
+T56	Justice_Convict 10221 10230	convicted
+E56	Justice_Convict:T56 
+A56	Realis E56 Actual
+T57	Justice_Sentence 10493 10502	sentenced
+E57	Justice_Sentence:T57 
+A57	Realis E57 Actual
+T58	Justice_Fine 10535 10539	fine
+E58	Justice_Fine:T58 
+A58	Realis E58 Actual
+T59	Justice_Charge-Indict 10599 10605	charge
+E59	Justice_Charge-Indict:T59 
+A59	Realis E59 Actual
+T60	Justice_Pardon 11108 11114	pardon
+E60	Justice_Pardon:T60 
+A60	Realis E60 Generic
+T61	Justice_Pardon 11221 11229	pardoned
+E61	Justice_Pardon:T61 
+A61	Realis E61 Actual
+T62	Justice_Pardon 11277 11283	pardon
+E62	Justice_Pardon:T62 
+A62	Realis E62 Generic
+T63	Justice_Pardon 11444 11452	pardoned
+E63	Justice_Pardon:T63 
+A63	Realis E63 Actual
+T64	Justice_Pardon 11540 11547	Pardons
+E64	Justice_Pardon:T64 
+A64	Realis E64 Other
+T65	Justice_Sentence 11563 11572	sentences
+E65	Justice_Sentence:T65 
+A65	Realis E65 Other
+T66	Justice_Pardon 11797 11804	pardons
+E66	Justice_Pardon:T66 
+A66	Realis E66 Other
+T67	Justice_Pardon 12017 12024;12035 12042	granted pardons
+E67	Justice_Pardon:T67 
+A67	Realis E67 Actual
+T68	Justice_Convict 12078 12087	convicted
+E68	Justice_Convict:T68 
+A68	Realis E68 Actual
+T69	Justice_Sentence 12350 12359	sentenced
+E69	Justice_Sentence:T69 
+A69	Realis E69 Actual
+T70	Justice_Fine 12392 12396	fine
+E70	Justice_Fine:T70 
+A70	Realis E70 Actual
+T71	Justice_Charge-Indict 12456 12462	charge
+E71	Justice_Charge-Indict:T71 
+A71	Realis E71 Actual
+T72	Justice_Pardon 12965 12971	pardon
+E72	Justice_Pardon:T72 
+A72	Realis E72 Generic
+T73	Justice_Pardon 13078 13086	pardoned
+E73	Justice_Pardon:T73 
+A73	Realis E73 Actual
+T74	Justice_Pardon 13134 13140	pardon
+E74	Justice_Pardon:T74 
+A74	Realis E74 Generic
+T75	Justice_Pardon 13301 13309	pardoned
+E75	Justice_Pardon:T75 
+A75	Realis E75 Actual
+T76	Justice_Pardon 13439 13445	pardon
+E76	Justice_Pardon:T76 
+A76	Realis E76 Generic
+T77	Justice_Pardon 13562 13568	pardon
+E77	Justice_Pardon:T77 
+A77	Realis E77 Actual
+T78	Justice_Pardon 13969 13976;13987 13994	granted pardons
+E78	Justice_Pardon:T78 
+A78	Realis E78 Actual
+T79	Justice_Convict 14030 14039	convicted
+E79	Justice_Convict:T79 
+A79	Realis E79 Actual
+T80	Justice_Sentence 14302 14311	sentenced
+E80	Justice_Sentence:T80 
+A80	Realis E80 Actual
+T81	Justice_Charge-Indict 14408 14414	charge
+E81	Justice_Charge-Indict:T81 
+A81	Realis E81 Actual
+T82	Justice_Fine 14344 14348	fine
+E82	Justice_Fine:T82 
+A82	Realis E82 Actual
+T83	Justice_Pardon 14917 14923	pardon
+E83	Justice_Pardon:T83 
+A83	Realis E83 Generic
+T84	Justice_Pardon 15030 15038	pardoned
+E84	Justice_Pardon:T84 
+A84	Realis E84 Actual
+T85	Justice_Pardon 15086 15092	pardon
+E85	Justice_Pardon:T85 
+A85	Realis E85 Generic
+T86	Justice_Pardon 15253 15261	pardoned
+E86	Justice_Pardon:T86 
+A86	Realis E86 Actual
+T87	Justice_Pardon 15349 15356	Pardons
+E87	Justice_Pardon:T87 
+A87	Realis E87 Other
+T88	Justice_Sentence 15372 15381	sentences
+E88	Justice_Sentence:T88 
+A88	Realis E88 Other
+T89	Justice_Pardon 15606 15613	pardons
+E89	Justice_Pardon:T89 
+A89	Realis E89 Other
+T90	Justice_Pardon 15916 15923;15934 15941	granted pardons
+E90	Justice_Pardon:T90 
+A90	Realis E90 Actual
+T91	Justice_Convict 15977 15986	convicted
+E91	Justice_Convict:T91 
+A91	Realis E91 Actual
+T92	Justice_Sentence 16249 16258	sentenced
+E92	Justice_Sentence:T92 
+A92	Realis E92 Actual
+T93	Justice_Fine 16291 16295	fine
+E93	Justice_Fine:T93 
+A93	Realis E93 Actual
+T94	Justice_Charge-Indict 16355 16361	charge
+E94	Justice_Charge-Indict:T94 
+A94	Realis E94 Actual
+T95	Justice_Pardon 16864 16870	pardon
+E95	Justice_Pardon:T95 
+A95	Realis E95 Generic
+T96	Justice_Pardon 16977 16985	pardoned
+E96	Justice_Pardon:T96 
+A96	Realis E96 Actual
+T97	Justice_Pardon 17033 17039	pardon
+E97	Justice_Pardon:T97 
+A97	Realis E97 Generic
+T98	Justice_Pardon 17200 17208	pardoned
+E98	Justice_Pardon:T98 
+A98	Realis E98 Actual
+T99	Justice_Pardon 17498 17505;17511 17518	granted pardons
+E99	Justice_Pardon:T99 
+A99	Realis E99 Actual
+T100	Personnel_End-Position 17590 17596	former
+E100	Personnel_End-Position:T100 
+A100	Realis E100 Actual
+T101	Personnel_End-Position 8518 8524	former
+E101	Personnel_End-Position:T101 
+A101	Realis E101 Actual
+T102	Justice_Trial-Hearing 17677 17682	trial
+E102	Justice_Trial-Hearing:T102 
+A102	Realis E102 Other
+T103	Transaction_Transfer-Ownership 17762 17767	sales
+E103	Transaction_Transfer-Ownership:T103 
+A103	Realis E103 Actual
+T104	Transaction_Transfer-Ownership 18068 18077	shipments
+E104	Transaction_Transfer-Ownership:T104 
+A104	Realis E104 Actual
+T105	Transaction_Transfer-Ownership 18298 18307	turn over
+E105	Transaction_Transfer-Ownership:T105 
+A105	Realis E105 Actual
+T106	Justice_Pardon 18412 18419	pardons
+E106	Justice_Pardon:T106 
+A106	Realis E106 Actual
+T107	Justice_Pardon 18748 18755	pardons
+E107	Justice_Pardon:T107 
+A107	Realis E107 Actual
+T108	Justice_Release-Parole 18869 18876	release
+E108	Justice_Release-Parole:T108 
+A108	Realis E108 Actual
+T109	Justice_Pardon 19119 19126	pardons
+E109	Justice_Pardon:T109 
+A109	Realis E109 Actual
+T110	Justice_Pardon 19303 19310	pardons
+E110	Justice_Pardon:T110 
+A110	Realis E110 Actual
+T111	Justice_Pardon 19727 19734	pardons
+E111	Justice_Pardon:T111 
+A111	Realis E111 Actual
+T112	Justice_Pardon 20382 20389	pardons
+E112	Justice_Pardon:T112 
+A112	Realis E112 Actual
+T113	Justice_Pardon 21272 21279;21290 21297	granted pardons
+E113	Justice_Pardon:T113 
+A113	Realis E113 Actual
+T114	Justice_Convict 21333 21342	convicted
+E114	Justice_Convict:T114 
+A114	Realis E114 Actual
+T115	Justice_Sentence 21605 21614	sentenced
+E115	Justice_Sentence:T115 
+A115	Realis E115 Actual
+T116	Justice_Fine 21647 21651	fine
+E116	Justice_Fine:T116 
+A116	Realis E116 Actual
+T117	Justice_Charge-Indict 21711 21717	charge
+E117	Justice_Charge-Indict:T117 
+A117	Realis E117 Actual
+T118	Justice_Pardon 22220 22226	pardon
+E118	Justice_Pardon:T118 
+A118	Realis E118 Generic
+T119	Justice_Pardon 22333 22341	pardoned
+E119	Justice_Pardon:T119 
+A119	Realis E119 Actual
+T120	Justice_Pardon 22389 22395	pardon
+E120	Justice_Pardon:T120 
+A120	Realis E120 Generic
+T121	Justice_Pardon 22556 22564	pardoned
+E121	Justice_Pardon:T121 
+A121	Realis E121 Actual
+T122	Justice_Arrest-Jail 22755 22765	go to jail
+E122	Justice_Arrest-Jail:T122 
+A122	Realis E122 Other
+T123	Transaction_Transfer-Money 22901 22906	spend
+E123	Transaction_Transfer-Money:T123 
+A123	Realis E123 Other
+T124	Justice_Arrest-Jail 22979 22989	Go to jail
+E124	Justice_Arrest-Jail:T124 
+A124	Realis E124 Other
+T125	Justice_Pardon 23214 23221;23232 23239	granted pardons
+E125	Justice_Pardon:T125 
+A125	Realis E125 Actual
+T126	Justice_Convict 23275 23284	convicted
+E126	Justice_Convict:T126 
+A126	Realis E126 Actual
+T127	Justice_Sentence 23547 23556	sentenced
+E127	Justice_Sentence:T127 
+A127	Realis E127 Actual
+T128	Justice_Fine 23589 23593	fine
+E128	Justice_Fine:T128 
+A128	Realis E128 Actual
+T129	Justice_Charge-Indict 23653 23659	charge
+E129	Justice_Charge-Indict:T129 
+A129	Realis E129 Actual
+T130	Justice_Pardon 24162 24168	pardon
+E130	Justice_Pardon:T130 
+A130	Realis E130 Generic
+T131	Justice_Pardon 24275 24283	pardoned
+E131	Justice_Pardon:T131 
+A131	Realis E131 Actual
+T132	Justice_Pardon 24331 24337	pardon
+E132	Justice_Pardon:T132 
+A132	Realis E132 Generic
+T133	Justice_Pardon 24498 24506	pardoned
+E133	Justice_Pardon:T133 
+A133	Realis E133 Actual
+T134	Justice_Pardon 24594 24601	Pardons
+E134	Justice_Pardon:T134 
+A134	Realis E134 Other
+T135	Justice_Sentence 24617 24626	sentences
+E135	Justice_Sentence:T135 
+A135	Realis E135 Other
+T136	Justice_Pardon 24851 24858	pardons
+E136	Justice_Pardon:T136 
+A136	Realis E136 Other
+T137	Justice_Pardon 24980 24987	pardons
+E137	Justice_Pardon:T137 
+A137	Realis E137 Other
+T138	Justice_Pardon 25088 25094	pardon
+E138	Justice_Pardon:T138 
+A138	Realis E138 Actual
+T139	Justice_Pardon 25212 25220	pardoned
+E139	Justice_Pardon:T139 
+A139	Realis E139 Actual
+T140	Justice_Pardon 25252 25258	pardon
+E140	Justice_Pardon:T140 
+A140	Realis E140 Actual
+T141	Justice_Pardon 25307 25313	pardon
+E141	Justice_Pardon:T141 
+A141	Realis E141 Actual
+T142	Justice_Pardon 25351 25357	pardon
+E142	Justice_Pardon:T142 
+A142	Realis E142 Other
+T143	Justice_Convict 25374 25383	convicted
+E143	Justice_Convict:T143 
+A143	Realis E143 Other
+T144	Justice_Pardon 25393 25399	pardon
+E144	Justice_Pardon:T144 
+A144	Realis E144 Other
+T145	Justice_Pardon 25444 25452	pardoned
+E145	Justice_Pardon:T145 
+A145	Realis E145 Generic
+T146	Justice_Pardon 25610 25618	pardoned
+E146	Justice_Pardon:T146 
+A146	Realis E146 Actual
+T147	Justice_Pardon 25650 25656	pardon
+E147	Justice_Pardon:T147 
+A147	Realis E147 Actual
+T148	Justice_Pardon 25705 25711	pardon
+E148	Justice_Pardon:T148 
+A148	Realis E148 Actual
+T149	Justice_Pardon 25749 25755	pardon
+E149	Justice_Pardon:T149 
+A149	Realis E149 Other
+T150	Justice_Convict 25772 25781	convicted
+E150	Justice_Convict:T150 
+A150	Realis E150 Other
+T151	Justice_Pardon 25791 25797	pardon
+E151	Justice_Pardon:T151 
+A151	Realis E151 Other
+T152	Justice_Pardon 25842 25850	pardoned
+E152	Justice_Pardon:T152 
+A152	Realis E152 Other
+T153	Justice_Pardon 25888 25894	pardon
+E153	Justice_Pardon:T153 
+A153	Realis E153 Other
+T154	Justice_Convict 25931 25943	found guilty
+E154	Justice_Convict:T154 
+A154	Realis E154 Other
+T155	Justice_Pardon 26219 26227	pardoned
+E155	Justice_Pardon:T155 
+A155	Realis E155 Actual
+T156	Justice_Pardon 26259 26265	pardon
+E156	Justice_Pardon:T156 
+A156	Realis E156 Actual
+T157	Justice_Pardon 26314 26320	pardon
+E157	Justice_Pardon:T157 
+A157	Realis E157 Actual
+T158	Justice_Pardon 26358 26364	pardon
+E158	Justice_Pardon:T158 
+A158	Realis E158 Other
+T159	Justice_Convict 26381 26390	convicted
+E159	Justice_Convict:T159 
+A159	Realis E159 Other
+T160	Justice_Pardon 26400 26406	pardon
+E160	Justice_Pardon:T160 
+A160	Realis E160 Other
+T161	Justice_Pardon 26451 26459	pardoned
+E161	Justice_Pardon:T161 
+A161	Realis E161 Other
+T162	Justice_Pardon 26497 26503	pardon
+E162	Justice_Pardon:T162 
+A162	Realis E162 Other
+T163	Justice_Convict 26540 26552	found guilty
+E163	Justice_Convict:T163 
+A163	Realis E163 Other
+T164	Justice_Pardon 26684 26691	pardons
+E164	Justice_Pardon:T164 
+A164	Realis E164 Actual
+T165	Conflict_Attack 26721 26724	war
+E165	Conflict_Attack:T165 
+A165	Realis E165 Actual
+T166	Justice_Pardon 26937 26945	pardoned
+E166	Justice_Pardon:T166 
+A166	Realis E166 Actual
+T167	Justice_Pardon 26977 26983	pardon
+E167	Justice_Pardon:T167 
+A167	Realis E167 Actual
+T168	Justice_Pardon 27032 27038	pardon
+E168	Justice_Pardon:T168 
+A168	Realis E168 Actual
+T169	Justice_Pardon 27076 27082	pardon
+E169	Justice_Pardon:T169 
+A169	Realis E169 Other
+T170	Justice_Convict 27099 27108	convicted
+E170	Justice_Convict:T170 
+A170	Realis E170 Other
+T171	Justice_Pardon 27118 27124	pardon
+E171	Justice_Pardon:T171 
+A171	Realis E171 Other
+T172	Justice_Pardon 27169 27177	pardoned
+E172	Justice_Pardon:T172 
+A172	Realis E172 Other
+T173	Justice_Pardon 27206 27212	pardon
+E173	Justice_Pardon:T173 
+A173	Realis E173 Generic
+T174	Justice_Pardon 27817 27823	pardon
+E174	Justice_Pardon:T174 
+A174	Realis E174 Generic
+T175	Justice_Pardon 27930 27938	pardoned
+E175	Justice_Pardon:T175 
+A175	Realis E175 Actual
+T176	Justice_Pardon 27986 27992	pardon
+E176	Justice_Pardon:T176 
+A176	Realis E176 Generic
+T177	Justice_Pardon 28153 28161	pardoned
+E177	Justice_Pardon:T177 
+A177	Realis E177 Actual
+T178	Justice_Pardon 28357 28364	pardons
+E178	Justice_Pardon:T178 
+A178	Realis E178 Actual
+T179	Justice_Pardon 28693 28700	pardons
+E179	Justice_Pardon:T179 
+A179	Realis E179 Actual
+T180	Personnel_End-Position 9699 9708	departing
+E180	Personnel_End-Position:T180 
+A180	Realis E180 Actual
+T181	Personnel_End-Position 18771 18780	departing
+E181	Personnel_End-Position:T181 
+A181	Realis E181 Actual
+T182	Personnel_End-Position 28716 28725	departing
+E182	Personnel_End-Position:T182 
+A182	Realis E182 Actual
+T183	Justice_Pardon 28763 28770	pardons
+E183	Justice_Pardon:T183 
+A183	Realis E183 Actual
+T184	Justice_Release-Parole 28814 28821	release
+E184	Justice_Release-Parole:T184 
+A184	Realis E184 Actual
+T185	Justice_Pardon 29064 29071	pardons
+E185	Justice_Pardon:T185 
+A185	Realis E185 Actual
+T186	Justice_Pardon 29313 29321	pardoned
+E186	Justice_Pardon:T186 
+A186	Realis E186 Other
+T187	Justice_Pardon 29702 29709;29720 29727	granted pardons
+E187	Justice_Pardon:T187 
+A187	Realis E187 Actual
+T188	Justice_Convict 29763 29772	convicted
+E188	Justice_Convict:T188 
+A188	Realis E188 Actual
+T189	Justice_Sentence 30035 30044	sentenced
+E189	Justice_Sentence:T189 
+A189	Realis E189 Actual
+T190	Justice_Fine 30077 30081	fine
+E190	Justice_Fine:T190 
+A190	Realis E190 Actual
+T191	Justice_Charge-Indict 30141 30147	charge
+E191	Justice_Charge-Indict:T191 
+A191	Realis E191 Actual
+T192	Justice_Pardon 30650 30656	pardon
+E192	Justice_Pardon:T192 
+A192	Realis E192 Generic
+T193	Justice_Pardon 30763 30771	pardoned
+E193	Justice_Pardon:T193 
+A193	Realis E193 Actual
+T194	Justice_Pardon 30819 30825	pardon
+E194	Justice_Pardon:T194 
+A194	Realis E194 Generic
+T195	Justice_Pardon 30986 30994	pardoned
+E195	Justice_Pardon:T195 
+A195	Realis E195 Actual
+T196	Justice_Arrest-Jail 31185 31195	go to jail
+E196	Justice_Arrest-Jail:T196 
+A196	Realis E196 Other
+T197	Transaction_Transfer-Money 31331 31336	spend
+E197	Transaction_Transfer-Money:T197 
+A197	Realis E197 Other
+T198	Justice_Arrest-Jail 31409 31419	Go to jail
+E198	Justice_Arrest-Jail:T198 
+A198	Realis E198 Other
+T199	Justice_Pardon 32071 32079	pardoned
+E199	Justice_Pardon:T199 
+A199	Realis E199 Actual
+T200	Justice_Pardon 32111 32117	pardon
+E200	Justice_Pardon:T200 
+A200	Realis E200 Actual
+T201	Justice_Pardon 32210 32216	pardon
+E201	Justice_Pardon:T201 
+A201	Realis E201 Other
+T202	Justice_Convict 32233 32242	convicted
+E202	Justice_Convict:T202 
+A202	Realis E202 Other
+T203	Justice_Pardon 32252 32258	pardon
+E203	Justice_Pardon:T203 
+A203	Realis E203 Other
+T204	Justice_Pardon 32303 32311	pardoned
+E204	Justice_Pardon:T204 
+A204	Realis E204 Other
+T205	Justice_Pardon 32340 32346	pardon
+E205	Justice_Pardon:T205 
+A205	Realis E205 Generic
+T206	Justice_Charge-Indict 32565 32572	charged
+E206	Justice_Charge-Indict:T206 
+A206	Realis E206 Other
+T207	Justice_Release-Parole 32668 32675	release
+E207	Justice_Release-Parole:T207 
+A207	Realis E207 Generic
+T208	Justice_Pardon 33242 33250;33256 33262	granting pardon
+E208	Justice_Pardon:T208 
+A208	Realis E208 Generic
+T209	Justice_Convict 33317 33326	convicted
+E209	Justice_Convict:T209 
+A209	Realis E209 Generic
+T210	Justice_Pardon 33487 33492;33495 33501	grant pardon
+E210	Justice_Pardon:T210 
+A210	Realis E210 Generic
+T211	Justice_Pardon 33545 33551	pardon
+E211	Justice_Pardon:T211 
+A211	Realis E211 Generic
+T212	Justice_Pardon 33629 33634;33637 33643	grant pardon
+E212	Justice_Pardon:T212 
+A212	Realis E212 Generic
+T213	Justice_Pardon 33934 33939;33954 33961	grant Pardons
+E213	Justice_Pardon:T213 
+A213	Realis E213 Generic
+T214	Justice_Pardon 34153 34166	issue pardons
+E214	Justice_Pardon:T214 
+A214	Realis E214 Generic
+T215	Justice_Pardon 18818 18825	pardons
+E215	Justice_Pardon:T215 
+A215	Realis E215 Actual

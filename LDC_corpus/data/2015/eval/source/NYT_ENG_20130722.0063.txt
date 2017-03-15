@@ -1,0 +1,55 @@
+<DOC id="NYT_ENG_20130722.0063" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130722/20130722,3dabb747c478785ca3bcecea3048dcc7.xml">
+<HEADLINE>
+NEW YORK MAYOR SUES COMPTROLLER ON CONTRACTS
+</HEADLINE>
+<TEXT>
+<P>
+NEW YORK - Fed up with what he views as a pattern of obstructionist behavior, Mayor Michael R. Bloomberg has taken the rare step of filing a lawsuit against the city comptroller, John C. Liu, for rejecting two municipal contracts.
+</P>
+<P>
+The contracts would pay Aguila Inc., a company run by Robert V. Hess, Bloomberg’s former commissioner of homeless services, a total of $67.6 million to operate homeless shelters in the Bronx and Manhattan. The Manhattan shelters have long been a target of criticism from local residents and elected officials, who say, among other complaints, that the area has an excess of similar facilities.
+</P>
+<P>
+Liu rejected the contracts on July 3, saying they were too vague as to how many people would be offered services. And in a criticism of Bloomberg’s record on homelessness, Liu argued that “it would be unconscionable to compound past errors with these faulty contracts.”
+</P>
+<P>
+But Bloomberg, in a lawsuit filed Thursday in state Supreme Court in Manhattan, said the courts had long held that registration of contracts was “not a vehicle for the comptroller to usurp the mayor’s authority to enter into contracts.”
+</P>
+<P>
+The lawsuit, believed to be only the second filed by the Bloomberg administration against the city or state comptroller’s office, is the latest and perhaps most pronounced skirmish between Bloomberg and Liu, a Democrat who is now running for mayor.
+</P>
+<P>
+Administration officials contend that there is a discrepancy between the reasons Liu cites in his news releases for rejecting a contract and the public documents explaining the reasons. Liu, the city contends, typically asks for more technical information, then registers those contracts with few if any changes and no public notification.
+</P>
+<P>
+“It’s a joke,” Marc La Vorgna, Bloomberg’s press secretary, said of Liu. “Sad part is this is taxpayer resources and dollars being completely wasted on naked political ambitions. He was running for mayor the second he stepped into this job and had no interest in doing the job he was sworn in to do, only to abuse the position.”
+</P>
+<P>
+Aides to Liu argue that the comptroller needs to highlight certain Bloomberg proposals because the mayor has mishandled contracts, like those for the CityTime payroll project and for an overhaul of the 911 system.
+</P>
+<P>
+“Under Mayor Bloomberg, spending on outside contractors has ballooned, and his outsourcing philosophy is out of control,” said Stephanie Hoo, a spokeswoman for the comptroller. “In all cases, whenever this office has questioned contracts, it has been within the guidelines of the City Charter and our mandate to protect taxpayers from wasteful spending.”
+</P>
+<P>
+In the rare cases where a mayor or a comptroller sues the other over contracts, the courts have held that comptrollers have extremely limited powers.
+</P>
+<P>
+In 2006, the Court of Appeals rejected former Comptroller William C. Thompson Jr.'s effort to void a contract on Snapple, writing that “the Charter establishes in plain language that the mayor and the corporation counsel - not the comptroller - bear the burden of determining that procedural requirements have been met and legal authority exists to award a concession contract.” (Thompson ran against Bloomberg in 2009 and is again seeking the Democratic nomination for mayor.)
+</P>
+<P>
+Under the charter, the only basis for a comptroller to scuttle a contract is evidence of possible corruption in the contracting process. In rejecting the shelter contracts, Liu mentioned not corruption, but concerns over inspections and certificates of occupancy.
+</P>
+<P>
+Bloomberg administration officials cited more than a half-dozen instances in recent years in which Liu publicized a rejection of a contract, then quietly registered it.
+</P>
+<P>
+In March 2011, for example, Liu rejected a $20 million deal on teacher recruitment, saying the timing was “curious at best” because of Bloomberg’s threat to fire teachers. But the reasons for rejecting the contract pertained to data input and an incomplete insurance certificate. Liu registered the contract that July, with minimal changes.
+</P>
+<P>
+When asked about the discrepancies between press statements and public documents, Hoo did not directly address the issue, but rather alluded to the mayor’s maneuver to run for a third term in 2009.
+</P>
+<P>
+“It is beyond ironic that Mayor Bloomberg’s Law Department is up in arms about adherence to the City Charter when no one in the history of New York City has shown such deep disrespect for the City Charter,” she said. “If we’d followed the charter, he wouldn’t even be in office right now.”
+</P>
+</TEXT>
+</DOC>

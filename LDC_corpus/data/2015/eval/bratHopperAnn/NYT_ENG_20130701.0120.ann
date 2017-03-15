@@ -1,0 +1,91 @@
+T1	Business_Merge-Org 172 178	MERGER
+E790	Business_Merge-Org:T1
+A1	Realis E790 Actual
+T2	Business_Merge-Org 358 364	merger
+E131	Business_Merge-Org:T2
+A2	Realis E131 Actual
+T3	Business_Merge-Org 741 747	merger
+E43	Business_Merge-Org:T3
+A3	Realis E43 Other
+T4	Business_Merge-Org 864 870	merger
+E483	Business_Merge-Org:T4
+A4	Realis E483 Other
+T5	Business_Merge-Org 1304 1310	merger
+E72	Business_Merge-Org:T5
+A5	Realis E72 Actual
+T6	Business_Merge-Org 2874 2882	combined
+E759	Business_Merge-Org:T6
+A6	Realis E759 Actual
+T7	Business_Start-Org 373 381	creating
+E378	Business_Start-Org:T7
+A7	Realis E378 Actual
+T8	Business_Start-Org 2064 2070	starts
+E38	Business_Start-Org:T8
+A8	Realis E38 Actual
+T9	Transaction_Transfer-Money 1123 1131	revenues
+E799	Transaction_Transfer-Money:T9
+A9	Realis E799 Other
+T10	Personnel_Start-Position 1214 1221	take on
+E525	Personnel_Start-Position:T10
+A10	Realis E525 Other
+T11	Contact_Broadcast 1317 1322	email
+E47	Contact_Broadcast:T11
+A11	Realis E47 Actual
+T12	Transaction_Transfer-Ownership 1695 1703	acquired
+E367	Transaction_Transfer-Ownership:T12
+A12	Realis E367 Actual
+T13	Personnel_End-Position 1820 1832	stepped down
+E869	Personnel_End-Position:T13
+A13	Realis E869 Actual
+T14	Personnel_Start-Position 1837 1844	will be
+E226	Personnel_Start-Position:T14
+A14	Realis E226 Other
+T15	Personnel_Start-Position 1987 1994	will be
+E178	Personnel_Start-Position:T15
+A15	Realis E178 Other
+T16	Contact_Broadcast 2240 2249	statement
+E858	Contact_Broadcast:T16
+A16	Realis E858 Actual
+T17	Personnel_End-Position 2451 2461	laying off
+E895	Personnel_End-Position:T17
+A17	Realis E895 Other
+T18	Contact_Contact 2544 2548	said
+E309	Contact_Contact:T18
+A18	Realis E309 Actual
+T19	Transaction_Transfer-Money 2648 2651	pay
+E797	Transaction_Transfer-Money:T19
+A19	Realis E797 Generic
+T20	Movement_Transport-Artifact 2852 2856	ship
+E155	Movement_Transport-Artifact:T20
+A20	Realis E155 Generic
+T21	Movement_Transport-Artifact 2932 2944	distribution
+E830	Movement_Transport-Artifact:T21
+A21	Realis E830 Generic
+T22	Transaction_Transfer-Ownership 2782 2787	sales
+E119	Transaction_Transfer-Ownership:T22
+A22	Realis E119 Generic
+T23	Contact_Broadcast 727 736	announced
+E541	Contact_Broadcast:T23
+A23	Realis E541 Actual
+T24	Contact_Broadcast 1913 1919	letter
+E763	Contact_Broadcast:T24
+A24	Realis E763 Actual
+T25	Transaction_Transfer-Money 1695 1703	acquired
+E677	Transaction_Transfer-Money:T25
+A25	Realis E677 Actual
+T26	Personnel_Start-Position 1953 1957	head
+E807	Personnel_Start-Position:T26
+A26	Realis E807 Actual
+T27	Transaction_Transfer-Money 2782 2787	sales
+E440	Transaction_Transfer-Money:T27
+A27	Realis E440 Generic
+T28	Transaction_Transfer-Money 2957 2962	costs
+E276	Transaction_Transfer-Money:T28
+A28	Realis E276 Generic
+R1	Coreference Arg1:E790 Arg2:E131
+R2	Coreference Arg1:E131 Arg2:E43
+R3	Coreference Arg1:E43 Arg2:E483
+R4	Coreference Arg1:E483 Arg2:E72
+R5	Coreference Arg1:E72 Arg2:E759
+R6	Coreference Arg1:E378 Arg2:E38
+R7	Coreference Arg1:E155 Arg2:E830

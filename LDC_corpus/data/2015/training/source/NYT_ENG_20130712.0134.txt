@@ -1,0 +1,49 @@
+<DOC id="NYT_ENG_20130712.0134" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130712/20130712,8139b94c62c700e62e240cc1461f1737.xml">
+<HEADLINE>
+(For release Sunday, July 14, for use with FISA-COURT)
+</HEADLINE>
+<TEXT>
+<P>
+A look at the judges on the Foreign Intelligence Surveillance Court:
+</P>
+<P>
+REGGIE WALTON presides over the FISA court. He was appointed to the court on May 19, 2007 and was first nominated to the District Court for the District of Columbia by Ronald Reagan in 1981.
+</P>
+<P>
+Walton is best known for presiding over the trial of I. Lewis ''Scooter’' Libby, Vice President Dick Cheney’s former chief of staff, ultimately sentencing him to 30 months in prison plus fines for perjury and obstruction of justice charges.
+</P>
+<P>
+Walton also presided over the perjury trial of Houston Astros pitcher Roger Clemens. In July 2011, Walton declared a mistrial in the case when prosecutors mistakenly showed the jury evidence not allowed in the trial, and Clemens was acquitted in the retrial.
+</P>
+<P>
+ROSEMARY COLLYER was appointed to the FISA court on March 8, 2013. She was nominated to a seat on the D.C. District Court by George W. Bush on Aug. 1, 2002. In one of her more notable cases, Collyer ruled in favor of the CIA in September 2011 on a lawsuit filed by the ACLU that would have forced the agency to hand over documents about its drone strike program in Pakistan. She held that were the CIA to hand over documents about drone strikes, the agency’s ''intelligence methods’' – which are exempted from the Freedom of Information Act – would be revealed. Her ruling was unanimously reversed on March 15, 2013 by the D.C. District of Appeals. Collyer has also presided over several Guantanamo Bay detainees’ petitions for a trial under habeas corpus.
+</P>
+<P>
+RAYMOND DEARIE was appointed to the FISA court on July 2, 2012. President Ronald Reagan appointed him to the Eastern District of New York in 1986, and he retired from that post in 2013. Dearie was a career prosecutor before his nomination to the District Court. According to a Reuters report, a survey by defense attorneys described him as ''fair.'' Dearie was the judge that accepted Afghan-American Najibdullah Zazi’s guilty plea for planning a terrorist attack on the New York City Subway system.
+</P>
+<P>
+CLAIRE EGAN was appointed to the FISA court on Feb. 13, 2013. George W. Bush appointed her to a seat on the Northern District of Oklahoma on Sept. 4, 2001. Eagan spent 20 years as a private practice attorney in Oklahoma before her nomination.
+</P>
+<P>
+MARTIN L.C. FELDMAN was appointed to the FIS court on May 19, 2010. he was nominated to a seat on the District Court for the Eastern District of Louisiana by President Ronald Reagan. After the Deepwater Horizon BP oil spill, Feldman issued an injunction on the moratorium on offshore drilling. The injunction was a setback for the President Barack Obama, and then-White House Press Secretary Robert Gibbs said the administration would immediately appeal Feldman’s decision, according to the New York Times. According to Reuters, Feldman got involved with Republican politics during the Eisenhower Administration and remained active through the Reagan Administration.
+</P>
+<P>
+THOMAS HOGAN was appointed to the FIS court on May 18, 2009. He was nominated to the District Court for the District of Columbia by President Ronald Reagan in 1982. Hogan has a number of high-profile rulings and orders on his resume. He held New York Times journalist Judith Miller in contempt of court for refusing to reveal confidential sources to a grand jury in 2005, ordered the Library of congress to continue printing Playboy Magazine in Braille in 1986 and, according to Reuters, ruled in favor of President Richard Nixon in his attempts to prevent public access to records kept by the White House.
+</P>
+<P>
+MARY A. McLAUGHLIN was appointed to the FIS court on May 18, 2008. She was nominated to the Eastern District of Pennsylvania by Bill Clinton in 2000. According to Reuters, McLaughlin is the sole Democrat on the FIS court. The report notes her involvement in a U.S. Senate subcommittee’s investigation into an alleged cover-up by the FBI after agents used deadly force in a siege on Ruby Ridge, Idaho in 1995. McLaughlin served as special counsel to the Senators.
+</P>
+<P>
+MICHAEL W. MOSMAN was appointed to the FIS court on May 4, 2013. He was nominated to a seat on the District Court for the District of Oregon by George W. Bush in 2003. In 1986, when he was a clerk for U.S. Supreme Court Justice Lewis Powell, Mosman was involved directly in Powell’s decision to vote with the Court’s majority to uphold Georgia’s anti-sodomy law in Bowers v. Hardwick. Later, as a District Court judge in 2007, he issued an injunction preventing Oregon’s civil union law from taking effect, only to lift the injunction later in 2008.
+</P>
+<P>
+F. DENNIS SAYLOR IV was appointed the FIS court on May 19, 2011. He was nominated by George W. Bush to a seat on the U.S. District Court in Massachusetts in 2003. Saylor spent most of his career before his District Court nomination in private practice. He also served as chief of staff to the assistant attorney general in the criminal division of the Justice Department from 1990-1993.
+</P>
+<P>
+SUSAN WEBBER WRIGHT was appointed the FIS court on May 18, 2009. She was appointed to the Eastern District of Arkansas in 1989 by George H. W. Bush. Wright presided over the sexual harassment lawsuit Paula Jones filed against Bill Clinton, ruling that though Clinton was not totally immune from the lawsuit, as president he could not be sued. It was Wright who eventually held Clinton in contempt of court for lying during the Monica Lewinsky scandal.
+</P>
+<P>
+JAMES ZAGEL was appointed the FIS court on May 19, 2011. He was nominated by President Ronald Reagan to a seat on the Northern District of Illinois in 1987. In Illinois, Zagel served as an assistant state attorney, head of the attorney general’s Criminal Justice Division, executive director of the Illinois Law Enforcement Commission and director of the Illinois State Police. Zagel presided over the trial of former Illinois Governor Rod Blagojevich, eventually sentencing him to 14 years in prison. He also wrote an acclaimed crime novel, published in 2003, about a Federal District Court judge that teams up with his latest two defendants to rob the Federal Reserve.
+</P>
+</TEXT>
+</DOC

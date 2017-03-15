@@ -1,0 +1,150 @@
+T1	Conflict_Attack 2694 2697	war
+E9	Conflict_Attack:T1
+A1	Realis E9 Actual
+T2	Transaction_Transfer-Ownership 2551 2561	transplant
+E15	Transaction_Transfer-Ownership:T2
+A2	Realis E15 Actual
+T3	Movement_Transport-Artifact 363 374	trafficking
+E83	Movement_Transport-Artifact:T3
+A3	Realis E83 Actual
+T4	Transaction_Transfer-Money 2083 2091	payments
+E86	Transaction_Transfer-Money:T4
+A4	Realis E86 Other
+T5	Justice_Sentence 934 943	sentenced
+E89	Justice_Sentence:T5
+A5	Realis E89 Actual
+T6	Justice_Charge-Indict 2023 2033	indictment
+E101	Justice_Charge-Indict:T6
+A6	Realis E101 Actual
+T7	Movement_Transport-Artifact 2983 2993	trafficker
+E123	Movement_Transport-Artifact:T7
+A7	Realis E123 Generic
+T8	Movement_Transport-Person 2174 2180	travel
+E155	Movement_Transport-Person:T8
+A8	Realis E155 Actual
+T9	Contact_Contact 3715 3719	said
+E174	Contact_Contact:T9
+A9	Realis E174 Actual
+T10	Business_Start-Org 2608 2615	founded
+E183	Business_Start-Org:T10
+A10	Realis E183 Actual
+T11	Justice_Arrest-Jail 962 968	prison
+E184	Justice_Arrest-Jail:T11
+A11	Realis E184 Other
+T12	Justice_Convict 272 281	convicted
+E209	Justice_Convict:T12
+A12	Realis E209 Actual
+T13	Transaction_Transfer-Ownership 2337 2343	donors
+E221	Transaction_Transfer-Ownership:T13
+A13	Realis E221 Actual
+T14	Transaction_Transfer-Money 1455 1461	profit
+E310	Transaction_Transfer-Money:T14
+A14	Realis E310 Generic
+T15	Justice_Sentence 997 1006	sentenced
+E342	Justice_Sentence:T15
+A15	Realis E342 Actual
+T16	Transaction_Transfer-Money 2399 2411	compensation
+E353	Transaction_Transfer-Money:T16
+A16	Realis E353 Other
+T17	Contact_Contact 2885 2889	said
+E378	Contact_Contact:T17
+A17	Realis E378 Actual
+T18	Justice_Sentence 1165 1174	sentences
+E383	Justice_Sentence:T18
+A18	Realis E383 Actual
+T19	Contact_Contact 3131 3135	said
+E391	Contact_Contact:T19
+A19	Realis E391 Actual
+T20	Movement_Transport-Artifact 912 923	trafficking
+E428	Movement_Transport-Artifact:T20
+A20	Realis E428 Actual
+T21	Movement_Transport-Person 3007 3015	fugitive
+E440	Movement_Transport-Person:T21
+A21	Realis E440 Actual
+T22	Movement_Transport-Person 388 393	lured
+E469	Movement_Transport-Person:T22
+A22	Realis E469 Actual
+T23	Justice_Convict 808 817	convicted
+E490	Justice_Convict:T23
+A23	Realis E490 Actual
+T24	Transaction_Transfer-Ownership 2195 2201	donate
+E500	Transaction_Transfer-Ownership:T24
+A24	Realis E500 Other
+T25	Justice_Convict 1218 1227	convicted
+E510	Justice_Convict:T25
+A25	Realis E510 Actual
+T26	Justice_Acquit 1249 1258	acquitted
+E528	Justice_Acquit:T26
+A26	Realis E528 Actual
+T27	Transaction_Transfer-Money 3402 3406	paid
+E576	Transaction_Transfer-Money:T27
+A27	Realis E576 Actual
+T28	Transaction_Transfer-Ownership 2785 2795	transplant
+E584	Transaction_Transfer-Ownership:T28
+A28	Realis E584 Generic
+T29	Movement_Transport-Artifact 207 218	TRAFFICKING
+E659	Movement_Transport-Artifact:T29
+A29	Realis E659 Actual
+T30	Transaction_Transfer-Ownership 3312 3318	stolen
+E671	Transaction_Transfer-Ownership:T30
+A30	Realis E671 Actual
+T31	Transaction_Transfer-Money 552 556	sold
+E718	Transaction_Transfer-Money:T31
+A31	Realis E718 Actual
+T32	Justice_Charge-Indict 1262 1269	charges
+E724	Justice_Charge-Indict:T32
+A32	Realis E724 Actual
+T33	Transaction_Transfer-Ownership 3402 3406	paid
+E732	Transaction_Transfer-Ownership:T33
+A33	Realis E732 Actual
+T34	Transaction_Transfer-Ownership 2269 2277	donating
+E743	Transaction_Transfer-Ownership:T34
+A34	Realis E743 Other
+T35	Conflict_Attack 3336 3342	raided
+E746	Conflict_Attack:T35
+A35	Realis E746 Actual
+T36	Contact_Contact 2733 2737	said
+E759	Contact_Contact:T36
+A36	Realis E759 Actual
+T37	Justice_Convict 181 190	CONVICTED
+E774	Justice_Convict:T37
+A37	Realis E774 Actual
+T38	Justice_Trial-Hearing 631 636	tried
+E775	Justice_Trial-Hearing:T38
+A38	Realis E775 Actual
+T39	Contact_Contact 1503 1507	said
+E778	Contact_Contact:T39
+A39	Realis E778 Actual
+T40	Conflict_Attack 1712 1716	wars
+E779	Conflict_Attack:T40
+A40	Realis E779 Actual
+T41	Movement_Transport-Artifact 2047 2058	traffickers
+E805	Movement_Transport-Artifact:T41
+A41	Realis E805 Actual
+T42	Transaction_Transfer-Money 424 428	sell
+E856	Transaction_Transfer-Money:T42
+A42	Realis E856 Actual
+T43	Transaction_Transfer-Ownership 2511 2518	receive
+E869	Transaction_Transfer-Ownership:T43
+A43	Realis E869 Actual
+T44	Transaction_Transfer-Ownership 424 428	sell
+E915	Transaction_Transfer-Ownership:T44
+A44	Realis E915 Actual
+T45	Transaction_Transfer-Ownership 552 556	sold
+E917	Transaction_Transfer-Ownership:T45
+A45	Realis E917 Actual
+T46	Transaction_Transfer-Ownership 3582 3593	transplants
+E945	Transaction_Transfer-Ownership:T46
+A46	Realis E945 Generic
+T47	Contact_Contact 3050 3054	said
+E953	Contact_Contact:T47
+A47	Realis E953 Actual
+T48	Contact_Meet 3271 3275	told
+E958	Contact_Meet:T48
+A48	Realis E958 Actual
+T49	Contact_Contact 3494 3498	said
+E974	Contact_Contact:T49
+A49	Realis E974 Actual
+T50	Movement_Transport-Person 2530 2534	flew
+E999	Movement_Transport-Person:T50
+A50	Realis E999 Actual

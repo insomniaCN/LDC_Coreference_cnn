@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea5b0000000000000036" doc_id="NYT_ENG_20130623.0084" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-855" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="203" length="11">RESIGNATION</trigger>
+      </event_mention>
+      <event_mention id="em-62" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="460" length="11">resignation</trigger>
+      </event_mention>
+      <event_mention id="em-951" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130623.0084" offset="528" length="4">quit</trigger>
+      </event_mention>
+      <event_mention id="em-111" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1411" length="8">resigned</trigger>
+      </event_mention>
+      <event_mention id="em-686" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1948" length="11">resignation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-362" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="555" length="10">sworn into</trigger>
+      </event_mention>
+      <event_mention id="em-675" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1120" length="8">replaced</trigger>
+      </event_mention>
+      <event_mention id="em-999" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1343" length="11">appointment</trigger>
+      </event_mention>
+      <event_mention id="em-683" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1635" length="11">took office</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-232" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130623.0084" offset="786" length="4">back</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-718" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130623.0084" offset="828" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-21" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130623.0084" offset="956" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-933" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130623.0084" offset="519" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-199" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130623.0084" offset="1014" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-526" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1120" length="8">replaced</trigger>
+      </event_mention>
+      <event_mention id="em-193" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1233" length="4">quit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-221">
+      <event_mention id="em-263" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130623.0084" offset="1387" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-262">
+      <event_mention id="em-864" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130623.0084" offset="1776" length="6">tapped</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-277">
+      <event_mention id="em-34" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130623.0084" offset="1841" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-305">
+      <event_mention id="em-767" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130623.0084" offset="2154" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

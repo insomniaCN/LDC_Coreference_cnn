@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea6e0000000000000062" doc_id="NYT_ENG_20130724.0184" source_type="newswire">
+  <event_mention id="em-6" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="1638" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-37" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="805" length="9">nominated</trigger>
+  </event_mention>
+  <event_mention id="em-68" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="428" length="9">nominated</trigger>
+  </event_mention>
+  <event_mention id="em-81" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="1820" length="3">was</trigger>
+  </event_mention>
+  <event_mention id="em-134" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130724.0184" offset="1981" length="5">phone</trigger>
+  </event_mention>
+  <event_mention id="em-307" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="1511" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-377" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130724.0184" offset="1691" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-396" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130724.0184" offset="1778" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-462" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130724.0184" offset="1332" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-511" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="189" length="6">PICKED</trigger>
+  </event_mention>
+  <event_mention id="em-639" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="1474" length="4">been</trigger>
+  </event_mention>
+  <event_mention id="em-800" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="1568" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-952" type="personnel" subtype="nominate" realis="other">
+    <trigger source="NYT_ENG_20130724.0184" offset="649" length="11">appointment</trigger>
+  </event_mention>
+  <event_mention id="em-989" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130724.0184" offset="1568" length="6">former</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

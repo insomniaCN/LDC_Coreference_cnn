@@ -1,0 +1,96 @@
+T1	Contact_Broadcast 374 380	report
+E310	Contact_Broadcast:T1
+A1	Realis E310 Actual
+T2	Contact_Broadcast 723 729	report
+E793	Contact_Broadcast:T2
+A2	Realis E793 Actual
+T3	Contact_Broadcast 1137 1143	report
+E538	Contact_Broadcast:T3
+A3	Realis E538 Actual
+T4	Contact_Broadcast 1653 1659	report
+E206	Contact_Broadcast:T4
+A4	Realis E206 Actual
+T5	Contact_Broadcast 2189 2195	report
+E410	Contact_Broadcast:T5
+A5	Realis E410 Actual
+T6	Contact_Broadcast 2662 2668	report
+E882	Contact_Broadcast:T6
+A6	Realis E882 Actual
+T7	Contact_Meet 814 823	interview
+E87	Contact_Meet:T7
+A7	Realis E87 Actual
+T8	Contact_Correspondence 1061 1065	sent
+E79	Contact_Correspondence:T8
+A8	Realis E79 Actual
+T9	Transaction_Transfer-Money 1189 1192	buy
+E563	Transaction_Transfer-Money:T9
+A9	Realis E563 Other
+T10	Transaction_Transfer-Ownership 1189 1192	buy
+E894	Transaction_Transfer-Ownership:T10
+A10	Realis E894 Other
+T11	Contact_Contact 1160 1165	asked
+E850	Contact_Contact:T11
+A11	Realis E850 Actual
+T12	Contact_Correspondence 1237 1244	emailed
+E964	Contact_Correspondence:T12
+A12	Realis E964 Actual
+T13	Personnel_End-Position 1249 1260	resignation
+E830	Personnel_End-Position:T13
+A13	Realis E830 Actual
+T14	Contact_Contact 1338 1342	told
+E162	Contact_Contact:T14
+A14	Realis E162 Actual
+T15	Contact_Contact 1520 1524	told
+E167	Contact_Contact:T15
+A15	Realis E167 Actual
+T16	Contact_Contact 1574 1582	notified
+E250	Contact_Contact:T16
+A16	Realis E250 Actual
+T17	Contact_Correspondence 1772 1777	reach
+E823	Contact_Correspondence:T17
+A17	Realis E823 Other
+T18	Contact_Broadcast 1894 1898	said
+E443	Contact_Broadcast:T18
+A18	Realis E443 Actual
+T19	Transaction_Transfer-Money 2071 2077	salary
+E723	Transaction_Transfer-Money:T19
+A19	Realis E723 Actual
+T20	Contact_Meet 2158 2165	discuss
+E209	Contact_Meet:T20
+A20	Realis E209 Actual
+T21	Contact_Correspondence 2345 2354	exchanged
+E483	Contact_Correspondence:T21
+A21	Realis E483 Actual
+T22	Contact_Broadcast 998 1006	comments
+E731	Contact_Broadcast:T22
+A22	Realis E731 Generic
+T23	Contact_Contact 1387 1391	told
+E210	Contact_Contact:T23
+A23	Realis E210 Actual
+T24	Contact_Contact 1360 1368	reported
+E562	Contact_Contact:T24
+A24	Realis E562 Actual
+T25	Personnel_End-Position 2024 2030	worked
+E607	Personnel_End-Position:T25
+A25	Realis E607 Actual
+T26	Contact_Meet 2230 2237	talking
+E430	Contact_Meet:T26
+A26	Realis E430 Actual
+T27	Life_Beborn 2297 2301	have
+E42	Life_Beborn:T27
+A27	Realis E42 Other
+T28	Contact_Contact 2449 2453	said
+E705	Contact_Contact:T28
+A28	Realis E705 Actual
+T29	Contact_Broadcast 2519 2527	comments
+E565	Contact_Broadcast:T29
+A29	Realis E565 Actual
+T30	Contact_Contact 2599 2604	asked
+E143	Contact_Contact:T30
+A30	Realis E143 Actual
+R1	Coreference Arg1:E310 Arg2:E793
+R2	Coreference Arg1:E793 Arg2:E538
+R3	Coreference Arg1:E538 Arg2:E206
+R4	Coreference Arg1:E206 Arg2:E410
+R5	Coreference Arg1:E410 Arg2:E882
+R6	Coreference Arg1:E562 Arg2:E210

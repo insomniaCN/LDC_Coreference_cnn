@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea9c0000000000000141" doc_id="45a7f36e05277bf1bb963d3b11c93121" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-158" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="220" length="10">discussion</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-800" type="life" subtype="marry" realis="generic">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="245" length="10">remarriage</trigger>
+      </event_mention>
+      <event_mention id="em-856" type="life" subtype="marry" realis="generic">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="415" length="9">remarried</trigger>
+      </event_mention>
+      <event_mention id="em-31" type="life" subtype="marry" realis="generic">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="1451" length="9">remarried</trigger>
+      </event_mention>
+      <event_mention id="em-189" type="life" subtype="marry" realis="generic">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="1810" length="9">remarried</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-699" type="life" subtype="divorce" realis="generic">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="402" length="8">divorced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-16" type="life" subtype="marry" realis="actual">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="448" length="10">remarriage</trigger>
+      </event_mention>
+      <event_mention id="em-850" type="life" subtype="marry" realis="actual">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="512" length="9">remarried</trigger>
+      </event_mention>
+      <event_mention id="em-853" type="life" subtype="marry" realis="actual">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="687" length="9">remarried</trigger>
+      </event_mention>
+      <event_mention id="em-461" type="life" subtype="marry" realis="actual">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="828" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-259" type="life" subtype="divorce" realis="actual">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="499" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-450" type="life" subtype="divorce" realis="actual">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="630" length="8">divorced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-772" type="conflict" subtype="attack" realis="other">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="581" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-752" type="life" subtype="die" realis="other">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="581" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-206">
+      <event_mention id="em-346" type="life" subtype="marry" realis="generic">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="1084" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-247">
+      <event_mention id="em-60" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="45a7f36e05277bf1bb963d3b11c93121" offset="1844" length="5">share</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,75 @@
+T1	Transaction_Transfer-Money 457 463	bought
+E198	Transaction_Transfer-Money:T1
+A1	Realis E198 Actual
+T2	Manufacture_Artifact 558 563	build
+E284	Manufacture_Artifact:T2
+A2	Realis E284 Actual
+T3	Manufacture_Artifact 2199 2204	build
+E303	Manufacture_Artifact:T3
+A3	Realis E303 Actual
+T4	Manufacture_Artifact 1706 1714	building
+E344	Manufacture_Artifact:T4
+A4	Realis E344 Actual
+T5	Life_Marry 1527 1534	married
+E346	Life_Marry:T5
+A5	Realis E346 Actual
+T6	Transaction_Transfer-Money 2952 2958	bought
+E401	Transaction_Transfer-Money:T6
+A6	Realis E401 Actual
+T7	Transaction_Transfer-Ownership 2839 2845	giving
+E403	Transaction_Transfer-Ownership:T7
+A7	Realis E403 Other
+T8	Movement_Transport-Artifact 3649 3656	transit
+E407	Movement_Transport-Artifact:T8
+A8	Realis E407 Other
+T9	Transaction_Transfer-Ownership 2952 2958	bought
+E442	Transaction_Transfer-Ownership:T9
+A9	Realis E442 Actual
+T10	Manufacture_Artifact 3053 3058	build
+E448	Manufacture_Artifact:T10
+A10	Realis E448 Actual
+T11	Transaction_Transfer-Money 2011 2017	bought
+E524	Transaction_Transfer-Money:T11
+A11	Realis E524 Actual
+T12	Manufacture_Artifact 152 160	building
+E591	Manufacture_Artifact:T12
+A12	Realis E591 Actual
+T13	Transaction_Transfer-Ownership 457 463	bought
+E613	Transaction_Transfer-Ownership:T13
+A13	Realis E613 Actual
+T14	Manufacture_Artifact 2647 2655	building
+E615	Manufacture_Artifact:T14
+A14	Realis E615 Actual
+T15	Transaction_Transfer-Ownership 344 350	giving
+E639	Transaction_Transfer-Ownership:T15
+A15	Realis E639 Other
+T16	Contact_Correspondence 1477 1482	phone
+E651	Contact_Correspondence:T16
+A16	Realis E651 Generic
+T17	Manufacture_Artifact 3479 3482	put
+E712	Manufacture_Artifact:T17
+A17	Realis E712 Other
+T18	Manufacture_Artifact 3140 3145	build
+E722	Manufacture_Artifact:T18
+A18	Realis E722 Actual
+T19	Movement_Transport-Person 1944 1952	vacation
+E728	Movement_Transport-Person:T19
+A19	Realis E728 Other
+T20	Transaction_Transfer-Ownership 2011 2017	bought
+E741	Transaction_Transfer-Ownership:T20
+A20	Realis E741 Actual
+T21	Manufacture_Artifact 2112 2117	build
+E787	Manufacture_Artifact:T21
+A21	Realis E787 Actual
+T22	Transaction_Transfer-Ownership 1898 1904	giving
+E827	Transaction_Transfer-Ownership:T22
+A22	Realis E827 Other
+T23	Movement_Transport-Person 2885 2893	vacation
+E944	Movement_Transport-Person:T23
+A23	Realis E944 Other
+T24	Manufacture_Artifact 645 650	build
+E984	Manufacture_Artifact:T24
+A24	Realis E984 Actual
+T25	Movement_Transport-Person 390 398	vacation
+E999	Movement_Transport-Person:T25
+A25	Realis E999 Other

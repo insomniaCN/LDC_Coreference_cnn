@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea490000000000000011" doc_id="NYT_ENG_20130512.0033" source_type="newswire">
+  <event_mention id="em-33" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="2322" length="8">assigned</trigger>
+  </event_mention>
+  <event_mention id="em-61" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="1506" length="9">agreement</trigger>
+  </event_mention>
+  <event_mention id="em-69" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="3900" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-82" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130512.0033" offset="2537" length="9">step down</trigger>
+  </event_mention>
+  <event_mention id="em-111" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="2235" length="7">removed</trigger>
+  </event_mention>
+  <event_mention id="em-124" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="4300" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-136" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="2340" length="6">become</trigger>
+  </event_mention>
+  <event_mention id="em-210" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130512.0033" offset="733" length="7">retrial</trigger>
+  </event_mention>
+  <event_mention id="em-222" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="956" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-234" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="3026" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-241" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130512.0033" offset="3401" length="9">step down</trigger>
+  </event_mention>
+  <event_mention id="em-243" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="4582" length="10">reassigned</trigger>
+  </event_mention>
+  <event_mention id="em-273" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="3248" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-309" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130512.0033" offset="1203" length="9">appellate</trigger>
+  </event_mention>
+  <event_mention id="em-344" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130512.0033" offset="1441" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-357" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="3805" length="5">speak</trigger>
+  </event_mention>
+  <event_mention id="em-370" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="900" length="4">Mass</trigger>
+  </event_mention>
+  <event_mention id="em-377" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="4260" length="6">Masses</trigger>
+  </event_mention>
+  <event_mention id="em-384" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="3983" length="9">contacted</trigger>
+  </event_mention>
+  <event_mention id="em-391" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="4515" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-392" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="2013" length="9">appointed</trigger>
+  </event_mention>
+  <event_mention id="em-416" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="4714" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-431" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="750" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-447" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130512.0033" offset="1931" length="11">confessions</trigger>
+  </event_mention>
+  <event_mention id="em-450" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="4928" length="4">note</trigger>
+  </event_mention>
+  <event_mention id="em-458" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="2217" length="9">inquiries</trigger>
+  </event_mention>
+  <event_mention id="em-465" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="1297" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-473" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="3670" length="4">left</trigger>
+  </event_mention>
+  <event_mention id="em-502" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="1290" length="4">hear</trigger>
+  </event_mention>
+  <event_mention id="em-530" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="385" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-540" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="1584" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-550" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="4547" length="8">resigned</trigger>
+  </event_mention>
+  <event_mention id="em-573" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="4961" length="4">Mass</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130512.0033" offset="3735" length="6">return</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="2133" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-614" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="2604" length="9">published</trigger>
+  </event_mention>
+  <event_mention id="em-627" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="3780" length="4">trip</trigger>
+  </event_mention>
+  <event_mention id="em-677" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="1654" length="9">agreement</trigger>
+  </event_mention>
+  <event_mention id="em-707" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="4109" length="7">invited</trigger>
+  </event_mention>
+  <event_mention id="em-719" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130512.0033" offset="1096" length="10">encounters</trigger>
+  </event_mention>
+  <event_mention id="em-743" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130512.0033" offset="884" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-753" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="5111" length="8">services</trigger>
+  </event_mention>
+  <event_mention id="em-771" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="756" length="6">charge</trigger>
+  </event_mention>
+  <event_mention id="em-789" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="1234" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-800" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="3500" length="5">asked</trigger>
+  </event_mention>
+  <event_mention id="em-803" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="2109" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-809" type="personnel" subtype="elect" realis="generic">
+    <trigger source="NYT_ENG_20130512.0033" offset="3155" length="7">elected</trigger>
+  </event_mention>
+  <event_mention id="em-877" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="3573" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-882" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="2836" length="8">traveled</trigger>
+  </event_mention>
+  <event_mention id="em-891" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="1911" length="8">retreats</trigger>
+  </event_mention>
+  <event_mention id="em-912" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="1039" length="6">groped</trigger>
+  </event_mention>
+  <event_mention id="em-916" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="1831" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-935" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130512.0033" offset="2896" length="11">confessions</trigger>
+  </event_mention>
+  <event_mention id="em-969" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130512.0033" offset="2486" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-975" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130512.0033" offset="895" length="4">left</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130512.0033" offset="2826" length="8">retreats</trigger>
+  </event_mention>
+  <event_mention id="em-993" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130512.0033" offset="5071" length="2">be</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

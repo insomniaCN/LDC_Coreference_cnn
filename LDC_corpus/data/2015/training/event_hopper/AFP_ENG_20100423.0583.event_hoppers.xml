@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976270000000000000017" doc_id="AFP_ENG_20100423.0583" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-30" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100423.0583" offset="288" length="6">return</trigger>
+      </event_mention>
+      <event_mention id="em-43" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100423.0583" offset="87" length="5">leave</trigger>
+      </event_mention>
+      <event_mention id="em-56" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100423.0583" offset="716" length="6">return</trigger>
+      </event_mention>
+      <event_mention id="em-69" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100423.0583" offset="1087" length="5">leave</trigger>
+      </event_mention>
+      <event_mention id="em-82" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100423.0583" offset="2223" length="5">leave</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-95" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100423.0583" offset="662" length="4">came</trigger>
+      </event_mention>
+      <event_mention id="em-108" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100423.0583" offset="221" length="9">travelled</trigger>
+      </event_mention>
+      <event_mention id="em-121" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100423.0583" offset="921" length="9">travelled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-134" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20100423.0583" offset="1217" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-147" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20100423.0583" offset="1043" length="6">killer</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-160" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100423.0583" offset="1952" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-173" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20100423.0583" offset="2443" length="10">flood into</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-186" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20100423.0583" offset="1642" length="7">donated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-199" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20100423.0583" offset="823" length="9">statement</trigger>
+      </event_mention>
+      <event_mention id="em-264" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20100423.0583" offset="572" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-212" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100423.0583" offset="897" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-225" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20100423.0583" offset="1642" length="7">donated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-238" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100423.0583" offset="2172" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-251" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="spontaneous">
+        <trigger source="AFP_ENG_20100423.0583" offset="2401" length="7">advised</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-277">
+      <event_mention id="em-279" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100423.0583" offset="1079" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-292" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100423.0583" offset="2215" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

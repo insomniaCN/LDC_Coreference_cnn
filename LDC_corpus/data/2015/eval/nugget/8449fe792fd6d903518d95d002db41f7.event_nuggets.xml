@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaaf0000000000000179" doc_id="8449fe792fd6d903518d95d002db41f7" source_type="multi_post">
+  <event_mention id="em-4" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2408" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-25" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1233" length="4">fees</trigger>
+  </event_mention>
+  <event_mention id="em-43" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="3471" length="5">filed</trigger>
+  </event_mention>
+  <event_mention id="em-76" type="contact" subtype="meet" realis="generic" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="3979" length="6">debate</trigger>
+  </event_mention>
+  <event_mention id="em-81" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2382" length="14">demonstrations</trigger>
+  </event_mention>
+  <event_mention id="em-95" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1928" length="7">arrests</trigger>
+  </event_mention>
+  <event_mention id="em-119" type="personnel" subtype="elect" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="3698" length="4">vote</trigger>
+  </event_mention>
+  <event_mention id="em-193" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1856" length="4">sued</trigger>
+  </event_mention>
+  <event_mention id="em-208" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1610" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-216" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1738" length="4">sues</trigger>
+  </event_mention>
+  <event_mention id="em-228" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2594" length="14">demonstrations</trigger>
+  </event_mention>
+  <event_mention id="em-240" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1261" length="6">donate</trigger>
+  </event_mention>
+  <event_mention id="em-245" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1141" length="6">trials</trigger>
+  </event_mention>
+  <event_mention id="em-247" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2144" length="13">demonstrators</trigger>
+  </event_mention>
+  <event_mention id="em-290" type="contact" subtype="meet" realis="generic" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2891" length="5">forum</trigger>
+  </event_mention>
+  <event_mention id="em-302" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1219" length="4">fees</trigger>
+  </event_mention>
+  <event_mention id="em-331" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2252" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-430" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="185" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-556" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2092" length="10">complaints</trigger>
+  </event_mention>
+  <event_mention id="em-558" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2703" length="7">arrests</trigger>
+  </event_mention>
+  <event_mention id="em-696" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="467" length="10">sing along</trigger>
+  </event_mention>
+  <event_mention id="em-732" type="justice" subtype="fine" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2401" length="6">fining</trigger>
+  </event_mention>
+  <event_mention id="em-743" type="justice" subtype="fine" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2689" length="9">ticketing</trigger>
+  </event_mention>
+  <event_mention id="em-756" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1992" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-815" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="394" length="6">filing</trigger>
+  </event_mention>
+  <event_mention id="em-826" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="3419" length="10">sing along</trigger>
+  </event_mention>
+  <event_mention id="em-854" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1762" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-863" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="1949" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-889" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2812" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-982" type="justice" subtype="sue" realis="actual">
+    <trigger source="8449fe792fd6d903518d95d002db41f7" offset="2442" length="7">lawsuit</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,27 @@
+T1	Personnel_End-Position 1011 1015	left
+E48	Personnel_End-Position:T1
+A1	Realis E48 Actual
+T2	Personnel_Start-Position 393 402	take over
+E166	Personnel_Start-Position:T2
+A2	Realis E166 Other
+T3	Contact_Meet 610 617	testify
+E197	Contact_Meet:T3
+A3	Realis E197 Other
+T4	Personnel_End-Position 869 877	resigned
+E352	Personnel_End-Position:T4
+A4	Realis E352 Actual
+T5	Personnel_Nominate 382 389	nominee
+E629	Personnel_Nominate:T5
+A5	Realis E629 Actual
+T6	Contact_Meet 744 752	hearings
+E633	Contact_Meet:T6
+A6	Realis E633 Other
+T7	Personnel_Start-Position 1169 1178	confirmed
+E680	Personnel_Start-Position:T7
+A7	Realis E680 Actual
+T8	Personnel_Nominate 229 236	nominee
+E809	Personnel_Nominate:T8
+A8	Realis E809 Actual
+T9	Personnel_Start-Position 802 809	replace
+E854	Personnel_Start-Position:T9
+A9	Realis E854 Other

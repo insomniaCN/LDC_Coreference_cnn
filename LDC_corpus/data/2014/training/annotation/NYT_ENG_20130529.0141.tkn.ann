@@ -1,0 +1,141 @@
+T1	Justice_Charge-Indict 209 216	CHARGED
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Life_Die 230 237	KILLING
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 241 250	CONVICTED
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 363 371	shooting
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Die 372 377	death
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Justice_Convict 416 425	convicted
+E6	Justice_Convict:T6 
+A6	Realis E6 Actual
+T7	Justice_Convict 530 539	convicted
+E7	Justice_Convict:T7 
+A7	Realis E7 Actual
+T8	Justice_Trial-Hearing 601 606	trial
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 794 801	fleeing
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 818 825	arrived
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 857 861	shot
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Justice_Convict 937 946	convicted
+E12	Justice_Convict:T12 
+A12	Realis E12 Actual
+T13	Life_Die 950 956	murder
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Life_Die 997 1003	killed
+E14	Life_Die:T14 
+A14	Realis E14 Generic
+T15	Justice_Charge-Indict 1065 1072	charged
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Generic
+T16	Life_Die 1078 1084	murder
+E16	Life_Die:T16 
+A16	Realis E16 Generic
+T17	Life_Die 1123 1128	death
+E17	Life_Die:T17 
+A17	Realis E17 Generic
+T18	Justice_Convict 1254 1268	guilty verdict
+E18	Justice_Convict:T18 
+A18	Realis E18 Actual
+T19	Justice_Appeal 1391 1397	appeal
+E19	Justice_Appeal:T19 
+A19	Realis E19 Other
+T20	Movement_Transport-Person 1433 1441	led away
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual
+T21	Justice_Convict 1630 1640	conviction
+E21	Justice_Convict:T21 
+A21	Realis E21 Actual
+T22	Life_Die 1703 1708	death
+E22	Life_Die:T22 
+A22	Realis E22 Actual
+T23	Justice_Convict 1809 1818	convicted
+E23	Justice_Convict:T23 
+A23	Realis E23 Actual
+T24	Justice_Trial-Hearing 1861 1866	trial
+E24	Justice_Trial-Hearing:T24 
+A24	Realis E24 Actual
+T25	Justice_Convict 1879 1888	convicted
+E25	Justice_Convict:T25 
+A25	Realis E25 Actual
+T26	Justice_Acquit 2003 2012	acquitted
+E26	Justice_Acquit:T26 
+A26	Realis E26 Actual
+T27	Justice_Trial-Hearing 2127 2133	trials
+E27	Justice_Trial-Hearing:T27 
+A27	Realis E27 Actual
+T28	Movement_Transport-Person 2443 2448	drove
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 2582 2589	arrived
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Actual
+T30	Movement_Transport-Person 3092 3101	coming in
+E30	Movement_Transport-Person:T30 
+A30	Realis E30 Actual
+T31	Justice_Sentence 3355 3364	sentenced
+E31	Justice_Sentence:T31 
+A31	Realis E31 Other
+T32	Justice_Sentence 3397 3405	sentence
+E32	Justice_Sentence:T32 
+A32	Realis E32 Other
+T33	Transaction_Transfer-Ownership 339 346	robbery
+E33	Transaction_Transfer-Ownership:T33 
+A33	Realis E33 Other
+T34	Life_Die 445 451	murder
+E34	Life_Die:T34 
+A34	Realis E34 Actual
+T35	Transaction_Transfer-Ownership 456 464	burglary
+E35	Transaction_Transfer-Ownership:T35 
+A35	Realis E35 Generic
+T36	Transaction_Transfer-Ownership 511 518	robbery
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Generic
+T37	Movement_Transport-Person 661 671	barge into
+E37	Movement_Transport-Person:T37 
+A37	Realis E37 Actual
+T38	Justice_Trial-Hearing 1672 1677	trial
+E38	Justice_Trial-Hearing:T38 
+A38	Realis E38 Actual
+T39	Justice_Trial-Hearing 1748 1753	tried
+E39	Justice_Trial-Hearing:T39 
+A39	Realis E39 Actual
+T40	Life_Die 1838 1844	murder
+E40	Life_Die:T40 
+A40	Realis E40 Actual
+T41	Life_Die 1892 1898	murder
+E41	Life_Die:T41 
+A41	Realis E41 Actual
+T42	Movement_Transport-Person 1921 1926;1938 1940	drove to
+E42	Movement_Transport-Person:T42 
+A42	Realis E42 Actual
+T43	Justice_Arrest-Jail 3429 3435	prison
+E43	Justice_Arrest-Jail:T43 
+A43	Realis E43 Generic
+T44	Conflict_Attack 2599 2606	tussled
+E44	Conflict_Attack:T44 
+A44	Realis E44 Actual
+T45	Movement_Transport-Person 2664 2677	sprinting off
+E45	Movement_Transport-Person:T45 
+A45	Realis E45 Actual
+T46	Movement_Transport-Person 2965 2968	ran
+E46	Movement_Transport-Person:T46 
+A46	Realis E46 Actual
+T47	Conflict_Attack 3008 3015	gunshot
+E47	Conflict_Attack:T47 
+A47	Realis E47 Actual

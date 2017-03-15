@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea620000000000000045" doc_id="NYT_ENG_20130709.0101" source_type="newswire">
+  <event_mention id="em-84" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="2492" length="6">saying</trigger>
+  </event_mention>
+  <event_mention id="em-98" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="1104" length="3">ask</trigger>
+  </event_mention>
+  <event_mention id="em-101" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="2830" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-121" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130709.0101" offset="1493" length="7">retired</trigger>
+  </event_mention>
+  <event_mention id="em-124" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1627" length="9">retrieved</trigger>
+  </event_mention>
+  <event_mention id="em-138" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="870" length="4">says</trigger>
+  </event_mention>
+  <event_mention id="em-187" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130709.0101" offset="471" length="11">frequenting</trigger>
+  </event_mention>
+  <event_mention id="em-221" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="608" length="10">transplant</trigger>
+  </event_mention>
+  <event_mention id="em-274" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="898" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-290" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="2334" length="3">won</trigger>
+  </event_mention>
+  <event_mention id="em-299" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1585" length="10">transplant</trigger>
+  </event_mention>
+  <event_mention id="em-307" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1966" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-322" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1923" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-350" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="3215" length="4">lose</trigger>
+  </event_mention>
+  <event_mention id="em-390" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130709.0101" offset="2484" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-403" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130709.0101" offset="1501" length="2">to</trigger>
+  </event_mention>
+  <event_mention id="em-415" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="NYT_ENG_20130709.0101" offset="2161" length="9">reclaimed</trigger>
+  </event_mention>
+  <event_mention id="em-432" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1685" length="5">costs</trigger>
+  </event_mention>
+  <event_mention id="em-465" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="2104" length="4">sent</trigger>
+  </event_mention>
+  <event_mention id="em-472" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="1846" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-488" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1966" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-513" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="2933" length="6">cashed</trigger>
+  </event_mention>
+  <event_mention id="em-548" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130709.0101" offset="1382" length="5">trips</trigger>
+  </event_mention>
+  <event_mention id="em-608" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="989" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-623" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1450" length="7">stashed</trigger>
+  </event_mention>
+  <event_mention id="em-649" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1075" length="4">give</trigger>
+  </event_mention>
+  <event_mention id="em-662" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130709.0101" offset="3111" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-665" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="2611" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-675" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1037" length="4">give</trigger>
+  </event_mention>
+  <event_mention id="em-677" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="3176" length="4">fees</trigger>
+  </event_mention>
+  <event_mention id="em-686" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="1781" length="8">notified</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130709.0101" offset="2134" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-735" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130709.0101" offset="1923" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-794" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130709.0101" offset="2257" length="8">reported</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

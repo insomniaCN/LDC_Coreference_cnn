@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589761e0000000000000004" doc_id="AFP_ENG_20090906.0009" source_type="newswire">
+<event_mention id="em-28" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20090906.0009" offset="322" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-41" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20090906.0009" offset="604" length="6">letter</trigger>
+      </event_mention>
+<event_mention id="em-54" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090906.0009" offset="739" length="7">consult</trigger>
+      </event_mention>
+<event_mention id="em-67" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20090906.0009" offset="995" length="4">suit</trigger>
+      </event_mention>
+<event_mention id="em-80" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20090906.0009" offset="1100" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-93" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20090906.0009" offset="1226" length="7">revenue</trigger>
+      </event_mention>
+<event_mention id="em-106" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20090906.0009" offset="1239" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-119" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="AFP_ENG_20090906.0009" offset="1498" length="8">hearings</trigger>
+      </event_mention>
+<event_mention id="em-132" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20090906.0009" offset="1239" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-145" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090906.0009" offset="1339" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-158" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090906.0009" offset="1580" length="7">comment</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

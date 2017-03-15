@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000638" doc_id="bolt-eng-DF-212-191668-3064026" source_type="multi_post">
+<event_mention id="em-10" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="306" length="4">riot</trigger>
+      </event_mention>
+<event_mention id="em-25" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="413" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-40" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="79" length="5">clash</trigger>
+      </event_mention>
+<event_mention id="em-53" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="190" length="5">clash</trigger>
+      </event_mention>
+<event_mention id="em-66" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="246" length="5">clash</trigger>
+      </event_mention>
+<event_mention id="em-79" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="347" length="5">given</trigger>
+      </event_mention>
+<event_mention id="em-96" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="363" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-109" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="363" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-122" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="376" length="4">riot</trigger>
+      </event_mention>
+<event_mention id="em-137" type="life" subtype="injure" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="506" length="7">injured</trigger>
+      </event_mention>
+<event_mention id="em-152" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="626" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-165" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="626" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-178" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="646" length="12">transporting</trigger>
+      </event_mention>
+<event_mention id="em-193" type="justice" subtype="fine" realis="generic">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="1015" length="6">fining</trigger>
+      </event_mention>
+<event_mention id="em-208" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="1015" length="6">fining</trigger>
+      </event_mention>
+<event_mention id="em-221" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="1340" length="6">rioted</trigger>
+      </event_mention>
+<event_mention id="em-234" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="1655" length="6">deport</trigger>
+      </event_mention>
+<event_mention id="em-251" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="1655" length="6">deport</trigger>
+      </event_mention>
+<event_mention id="em-264" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2079" length="5">clash</trigger>
+      </event_mention>
+<event_mention id="em-277" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2145" length="7">clashed</trigger>
+      </event_mention>
+<event_mention id="em-290" type="life" subtype="injure" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2253" length="7">injured</trigger>
+      </event_mention>
+<event_mention id="em-303" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2286" length="8">reported</trigger>
+      </event_mention>
+<event_mention id="em-316" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2336" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-329" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2385" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-342" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2385" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-355" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2444" length="7">deliver</trigger>
+      </event_mention>
+<event_mention id="em-368" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2464" length="5">clash</trigger>
+      </event_mention>
+<event_mention id="em-381" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2485" length="4">riot</trigger>
+      </event_mention>
+<event_mention id="em-394" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2532" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-407" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2672" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-422" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2721" length="6">rushed</trigger>
+      </event_mention>
+<event_mention id="em-437" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2773" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-450" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2810" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-463" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2897" length="7">visited</trigger>
+      </event_mention>
+<event_mention id="em-478" type="life" subtype="injure" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2909" length="7">injured</trigger>
+      </event_mention>
+<event_mention id="em-493" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3139" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-508" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3139" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-521" type="transaction" subtype="transferownership" realis="actual" ways="canttell">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3160" length="10">confiscate</trigger>
+      </event_mention>
+<event_mention id="em-536" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3327" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-551" type="justice" subtype="fine" realis="generic">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3557" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-566" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3557" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-579" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3850" length="6">rioted</trigger>
+      </event_mention>
+<event_mention id="em-592" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3961" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-605" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="3961" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-618" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191668-3064026" offset="2897" length="7">visited</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

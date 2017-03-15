@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea540000000000000024" doc_id="NYT_ENG_20130527.0112" source_type="newswire">
+  <event_mention id="em-8" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="742" length="11">deal-making</trigger>
+  </event_mention>
+  <event_mention id="em-36" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2841" length="4">deal</trigger>
+  </event_mention>
+  <event_mention id="em-74" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="NYT_ENG_20130527.0112" offset="2796" length="9">drugmaker</trigger>
+  </event_mention>
+  <event_mention id="em-89" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1919" length="6">buyout</trigger>
+  </event_mention>
+  <event_mention id="em-91" type="business" subtype="mergeorg" realis="generic">
+    <trigger source="NYT_ENG_20130527.0112" offset="877" length="6">merger</trigger>
+  </event_mention>
+  <event_mention id="em-95" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="512" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-103" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="713" length="4">deal</trigger>
+  </event_mention>
+  <event_mention id="em-126" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="536" length="8">investor</trigger>
+  </event_mention>
+  <event_mention id="em-137" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="972" length="9">takeovers</trigger>
+  </event_mention>
+  <event_mention id="em-186" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1919" length="6">buyout</trigger>
+  </event_mention>
+  <event_mention id="em-201" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2751" length="8">takeover</trigger>
+  </event_mention>
+  <event_mention id="em-214" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="183" length="3">BUY</trigger>
+  </event_mention>
+  <event_mention id="em-228" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2328" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-258" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="308" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-269" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="183" length="3">BUY</trigger>
+  </event_mention>
+  <event_mention id="em-272" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1830" length="8">takeover</trigger>
+  </event_mention>
+  <event_mention id="em-281" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2099" length="8">investor</trigger>
+  </event_mention>
+  <event_mention id="em-283" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="3343" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-315" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="3644" length="11">deal-making</trigger>
+  </event_mention>
+  <event_mention id="em-361" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2011" length="8">dividend</trigger>
+  </event_mention>
+  <event_mention id="em-376" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1217" length="8">purchase</trigger>
+  </event_mention>
+  <event_mention id="em-426" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1599" length="7">revenue</trigger>
+  </event_mention>
+  <event_mention id="em-471" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="3343" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-509" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0112" offset="2419" length="5">talks</trigger>
+  </event_mention>
+  <event_mention id="em-517" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0112" offset="867" length="9">Announced</trigger>
+  </event_mention>
+  <event_mention id="em-534" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2557" length="6">paying</trigger>
+  </event_mention>
+  <event_mention id="em-567" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="3386" length="11">transaction</trigger>
+  </event_mention>
+  <event_mention id="em-591" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2136" length="4">deal</trigger>
+  </event_mention>
+  <event_mention id="em-610" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1065" length="12">acquisitions</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2987" length="11">transaction</trigger>
+  </event_mention>
+  <event_mention id="em-707" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="804" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-711" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130527.0112" offset="1328" length="5">maker</trigger>
+  </event_mention>
+  <event_mention id="em-748" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="694" length="4">debt</trigger>
+  </event_mention>
+  <event_mention id="em-763" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="640" length="5">spend</trigger>
+  </event_mention>
+  <event_mention id="em-764" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="493" length="4">deal</trigger>
+  </event_mention>
+  <event_mention id="em-794" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2328" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-820" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1294" length="6">Adding</trigger>
+  </event_mention>
+  <event_mention id="em-836" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="3256" length="10">investment</trigger>
+  </event_mention>
+  <event_mention id="em-837" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2038" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-852" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="668" length="5">repay</trigger>
+  </event_mention>
+  <event_mention id="em-856" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1857" length="6">payday</trigger>
+  </event_mention>
+  <event_mention id="em-859" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="3626" length="12">acquisitions</trigger>
+  </event_mention>
+  <event_mention id="em-894" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="308" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-899" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2179" length="6">return</trigger>
+  </event_mention>
+  <event_mention id="em-913" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1136" length="4">deal</trigger>
+  </event_mention>
+  <event_mention id="em-973" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0112" offset="1733" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-996" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0112" offset="2881" length="5">talks</trigger>
+  </event_mention>
+  <event_mention id="em-997" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="2225" length="10">investment</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130527.0112" offset="1217" length="8">purchase</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130731.0159" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130731/20130731,8d85707faeb3e80cf82d123d3261818f.xml">
+<HEADLINE>
+3 PENN STATE OFFICIALS ARE ORDERED TO STAND TRIAL
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+Three former high-ranking Penn State officials, including the university’s former president, Graham B. Spanier, were ordered Tuesday to stand trial on charges that they were part of a cover-up related to the child sexual abuse scandal involving former football coach Jerry Sandusky.
+</P>
+<P>
+After a two-day preliminary hearing this week, Harrisburg District Judge William Werner decided there was enough evidence against Spanier, retired university vice president Gary Schultz and former athletic director Tim Curley to proceed with a trial, which could start later this year. That would be the next public chapter of the scandal, which threw the university and its most prominent athletic program into turmoil. Two weeks ago, Penn State’s board of trustees authorized the payment of about $60 million to settle claims made by dozens of Sandusky’s victims.
+</P>
+<P>
+The numerous charges against the men include perjury, conspiracy and endangering the welfare of children. During the preliminary hearing, prosecutors accused the men of knowing of abuse allegations against Sandusky but failing to properly report them. They are also accused of hiding information from investigators and lying to a grand jury.
+</P>
+<P>
+The allegations stem from an incident in 2001, in which former Penn State assistant coach Mike McQueary said he saw Sandusky molesting a boy in a university shower. At Sandusky’s trial, McQueary testified that he reported the incident to Joe Paterno - Penn State’s famed former coach - Curley and Schultz. Curley and Schultz have said McQueary did not make it clear the act was sexual in nature. Spanier denied knowing the full nature of the incident.
+</P>
+<P>
+But emails between the three men revealed that Spanier, Curley and Schultz had decided in 2001 to confront Sandusky themselves, instead of reporting the allegations.
+</P>
+<P>
+“The only downside for us is if the message isn’t 'heard’ and acted upon, and we then become vulnerable for not having reported it,” Spanier wrote at the time. The emails also included discussion of abuse allegations against Sandusky from 1998. Spanier had testified to a grand jury that he had not been aware of the 1998 allegations.
+</P>
+<P>
+McQueary testified this week that Paterno had told him that the university botched its response to the Sandusky scandal and warned him that he would be made the scapegoat.
+</P>
+<P>
+McQueary said Paterno told him, “Old Main screwed up,” referencing the landmark campus building that houses the offices of the president and other administrators.
+</P>
+</TEXT>
+</DOC>

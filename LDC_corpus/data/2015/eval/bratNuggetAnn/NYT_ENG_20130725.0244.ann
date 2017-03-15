@@ -1,0 +1,216 @@
+T1	Contact_Contact 3779 3789	complaints
+E3	Contact_Contact:T1
+A1	Realis E3 Other
+T2	Transaction_Transfer-Money 1095 1104	mortgages
+E8	Transaction_Transfer-Money:T2
+A2	Realis E8 Generic
+T3	Contact_Contact 3229 3239	complaints
+E46	Contact_Contact:T3
+A3	Realis E46 Other
+T4	Transaction_Transfer-Money 1712 1715	pay
+E64	Transaction_Transfer-Money:T4
+A4	Realis E64 Generic
+T5	Contact_Contact 2201 2205	said
+E71	Contact_Contact:T5
+A5	Realis E71 Actual
+T6	Transaction_Transfer-Money 3481 3490	refinance
+E86	Transaction_Transfer-Money:T6
+A6	Realis E86 Actual
+T7	Transaction_Transfer-Money 1660 1664	loan
+E88	Transaction_Transfer-Money:T7
+A7	Realis E88 Generic
+T8	Transaction_Transfer-Money 938 945	lenders
+E91	Transaction_Transfer-Money:T8
+A8	Realis E91 Generic
+T9	Transaction_Transfer-Money 4602 4606	sale
+E110	Transaction_Transfer-Money:T9
+A9	Realis E110 Other
+T10	Transaction_Transfer-Money 179 185	lender
+E140	Transaction_Transfer-Money:T10
+A10	Realis E140 Generic
+T11	Contact_Correspondence 2035 2039	Call
+E176	Contact_Correspondence:T11
+A11	Realis E176 Generic
+T12	Personnel_End-Position 1515 1521	layoff
+E201	Personnel_End-Position:T12
+A12	Realis E201 Other
+T13	Transaction_Transfer-Money 4248 4259	refinancers
+E207	Transaction_Transfer-Money:T13
+A13	Realis E207 Generic
+T14	Transaction_Transfer-Ownership 4414 4420	bought
+E225	Transaction_Transfer-Ownership:T14
+A14	Realis E225 Actual
+T15	Contact_Contact 3853 3863	complaints
+E226	Contact_Contact:T15
+A15	Realis E226 Other
+T16	Justice_Fine 1890 1894	fine
+E227	Justice_Fine:T16
+A16	Realis E227 Actual
+T17	Transaction_Transfer-Money 4278 4283	loans
+E248	Transaction_Transfer-Money:T17
+A17	Realis E248 Generic
+T18	Contact_Correspondence 1642 1646	call
+E250	Contact_Correspondence:T18
+A18	Realis E250 Generic
+T19	Personnel_End-Position 1628 1634	worked
+E271	Personnel_End-Position:T19
+A19	Realis E271 Other
+T20	Transaction_Transfer-Money 3158 3162	loan
+E275	Transaction_Transfer-Money:T20
+A20	Realis E275 Generic
+T21	Transaction_Transfer-Money 1870 1876	lender
+E326	Transaction_Transfer-Money:T21
+A21	Realis E326 Generic
+T22	Transaction_Transfer-Money 4614 4622	mortgage
+E358	Transaction_Transfer-Money:T22
+A22	Realis E358 Generic
+T23	Contact_Correspondence 680 684	Call
+E379	Contact_Correspondence:T23
+A23	Realis E379 Generic
+T24	Transaction_Transfer-Money 2468 2477	mortgages
+E398	Transaction_Transfer-Money:T24
+A24	Realis E398 Generic
+T25	Contact_Contact 3183 3192	complaint
+E406	Contact_Contact:T25
+A25	Realis E406 Other
+T26	Personnel_End-Position 1294 1300	layoff
+E439	Personnel_End-Position:T26
+A26	Realis E439 Other
+T27	Contact_Contact 4561 4565	said
+E464	Contact_Contact:T27
+A27	Realis E464 Actual
+T28	Contact_Correspondence 4068 4073	heard
+E468	Contact_Correspondence:T28
+A28	Realis E468 Other
+T29	Contact_Correspondence 2816 2820	Call
+E487	Contact_Correspondence:T29
+A29	Realis E487 Generic
+T30	Justice_Charge-Indict 2693 2700	charges
+E506	Justice_Charge-Indict:T30
+A30	Realis E506 Actual
+T31	Transaction_Transfer-Money 2390 2394	loan
+E521	Transaction_Transfer-Money:T31
+A31	Realis E521 Generic
+T32	Personnel_End-Position 324 334	laying off
+E529	Personnel_End-Position:T32
+A32	Realis E529 Other
+T33	Personnel_End-Position 186 192	losing
+E546	Personnel_End-Position:T33
+A33	Realis E546 Other
+T34	Business_Start-Org 4168 4175	Founded
+E564	Business_Start-Org:T34
+A34	Realis E564 Actual
+T35	Transaction_Transfer-Ownership 1242 1248	buyers
+E573	Transaction_Transfer-Ownership:T35
+A35	Realis E573 Generic
+T36	Contact_Contact 4141 4145	chat
+E579	Contact_Contact:T36
+A36	Realis E579 Other
+T37	Transaction_Transfer-Money 1227 1234	sellers
+E580	Transaction_Transfer-Money:T37
+A37	Realis E580 Generic
+T38	Transaction_Transfer-Money 3634 3642	payments
+E585	Transaction_Transfer-Money:T38
+A38	Realis E585 Actual
+T39	Contact_Contact 2998 3008	complaints
+E592	Contact_Contact:T39
+A39	Realis E592 Actual
+T40	Transaction_Transfer-Money 2583 2586	pay
+E610	Transaction_Transfer-Money:T40
+A40	Realis E610 Generic
+T41	Personnel_End-Position 4580 4586	retire
+E612	Personnel_End-Position:T41
+A41	Realis E612 Other
+T42	Transaction_Transfer-Money 823 831	mortgage
+E619	Transaction_Transfer-Money:T42
+A42	Realis E619 Generic
+T43	Transaction_Transfer-Money 2934 2942	mortgage
+E640	Transaction_Transfer-Money:T43
+A43	Realis E640 Generic
+T44	Transaction_Transfer-Money 2063 2067	loan
+E645	Transaction_Transfer-Money:T44
+A44	Realis E645 Generic
+T45	Contact_Contact 526 535	interview
+E665	Contact_Contact:T45
+A45	Realis E665 Actual
+T46	Transaction_Transfer-Money 1141 1149	mortgage
+E675	Transaction_Transfer-Money:T46
+A46	Realis E675 Generic
+T47	Transaction_Transfer-Money 268 274	lender
+E677	Transaction_Transfer-Money:T47
+A47	Realis E677 Generic
+T48	Transaction_Transfer-Money 3691 3698	payment
+E691	Transaction_Transfer-Money:T48
+A48	Realis E691 Actual
+T49	Transaction_Transaction 1720 1728	benefits
+E751	Transaction_Transaction:T49
+A49	Realis E751 Generic
+T50	Transaction_Transfer-Money 3893 3897	loan
+E755	Transaction_Transfer-Money:T50
+A50	Realis E755 Generic
+T51	Transaction_Transfer-Money 832 844	refinancings
+E766	Transaction_Transfer-Money:T51
+A51	Realis E766 Generic
+T52	Contact_Correspondence 631 638	calling
+E772	Contact_Correspondence:T52
+A52	Realis E772 Actual
+T53	Personnel_End-Position 1434 1438	lose
+E774	Personnel_End-Position:T53
+A53	Realis E774 Other
+T54	Transaction_Transfer-Money 4414 4420	bought
+E778	Transaction_Transfer-Money:T54
+A54	Realis E778 Actual
+T55	Contact_Correspondence 1969 1975	called
+E799	Contact_Correspondence:T55
+A55	Realis E799 Actual
+T56	Contact_Correspondence 2206 2219	telemarketers
+E808	Contact_Correspondence:T56
+A56	Realis E808 Actual
+T57	Transaction_Transfer-Money 2295 2304	mortgages
+E814	Transaction_Transfer-Money:T57
+A57	Realis E814 Generic
+T58	Contact_Contact 591 601	complaints
+E855	Contact_Contact:T58
+A58	Realis E855 Actual
+T59	Transaction_Transfer-Money 2516 2524	payments
+E856	Transaction_Transfer-Money:T59
+A59	Realis E856 Generic
+T60	Contact_Correspondence 1930 1934	Call
+E859	Contact_Correspondence:T60
+A60	Realis E859 Generic
+T61	Contact_Contact 3103 3111	postings
+E876	Contact_Contact:T61
+A61	Realis E876 Actual
+T62	Personnel_End-Position 922 929	layoffs
+E883	Personnel_End-Position:T62
+A62	Realis E883 Generic
+T63	Transaction_Transfer-Ownership 1227 1234	sellers
+E885	Transaction_Transfer-Ownership:T63
+A63	Realis E885 Generic
+T64	Transaction_Transfer-Money 4304 4312	mortgage
+E899	Transaction_Transfer-Money:T64
+A64	Realis E899 Generic
+T65	Contact_Contact 3339 3349	complained
+E907	Contact_Contact:T65
+A65	Realis E907 Actual
+T66	Contact_Contact 3463 3467	said
+E910	Contact_Contact:T66
+A66	Realis E910 Actual
+T67	Transaction_Transfer-Money 1242 1248	buyers
+E929	Transaction_Transfer-Money:T67
+A67	Realis E929 Generic
+T68	Transaction_Transfer-Money 2068 2079	refinancing
+E942	Transaction_Transfer-Money:T68
+A68	Realis E942 Generic
+T69	Justice_Fine 1834 1841	penalty
+E947	Justice_Fine:T69
+A69	Realis E947 Actual
+T70	Contact_Contact 3306 3312	talked
+E967	Contact_Contact:T70
+A70	Realis E967 Actual
+T71	Personnel_End-Position 2104 2110	former
+E982	Personnel_End-Position:T71
+A71	Realis E982 Actual
+T72	Transaction_Transfer-Ownership 4602 4606	sale
+E997	Transaction_Transfer-Ownership:T72
+A72	Realis E997 Other

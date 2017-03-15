@@ -1,0 +1,30 @@
+T1	Justice_Fine 113 117	fine
+E1	Justice_Fine:T1 
+A1	Realis E1 Other
+T2	Justice_Fine 353 357	fine
+E2	Justice_Fine:T2 
+A2	Realis E2 Other
+T3	Justice_Fine 534 539	fined
+E3	Justice_Fine:T3 
+A3	Realis E3 Other
+T4	Justice_Fine 632 636	fine
+E4	Justice_Fine:T4 
+A4	Realis E4 Actual
+T5	Justice_Fine 865 869	fine
+E5	Justice_Fine:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Money 1483 1489	refund
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Justice_Fine 1663 1668	fined
+E7	Justice_Fine:T7 
+A7	Realis E7 Other
+T8	Justice_Fine 1720 1725	fined
+E8	Justice_Fine:T8 
+A8	Realis E8 Other
+T9	Justice_Fine 1851 1855	fine
+E9	Justice_Fine:T9 
+A9	Realis E9 Other
+T10	Justice_Fine 1948 1953	fines
+E10	Justice_Fine:T10 
+A10	Realis E10 Other

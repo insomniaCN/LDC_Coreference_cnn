@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130629.0005" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130629/20130629,050f01e79684dd17f927bba8c574074a.xml">
+<HEADLINE>
+TEXAS RECORDS FINAL WORDS, BUT THEIR POWER IS UNCERTAIN
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+HUNTSVILLE, Texas - Karl Eugene Chamberlain went to his neighbor’s apartment that night in Dallas under the pretense of borrowing sugar. He returned later, forced her into a bedroom, bound her hands and feet, raped her and then used a rifle to shoot and kill her. His victim, Felecia Prechtl, 29, was a single mother with a 5-year-old son.
+</P>
+<P>
+Eleven years after he was convicted of capital murder, Chamberlain, 37, was strapped to a gurney in Texas’ execution chamber at the Walls Unit prison here and was asked by a warden if he had any last words. “Thank you for being here today to honor Felecia Prechtl, whom I didn’t even know,” he told her son, parents and brother on June 11, 2008. “I am so terribly sorry. I wish I could die more than once to tell you how sorry I am.”
+</P>
+<P>
+His words did not die with him. Texas wrote them down, kept them and posted them on the Internet.
+</P>
+<P>
+The state with the busiest death chamber in America publishes the final statements of the inmates it has executed on a prison agency website, a kind of public catalog of the rantings, apologies, prayers, claims of innocence and confessions of hundreds of men and women in the minutes before their deaths.
+</P>
+<P>
+The condemned praised Allah and Jesus and Sant Ajaib Singh Ji, a Sikh master. Three cheered for their favorite sports teams, including Jesse Hernandez, whose execution last year made headlines after he shouted, “Go Cowboys!”
+</P>
+<P>
+The execution on Wednesday of Kimberly McCarthy - a 52-year-old woman convicted of robbing, beating and fatally stabbing a retired psychology professor near Dallas - was the 500th in Texas since December 1982, when the state resumed capital punishment after the Supreme Court reinstated the death penalty in 1976.
+</P>
+<P>
+The state’s execution record has often been criticized. But three decades of last statements by inmates reveal a glimmer of the humanity behind those anonymous numbers.
+</P>
+<P>
+“It’s kind of mesmerizing to read through these,” said Robert Perkinson, the author of “Texas Tough: The Rise of America’s Prison Empire” and a professor at the University of Hawaii at Manoa. “Most people about to be executed haven’t had a lot of success in school or life. They’re not always so skilled at articulating themselves. There are plenty of clichés, sometimes peculiar ones, like the Cowboys reference. But I think many of these individuals are also striving to say something poignant, worthy of the existential occasion.”
+</P>
+</TEXT>
+</DOC>

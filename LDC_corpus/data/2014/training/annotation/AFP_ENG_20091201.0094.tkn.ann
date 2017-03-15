@@ -1,0 +1,38 @@
+T1	Justice_Arrest-Jail 210 214	jail
+E1	Justice_Arrest-Jail:T1 
+A1	Questionable E1 Realis
+A2	Realis E1 Other
+T2	Personnel_Elect 357 367	reelection
+E2	Personnel_Elect:T2 
+A3	Realis E2 Actual
+T3	Justice_Arrest-Jail 498 504	jailed
+E3	Justice_Arrest-Jail:T3 
+A4	Realis E3 Other
+T4	Justice_Arrest-Jail 598 602	jail
+E4	Justice_Arrest-Jail:T4 
+A5	Realis E4 Other
+T6	Justice_Arrest-Jail 856 864	detained
+E6	Justice_Arrest-Jail:T6 
+A7	Realis E6 Actual
+T8	Transaction_Transfer-Money 976 981	steal
+E8	Transaction_Transfer-Money:T8 
+A9	Realis E8 Other
+T9	Personnel_Elect 1102 1111	reelected
+E9	Personnel_Elect:T9 
+A10	Realis E9 Actual
+T11	Personnel_Elect 1365 1372	elected
+E11	Personnel_Elect:T11 
+A12	Realis E11 Actual
+T5	Personnel_Elect 1446 1453	elected
+E5	Personnel_Elect:T5 
+A6	Realis E5 Actual
+T10	Personnel_Elect 379 388	elections
+E10	Personnel_Elect:T10 
+A11	Realis E10 Other
+T12	Personnel_Elect 661 670	elections
+E12	Personnel_Elect:T12 
+A13	Realis E12 Other
+A8	Questionable E8 Realis
+T7	Personnel_End-Position 1622 1628	former
+E7	Personnel_End-Position:T7 
+A14	Realis E7 Actual

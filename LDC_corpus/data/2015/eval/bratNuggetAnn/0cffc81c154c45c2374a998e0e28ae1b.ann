@@ -1,0 +1,30 @@
+T1	Life_Injure 518 526	injuries
+E191	Life_Injure:T1
+A1	Realis E191 Generic
+T2	Personnel_End-Position 630 636	former
+E211	Personnel_End-Position:T2
+A2	Realis E211 Actual
+T3	Justice_Sue 585 589	suit
+E437	Justice_Sue:T3
+A3	Realis E437 Actual
+T4	Life_Injure 729 740	concussions
+E479	Life_Injure:T4
+A4	Realis E479 Generic
+T5	Justice_Sue 415 422	lawsuit
+E607	Justice_Sue:T5
+A5	Realis E607 Actual
+T6	Life_Injure 716 724	injuries
+E840	Life_Injure:T6
+A6	Realis E840 Generic
+T7	Justice_Sue 852 856	suit
+E887	Justice_Sue:T7
+A7	Realis E887 Actual
+T8	Personnel_End-Position 341 347	Former
+E922	Personnel_End-Position:T8
+A8	Realis E922 Actual
+T9	Life_Injure 1037 1044	traumas
+E949	Life_Injure:T9
+A9	Realis E949 Generic
+T10	Life_Injure 912 920	injuries
+E979	Life_Injure:T10
+A10	Realis E979 Generic

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976470000000000000044" doc_id="APW_ENG_20100304.0736" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-22" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100304.0736" offset="217" length="8">attacked</trigger>
+      </event_mention>
+      <event_mention id="em-35" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100304.0736" offset="83" length="6">attack</trigger>
+      </event_mention>
+      <event_mention id="em-48" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100304.0736" offset="384" length="8">attacked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-61" type="conflict" subtype="attack" realis="generic">
+        <trigger source="APW_ENG_20100304.0736" offset="661" length="8">attacked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-74" type="conflict" subtype="attack" realis="generic">
+        <trigger source="APW_ENG_20100304.0736" offset="723" length="6">fought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-87" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100304.0736" offset="808" length="4">send</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-100" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="APW_ENG_20100304.0736" offset="681" length="9">kidnapped</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-139" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100304.0736" offset="209" length="4">says</trigger>
+      </event_mention>
+      <event_mention id="em-154" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100304.0736" offset="302" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-126" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100304.0736" offset="609" length="7">comment</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

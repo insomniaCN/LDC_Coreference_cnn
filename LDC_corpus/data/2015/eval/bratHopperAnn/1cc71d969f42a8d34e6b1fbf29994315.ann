@@ -1,0 +1,42 @@
+T1	Justice_Sentence 177 185	Sentence
+E753	Justice_Sentence:T1
+A1	Realis E753 Actual
+T2	Justice_Sentence 284 292	sentence
+E579	Justice_Sentence:T2
+A2	Realis E579 Actual
+T3	Contact_Correspondence 194 198	Text
+E274	Contact_Correspondence:T3
+A3	Realis E274 Actual
+T4	Contact_Correspondence 361 368	message
+E301	Contact_Correspondence:T4
+A4	Realis E301 Actual
+T5	Justice_Appeal 240 247	appeals
+E330	Justice_Appeal:T5
+A5	Realis E330 Generic
+T6	Justice_Sentence 158 165	Upholds
+E985	Justice_Sentence:T6
+A6	Realis E985 Actual
+T7	Justice_Sentence 264 270	upheld
+E259	Justice_Sentence:T7
+A7	Realis E259 Actual
+T8	Justice_Release-Parole 703 711	released
+E145	Justice_Release-Parole:T8
+A8	Realis E145 Actual
+T9	Justice_Arrest-Jail 763 769	prison
+E338	Justice_Arrest-Jail:T9
+A9	Realis E338 Actual
+T10	Justice_Appeal 809 815	appeal
+E526	Justice_Appeal:T10
+A10	Realis E526 Other
+T11	Contact_Contact 879 883	said
+E168	Contact_Contact:T11
+A11	Realis E168 Actual
+T12	Justice_Arrest-Jail 931 935	jail
+E45	Justice_Arrest-Jail:T12
+A12	Realis E45 Other
+T13	Contact_Contact 437 441	said
+E485	Contact_Contact:T13
+A13	Realis E485 Actual
+R1	Coreference Arg1:E753 Arg2:E579
+R2	Coreference Arg1:E274 Arg2:E301
+R3	Coreference Arg1:E985 Arg2:E259

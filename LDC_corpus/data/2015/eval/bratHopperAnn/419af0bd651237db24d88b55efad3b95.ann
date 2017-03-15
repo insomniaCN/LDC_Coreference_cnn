@@ -1,0 +1,50 @@
+T1	Conflict_Attack 366 370	beat
+E322	Conflict_Attack:T1
+A1	Realis E322 Other
+T2	Conflict_Attack 1230 1236	beaten
+E934	Conflict_Attack:T2
+A2	Realis E934 Other
+T3	Conflict_Attack 1244 1249	blows
+E380	Conflict_Attack:T3
+A3	Realis E380 Other
+T4	Life_Injure 397 402	marks
+E685	Life_Injure:T4
+A4	Realis E685 Other
+T5	Life_Injure 1356 1361	scars
+E626	Life_Injure:T5
+A5	Realis E626 Other
+T6	Life_Injure 1365 1372	bruises
+E396	Life_Injure:T6
+A6	Realis E396 Other
+T7	Contact_Meet 500 504	told
+E886	Contact_Meet:T7
+A7	Realis E886 Actual
+T8	Justice_Sentence 708 717	sentenced
+E698	Justice_Sentence:T8
+A8	Realis E698 Actual
+T9	Justice_Fine 743 748	fined
+E172	Justice_Fine:T9
+A9	Realis E172 Actual
+T10	Justice_Convict 784 790	guilty
+E860	Justice_Convict:T10
+A10	Realis E860 Actual
+T11	Conflict_Attack 803 811	violence
+E597	Conflict_Attack:T11
+A11	Realis E597 Generic
+T12	Justice_Release-Parole 898 906	released
+E272	Justice_Release-Parole:T12
+A12	Realis E272 Actual
+T13	Justice_Arrest-Jail 928 932	jail
+E351	Justice_Arrest-Jail:T13
+A13	Realis E351 Generic
+T14	Justice_Arrest-Jail 734 738	jail
+E764	Justice_Arrest-Jail:T14
+A14	Realis E764 Generic
+T15	Movement_Transport-Artifact 1783 1787	sent
+E316	Movement_Transport-Artifact:T15
+A15	Realis E316 Other
+R1	Coreference Arg1:E322 Arg2:E934
+R2	Coreference Arg1:E934 Arg2:E380
+R3	Coreference Arg1:E685 Arg2:E626
+R4	Coreference Arg1:E626 Arg2:E396
+R5	Coreference Arg1:E764 Arg2:E351

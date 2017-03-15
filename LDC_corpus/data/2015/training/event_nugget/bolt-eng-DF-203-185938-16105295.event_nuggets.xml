@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000621" doc_id="bolt-eng-DF-203-185938-16105295" source_type="multi_post">
+<event_mention id="em-10" type="life" subtype="injure" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="347" length="6">cancer</trigger>
+      </event_mention>
+<event_mention id="em-23" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="412" length="4">seen</trigger>
+      </event_mention>
+<event_mention id="em-38" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="444" length="6">e-mail</trigger>
+      </event_mention>
+<event_mention id="em-51" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="625" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-66" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="363" length="3">got</trigger>
+      </event_mention>
+<event_mention id="em-81" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="664" length="4">seen</trigger>
+      </event_mention>
+<event_mention id="em-96" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="695" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-111" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="737" length="4">debt</trigger>
+      </event_mention>
+<event_mention id="em-126" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="746" length="7">be come</trigger>
+      </event_mention>
+<event_mention id="em-141" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="808" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-156" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="834" length="2">be</trigger>
+      </event_mention>
+<event_mention id="em-169" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="878" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-184" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="933" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-199" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="967" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-212" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="1086" length="5">drove</trigger>
+      </event_mention>
+<event_mention id="em-227" type="life" subtype="divorce" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="1762" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-242" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2081" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-257" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2122" length="2">pm</trigger>
+      </event_mention>
+<event_mention id="em-272" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2156" length="4">talk</trigger>
+      </event_mention>
+<event_mention id="em-285" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2162" length="7">Divorce</trigger>
+      </event_mention>
+<event_mention id="em-300" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2195" length="2">it</trigger>
+      </event_mention>
+<event_mention id="em-313" type="life" subtype="injure" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2427" length="6">cancer</trigger>
+      </event_mention>
+<event_mention id="em-326" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2447" length="6">deadly</trigger>
+      </event_mention>
+<event_mention id="em-341" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2495" length="4">seen</trigger>
+      </event_mention>
+<event_mention id="em-354" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2629" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-367" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2691" length="4">take</trigger>
+      </event_mention>
+<event_mention id="em-380" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2920" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-393" type="life" subtype="divorce" realis="generic">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="2966" length="2">it</trigger>
+      </event_mention>
+<event_mention id="em-406" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="3089" length="4">take</trigger>
+      </event_mention>
+<event_mention id="em-421" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="3157" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-436" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="3218" length="8">divorced</trigger>
+      </event_mention>
+<event_mention id="em-451" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="3331" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-464" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="3381" length="6">taking</trigger>
+      </event_mention>
+<event_mention id="em-477" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="3533" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-492" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-16105295" offset="4080" length="4">jail</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

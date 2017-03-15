@@ -1,0 +1,27 @@
+T1	Contact_Meet 91 95	meet
+E1	Contact_Meet:T1 
+A1	Realis E1 Other
+T2	Contact_Meet 99 106	discuss
+E2	Contact_Meet:T2 
+A2	Realis E2 Other
+T3	Contact_Meet 330 337	meeting
+E3	Contact_Meet:T3 
+A3	Realis E3 Other
+T4	Contact_Meet 341 348	discuss
+E4	Contact_Meet:T4 
+A4	Realis E4 Other
+T5	Justice_Sue 436 440	sued
+E5	Justice_Sue:T5 
+A5	Realis E5 Actual
+T6	Justice_Sue 544 551	lawsuit
+E6	Justice_Sue:T6 
+A6	Realis E6 Actual
+T7	Contact_Meet 842 845	met
+E7	Contact_Meet:T7 
+A7	Realis E7 Other
+T8	Contact_Meet 875 882	meeting
+E8	Contact_Meet:T8 
+A8	Realis E8 Generic
+T9	Justice_Sue 930 934	sued
+E9	Justice_Sue:T9 
+A9	Realis E9 Actual

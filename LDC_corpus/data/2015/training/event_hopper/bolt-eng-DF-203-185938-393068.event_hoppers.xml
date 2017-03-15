@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000623" doc_id="bolt-eng-DF-203-185938-393068" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="158" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="311" length="6">paying</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="454" length="8">payments</trigger>
+      </event_mention>
+      <event_mention id="em-49" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="543" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-62" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="676" length="4">paid</trigger>
+      </event_mention>
+      <event_mention id="em-105" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="957" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-118" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1036" length="6">paying</trigger>
+      </event_mention>
+      <event_mention id="em-131" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1186" length="7">payment</trigger>
+      </event_mention>
+      <event_mention id="em-144" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1228" length="4">paid</trigger>
+      </event_mention>
+      <event_mention id="em-157" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1321" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-170" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1415" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-183" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1785" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-196" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1806" length="5">draft</trigger>
+      </event_mention>
+      <event_mention id="em-209" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1894" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-222" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="1918" length="5">draft</trigger>
+      </event_mention>
+      <event_mention id="em-235" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="2041" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-248" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="2231" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-261" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="2419" length="6">paying</trigger>
+      </event_mention>
+      <event_mention id="em-287" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="2622" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-315" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="3347" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-328" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="3678" length="6">paying</trigger>
+      </event_mention>
+      <event_mention id="em-341" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="3868" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-88">
+      <event_mention id="em-75" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="785" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-103">
+      <event_mention id="em-90" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="853" length="7">payment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-313">
+      <event_mention id="em-300" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-393068" offset="3049" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976200000000000000008" doc_id="AFP_ENG_20091015.0364" source_type="newswire">
+<event_mention id="em-42" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="598" length="9">take-over</trigger>
+      </event_mention>
+<event_mention id="em-55" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="431" length="9">take-over</trigger>
+      </event_mention>
+<event_mention id="em-68" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="AFP_ENG_20091015.0364" offset="651" length="8">bankrupt</trigger>
+      </event_mention>
+<event_mention id="em-81" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="AFP_ENG_20091015.0364" offset="285" length="17">declared bankrupt</trigger>
+      </event_mention>
+<event_mention id="em-94" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="AFP_ENG_20091015.0364" offset="1120" length="10">bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-107" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="AFP_ENG_20091015.0364" offset="1060" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-120" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20091015.0364" offset="1288" length="7">leaving</trigger>
+      </event_mention>
+<event_mention id="em-133" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1427" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-146" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1592" length="8">withdrew</trigger>
+      </event_mention>
+<event_mention id="em-159" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1685" length="8">deposits</trigger>
+      </event_mention>
+<event_mention id="em-172" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1735" length="6">profit</trigger>
+      </event_mention>
+<event_mention id="em-185" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="2157" length="5">claim</trigger>
+      </event_mention>
+<event_mention id="em-198" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="2207" length="7">deposit</trigger>
+      </event_mention>
+<event_mention id="em-211" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="AFP_ENG_20091015.0364" offset="732" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-224" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20091015.0364" offset="1541" length="12">lodge claims</trigger>
+      </event_mention>
+<event_mention id="em-237" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20091015.0364" offset="578" length="7">reports</trigger>
+      </event_mention>
+<event_mention id="em-250" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20091015.0364" offset="1239" length="8">reported</trigger>
+      </event_mention>
+<event_mention id="em-263" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1427" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-276" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091015.0364" offset="2079" length="8">promised</trigger>
+      </event_mention>
+<event_mention id="em-289" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091015.0364" offset="2110" length="9">announced</trigger>
+      </event_mention>
+<event_mention id="em-302" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="686" length="5">buyer</trigger>
+      </event_mention>
+<event_mention id="em-315" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="686" length="5">buyer</trigger>
+      </event_mention>
+<event_mention id="em-330" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1156" length="6">buyers</trigger>
+      </event_mention>
+<event_mention id="em-343" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1156" length="6">buyers</trigger>
+      </event_mention>
+<event_mention id="em-356" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091015.0364" offset="1490" length="9">mortgages</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

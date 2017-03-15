@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589763e0000000000000032" doc_id="APW_ENG_20090605.0323" source_type="newswire">
+<event_mention id="em-30" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="240" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-43" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20090605.0323" offset="90" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-56" type="personnel" subtype="startposition" realis="other">
+        <trigger source="APW_ENG_20090605.0323" offset="491" length="6">become</trigger>
+      </event_mention>
+<event_mention id="em-69" type="personnel" subtype="startposition" realis="other">
+        <trigger source="APW_ENG_20090605.0323" offset="260" length="7">replace</trigger>
+      </event_mention>
+<event_mention id="em-82" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="568" length="4">quit</trigger>
+      </event_mention>
+<event_mention id="em-95" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="293" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-108" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="1121" length="9">departure</trigger>
+      </event_mention>
+<event_mention id="em-121" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="1316" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-134" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="1688" length="11">resignation</trigger>
+      </event_mention>
+<event_mention id="em-147" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="1834" length="6">resign</trigger>
+      </event_mention>
+<event_mention id="em-160" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="1446" length="3">met</trigger>
+      </event_mention>
+<event_mention id="em-173" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20090605.0323" offset="2061" length="8">received</trigger>
+      </event_mention>
+<event_mention id="em-186" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="664" length="6">summit</trigger>
+      </event_mention>
+<event_mention id="em-199" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="437" length="9">announced</trigger>
+      </event_mention>
+<event_mention id="em-212" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="APW_ENG_20090605.0323" offset="1097" length="4">quit</trigger>
+      </event_mention>
+<event_mention id="em-225" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="1387" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-238" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="1244" length="8">announce</trigger>
+      </event_mention>
+<event_mention id="em-251" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="APW_ENG_20090605.0323" offset="1108" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-266" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090605.0323" offset="798" length="4">been</trigger>
+      </event_mention>
+<event_mention id="em-281" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="1623" length="9">discussed</trigger>
+      </event_mention>
+<event_mention id="em-294" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="1675" length="5">wrote</trigger>
+      </event_mention>
+<event_mention id="em-309" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090605.0323" offset="1747" length="12">negotiations</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

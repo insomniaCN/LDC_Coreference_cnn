@@ -1,0 +1,54 @@
+T1	Contact_Meet 765 769	told
+E102	Contact_Meet:T1
+A1	Realis E102 Actual
+T2	Justice_Arrest-Jail 375 381	prison
+E130	Justice_Arrest-Jail:T2
+A2	Realis E130 Other
+T3	Justice_Appeal 257 264	appeals
+E136	Justice_Appeal:T3
+A3	Realis E136 Generic
+T4	Justice_Convict 428 437	convicted
+E168	Justice_Convict:T4
+A4	Realis E168 Actual
+T5	Movement_Transport-Person 1037 1044	driving
+E255	Movement_Transport-Person:T5
+A5	Realis E255 Actual
+T6	Justice_Sentence 320 329	sentenced
+E295	Justice_Sentence:T6
+A6	Realis E295 Actual
+T7	Movement_Transport-Person 872 879	leaving
+E330	Movement_Transport-Person:T7
+A7	Realis E330 Other
+T8	Justice_Sentence 561 569	sentence
+E379	Justice_Sentence:T8
+A8	Realis E379 Actual
+T9	Justice_Acquit 926 932	acquit
+E499	Justice_Acquit:T9
+A9	Realis E499 Other
+T10	Contact_Meet 911 916	asked
+E548	Contact_Meet:T10
+A10	Realis E548 Actual
+T11	Contact_Contact 984 994	statements
+E567	Contact_Contact:T11
+A11	Realis E567 Actual
+T12	Contact_Contact 172 176	said
+E613	Contact_Contact:T12
+A12	Realis E613 Actual
+T13	Movement_Transport-Person 400 411	deportation
+E623	Movement_Transport-Person:T13
+A13	Realis E623 Other
+T14	Contact_Contact 1442 1448	ratted
+E684	Contact_Contact:T14
+A14	Realis E684 Actual
+T15	Justice_Arrest-Jail 1957 1961	Lock
+E727	Justice_Arrest-Jail:T15
+A15	Realis E727 Other
+T16	Justice_Charge-Indict 153 159	charge
+E759	Justice_Charge-Indict:T16
+A16	Realis E759 Actual
+T17	Contact_Broadcast 504 512	reported
+E775	Contact_Broadcast:T17
+A17	Realis E775 Actual
+T18	Contact_Contact 586 595	confirmed
+E858	Contact_Contact:T18
+A18	Realis E858 Actual

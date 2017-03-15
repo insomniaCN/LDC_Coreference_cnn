@@ -1,0 +1,40 @@
+<DOC id= " NYT_ENG_20130720.0192 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130720 / 20130720 , dd82f31213efafb53 a3 ac7829f5bbbac . xml " > 
+<HEADLINE> 
+COLOMBIAN REBELS HOLDING AN AMERICAN 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EDS : SUBS throughout ; ADDS Michael R . Gordon to contributing line . ) ; Susan Abad contributed reporting from Bogotá , Colombia , and Michael R . Gordon from Washington .
+< / P> 
+<P> 
+CARACAS , Venezuela - The U.S. ambassador to Colombia demanded Saturday that the country ’s largest rebel group quickly release a former U.S. service member the militants say they have been holding since last month .
+< / P> 
+<P> 
+The group , the Revolutionary Armed Forces of Colombia known as the FARC , had said Friday - in its announcement that it was holding the man - that it planned to release him as a sign of good will during continuing peace talks with the government .
+< / P> 
+<P> 
+In a communiqué posted on its website , the group identified the American as Kevin Scott Sutay and said he had served in the U.S. military from November 2009 until last March and had participated in the war in Afghanistan . It said he was an expert in land - mine removal .
+< / P> 
+<P> 
+On Saturday , the U.S. Embassy in Bogotá released a statement saying , “ We condemn the kidnapping of this civilian and demand his prompt release . ” It added that Sutay had no current ties with U.S. armed forces . The U.S. ambassador , P . Michael McKinley , told local reporters Sutay appeared to have been on a trip through Latin America .
+< / P> 
+<P> 
+But the FARC said Sutay ’s presence in the region was proof of the participation in Colombia of “ American soldiers and mercenaries in counterinsurgency operations ” in the guise of private contractors . It did not offer evidence to back up that conclusion .
+< / P> 
+<P> 
+The FARC said that although it had the right to hold Sutay as a prisoner of war , it would release him “ as a gesture within the framework ” of the peace talks .
+< / P> 
+<P> 
+Sutay entered Colombia on June 8 , according to the group ’s statement , after traveling through Mexico and Central America . It said he was taken hostage June 20 in Guaviare Department , southeast of Bogotá , the capital . The statement also said he had been born in New York .
+< / P> 
+<P> 
+The FARC has been at war with the government of Colombia for nearly 50 years . President Juan Manuel Santos announced the start of peace talks last year , and the talks have been taking place in Havana .
+< / P> 
+<P> 
+The rebels for many years carried out a campaign of kidnappings for ransom , which , along with drug trafficking , was a major source of income . Last year the group said it would stop ransom kidnappings . It also freed what it said were the last police and military hostages it was holding . Advocacy groups in Colombia , however , say hundreds of kidnapped victims are still missing .
+< / P> 
+<P> 
+Three U.S. military contractors who were kidnapped by the FARC and held for more than six years were rescued in 2008 along with several other hostages , including Ingrid Betancourt , the former presidential candidate .
+< / P> 
+< / TEXT> 
+< / DOC

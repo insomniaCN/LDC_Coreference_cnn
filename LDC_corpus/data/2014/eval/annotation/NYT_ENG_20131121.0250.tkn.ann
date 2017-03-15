@@ -1,0 +1,111 @@
+T1	Contact_Meet 237 244	meeting
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Personnel_Nominate 499 506	nominee
+E2	Personnel_Nominate:T2 
+A2	Realis E2 Actual
+T3	Personnel_Nominate 620 627	nominee
+E3	Personnel_Nominate:T3 
+A3	Realis E3 Actual
+T4	Personnel_Nominate 813 823	nomination
+E4	Personnel_Nominate:T4 
+A4	Realis E4 Actual
+T5	Life_Die 915 924	slaughter
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 1088 1097	slaughter
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Personnel_Nominate 1194 1204	nomination
+E7	Personnel_Nominate:T7 
+A7	Realis E7 Actual
+T8	Contact_Meet 1428 1435	meeting
+E8	Contact_Meet:T8 
+A8	Realis E8 Actual
+T9	Personnel_Elect 1469 1476	elected
+E9	Personnel_Elect:T9 
+A9	Realis E9 Actual
+T10	Personnel_Nominate 1655 1665	nomination
+E10	Personnel_Nominate:T10 
+A10	Realis E10 Actual
+T11	Life_Die 1944 1955	exterminate
+E11	Life_Die:T11 
+A11	Realis E11 Other
+T12	Personnel_End-Position 2215 2221	resign
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Other
+T13	Personnel_Nominate 2911 2921	nomination
+E13	Personnel_Nominate:T13 
+A13	Realis E13 Actual
+T14	Personnel_Nominate 3163 3173	nomination
+E14	Personnel_Nominate:T14 
+A14	Realis E14 Actual
+T15	Personnel_End-Position 3472 3480	resigned
+E15	Personnel_End-Position:T15 
+A15	Realis E15 Actual
+T16	Personnel_Nominate 3587 3597	nomination
+E16	Personnel_Nominate:T16 
+A16	Realis E16 Actual
+T17	Personnel_End-Position 3761 3766	fired
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T18	Personnel_End-Position 4126 4132	firing
+E18	Personnel_End-Position:T18 
+A18	Realis E18 Actual
+T19	Life_Die 4177 4185	genocide
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Life_Die 4303 4311	massacre
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Life_Die 4343 4351	genocide
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Life_Die 4400 4408	genocide
+E22	Life_Die:T22 
+A22	Realis E22 Actual
+T23	Life_Die 4638 4646	genocide
+E23	Life_Die:T23 
+A23	Realis E23 Actual
+T24	Personnel_Nominate 4947 4957	nomination
+E24	Personnel_Nominate:T24 
+A24	Realis E24 Actual
+T25	Contact_Communicate 4977 4993	Reached by phone
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Contact_Communicate 5028 5035	discuss
+E26	Contact_Communicate:T26 
+A26	Realis E26 Other
+T27	Transaction_Transfer-Money 5112 5119	donated
+E27	Transaction_Transfer-Money:T27 
+A27	Realis E27 Actual
+T28	Personnel_Nominate 5241 5251	nomination
+E28	Personnel_Nominate:T28 
+A28	Realis E28 Actual
+T29	Personnel_Nominate 5335 5345	nomination
+E29	Personnel_Nominate:T29 
+A29	Realis E29 Actual
+T30	Personnel_Nominate 5565 5575	nomination
+E30	Personnel_Nominate:T30 
+A30	Realis E30 Actual
+T31	Life_Die 5783 5791	massacre
+E31	Life_Die:T31 
+A31	Realis E31 Actual
+T32	Life_Die 5797 5805	genocide
+E32	Life_Die:T32 
+A32	Realis E32 Actual
+T33	Life_Die 3902 3910	genocide
+E33	Life_Die:T33 
+A33	Realis E33 Actual
+T34	Life_Die 902 910	genocide
+E34	Life_Die:T34 
+A34	Realis E34 Actual
+T35	Life_Die 1116 1124	genocide
+E35	Life_Die:T35 
+A35	Realis E35 Actual
+T36	Life_Die 3655 3663	genocide
+E36	Life_Die:T36 
+A36	Realis E36 Actual
+T37	Justice_Trial-Hearing 5576 5583	hearing
+E37	Justice_Trial-Hearing:T37 
+A37	Realis E37 Actual

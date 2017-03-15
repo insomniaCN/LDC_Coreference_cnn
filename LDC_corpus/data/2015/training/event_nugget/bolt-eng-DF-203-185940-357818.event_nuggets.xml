@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000633" doc_id="bolt-eng-DF-203-185940-357818" source_type="multi_post">
+<event_mention id="em-23" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="224" length="8">podcasts</trigger>
+      </event_mention>
+<event_mention id="em-36" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="241" length="5">tells</trigger>
+      </event_mention>
+<event_mention id="em-49" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="266" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-64" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="337" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-79" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="360" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-105" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="532" length="8">payments</trigger>
+      </event_mention>
+<event_mention id="em-120" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="372" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-163" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="406" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-176" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="653" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-189" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="687" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-202" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="786" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-215" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="913" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-228" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="935" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-241" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1009" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-254" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1089" length="4">owed</trigger>
+      </event_mention>
+<event_mention id="em-267" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1105" length="9">purchased</trigger>
+      </event_mention>
+<event_mention id="em-280" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1279" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-293" type="life" subtype="beborn" realis="actual">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1311" length="4">born</trigger>
+      </event_mention>
+<event_mention id="em-308" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1346" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-323" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1358" length="2">by</trigger>
+      </event_mention>
+<event_mention id="em-336" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="1436" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-351" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2035" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-366" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2066" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-381" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2075" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-396" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2133" length="4">that</trigger>
+      </event_mention>
+<event_mention id="em-409" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2232" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-424" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2474" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-437" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2569" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-450" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2617" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-463" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2694" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-476" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2712" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-489" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2950" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-502" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3045" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-567" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3093" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-580" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3170" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-593" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2545" length="6">income</trigger>
+      </event_mention>
+<event_mention id="em-621" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3021" length="6">income</trigger>
+      </event_mention>
+<event_mention id="em-634" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3280" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-647" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3343" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-660" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2416" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-673" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="2892" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-686" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3542" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-699" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3600" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-712" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3671" length="6">income</trigger>
+      </event_mention>
+<event_mention id="em-725" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3695" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-738" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3743" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-751" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3820" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-764" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3838" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-777" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3930" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-790" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="3993" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-803" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="4048" length="3">owe</trigger>
+      </event_mention>
+<event_mention id="em-818" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="4147" length="11">downpayment</trigger>
+      </event_mention>
+<event_mention id="em-833" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="4200" length="6">income</trigger>
+      </event_mention>
+<event_mention id="em-848" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-203-185940-357818" offset="4271" length="8">expenses</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

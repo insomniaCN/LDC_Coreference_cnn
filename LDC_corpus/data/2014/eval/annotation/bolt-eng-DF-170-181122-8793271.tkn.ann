@@ -1,0 +1,33 @@
+T1	Life_Divorce 289 294;299 306	filed divorce
+E1	Life_Divorce:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Money 1545 1549;1568 1577	gave pay raise
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 1721 1725	trip
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 1892 1896;1914 1919	gave raise
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Life_Divorce 2111 2118	Divorce
+E5	Life_Divorce:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Money 1714 1720	funded
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Actual
+T7	Life_Divorce 2361 2368	divorce
+E7	Life_Divorce:T7 
+A7	Realis E7 Generic
+T8	Life_Marry 4177 4185	marriage
+E8	Life_Marry:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 4195 4201;4206 4211	taking money
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Life_Die 4393 4397	kill
+E10	Life_Die:T10 
+A10	Realis E10 Other
+T11	Life_Divorce 4628 4630	ex
+E11	Life_Divorce:T11 
+A11	Realis E11 Other

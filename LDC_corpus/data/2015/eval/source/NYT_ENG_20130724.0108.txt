@@ -1,0 +1,43 @@
+<DOC id="NYT_ENG_20130724.0108" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130724/20130724,6268aa3e69a0dc10092580dd4e653d64.xml">
+<HEADLINE>
+JUDGE CLEARS PATH FOR DETROIT BANKRUPTCY CASE
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+DETROIT - A federal bankruptcy judge on Wednesday cleared the way for Detroit’s bankruptcy case to go forward without legal challenges.
+</P>
+<P>
+The decision by Judge Steven Rhodes of U.S. Bankruptcy Court freezes all litigation against the city during the bankruptcy process and consolidates state-level legal challenges to Detroit’s Chapter 9 filing into the federal bankruptcy case.
+</P>
+<P>
+The federal bankruptcy court has “exclusive jurisdiction” over the case, he said, adding, “There is no case law that holds otherwise.”
+</P>
+<P>
+It was a dramatic beginning to the largest municipal bankruptcy case in American history.
+</P>
+<P>
+The judge was attempting to put to rest a legal spat that began almost immediately after Detroit filed for bankruptcy last Thursday, the largest American city ever to do so. On Friday a state judge, Judge Rosemarie Aquilina of Ingham County Circuit Court, ruled that the filing violated the state constitution, which protects the pensions of retired public employees. The city has been expected to seek reductions in pensions in bankruptcy court as part of its broader efforts to reduce Detroit’s estimated $18 billion in debts and other obligations.
+</P>
+<P>
+Aquilina’s ruling was appealed by the state attorney general to the Michigan Court of Appeals, which on Tuesday issued a stay of her order pending their appellate decision.
+</P>
+<P>
+But on Wednesday, in the first hearing on the Chapter 9 case, Rhodes approved a motion by the city’s emergency financial manager, Kevyn D. Orr, to freeze all litigation against the city during the bankruptcy process.
+</P>
+<P>
+The move effectively gives Rhodes the authority to rule on the issues raised by retired public employees regarding their pensions.
+</P>
+<P>
+Rhodes also granted a second motion by the emergency manager that extends protection from litigation to Gov. Rick Snyder of Michigan and other state officials.
+</P>
+<P>
+Last week, Snyder accepted the city’s emergency manager’s recommendation and ordered Detroit to file for Chapter 9. Both Snyder and Orr have said that a bankruptcy filing was the only option to settle Detroit’s crushing debt.
+</P>
+<P>
+As the case began, protesters gathered outside the federal courthouse downtown.
+</P>
+</TEXT>
+</DOC>

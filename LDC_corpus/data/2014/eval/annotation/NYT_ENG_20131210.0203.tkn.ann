@@ -1,0 +1,51 @@
+T3	Contact_Communicate 671 676	talks
+E3	Contact_Communicate:T3 
+A3	Realis E3 Other
+T4	Conflict_Demonstrate 1062 1075	demonstration
+E4	Conflict_Demonstrate:T4 
+A4	Realis E4 Other
+T5	Contact_Meet 1834 1841	meeting
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 2362 2372	redeployed
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 2523 2531	moved in
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 2936 2942	seized
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Conflict_Demonstrate 3072 3079	protest
+E9	Conflict_Demonstrate:T9 
+A9	Realis E9 Actual
+T1	Contact_Communicate 264 269	TALKS
+E1	Contact_Communicate:T1 
+A1	Realis E1 Other
+T2	Contact_Communicate 952 958	called
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T10	Conflict_Attack 1035 1051	unleashing force
+E10	Conflict_Attack:T10 
+A10	Realis E10 Other
+T11	Movement_Transport-Person 1248 1258	dispatched
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+T12	Life_Injure 1379 1388	bloodshed
+E12	Life_Injure:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1406 1415	crackdown
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Money 1689 1692	aid
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Generic
+T15	Conflict_Demonstrate 1752 1762;1792 1798	protesters massed
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Actual
+T16	Conflict_Demonstrate 2236 2241	rally
+E16	Conflict_Demonstrate:T16 
+A16	Realis E16 Actual
+T17	Movement_Transport-Person 2394 2398;2410 2413	push out
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Other

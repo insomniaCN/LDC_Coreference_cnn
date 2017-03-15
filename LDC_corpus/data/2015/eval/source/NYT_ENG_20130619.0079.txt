@@ -1,0 +1,40 @@
+<DOC id="NYT_ENG_20130619.0079" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130619/20130619,51abf75d87d93d27065e5410ca23392b.xml">
+<HEADLINE>
+Insurer's accord with state raised to $5.25 million
+</HEADLINE>
+<TEXT>
+<P>
+EDNOTES: (FOR USE BY NEW YORK TIMES NEWS SERVICE CLIENTS)
+</P>
+<P>
+A company alleged to have used deceptive practices to sell supplemental health insurance to veterans and other Massachusetts residents will pay more than $5 million to settle, Attorney General Martha Coakley said Tuesday.
+</P>
+<P>
+The settlement, now totaling $5.25 million, represents an increase of $1.5 million over an earlier agreement reached between Coakley’s office and Life Insurance Company of North America, in July 2012. The increase in restitution to consumers and penalties is a result of the insurer’s failure to meet the conditions of the original settlement, Coakley said.
+</P>
+<P>
+''LINA’s failures to comply fully with its obligations under the consent judgment are unacceptable,'' Coakley said in a statement. ''This amendment will ensure that all Massachusetts consumers entitled to relief under the settlement will receive restitution from this company and will help further our ongoing efforts to ensure access to mental health services to veterans and their families.''
+</P>
+<P>
+In a statement, the insurance company said it believes it complied with the provisions of the initial settlement and will continue to return premiums, as it has been doing, to affected Massachusetts residents. The amended accord, the company said, clarifies both parties’ understanding of the agreement.
+</P>
+<P>
+''While the company agreed to pay a fine to avoid costly and time-consuming litigation,'' the statement added, ''the settlement recognizes LINA’s good-faith belief that it did not represent or market these products as 'health care insurance.' ''
+</P>
+<P>
+Coakley’s initial complaint charged that the company used deceptive methods to market health insurance to veterans, especially those from World War II. It used direct mail and Internet solicitations to make the insurance appear to be a government program, exaggerating benefits, misrepresenting coverage limits, and making false claims about its rates, according to the attorney general’s office.
+</P>
+<P>
+It also denied coverage based on preexisting conditions, which is illegal in Massachusetts, according to the complaint. More than 1,000 Massachusetts consumers bought the policies, according to Coakley’s office.
+</P>
+<P>
+The initial settlement required the company to identify all consumers who had purchased supplemental insurance and refund premiums, minus any insurance claims paid by the insurer. But many customers have not received their payments, Coakley said.
+</P>
+<P>
+Coakley’s office went back to court to ensure the company would meet its obligations. In an amended settlement, the company agreed to pay an additional $750,000 in restitution to consumers, bringing the total to $3.5 million. It also agreed to pay an additional $375,000 in penalties and $375,000 to fund mental health services for veterans, on top of the $1 million in the original settlement. That brings the total the insurer has agreed to pay the state as a deterrent to $1.75 million, Coakley’s office said.
+</P>
+<P>
+Last month, with funds from the original settlement, the attorney general’s office awarded $500,000 in grants to five organizations to provide mental health services to veterans.
+</P>
+</TEXT>
+</DOC>

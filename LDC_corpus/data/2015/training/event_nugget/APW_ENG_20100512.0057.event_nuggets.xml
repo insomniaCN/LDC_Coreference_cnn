@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976480000000000000046" doc_id="APW_ENG_20100512.0057" source_type="newswire">
+<event_mention id="em-62" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="93" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-75" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="900" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-88" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="1391" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-101" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="2249" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-114" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="2468" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-127" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="2914" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-140" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3095" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-153" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="572" length="9">occupying</trigger>
+      </event_mention>
+<event_mention id="em-166" type="personnel" subtype="elect" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="391" length="8">election</trigger>
+      </event_mention>
+<event_mention id="em-179" type="personnel" subtype="elect" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="1496" length="9">elections</trigger>
+      </event_mention>
+<event_mention id="em-192" type="personnel" subtype="elect" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="2174" length="8">election</trigger>
+      </event_mention>
+<event_mention id="em-205" type="personnel" subtype="elect" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="2331" length="8">election</trigger>
+      </event_mention>
+<event_mention id="em-218" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="1741" length="4">dead</trigger>
+      </event_mention>
+<event_mention id="em-231" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="2925" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-244" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="2984" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-257" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3108" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-270" type="life" subtype="injure" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3129" length="7">wounded</trigger>
+      </event_mention>
+<event_mention id="em-283" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3052" length="17">violent incidents</trigger>
+      </event_mention>
+<event_mention id="em-296" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3286" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-309" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3429" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-322" type="justice" subtype="fine" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="3637" length="5">fines</trigger>
+      </event_mention>
+<event_mention id="em-335" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="3660" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-348" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="4019" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-361" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="4092" length="4">coup</trigger>
+      </event_mention>
+<event_mention id="em-374" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="APW_ENG_20100512.0057" offset="3470" length="9">transport</trigger>
+      </event_mention>
+<event_mention id="em-387" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="4066" length="6">ousted</trigger>
+      </event_mention>
+<event_mention id="em-400" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="301" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-413" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="435" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-426" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="1100" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-439" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="1507" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-452" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="2412" length="8">insisted</trigger>
+      </event_mention>
+<event_mention id="em-465" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100512.0057" offset="2524" length="9">reporting</trigger>
+      </event_mention>
+<event_mention id="em-491" type="conflict" subtype="attack" realis="generic">
+        <trigger source="APW_ENG_20100512.0057" offset="3544" length="9">terrorism</trigger>
+      </event_mention>
+<event_mention id="em-504" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20100512.0057" offset="3940" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-517" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="3378" length="8">assaults</trigger>
+      </event_mention>
+<event_mention id="em-530" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="3571" length="10">punishable</trigger>
+      </event_mention>
+<event_mention id="em-543" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="751" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-556" type="personnel" subtype="elect" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="1222" length="5">polls</trigger>
+      </event_mention>
+<event_mention id="em-582" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="1878" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-595" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="2145" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-608" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100512.0057" offset="2770" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-634" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="2938" length="12">manslaughter</trigger>
+      </event_mention>
+<event_mention id="em-649" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100512.0057" offset="3185" length="12">announcement</trigger>
+      </event_mention>
+<event_mention id="em-662" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="APW_ENG_20100512.0057" offset="3603" length="4">jail</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

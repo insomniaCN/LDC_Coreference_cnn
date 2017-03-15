@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea780000000000000079" doc_id="NYT_ENG_20130822.0228" source_type="newswire">
+  <event_mention id="em-11" type="life" subtype="marry" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="3330" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-14" type="life" subtype="divorce" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="1019" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-34" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="920" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-130" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="3209" length="8">delivery</trigger>
+  </event_mention>
+  <event_mention id="em-133" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="4755" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-144" type="life" subtype="marry" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="996" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-147" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="193" length="7">FOUNDER</trigger>
+  </event_mention>
+  <event_mention id="em-177" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="691" length="5">flown</trigger>
+  </event_mention>
+  <event_mention id="em-200" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="3823" length="13">manufacturing</trigger>
+  </event_mention>
+  <event_mention id="em-212" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130822.0228" offset="501" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-221" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="4430" length="7">stopped</trigger>
+  </event_mention>
+  <event_mention id="em-228" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="1731" length="11">distributes</trigger>
+  </event_mention>
+  <event_mention id="em-276" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="1747" length="5">sells</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="981" length="11">inheritance</trigger>
+  </event_mention>
+  <event_mention id="em-288" type="life" subtype="divorce" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="4402" length="8">divorced</trigger>
+  </event_mention>
+  <event_mention id="em-293" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="491" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-330" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="1747" length="5">sells</trigger>
+  </event_mention>
+  <event_mention id="em-350" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130822.0228" offset="2063" length="8">feedback</trigger>
+  </event_mention>
+  <event_mention id="em-358" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="5185" length="7">visited</trigger>
+  </event_mention>
+  <event_mention id="em-362" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="1721" length="8">produces</trigger>
+  </event_mention>
+  <event_mention id="em-387" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="3500" length="8">obituary</trigger>
+  </event_mention>
+  <event_mention id="em-422" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="3849" length="9">employing</trigger>
+  </event_mention>
+  <event_mention id="em-440" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130822.0228" offset="3251" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-452" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="4659" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-457" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130822.0228" offset="3118" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-480" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="3389" length="6">making</trigger>
+  </event_mention>
+  <event_mention id="em-532" type="life" subtype="beborn" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="2861" length="4">born</trigger>
+  </event_mention>
+  <event_mention id="em-557" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="4864" length="5">maker</trigger>
+  </event_mention>
+  <event_mention id="em-593" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="349" length="5">start</trigger>
+  </event_mention>
+  <event_mention id="em-656" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="2670" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-659" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="3878" length="7">opening</trigger>
+  </event_mention>
+  <event_mention id="em-683" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="4104" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-693" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="2670" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-721" type="life" subtype="beborn" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="4901" length="8">newborns</trigger>
+  </event_mention>
+  <event_mention id="em-832" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="4613" length="6">set up</trigger>
+  </event_mention>
+  <event_mention id="em-837" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="5286" length="8">movement</trigger>
+  </event_mention>
+  <event_mention id="em-842" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="4755" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-869" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="432" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-893" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130822.0228" offset="4927" length="8">investor</trigger>
+  </event_mention>
+  <event_mention id="em-916" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="3234" length="5">maker</trigger>
+  </event_mention>
+  <event_mention id="em-922" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="5206" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130822.0228" offset="1065" length="7">started</trigger>
+  </event_mention>
+  <event_mention id="em-990" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="NYT_ENG_20130822.0228" offset="2165" length="8">shipping</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000657" doc_id="XIN_ENG_20100508.0093" source_type="newswire">
+<event_mention id="em-10" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="93" length="8">sworn in</trigger>
+      </event_mention>
+<event_mention id="em-23" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="233" length="8">sworn in</trigger>
+      </event_mention>
+<event_mention id="em-36" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="353" length="7">becomes</trigger>
+      </event_mention>
+<event_mention id="em-49" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="586" length="8">sworn in</trigger>
+      </event_mention>
+<event_mention id="em-64" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100508.0093" offset="635" length="6">speech</trigger>
+      </event_mention>
+<event_mention id="em-94" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="1703" length="12">inauguration</trigger>
+      </event_mention>
+<event_mention id="em-107" type="personnel" subtype="elect" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="1829" length="3">won</trigger>
+      </event_mention>
+<event_mention id="em-120" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20100508.0093" offset="2032" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-135" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20100508.0093" offset="2113" length="4">told</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

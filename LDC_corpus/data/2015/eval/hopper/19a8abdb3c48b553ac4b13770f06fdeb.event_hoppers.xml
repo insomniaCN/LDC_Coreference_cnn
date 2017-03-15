@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea8e0000000000000111" doc_id="19a8abdb3c48b553ac4b13770f06fdeb" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-613" type="life" subtype="divorce" realis="generic">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="170" length="7">divorce</trigger>
+      </event_mention>
+      <event_mention id="em-888" type="life" subtype="divorce" realis="generic">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="203" length="7">divorce</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-559" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="238" length="2">ex</trigger>
+      </event_mention>
+      <event_mention id="em-663" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="260" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-735" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="497" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-934" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="619" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-862" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1031" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-659" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1445" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-940" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1533" length="8">divorced</trigger>
+      </event_mention>
+      <event_mention id="em-721" type="life" subtype="divorce" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="389" length="3">end</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-459" type="life" subtype="marry" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="377" length="8">marriage</trigger>
+      </event_mention>
+      <event_mention id="em-674" type="life" subtype="marry" realis="actual">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="724" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-183">
+      <event_mention id="em-959" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1374" length="6">poster</trigger>
+      </event_mention>
+      <event_mention id="em-284" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1385" length="7">respond</trigger>
+      </event_mention>
+      <event_mention id="em-463" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1408" length="4">post</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-250">
+      <event_mention id="em-282" type="life" subtype="marry" realis="generic">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1641" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-265">
+      <event_mention id="em-800" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="19a8abdb3c48b553ac4b13770f06fdeb" offset="1661" length="6">spoken</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

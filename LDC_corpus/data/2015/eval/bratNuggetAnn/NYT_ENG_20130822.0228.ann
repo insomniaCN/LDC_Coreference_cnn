@@ -1,0 +1,129 @@
+T1	Life_Marry 3330 3337	married
+E11	Life_Marry:T1
+A1	Realis E11 Actual
+T2	Life_Divorce 1019 1025	former
+E14	Life_Divorce:T2
+A2	Realis E14 Actual
+T3	Transaction_Transaction 920 928	acquired
+E34	Transaction_Transaction:T3
+A3	Realis E34 Generic
+T4	Movement_Transport-Artifact 3209 3217	delivery
+E130	Movement_Transport-Artifact:T4
+A4	Realis E130 Generic
+T5	Transaction_Transfer-Money 4755 4761	buying
+E133	Transaction_Transfer-Money:T5
+A5	Realis E133 Actual
+T6	Life_Marry 996 1004	marriage
+E144	Life_Marry:T6
+A6	Realis E144 Generic
+T7	Business_Start-Org 193 200	FOUNDER
+E147	Business_Start-Org:T7
+A7	Realis E147 Actual
+T8	Movement_Transport-Person 691 696	flown
+E177	Movement_Transport-Person:T8
+A8	Realis E177 Actual
+T9	Manufacture_Artifact 3823 3836	manufacturing
+E200	Manufacture_Artifact:T9
+A9	Realis E200 Generic
+T10	Contact_Broadcast 501 510	announced
+E212	Contact_Broadcast:T10
+A10	Realis E212 Actual
+T11	Personnel_End-Position 4430 4437	stopped
+E221	Personnel_End-Position:T11
+A11	Realis E221 Actual
+T12	Movement_Transport-Artifact 1731 1742	distributes
+E228	Movement_Transport-Artifact:T12
+A12	Realis E228 Generic
+T13	Transaction_Transfer-Money 1747 1752	sells
+E276	Transaction_Transfer-Money:T13
+A13	Realis E276 Generic
+T14	Transaction_Transaction 981 992	inheritance
+E282	Transaction_Transaction:T14
+A14	Realis E282 Generic
+T15	Life_Divorce 4402 4410	divorced
+E288	Life_Divorce:T15
+A15	Realis E288 Actual
+T16	Life_Die 491 496	death
+E293	Life_Die:T16
+A16	Realis E293 Actual
+T17	Transaction_Transfer-Ownership 1747 1752	sells
+E330	Transaction_Transfer-Ownership:T17
+A17	Realis E330 Generic
+T18	Contact_Correspondence 2063 2071	feedback
+E350	Contact_Correspondence:T18
+A18	Realis E350 Generic
+T19	Movement_Transport-Person 5185 5192	visited
+E358	Movement_Transport-Person:T19
+A19	Realis E358 Actual
+T20	Manufacture_Artifact 1721 1729	produces
+E362	Manufacture_Artifact:T20
+A20	Realis E362 Generic
+T21	Life_Die 3500 3508	obituary
+E387	Life_Die:T21
+A21	Realis E387 Actual
+T22	Personnel_Start-Position 3849 3858	employing
+E422	Personnel_Start-Position:T22
+A22	Realis E422 Actual
+T23	Contact_Meet 3251 3254	met
+E440	Contact_Meet:T23
+A23	Realis E440 Actual
+T24	Transaction_Transfer-Money 4659 4663	made
+E452	Transaction_Transfer-Money:T24
+A24	Realis E452 Actual
+T25	Contact_Meet 3118 3121	met
+E457	Contact_Meet:T25
+A25	Realis E457 Actual
+T26	Manufacture_Artifact 3389 3395	making
+E480	Manufacture_Artifact:T26
+A26	Realis E480 Actual
+T27	Life_Beborn 2861 2865	born
+E532	Life_Beborn:T27
+A27	Realis E532 Actual
+T28	Manufacture_Artifact 4864 4869	maker
+E557	Manufacture_Artifact:T28
+A28	Realis E557 Actual
+T29	Business_Start-Org 349 354	start
+E593	Business_Start-Org:T29
+A29	Realis E593 Actual
+T30	Transaction_Transfer-Ownership 2670 2674	sold
+E656	Transaction_Transfer-Ownership:T30
+A30	Realis E656 Actual
+T31	Business_Start-Org 3878 3885	opening
+E659	Business_Start-Org:T31
+A31	Realis E659 Actual
+T32	Manufacture_Artifact 4104 4108	made
+E683	Manufacture_Artifact:T32
+A32	Realis E683 Actual
+T33	Transaction_Transfer-Money 2670 2674	sold
+E693	Transaction_Transfer-Money:T33
+A33	Realis E693 Actual
+T34	Life_Beborn 4901 4909	newborns
+E721	Life_Beborn:T34
+A34	Realis E721 Generic
+T35	Business_Start-Org 4613 4619	set up
+E832	Business_Start-Org:T35
+A35	Realis E832 Actual
+T36	Conflict_Demonstrate 5286 5294	movement
+E837	Conflict_Demonstrate:T36
+A36	Realis E837 Generic
+T37	Transaction_Transfer-Ownership 4755 4761	buying
+E842	Transaction_Transfer-Ownership:T37
+A37	Realis E842 Actual
+T38	Life_Die 432 436	died
+E869	Life_Die:T38
+A38	Realis E869 Actual
+T39	Transaction_Transfer-Money 4927 4935	investor
+E893	Transaction_Transfer-Money:T39
+A39	Realis E893 Actual
+T40	Manufacture_Artifact 3234 3239	maker
+E916	Manufacture_Artifact:T40
+A40	Realis E916 Actual
+T41	Conflict_Demonstrate 5206 5216	protesters
+E922	Conflict_Demonstrate:T41
+A41	Realis E922 Generic
+T42	Business_Start-Org 1065 1072	started
+E985	Business_Start-Org:T42
+A42	Realis E985 Actual
+T43	Movement_Transport-Artifact 2165 2173	shipping
+E990	Movement_Transport-Artifact:T43
+A43	Realis E990 Generic

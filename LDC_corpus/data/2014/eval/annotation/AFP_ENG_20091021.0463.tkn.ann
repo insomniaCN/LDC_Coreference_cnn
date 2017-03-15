@@ -1,0 +1,33 @@
+T1	Business_Declare-Bankruptcy 108 118	bankruptcy
+E1	Business_Declare-Bankruptcy:T1 
+A1	Realis E1 Actual
+T2	Business_Declare-Bankruptcy 282 292	bankruptcy
+E2	Business_Declare-Bankruptcy:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Money 308 311	tax
+E3	Transaction_Transfer-Money:T3 
+A3	Questionable E3 Realis
+A4	Realis E3 Generic
+T5	Business_Declare-Bankruptcy 525 535	bankruptcy
+E5	Business_Declare-Bankruptcy:T5 
+A6	Questionable E5 Realis
+A7	Realis E5 Actual
+T6	Transaction_Transfer-Money 547 550	tax
+E6	Transaction_Transfer-Money:T6 
+A8	Questionable E6 Realis
+A9	Realis E6 Generic
+T7	Personnel_End-Position 623 629	sacked
+E7	Personnel_End-Position:T7 
+A10	Realis E7 Actual
+T8	Personnel_End-Position 207 213	Former
+E8	Personnel_End-Position:T8 
+A11	Realis E8 Actual
+T9	Personnel_Start-Position 378 383	began
+E9	Personnel_Start-Position:T9 
+A12	Realis E9 Actual
+T4	Business_Declare-Bankruptcy 434 442;444 452	declared bankrupt
+E4	Business_Declare-Bankruptcy:T4 
+A5	Realis E4 Actual
+T10	Personnel_End-Position 699 702	was
+E10	Personnel_End-Position:T10 
+A13	Realis E10 Actual

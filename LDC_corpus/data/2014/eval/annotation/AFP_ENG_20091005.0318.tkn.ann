@@ -1,0 +1,49 @@
+T1	Conflict_Demonstrate 75 82	protest
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 240 249	protested
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 570 576	former
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Conflict_Demonstrate 435 448	demonstration
+E4	Conflict_Demonstrate:T4 
+A4	Realis E4 Actual
+T5	Conflict_Demonstrate 715 724	protested
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 1254 1261	charges
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Generic
+T7	Conflict_Demonstrate 1654 1663	protested
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 2473 2476	war
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Life_Die 2515 2522	killing
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 362 365	war
+E10	Conflict_Attack:T10 
+A10	Realis E10 Generic
+T11	Conflict_Attack 406 415	offensive
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 592 595	war
+E12	Conflict_Attack:T12 
+A12	Realis E12 Generic
+T13	Conflict_Attack 1042 1049	clashes
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 1243 1246	war
+E14	Conflict_Attack:T14 
+A14	Realis E14 Generic
+A15	Questionable E6 Realis
+T15	Contact_Meet 1696 1706	conference
+E15	Contact_Meet:T15 
+A16	Realis E15 Actual
+T16	Conflict_Attack 2437 2440	war
+E16	Conflict_Attack:T16 
+A17	Realis E16 Generic

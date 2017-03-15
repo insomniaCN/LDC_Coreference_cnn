@@ -1,0 +1,138 @@
+T1	Personnel_End-Position 861 867	former
+E23	Personnel_End-Position:T1
+A1	Realis E23 Actual
+T2	Contact_Meet 1396 1403	accused
+E44	Contact_Meet:T2
+A2	Realis E44 Actual
+T3	Contact_Meet 2490 2499	testified
+E47	Contact_Meet:T3
+A3	Realis E47 Actual
+T4	Contact_Contact 1810 1818	reported
+E57	Contact_Contact:T4
+A4	Realis E57 Actual
+T5	Justice_Trial-Hearing 2586 2595	testified
+E123	Justice_Trial-Hearing:T5
+A5	Realis E123 Actual
+T6	Personnel_End-Position 624 630	former
+E172	Personnel_End-Position:T6
+A6	Realis E172 Actual
+T7	Personnel_End-Position 1653 1659	former
+E181	Personnel_End-Position:T7
+A7	Realis E181 Actual
+T8	Life_Injure 1722 1731	molesting
+E200	Life_Injure:T8
+A8	Realis E200 Actual
+T9	Contact_Contact 2664 2672	response
+E202	Contact_Contact:T9
+A9	Realis E202 Actual
+T10	Conflict_Attack 1426 1431	abuse
+E208	Conflict_Attack:T10
+A10	Realis E208 Actual
+T11	Life_Injure 600 605	abuse
+E265	Life_Injure:T11
+A11	Realis E265 Actual
+T12	Justice_Trial-Hearing 915 920	trial
+E293	Justice_Trial-Hearing:T12
+A12	Realis E293 Other
+T13	Justice_Trial-Hearing 1375 1382	hearing
+E370	Justice_Trial-Hearing:T13
+A13	Realis E370 Actual
+T14	Justice_Trial-Hearing 1776 1781	trial
+E406	Justice_Trial-Hearing:T14
+A14	Realis E406 Actual
+T15	Contact_Meet 1565 1570	lying
+E426	Contact_Meet:T15
+A15	Realis E426 Actual
+T16	Transaction_Transfer-Money 1153 1160	payment
+E428	Transaction_Transfer-Money:T16
+A16	Realis E428 Other
+T17	Justice_Trial-Hearing 2490 2499	testified
+E481	Justice_Trial-Hearing:T17
+A17	Realis E481 Actual
+T18	Justice_Trial-Hearing 699 706	hearing
+E511	Justice_Trial-Hearing:T18
+A18	Realis E511 Actual
+T19	Contact_Meet 1792 1801	testified
+E529	Contact_Meet:T19
+A19	Realis E529 Actual
+T20	Contact_Contact 1701 1705	said
+E536	Contact_Contact:T20
+A20	Realis E536 Actual
+T21	Contact_Contact 2001 2007	denied
+E538	Contact_Contact:T21
+A21	Realis E538 Actual
+T22	Personnel_End-Position 1868 1874	former
+E570	Personnel_End-Position:T22
+A22	Realis E570 Actual
+T23	Personnel_End-Position 454 460	former
+E574	Personnel_End-Position:T23
+A23	Realis E574 Actual
+T24	Contact_Contact 2197 2206	reporting
+E596	Contact_Contact:T24
+A24	Realis E596 Other
+T25	Personnel_End-Position 810 817	retired
+E607	Personnel_End-Position:T25
+A25	Realis E607 Actual
+T26	Justice_Charge-Indict 1259 1266	charges
+E615	Justice_Charge-Indict:T26
+A26	Realis E615 Actual
+T27	Conflict_Attack 1722 1731	molesting
+E632	Conflict_Attack:T27
+A27	Realis E632 Actual
+T28	Justice_Trial-Hearing 216 221	TRIAL
+E656	Justice_Trial-Hearing:T28
+A28	Realis E656 Other
+T29	Conflict_Attack 2432 2437	abuse
+E691	Conflict_Attack:T29
+A29	Realis E691 Actual
+T30	Contact_Meet 2156 2164	confront
+E696	Contact_Meet:T30
+A30	Realis E696 Other
+T31	Contact_Contact 1485 1491	report
+E714	Contact_Contact:T31
+A31	Realis E714 Other
+T32	Contact_Contact 2623 2627	told
+E732	Contact_Contact:T32
+A32	Realis E732 Actual
+T33	Contact_Meet 2586 2595	testified
+E754	Contact_Meet:T33
+A33	Realis E754 Actual
+T34	Justice_Charge-Indict 530 537	charges
+E783	Justice_Charge-Indict:T34
+A34	Realis E783 Actual
+T35	Contact_Meet 1291 1298	perjury
+E815	Contact_Meet:T35
+A35	Realis E815 Generic
+T36	Personnel_End-Position 385 391	former
+E830	Personnel_End-Position:T36
+A36	Realis E830 Actual
+T37	Life_Injure 1426 1431	abuse
+E831	Life_Injure:T37
+A37	Realis E831 Other
+T38	Justice_Trial-Hearing 521 526	trial
+E856	Justice_Trial-Hearing:T38
+A38	Realis E856 Other
+T39	Life_Injure 2432 2437	abuse
+E890	Life_Injure:T39
+A39	Realis E890 Other
+T40	Contact_Contact 2352 2360	reported
+E909	Contact_Contact:T40
+A40	Realis E909 Other
+T41	Contact_Correspondence 2397 2403	emails
+E915	Contact_Correspondence:T41
+A41	Realis E915 Actual
+T42	Contact_Correspondence 2374 2379	wrote
+E918	Contact_Correspondence:T42
+A42	Realis E918 Actual
+T43	Contact_Correspondence 2062 2068	emails
+E937	Contact_Correspondence:T43
+A43	Realis E937 Actual
+T44	Conflict_Attack 600 605	abuse
+E958	Conflict_Attack:T44
+A44	Realis E958 Actual
+T45	Contact_Contact 1927 1931	said
+E995	Contact_Contact:T45
+A45	Realis E995 Actual
+T46	Contact_Meet 2269 2276	message
+E998	Contact_Meet:T46
+A46	Realis E998 Other

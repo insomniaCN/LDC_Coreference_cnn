@@ -1,0 +1,36 @@
+T1	Justice_Sentence 359 365;377 387	gotten jail terms
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 515 524	sentenced
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T3	Justice_Fine 632 637	fined
+E3	Justice_Fine:T3 
+A3	Realis E3 Actual
+T4	Justice_Sentence 759 777	received sentences
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 1179 1187	arrested
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1511 1515	sold
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 1640 1646	profit
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 1718 1729	distributed
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Justice_Convict 1893 1902	convicted
+E9	Justice_Convict:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 1945 1949	sold
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Justice_Arrest-Jail 623 627	jail
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 867 871	told
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual

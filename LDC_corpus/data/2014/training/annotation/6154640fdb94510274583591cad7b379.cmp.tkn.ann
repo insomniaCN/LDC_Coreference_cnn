@@ -1,0 +1,95 @@
+T1	Justice_Charge-Indict 235 242	charged
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Ownership 518 524	aiding
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 560 563	aid
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 833 838;844 849	funds going
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Generic
+T5	Transaction_Transfer-Money 889 896	profits
+E6	Transaction_Transfer-Money:T5 
+A6	Realis E6 Generic
+T6	Transaction_Transfer-Money 920 928	going to
+E5	Transaction_Transfer-Money:T6 
+A5	Realis E5 Generic
+T7	Justice_Charge-Indict 975 982	charged
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Ownership 988 1000	sending arms
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 1028 1035	charged
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T11	Transaction_Transfer-Money 1204 1212	gambling
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 1254 1260	mining
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1300 1303	war
+E13	Conflict_Attack:T13 
+A13	Realis E13 Generic
+T14	Conflict_Attack 1330 1335	mined
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T16	Conflict_Attack 1397 1399	it
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+#1	AnnotatorNotes E16	anaphor
+T18	Conflict_Attack 1852 1863;1868 1872	gun held to head
+E18	Conflict_Attack:T18 
+A18	Realis E18 Other
+T19	Justice_Charge-Indict 2112 2119	impeach
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Other
+T20	Justice_Charge-Indict 2151 2158	do that
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Other
+#2	AnnotatorNotes E20	anaphor
+T21	Justice_Charge-Indict 2203 2210	impeach
+E21	Justice_Charge-Indict:T21 
+A21	Realis E21 Other
+T22	Justice_Charge-Indict 2370 2377	charged
+E22	Justice_Charge-Indict:T22 
+A22	Realis E22 Other
+T24	Conflict_Attack 2532 2537	shoot
+E24	Conflict_Attack:T24 
+A24	Realis E24 Other
+T26	Movement_Transport-Person 2836 2846	pulled out
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Actual
+T27	Life_Divorce 3150 3159	divorcing
+E27	Life_Divorce:T27 
+A27	Realis E27 Other
+T28	Contact_Communicate 3247 3256	interview
+E28	Contact_Communicate:T28 
+A28	Realis E28 Actual
+T29	Life_Divorce 3330 3337	divorce
+E29	Life_Divorce:T29 
+A29	Realis E29 Actual
+T31	Life_Divorce 3418 3425	divorce
+E31	Life_Divorce:T31 
+A31	Realis E31 Actual
+T32	Contact_Communicate 3473 3482	confessed
+E32	Contact_Communicate:T32 
+A32	Realis E32 Actual
+T38	Conflict_Attack 4455 4459	rape
+E38	Conflict_Attack:T38 
+A39	Realis E38 Other
+T39	Justice_Charge-Indict 4460 4467	charges
+E39	Justice_Charge-Indict:T39 
+A40	Realis E39 Other
+T41	Life_Die 4916 4919	die
+E41	Life_Die:T41 
+A42	Realis E41 Generic
+T42	Justice_Charge-Indict 5060 5070	indictment
+E42	Justice_Charge-Indict:T42 
+A43	Realis E42 Generic
+T51	Personnel_End-Position 114 117	was
+E51	Personnel_End-Position:T51 
+A53	Realis E51 Actual

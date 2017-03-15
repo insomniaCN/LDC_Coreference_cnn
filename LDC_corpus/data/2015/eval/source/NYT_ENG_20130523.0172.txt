@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130523.0172" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130523/20130523,98701132f0858ff4cc17e0d45637bfa5.xml">
+<HEADLINE>
+ENVOY SAYS NORTH KOREA OPEN TO DIALOGUE
+</HEADLINE>
+<TEXT>
+<P>
+BEIJING – A North Korean envoy visiting China said his country would “accept the proposal” by Chinese officials to open up dialogue, the China News Service reported Thursday, a possible signal that the North would agree to talks on its nuclear program.
+</P>
+<P>
+The comments were reported after the envoy, Marshal Choe Ryong-hae, met Liu Yunshan, who is a member of the Communist Party Standing Committee and the politician who heads ideological affairs for the Communist Party. Liu was quoted as repeating a frequent appeal by China for a resumption of talks that would result in the removal of nuclear weapons from the Korean Peninsula “as soon as possible.”
+</P>
+<P>
+Few diplomats believe that the North is prepared to be involved in so-called six-party talks that aim to strip North Korea of its nuclear weapons. The international six-party talks on the North’s nuclear program – involving the United States, North Korea, South Korea, China, Japan and Russia – collapsed in 2008 after North Korea walked out, but the United States has been pushing in recent weeks for them to be restarted.
+</P>
+<P>
+China is North Korea’s biggest benefactor, but relations have been strained in recent months. Experts say the North bridles at China’s stiff demands for low-priced natural resources, and that Chinese officials are annoyed by the North’s defiance of entreaties to refrain from missile and nuclear tests, the lastest of which was conducted in February. The visit by Choe, a close aide to the North’s new leader, Kim Jong Un, was seen by many analysts as a fence-mending mission.
+</P>
+<P>
+Choe, 72, was quoted by the China News Service as being “highly” appreciative of “China’s huge efforts to maintain peace and stability” on the Korean Peninsula.
+</P>
+<P>
+There have been no reports so far of Choe meeting with senior Chinese officials involved in foreign policy and military affairs. The publicized meetings have been with senior officials of the Communist Party who are the usual interlocutors with North Korea. On Wednesday, Choe met with Wang Jiarui, head of the International Department of the Communist Party of China.
+</P>
+<P>
+The North Korean news agency said Choe visited an industrial park in Beijing on Thursday. China’s basic advice to North Korea has been that it should reform its economy following the path of Deng Xiaoping, with special economic zones and some private enterprise. Although North Korea has sometimes embarked on such reforms, the government has later pulled back, perhaps for fear of losing control in one of the world’s most tightly controlled countries.
+</P>
+<P>
+North Korean experts in China say they detect little change in China’s underlying policy of supporting North Korea. But the Chinese leadership would like North Korea to modify its erratic behavior, stop nuclear tests and halt its missile program, they say. How to reach that goal with Kim has not been resolved, some of the analysts said.
+</P>
+<P>
+The marshal’s visit came just days after the announcement that President Xi Jingping of China and President Barack Obama intended to meet in California next month, suggesting that the North was concerned that its recent actions had pushed China and the United States closer.
+</P>
+<P>
+Wang Gunsheng, an analyst at the Chinese Academy of Social Sciences, said the visit of Choe could be interpreted as a “kind of apology” by North Korea for its recent behavior.
+</P>
+</TEXT>
+</DOC>

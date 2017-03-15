@@ -1,0 +1,66 @@
+T2	Movement_Transport-Person 335 344	came home
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 582 586;594 601	sent message
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 605 608	say
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 658 665	request
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 618 629	tender over
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Other
+T7	Justice_Arrest-Jail 1891 1899	arrested
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 1453 1461	arrested
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 1476 1483	charges
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1487 1499	manslaughter
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Justice_Charge-Indict 1914 1921	charges
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Actual
+T12	Life_Die 1925 1937	manslaughter
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T18	Life_Die 3190 3195	drown
+E18	Life_Die:T18 
+A18	Realis E18 Other
+T22	Life_Die 4425 4430	drown
+E22	Life_Die:T22 
+A22	Realis E22 Other
+T23	Life_Die 4517 4522	death
+E23	Life_Die:T23 
+A23	Realis E23 Other
+T24	Life_Die 4567 4572	drown
+E24	Life_Die:T24 
+A24	Realis E24 Other
+T25	Life_Die 4633 4638	death
+E25	Life_Die:T25 
+A25	Realis E25 Other
+T1	Movement_Transport-Person 2088 2094	handed
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T13	Movement_Transport-Person 2304 2308;2318 2322	gave back
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 2709 2715	handed
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 2925 2929;2939 2943	gave back
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Movement_Transport-Person 3944 3950	handed
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Actual
+T17	Movement_Transport-Person 4160 4164;4174 4178	gave back
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Actual

@@ -1,0 +1,126 @@
+T1	Justice_Convict 98 106	convicts
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 274 280	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 296 305	convicted
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Sentence 321 330	sentenced
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 334 340	prison
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Generic
+T7	Justice_Trial-Hearing 399 403	case
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 416 425	ex-leader
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Justice_Trial-Hearing 451 455	case
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Actual
+T10	Personnel_End-Position 464 470	former
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual
+T11	Personnel_End-Position 107 113	former
+E11	Personnel_End-Position:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Money 653 663	embezzling
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Other
+T14	Transaction_Transfer-Money 746 755	receiving
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Money 838 848	laundering
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T18	Personnel_Start-Position 1004 1013	successor
+E18	Personnel_Start-Position:T18 
+A18	Realis E18 Actual
+T19	Justice_Convict 1077 1086	convicted
+E19	Justice_Convict:T19 
+A19	Realis E19 Actual
+T20	Justice_Trial-Hearing 1121 1126	court
+E20	Justice_Trial-Hearing:T20 
+A20	Realis E20 Actual
+T26	Justice_Sentence 1290 1298;1311 1320	received sentences
+E26	Justice_Sentence:T26 
+A26	Realis E26 Actual
+T27	Justice_Charge-Indict 1332 1339	charges
+E27	Justice_Charge-Indict:T27 
+A27	Realis E27 Actual
+T28	Justice_Sentence 1434 1443	sentenced
+E28	Justice_Sentence:T28 
+A28	Realis E28 Actual
+T29	Justice_Arrest-Jail 1460 1466	prison
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Generic
+T34	Justice_Charge-Indict 1498 1505	accused
+E34	Justice_Charge-Indict:T34 
+A34	Realis E34 Actual
+T35	Transaction_Transfer-Money 1513 1520	bribing
+E35	Transaction_Transfer-Money:T35 
+A35	Realis E35 Other
+T36	Justice_Charge-Indict 1587 1593	charge
+E36	Justice_Charge-Indict:T36 
+A36	Realis E36 Actual
+T38	Justice_Trial-Hearing 1651 1655	case
+E38	Justice_Trial-Hearing:T38 
+A38	Realis E38 Actual
+T40	Justice_Arrest-Jail 1747 1753	prison
+E40	Justice_Arrest-Jail:T40 
+A40	Realis E40 Generic
+T41	Justice_Convict 1757 1766	convicted
+E41	Justice_Convict:T41 
+A41	Realis E41 Other
+T42	Transaction_Transfer-Money 1793 1805	embezzlement
+E42	Transaction_Transfer-Money:T42 
+A42	Realis E42 Generic
+T43	Transaction_Transfer-Money 1810 1824	bribe - taking
+E43	Transaction_Transfer-Money:T43 
+A43	Realis E43 Generic
+T44	Justice_Convict 1843 1852	convicted
+E44	Justice_Convict:T44 
+A44	Realis E44 Other
+T45	Justice_Arrest-Jail 1872 1876	jail
+E45	Justice_Arrest-Jail:T45 
+A45	Realis E45 Generic
+T46	Transaction_Transfer-Money 1886 1900	bribe - taking
+E46	Transaction_Transfer-Money:T46 
+A46	Realis E46 Generic
+T47	Transaction_Transfer-Money 1905 1923	money - laundering
+E47	Transaction_Transfer-Money:T47 
+A47	Realis E47 Generic
+T48	Justice_Charge-Indict 1924 1931	charges
+E48	Justice_Charge-Indict:T48 
+A48	Realis E48 Actual
+T50	Justice_Charge-Indict 1955 1962	charges
+E50	Justice_Charge-Indict:T50 
+A50	Realis E50 Actual
+T52	Justice_Arrest-Jail 2022 2026	held
+E52	Justice_Arrest-Jail:T52 
+A52	Realis E52 Actual
+T53	Justice_Appeal 2112 2119	appeals
+E53	Justice_Appeal:T53 
+A53	Realis E53 Actual
+T54	Justice_Release-Parole 2124 2131	release
+E54	Justice_Release-Parole:T54 
+A54	Realis E54 Other
+T55	Movement_Transport-Person 2135 2141	flight
+E55	Movement_Transport-Person:T55 
+A55	Realis E55 Other
+T56	Personnel_Start-Position 2167 2176	successor
+E56	Personnel_Start-Position:T56 
+A56	Realis E56 Actual
+T57	Conflict_Attack 2298 2301	war
+E57	Conflict_Attack:T57 
+A57	Realis E57 Actual
+T6	Justice_Charge-Indict 1774 1780	counts
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T13	Justice_Charge-Indict 642 649	accused
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Actual

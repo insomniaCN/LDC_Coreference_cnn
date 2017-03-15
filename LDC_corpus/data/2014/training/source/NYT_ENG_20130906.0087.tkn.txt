@@ -1,0 +1,61 @@
+<DOC id= " NYT_ENG_20130906.0087 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130906 / 20130906,63baf02 a0509eb6b04bc179cfc9ce257 . xml " > 
+<HEADLINE> 
+POLICE USE VIDEO TO BUILD CASE AGAINST A SPEED DEMON 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+NEW YORK - The driver , who went by the name Afroduck , was fast and proud , using a dashboard camera to capture his wild 26.5 - mile journey around Manhattan in 24 minutes .
+< / P> 
+<P> 
+The police , taunted by Afroduck , were furious .
+< / P> 
+<P> 
+Police Commissioner Raymond W. Kelly vowed that the driver would be caught .
+< / P> 
+<P> 
+“ We now have license - plate readers in the city that will assist in this type of investigation , ” Kelly told reporters .
+< / P> 
+<P> 
+Late Thursday , the police arrested Christopher Adam Tang , 30 , and charged him with six driving violations .
+< / P> 
+<P> 
+They also seized a 2006 BMW Z4 .
+< / P> 
+<P> 
+The police said they were able to recreate the wild ride by using surveillance video , which also ultimately allowed them to track down Tang .
+< / P> 
+<P> 
+Tang ’s route started on the Franklin D . Roosevelt Drive at 116th Street . As he tore south on the highway , he zipped past cars and taxis and stopped only for red lights . It was night , and electronic music was playing on the car ’s sound system . He whipped around the southern tip of Manhattan before heading up the West Side Highway . He skipped the northern tip of Manhattan by turning right near the George Washington Bridge and heading back to the starting point .
+< / P> 
+<P> 
+Soon after a video of the wild ride was posted on YouTube , the driver gave an interview to the automobile website Jalopnik .
+< / P> 
+<P> 
+He claimed that he had set a speed record for traveling the loop around Manhattan , which he already held .
+< / P> 
+<P> 
+“ I can do it consistently under 24 minutes and most likely beat my own record again , ” he said .
+< / P> 
+<P> 
+He dismissed concerns that the stunt was dangerous , saying his average speed was only 66 mph .
+< / P> 
+<P> 
+However , that takes into account stopping for red lights , and on the video , he can be seen traveling at breakneck speed as he overtakes other vehicles .
+< / P> 
+<P> 
+Still , he acknowledged that all driving carried risks .
+< / P> 
+<P> 
+“ Whether you ’re a good driver or not , when you ’re on the road , you have a high chance of getting hit by a drunk driver , being cut off , especially in New York , ” he told the website .
+< / P> 
+<P> 
+Asked if he was nervous about being caught after he posted the video , he said that an accomplishment like his needed to be known .
+< / P> 
+<P> 
+“ You frankly ca n’t identify who I am by just looking at the video , and records were meant to be broken , ” he said , although he also told the website what kind of car he had been driving .
+< / P> 
+<P> 
+Tang , who lives in East Harlem , was charged with reckless driving , reckless endangerment , following too closely and three other counts .
+< / P> 
+< / TEXT> 
+< / DOC

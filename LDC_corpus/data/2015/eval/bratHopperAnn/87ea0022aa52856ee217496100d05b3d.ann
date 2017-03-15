@@ -1,0 +1,28 @@
+T1	Life_Divorce 170 178	divorced
+E306	Life_Divorce:T1
+A1	Realis E306 Actual
+T2	Movement_Transport-Person 183 188	moved
+E360	Movement_Transport-Person:T2
+A2	Realis E360 Actual
+T3	Contact_Correspondence 314 320	called
+E142	Contact_Correspondence:T3
+A3	Realis E142 Actual
+T4	Contact_Correspondence 466 472	called
+E716	Contact_Correspondence:T4
+A4	Realis E716 Actual
+T5	Contact_Contact 853 860	adviced
+E839	Contact_Contact:T5
+A5	Realis E839 Actual
+T6	Contact_Correspondence 864 869	email
+E174	Contact_Correspondence:T6
+A6	Realis E174 Other
+T7	Personnel_Start-Position 238 247	employing
+E912	Personnel_Start-Position:T7
+A7	Realis E912 Actual
+T8	Transaction_Transfer-Money 778 781	Tax
+E40	Transaction_Transfer-Money:T8
+A8	Realis E40 Generic
+T9	Transaction_Transfer-Money 335 338	tax
+E421	Transaction_Transfer-Money:T9
+A9	Realis E421 Generic
+R1	Coreference Arg1:E421 Arg2:E40

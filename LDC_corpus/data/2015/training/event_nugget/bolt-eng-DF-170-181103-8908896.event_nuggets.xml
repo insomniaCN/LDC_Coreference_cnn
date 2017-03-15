@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000567" doc_id="bolt-eng-DF-170-181103-8908896" source_type="multi_post">
+<event_mention id="em-10" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="267" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-23" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="186" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-36" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="522" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-49" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="603" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-62" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="814" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-77" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="835" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-90" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="930" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-105" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="1178" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-118" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="1199" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-131" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="1294" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-144" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="1674" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-157" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="1695" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-170" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="1790" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-183" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="2281" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-198" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="2335" length="9">taxpayers</trigger>
+      </event_mention>
+<event_mention id="em-213" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="2856" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-226" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="2877" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-239" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="2972" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-252" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="3322" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-265" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="3403" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-278" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="3707" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-291" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="3788" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-304" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4250" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-317" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4271" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-330" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4366" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-343" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4553" length="4">came</trigger>
+      </event_mention>
+<event_mention id="em-358" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4642" length="4">came</trigger>
+      </event_mention>
+<event_mention id="em-373" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4767" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-388" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4797" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-403" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="4780" length="6">put in</trigger>
+      </event_mention>
+<event_mention id="em-418" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5109" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-431" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5130" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-444" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5225" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-457" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5716" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-470" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5770" length="9">taxpayers</trigger>
+      </event_mention>
+<event_mention id="em-483" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="2376" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-498" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5811" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-511" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="5960" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-524" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="6132" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-537" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="6213" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-552" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="6848" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-565" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="7044" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-578" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="7044" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-593" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="7234" length="4">cost</trigger>
+      </event_mention>
+<event_mention id="em-606" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="7481" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-619" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="8300" length="6">import</trigger>
+      </event_mention>
+<event_mention id="em-636" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="8311" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-651" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="8311" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-664" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="8407" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-679" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="7197" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-692" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="8747" length="5">votes</trigger>
+      </event_mention>
+<event_mention id="em-707" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="8920" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-720" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9254" length="6">import</trigger>
+      </event_mention>
+<event_mention id="em-733" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9265" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-746" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9265" length="5">sales</trigger>
+      </event_mention>
+<event_mention id="em-759" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9361" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-772" type="personnel" subtype="startposition" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9408" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-787" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9570" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-800" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9651" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-813" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="9947" length="6">across</trigger>
+      </event_mention>
+<event_mention id="em-828" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10037" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-841" type="personnel" subtype="startposition" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10065" length="4">hire</trigger>
+      </event_mention>
+<event_mention id="em-854" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10104" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-867" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10146" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-880" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10261" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-893" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10274" length="7">explain</trigger>
+      </event_mention>
+<event_mention id="em-906" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10692" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-919" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10713" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-932" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="10808" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-945" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="11331" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-958" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="11352" length="9">works for</trigger>
+      </event_mention>
+<event_mention id="em-971" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="11447" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-984" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="11984" length="4">wage</trigger>
+      </event_mention>
+<event_mention id="em-997" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="12065" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-1010" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="12226" length="7">entered</trigger>
+      </event_mention>
+<event_mention id="em-1023" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="12316" length="5">enter</trigger>
+      </event_mention>
+<event_mention id="em-1038" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="12369" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-1053" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="12742" length="5">votes</trigger>
+      </event_mention>
+<event_mention id="em-1066" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181103-8908896" offset="12941" length="4">Send</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

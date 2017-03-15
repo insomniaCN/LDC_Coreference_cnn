@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea740000000000000072" doc_id="NYT_ENG_20130805.0162" source_type="newswire">
+  <event_mention id="em-23" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="916" length="5">rally</trigger>
+  </event_mention>
+  <event_mention id="em-71" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="1570" length="5">rally</trigger>
+  </event_mention>
+  <event_mention id="em-77" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130805.0162" offset="2052" length="6">resign</trigger>
+  </event_mention>
+  <event_mention id="em-144" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="769" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-231" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="795" length="5">rally</trigger>
+  </event_mention>
+  <event_mention id="em-243" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="1347" length="5">rally</trigger>
+  </event_mention>
+  <event_mention id="em-258" type="business" subtype="endorg" realis="other">
+    <trigger source="NYT_ENG_20130805.0162" offset="1591" length="8">canceled</trigger>
+  </event_mention>
+  <event_mention id="em-291" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="1459" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-332" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130805.0162" offset="1529" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-336" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130805.0162" offset="2279" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-340" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130805.0162" offset="1849" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-342" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130805.0162" offset="781" length="8">speaking</trigger>
+  </event_mention>
+  <event_mention id="em-346" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="520" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-399" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130805.0162" offset="1964" length="5">taxes</trigger>
+  </event_mention>
+  <event_mention id="em-454" type="justice" subtype="pardon" realis="other">
+    <trigger source="NYT_ENG_20130805.0162" offset="2117" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-482" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="1688" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130805.0162" offset="1210" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-566" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130805.0162" offset="1849" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-693" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130805.0162" offset="290" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-715" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130805.0162" offset="1765" length="3">tax</trigger>
+  </event_mention>
+  <event_mention id="em-787" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130805.0162" offset="535" length="3">tax</trigger>
+  </event_mention>
+  <event_mention id="em-829" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130805.0162" offset="2261" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-936" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130805.0162" offset="1681" length="6">prison</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

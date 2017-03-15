@@ -1,0 +1,42 @@
+T1	Justice_Arrest-Jail 147 153	arrest
+E503	Justice_Arrest-Jail:T1
+A1	Realis E503 Actual
+T2	Justice_Arrest-Jail 333 341	arrested
+E373	Justice_Arrest-Jail:T2
+A2	Realis E373 Actual
+T3	Justice_Arrest-Jail 379 387	arrested
+E24	Justice_Arrest-Jail:T3
+A3	Realis E24 Actual
+T4	Justice_Arrest-Jail 743 749	arrest
+E566	Justice_Arrest-Jail:T4
+A4	Realis E566 Actual
+T5	Contact_Broadcast 488 492	told
+E986	Contact_Broadcast:T5
+A5	Realis E986 Actual
+T6	Movement_Transport-Person 506 513	entered
+E375	Movement_Transport-Person:T6
+A6	Realis E375 Actual
+T7	Transaction_Transfer-Ownership 563 568	given
+E8	Transaction_Transfer-Ownership:T7
+A7	Realis E8 Actual
+T8	Contact_Meet 649 656	respond
+E434	Contact_Meet:T8
+A8	Realis E434 Other
+T9	Justice_Extradite 777 788	extradition
+E736	Justice_Extradite:T9
+A9	Realis E736 Generic
+T10	Contact_Correspondence 789 796	request
+E312	Contact_Correspondence:T10
+A10	Realis E312 Actual
+T11	Contact_Broadcast 831 835	told
+E978	Contact_Broadcast:T11
+A11	Realis E978 Actual
+T12	Contact_Broadcast 597 605	declared
+E107	Contact_Broadcast:T12
+A12	Realis E107 Actual
+T13	Movement_Transport-Person 777 788	extradition
+E729	Movement_Transport-Person:T13
+A13	Realis E729 Other
+R1	Coreference Arg1:E503 Arg2:E373
+R2	Coreference Arg1:E373 Arg2:E24
+R3	Coreference Arg1:E24 Arg2:E566

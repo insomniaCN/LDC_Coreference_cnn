@@ -1,0 +1,129 @@
+T1	Contact_Meet 1114 1121	ordered
+E6	Contact_Meet:T1
+A1	Realis E6 Actual
+T2	Movement_Transport-Artifact 326 335	smuggling
+E41	Movement_Transport-Artifact:T2
+A2	Realis E41 Actual
+T3	Justice_Convict 1944 1954	conviction
+E63	Justice_Convict:T3
+A3	Realis E63 Actual
+T4	Justice_Charge-Indict 448 457	arraigned
+E65	Justice_Charge-Indict:T4
+A4	Realis E65 Actual
+T5	Movement_Transport-Artifact 1845 1852	deliver
+E106	Movement_Transport-Artifact:T5
+A5	Realis E106 Other
+T6	Movement_Transport-Artifact 768 776	delivery
+E108	Movement_Transport-Artifact:T6
+A6	Realis E108 Generic
+T7	Contact_Contact 833 837	said
+E119	Contact_Contact:T7
+A7	Realis E119 Actual
+T8	Justice_Sentence 2124 2132	sentence
+E126	Justice_Sentence:T8
+A8	Realis E126 Actual
+T9	Contact_Contact 1778 1784	saying
+E151	Contact_Contact:T9
+A9	Realis E151 Actual
+T10	Justice_Trial-Hearing 608 615	hearing
+E168	Justice_Trial-Hearing:T10
+A10	Realis E168 Other
+T11	Transaction_Transaction 1936 1943	robbery
+E206	Transaction_Transaction:T11
+A11	Realis E206 Generic
+T12	Justice_Arrest-Jail 366 370	Jail
+E216	Justice_Arrest-Jail:T12
+A12	Realis E216 Generic
+T13	Movement_Transport-Artifact 1669 1674	bring
+E245	Movement_Transport-Artifact:T13
+A13	Realis E245 Other
+T14	Conflict_Attack 2152 2159	robbery
+E249	Conflict_Attack:T14
+A14	Realis E249 Generic
+T15	Justice_Charge-Indict 740 747	charged
+E281	Justice_Charge-Indict:T15
+A15	Realis E281 Actual
+T16	Justice_Charge-Indict 479 485	charge
+E296	Justice_Charge-Indict:T16
+A16	Realis E296 Actual
+T17	Movement_Transport-Person 1703 1707	came
+E372	Movement_Transport-Person:T17
+A17	Realis E372 Other
+T18	Transaction_Transaction 2152 2159	robbery
+E413	Transaction_Transaction:T18
+A18	Realis E413 Generic
+T19	Contact_Meet 1711 1716	visit
+E421	Contact_Meet:T19
+A19	Realis E421 Other
+T20	Transaction_Transfer-Ownership 1055 1061	seized
+E472	Transaction_Transfer-Ownership:T20
+A20	Realis E472 Actual
+T21	Contact_Meet 1175 1180	visit
+E480	Contact_Meet:T21
+A21	Realis E480 Other
+T22	Conflict_Attack 1936 1943	robbery
+E482	Conflict_Attack:T22
+A22	Realis E482 Generic
+T23	Justice_Charge-Indict 251 258	charges
+E508	Justice_Charge-Indict:T23
+A23	Realis E508 Actual
+T24	Justice_Arrest-Jail 898 904	jailed
+E516	Justice_Arrest-Jail:T24
+A24	Realis E516 Actual
+T25	Transaction_Transfer-Ownership 1338 1342	hand
+E553	Transaction_Transfer-Ownership:T25
+A25	Realis E553 Other
+T26	Contact_Correspondence 1629 1634	asked
+E576	Contact_Correspondence:T26
+A26	Realis E576 Actual
+T27	Justice_Trial-Hearing 937 944	hearing
+E580	Justice_Trial-Hearing:T27
+A27	Realis E580 Other
+T28	Justice_Arrest-Jail 2117 2123	prison
+E600	Justice_Arrest-Jail:T28
+A28	Realis E600 Generic
+T29	Movement_Transport-Artifact 2472 2479	brought
+E601	Movement_Transport-Artifact:T29
+A29	Realis E601 Other
+T30	Transaction_Transaction 2186 2193	robbery
+E649	Transaction_Transaction:T30
+A30	Realis E649 Generic
+T31	Contact_Contact 1495 1504	contacted
+E650	Contact_Contact:T31
+A31	Realis E650 Actual
+T32	Conflict_Attack 2186 2193	robbery
+E672	Conflict_Attack:T32
+A32	Realis E672 Generic
+T33	Justice_Sentence 1908 1916	sentence
+E717	Justice_Sentence:T33
+A33	Realis E717 Actual
+T34	Justice_Arrest-Jail 644 650	lodged
+E731	Justice_Arrest-Jail:T34
+A34	Realis E731 Actual
+T35	Contact_Broadcast 1474 1481	reports
+E739	Contact_Broadcast:T35
+A35	Realis E739 Actual
+T36	Justice_Arrest-Jail 137 145	arrested
+E774	Justice_Arrest-Jail:T36
+A36	Realis E774 Actual
+T37	Movement_Transport-Artifact 503 508	bring
+E788	Movement_Transport-Artifact:T37
+A37	Realis E788 Generic
+T38	Transaction_Transfer-Ownership 1375 1386	surrendered
+E835	Transaction_Transfer-Ownership:T38
+A38	Realis E835 Actual
+T39	Justice_Arrest-Jail 1901 1907	prison
+E836	Justice_Arrest-Jail:T39
+A39	Realis E836 Generic
+T40	Movement_Transport-Person 1167 1171	came
+E844	Movement_Transport-Person:T40
+A40	Realis E844 Actual
+T41	Contact_Meet 1607 1611	told
+E895	Contact_Meet:T41
+A41	Realis E895 Actual
+T42	Justice_Arrest-Jail 658 662	jail
+E964	Justice_Arrest-Jail:T42
+A42	Realis E964 Generic
+T43	Transaction_Transfer-Ownership 295 298	get
+E979	Transaction_Transfer-Ownership:T43
+A43	Realis E979 Other

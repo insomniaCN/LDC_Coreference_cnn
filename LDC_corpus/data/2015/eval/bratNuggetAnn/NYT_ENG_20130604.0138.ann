@@ -1,0 +1,138 @@
+T1	Transaction_Transfer-Money 3255 3259	paid
+E8	Transaction_Transfer-Money:T1
+A1	Realis E8 Actual
+T2	Contact_Contact 3408 3415	Contact
+E27	Contact_Contact:T2
+A2	Realis E27 Other
+T3	Movement_Transport-Person 1116 1119	fly
+E44	Movement_Transport-Person:T3
+A3	Realis E44 Generic
+T4	Contact_Broadcast 3002 3006	says
+E126	Contact_Broadcast:T4
+A4	Realis E126 Actual
+T5	Movement_Transport-Person 939 945	travel
+E133	Movement_Transport-Person:T5
+A5	Realis E133 Generic
+T6	Movement_Transport-Person 2431 2438	travels
+E137	Movement_Transport-Person:T6
+A6	Realis E137 Actual
+T7	Movement_Transport-Person 993 1000	flights
+E140	Movement_Transport-Person:T7
+A7	Realis E140 Generic
+T8	Transaction_Transfer-Money 879 886	Selling
+E159	Transaction_Transfer-Money:T8
+A8	Realis E159 Actual
+T9	Movement_Transport-Person 2517 2525	traveled
+E176	Movement_Transport-Person:T9
+A9	Realis E176 Actual
+T10	Contact_Contact 2234 2241	provide
+E178	Contact_Contact:T10
+A10	Realis E178 Other
+T11	Personnel_Elect 654 659	Elect
+E185	Personnel_Elect:T11
+A11	Realis E185 Other
+T12	Transaction_Transfer-Money 2096 2104	purchase
+E201	Transaction_Transfer-Money:T12
+A12	Realis E201 Actual
+T13	Transaction_Transfer-Money 2540 2547	expense
+E243	Transaction_Transfer-Money:T13
+A13	Realis E243 Actual
+T14	Movement_Transport-Person 178 185	travels
+E275	Movement_Transport-Person:T14
+A14	Realis E275 Actual
+T15	Contact_Contact 2367 2371	said
+E330	Contact_Contact:T15
+A15	Realis E330 Actual
+T16	Contact_Broadcast 2648 2653	noted
+E342	Contact_Broadcast:T16
+A16	Realis E342 Actual
+T17	Transaction_Transfer-Money 1536 1540	Sale
+E348	Transaction_Transfer-Money:T17
+A17	Realis E348 Other
+T18	Transaction_Transfer-Ownership 2096 2104	purchase
+E362	Transaction_Transfer-Ownership:T18
+A18	Realis E362 Actual
+T19	Movement_Transport-Person 1176 1180	goes
+E373	Movement_Transport-Person:T19
+A19	Realis E373 Other
+T20	Movement_Transport-Person 594 603	transport
+E426	Movement_Transport-Person:T20
+A20	Realis E426 Generic
+T21	Transaction_Transfer-Money 564 567	pay
+E434	Transaction_Transfer-Money:T21
+A21	Realis E434 Actual
+T22	Movement_Transport-Person 386 392	travel
+E444	Movement_Transport-Person:T22
+A22	Realis E444 Actual
+T23	Manufacture_Artifact 1378 1382	made
+E455	Manufacture_Artifact:T23
+A23	Realis E455 Actual
+T24	Transaction_Transfer-Money 1224 1231	expense
+E478	Transaction_Transfer-Money:T24
+A24	Realis E478 Actual
+T25	Transaction_Transfer-Money 2873 2879	paying
+E518	Transaction_Transfer-Money:T25
+A25	Realis E518 Actual
+T26	Personnel_End-Position 2459 2470	predecessor
+E559	Personnel_End-Position:T26
+A26	Realis E559 Actual
+T27	Personnel_Elect 1087 1094	elected
+E572	Personnel_Elect:T27
+A27	Realis E572 Generic
+T28	Transaction_Transfer-Ownership 1336 1343	selling
+E583	Transaction_Transfer-Ownership:T28
+A28	Realis E583 Other
+T29	Movement_Transport-Person 2895 2901	flight
+E596	Movement_Transport-Person:T29
+A29	Realis E596 Actual
+T30	Transaction_Transfer-Money 1336 1343	selling
+E633	Transaction_Transfer-Money:T30
+A30	Realis E633 Other
+T31	Contact_Contact 2386 2397	spokeswoman
+E641	Contact_Contact:T31
+A31	Realis E641 Generic
+T32	Transaction_Transfer-Money 3040 3045	costs
+E642	Transaction_Transfer-Money:T32
+A32	Realis E642 Actual
+T33	Transaction_Transfer-Money 3233 3239	salary
+E644	Transaction_Transfer-Money:T33
+A33	Realis E644 Other
+T34	Transaction_Transfer-Money 551 560	taxpayers
+E645	Transaction_Transfer-Money:T34
+A34	Realis E645 Generic
+T35	Contact_Meet 2802 2808	events
+E670	Contact_Meet:T35
+A35	Realis E670 Actual
+T36	Movement_Transport-Person 835 841	travel
+E672	Movement_Transport-Person:T36
+A36	Realis E672 Actual
+T37	Transaction_Transfer-Ownership 879 886	Selling
+E689	Transaction_Transfer-Ownership:T37
+A37	Realis E689 Actual
+T38	Movement_Transport-Person 956 959	fly
+E701	Movement_Transport-Person:T38
+A38	Realis E701 Generic
+T39	Personnel_Start-Position 1271 1280	in office
+E712	Personnel_Start-Position:T39
+A39	Realis E712 Actual
+T40	Personnel_Elect 738 745	elected
+E728	Personnel_Elect:T40
+A40	Realis E728 Actual
+T41	Movement_Transport-Person 2276 2282	travel
+E736	Movement_Transport-Person:T41
+A41	Realis E736 Other
+T42	Contact_Broadcast 3313 3317	says
+E764	Contact_Broadcast:T42
+A42	Realis E764 Actual
+T43	Transaction_Transfer-Ownership 1536 1540	Sale
+E771	Transaction_Transfer-Ownership:T43
+A43	Realis E771 Other
+T44	Contact_Broadcast 670 678	promised
+E786	Contact_Broadcast:T44
+A44	Realis E786 Actual
+T45	Transaction_Transfer-Money 2925 2934	taxpayers
+E875	Transaction_Transfer-Money:T45
+A45	Realis E875 Generic
+T46	Transaction_Transfer-Money 2529 2538	taxpayers
+E961	Transaction_Transfer-Money:T46
+A46	Realis E961 Generic

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa30000000000000153" doc_id="5ac20abb8c4867caf224147d3e815091" source_type="multi_post">
+  <event_mention id="em-147" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1364" length="7">earning</trigger>
+  </event_mention>
+  <event_mention id="em-197" type="personnel" subtype="elect" realis="actual">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="845" length="3">win</trigger>
+  </event_mention>
+  <event_mention id="em-211" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1211" length="5">taxes</trigger>
+  </event_mention>
+  <event_mention id="em-272" type="personnel" subtype="elect" realis="actual">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="193" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-281" type="personnel" subtype="endposition" realis="generic">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1495" length="4">fire</trigger>
+  </event_mention>
+  <event_mention id="em-291" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1417" length="10">criticized</trigger>
+  </event_mention>
+  <event_mention id="em-364" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1253" length="8">deposits</trigger>
+  </event_mention>
+  <event_mention id="em-371" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1350" length="3">tax</trigger>
+  </event_mention>
+  <event_mention id="em-397" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1296" length="3">tax</trigger>
+  </event_mention>
+  <event_mention id="em-443" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="437" length="4">fund</trigger>
+  </event_mention>
+  <event_mention id="em-463" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1241" length="3">tax</trigger>
+  </event_mention>
+  <event_mention id="em-649" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="689" length="5">graft</trigger>
+  </event_mention>
+  <event_mention id="em-709" type="personnel" subtype="startposition" realis="generic">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1486" length="4">hire</trigger>
+  </event_mention>
+  <event_mention id="em-744" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1052" length="9">harangued</trigger>
+  </event_mention>
+  <event_mention id="em-807" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1120" length="11">criticizing</trigger>
+  </event_mention>
+  <event_mention id="em-809" type="personnel" subtype="elect" realis="actual">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="361" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-910" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5ac20abb8c4867caf224147d3e815091" offset="1196" length="5">vowed</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

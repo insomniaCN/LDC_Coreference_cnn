@@ -1,0 +1,396 @@
+T1	Conflict_Demonstrate 67 75	Protests
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Demonstrate 198 203	rally
+E2	Conflict_Demonstrate:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 217 220	war
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Demonstrate 417 424	rallies
+E4	Conflict_Demonstrate:T4 
+A4	Realis E4 Actual
+T5	Conflict_Demonstrate 528 536	Protests
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T6	Conflict_Demonstrate 648 653	rally
+E6	Conflict_Demonstrate:T6 
+A6	Realis E6 Actual
+T7	Conflict_Demonstrate 887 895	Protests
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Actual
+T8	Conflict_Demonstrate 981 994	demonstration
+E8	Conflict_Demonstrate:T8 
+A8	Realis E8 Actual
+T9	Conflict_Demonstrate 1039 1047	protests
+E9	Conflict_Demonstrate:T9 
+A9	Realis E9 Actual
+T10	Conflict_Demonstrate 1323 1335	demonstrated
+E10	Conflict_Demonstrate:T10 
+A10	Realis E10 Actual
+T11	Conflict_Demonstrate 1378 1391	demonstration
+E11	Conflict_Demonstrate:T11 
+A11	Realis E11 Actual
+T12	Conflict_Demonstrate 1455 1462	rallies
+E12	Conflict_Demonstrate:T12 
+A12	Realis E12 Actual
+T13	Conflict_Demonstrate 1551 1558	rallies
+E13	Conflict_Demonstrate:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 1613 1621	protests
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 3124 3129	go in
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Other
+T16	Conflict_Attack 3140 3147	flatten
+E16	Conflict_Attack:T16 
+A16	Realis E16 Other
+T17	Movement_Transport-Person 3197 3202	go in
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Other
+T18	Conflict_Demonstrate 3529 3536	marches
+E18	Conflict_Demonstrate:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 4360 4363	war
+E19	Conflict_Attack:T19 
+A19	Realis E19 Other
+T20	Movement_Transport-Person 4520 4527	sending
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual
+T21	Conflict_Demonstrate 4709 4716	rallies
+E21	Conflict_Demonstrate:T21 
+A21	Realis E21 Actual
+T22	Personnel_Elect 4811 4819	election
+E22	Personnel_Elect:T22 
+A22	Realis E22 Generic
+T23	Conflict_Demonstrate 5101 5109	marching
+E23	Conflict_Demonstrate:T23 
+A23	Realis E23 Other
+T24	Conflict_Demonstrate 4873 4883	assembling
+E24	Conflict_Demonstrate:T24 
+A24	Realis E24 Other
+T25	Conflict_Demonstrate 5025 5035	assembling
+E25	Conflict_Demonstrate:T25 
+A25	Realis E25 Other
+T26	Conflict_Demonstrate 5280 5290	assembling
+E26	Conflict_Demonstrate:T26 
+A26	Realis E26 Other
+T27	Conflict_Demonstrate 5302 5310	marching
+E27	Conflict_Demonstrate:T27 
+A27	Realis E27 Other
+T28	Conflict_Demonstrate 5606 5613	Marches
+E28	Conflict_Demonstrate:T28 
+A28	Realis E28 Generic
+T29	Conflict_Demonstrate 5712 5717	march
+E29	Conflict_Demonstrate:T29 
+A29	Realis E29 Actual
+T30	Conflict_Demonstrate 5771 5776	march
+E30	Conflict_Demonstrate:T30 
+A30	Realis E30 Generic
+T31	Conflict_Demonstrate 5948 5956	assembly
+E31	Conflict_Demonstrate:T31 
+A31	Realis E31 Actual
+T32	Conflict_Demonstrate 6138 6148	assembling
+E32	Conflict_Demonstrate:T32 
+A32	Realis E32 Other
+T33	Conflict_Demonstrate 6198 6208	assembling
+E33	Conflict_Demonstrate:T33 
+A33	Realis E33 Other
+T34	Conflict_Demonstrate 6214 6222	marching
+E34	Conflict_Demonstrate:T34 
+A34	Realis E34 Other
+T35	Conflict_Demonstrate 6914 6922	protests
+E35	Conflict_Demonstrate:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 7655 7663	violence
+E36	Conflict_Attack:T36 
+A36	Realis E36 Other
+T37	Conflict_Demonstrate 7819 7827	marching
+E37	Conflict_Demonstrate:T37 
+A37	Realis E37 Generic
+T38	Conflict_Attack 8014 8017	war
+E38	Conflict_Attack:T38 
+A38	Realis E38 Other
+T39	Conflict_Demonstrate 8446 8453	marches
+E39	Conflict_Demonstrate:T39 
+A39	Realis E39 Generic
+T40	Conflict_Demonstrate 8546 8551	rally
+E40	Conflict_Demonstrate:T40 
+A40	Realis E40 Actual
+T41	Conflict_Demonstrate 9005 9010	march
+E41	Conflict_Demonstrate:T41 
+A41	Realis E41 Other
+T42	Conflict_Demonstrate 9367 9373	gather
+E42	Conflict_Demonstrate:T42 
+A42	Realis E42 Other
+T43	Conflict_Attack 9768 9771	war
+E43	Conflict_Attack:T43 
+A43	Realis E43 Other
+T44	Conflict_Attack 10003 10006	war
+E44	Conflict_Attack:T44 
+A44	Realis E44 Actual
+T45	Conflict_Demonstrate 10198 10203	march
+E45	Conflict_Demonstrate:T45 
+A45	Realis E45 Other
+T46	Conflict_Demonstrate 10210 10223	demonstration
+E46	Conflict_Demonstrate:T46 
+A46	Realis E46 Actual
+T47	Conflict_Demonstrate 10244 10249	march
+E47	Conflict_Demonstrate:T47 
+A47	Realis E47 Other
+T48	Conflict_Demonstrate 10256 10261	march
+E48	Conflict_Demonstrate:T48 
+A48	Realis E48 Other
+T49	Conflict_Demonstrate 10305 10312	marches
+E49	Conflict_Demonstrate:T49 
+A49	Realis E49 Generic
+T50	Conflict_Demonstrate 10358 10365	marches
+E50	Conflict_Demonstrate:T50 
+A50	Realis E50 Generic
+T51	Conflict_Demonstrate 10370 10384	demonstrations
+E51	Conflict_Demonstrate:T51 
+A51	Realis E51 Generic
+T52	Conflict_Demonstrate 10653 10667	demonstrations
+E52	Conflict_Demonstrate:T52 
+A52	Realis E52 Actual
+T53	Conflict_Attack 10813 10834	military action taken
+E53	Conflict_Attack:T53 
+A53	Realis E53 Other
+T54	Conflict_Demonstrate 11015 11027	demonstrated
+E54	Conflict_Demonstrate:T54 
+A54	Realis E54 Actual
+T55	Conflict_Demonstrate 11061 11075	demonstrations
+E55	Conflict_Demonstrate:T55 
+A55	Realis E55 Generic
+T56	Conflict_Demonstrate 11180 11194	demonstrations
+E56	Conflict_Demonstrate:T56 
+A56	Realis E56 Generic
+T57	Personnel_Elect 11892 11899	elected
+E57	Personnel_Elect:T57 
+A57	Realis E57 Generic
+T58	Conflict_Demonstrate 12087 12101	demonstrations
+E58	Conflict_Demonstrate:T58 
+A58	Realis E58 Generic
+T59	Conflict_Demonstrate 12162 12176	demonstrations
+E59	Conflict_Demonstrate:T59 
+A59	Realis E59 Actual
+T60	Conflict_Demonstrate 12466 12474	protests
+E60	Conflict_Demonstrate:T60 
+A60	Realis E60 Actual
+T61	Conflict_Demonstrate 12641 12649	marching
+E61	Conflict_Demonstrate:T61 
+A61	Realis E61 Generic
+T62	Conflict_Attack 12660 12663	war
+E62	Conflict_Attack:T62 
+A62	Realis E62 Other
+T63	Conflict_Attack 13119 13122	war
+E63	Conflict_Attack:T63 
+A63	Realis E63 Other
+T64	Conflict_Demonstrate 13163 13171	protests
+E64	Conflict_Demonstrate:T64 
+A64	Realis E64 Other
+T65	Conflict_Demonstrate 13203 13211	protests
+E65	Conflict_Demonstrate:T65 
+A65	Realis E65 Actual
+T66	Conflict_Attack 13392 13395	War
+E66	Conflict_Attack:T66 
+A66	Realis E66 Actual
+T67	Conflict_Attack 13456 13462	fought
+E67	Conflict_Attack:T67 
+A67	Realis E67 Actual
+T68	Conflict_Attack 13469 13472	war
+E68	Conflict_Attack:T68 
+A68	Realis E68 Actual
+T69	Transaction_Transfer-Money 13596 13607	compensated
+E69	Transaction_Transfer-Money:T69 
+A69	Realis E69 Actual
+T70	Transaction_Transfer-Money 13674 13678	paid
+E70	Transaction_Transfer-Money:T70 
+A70	Realis E70 Other
+T71	Conflict_Attack 14023 14026	War
+E71	Conflict_Attack:T71 
+T72	Conflict_Attack 14500 14504	wars
+E72	Conflict_Attack:T72 
+A71	Realis E72 Actual
+T73	Conflict_Attack 14577 14581	wars
+E73	Conflict_Attack:T73 
+A72	Realis E73 Other
+T74	Conflict_Attack 14622 14625	war
+E74	Conflict_Attack:T74 
+A73	Realis E74 Actual
+T75	Conflict_Attack 14864 14867	war
+E75	Conflict_Attack:T75 
+A74	Realis E75 Other
+T76	Conflict_Attack 16542 16545	war
+E76	Conflict_Attack:T76 
+A75	Realis E76 Other
+T77	Conflict_Demonstrate 16831 16845	demonstrations
+E77	Conflict_Demonstrate:T77 
+A76	Realis E77 Actual
+T78	Conflict_Demonstrate 16955 16969	demonstrations
+E78	Conflict_Demonstrate:T78 
+A77	Realis E78 Generic
+T79	Conflict_Demonstrate 17156 17170	demonstrations
+E79	Conflict_Demonstrate:T79 
+A78	Realis E79 Generic
+T80	Conflict_Attack 17225 17234	bloodshed
+E80	Conflict_Attack:T80 
+A79	Realis E80 Generic
+T81	Conflict_Demonstrate 17256 17269	demonstration
+E81	Conflict_Demonstrate:T81 
+A80	Realis E81 Actual
+T82	Conflict_Demonstrate 17401 17408	rallies
+E82	Conflict_Demonstrate:T82 
+A81	Realis E82 Generic
+T83	Conflict_Attack 17553 17557	wars
+E83	Conflict_Attack:T83 
+A82	Realis E83 Actual
+T84	Personnel_Elect 17569 17574	elect
+E84	Personnel_Elect:T84 
+A83	Realis E84 Actual
+T85	Conflict_Demonstrate 17594 17608	demonstrations
+E85	Conflict_Demonstrate:T85 
+A84	Realis E85 Generic
+T86	Conflict_Demonstrate 17478 17492	demonstrations
+E86	Conflict_Demonstrate:T86 
+A85	Realis E86 Actual
+T87	Conflict_Demonstrate 17699 17712	demonstration
+E87	Conflict_Demonstrate:T87 
+A86	Realis E87 Other
+T88	Life_Die 17743 17747	kill
+E88	Life_Die:T88 
+A87	Realis E88 Generic
+T89	Conflict_Demonstrate 17758 17769	demonstrate
+E89	Conflict_Demonstrate:T89 
+A88	Realis E89 Generic
+T90	Conflict_Demonstrate 17789 17803	demonstrations
+E90	Conflict_Demonstrate:T90 
+A89	Realis E90 Actual
+T91	Conflict_Demonstrate 17948 17961	demonstration
+E91	Conflict_Demonstrate:T91 
+A90	Realis E91 Actual
+T92	Conflict_Attack 18064 18068	shot
+E92	Conflict_Attack:T92 
+A91	Realis E92 Actual
+T93	Conflict_Demonstrate 18108 18122	demonstrations
+E93	Conflict_Demonstrate:T93 
+A92	Realis E93 Actual
+T94	Conflict_Demonstrate 18253 18265	demonstrated
+E94	Conflict_Demonstrate:T94 
+A93	Realis E94 Other
+T95	Conflict_Demonstrate 18572 18585	demonstration
+E95	Conflict_Demonstrate:T95 
+A94	Realis E95 Actual
+T96	Conflict_Demonstrate 19225 19239	demonstrations
+E96	Conflict_Demonstrate:T96 
+A95	Realis E96 Actual
+T97	Conflict_Demonstrate 19542 19550	protests
+E97	Conflict_Demonstrate:T97 
+A96	Realis E97 Actual
+T98	Conflict_Demonstrate 19895 19903	protests
+E98	Conflict_Demonstrate:T98 
+A97	Realis E98 Actual
+T99	Conflict_Demonstrate 19618 19627	protested
+E99	Conflict_Demonstrate:T99 
+A98	Realis E99 Actual
+T100	Conflict_Demonstrate 20734 20744	protesters
+E100	Conflict_Demonstrate:T100 
+A99	Realis E100 Actual
+T101	Conflict_Demonstrate 21253 21263	protesters
+E101	Conflict_Demonstrate:T101 
+A100	Realis E101 Generic
+T102	Conflict_Attack 21593 21596	war
+E102	Conflict_Attack:T102 
+A101	Realis E102 Other
+T103	Conflict_Demonstrate 21614 21627	demonstration
+E103	Conflict_Demonstrate:T103 
+A102	Realis E103 Actual
+T104	Conflict_Attack 21661 21664	war
+E104	Conflict_Attack:T104 
+A103	Realis E104 Other
+T105	Conflict_Attack 21736 21739	war
+E105	Conflict_Attack:T105 
+A104	Realis E105 Other
+T106	Conflict_Demonstrate 22018 22025	rallies
+E106	Conflict_Demonstrate:T106 
+A105	Realis E106 Actual
+T107	Conflict_Demonstrate 22091 22101	protestors
+E107	Conflict_Demonstrate:T107 
+A106	Realis E107 Generic
+T108	Conflict_Demonstrate 22270 22278	protests
+E108	Conflict_Demonstrate:T108 
+A107	Realis E108 Actual
+T109	Conflict_Attack 22361 22364	war
+E109	Conflict_Attack:T109 
+A108	Realis E109 Other
+T110	Conflict_Demonstrate 23393 23412	take to the streets
+E110	Conflict_Demonstrate:T110 
+A109	Realis E110 Other
+T111	Conflict_Attack 23495 23505	Revolution
+E111	Conflict_Attack:T111 
+A110	Realis E111 Actual
+T112	Conflict_Attack 24596 24602	attack
+E112	Conflict_Attack:T112 
+A111	Realis E112 Other
+T113	Life_Die 24747 24751	kill
+E113	Life_Die:T113 
+A112	Realis E113 Other
+T114	Life_Die 25455 25462	killing
+E114	Life_Die:T114 
+A113	Realis E114 Other
+T115	Conflict_Demonstrate 25746 25756	protesters
+E115	Conflict_Demonstrate:T115 
+A114	Realis E115 Actual
+T116	Conflict_Demonstrate 25934 25952	counter-protesters
+E116	Conflict_Demonstrate:T116 
+A115	Realis E116 Other
+T117	Conflict_Attack 26617 26620	WAR
+E117	Conflict_Attack:T117 
+A116	Realis E117 Other
+T118	Conflict_Attack 27580 27588	Protests
+E118	Conflict_Attack:T118 
+A117	Realis E118 Other
+T119	Conflict_Attack 282 289	antiwar
+E119	Conflict_Attack:T119 
+A118	Realis E119 Other
+T120	Movement_Transport-Person 2925 2929	sent
+E120	Movement_Transport-Person:T120 
+A119	Realis E120 Actual
+T121	Conflict_Demonstrate 4767 4774	protest
+E121	Conflict_Demonstrate:T121 
+A120	Realis E121 Other
+T122	Conflict_Demonstrate 5085 5095	assembling
+E122	Conflict_Demonstrate:T122 
+A121	Realis E122 Other
+T123	Contact_Communicate 7602 7606	told
+E123	Contact_Communicate:T123 
+A122	Realis E123 Actual
+T124	Transaction_Transfer-Money 9220 9225	taxes
+E124	Transaction_Transfer-Money:T124 
+A123	Realis E124 Generic
+T125	Conflict_Attack 14096 14103	seizure
+E125	Conflict_Attack:T125 
+A124	Realis E125 Actual
+T126	Movement_Transport-Person 14368 14375	pursuit
+E126	Movement_Transport-Person:T126 
+A125	Realis E126 Actual
+T127	Conflict_Attack 15031 15037	fought
+E127	Conflict_Attack:T127 
+A126	Realis E127 Other
+T128	Life_Die 18635 18639	dead
+E128	Life_Die:T128 
+A127	Realis E128 Other
+T129	Conflict_Attack 22014 22017	war
+E129	Conflict_Attack:T129 
+A128	Realis E129 Other
+T130	Life_Die 24580 24587	suicide
+E130	Life_Die:T130 
+A129	Realis E130 Generic
+T131	Conflict_Attack 25521 25525	bomb
+E131	Conflict_Attack:T131 
+A130	Realis E131 Other
+T132	Conflict_Demonstrate 25629 25648	took to the streets
+E132	Conflict_Demonstrate:T132 
+A131	Realis E132 Other
+A132	Realis E71 Actual

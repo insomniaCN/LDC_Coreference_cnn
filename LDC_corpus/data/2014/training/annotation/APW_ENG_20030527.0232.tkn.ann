@@ -1,0 +1,180 @@
+T1	Life_Die 176 180	kill
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 201 207	injure
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 308 312	shot
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Die 317 323	killed
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Life_Injure 374 381	injured
+E5	Life_Injure:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 419 428	conflicts
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 517 522	talks
+E7	Contact_Communicate:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 558 567	shootings
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 619 626	attacks
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 643 651	throwing
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 1015 1027	negotiations
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Contact_Meet 1033 1039	summit
+E12	Contact_Meet:T12 
+A12	Realis E12 Other
+T13	Contact_Meet 1315 1322	meeting
+E13	Contact_Meet:T13 
+A13	Realis E13 Other
+T14	Contact_Meet 1366 1372	summit
+E14	Contact_Meet:T14 
+A14	Realis E14 Other
+T15	Conflict_Attack 1489 1493	shot
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Life_Die 1498 1504	killed
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Life_Injure 1544 1551	wounded
+E17	Life_Injure:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 1579 1591	opening fire
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 1730 1735	fired
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 1742 1745	hit
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 1781 1786	threw
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 1885 1896	opened fire
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 1907 1915	throwing
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 1925 1932	hitting
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Life_Injure 1994 2002	wounding
+E25	Life_Injure:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 2013 2020	hitting
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Life_Injure 2069 2077	wounding
+E27	Life_Injure:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 2150 2156	struck
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Life_Injure 2212 2216	hurt
+E29	Life_Injure:T29 
+A29	Realis E29 Actual
+T30	Conflict_Demonstrate 2312 2320	protests
+E30	Conflict_Demonstrate:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 2335 2348	use live fire
+E31	Conflict_Attack:T31 
+A31	Realis E31 Other
+T32	Life_Injure 2471 2478	injured
+E32	Life_Injure:T32 
+A32	Realis E32 Actual
+T33	Life_Injure 2382 2390	injuries
+E33	Life_Injure:T33 
+A33	Realis E33 Other
+T34	Conflict_Attack 2506 2516	detonating
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T35	Conflict_Attack 2687 2696	detonated
+E35	Conflict_Attack:T35 
+A35	Realis E35 Actual
+T36	Movement_Transport-Person 2736 2743	arrived
+E36	Movement_Transport-Person:T36 
+A36	Realis E36 Actual
+T37	Conflict_Attack 2762 2770	exploded
+E37	Conflict_Attack:T37 
+A37	Realis E37 Actual
+T38	Life_Injure 2783 2791	injuring
+E38	Life_Injure:T38 
+A38	Realis E38 Actual
+T39	Life_Die 2835 2841	killed
+E39	Life_Die:T39 
+A39	Realis E39 Actual
+T40	Movement_Transport-Person 2903 2915	infiltrating
+E40	Movement_Transport-Person:T40 
+A40	Realis E40 Actual
+T41	Life_Die 3094 3100	killed
+E41	Life_Die:T41 
+A41	Realis E41 Actual
+T42	Conflict_Attack 3111 3130	exchange of gunfire
+E42	Conflict_Attack:T42 
+A42	Realis E42 Actual
+T44	Life_Injure 3275 3283	injuries
+E44	Life_Injure:T44 
+A44	Realis E44 Other
+T45	Conflict_Attack 3293 3301	incident
+E45	Conflict_Attack:T45 
+A45	Realis E45 Actual
+T46	Conflict_Attack 3398 3401	hit
+E46	Conflict_Attack:T46 
+A46	Realis E46 Actual
+T47	Conflict_Attack 3481 3485;3495 3503	fire directed
+E47	Conflict_Attack:T47 
+A47	Realis E47 Actual
+T48	Movement_Transport-Person 3705 3712	leaving
+E48	Movement_Transport-Person:T48 
+A48	Realis E48 Other
+T49	Conflict_Attack 3756 3761	fired
+E49	Conflict_Attack:T49 
+A49	Realis E49 Actual
+T50	Movement_Transport-Person 3797 3802	skirt
+E50	Movement_Transport-Person:T50 
+A50	Realis E50 Other
+T51	Conflict_Attack 3825 3833	violence
+E51	Conflict_Attack:T51 
+A51	Realis E51 Actual
+T52	Movement_Transport-Person 4094 4104	withdrawal
+E52	Movement_Transport-Person:T52 
+A52	Realis E52 Other
+T53	Movement_Transport-Person 4791 4796	leave
+E53	Movement_Transport-Person:T53 
+A53	Realis E53 Other
+T54	Conflict_Attack 5043 5051	violence
+E54	Conflict_Attack:T54 
+A54	Realis E54 Actual
+T55	Conflict_Attack 5213 5221	conflict
+E55	Conflict_Attack:T55 
+A55	Realis E55 Actual
+T56	Movement_Transport-Person 5245 5255	withdrawal
+E56	Movement_Transport-Person:T56 
+A56	Realis E56 Other
+T57	Conflict_Attack 5764 5772	violence
+E57	Conflict_Attack:T57 
+A57	Realis E57 Generic
+T58	Conflict_Attack 241 249	violence
+E58	Conflict_Attack:T58 
+A58	Realis E58 Actual
+T59	Conflict_Attack 2302 2310	throwing
+E59	Conflict_Attack:T59 
+A59	Realis E59 Actual
+T43	Conflict_Attack 3165 3170	fired
+E43	Conflict_Attack:T43 
+A43	Realis E43 Actual
+T60	Conflict_Attack 5603 5609	terror
+E60	Conflict_Attack:T60 
+A60	Realis E60 Actual

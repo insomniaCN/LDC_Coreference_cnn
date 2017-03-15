@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea900000000000000114" doc_id="1cc71d969f42a8d34e6b1fbf29994315" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-753" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="177" length="8">Sentence</trigger>
+      </event_mention>
+      <event_mention id="em-579" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="284" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-274" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="194" length="4">Text</trigger>
+      </event_mention>
+      <event_mention id="em-301" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="361" length="7">message</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-330" type="justice" subtype="appeal" realis="generic">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="240" length="7">appeals</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-985" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="158" length="7">Upholds</trigger>
+      </event_mention>
+      <event_mention id="em-259" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="264" length="6">upheld</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-145" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="703" length="8">released</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-338" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="763" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-526" type="justice" subtype="appeal" realis="other">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="809" length="6">appeal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-168" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="879" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-45" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="931" length="4">jail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-485" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="1cc71d969f42a8d34e6b1fbf29994315" offset="437" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

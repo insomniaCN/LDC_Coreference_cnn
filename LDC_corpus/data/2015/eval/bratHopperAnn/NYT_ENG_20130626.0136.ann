@@ -1,0 +1,184 @@
+T1	Justice_Pardon 183 191	PARDONED
+E35	Justice_Pardon:T1
+A1	Realis E35 Actual
+T2	Justice_Pardon 790 796	pardon
+E175	Justice_Pardon:T2
+A2	Realis E175 Actual
+T3	Justice_Pardon 879 885	pardon
+E13	Justice_Pardon:T3
+A3	Realis E13 Actual
+T4	Life_Die 203 207	DIES
+E382	Life_Die:T4
+A4	Realis E382 Actual
+T5	Life_Die 348 352	died
+E540	Life_Die:T5
+A5	Realis E540 Actual
+T6	Life_Die 3456 3461	death
+E932	Life_Die:T6
+A6	Realis E932 Actual
+T7	Life_Die 3778 3786	survived
+E185	Life_Die:T7
+A7	Realis E185 Actual
+T8	Personnel_End-Position 252 258	former
+E556	Personnel_End-Position:T8
+A8	Realis E556 Actual
+T9	Business_Start-Org 283 290	founder
+E227	Business_Start-Org:T9
+A9	Realis E227 Actual
+T10	Business_Start-Org 3245 3252	founded
+E155	Business_Start-Org:T10
+A10	Realis E155 Actual
+T11	Contact_Broadcast 470 479	statement
+E392	Contact_Broadcast:T11
+A11	Realis E392 Actual
+T12	Justice_Charge-Indict 574 582	indicted
+E346	Justice_Charge-Indict:T12
+A12	Realis E346 Actual
+T13	Justice_Charge-Indict 617 624	charges
+E669	Justice_Charge-Indict:T13
+A13	Realis E669 Actual
+T14	Justice_Charge-Indict 2592 2600	indicted
+E27	Justice_Charge-Indict:T14
+A14	Realis E27 Actual
+T15	Justice_Charge-Indict 2604 2611	charges
+E800	Justice_Charge-Indict:T15
+A15	Realis E800 Actual
+T16	Transaction_Transfer-Money 628 631	tax
+E792	Transaction_Transfer-Money:T16
+A16	Realis E792 Other
+T17	Transaction_Transfer-Money 2674 2679	taxes
+E729	Transaction_Transfer-Money:T17
+A17	Realis E729 Other
+T18	Transaction_Transaction 654 661	trading
+E691	Transaction_Transaction:T18
+A18	Realis E691 Generic
+T19	Transaction_Transaction 2622 2629	trading
+E848	Transaction_Transaction:T19
+A19	Realis E848 Generic
+T20	Personnel_End-Position 832 840	last day
+E894	Personnel_End-Position:T20
+A20	Realis E894 Actual
+T21	Life_Divorce 967 973	former
+E293	Life_Divorce:T21
+A21	Realis E293 Actual
+T22	Transaction_Transfer-Money 1008 1017	donations
+E390	Transaction_Transfer-Money:T22
+A22	Realis E390 Actual
+T23	Business_Start-Org 1218 1225	founded
+E667	Business_Start-Org:T23
+A23	Realis E667 Actual
+T24	Transaction_Transfer-Ownership 1327 1331	sold
+E549	Transaction_Transfer-Ownership:T24
+A24	Realis E549 Actual
+T25	Transaction_Transfer-Money 1327 1331	sold
+E19	Transaction_Transfer-Money:T25
+A25	Realis E19 Actual
+T26	Life_Beborn 1392 1396	born
+E245	Life_Beborn:T26
+A26	Realis E245 Actual
+T27	Movement_Transport-Person 1422 1427	moved
+E984	Movement_Transport-Person:T27
+A27	Realis E984 Actual
+T28	Personnel_Start-Position 1512 1517	began
+E998	Personnel_Start-Position:T28
+A28	Realis E998 Actual
+T29	Transaction_Transfer-Ownership 1665 1669	sell
+E859	Transaction_Transfer-Ownership:T29
+A29	Realis E859 Actual
+T30	Transaction_Transfer-Ownership 2155 2159	sold
+E225	Transaction_Transfer-Ownership:T30
+A30	Realis E225 Actual
+T31	Transaction_Transfer-Money 1665 1669	sell
+E512	Transaction_Transfer-Money:T31
+A31	Realis E512 Actual
+T32	Transaction_Transfer-Money 2155 2159	sold
+E599	Transaction_Transfer-Money:T32
+A32	Realis E599 Actual
+T33	Transaction_Transfer-Ownership 1541 1547	trader
+E518	Transaction_Transfer-Ownership:T33
+A33	Realis E518 Generic
+T34	Transaction_Transfer-Ownership 1776 1779	buy
+E673	Transaction_Transfer-Ownership:T34
+A34	Realis E673 Actual
+T35	Transaction_Transfer-Ownership 2107 2113	bought
+E354	Transaction_Transfer-Ownership:T35
+A35	Realis E354 Actual
+T36	Transaction_Transfer-Money 1776 1779	buy
+E358	Transaction_Transfer-Money:T36
+A36	Realis E358 Actual
+T37	Transaction_Transfer-Money 2107 2113	bought
+E281	Transaction_Transfer-Money:T37
+A37	Realis E281 Actual
+T38	Contact_Contact 1976 1980	told
+E985	Contact_Contact:T38
+A38	Realis E985 Actual
+T39	Movement_Transport-Artifact 2138 2147	transport
+E629	Movement_Transport-Artifact:T39
+A39	Realis E629 Actual
+T40	Transaction_Transfer-Ownership 2413 2422	suppliers
+E342	Transaction_Transfer-Ownership:T40
+A40	Realis E342 Generic
+T41	Movement_Transport-Person 2545 2549	fled
+E341	Movement_Transport-Person:T41
+A41	Realis E341 Actual
+T42	Movement_Transport-Person 3028 3035	leaving
+E504	Movement_Transport-Person:T42
+A42	Realis E504 Actual
+T43	Justice_Arrest-Jail 2745 2751	prison
+E152	Justice_Arrest-Jail:T43
+A43	Realis E152 Other
+T44	Justice_Arrest-Jail 2951 2958	capture
+E98	Justice_Arrest-Jail:T44
+A44	Realis E98 Other
+T45	Movement_Transport-Person 2922 2932	helicopter
+E937	Movement_Transport-Person:T45
+A45	Realis E937 Other
+T46	Transaction_Transfer-Ownership 3082 3086	sold
+E826	Transaction_Transfer-Ownership:T46
+A46	Realis E826 Actual
+T47	Transaction_Transfer-Money 3082 3086	sold
+E41	Transaction_Transfer-Money:T47
+A47	Realis E41 Actual
+T48	Transaction_Transfer-Ownership 3263 3271	acquired
+E290	Transaction_Transfer-Ownership:T48
+A48	Realis E290 Actual
+T49	Transaction_Transfer-Money 3263 3271	acquired
+E151	Transaction_Transfer-Money:T49
+A49	Realis E151 Actual
+T50	Transaction_Transfer-Ownership 3536 3543	trading
+E944	Transaction_Transfer-Ownership:T50
+A50	Realis E944 Generic
+T51	Transaction_Transfer-Ownership 310 317	trading
+E115	Transaction_Transfer-Ownership:T51
+A51	Realis E115 Generic
+T52	Transaction_Transfer-Ownership 1304 1310	trader
+E52	Transaction_Transfer-Ownership:T52
+A52	Realis E52 Generic
+T53	Transaction_Transfer-Ownership 272 278	trader
+E606	Transaction_Transfer-Ownership:T53
+A53	Realis E606 Generic
+T54	Transaction_Transfer-Ownership 902 908	trader
+E954	Transaction_Transfer-Ownership:T54
+A54	Realis E954 Generic
+T55	Contact_Broadcast 3626 3635	statement
+E366	Contact_Broadcast:T55
+A55	Realis E366 Actual
+R1	Coreference Arg1:E35 Arg2:E175
+R2	Coreference Arg1:E175 Arg2:E13
+R3	Coreference Arg1:E382 Arg2:E540
+R4	Coreference Arg1:E540 Arg2:E932
+R5	Coreference Arg1:E932 Arg2:E185
+R6	Coreference Arg1:E227 Arg2:E155
+R7	Coreference Arg1:E346 Arg2:E669
+R8	Coreference Arg1:E669 Arg2:E27
+R9	Coreference Arg1:E27 Arg2:E800
+R10	Coreference Arg1:E792 Arg2:E729
+R11	Coreference Arg1:E691 Arg2:E848
+R12	Coreference Arg1:E859 Arg2:E225
+R13	Coreference Arg1:E512 Arg2:E599
+R14	Coreference Arg1:E673 Arg2:E354
+R15	Coreference Arg1:E358 Arg2:E281
+R16	Coreference Arg1:E341 Arg2:E504
+R17	Coreference Arg1:E115 Arg2:E52
+R18	Coreference Arg1:E52 Arg2:E944
+R19	Coreference Arg1:E606 Arg2:E954

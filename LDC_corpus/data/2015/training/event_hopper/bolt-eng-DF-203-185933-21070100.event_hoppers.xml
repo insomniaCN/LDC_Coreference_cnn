@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000617" doc_id="bolt-eng-DF-203-185933-21070100" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-96" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="1880" length="2">go</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="769" length="2">go</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="872" length="2">go</trigger>
+      </event_mention>
+      <event_mention id="em-111" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2312" length="2">go</trigger>
+      </event_mention>
+      <event_mention id="em-124" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2692" length="5">going</trigger>
+      </event_mention>
+      <event_mention id="em-180" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="1513" length="2">go</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="886" length="3">met</trigger>
+      </event_mention>
+      <event_mention id="em-137" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2757" length="3">met</trigger>
+      </event_mention>
+      <event_mention id="em-193" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="1673" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-206" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2489" length="2">go</trigger>
+      </event_mention>
+      <event_mention id="em-234" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="1729" length="2">go</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-66" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="951" length="5">going</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="1299" length="5">going</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-150" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2830" length="4">drop</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-165" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2870" length="4">take</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-232">
+      <event_mention id="em-219" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185933-21070100" offset="2508" length="4">send</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

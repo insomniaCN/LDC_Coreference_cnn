@@ -1,0 +1,66 @@
+T1	Movement_Transport-Person 991 1000	displaced
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 1289 1298	providing
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 1415 1422	postwar
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Contact_Meet 2000 2010	conference
+E4	Contact_Meet:T4 
+A4	Realis E4 Other
+T5	Movement_Transport-Person 2244 2252	returned
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 2260 2264	tour
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 2131 2140	discussed
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 2690 2694	sent
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Movement_Transport-Person 2778 2782	that
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Other
+T10	Contact_Meet 3143 3147	meet
+E10	Contact_Meet:T10 
+A10	Realis E10 Other
+T11	Conflict_Attack 3639 3642	war
+E11	Conflict_Attack:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 4353 4356	war
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 4407 4411	send
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Other
+T14	Movement_Transport-Person 4457 4463	action
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Other
+T15	Contact_Meet 4711 4721	conference
+E15	Contact_Meet:T15 
+A15	Realis E15 Actual
+T16	Movement_Transport-Person 5450 5454	send
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Money 5602 5608;5610 5615	donate money
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Other
+T18	Contact_Meet 5648 5651	met
+E18	Contact_Meet:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 5789 5792	war
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 5849 5854	raids
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 5905 5910	fired
+E21	Conflict_Attack:T21 
+A21	Realis E21 Other
+T22	Contact_Meet 5968 5977	discussed
+E22	Contact_Meet:T22 
+A22	Realis E22 Actual

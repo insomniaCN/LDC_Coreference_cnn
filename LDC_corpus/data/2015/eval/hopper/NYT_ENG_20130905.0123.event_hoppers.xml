@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea7b0000000000000083" doc_id="NYT_ENG_20130905.0123" source_type="newswire">
+  <hoppers>
+    <hopper id="h-49">
+      <event_mention id="em-477" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="905" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-90">
+      <event_mention id="em-835" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="1619" length="5">forum</trigger>
+      </event_mention>
+      <event_mention id="em-497" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="3724" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-642" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130905.0123" offset="1839" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-129" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130905.0123" offset="1863" length="18">cross examinations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-933" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="2149" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-592" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130905.0123" offset="2485" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-841" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130905.0123" offset="2741" length="12">compensation</trigger>
+      </event_mention>
+      <event_mention id="em-998" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130905.0123" offset="3174" length="12">compensation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-17" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130905.0123" offset="2809" length="7">traffic</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-728" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130905.0123" offset="3691" length="7">swapped</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-737" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="3784" length="7">talking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-392" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130905.0123" offset="185" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-155" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130905.0123" offset="1493" length="5">build</trigger>
+      </event_mention>
+      <event_mention id="em-630" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130905.0123" offset="399" length="11">development</trigger>
+      </event_mention>
+      <event_mention id="em-946" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130905.0123" offset="1281" length="11">development</trigger>
+      </event_mention>
+      <event_mention id="em-340" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130905.0123" offset="691" length="11">development</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-253">
+      <event_mention id="em-30" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="457" length="5">claim</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-268">
+      <event_mention id="em-257" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="637" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-309">
+      <event_mention id="em-498" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="1863" length="18">cross examinations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-324">
+      <event_mention id="em-958" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="1965" length="3">say</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-354">
+      <event_mention id="em-851" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="2544" length="6">argued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-395">
+      <event_mention id="em-931" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="1335" length="5">claim</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-410">
+      <event_mention id="em-376" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130905.0123" offset="2951" length="11">development</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-425">
+      <event_mention id="em-944" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="2978" length="9">negotiate</trigger>
+      </event_mention>
+      <event_mention id="em-18" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="3022" length="12">negotiations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-440">
+      <event_mention id="em-881" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="2994" length="6">asking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-483">
+      <event_mention id="em-415" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="3060" length="11">arbitration</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-524">
+      <event_mention id="em-398" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130905.0123" offset="3585" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

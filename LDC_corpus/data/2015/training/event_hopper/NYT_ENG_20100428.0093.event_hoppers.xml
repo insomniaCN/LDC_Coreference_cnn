@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000641" doc_id="NYT_ENG_20100428.0093" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="85" length="9">DISCUSSES</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="253" length="3">met</trigger>
+      </event_mention>
+      <event_mention id="em-64" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="366" length="7">meeting</trigger>
+      </event_mention>
+      <event_mention id="em-77" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="437" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-105" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20100428.0093" offset="586" length="7">meeting</trigger>
+      </event_mention>
+      <event_mention id="em-159" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20100428.0093" offset="962" length="3">met</trigger>
+      </event_mention>
+      <event_mention id="em-256" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20100428.0093" offset="804" length="2">It</trigger>
+      </event_mention>
+      <event_mention id="em-394" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20100428.0093" offset="1686" length="11">discussions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="95" length="6">MERGER</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="280" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-118" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="735" length="4">deal</trigger>
+      </event_mention>
+      <event_mention id="em-131" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="755" length="2">it</trigger>
+      </event_mention>
+      <event_mention id="em-282" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1245" length="6">merged</trigger>
+      </event_mention>
+      <event_mention id="em-295" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1356" length="6">merged</trigger>
+      </event_mention>
+      <event_mention id="em-323" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1474" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-381" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1679" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-435" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1871" length="5">marry</trigger>
+      </event_mention>
+      <event_mention id="em-478" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="2214" length="5">merge</trigger>
+      </event_mention>
+      <event_mention id="em-491" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="2299" length="4">this</trigger>
+      </event_mention>
+      <event_mention id="em-655" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="3416" length="6">merged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-103">
+      <event_mention id="em-90" type="transaction" subtype="transaction" realis="generic" ways="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="538" length="11">transaction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-157">
+      <event_mention id="em-144" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="920" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-185">
+      <event_mention id="em-172" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="1006" length="12">announcement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-226">
+      <event_mention id="em-213" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1404" length="5">based</trigger>
+      </event_mention>
+      <event_mention id="em-519" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="2559" length="6">locate</trigger>
+      </event_mention>
+      <event_mention id="em-601" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="2980" length="5">going</trigger>
+      </event_mention>
+      <event_mention id="em-642" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="3295" length="5">moves</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-241">
+      <event_mention id="em-269" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="862" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-321">
+      <event_mention id="em-308" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="1460" length="9">confirmed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-349">
+      <event_mention id="em-336" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="1526" length="7">comment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-364">
+      <event_mention id="em-351" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20100428.0093" offset="1588" length="6">merger</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-379">
+      <event_mention id="em-366" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20100428.0093" offset="1595" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-420">
+      <event_mention id="em-407" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="1736" length="7">courted</trigger>
+      </event_mention>
+      <event_mention id="em-422" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="1790" length="12">negotiations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-461">
+      <event_mention id="em-448" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20100428.0093" offset="1965" length="6">merged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-476">
+      <event_mention id="em-463" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="2150" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-517">
+      <event_mention id="em-504" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="2503" length="5">reach</trigger>
+      </event_mention>
+      <event_mention id="em-532" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="2690" length="7">letters</trigger>
+      </event_mention>
+      <event_mention id="em-545" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="2702" length="5">calls</trigger>
+      </event_mention>
+      <event_mention id="em-558" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="2759" length="8">response</trigger>
+      </event_mention>
+      <event_mention id="em-629" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="3169" length="13">conversations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-584">
+      <event_mention id="em-571" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="2778" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-599">
+      <event_mention id="em-586" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20100428.0093" offset="2809" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-627">
+      <event_mention id="em-614" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20100428.0093" offset="3027" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

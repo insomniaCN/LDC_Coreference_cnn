@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000593" doc_id="bolt-eng-DF-199-192783-6849980" source_type="multi_post">
+<event_mention id="em-10" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="53" length="8">Protests</trigger>
+      </event_mention>
+<event_mention id="em-23" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="156" length="10">Protesters</trigger>
+      </event_mention>
+<event_mention id="em-51" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="253" length="13">demonstrators</trigger>
+      </event_mention>
+<event_mention id="em-64" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="379" length="7">rallies</trigger>
+      </event_mention>
+<event_mention id="em-79" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="488" length="8">Protests</trigger>
+      </event_mention>
+<event_mention id="em-92" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="605" length="5">rally</trigger>
+      </event_mention>
+<event_mention id="em-105" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="735" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-120" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="839" length="8">Protests</trigger>
+      </event_mention>
+<event_mention id="em-135" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="933" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-150" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="990" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-163" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1047" length="3">War</trigger>
+      </event_mention>
+<event_mention id="em-178" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="249" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-193" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1102" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-221" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1269" length="12">demonstrated</trigger>
+      </event_mention>
+<event_mention id="em-236" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1323" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-249" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1398" length="7">rallies</trigger>
+      </event_mention>
+<event_mention id="em-264" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1493" length="7">rallies</trigger>
+      </event_mention>
+<event_mention id="em-279" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1554" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-292" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="1889" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-307" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="2779" length="4">sent</trigger>
+      </event_mention>
+<event_mention id="em-322" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="2973" length="2">go</trigger>
+      </event_mention>
+<event_mention id="em-337" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="2988" length="7">flatten</trigger>
+      </event_mention>
+<event_mention id="em-352" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="3043" length="2">go</trigger>
+      </event_mention>
+<event_mention id="em-365" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="3368" length="7">marches</trigger>
+      </event_mention>
+<event_mention id="em-378" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4169" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-391" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4325" length="7">sending</trigger>
+      </event_mention>
+<event_mention id="em-406" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4510" length="7">rallies</trigger>
+      </event_mention>
+<event_mention id="em-419" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4568" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-434" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4612" length="8">election</trigger>
+      </event_mention>
+<event_mention id="em-449" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4671" length="10">assembling</trigger>
+      </event_mention>
+<event_mention id="em-464" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4804" length="10">assembling</trigger>
+      </event_mention>
+<event_mention id="em-477" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4859" length="10">assembling</trigger>
+      </event_mention>
+<event_mention id="em-490" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="4875" length="8">marching</trigger>
+      </event_mention>
+<event_mention id="em-505" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5037" length="10">assembling</trigger>
+      </event_mention>
+<event_mention id="em-518" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5058" length="8">marching</trigger>
+      </event_mention>
+<event_mention id="em-531" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5351" length="7">Marches</trigger>
+      </event_mention>
+<event_mention id="em-546" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5454" length="5">march</trigger>
+      </event_mention>
+<event_mention id="em-561" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5510" length="5">march</trigger>
+      </event_mention>
+<event_mention id="em-574" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5680" length="8">assembly</trigger>
+      </event_mention>
+<event_mention id="em-587" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5847" length="10">assembling</trigger>
+      </event_mention>
+<event_mention id="em-600" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5902" length="10">assembling</trigger>
+      </event_mention>
+<event_mention id="em-613" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="5918" length="8">marching</trigger>
+      </event_mention>
+<event_mention id="em-626" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="6562" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-639" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7177" length="8">reported</trigger>
+      </event_mention>
+<event_mention id="em-654" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7205" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-669" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7258" length="8">violence</trigger>
+      </event_mention>
+<event_mention id="em-684" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7302" length="7">alerted</trigger>
+      </event_mention>
+<event_mention id="em-699" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7418" length="8">marching</trigger>
+      </event_mention>
+<event_mention id="em-714" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7610" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-727" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="7935" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-742" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="8028" length="7">marches</trigger>
+      </event_mention>
+<event_mention id="em-755" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="8126" length="5">rally</trigger>
+      </event_mention>
+<event_mention id="em-768" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="8132" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-783" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="8555" length="5">march</trigger>
+      </event_mention>
+<event_mention id="em-798" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="8764" length="5">taxes</trigger>
+      </event_mention>
+<event_mention id="em-813" type="contact" subtype="meet" realis="generic" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="8908" length="6">gather</trigger>
+      </event_mention>
+<event_mention id="em-828" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9284" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-843" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9514" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-856" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9692" length="5">march</trigger>
+      </event_mention>
+<event_mention id="em-869" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9737" length="5">march</trigger>
+      </event_mention>
+<event_mention id="em-882" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9749" length="5">march</trigger>
+      </event_mention>
+<event_mention id="em-895" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9699" length="17">The demonstration</trigger>
+      </event_mention>
+<event_mention id="em-908" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9798" length="7">marches</trigger>
+      </event_mention>
+<event_mention id="em-921" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9850" length="7">marches</trigger>
+      </event_mention>
+<event_mention id="em-934" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="9862" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-947" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="10122" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-962" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="10290" length="6">action</trigger>
+      </event_mention>
+<event_mention id="em-975" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="10481" length="12">demonstrated</trigger>
+      </event_mention>
+<event_mention id="em-988" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="10526" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1001" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="10643" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1016" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="11340" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-1033" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="11514" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1046" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="11588" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1072" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="11870" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-1098" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12032" length="8">marching</trigger>
+      </event_mention>
+<event_mention id="em-1111" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12051" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1124" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12486" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1137" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12528" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-1152" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12567" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-1165" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12737" length="3">War</trigger>
+      </event_mention>
+<event_mention id="em-1180" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12812" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1208" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12937" length="11">compensated</trigger>
+      </event_mention>
+<event_mention id="em-1223" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="12800" length="6">fought</trigger>
+      </event_mention>
+<event_mention id="em-1238" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="13014" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-1253" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="13356" length="3">War</trigger>
+      </event_mention>
+<event_mention id="em-1268" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="13692" length="7">pursuit</trigger>
+      </event_mention>
+<event_mention id="em-1283" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="13822" length="4">wars</trigger>
+      </event_mention>
+<event_mention id="em-1298" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="13942" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1311" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="13898" length="4">wars</trigger>
+      </event_mention>
+<event_mention id="em-1341" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="14346" length="6">fought</trigger>
+      </event_mention>
+<event_mention id="em-1354" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="14867" length="5">armed</trigger>
+      </event_mention>
+<event_mention id="em-1369" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="15645" length="10">abdicating</trigger>
+      </event_mention>
+<event_mention id="em-1384" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="15815" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1397" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16081" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1410" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16201" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1423" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16400" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1438" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16468" length="9">bloodshed</trigger>
+      </event_mention>
+<event_mention id="em-1453" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16498" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-1468" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16598" length="4">wars</trigger>
+      </event_mention>
+<event_mention id="em-1483" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16641" length="7">rallies</trigger>
+      </event_mention>
+<event_mention id="em-1498" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16696" length="3">WWI</trigger>
+      </event_mention>
+<event_mention id="em-1513" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16704" length="4">WWII</trigger>
+      </event_mention>
+<event_mention id="em-1528" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16717" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1543" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16792" length="4">wars</trigger>
+      </event_mention>
+<event_mention id="em-1558" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16808" length="5">elect</trigger>
+      </event_mention>
+<event_mention id="em-1573" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16831" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1599" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16935" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-1612" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16993" length="11">demonstrate</trigger>
+      </event_mention>
+<event_mention id="em-1627" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16978" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-1642" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="16978" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-1657" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17023" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1672" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17177" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-1687" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17293" length="4">shot</trigger>
+      </event_mention>
+<event_mention id="em-1702" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17336" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1730" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17479" length="12">demonstrated</trigger>
+      </event_mention>
+<event_mention id="em-1745" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17791" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-1758" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="17854" length="4">dead</trigger>
+      </event_mention>
+<event_mention id="em-1773" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="18406" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-1786" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="186" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1799" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="18402" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1812" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="18700" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-1825" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="18774" length="9">protested</trigger>
+      </event_mention>
+<event_mention id="em-1838" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="18802" length="8">messages</trigger>
+      </event_mention>
+<event_mention id="em-1853" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="18892" length="8">messages</trigger>
+      </event_mention>
+<event_mention id="em-1868" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="19046" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-1883" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="19821" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-1896" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="20116" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-1909" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="20326" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-1924" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="20641" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1937" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="20661" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-1950" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="20704" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1963" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="21043" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-1976" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="21047" length="7">rallies</trigger>
+      </event_mention>
+<event_mention id="em-1989" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="21118" length="10">protestors</trigger>
+      </event_mention>
+<event_mention id="em-2002" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="21133" length="6">travel</trigger>
+      </event_mention>
+<event_mention id="em-2017" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="20343" length="6">travel</trigger>
+      </event_mention>
+<event_mention id="em-2030" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="21280" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-2043" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="21368" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-2071" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="22281" length="19">take to the streets</trigger>
+      </event_mention>
+<event_mention id="em-2099" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="23411" length="7">suicide</trigger>
+      </event_mention>
+<event_mention id="em-2112" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="23427" length="6">attack</trigger>
+      </event_mention>
+<event_mention id="em-2127" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="23574" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-2142" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="23574" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-2157" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="23682" length="7">RELEASE</trigger>
+      </event_mention>
+<event_mention id="em-2172" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24168" length="7">release</trigger>
+      </event_mention>
+<event_mention id="em-2185" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24252" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-2198" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24252" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-2211" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24315" length="4">bomb</trigger>
+      </event_mention>
+<event_mention id="em-2224" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24421" length="19">took to the streets</trigger>
+      </event_mention>
+<event_mention id="em-2265" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24536" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-2278" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24532" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-2291" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24727" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-2304" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="24903" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-2317" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="25367" length="3">WAR</trigger>
+      </event_mention>
+<event_mention id="em-2330" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6849980" offset="26208" length="8">Protests</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

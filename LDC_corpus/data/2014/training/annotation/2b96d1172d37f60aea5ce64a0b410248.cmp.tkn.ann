@@ -1,0 +1,81 @@
+T1	Transaction_Transfer-Money 562 565	pay
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Money 997 1000	pay
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Money 1087 1092	spend
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Actual
+T5	Transaction_Transfer-Money 1933 1939	buying
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Money 2123 2133	investment
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Transaction_Transfer-Ownership 3414 3420	robbed
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Money 3967 3970	pay
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Money 3982 3986	paid
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 4136 4141;4157 4161	money made
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 4350 4360	make money
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 5744 5753	destroyed
+E12	Conflict_Attack:T12 
+A12	Realis E12 Other
+T13	Conflict_Attack 5881 5887	attack
+E13	Conflict_Attack:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Money 885 888	pay
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Generic
+T15	Conflict_Attack 1442 1451	destroyed
+E15	Conflict_Attack:T15 
+A15	Realis E15 Other
+T16	Conflict_Attack 1470 1473	war
+E16	Conflict_Attack:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Money 3797 3800	pay
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic
+T18	Transaction_Transfer-Money 3887 3892	spend
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 4900 4909	go to war
+E19	Conflict_Attack:T19 
+A19	Realis E19 Other
+T20	Transaction_Transfer-Money 5040 5046	buying
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Money 5230 5240	investment
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Generic
+T22	Transaction_Transfer-Money 5709 5715	bought
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Actual
+T23	Movement_Transport-Person 5859 5863	send
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Other
+T4	Conflict_Attack 1793 1802	go to war
+E4	Conflict_Attack:T4 
+A4	Realis E4 Other
+T24	Conflict_Attack 2968 2974	invade
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 3012 3020	repelled
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 3028 3034	battle
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 3113 3121	violence
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual

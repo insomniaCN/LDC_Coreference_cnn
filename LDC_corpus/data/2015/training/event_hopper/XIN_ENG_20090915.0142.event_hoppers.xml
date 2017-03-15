@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000653" doc_id="XIN_ENG_20090915.0142" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="65" length="7">attacks</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="184" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-64" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="350" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-90" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="545" length="7">attacks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="65" length="7">attacks</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="244" length="7">wounded</trigger>
+      </event_mention>
+      <event_mention id="em-77" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="430" length="8">injuring</trigger>
+      </event_mention>
+      <event_mention id="em-103" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="545" length="7">attacks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-129">
+      <event_mention id="em-116" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="563" length="9">Conflicts</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-144">
+      <event_mention id="em-131" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20090915.0142" offset="650" length="7">claimed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

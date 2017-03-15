@@ -1,0 +1,185 @@
+T1	Personnel_Nominate 178 187	nominates
+E579	Personnel_Nominate:T1
+A1	Realis E579 Actual
+T2	Personnel_Nominate 451 460	nominated
+E353	Personnel_Nominate:T2
+A2	Realis E353 Actual
+T3	Personnel_Nominate 942 953	nominations
+E421	Personnel_Nominate:T3
+A3	Realis E421 Actual
+T4	Personnel_Nominate 526 540	recommendation
+E128	Personnel_Nominate:T4
+A4	Realis E128 Actual
+T5	Personnel_Nominate 3138 3147	nominated
+E666	Personnel_Nominate:T5
+A5	Realis E666 Actual
+T6	Personnel_Nominate 687 696	nominated
+E366	Personnel_Nominate:T6
+A6	Realis E366 Actual
+T7	Personnel_Nominate 3337 3343	tapped
+E39	Personnel_Nominate:T7
+A7	Realis E39 Actual
+T8	Personnel_Nominate 761 767	tapped
+E662	Personnel_Nominate:T8
+A8	Realis E662 Actual
+T9	Personnel_Nominate 1363 1373	nomination
+E990	Personnel_Nominate:T9
+A9	Realis E990 Actual
+T10	Personnel_Nominate 1522 1532	nominating
+E886	Personnel_Nominate:T10
+A10	Realis E886 Actual
+T11	Personnel_Nominate 2436 2446	nomination
+E44	Personnel_Nominate:T11
+A11	Realis E44 Actual
+T12	Personnel_Nominate 2646 2656	nomination
+E240	Personnel_Nominate:T12
+A12	Realis E240 Actual
+T13	Personnel_End-Position 824 830	former
+E630	Personnel_End-Position:T13
+A13	Realis E630 Actual
+T14	Personnel_End-Position 1437 1443	former
+E446	Personnel_End-Position:T14
+A14	Realis E446 Actual
+T15	Personnel_End-Position 1919 1925	served
+E277	Personnel_End-Position:T15
+A15	Realis E277 Actual
+T16	Personnel_Start-Position 867 878	appointment
+E591	Personnel_Start-Position:T16
+A16	Realis E591 Other
+T17	Personnel_Start-Position 2683 2690	replace
+E482	Personnel_Start-Position:T17
+A17	Realis E482 Other
+T18	Contact_Broadcast 955 964	announced
+E652	Contact_Broadcast:T18
+A18	Realis E652 Actual
+T19	Personnel_Nominate 1055 1063	nominees
+E87	Personnel_Nominate:T19
+A19	Realis E87 Actual
+T20	Contact_Broadcast 1567 1576	statement
+E655	Contact_Broadcast:T20
+A20	Realis E655 Actual
+T21	Personnel_Start-Position 1721 1729	addition
+E878	Personnel_Start-Position:T21
+A21	Realis E878 Other
+T22	Life_Marry 1779 1786	married
+E584	Life_Marry:T22
+A22	Realis E584 Actual
+T23	Personnel_End-Position 1790 1796	former
+E700	Personnel_End-Position:T23
+A23	Realis E700 Actual
+T24	Contact_Broadcast 2141 2151	memorandum
+E793	Contact_Broadcast:T24
+A24	Realis E793 Actual
+T25	Contact_Broadcast 2390 2400	memorandum
+E645	Contact_Broadcast:T25
+A25	Realis E645 Actual
+T26	Conflict_Attack 2185 2192	killing
+E952	Conflict_Attack:T26
+A26	Realis E952 Actual
+T27	Conflict_Attack 2299 2305	killed
+E867	Conflict_Attack:T27
+A27	Realis E867 Actual
+T28	Conflict_Attack 2409 2416	killing
+E575	Conflict_Attack:T28
+A28	Realis E575 Actual
+T29	Life_Die 2185 2192	killing
+E170	Life_Die:T29
+A29	Realis E170 Actual
+T30	Life_Die 2299 2305	killed
+E871	Life_Die:T30
+A30	Realis E871 Actual
+T31	Life_Die 2409 2416	killing
+E63	Life_Die:T31
+A31	Realis E63 Actual
+T32	Justice_Trial-Hearing 2204 2209	trial
+E214	Justice_Trial-Hearing:T32
+A32	Realis E214 Other
+T33	Life_Beborn 2227 2231	born
+E757	Life_Beborn:T33
+A33	Realis E757 Actual
+T34	Conflict_Attack 2345 2359	assassinations
+E376	Conflict_Attack:T34
+A34	Realis E376 Generic
+T35	Life_Die 2345 2359	assassinations
+E856	Life_Die:T35
+A35	Realis E856 Generic
+T36	Personnel_End-Position 2683 2690	replace
+E681	Personnel_End-Position:T36
+A36	Realis E681 Other
+T37	Personnel_Start-Position 2805 2808	sat
+E378	Personnel_Start-Position:T37
+A37	Realis E378 Actual
+T38	Personnel_End-Position 3053 3059	former
+E729	Personnel_End-Position:T38
+A38	Realis E729 Actual
+T39	Personnel_Start-Position 3100 3106	became
+E459	Personnel_Start-Position:T39
+A39	Realis E459 Actual
+T40	Personnel_Start-Position 3151 3158	replace
+E186	Personnel_Start-Position:T40
+A40	Realis E186 Other
+T41	Personnel_End-Position 3151 3158	replace
+E132	Personnel_End-Position:T41
+A41	Realis E132 Other
+T42	Personnel_Start-Position 3347 3354	replace
+E364	Personnel_Start-Position:T42
+A42	Realis E364 Other
+T43	Personnel_End-Position 3347 3354	replace
+E802	Personnel_End-Position:T43
+A43	Realis E802 Other
+T44	Transaction_Transfer-Money 3797 3804	donated
+E974	Transaction_Transfer-Money:T44
+A44	Realis E974 Actual
+T46	Transaction_Transfer-Money 3845 3849	gave
+E606	Transaction_Transfer-Money:T46
+A46	Realis E606 Actual
+T46	Transaction_Transfer-Money 3845 3849	gave
+E861	Transaction_Transfer-Money:T46
+A46	Realis E861 Actual
+T48	Transaction_Transfer-Money 3900 3905	given
+E640	Transaction_Transfer-Money:T48
+A48	Realis E640 Actual
+T48	Transaction_Transfer-Money 3900 3905	given
+E928	Transaction_Transfer-Money:T48
+A48	Realis E928 Actual
+T50	Transaction_Transfer-Money 3990 3994	gave
+E31	Transaction_Transfer-Money:T50
+A50	Realis E31 Actual
+T50	Transaction_Transfer-Money 3990 3994	gave
+E428	Transaction_Transfer-Money:T50
+A50	Realis E428 Actual
+T51	Personnel_End-Position 4107 4114	Retired
+E409	Personnel_End-Position:T51
+A51	Realis E409 Actual
+T52	Personnel_Nominate 4413 4424	nominations
+E589	Personnel_Nominate:T52
+A52	Realis E589 Generic
+T53	Contact_Broadcast 5161 5173	announcement
+E555	Contact_Broadcast:T53
+A53	Realis E555 Actual
+T54	Justice_Appeal 898 905	Appeals
+E889	Justice_Appeal:T54
+A54	Realis E889 Generic
+T55	Justice_Appeal 2700 2707	Appeals
+E980	Justice_Appeal:T55
+A55	Realis E980 Generic
+T56	Personnel_Start-Position 4321 4327	filled
+E70	Personnel_Start-Position:T56
+A56	Realis E70 Other
+R1	Coreference Arg1:E579 Arg2:E353
+R2	Coreference Arg1:E353 Arg2:E421
+R3	Coreference Arg1:E128 Arg2:E666
+R4	Coreference Arg1:E366 Arg2:E39
+R5	Coreference Arg1:E662 Arg2:E990
+R6	Coreference Arg1:E990 Arg2:E886
+R7	Coreference Arg1:E886 Arg2:E44
+R8	Coreference Arg1:E44 Arg2:E240
+R9	Coreference Arg1:E630 Arg2:E446
+R10	Coreference Arg1:E446 Arg2:E277
+R11	Coreference Arg1:E591 Arg2:E482
+R12	Coreference Arg1:E793 Arg2:E645
+R13	Coreference Arg1:E952 Arg2:E867
+R14	Coreference Arg1:E867 Arg2:E575
+R15	Coreference Arg1:E170 Arg2:E871
+R16	Coreference Arg1:E871 Arg2:E63
+R17	Coreference Arg1:E889 Arg2:E980

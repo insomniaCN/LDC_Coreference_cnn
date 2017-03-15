@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589761a0000000000000001" doc_id="AFP_ENG_20090814.0225" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-40" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="70" length="6">visits</trigger>
+      </event_mention>
+      <event_mention id="em-53" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="222" length="7">visited</trigger>
+      </event_mention>
+      <event_mention id="em-66" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="506" length="5">visit</trigger>
+      </event_mention>
+      <event_mention id="em-183" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="363" length="9">explained</trigger>
+      </event_mention>
+      <event_mention id="em-209" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="575" length="3">see</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-79" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="651" length="7">charges</trigger>
+      </event_mention>
+      <event_mention id="em-92" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="309" length="7">charges</trigger>
+      </event_mention>
+      <event_mention id="em-261" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="1050" length="7">accused</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-105" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="782" length="3">met</trigger>
+      </event_mention>
+      <event_mention id="em-118" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090814.0225" offset="834" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-131" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090814.0225" offset="445" length="7">release</trigger>
+      </event_mention>
+      <event_mention id="em-144" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090814.0225" offset="904" length="7">release</trigger>
+      </event_mention>
+      <event_mention id="em-157" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090814.0225" offset="1266" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-170" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="294" length="4">held</trigger>
+      </event_mention>
+      <event_mention id="em-326" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="105" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-196" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="552" length="4">trip</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-222" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="632" length="5">tried</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-235" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="689" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-248" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090814.0225" offset="1026" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-274" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="AFP_ENG_20090814.0225" offset="1198" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-287" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="AFP_ENG_20090814.0225" offset="1210" length="7">emailed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-300" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090814.0225" offset="339" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-38">
+      <event_mention id="em-313" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090814.0225" offset="755" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-352">
+      <event_mention id="em-339" type="personnel" subtype="elect" realis="generic">
+        <trigger source="AFP_ENG_20090814.0225" offset="680" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

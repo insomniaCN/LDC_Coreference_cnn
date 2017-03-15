@@ -1,0 +1,15 @@
+T1	Personnel_End-Position 778 785	Retired
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 798 806	followed
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 840 855	took retirement
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 259 267	bail out
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Generic
+T5	Business_End-Org 685 693	closures
+E5	Business_End-Org:T5 
+A5	Realis E5 Actual

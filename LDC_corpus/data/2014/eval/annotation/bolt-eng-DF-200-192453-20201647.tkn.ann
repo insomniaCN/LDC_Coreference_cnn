@@ -1,0 +1,81 @@
+T1	Movement_Transport-Person 394 400	Deport
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 542 548	Deport
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Other
+T3	Movement_Transport-Person 1018 1024	Deport
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Conflict_Attack 1243 1248	fight
+E4	Conflict_Attack:T4 
+A4	Realis E4 Other
+T5	Movement_Transport-Person 1251 1255	Send
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Other
+T6	Life_Die 1310 1316	killed
+E6	Life_Die:T6 
+A6	Realis E6 Generic
+T7	Movement_Transport-Person 1493 1499	Deport
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 1701 1706	fight
+E8	Conflict_Attack:T8 
+A8	Realis E8 Other
+T9	Movement_Transport-Person 1709 1713	Send
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Other
+T10	Life_Die 1768 1774	killed
+E10	Life_Die:T10 
+A10	Realis E10 Generic
+T11	Movement_Transport-Person 1849 1859	pulled out
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 2037 2043	Deport
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Other
+T13	Justice_Arrest-Jail 2428 2435;2438 2452	serving term in prison
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Generic
+T14	Justice_Fine 2456 2465;2468 2472	receiving fine
+E14	Justice_Fine:T14 
+A14	Realis E14 Generic
+T15	Movement_Transport-Person 3383 3389	Deport
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Other
+T16	Justice_Arrest-Jail 3789 3796;3799 3813	serving term in prison
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Generic
+T17	Justice_Fine 3817 3826;3829 3833	receiving fine
+E17	Justice_Fine:T17 
+A17	Realis E17 Generic
+T18	Movement_Transport-Person 4760 4766	Deport
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other
+T19	Movement_Transport-Person 300 307	joyride
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 4666 4673	joyride
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 4896 4898	go
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Other
+T22	Movement_Transport-Person 4921 4930	deporting
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Other
+T23	Movement_Transport-Person 5363 5372	deporting
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Other
+T24	Movement_Transport-Person 6125 6134	deporting
+E24	Movement_Transport-Person:T24 
+A24	Realis E24 Other
+T25	Movement_Transport-Person 6649 6657	deported
+E25	Movement_Transport-Person:T25 
+A25	Realis E25 Other
+T26	Movement_Transport-Person 6670 6679	joyriding
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Generic
+T27	Movement_Transport-Person 3160 3167	sending
+E27	Movement_Transport-Person:T27 
+A27	Realis E27 Other

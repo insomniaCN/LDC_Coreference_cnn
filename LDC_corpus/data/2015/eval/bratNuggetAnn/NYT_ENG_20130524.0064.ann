@@ -1,0 +1,60 @@
+T1	Personnel_Start-Position 1574 1583	replacing
+E6	Personnel_Start-Position:T1
+A1	Realis E6 Other
+T2	Conflict_Attack 1039 1048	terrorism
+E58	Conflict_Attack:T2
+A2	Realis E58 Generic
+T3	Personnel_Nominate 717 727	nomination
+E129	Personnel_Nominate:T3
+A3	Realis E129 Actual
+T4	Contact_Broadcast 985 990	email
+E232	Contact_Broadcast:T4
+A4	Realis E232 Actual
+T5	Contact_Contact 415 422	talking
+E274	Contact_Contact:T5
+A5	Realis E274 Generic
+T6	Personnel_Nominate 1471 1480	nominated
+E307	Personnel_Nominate:T6
+A6	Realis E307 Actual
+T7	Movement_Transport-Person 2006 2014	withdraw
+E326	Movement_Transport-Person:T7
+A7	Realis E326 Other
+T8	Personnel_Start-Position 1636 1642	become
+E331	Personnel_Start-Position:T8
+A8	Realis E331 Other
+T9	Personnel_End-Position 1574 1583	replacing
+E346	Personnel_End-Position:T9
+A9	Realis E346 Other
+T10	Personnel_Nominate 502 508	choice
+E347	Personnel_Nominate:T10
+A10	Realis E347 Actual
+T11	Conflict_Attack 889 895	attack
+E469	Conflict_Attack:T11
+A11	Realis E469 Actual
+T12	Life_Die 901 907	killed
+E599	Life_Die:T12
+A12	Realis E599 Actual
+T13	Personnel_End-Position 531 537	former
+E620	Personnel_End-Position:T13
+A13	Realis E620 Actual
+T14	Personnel_End-Position 1880 1887	retired
+E647	Personnel_End-Position:T14
+A14	Realis E647 Actual
+T15	Contact_Contact 834 841	talking
+E755	Contact_Contact:T15
+A15	Realis E755 Generic
+T16	Conflict_Attack 440 446	attack
+E764	Conflict_Attack:T16
+A16	Realis E764 Actual
+T17	Contact_Broadcast 1027 1035	warnings
+E779	Contact_Broadcast:T17
+A17	Realis E779 Actual
+T18	Contact_Contact 538 549	spokeswoman
+E815	Contact_Contact:T18
+A18	Realis E815 Generic
+T19	Personnel_End-Position 1604 1611	leaving
+E827	Personnel_End-Position:T19
+A19	Realis E827 Other
+T20	Personnel_Nominate 319 329	nominating
+E852	Personnel_Nominate:T20
+A20	Realis E852 Actual

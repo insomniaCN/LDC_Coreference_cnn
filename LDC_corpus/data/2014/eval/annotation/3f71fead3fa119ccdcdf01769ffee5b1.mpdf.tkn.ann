@@ -1,0 +1,171 @@
+T1	Justice_Convict 240 249	convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Justice_Convict 333 342	convicted
+E2	Justice_Convict:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 403 413	conviction
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 476 486	conviction
+E4	Justice_Convict:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 606 609	war
+E5	Conflict_Attack:T5 
+A5	Realis E5 Generic
+T6	Justice_Convict 688 697	convicted
+E6	Justice_Convict:T6 
+A6	Realis E6 Actual
+T8	Transaction_Transfer-Ownership 747 756	providing
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 875 883	traveled
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 925 932	attacks
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 1016 1024	fighting
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Justice_Arrest-Jail 1118 1123;1149 1155	faces prison
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Other
+T13	Justice_Sentence 1167 1176	sentenced
+E13	Justice_Sentence:T13 
+A13	Realis E13 Other
+T14	Justice_Charge-Indict 3218 3225	charged
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Actual
+T15	Justice_Sentence 3274 3283	sentenced
+E15	Justice_Sentence:T15 
+A15	Realis E15 Actual
+T17	Justice_Sentence 3334 3342	sentence
+E17	Justice_Sentence:T17 
+A17	Realis E17 Other
+T18	Justice_Arrest-Jail 3366 3372	prison
+E18	Justice_Arrest-Jail:T18 
+A18	Realis E18 Other
+T19	Justice_Charge-Indict 3426 3433	charged
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 3505 3513	fighting
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Ownership 3618 3625	acquire
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 3702 3710	returned
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 3998 4005	attacks
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Justice_Sentence 4111 4118;4123 4131	imposed sentence
+E24	Justice_Sentence:T24 
+A24	Realis E24 Actual
+T25	Justice_Arrest-Jail 4187 4194	custody
+E25	Justice_Arrest-Jail:T25 
+A25	Realis E25 Actual
+T26	Justice_Arrest-Jail 4333 4339	prison
+E26	Justice_Arrest-Jail:T26 
+A26	Realis E26 Other
+T27	Justice_Sentence 4559 4569	sentencing
+E27	Justice_Sentence:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 4686 4693	attacks
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Justice_Convict 4760 4769	convicted
+E29	Justice_Convict:T29 
+A29	Realis E29 Actual
+T30	Justice_Acquit 4792 4801	acquitted
+E30	Justice_Acquit:T30 
+A30	Realis E30 Actual
+T31	Justice_Convict 4858 4867	convicted
+E31	Justice_Convict:T31 
+A31	Realis E31 Actual
+T32	Conflict_Attack 4929 4932	war
+E32	Conflict_Attack:T32 
+A32	Realis E32 Actual
+T33	Conflict_Attack 5211 5218	attacks
+E33	Conflict_Attack:T33 
+A33	Realis E33 Other
+T34	Justice_Convict 5237 5246	convicted
+E34	Justice_Convict:T34 
+A34	Realis E34 Actual
+T35	Justice_Acquit 5355 5364	acquitted
+E35	Justice_Acquit:T35 
+A35	Realis E35 Actual
+T36	Transaction_Transfer-Ownership 5282 5291	providing
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Actual
+T37	Movement_Transport-Person 5477 5481	trip
+E37	Movement_Transport-Person:T37 
+A37	Realis E37 Actual
+T38	Contact_Meet 5517 5520	met
+E38	Contact_Meet:T38 
+A38	Realis E38 Actual
+T39	Justice_Sentence 5655 5663	sentence
+E39	Justice_Sentence:T39 
+A39	Realis E39 Actual
+T40	Transaction_Transfer-Ownership 5817 5826	procuring
+E40	Transaction_Transfer-Ownership:T40 
+A40	Realis E40 Actual
+T41	Movement_Transport-Person 5966 5972	visits
+E41	Movement_Transport-Person:T41 
+A41	Realis E41 Actual
+T42	Transaction_Transfer-Ownership 6069 6080	acquisition
+E42	Transaction_Transfer-Ownership:T42 
+A42	Realis E42 Actual
+T43	Transaction_Transfer-Ownership 6240 6248	purchase
+E43	Transaction_Transfer-Ownership:T43 
+A43	Realis E43 Actual
+T44	Transaction_Transfer-Ownership 6309 6318	purchased
+E44	Transaction_Transfer-Ownership:T44 
+A44	Realis E44 Actual
+T45	Conflict_Attack 6620 6627	attacks
+E45	Conflict_Attack:T45 
+A45	Realis E45 Actual
+T46	Conflict_Attack 6687 6694	attacks
+E46	Conflict_Attack:T46 
+A46	Realis E46 Actual
+T47	Life_Die 6782 6788	deaths
+E47	Life_Die:T47 
+A47	Realis E47 Actual
+T48	Justice_Sentence 6985 6995	sentencing
+E48	Justice_Sentence:T48 
+A48	Realis E48 Actual
+T49	Justice_Arrest-Jail 7121 7127	prison
+E49	Justice_Arrest-Jail:T49 
+A49	Realis E49 Actual
+T50	Transaction_Transfer-Ownership 7132 7141	providing
+E50	Transaction_Transfer-Ownership:T50 
+A50	Realis E50 Actual
+T51	Transaction_Transfer-Ownership 346 357	lending aid
+E51	Transaction_Transfer-Ownership:T51 
+A51	Realis E51 Actual
+T7	Justice_Release-Parole 4167 4171	free
+E7	Justice_Release-Parole:T7 
+A7	Realis E7 Actual
+T16	Contact_Communicate 4267 4271	told
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T52	Contact_Communicate 4435 4439	tell
+E52	Contact_Communicate:T52 
+A52	Realis E52 Actual
+T53	Justice_Trial-Hearing 4773 4778	trial
+E53	Justice_Trial-Hearing:T53 
+A53	Realis E53 Actual
+T54	Personnel_End-Position 5003 5009	former
+E54	Personnel_End-Position:T54 
+A54	Realis E54 Actual
+T55	Justice_Sentence 5034 5043	sentenced
+E55	Justice_Sentence:T55 
+A55	Realis E55 Actual
+T56	Contact_Communicate 5160 5166	saying
+E56	Contact_Communicate:T56 
+A56	Realis E56 Actual
+T57	Justice_Trial-Hearing 5431 5436	trial
+E57	Justice_Trial-Hearing:T57 
+A57	Realis E57 Actual

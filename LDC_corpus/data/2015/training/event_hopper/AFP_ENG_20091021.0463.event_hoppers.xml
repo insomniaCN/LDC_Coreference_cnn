@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976210000000000000009" doc_id="AFP_ENG_20091021.0463" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-22" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="257" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-35" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="99" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-61" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091021.0463" offset="505" length="3">tax</trigger>
+      </event_mention>
+      <event_mention id="em-74" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091021.0463" offset="282" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-48" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="409" length="8">bankrupt</trigger>
+      </event_mention>
+      <event_mention id="em-87" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="483" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-100" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="572" length="6">sacked</trigger>
+      </event_mention>
+      <event_mention id="em-113" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="183" length="6">Former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-126" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="345" length="5">began</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-139" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20091021.0463" offset="646" length="3">was</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-152" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091021.0463" offset="231" length="8">insisted</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

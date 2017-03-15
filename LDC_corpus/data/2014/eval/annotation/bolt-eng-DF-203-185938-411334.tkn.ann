@@ -1,0 +1,70 @@
+T1	Contact_Communicate 484 488	says
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 536 543	talking
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 712 719	repeats
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 1560 1564	gave
+E4	Contact_Communicate:T4 
+A4	Questionable E4 Mention
+A5	Realis E4 Other
+T5	Contact_Communicate 1625 1629	said
+E5	Contact_Communicate:T5 
+A6	Realis E5 Other
+T6	Movement_Transport-Person 1681 1686	drove
+E6	Movement_Transport-Person:T6 
+A7	Realis E6 Other
+T7	Movement_Transport-Person 1718 1720	go
+E7	Movement_Transport-Person:T7 
+A8	Realis E7 Other
+T8	Contact_Communicate 1914 1918	SAYS
+E8	Contact_Communicate:T8 
+A9	Realis E8 Generic
+T9	Movement_Transport-Person 2184 2191	pick up
+E9	Movement_Transport-Person:T9 
+A10	Realis E9 Other
+T10	Life_Marry 4498 4505	wedding
+E10	Life_Marry:T10 
+A11	Questionable E10 Realis
+A12	Realis E10 Actual
+T11	Movement_Transport-Person 4518 4524	moving
+E11	Movement_Transport-Person:T11 
+A13	Realis E11 Actual
+T12	Contact_Communicate 4602 4609	mention
+E12	Contact_Communicate:T12 
+A14	Questionable E12 Realis
+A15	Realis E12 Generic
+T13	Movement_Transport-Person 4731 4733	go
+E13	Movement_Transport-Person:T13 
+A16	Realis E13 Other
+T14	Movement_Transport-Person 4800 4804	come
+E14	Movement_Transport-Person:T14 
+A17	Realis E14 Actual
+T15	Life_Marry 4614 4621	wedding
+E15	Life_Marry:T15 
+A18	Realis E15 Actual
+T16	Movement_Transport-Person 4892 4901	showed up
+E16	Movement_Transport-Person:T16 
+A19	Realis E16 Actual
+T17	Contact_Communicate 5444 5447	say
+E17	Contact_Communicate:T17 
+A20	Realis E17 Actual
+T18	Contact_Communicate 5583 5587	says
+E18	Contact_Communicate:T18 
+A21	Realis E18 Other
+T19	Contact_Communicate 5610 5613	say
+E19	Contact_Communicate:T19 
+A22	Realis E19 Other
+T20	Contact_Communicate 5680 5688	insulted
+E20	Contact_Communicate:T20 
+A23	Questionable E20 Mention
+A24	Realis E20 Actual
+T21	Contact_Communicate 5743 5747	said
+E21	Contact_Communicate:T21 
+A25	Realis E21 Actual
+T22	Movement_Transport-Person 5774 5778	walk
+E22	Movement_Transport-Person:T22 
+A26	Realis E22 Other

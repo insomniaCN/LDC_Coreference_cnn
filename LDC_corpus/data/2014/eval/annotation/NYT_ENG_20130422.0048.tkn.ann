@@ -1,0 +1,96 @@
+T1	Justice_Trial-Hearing 223 228	TRIAL
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Actual
+T2	Justice_Trial-Hearing 337 342	trial
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 399 405	former
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 480 487	charged
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Justice_Trial-Hearing 667 672	trial
+E5	Justice_Trial-Hearing:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 705 711	former
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 836 843	custody
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Charge-Indict 927 934	charges
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Justice_Trial-Hearing 1014 1024	prosecuted
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Ownership 1325 1333	purchase
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 1450 1458;1514 1520	received bribes
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Personnel_End-Position 1649 1655	former
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual
+T13	Justice_Charge-Indict 1812 1819	charges
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Actual
+T14	Justice_Sentence 2260 2268	sentence
+E14	Justice_Sentence:T14 
+A14	Realis E14 Actual
+T15	Justice_Convict 2339 2348	convicted
+E15	Justice_Convict:T15 
+A15	Realis E15 Actual
+T16	Personnel_End-Position 2353 2359	former
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 2418 2428	embezzling
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Justice_Charge-Indict 2623 2630	charged
+E18	Justice_Charge-Indict:T18 
+A18	Realis E18 Other
+T19	Personnel_End-Position 2686 2692	former
+E19	Personnel_End-Position:T19 
+A19	Realis E19 Actual
+T20	Justice_Charge-Indict 2708 2715	charged
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Actual
+T21	Personnel_End-Position 2853 2859	former
+E21	Personnel_End-Position:T21 
+A21	Realis E21 Actual
+T22	Justice_Acquit 2920 2929	acquitted
+E22	Justice_Acquit:T22 
+A22	Realis E22 Actual
+T23	Justice_Charge-Indict 2941 2948	charges
+E23	Justice_Charge-Indict:T23 
+A23	Realis E23 Actual
+T24	Transaction_Transfer-Money 514 530	money laundering
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Transaction_Transfer-Money 582 588	bribes
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Actual
+T26	Justice_Charge-Indict 1059 1066	accused
+E26	Justice_Charge-Indict:T26 
+A26	Realis E26 Actual
+T27	Transaction_Transfer-Money 1239 1245;1265 1270	bribes taken
+E27	Transaction_Transfer-Money:T27 
+A27	Realis E27 Actual
+T28	Business_Start-Org 1669 1677	founding
+E28	Business_Start-Org:T28 
+A28	Realis E28 Actual
+T29	Justice_Charge-Indict 1841 1852	prosecution
+E29	Justice_Charge-Indict:T29 
+A29	Realis E29 Actual
+T30	Transaction_Transfer-Money 2216 2221	loans
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Generic
+T31	Justice_Trial-Hearing 2837 2842	trial
+E31	Justice_Trial-Hearing:T31 
+A31	Realis E31 Actual
+T32	Transaction_Transfer-Money 2952 2968	accepting bribes
+E32	Transaction_Transfer-Money:T32 
+A32	Realis E32 Actual

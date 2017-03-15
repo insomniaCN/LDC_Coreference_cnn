@@ -1,0 +1,90 @@
+T1	Justice_Trial-Hearing 409 414	trial
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Other
+T2	Justice_Trial-Hearing 632 637	trial
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Other
+T3	Justice_Trial-Hearing 666 671	trial
+E3	Justice_Trial-Hearing:T3 
+A3	Realis E3 Actual
+T4	Justice_Trial-Hearing 1300 1307	hearing
+E4	Justice_Trial-Hearing:T4 
+A4	Realis E4 Actual
+T6	Justice_Trial-Hearing 1906 1911	trial
+E6	Justice_Trial-Hearing:T6 
+A6	Realis E6 Generic
+T7	Justice_Trial-Hearing 2066 2071	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Other
+T8	Justice_Trial-Hearing 2133 2138	trial
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Other
+T9	Justice_Trial-Hearing 2381 2386	trial
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Other
+T10	Justice_Trial-Hearing 2531 2536	trial
+E10	Justice_Trial-Hearing:T10 
+A10	Realis E10 Other
+T11	Justice_Convict 2815 2824	convicted
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T12	Personnel_End-Position 2844 2851	retired
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual
+T13	Justice_Sentence 3041 3051	sentencing
+E13	Justice_Sentence:T13 
+A13	Realis E13 Actual
+T14	Life_Die 3349 3355	murder
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Justice_Convict 3360 3369	convicted
+E15	Justice_Convict:T15 
+A15	Realis E15 Actual
+T16	Justice_Trial-Hearing 3386 3391	trial
+E16	Justice_Trial-Hearing:T16 
+A16	Realis E16 Actual
+T17	Justice_Sentence 3457 3466	sentenced
+E17	Justice_Sentence:T17 
+A17	Realis E17 Actual
+T18	Justice_Trial-Hearing 3583 3588	trial
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Other
+T19	Conflict_Attack 3701 3705	shot
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Life_Die 3709 3714	death
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Justice_Convict 3805 3814	convicted
+E21	Justice_Convict:T21 
+A21	Realis E21 Generic
+T22	Life_Die 3898 3904	killed
+E22	Life_Die:T22 
+A22	Realis E22 Generic
+T23	Life_Die 3818 3824	murder
+E23	Life_Die:T23 
+A23	Realis E23 Generic
+T24	Life_Die 402 408	murder
+E24	Life_Die:T24 
+A24	Realis E24 Actual
+T5	Life_Die 1483 1491	homicide
+E5	Life_Die:T5 
+A5	Realis E5 Generic
+T25	Contact_Communicate 2221 2232	interviewed
+E25	Contact_Communicate:T25 
+A25	Realis E25 Other
+T26	Justice_Charge-Indict 3319 3326	accused
+E26	Justice_Charge-Indict:T26 
+A26	Realis E26 Actual
+T27	Justice_Arrest-Jail 3475 3484	in prison
+E27	Justice_Arrest-Jail:T27 
+A27	Realis E27 Other
+T28	Justice_Release-Parole 3512 3518	parole
+E28	Justice_Release-Parole:T28 
+A28	Realis E28 Other
+T29	Transaction_Transfer-Ownership 3661 3664	rob
+E29	Transaction_Transfer-Ownership:T29 
+A29	Realis E29 Other
+T30	Transaction_Transfer-Ownership 3873 3880	robbery
+E30	Transaction_Transfer-Ownership:T30 
+A30	Realis E30 Generic

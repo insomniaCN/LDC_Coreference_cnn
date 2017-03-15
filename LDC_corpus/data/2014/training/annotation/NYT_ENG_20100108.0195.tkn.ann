@@ -1,0 +1,57 @@
+T1	Life_Die 432 436	died
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 515 520	death
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 628 632	left
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 894 903	expressed
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 931 940	discussed
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 1042 1051;1059 1069	organized gatherings
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T7	Personnel_Nominate 1135 1145	nomination
+E7	Personnel_Nominate:T7 
+A7	Realis E7 Other
+T8	Personnel_Elect 1280 1288	election
+E8	Personnel_Elect:T8 
+A8	Realis E8 Actual
+T9	Personnel_Nominate 1419 1427;1451 1461	accepted nomination
+E9	Personnel_Nominate:T9 
+A9	Realis E9 Actual
+T10	Contact_Meet 1469 1499	Democratic National Convention
+E10	Contact_Meet:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 1653 1660	telling
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Life_Die 1812 1818	killed
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 1882 1886	told
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 1982 1988	remind
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Life_Be-Born 2253 2257	born
+E15	Life_Be-Born:T15 
+A15	Realis E15 Actual
+T16	Life_Marry 2361 2368	married
+E16	Life_Marry:T16 
+A16	Realis E16 Actual
+T17	Life_Die 2398 2402	died
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Life_Be-Born 2465 2469	born
+E18	Life_Be-Born:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 2716 2723	move in
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual

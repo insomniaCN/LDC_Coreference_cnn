@@ -1,0 +1,197 @@
+T1	Personnel_End-Position 153 155	ex
+E99	Personnel_End-Position:T1
+A1	Realis E99 Actual
+T2	Personnel_End-Position 351 357	former
+E908	Personnel_End-Position:T2
+A2	Realis E908 Actual
+T3	Personnel_End-Position 4818 4824	former
+E233	Personnel_End-Position:T3
+A3	Realis E233 Actual
+T4	Personnel_End-Position 5001 5007	former
+E482	Personnel_End-Position:T4
+A4	Realis E482 Actual
+T5	Justice_Arrest-Jail 202 209	custody
+E291	Justice_Arrest-Jail:T5
+A5	Realis E291 Actual
+T6	Justice_Arrest-Jail 386 394	arrested
+E87	Justice_Arrest-Jail:T6
+A6	Realis E87 Actual
+T7	Justice_Extradite 410 420	extradited
+E658	Justice_Extradite:T7
+A7	Realis E658 Actual
+T8	Movement_Transport-Person 410 420	extradited
+E723	Movement_Transport-Person:T8
+A8	Realis E723 Actual
+T9	Movement_Transport-Person 3588 3593	going
+E743	Movement_Transport-Person:T9
+A9	Realis E743 Other
+T10	Movement_Transport-Person 4851 4859	returned
+E517	Movement_Transport-Person:T10
+A10	Realis E517 Actual
+T11	Justice_Charge-Indict 480 487	charged
+E560	Justice_Charge-Indict:T11
+A11	Realis E560 Actual
+T12	Justice_Charge-Indict 508 518	indictment
+E855	Justice_Charge-Indict:T12
+A12	Realis E855 Actual
+T13	Justice_Charge-Indict 1160 1167	charges
+E585	Justice_Charge-Indict:T13
+A13	Realis E585 Actual
+T14	Transaction_Transfer-Money 554 561	finance
+E607	Transaction_Transfer-Money:T14
+A14	Realis E607 Generic
+T15	Justice_Arrest-Jail 616 625	locked up
+E386	Justice_Arrest-Jail:T15
+A15	Realis E386 Other
+T16	Justice_Arrest-Jail 639 648	detention
+E485	Justice_Arrest-Jail:T16
+A16	Realis E485 Generic
+T17	Contact_Meet 678 688	appearance
+E178	Contact_Meet:T17
+A17	Realis E178 Other
+T18	Movement_Transport-Person 754 758	fled
+E91	Movement_Transport-Person:T18
+A18	Realis E91 Actual
+T19	Movement_Transport-Person 4878 4883	exile
+E80	Movement_Transport-Person:T19
+A19	Realis E80 Actual
+T20	Transaction_Transfer-Money 1090 1097	finance
+E588	Transaction_Transfer-Money:T20
+A20	Realis E588 Generic
+T21	Contact_Broadcast 1198 1208	statements
+E369	Contact_Broadcast:T21
+A21	Realis E369 Actual
+T22	Justice_Convict 1315 1324	convicted
+E235	Justice_Convict:T22
+A22	Realis E235 Other
+T23	Justice_Arrest-Jail 1353 1359	prison
+E739	Justice_Arrest-Jail:T23
+A23	Realis E739 Other
+T24	Justice_Fine 1366 1370	fine
+E476	Justice_Fine:T24
+A24	Realis E476 Other
+T25	Justice_Charge-Indict 1426 1433	charged
+E938	Justice_Charge-Indict:T25
+A25	Realis E938 Other
+T26	Contact_Contact 1506 1513	reached
+E883	Contact_Contact:T26
+A26	Realis E883 Other
+T27	Justice_Charge-Indict 1948 1955	charged
+E618	Justice_Charge-Indict:T27
+A27	Realis E618 Actual
+T28	Justice_Charge-Indict 2131 2138	charged
+E227	Justice_Charge-Indict:T28
+A28	Realis E227 Actual
+T29	Justice_Charge-Indict 2410 2416	charge
+E805	Justice_Charge-Indict:T29
+A29	Realis E805 Actual
+T30	Justice_Charge-Indict 2999 3005	charge
+E170	Justice_Charge-Indict:T30
+A30	Realis E170 Actual
+T31	Personnel_Elect 1970 1978	election
+E522	Personnel_Elect:T31
+A31	Realis E522 Generic
+T32	Personnel_Elect 2168 2176	election
+E302	Personnel_Elect:T32
+A32	Realis E302 Generic
+T33	Personnel_Elect 4791 4800	elections
+E876	Personnel_Elect:T33
+A33	Realis E876 Generic
+T34	Transaction_Transfer-Money 2240 2249	donations
+E133	Transaction_Transfer-Money:T34
+A34	Realis E133 Actual
+T35	Transaction_Transfer-Money 2525 2534	donations
+E305	Transaction_Transfer-Money:T35
+A35	Realis E305 Actual
+T36	Transaction_Transfer-Money 2814 2827	contributions
+E630	Transaction_Transfer-Money:T36
+A36	Realis E630 Actual
+T37	Transaction_Transfer-Money 2918 2927	donations
+E143	Transaction_Transfer-Money:T37
+A37	Realis E143 Actual
+T38	Personnel_Nominate 2287 2294	nominee
+E501	Personnel_Nominate:T38
+A38	Realis E501 Actual
+T39	Personnel_End-Position 2358 2364	former
+E943	Personnel_End-Position:T39
+A39	Realis E943 Actual
+T40	Transaction_Transfer-Money 2495 2501	donate
+E802	Transaction_Transfer-Money:T40
+A40	Realis E802 Other
+T41	Transaction_Transfer-Money 2620 2629	receiving
+E776	Transaction_Transfer-Money:T41
+A41	Realis E776 Other
+T42	Justice_Arrest-Jail 2719 2725	arrest
+E489	Justice_Arrest-Jail:T42
+A42	Realis E489 Actual
+T43	Justice_Charge-Indict 2742 2749	charges
+E731	Justice_Charge-Indict:T43
+A43	Realis E731 Actual
+T44	Transaction_Transfer-Money 2801 2809	returned
+E837	Transaction_Transfer-Money:T44
+A44	Realis E837 Actual
+T45	Transaction_Transfer-Money 2902 2913	distributed
+E701	Transaction_Transfer-Money:T45
+A45	Realis E701 Actual
+T46	Justice_Sentence 3061 3069	sentence
+E872	Justice_Sentence:T46
+A46	Realis E872 Other
+T47	Justice_Charge-Indict 3186 3196	indictment
+E963	Justice_Charge-Indict:T47
+A47	Realis E963 Other
+T48	Justice_Arrest-Jail 3230 3236	prison
+E123	Justice_Arrest-Jail:T48
+A48	Realis E123 Other
+T49	Transaction_Transfer-Money 887 900	contributions
+E371	Transaction_Transfer-Money:T49
+A49	Realis E371 Actual
+T50	Transaction_Transfer-Money 1255 1268	contributions
+E15	Transaction_Transfer-Money:T50
+A50	Realis E15 Actual
+T51	Transaction_Transfer-Money 5257 5270	contributions
+E985	Transaction_Transfer-Money:T51
+A51	Realis E985 Actual
+T52	Justice_Convict 3253 3262	convicted
+E639	Justice_Convict:T52
+A52	Realis E639 Other
+T53	Justice_Trial-Hearing 3266 3271	trial
+E863	Justice_Trial-Hearing:T53
+A53	Realis E863 Other
+T54	Personnel_End-Position 4474 4480	former
+E292	Personnel_End-Position:T54
+A54	Realis E292 Actual
+T55	Contact_Contact 4607 4614	Talking
+E207	Contact_Contact:T55
+A55	Realis E207 Actual
+T56	Contact_Contact 4904 4911	talking
+E244	Contact_Contact:T56
+A56	Realis E244 Actual
+T57	Justice_Charge-Indict 5208 5215	charges
+E994	Justice_Charge-Indict:T57
+A57	Realis E994 Actual
+T58	Transaction_Transfer-Money 5219 5228	accepting
+E136	Transaction_Transfer-Money:T58
+A58	Realis E136 Actual
+T59	Contact_Broadcast 5302 5311	statement
+E5	Contact_Broadcast:T59
+A59	Realis E5 Actual
+R1	Coreference Arg1:E99 Arg2:E908
+R2	Coreference Arg1:E908 Arg2:E233
+R3	Coreference Arg1:E233 Arg2:E482
+R4	Coreference Arg1:E291 Arg2:E87
+R5	Coreference Arg1:E723 Arg2:E743
+R6	Coreference Arg1:E743 Arg2:E517
+R7	Coreference Arg1:E560 Arg2:E855
+R8	Coreference Arg1:E855 Arg2:E585
+R9	Coreference Arg1:E91 Arg2:E80
+R10	Coreference Arg1:E618 Arg2:E227
+R11	Coreference Arg1:E227 Arg2:E805
+R12	Coreference Arg1:E805 Arg2:E170
+R13	Coreference Arg1:E522 Arg2:E302
+R14	Coreference Arg1:E302 Arg2:E876
+R15	Coreference Arg1:E133 Arg2:E305
+R16	Coreference Arg1:E305 Arg2:E630
+R17	Coreference Arg1:E630 Arg2:E143
+R18	Coreference Arg1:E371 Arg2:E15
+R19	Coreference Arg1:E15 Arg2:E985
+R20	Coreference Arg1:E207 Arg2:E244

@@ -1,0 +1,63 @@
+T1	Movement_Transport-Person 65 69	Send
+E1	Movement_Transport-Person:T1 
+A1	Questionable E1 Mention
+A2	Realis E1 Other
+T2	Movement_Transport-Person 198 202	send
+E2	Movement_Transport-Person:T2 
+A3	Questionable E2 Mention
+A4	Realis E2 Other
+T3	Movement_Transport-Person 247 251	send
+E3	Movement_Transport-Person:T3 
+A5	Questionable E3 Mention
+A6	Realis E3 Other
+T4	Movement_Transport-Person 404 407	run
+E4	Movement_Transport-Person:T4 
+A7	Realis E4 Generic
+T5	Movement_Transport-Person 447 452	Sends
+E5	Movement_Transport-Person:T5 
+A8	Realis E5 Other
+T6	Personnel_End-Position 609 617	resigned
+E6	Personnel_End-Position:T6 
+A9	Realis E6 Actual
+T7	Movement_Transport-Person 622 626	fled
+E7	Movement_Transport-Person:T7 
+A10	Realis E7 Actual
+T8	Movement_Transport-Person 743 750	sending
+E8	Movement_Transport-Person:T8 
+A11	Questionable E8 Realis
+A12	Realis E8 Other
+T9	Movement_Transport-Person 942 950	deployed
+E9	Movement_Transport-Person:T9 
+A13	Realis E9 Other
+T10	Personnel_End-Position 1065 1073	resigned
+E10	Personnel_End-Position:T10 
+A14	Realis E10 Actual
+T11	Movement_Transport-Person 1099 1114	went into exile
+E11	Movement_Transport-Person:T11 
+A15	Realis E11 Actual
+T12	Movement_Transport-Person 1227 1233	arrive
+E12	Movement_Transport-Person:T12 
+A16	Realis E12 Other
+T13	Movement_Transport-Person 1377 1387	deployment
+E13	Movement_Transport-Person:T13 
+A17	Realis E13 Other
+T15	Movement_Transport-Person 1692 1702	deployment
+E15	Movement_Transport-Person:T15 
+A19	Realis E15 Other
+T16	Contact_Meet 1849 1856	meeting
+E16	Contact_Meet:T16 
+A20	Realis E16 Actual
+T20	Conflict_Attack 2848 2856	fighting
+E20	Conflict_Attack:T20 
+A25	Realis E20 Generic
+T21	Life_Marry 3968 3975	married
+E21	Life_Marry:T21 
+A26	Realis E21 Other
+A27	Questionable E21 Realis
+#1	AnnotatorNotes E21	Unclear if this is a reference to an actual marriage or not.
+T24	Life_Injure 328 332	hurt
+E24	Life_Injure:T24 
+A30	Realis E24 Other
+T14	Conflict_Attack 2734 2741	whipped
+E14	Conflict_Attack:T14 
+A18	Realis E14 Actual

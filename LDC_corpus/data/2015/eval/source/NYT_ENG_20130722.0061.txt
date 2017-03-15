@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130722.0061" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130722/20130722,3b10cc5008d75a90d0a26822b91a2404.xml">
+<HEADLINE>
+NEW POWERS INVOKED TO CURB A HIGH-SPEED TRADING FEINT
+</HEADLINE>
+<TEXT>
+<P>
+Regulators are using new powers to crack down on a high-speed trading firm that they contend was trying to manipulate the prices of futures contracts.
+</P>
+<P>
+The Commodity Futures Trading Commission said Monday that it had set penalties of $2.8 million on Panther Energy Trading for a practice known as “spoofing,” in which bogus orders are used to draw in other traders. The firm and its owner, Michael J. Coscia, were also barred from trading for a year.
+</P>
+<P>
+The agency said it was the first case to be brought using new rules against spoofing contained in the Dodd-Frank financial reform legislation.
+</P>
+<P>
+In addition, British regulators imposed their own fine of $903,176 on Coscia, while the Chicago Mercantile Exchange set a penalty of $2.1 million on Panther Energy and Coscia, who was also banned from trading on its exchanges for six months.
+</P>
+<P>
+A number of regulatory agencies have stepped up their scrutiny of high-speed trading firms, which are coming to dominate a growing number of financial markets. On Friday, the Financial Industry Regulatory Authority sent letters to 10 firms asking for information about their systems and controls.
+</P>
+<P>
+Panther Energy Trading, based in Red Bank, N.J., engaged in the problematic practices for two months in 2011 on the Chicago Mercantile Exchange’s electronic trading platform, according to the order filed by the futures commission. The order said the firm and Coscia used computer programs to place orders to buy futures contracts, hoping to give other traders the impression that the price of a contract was heading higher. Panther would sell contracts at that higher price before quickly canceling its buy orders, the commission said. Panther used the strategy in 18 types of futures contracts, including those involving oil, natural gas and corn.
+</P>
+<P>
+“We will use the Dodd-Frank anti-disruptive practices provision against schemes like this one to protect market participants and promote market integrity, particularly in the growing world of electronic trading platforms,” the agency’s enforcement director, David Meister, said in a statement.
+</P>
+<P>
+Bart Chilton, a commissioner with the agency who has been critical of high-speed trading, called the one-year trading ban inadequate.
+</P>
+<P>
+Chilton said in a concurring statement that the violation “warrants the imposition of a much more significant trading ban to protect markets and consumers, and to act as a sufficient deterrent to other would-be wrongdoers.”
+</P>
+<P>
+A person who answered the phone at Panther said the firm and Coscia had no comment on the case.
+</P>
+</TEXT>
+</DOC>

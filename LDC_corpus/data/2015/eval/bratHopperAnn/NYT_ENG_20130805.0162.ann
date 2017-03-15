@@ -1,0 +1,77 @@
+T1	Personnel_End-Position 290 296	former
+E693	Personnel_End-Position:T1
+A1	Realis E693 Actual
+T2	Justice_Convict 520 530	conviction
+E346	Justice_Convict:T2
+A2	Realis E346 Actual
+T3	Justice_Convict 769 779	conviction
+E144	Justice_Convict:T3
+A3	Realis E144 Actual
+T4	Transaction_Transfer-Money 535 538	tax
+E787	Transaction_Transfer-Money:T4
+A4	Realis E787 Generic
+T5	Transaction_Transfer-Money 1765 1768	tax
+E715	Transaction_Transfer-Money:T5
+A5	Realis E715 Generic
+T6	Transaction_Transfer-Money 1964 1969	taxes
+E399	Transaction_Transfer-Money:T6
+A6	Realis E399 Generic
+T7	Conflict_Demonstrate 795 800	rally
+E231	Conflict_Demonstrate:T7
+A7	Realis E231 Actual
+T8	Conflict_Demonstrate 916 921	rally
+E23	Conflict_Demonstrate:T8
+A8	Realis E23 Actual
+T9	Conflict_Demonstrate 1347 1352	rally
+E243	Conflict_Demonstrate:T9
+A9	Realis E243 Actual
+T10	Conflict_Demonstrate 1570 1575	rally
+E71	Conflict_Demonstrate:T10
+A10	Realis E71 Actual
+T11	Contact_Broadcast 781 789	speaking
+E342	Contact_Broadcast:T11
+A11	Realis E342 Actual
+T12	Contact_Broadcast 1210 1214	told
+E526	Contact_Broadcast:T12
+A12	Realis E526 Actual
+T13	Personnel_End-Position 1459 1465	former
+E291	Personnel_End-Position:T13
+A13	Realis E291 Actual
+T14	Contact_Contact 1529 1533	told
+E332	Contact_Contact:T14
+A14	Realis E332 Actual
+T15	Business_End-Org 1591 1599	canceled
+E258	Business_End-Org:T15
+A15	Realis E258 Other
+T16	Justice_Sentence 1688 1696	sentence
+E482	Justice_Sentence:T16
+A16	Realis E482 Actual
+T17	Justice_Arrest-Jail 1681 1687	prison
+E936	Justice_Arrest-Jail:T17
+A17	Realis E936 Other
+T18	Justice_Arrest-Jail 2261 2265	jail
+E829	Justice_Arrest-Jail:T18
+A18	Realis E829 Other
+T19	Transaction_Transfer-Money 1849 1855	bought
+E340	Transaction_Transfer-Money:T19
+A19	Realis E340 Actual
+T20	Transaction_Transfer-Ownership 1849 1855	bought
+E566	Transaction_Transfer-Ownership:T20
+A20	Realis E566 Actual
+T21	Personnel_End-Position 2052 2058	resign
+E77	Personnel_End-Position:T21
+A21	Realis E77 Other
+T22	Justice_Pardon 2117 2123	pardon
+E454	Justice_Pardon:T22
+A22	Realis E454 Other
+T23	Justice_Arrest-Jail 2279 2285	arrest
+E336	Justice_Arrest-Jail:T23
+A23	Realis E336 Other
+R1	Coreference Arg1:E346 Arg2:E144
+R2	Coreference Arg1:E787 Arg2:E715
+R3	Coreference Arg1:E715 Arg2:E399
+R4	Coreference Arg1:E231 Arg2:E23
+R5	Coreference Arg1:E23 Arg2:E243
+R6	Coreference Arg1:E243 Arg2:E71
+R7	Coreference Arg1:E342 Arg2:E526
+R8	Coreference Arg1:E936 Arg2:E829

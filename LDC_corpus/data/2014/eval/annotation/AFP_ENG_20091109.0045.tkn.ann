@@ -1,0 +1,42 @@
+T1	Transaction_Transfer-Ownership 301 313	distributing
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Other
+T2	Justice_Trial-Hearing 489 496	hearing
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 681 686	buyer
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Other
+T4	Justice_Sue 561 579	court papers filed
+E4	Justice_Sue:T4 
+T5	Justice_Sue 938 942	suit
+E5	Justice_Sue:T5 
+A4	Realis E5 Actual
+A5	Realis E4 Actual
+T6	Justice_Sue 996 1009	lawsuit filed
+E6	Justice_Sue:T6 
+A6	Realis E6 Actual
+T7	Life_Marry 1048 1055	married
+E7	Life_Marry:T7 
+A7	Realis E7 Actual
+T8	Life_Divorce 1069 1077	divorced
+E8	Life_Divorce:T8 
+A8	Realis E8 Actual
+T9	Justice_Sue 1146 1150	sued
+E9	Justice_Sue:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 1265 1272	awarded
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Life_Marry 1525 1532	married
+E11	Life_Marry:T11 
+A11	Realis E11 Actual
+T12	Life_Divorce 1556 1564	divorced
+E12	Life_Divorce:T12 
+A12	Realis E12 Actual
+T13	Life_Marry 1631 1638	married
+E13	Life_Marry:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Ownership 878 882	sell
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other

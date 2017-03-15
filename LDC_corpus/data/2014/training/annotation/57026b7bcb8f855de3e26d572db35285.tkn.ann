@@ -1,0 +1,114 @@
+T1	Movement_Transport-Person 76 82	leaves
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 100 106	travel
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Other
+T3	Movement_Transport-Person 139 145	flight
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Contact_Meet 207 212	visit
+E4	Contact_Meet:T4 
+A4	Realis E4 Other
+T5	Movement_Transport-Person 234 238	came
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 242 247	visit
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T7	Life_Be-Born 273 277	born
+E7	Life_Be-Born:T7 
+A7	Realis E7 Actual
+T8	Contact_Meet 390 395	visit
+E8	Contact_Meet:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 424 428	left
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 431 437	called
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Movement_Transport-Person 471 475	send
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Other
+T12	Contact_Communicate 549 553	call
+E12	Contact_Communicate:T12 
+A12	Realis E12 Other
+T13	Movement_Transport-Person 587 591	came
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 618 632	demonstrations
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 722 726	flew
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Life_Marry 779 786	wedding
+E16	Life_Marry:T16 
+A16	Realis E16 Actual
+T17	Contact_Meet 810 814	said
+E17	Contact_Meet:T17 
+A17	Realis E17 Actual
+T18	Movement_Transport-Person 1290 1296	leaves
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other
+T19	Movement_Transport-Person 1755 1763	get back
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Other
+T20	Movement_Transport-Person 2381 2385	goes
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Other
+T21	Movement_Transport-Person 2441 2445	trip
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Other
+T22	Movement_Transport-Person 2474 2478	trip
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Other
+T23	Movement_Transport-Person 2484 2489	comes
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T24	Contact_Meet 2593 2598	tells
+E24	Contact_Meet:T24 
+A24	Realis E24 Actual
+T25	Movement_Transport-Person 2613 2617	trip
+E25	Movement_Transport-Person:T25 
+A25	Realis E25 Other
+T26	Movement_Transport-Person 2876 2880	come
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Other
+T27	Life_Be-Born 3568 3573	birth
+E27	Life_Be-Born:T27 
+A27	Realis E27 Actual
+T28	Movement_Transport-Person 3681 3687	cruise
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 3711 3718	touring
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Actual
+T30	Contact_Meet 3731 3737	seeing
+E30	Contact_Meet:T30 
+A30	Realis E30 Actual
+T31	Movement_Transport-Person 3804 3808	come
+E31	Movement_Transport-Person:T31 
+A31	Realis E31 Actual
+T32	Movement_Transport-Person 3909 3913	sent
+E32	Movement_Transport-Person:T32 
+A32	Realis E32 Other
+T33	Movement_Transport-Person 4047 4055	got back
+E33	Movement_Transport-Person:T33 
+A33	Realis E33 Actual
+T34	Contact_Meet 4267 4272	visit
+E34	Contact_Meet:T34 
+A34	Realis E34 Other
+T35	Contact_Meet 4342 4346	told
+E35	Contact_Meet:T35 
+A35	Realis E35 Actual
+T36	Contact_Meet 4438 4447	explained
+E36	Contact_Meet:T36 
+A36	Realis E36 Actual
+T37	Transaction_Transfer-Ownership 4590 4596	rented
+E37	Transaction_Transfer-Ownership:T37 
+A37	Realis E37 Other
+T38	Life_Injure 877 883	broken
+E38	Life_Injure:T38 
+A38	Realis E38 Actual

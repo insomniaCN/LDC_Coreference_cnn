@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea870000000000000097" doc_id="NYT_ENG_20131025.0030" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-112" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="206" length="6">MERGER</trigger>
+      </event_mention>
+      <event_mention id="em-347" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="342" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-707" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="430" length="11">combination</trigger>
+      </event_mention>
+      <event_mention id="em-892" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="788" length="11">combination</trigger>
+      </event_mention>
+      <event_mention id="em-918" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="1722" length="11">combination</trigger>
+      </event_mention>
+      <event_mention id="em-993" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="3672" length="6">merger</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-723" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="213" length="5">TALKS</trigger>
+      </event_mention>
+      <event_mention id="em-76" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="349" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-555" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="523" length="11">discussions</trigger>
+      </event_mention>
+      <event_mention id="em-30" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="759" length="11">discussions</trigger>
+      </event_mention>
+      <event_mention id="em-452" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="921" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-710" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="1029" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-568" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="382" length="4">deal</trigger>
+      </event_mention>
+      <event_mention id="em-121" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="1049" length="4">deal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-131">
+      <event_mention id="em-406" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="903" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-198">
+      <event_mention id="em-813" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="1185" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-856" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="1296" length="7">Mergers</trigger>
+      </event_mention>
+      <event_mention id="em-632" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="1695" length="7">mergers</trigger>
+      </event_mention>
+      <event_mention id="em-792" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="2311" length="7">mergers</trigger>
+      </event_mention>
+      <event_mention id="em-836" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="2409" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-228" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="2604" length="8">combined</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-213">
+      <event_mention id="em-141" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="1266" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-267">
+      <event_mention id="em-611" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="1823" length="7">mergers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-282">
+      <event_mention id="em-176" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="2051" length="13">joined forces</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-310">
+      <event_mention id="em-774" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="2181" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-325">
+      <event_mention id="em-684" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="2190" length="7">acquire</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-340">
+      <event_mention id="em-386" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="2231" length="4">deal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-381">
+      <event_mention id="em-382" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="2416" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-396">
+      <event_mention id="em-742" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="2488" length="10">defections</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-411">
+      <event_mention id="em-397" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="2545" length="4">deal</trigger>
+      </event_mention>
+      <event_mention id="em-764" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="2641" length="5">deals</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-452">
+      <event_mention id="em-439" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="2757" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-635" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="2835" length="6">merger</trigger>
+      </event_mention>
+      <event_mention id="em-834" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="2906" length="8">combined</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-493">
+      <event_mention id="em-871" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="2955" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-508">
+      <event_mention id="em-84" type="business" subtype="endorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="2942" length="9">collapsed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-523">
+      <event_mention id="em-368" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="3007" length="10">defections</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-538">
+      <event_mention id="em-403" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="3121" length="11">combination</trigger>
+      </event_mention>
+      <event_mention id="em-189" type="business" subtype="mergeorg" realis="other">
+        <trigger source="NYT_ENG_20131025.0030" offset="3224" length="6">merger</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-553">
+      <event_mention id="em-962" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="3164" length="4">deal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-568">
+      <event_mention id="em-57" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="3207" length="11">jumped ship</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-596">
+      <event_mention id="em-879" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="3231" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-611">
+      <event_mention id="em-288" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="3291" length="6">talked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-626">
+      <event_mention id="em-41" type="business" subtype="mergeorg" realis="generic">
+        <trigger source="NYT_ENG_20131025.0030" offset="3348" length="4">made</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-641">
+      <event_mention id="em-932" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20131025.0030" offset="3395" length="9">discussed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-656">
+      <event_mention id="em-860" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="3407" length="4">deal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-671">
+      <event_mention id="em-246" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20131025.0030" offset="3582" length="7">started</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-699">
+      <event_mention id="em-313" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20131025.0030" offset="2582" length="12">compensation</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

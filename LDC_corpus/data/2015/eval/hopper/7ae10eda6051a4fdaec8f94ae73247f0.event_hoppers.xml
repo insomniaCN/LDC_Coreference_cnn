@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaad0000000000000173" doc_id="7ae10eda6051a4fdaec8f94ae73247f0" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-511" type="justice" subtype="sue" realis="actual">
+        <trigger source="7ae10eda6051a4fdaec8f94ae73247f0" offset="156" length="5">suing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-26" type="life" subtype="marry" realis="other">
+        <trigger source="7ae10eda6051a4fdaec8f94ae73247f0" offset="200" length="5">marry</trigger>
+      </event_mention>
+      <event_mention id="em-941" type="life" subtype="marry" realis="other">
+        <trigger source="7ae10eda6051a4fdaec8f94ae73247f0" offset="692" length="7">married</trigger>
+      </event_mention>
+      <event_mention id="em-47" type="life" subtype="marry" realis="other">
+        <trigger source="7ae10eda6051a4fdaec8f94ae73247f0" offset="983" length="8">marriage</trigger>
+      </event_mention>
+      <event_mention id="em-748" type="life" subtype="marry" realis="other">
+        <trigger source="7ae10eda6051a4fdaec8f94ae73247f0" offset="1211" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-949" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="7ae10eda6051a4fdaec8f94ae73247f0" offset="559" length="10">conference</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

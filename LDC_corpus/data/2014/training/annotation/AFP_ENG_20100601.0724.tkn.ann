@@ -1,0 +1,67 @@
+T2	Life_Die 225 233	killings
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T5	Life_Die 507 515	killings
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T11	Movement_Transport-Person 751 757	toured
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+#1	AnnotatorNotes E11	touring with the school children
+T12	Conflict_Attack 965 972	attacks
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Life_Die 1029 1033	dead
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Life_Injure 1071 1078	injured
+E14	Life_Injure:T14 
+A14	Realis E14 Actual
+T16	Conflict_Attack 1120 1128	assaults
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Justice_Execute 1306 1314	executed
+E17	Justice_Execute:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 1335 1342	assault
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Justice_Sentence 1525 1534	sentenced
+E19	Justice_Sentence:T19 
+A19	Realis E19 Actual
+T20	Life_Die 1538 1543	death
+E20	Life_Die:T20 
+A20	Realis E20 Generic
+T22	Transaction_Transfer-Money 1625 1637	losing money
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Money 1638 1646	gambling
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Generic
+T24	Transaction_Transfer-Money 1654 1671	business dealings
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Personnel_End-Position 1751 1757	former
+E25	Personnel_End-Position:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 1769 1776	stabbed
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Life_Die 1801 1806	death
+E27	Life_Die:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 1825 1831	attack
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Justice_Execute 1836 1844	executed
+E29	Justice_Execute:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 1877 1887	assailants
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Life_Die 1903 1910	suicide
+E31	Life_Die:T31 
+A31	Realis E31 Actual
+T33	Conflict_Attack 2094 2101	attacks
+E33	Conflict_Attack:T33 
+A33	Realis E33 Actual

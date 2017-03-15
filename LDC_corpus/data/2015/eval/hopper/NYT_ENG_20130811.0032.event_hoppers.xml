@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea760000000000000075" doc_id="NYT_ENG_20130811.0032" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-334" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="219" length="5">TALKS</trigger>
+      </event_mention>
+      <event_mention id="em-773" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="661" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-151" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="872" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-431" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2387" length="12">negotiations</trigger>
+      </event_mention>
+      <event_mention id="em-781" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2524" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-47" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2815" length="12">negotiations</trigger>
+      </event_mention>
+      <event_mention id="em-556" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2876" length="12">negotiations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-925" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="805" length="8">building</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-665" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130811.0032" offset="737" length="9">prisoners</trigger>
+      </event_mention>
+      <event_mention id="em-462" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130811.0032" offset="1955" length="9">prisoners</trigger>
+      </event_mention>
+      <event_mention id="em-968" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130811.0032" offset="2193" length="9">prisoners</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-516" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="753" length="8">released</trigger>
+      </event_mention>
+      <event_mention id="em-163" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="1919" length="7">release</trigger>
+      </event_mention>
+      <event_mention id="em-703" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="2135" length="8">released</trigger>
+      </event_mention>
+      <event_mention id="em-135" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="2181" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-853" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="1000" length="12">construction</trigger>
+      </event_mention>
+      <event_mention id="em-716" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="1697" length="8">build up</trigger>
+      </event_mention>
+      <event_mention id="em-319" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="2927" length="12">construction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-469" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="431" length="12">construction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-72" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="1180" length="9">announced</trigger>
+      </event_mention>
+      <event_mention id="em-127" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="1470" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-240" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="1582" length="5">build</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-60" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="1523" length="8">dictates</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-253">
+      <event_mention id="em-45" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="1781" length="7">comment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-294">
+      <event_mention id="em-702" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="2012" length="6">deadly</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-348">
+      <event_mention id="em-908" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="2019" length="7">attacks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-415">
+      <event_mention id="em-813" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2271" length="9">explained</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-430">
+      <event_mention id="em-225" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2319" length="8">persuade</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-458">
+      <event_mention id="em-557" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2457" length="7">demands</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-486">
+      <event_mention id="em-405" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2648" length="10">negotiator</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-501">
+      <event_mention id="em-674" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130811.0032" offset="2669" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-581">
+      <event_mention id="em-137" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130811.0032" offset="703" length="8">announce</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-596">
+      <event_mention id="em-902" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="431" length="12">construction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-598">
+      <event_mention id="em-920" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="NYT_ENG_20130811.0032" offset="1114" length="12">construction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-600">
+      <event_mention id="em-287" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="NYT_ENG_20130811.0032" offset="2001" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,116 @@
+T1	Life_Die 337 344	killing
+E739	Life_Die:T1
+A1	Realis E739 Actual
+T2	Life_Die 764 770	killed
+E985	Life_Die:T2
+A2	Realis E985 Actual
+T3	Life_Die 2723 2731	homicide
+E108	Life_Die:T3
+A3	Realis E108 Actual
+T4	Manufacture_Artifact 439 450	constructed
+E598	Manufacture_Artifact:T4
+A4	Realis E598 Actual
+T5	Manufacture_Artifact 826 838	construction
+E62	Manufacture_Artifact:T5
+A5	Realis E62 Other
+T6	Manufacture_Artifact 1891 1902	constructed
+E644	Manufacture_Artifact:T6
+A6	Realis E644 Actual
+T7	Manufacture_Artifact 2109 2120	constructed
+E967	Manufacture_Artifact:T7
+A7	Realis E967 Actual
+T8	Manufacture_Artifact 2792 2804	construction
+E191	Manufacture_Artifact:T8
+A8	Realis E191 Other
+T9	Contact_Broadcast 554 560	issued
+E434	Contact_Broadcast:T9
+A9	Realis E434 Actual
+T10	Contact_Broadcast 172 178	REPORT
+E786	Contact_Broadcast:T10
+A10	Realis E786 Actual
+T11	Contact_Broadcast 1167 1171	said
+E716	Contact_Broadcast:T11
+A11	Realis E716 Actual
+T12	Contact_Broadcast 1858 1864	report
+E272	Contact_Broadcast:T12
+A12	Realis E272 Actual
+T13	Contact_Broadcast 1982 1986	said
+E486	Contact_Broadcast:T13
+A13	Realis E486 Actual
+T14	Contact_Broadcast 2179 2185	report
+E649	Contact_Broadcast:T14
+A14	Realis E649 Actual
+T15	Contact_Broadcast 2510 2519	concluded
+E237	Contact_Broadcast:T15
+A15	Realis E237 Actual
+T16	Justice_Charge-Indict 865 872	charges
+E335	Justice_Charge-Indict:T16
+A16	Realis E335 Other
+T17	Justice_Charge-Indict 2701 2708	charged
+E548	Justice_Charge-Indict:T17
+A17	Realis E548 Other
+T18	Justice_Sentence 1010 1019	sentences
+E730	Justice_Sentence:T18
+A18	Realis E730 Other
+T19	Justice_Convict 1032 1041	convicted
+E128	Justice_Convict:T19
+A19	Realis E128 Other
+T20	Movement_Transport-Person 1088 1094	return
+E740	Movement_Transport-Person:T20
+A20	Realis E740 Other
+T21	Contact_Contact 1214 1218	said
+E435	Contact_Contact:T21
+A21	Realis E435 Actual
+T22	Movement_Transport-Artifact 1485 1493	exporter
+E509	Movement_Transport-Artifact:T22
+A22	Realis E509 Generic
+T23	Movement_Transport-Artifact 1667 1673	export
+E449	Movement_Transport-Artifact:T23
+A23	Realis E449 Generic
+T24	Transaction_Transfer-Ownership 1639 1648	retailers
+E483	Transaction_Transfer-Ownership:T24
+A24	Realis E483 Generic
+T25	Transaction_Transfer-Money 1639 1648	retailers
+E396	Transaction_Transfer-Money:T25
+A25	Realis E396 Generic
+T26	Movement_Transport-Person 2293 2297	fled
+E608	Movement_Transport-Person:T26
+A26	Realis E608 Actual
+T27	Contact_Contact 2311 2317	called
+E504	Contact_Contact:T27
+A27	Realis E504 Actual
+T28	Conflict_Attack 2723 2731	homicide
+E29	Conflict_Attack:T28
+A28	Realis E29 Actual
+T29	Transaction_Transaction 2765 2771	bribed
+E216	Transaction_Transaction:T29
+A29	Realis E216 Other
+T30	Contact_Contact 1071 1076	urged
+E505	Contact_Contact:T30
+A30	Realis E505 Actual
+T31	Transaction_Transfer-Money 1713 1718	costs
+E808	Transaction_Transfer-Money:T31
+A31	Realis E808 Generic
+T32	Transaction_Transfer-Money 1749 1754	wages
+E783	Transaction_Transfer-Money:T32
+A32	Realis E783 Generic
+T33	Personnel_Start-Position 1943 1952	employing
+E757	Personnel_Start-Position:T33
+A33	Realis E757 Actual
+T34	Movement_Transport-Person 2452 2456	into
+E472	Movement_Transport-Person:T34
+A34	Realis E472 Actual
+R1	Coreference Arg1:E739 Arg2:E985
+R2	Coreference Arg1:E985 Arg2:E108
+R3	Coreference Arg1:E598 Arg2:E62
+R4	Coreference Arg1:E62 Arg2:E644
+R5	Coreference Arg1:E644 Arg2:E967
+R6	Coreference Arg1:E967 Arg2:E191
+R7	Coreference Arg1:E786 Arg2:E434
+R8	Coreference Arg1:E434 Arg2:E716
+R9	Coreference Arg1:E716 Arg2:E272
+R10	Coreference Arg1:E272 Arg2:E486
+R11	Coreference Arg1:E486 Arg2:E649
+R12	Coreference Arg1:E649 Arg2:E237
+R13	Coreference Arg1:E335 Arg2:E548
+R14	Coreference Arg1:E509 Arg2:E449

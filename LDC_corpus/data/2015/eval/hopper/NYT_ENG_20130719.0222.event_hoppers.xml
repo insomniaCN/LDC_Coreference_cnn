@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea690000000000000055" doc_id="NYT_ENG_20130719.0222" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-827" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="201" length="7">TRADING</trigger>
+      </event_mention>
+      <event_mention id="em-486" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="300" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-325" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="494" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-202" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="564" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-494" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="746" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-970" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="982" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-230" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1207" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-849" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1281" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-845" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1444" length="7">trading</trigger>
+      </event_mention>
+      <event_mention id="em-777" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1654" length="7">trading</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-897" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="444" length="8">financed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-690" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130719.0222" offset="469" length="7">letters</trigger>
+      </event_mention>
+      <event_mention id="em-382" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130719.0222" offset="658" length="6">letter</trigger>
+      </event_mention>
+      <event_mention id="em-396" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130719.0222" offset="1075" length="6">letter</trigger>
+      </event_mention>
+      <event_mention id="em-277" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130719.0222" offset="1500" length="6">letter</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-131">
+      <event_mention id="em-261" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="851" length="7">trading</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-159">
+      <event_mention id="em-223" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1036" length="7">trading</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-213">
+      <event_mention id="em-131" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1354" length="7">trading</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-228">
+      <event_mention id="em-419" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130719.0222" offset="1384" length="4">lost</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-243">
+      <event_mention id="em-455" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="NYT_ENG_20130719.0222" offset="1425" length="8">bankrupt</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-284">
+      <event_mention id="em-243" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130719.0222" offset="1608" length="6">report</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

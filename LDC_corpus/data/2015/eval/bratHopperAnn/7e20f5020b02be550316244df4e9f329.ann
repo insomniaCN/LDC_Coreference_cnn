@@ -1,0 +1,43 @@
+T1	Life_Divorce 161 168	divorce
+E541	Life_Divorce:T1
+A1	Realis E541 Actual
+T2	Life_Divorce 980 988	divorced
+E448	Life_Divorce:T2
+A2	Realis E448 Actual
+T3	Life_Divorce 1263 1270	divorce
+E772	Life_Divorce:T3
+A3	Realis E772 Actual
+T4	Contact_Broadcast 343 352	announced
+E19	Contact_Broadcast:T4
+A4	Realis E19 Actual
+T5	Contact_Broadcast 445 452	Tweeted
+E107	Contact_Broadcast:T5
+A5	Realis E107 Actual
+T6	Contact_Broadcast 249 257	announce
+E679	Contact_Broadcast:T6
+A6	Realis E679 Actual
+T7	Personnel_End-Position 309 315	former
+E700	Personnel_End-Position:T7
+A7	Realis E700 Actual
+T8	Life_Marry 602 609	married
+E741	Life_Marry:T8
+A8	Realis E741 Actual
+T9	Life_Marry 678 685	wedding
+E477	Life_Marry:T9
+A9	Realis E477 Actual
+T10	Life_Marry 960 967	married
+E672	Life_Marry:T10
+A10	Realis E672 Actual
+T11	Life_Marry 646 654	ceremony
+E991	Life_Marry:T11
+A11	Realis E991 Actual
+T12	Contact_Contact 664 671	calling
+E999	Contact_Contact:T12
+A12	Realis E999 Actual
+R1	Coreference Arg1:E541 Arg2:E448
+R2	Coreference Arg1:E448 Arg2:E772
+R3	Coreference Arg1:E679 Arg2:E19
+R4	Coreference Arg1:E19 Arg2:E107
+R5	Coreference Arg1:E741 Arg2:E991
+R6	Coreference Arg1:E991 Arg2:E477
+R7	Coreference Arg1:E477 Arg2:E672

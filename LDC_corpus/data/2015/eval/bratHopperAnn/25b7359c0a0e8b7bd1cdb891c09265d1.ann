@@ -1,0 +1,41 @@
+T1	Life_Die 162 166	died
+E546	Life_Die:T1
+A1	Realis E546 Actual
+T2	Life_Die 1528 1532	died
+E949	Life_Die:T2
+A2	Realis E949 Actual
+T3	Transaction_Transfer-Money 489 497	received
+E273	Transaction_Transfer-Money:T3
+A3	Realis E273 Generic
+T4	Transaction_Transfer-Money 584 591	pension
+E818	Transaction_Transfer-Money:T4
+A4	Realis E818 Generic
+T5	Transaction_Transfer-Money 531 538	pension
+E329	Transaction_Transfer-Money:T5
+A5	Realis E329 Generic
+T6	Transaction_Transfer-Money 622 626	paid
+E66	Transaction_Transfer-Money:T6
+A6	Realis E66 Generic
+T7	Transaction_Transfer-Money 668 672	gave
+E411	Transaction_Transfer-Money:T7
+A7	Realis E411 Generic
+T8	Transaction_Transfer-Ownership 713 718	taken
+E702	Transaction_Transfer-Ownership:T8
+A8	Realis E702 Actual
+T9	Contact_Correspondence 839 846	Phoning
+E42	Contact_Correspondence:T9
+A9	Realis E42 Other
+T10	Contact_Correspondence 965 970	phone
+E629	Contact_Correspondence:T10
+A10	Realis E629 Other
+T11	Movement_Transport-Person 1136 1141	going
+E840	Movement_Transport-Person:T11
+A11	Realis E840 Other
+T12	Contact_Meet 1167 1173	giving
+E737	Contact_Meet:T12
+A12	Realis E737 Other
+T13	Transaction_Transfer-Money 1563 1567	pass
+E11	Transaction_Transfer-Money:T13
+A13	Realis E11 Other
+R1	Coreference Arg1:E546 Arg2:E949
+R2	Coreference Arg1:E273 Arg2:E818

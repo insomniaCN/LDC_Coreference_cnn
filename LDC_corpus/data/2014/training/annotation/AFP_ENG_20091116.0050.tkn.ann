@@ -1,0 +1,108 @@
+T1	Justice_Acquit 196 203	cleared
+E1	Justice_Acquit:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 212 219	charges
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Life_Be-Born 225 235	childbirth
+E3	Life_Be-Born:T3 
+A3	Realis E3 Actual
+T4	Justice_Acquit 358 367	acquitted
+E4	Justice_Acquit:T4 
+A4	Realis E4 Actual
+T5	Justice_Charge-Indict 390 397	charges
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Actual
+T6	Life_Be-Born 445 457	giving birth
+E6	Life_Be-Born:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 611 617	jailed
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Other
+T11	Justice_Acquit 1012 1018	acquit
+E11	Justice_Acquit:T11 
+A14	Realis E11 Actual
+T13	Justice_Appeal 1068 1074	appeal
+E13	Justice_Appeal:T13 
+A17	Realis E13 Other
+T14	Justice_Acquit 1305 1314	acquittal
+E14	Justice_Acquit:T14 
+A18	Realis E14 Actual
+T15	Conflict_Demonstrate 512 518	strike
+E15	Conflict_Demonstrate:T15 
+A19	Realis E15 Actual
+T16	Conflict_Demonstrate 1368 1374	strike
+E16	Conflict_Demonstrate:T16 
+A20	Realis E16 Actual
+T17	Conflict_Demonstrate 1492 1498	strike
+E17	Conflict_Demonstrate:T17 
+A21	Realis E17 Actual
+T18	Justice_Acquit 1533 1542	acquitted
+E18	Justice_Acquit:T18 
+A22	Realis E18 Actual
+T19	Life_Be-Born 1626 1630	born
+E19	Life_Be-Born:T19 
+A23	Realis E19 Actual
+T20	Conflict_Demonstrate 1718 1724	strike
+E20	Conflict_Demonstrate:T20 
+A24	Realis E20 Actual
+T21	Life_Die 1749 1753	died
+E21	Life_Die:T21 
+A25	Realis E21 Actual
+T22	Contact_Communicate 1776 1783	emailed
+E22	Contact_Communicate:T22 
+A26	Realis E22 Actual
+T23	Contact_Communicate 1807 1813	asking
+E23	Contact_Communicate:T23 
+A27	Realis E23 Actual
+T24	Conflict_Demonstrate 1875 1883	striking
+E24	Conflict_Demonstrate:T24 
+A28	Realis E24 Actual
+T25	Contact_Communicate 2048 2055	emailed
+E25	Contact_Communicate:T25 
+A29	Realis E25 Actual
+T26	Contact_Communicate 2134 2141	message
+E27	Contact_Communicate:T26 
+A32	Realis E27 Actual
+T27	Justice_Arrest-Jail 2253 2261	arrested
+E28	Justice_Arrest-Jail:T27 
+A33	Realis E28 Actual
+T28	Justice_Charge-Indict 2317 2324	charged
+E29	Justice_Charge-Indict:T28 
+A34	Realis E29 Actual
+T29	Justice_Appeal 2482 2488	appeal
+E30	Justice_Appeal:T29 
+A35	Realis E30 Other
+T30	Justice_Arrest-Jail 2687 2693	arrest
+E31	Justice_Arrest-Jail:T30 
+A36	Realis E31 Actual
+T31	Justice_Charge-Indict 2698 2704	charge
+E32	Justice_Charge-Indict:T31 
+A37	Realis E32 Actual
+T32	Justice_Trial-Hearing 2928 2942	going to court
+E33	Justice_Trial-Hearing:T32 
+A38	Realis E33 Actual
+T33	Justice_Acquit 3315 3324	acquittal
+E34	Justice_Acquit:T33 
+A39	Realis E34 Actual
+T35	Justice_Arrest-Jail 3400 3406	arrest
+E36	Justice_Arrest-Jail:T35 
+A41	Realis E36 Actual
+T36	Justice_Acquit 3642 3649	cleared
+E37	Justice_Acquit:T36 
+A42	Realis E37 Actual
+T37	Justice_Charge-Indict 3668 3674	charge
+E38	Justice_Charge-Indict:T37 
+A43	Realis E38 Actual
+T39	Conflict_Attack 3832 3839	clashes
+E40	Conflict_Attack:T39 
+A45	Realis E40 Actual
+T40	Conflict_Attack 3875 3881	fought
+E41	Conflict_Attack:T40 
+A46	Realis E41 Actual
+T8	Justice_Charge-Indict 1587 1594	charged
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 1914 1918	earn
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Generic

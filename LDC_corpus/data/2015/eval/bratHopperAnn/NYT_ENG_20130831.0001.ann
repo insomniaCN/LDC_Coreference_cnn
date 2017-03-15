@@ -1,0 +1,184 @@
+T1	Personnel_End-Position 198 205	RETIRED
+E217	Personnel_End-Position:T1
+A1	Realis E217 Actual
+T2	Personnel_End-Position 682 689	retired
+E411	Personnel_End-Position:T2
+A2	Realis E411 Actual
+T3	Personnel_End-Position 2169 2176	retired
+E815	Personnel_End-Position:T3
+A3	Realis E815 Actual
+T4	Personnel_End-Position 2190 2197	retired
+E389	Personnel_End-Position:T4
+A4	Realis E389 Actual
+T5	Contact_Broadcast 516 526	tipped off
+E764	Contact_Broadcast:T5
+A5	Realis E764 Actual
+T6	Contact_Broadcast 1020 1030	tipped off
+E384	Contact_Broadcast:T6
+A6	Realis E384 Actual
+T7	Contact_Broadcast 3340 3347	emailed
+E624	Contact_Broadcast:T7
+A7	Realis E624 Actual
+T8	Contact_Broadcast 3502 3509	message
+E987	Contact_Broadcast:T8
+A8	Realis E987 Actual
+T9	Contact_Contact 1343 1351	question
+E608	Contact_Contact:T9
+A9	Realis E608 Actual
+T10	Contact_Broadcast 1382 1388	report
+E992	Contact_Broadcast:T10
+A10	Realis E992 Actual
+T11	Personnel_Start-Position 1891 1901	employment
+E769	Personnel_Start-Position:T11
+A11	Realis E769 Other
+T12	Contact_Contact 2084 2091	discuss
+E209	Contact_Contact:T12
+A12	Realis E209 Other
+T13	Movement_Transport-Artifact 2123 2127	sent
+E540	Movement_Transport-Artifact:T13
+A13	Realis E540 Other
+T14	Contact_Contact 2236 2241	reach
+E9	Contact_Contact:T14
+A14	Realis E9 Other
+T15	Personnel_End-Position 2351 2357	firing
+E687	Personnel_End-Position:T15
+A15	Realis E687 Other
+T16	Contact_Contact 2716 2720	told
+E751	Contact_Contact:T16
+A16	Realis E751 Actual
+T17	Contact_Contact 2797 2805	messages
+E588	Contact_Contact:T17
+A17	Realis E588 Actual
+T18	Contact_Contact 2973 2978	texts
+E263	Contact_Contact:T18
+A18	Realis E263 Actual
+T19	Contact_Broadcast 3253 3260	sending
+E786	Contact_Broadcast:T19
+A19	Realis E786 Actual
+T20	Contact_Broadcast 3878 3887	receiving
+E867	Contact_Broadcast:T20
+A20	Realis E867 Actual
+T21	Contact_Broadcast 846 853	receive
+E895	Contact_Broadcast:T21
+A21	Realis E895 Actual
+T22	Movement_Transport-Person 3133 3137	left
+E662	Movement_Transport-Person:T22
+A22	Realis E662 Actual
+T23	Movement_Transport-Person 3189 3193	walk
+E975	Movement_Transport-Person:T23
+A23	Realis E975 Other
+T24	Contact_Broadcast 3721 3729	notified
+E971	Contact_Broadcast:T24
+A24	Realis E971 Actual
+T25	Movement_Transport-Person 3742 3746	took
+E385	Movement_Transport-Person:T25
+A25	Realis E385 Actual
+T26	Contact_Contact 3977 3981	told
+E806	Contact_Contact:T26
+A26	Realis E806 Actual
+T27	Contact_Broadcast 4110 4114	told
+E379	Contact_Broadcast:T27
+A27	Realis E379 Actual
+T28	Contact_Contact 1492 1501	inquiring
+E306	Contact_Contact:T28
+A28	Realis E306 Actual
+T29	Contact_Broadcast 2009 2013	said
+E485	Contact_Broadcast:T29
+A29	Realis E485 Actual
+T30	Contact_Contact 3286 3292	denied
+E112	Contact_Contact:T30
+A30	Realis E112 Actual
+T31	Movement_Transport-Person 3917 3921	left
+E874	Movement_Transport-Person:T31
+A31	Realis E874 Actual
+T32	Contact_Contact 4201 4208	request
+E577	Contact_Contact:T32
+A32	Realis E577 Other
+T33	Contact_Contact 4315 4317	it
+E831	Contact_Contact:T33
+A33	Realis E831 Actual
+T34	Contact_Contact 4319 4325	saying
+E843	Contact_Contact:T34
+A34	Realis E843 Actual
+T35	Contact_Broadcast 622 628	issued
+E171	Contact_Broadcast:T35
+A35	Realis E171 Actual
+T36	Contact_Broadcast 4615 4622	release
+E376	Contact_Broadcast:T36
+A36	Realis E376 Actual
+T37	Contact_Broadcast 922 928	issued
+E387	Contact_Broadcast:T37
+A37	Realis E387 Actual
+T38	Contact_Broadcast 4933 4939	issued
+E27	Contact_Broadcast:T38
+A38	Realis E27 Actual
+T39	Contact_Broadcast 233 239	REPORT
+E32	Contact_Broadcast:T39
+A39	Realis E32 Actual
+T40	Contact_Broadcast 615 621	report
+E504	Contact_Broadcast:T40
+A40	Realis E504 Actual
+T41	Contact_Broadcast 1259 1265	report
+E189	Contact_Broadcast:T41
+A41	Realis E189 Actual
+T42	Contact_Broadcast 1820 1826	report
+E439	Contact_Broadcast:T42
+A42	Realis E439 Actual
+T43	Contact_Broadcast 2063 2069	report
+E36	Contact_Broadcast:T43
+A43	Realis E36 Actual
+T44	Contact_Broadcast 2540 2546	report
+E950	Contact_Broadcast:T44
+A44	Realis E950 Actual
+T45	Contact_Broadcast 2708 2714	report
+E449	Contact_Broadcast:T45
+A45	Realis E449 Actual
+T46	Contact_Broadcast 2850 2856	report
+E544	Contact_Broadcast:T46
+A46	Realis E544 Actual
+T47	Contact_Broadcast 3032 3038	report
+E28	Contact_Broadcast:T47
+A47	Realis E28 Actual
+T48	Contact_Broadcast 3469 3475	report
+E478	Contact_Broadcast:T48
+A48	Realis E478 Actual
+T49	Contact_Broadcast 3680 3686	report
+E72	Contact_Broadcast:T49
+A49	Realis E72 Actual
+T50	Contact_Broadcast 4081 4087	report
+E277	Contact_Broadcast:T50
+A50	Realis E277 Actual
+T51	Contact_Broadcast 4587 4593	report
+E651	Contact_Broadcast:T51
+A51	Realis E651 Actual
+T52	Contact_Broadcast 4907 4913	report
+E82	Contact_Broadcast:T52
+A52	Realis E82 Actual
+R1	Coreference Arg1:E217 Arg2:E411
+R2	Coreference Arg1:E411 Arg2:E815
+R3	Coreference Arg1:E815 Arg2:E389
+R4	Coreference Arg1:E764 Arg2:E384
+R5	Coreference Arg1:E384 Arg2:E624
+R6	Coreference Arg1:E624 Arg2:E987
+R7	Coreference Arg1:E895 Arg2:E588
+R8	Coreference Arg1:E588 Arg2:E263
+R9	Coreference Arg1:E263 Arg2:E786
+R10	Coreference Arg1:E786 Arg2:E867
+R11	Coreference Arg1:E577 Arg2:E831
+R12	Coreference Arg1:E32 Arg2:E504
+R13	Coreference Arg1:E504 Arg2:E171
+R14	Coreference Arg1:E171 Arg2:E387
+R15	Coreference Arg1:E387 Arg2:E189
+R16	Coreference Arg1:E189 Arg2:E439
+R17	Coreference Arg1:E439 Arg2:E36
+R18	Coreference Arg1:E36 Arg2:E950
+R19	Coreference Arg1:E950 Arg2:E449
+R20	Coreference Arg1:E449 Arg2:E544
+R21	Coreference Arg1:E544 Arg2:E28
+R22	Coreference Arg1:E28 Arg2:E478
+R23	Coreference Arg1:E478 Arg2:E72
+R24	Coreference Arg1:E72 Arg2:E277
+R25	Coreference Arg1:E277 Arg2:E651
+R26	Coreference Arg1:E651 Arg2:E376
+R27	Coreference Arg1:E376 Arg2:E82
+R28	Coreference Arg1:E82 Arg2:E27

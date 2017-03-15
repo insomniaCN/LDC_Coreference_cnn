@@ -1,0 +1,228 @@
+T1	Transaction_Transfer-Money 4531 4541	laundering
+E4	Transaction_Transfer-Money:T1
+A1	Realis E4 Other
+T2	Personnel_Start-Position 4088 4093	began
+E15	Personnel_Start-Position:T2
+A2	Realis E15 Actual
+T3	Justice_Extradite 1347 1357	extradited
+E45	Justice_Extradite:T3
+A3	Realis E45 Actual
+T4	Transaction_Transfer-Money 2810 2819	receiving
+E65	Transaction_Transfer-Money:T4
+A4	Realis E65 Actual
+T5	Contact_Contact 669 677	admitted
+E73	Contact_Contact:T5
+A5	Realis E73 Actual
+T6	Movement_Transport-Person 4461 4465	flee
+E103	Movement_Transport-Person:T6
+A6	Realis E103 Other
+T7	Contact_Contact 3785 3791	called
+E105	Contact_Contact:T7
+A7	Realis E105 Actual
+T8	Contact_Broadcast 2772 2780	speaking
+E113	Contact_Broadcast:T8
+A8	Realis E113 Generic
+T9	Life_Die 4735 4743	killings
+E115	Life_Die:T9
+A9	Realis E115 Actual
+T10	Transaction_Transfer-Money 255 259	took
+E124	Transaction_Transfer-Money:T10
+A10	Realis E124 Actual
+T11	Movement_Transport-Person 4772 4776	fled
+E129	Movement_Transport-Person:T11
+A11	Realis E129 Actual
+T12	Transaction_Transfer-Money 1444 1454	laundering
+E139	Transaction_Transfer-Money:T12
+A12	Realis E139 Actual
+T13	Transaction_Transfer-Money 3521 3530	deposited
+E169	Transaction_Transfer-Money:T13
+A13	Realis E169 Actual
+T14	Transaction_Transfer-Money 3244 3250	moving
+E198	Transaction_Transfer-Money:T14
+A14	Realis E198 Generic
+T15	Justice_Arrest-Jail 508 514	prison
+E216	Justice_Arrest-Jail:T15
+A15	Realis E216 Other
+T16	Personnel_End-Position 449 451	ex
+E248	Personnel_End-Position:T16
+A16	Realis E248 Actual
+T17	Conflict_Attack 4735 4743	killings
+E249	Conflict_Attack:T17
+A17	Realis E249 Actual
+T18	Justice_Trial-Hearing 4819 4824	trial
+E271	Justice_Trial-Hearing:T18
+A18	Realis E271 Other
+T19	Justice_Extradite 3967 3978	extradition
+E275	Justice_Extradite:T19
+A19	Realis E275 Actual
+T20	Movement_Transport-Person 3967 3978	extradition
+E310	Movement_Transport-Person:T20
+A20	Realis E310 Actual
+T21	Justice_Charge-Indict 4882 4889	charged
+E312	Justice_Charge-Indict:T21
+A21	Realis E312 Other
+T22	Life_Die 3390 3396	killed
+E317	Life_Die:T22
+A22	Realis E317 Actual
+T23	Life_Die 4629 4635	killed
+E321	Life_Die:T23
+A23	Realis E321 Actual
+T24	Transaction_Transfer-Money 2295 2303	pensions
+E327	Transaction_Transfer-Money:T24
+A24	Realis E327 Generic
+T25	Contact_Contact 573 577	said
+E354	Contact_Contact:T25
+A25	Realis E354 Actual
+T26	Contact_Contact 3378 3386	admitted
+E355	Contact_Contact:T26
+A26	Realis E355 Actual
+T27	Justice_Sentence 167 176	sentences
+E359	Justice_Sentence:T27
+A27	Realis E359 Actual
+T28	Movement_Transport-Person 3667 3678	extradition
+E390	Movement_Transport-Person:T28
+A28	Realis E390 Actual
+T29	Conflict_Attack 4629 4635	killed
+E421	Conflict_Attack:T29
+A29	Realis E421 Actual
+T30	Justice_Sentence 964 973	sentenced
+E423	Justice_Sentence:T30
+A30	Realis E423 Actual
+T31	Personnel_End-Position 3751 3755	left
+E440	Personnel_End-Position:T31
+A31	Realis E440 Actual
+T32	Justice_Charge-Indict 4236 4243	charges
+E461	Justice_Charge-Indict:T32
+A32	Realis E461 Actual
+T33	Movement_Transport-Person 4171 4181	extradited
+E465	Movement_Transport-Person:T33
+A33	Realis E465 Actual
+T34	Personnel_End-Position 2741 2748	leaving
+E489	Personnel_End-Position:T34
+A34	Realis E489 Generic
+T35	Transaction_Transfer-Money 4223 4235	embezzlement
+E495	Transaction_Transfer-Money:T35
+A35	Realis E495 Other
+T36	Transaction_Transfer-Money 221 227	taking
+E500	Transaction_Transfer-Money:T36
+A36	Realis E500 Actual
+T37	Personnel_End-Position 3715 3721	former
+E505	Personnel_End-Position:T37
+A37	Realis E505 Actual
+T38	Personnel_End-Position 177 183	former
+E513	Personnel_End-Position:T38
+A38	Realis E513 Actual
+T39	Justice_Charge-Indict 4514 4521	charged
+E516	Justice_Charge-Indict:T39
+A39	Realis E516 Actual
+T40	Transaction_Transfer-Money 1998 2003	bribe
+E558	Transaction_Transfer-Money:T40
+A40	Realis E558 Actual
+T41	Justice_Sentence 1061 1071	sentencing
+E585	Justice_Sentence:T41
+A41	Realis E585 Generic
+T42	Contact_Contact 4726 4730	said
+E591	Contact_Contact:T42
+A42	Realis E591 Actual
+T43	Contact_Broadcast 3462 3471	published
+E608	Contact_Broadcast:T43
+A43	Realis E608 Actual
+T44	Justice_Extradite 325 335	extradited
+E662	Justice_Extradite:T44
+A44	Realis E662 Actual
+T45	Transaction_Transfer-Money 3062 3068	bribes
+E671	Transaction_Transfer-Money:T45
+A45	Realis E671 Actual
+T46	Life_Die 4899 4907	killings
+E673	Life_Die:T46
+A46	Realis E673 Actual
+T47	Transaction_Transfer-Money 1656 1662	moving
+E674	Transaction_Transfer-Money:T47
+A47	Realis E674 Generic
+T48	Justice_Charge-Indict 4307 4314	charges
+E683	Justice_Charge-Indict:T48
+A48	Realis E683 Actual
+T49	Transaction_Transfer-Money 3554 3565	transferred
+E688	Transaction_Transfer-Money:T49
+A49	Realis E688 Actual
+T50	Contact_Contact 1499 1503	said
+E721	Contact_Contact:T50
+A50	Realis E721 Actual
+T51	Justice_Arrest-Jail 210 216	prison
+E751	Justice_Arrest-Jail:T51
+A51	Realis E751 Other
+T52	Justice_Extradite 4171 4181	extradited
+E765	Justice_Extradite:T52
+A52	Realis E765 Actual
+T53	Transaction_Transfer-Money 1574 1583	laundered
+E768	Transaction_Transfer-Money:T53
+A53	Realis E768 Actual
+T54	Justice_Acquit 4272 4282	not guilty
+E772	Justice_Acquit:T54
+A54	Realis E772 Actual
+T55	Manufacture_Artifact 4131 4143	construction
+E803	Manufacture_Artifact:T55
+A55	Realis E803 Generic
+T56	Personnel_End-Position 4030 4037	leaving
+E809	Personnel_End-Position:T56
+A56	Realis E809 Actual
+T57	Justice_Sentence 315 324	sentences
+E814	Justice_Sentence:T57
+A57	Realis E814 Actual
+T58	Transaction_Transfer-Money 4323 4328	stole
+E815	Transaction_Transfer-Money:T58
+A58	Realis E815 Other
+T59	Justice_Arrest-Jail 4419 4427	captured
+E827	Justice_Arrest-Jail:T59
+A59	Realis E827 Actual
+T60	Movement_Transport-Person 1347 1357	extradited
+E828	Movement_Transport-Person:T60
+A60	Realis E828 Actual
+T61	Conflict_Attack 4899 4907	killings
+E829	Conflict_Attack:T61
+A61	Realis E829 Actual
+T62	Contact_Contact 3053 3057	said
+E856	Contact_Contact:T62
+A62	Realis E856 Actual
+T63	Justice_Extradite 3667 3678	extradition
+E860	Justice_Extradite:T63
+A63	Realis E860 Actual
+T64	Personnel_End-Position 2865 2872	leaving
+E863	Personnel_End-Position:T64
+A64	Realis E863 Actual
+T65	Justice_Sentence 466 475	sentenced
+E875	Justice_Sentence:T65
+A65	Realis E875 Actual
+T66	Transaction_Transfer-Money 678 687	accepting
+E886	Transaction_Transfer-Money:T66
+A66	Realis E886 Actual
+T67	Transaction_Transfer-Money 2728 2734	bribes
+E927	Transaction_Transfer-Money:T67
+A67	Realis E927 Generic
+T68	Movement_Transport-Person 325 335	extradited
+E938	Movement_Transport-Person:T68
+A68	Realis E938 Actual
+T69	Transaction_Transfer-Money 2204 2208	took
+E948	Transaction_Transfer-Money:T69
+A69	Realis E948 Actual
+T70	Conflict_Attack 3390 3396	killed
+E952	Conflict_Attack:T70
+A70	Realis E952 Actual
+T71	Transaction_Transfer-Money 3210 3216	moving
+E956	Transaction_Transfer-Money:T71
+A71	Realis E956 Generic
+T72	Movement_Transport-Person 4063 4067	fled
+E964	Movement_Transport-Person:T72
+A72	Realis E964 Actual
+T73	Transaction_Transfer-Money 519 528	accepting
+E977	Transaction_Transfer-Money:T73
+A73	Realis E977 Actual
+T74	Transaction_Transfer-Money 1508 1514	bribes
+E991	Transaction_Transfer-Money:T74
+A74	Realis E991 Actual
+T75	Justice_Arrest-Jail 1405 1412	custody
+E992	Justice_Arrest-Jail:T75
+A75	Realis E992 Actual
+T76	Transaction_Transfer-Money 3128 3137	laundered
+E997	Transaction_Transfer-Money:T76
+A76	Realis E997 Actual

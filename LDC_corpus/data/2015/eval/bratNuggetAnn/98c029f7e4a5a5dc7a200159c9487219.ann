@@ -1,0 +1,33 @@
+T1	Personnel_End-Position 502 510	had been
+E93	Personnel_End-Position:T1
+A1	Realis E93 Actual
+T2	Personnel_End-Position 157 162	fired
+E99	Personnel_End-Position:T2
+A2	Realis E99 Actual
+T3	Life_Marry 288 301	tied the knot
+E113	Life_Marry:T3
+A3	Realis E113 Actual
+T4	Contact_Broadcast 591 599	reported
+E216	Contact_Broadcast:T4
+A4	Realis E216 Actual
+T5	Personnel_End-Position 341 345	lost
+E414	Personnel_End-Position:T5
+A5	Realis E414 Actual
+T6	Life_Marry 470 473	wed
+E517	Life_Marry:T6
+A6	Realis E517 Other
+T7	Life_Marry 276 283	married
+E613	Life_Marry:T7
+A7	Realis E613 Other
+T8	Life_Marry 741 749	marriage
+E641	Life_Marry:T8
+A8	Realis E641 Generic
+T9	Contact_Meet 432 439	telling
+E754	Contact_Meet:T9
+A9	Realis E754 Actual
+T10	Life_Marry 790 792	it
+E809	Life_Marry:T10
+A10	Realis E809 Generic
+T11	Life_Marry 650 657	married
+E954	Life_Marry:T11
+A11	Realis E954 Actual

@@ -1,0 +1,214 @@
+T1	Justice_Execute 210 220	EXECUTIONS
+E165	Justice_Execute:T1
+A1	Realis E165 Actual
+T2	Justice_Execute 464 473	execution
+E891	Justice_Execute:T2
+A2	Realis E891 Actual
+T3	Justice_Execute 792 802	executions
+E969	Justice_Execute:T3
+A3	Realis E969 Actual
+T4	Justice_Execute 956 966	executions
+E381	Justice_Execute:T4
+A4	Realis E381 Actual
+T5	Justice_Execute 1327 1335	executed
+E819	Justice_Execute:T5
+A5	Realis E819 Actual
+T6	Justice_Execute 1649 1659	executions
+E106	Justice_Execute:T6
+A6	Realis E106 Actual
+T7	Life_Die 210 220	EXECUTIONS
+E387	Life_Die:T7
+A7	Realis E387 Actual
+T8	Life_Die 464 473	execution
+E619	Life_Die:T8
+A8	Realis E619 Actual
+T9	Life_Die 792 802	executions
+E753	Life_Die:T9
+A9	Realis E753 Actual
+T10	Life_Die 956 966	executions
+E732	Life_Die:T10
+A10	Realis E732 Actual
+T11	Life_Die 1327 1335	executed
+E119	Life_Die:T11
+A11	Realis E119 Actual
+T12	Life_Die 1649 1659	executions
+E298	Life_Die:T12
+A12	Realis E298 Actual
+T13	Justice_Arrest-Jail 480 489	prisoners
+E287	Justice_Arrest-Jail:T13
+A13	Realis E287 Actual
+T14	Justice_Arrest-Jail 1336 1345	prisoners
+E882	Justice_Arrest-Jail:T14
+A14	Realis E882 Actual
+T15	Justice_Execute 536 546	executions
+E554	Justice_Execute:T15
+A15	Realis E554 Generic
+T16	Justice_Execute 1950 1960	executions
+E696	Justice_Execute:T16
+A16	Realis E696 Generic
+T17	Justice_Execute 2378 2386	executed
+E72	Justice_Execute:T17
+A17	Realis E72 Generic
+T18	Life_Die 536 546	executions
+E665	Life_Die:T18
+A18	Realis E665 Generic
+T19	Life_Die 1950 1960	executions
+E174	Life_Die:T19
+A19	Realis E174 Generic
+T20	Life_Die 2378 2386	executed
+E695	Life_Die:T20
+A20	Realis E695 Generic
+T21	Life_Die 757 762	death
+E84	Life_Die:T21
+A21	Realis E84 Generic
+T22	Life_Die 1228 1233	Death
+E246	Life_Die:T22
+A22	Realis E246 Generic
+T23	Life_Die 1622 1627	death
+E623	Life_Die:T23
+A23	Realis E623 Generic
+T24	Life_Die 2025 2030	death
+E569	Life_Die:T24
+A24	Realis E569 Generic
+T25	Life_Die 2488 2493	death
+E866	Life_Die:T25
+A25	Realis E866 Generic
+T26	Life_Die 2547 2552	death
+E547	Life_Die:T26
+A26	Realis E547 Generic
+T27	Justice_Execute 757 762	death
+E258	Justice_Execute:T27
+A27	Realis E258 Generic
+T28	Justice_Execute 1228 1233	Death
+E206	Justice_Execute:T28
+A28	Realis E206 Generic
+T29	Justice_Execute 1622 1627	death
+E691	Justice_Execute:T29
+A29	Realis E691 Generic
+T30	Justice_Execute 2025 2030	death
+E715	Justice_Execute:T30
+A30	Realis E715 Generic
+T31	Justice_Execute 2488 2493	death
+E906	Justice_Execute:T31
+A31	Realis E906 Generic
+T32	Justice_Execute 2547 2552	death
+E940	Justice_Execute:T32
+A32	Realis E940 Generic
+T33	Justice_Sentence 763 770	penalty
+E92	Justice_Sentence:T33
+A33	Realis E92 Generic
+T34	Justice_Sentence 1234 1241	Penalty
+E644	Justice_Sentence:T34
+A34	Realis E644 Generic
+T35	Justice_Sentence 1628 1635	penalty
+E960	Justice_Sentence:T35
+A35	Realis E960 Generic
+T36	Justice_Sentence 2494 2501	penalty
+E927	Justice_Sentence:T36
+A36	Realis E927 Generic
+T37	Justice_Sentence 2553 2560	penalty
+E419	Justice_Sentence:T37
+A37	Realis E419 Generic
+T38	Contact_Broadcast 832 841	statement
+E114	Contact_Broadcast:T38
+A38	Realis E114 Actual
+T39	Justice_Trial-Hearing 1078 1084	trials
+E874	Justice_Trial-Hearing:T39
+A39	Realis E874 Generic
+T40	Contact_Broadcast 1123 1127	told
+E899	Contact_Broadcast:T40
+A40	Realis E899 Actual
+T41	Justice_Execute 1175 1185	executions
+E936	Justice_Execute:T41
+A41	Realis E936 Actual
+T42	Life_Die 1175 1185	executions
+E240	Life_Die:T42
+A42	Realis E240 Actual
+T43	Justice_Convict 1355 1364	convicted
+E785	Justice_Convict:T43
+A43	Realis E785 Actual
+T44	Conflict_Attack 1369 1378	terrorist
+E743	Conflict_Attack:T44
+A44	Realis E743 Generic
+T45	Conflict_Attack 2579 2588	terrorism
+E418	Conflict_Attack:T45
+A45	Realis E418 Generic
+T46	Conflict_Attack 1387 1394	killing
+E946	Conflict_Attack:T46
+A46	Realis E946 Actual
+T47	Life_Die 1387 1394	killing
+E745	Life_Die:T47
+A47	Realis E745 Actual
+T48	Justice_Execute 1696 1704	executed
+E173	Justice_Execute:T48
+A48	Realis E173 Actual
+T49	Life_Die 1696 1704	executed
+E90	Life_Die:T49
+A49	Realis E90 Actual
+T50	Contact_Broadcast 1784 1792	reported
+E669	Contact_Broadcast:T50
+A50	Realis E669 Actual
+T51	Contact_Contact 1819 1826	contact
+E93	Contact_Contact:T51
+A51	Realis E93 Other
+T52	Justice_Sentence 1980 1989	sentences
+E415	Justice_Sentence:T52
+A52	Realis E415 Actual
+T53	Justice_Arrest-Jail 2003 2012	prisoners
+E817	Justice_Arrest-Jail:T53
+A53	Realis E817 Actual
+T54	Justice_Arrest-Jail 2364 2373	prisoners
+E914	Justice_Arrest-Jail:T54
+A54	Realis E914 Actual
+T55	Justice_Trial-Hearing 2253 2258	trial
+E794	Justice_Trial-Hearing:T55
+A55	Realis E794 Generic
+T56	Conflict_Attack 2720 2728	bombings
+E67	Conflict_Attack:T56
+A56	Realis E67 Actual
+T57	Conflict_Attack 623 631	violence
+E185	Conflict_Attack:T57
+A57	Realis E185 Generic
+T58	Contact_Contact 2073 2076	say
+E433	Contact_Contact:T58
+A58	Realis E433 Actual
+T59	Conflict_Attack 2192 2199	torture
+E904	Conflict_Attack:T59
+A59	Realis E904 Generic
+T60	Contact_Broadcast 2163 2174	confessions
+E5	Contact_Broadcast:T60
+A60	Realis E5 Generic
+T61	Conflict_Attack 2654 2664	casualties
+E329	Conflict_Attack:T61
+A61	Realis E329 Actual
+R1	Coreference Arg1:E165 Arg2:E891
+R2	Coreference Arg1:E891 Arg2:E969
+R3	Coreference Arg1:E969 Arg2:E381
+R4	Coreference Arg1:E381 Arg2:E819
+R5	Coreference Arg1:E819 Arg2:E106
+R6	Coreference Arg1:E387 Arg2:E619
+R7	Coreference Arg1:E619 Arg2:E753
+R8	Coreference Arg1:E753 Arg2:E732
+R9	Coreference Arg1:E732 Arg2:E119
+R10	Coreference Arg1:E119 Arg2:E298
+R11	Coreference Arg1:E287 Arg2:E882
+R12	Coreference Arg1:E554 Arg2:E696
+R13	Coreference Arg1:E696 Arg2:E72
+R14	Coreference Arg1:E665 Arg2:E174
+R15	Coreference Arg1:E174 Arg2:E695
+R16	Coreference Arg1:E84 Arg2:E246
+R17	Coreference Arg1:E246 Arg2:E623
+R18	Coreference Arg1:E623 Arg2:E569
+R19	Coreference Arg1:E569 Arg2:E866
+R20	Coreference Arg1:E866 Arg2:E547
+R21	Coreference Arg1:E258 Arg2:E206
+R22	Coreference Arg1:E206 Arg2:E691
+R23	Coreference Arg1:E691 Arg2:E715
+R24	Coreference Arg1:E715 Arg2:E906
+R25	Coreference Arg1:E906 Arg2:E940
+R26	Coreference Arg1:E92 Arg2:E644
+R27	Coreference Arg1:E644 Arg2:E960
+R28	Coreference Arg1:E960 Arg2:E927
+R29	Coreference Arg1:E927 Arg2:E419
+R30	Coreference Arg1:E743 Arg2:E418
+R31	Coreference Arg1:E817 Arg2:E914

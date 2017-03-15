@@ -1,0 +1,40 @@
+<DOC id="NYT_ENG_20130716.0083" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130716/20130716,4b22c7ba12ae7479c9bd6b2ceda9f6c1.xml">
+<HEADLINE>
+PROSECUTORS RAID HOME OF FORMER SOUTH KOREAN PRESIDENT
+</HEADLINE>
+<TEXT>
+<P>
+SEOUL, South Korea - State prosecutors armed with metal detectors raided the Seoul residence of former President Chun Doo-hwan on Tuesday to look for assets of the ex-military dictator who owes South Korea 167.5 billion won ($150 million) in fines but claims to be broke.
+</P>
+<P>
+In a Supreme Court ruling in 1997, Chun, now 82, was ordered to return to the state 220 billion won he illegally accumulated through bribery from big businesses during his eight and a half years in power in the 1980s. He has so far paid only a quarter of the amount. In his last payment, he handed in 3 million won he said he collected as a lecture fee.
+</P>
+<P>
+Chun has rarely appeared in public since he stepped down in 1988 and entered a Buddhist monastery. In the 1997 verdict, he was also convicted of sedition for his role in the 1979 military coup that brought him to power and a 1980 military crackdown that left hundreds of people dead in the southwestern city of Kwangju. He initially was sentenced to death, a penalty that was reduced to a life imprisonment. He was later pardoned and freed.
+</P>
+<P>
+On Tuesday, a team of 90 prosecutors, tax collectors and other investigators ransacked Chun’s home in eastern Seoul. Television footage showed them hauling away paintings, porcelain and expensive artifacts.
+</P>
+<P>
+The investigators also searched the properties owned by his eldest son, Chun Jae-kook. The son’s publishing company, Sigongsa Inc., is one of the country’s largest and has published the Korean translations of books by John Grisham, C.?S. Lewis and Roald Dahl. Another son, Chun Jae-man, and his father-in-law run a California winery.
+</P>
+<P>
+There was no immediate comment from Chun Doo-hwan’s family about the raids Tuesday.
+</P>
+<P>
+Chun has been dogged by prosecutors for years. In 2000, they seized a Mercedes-Benz sedan from him. In 2003, they confiscated a refrigerator, television set and golf clubs and auctioned them off. At the time, Chun claimed to have less than $260 in his bank accounts, although opposition lawmakers alleged that he may have had huge assets stashed away.
+</P>
+<P>
+Suspicion resurfaced after Newstapa, a website run by the Korea Center of Investigative Journalism, recently reported that Chun Jae-kook set up a shell company in the British Virgin Islands in 2004. The son has since said that the account had nothing to do with his father.
+</P>
+<P>
+Last month, the National Assembly passed a bill extending the statute of limitations on confiscating assets from public officials who have failed to pay fines. Under the old law, prosecutors had only until October. The new law extended the statute of limitations on Chun Doo-hwan’s case until 2020 and allowed prosecutors to collect from his family members as well if they could prove that any of their properties originated from Chun’s illegal funds.
+</P>
+<P>
+The military coup in 1979 propelled Chun, an army major general at the time, into the power vacuum created by the assassination of President Park Chung-hee, the father of the current president, Park Geun-hye. During her presidential campaign, Park admitted that she had received 600 million won from Chun after the coup. She said she would repay the money to the state.
+</P>
+<P>
+Former President Roh Tae-woo, a fellow army general and friend of Chun who replaced him as president, was also ordered to pay back 260 billion won. Roh has more than 90 percent of the sum.
+</P>
+</TEXT>
+</DOC>

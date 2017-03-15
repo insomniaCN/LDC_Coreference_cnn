@@ -1,0 +1,102 @@
+T1	Justice_Sentence 2178 2186	sentence
+E4	Justice_Sentence:T1
+A1	Realis E4 Actual
+T2	Conflict_Attack 733 737	rape
+E86	Conflict_Attack:T2
+A2	Realis E86 Actual
+T3	Justice_Charge-Indict 2432 2439	charges
+E95	Justice_Charge-Indict:T3
+A3	Realis E95 Generic
+T4	Justice_Sentence 1541 1549	sentence
+E117	Justice_Sentence:T4
+A4	Realis E117 Actual
+T5	Justice_Pardon 724 730	pardon
+E138	Justice_Pardon:T5
+A5	Realis E138 Actual
+T6	Justice_Charge-Indict 2271 2278	charged
+E145	Justice_Charge-Indict:T6
+A6	Realis E145 Actual
+T7	Conflict_Attack 496 500	rape
+E146	Conflict_Attack:T7
+A7	Realis E146 Actual
+T8	Contact_Broadcast 1575 1585	interviews
+E186	Contact_Broadcast:T8
+A8	Realis E186 Actual
+T9	Contact_Contact 1811 1815	said
+E236	Contact_Contact:T9
+A9	Realis E236 Actual
+T10	Justice_Pardon 1080 1087	pardons
+E270	Justice_Pardon:T10
+A10	Realis E270 Actual
+T11	Conflict_Attack 2212 2220	attacker
+E311	Conflict_Attack:T11
+A11	Realis E311 Other
+T12	Conflict_Attack 2690 2698	violence
+E333	Conflict_Attack:T12
+A12	Realis E333 Generic
+T13	Justice_Release-Parole 312 316	free
+E347	Justice_Release-Parole:T13
+A13	Realis E347 Actual
+T14	Justice_Charge-Indict 1437 1444	charged
+E407	Justice_Charge-Indict:T14
+A14	Realis E407 Actual
+T15	Contact_Contact 2573 2577	said
+E441	Contact_Contact:T15
+A15	Realis E441 Actual
+T16	Conflict_Attack 2920 2924	rape
+E466	Conflict_Attack:T16
+A16	Realis E466 Actual
+T17	Movement_Transport-Person 909 916	get out
+E488	Movement_Transport-Person:T17
+A17	Realis E488 Other
+T18	Conflict_Attack 755 760	raped
+E513	Conflict_Attack:T18
+A18	Realis E513 Actual
+T19	Justice_Pardon 1800 1808	pardoned
+E543	Justice_Pardon:T19
+A19	Realis E543 Actual
+T20	Justice_Pardon 937 943	pardon
+E555	Justice_Pardon:T20
+A20	Realis E555 Actual
+T21	Conflict_Attack 1107 1111	rape
+E564	Conflict_Attack:T21
+A21	Realis E564 Actual
+T22	Conflict_Attack 1929 1933	rape
+E598	Conflict_Attack:T22
+A22	Realis E598 Other
+T23	Movement_Transport-Person 2483 2489	return
+E604	Movement_Transport-Person:T23
+A23	Realis E604 Other
+T24	Contact_Contact 1970 1974	word
+E624	Contact_Contact:T24
+A24	Realis E624 Other
+T25	Conflict_Attack 212 216	rape
+E625	Conflict_Attack:T25
+A25	Realis E625 Actual
+T26	Justice_Pardon 2893 2900	pardons
+E627	Justice_Pardon:T26
+A26	Realis E627 Actual
+T27	Justice_Pardon 2019 2025	pardon
+E740	Justice_Pardon:T27
+A27	Realis E740 Actual
+T28	Conflict_Attack 1398 1403	raped
+E744	Conflict_Attack:T28
+A28	Realis E744 Other
+T29	Contact_Contact 1382 1389	claimed
+E760	Contact_Contact:T29
+A29	Realis E760 Actual
+T30	Justice_Release-Parole 239 243	free
+E824	Justice_Release-Parole:T30
+A30	Realis E824 Actual
+T31	Justice_Pardon 2510 2516	pardon
+E854	Justice_Pardon:T31
+A31	Realis E854 Actual
+T32	Contact_Meet 1904 1911	meeting
+E904	Contact_Meet:T32
+A32	Realis E904 Other
+T33	Contact_Meet 1484 1489	going
+E921	Contact_Meet:T33
+A33	Realis E921 Actual
+T34	Movement_Transport-Person 247 249	go
+E974	Movement_Transport-Person:T34
+A34	Realis E974 Other

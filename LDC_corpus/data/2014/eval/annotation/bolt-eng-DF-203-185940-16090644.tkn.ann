@@ -1,0 +1,87 @@
+T1	Business_Merge-Org 283 289	merger
+E1	Business_Merge-Org:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 918 926	laid off
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 961 970	contacted
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 1265 1268	pay
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Money 1324 1327	pay
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Personnel_End-Position 1366 1376	retirement
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Other
+T7	Transaction_Transfer-Money 1435 1438	pay
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Money 1696 1699	pay
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T9	Transaction_Transfer-Money 73 79	moving
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Transaction_Transfer-Money 233 237	move
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Other
+T11	Transaction_Transfer-Money 336 339	tax
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Other
+T12	Transaction_Transfer-Money 517 525	rollover
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 596 599	tax
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Generic
+T14	Transaction_Transfer-Money 741 745;749 753	roll over
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Money 989 995;999 1003	rolled over
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Money 1135 1141;1147 1151	rolled over
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 1227 1231;1235 1239	roll over
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Money 1269 1274	taxes
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Money 1328 1333	taxes
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Money 1386 1390;1394 1398	roll over
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Other
+T21	Transaction_Transfer-Money 1465 1470	taxed
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Other
+T22	Transaction_Transfer-Money 1555 1558	tax
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Generic
+T23	Transaction_Transfer-Money 1588 1591	tax
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Generic
+T24	Transaction_Transfer-Money 1644 1647	tax
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Personnel_End-Position 1659 1669	retirement
+E25	Personnel_End-Position:T25 
+A25	Realis E25 Other
+T26	Transaction_Transfer-Money 1700 1705	taxes
+E26	Transaction_Transfer-Money:T26 
+A26	Realis E26 Generic
+T27	Transaction_Transfer-Money 1717 1725	rollover
+E27	Transaction_Transfer-Money:T27 
+A27	Realis E27 Other
+T28	Transaction_Transfer-Money 1750 1755	taxed
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Other
+T29	Transaction_Transfer-Money 1842 1845	tax
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Generic

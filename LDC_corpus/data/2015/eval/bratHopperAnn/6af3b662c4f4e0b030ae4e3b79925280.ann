@@ -1,0 +1,99 @@
+T1	Justice_Execute 139 151	executioners
+E697	Justice_Execute:T1
+A1	Realis E697 Generic
+T2	Justice_Execute 920 932	executioners
+E432	Justice_Execute:T2
+A2	Realis E432 Generic
+T3	Justice_Execute 193 199	hanged
+E284	Justice_Execute:T3
+A3	Realis E284 Actual
+T4	Justice_Execute 391 399	executed
+E112	Justice_Execute:T4
+A4	Realis E112 Actual
+T5	Justice_Execute 582 591	execution
+E887	Justice_Execute:T5
+A5	Realis E887 Actual
+T6	Life_Die 193 199	hanged
+E6	Life_Die:T6
+A6	Realis E6 Actual
+T7	Life_Die 391 399	executed
+E389	Life_Die:T7
+A7	Realis E389 Actual
+T8	Life_Die 845 851	hanged
+E327	Life_Die:T8
+A8	Realis E327 Actual
+T9	Justice_Convict 214 223	convicted
+E454	Justice_Convict:T9
+A9	Realis E454 Actual
+T10	Conflict_Attack 227 235	stabbing
+E29	Conflict_Attack:T10
+A10	Realis E29 Actual
+T11	Life_Die 239 244	death
+E696	Life_Die:T11
+A11	Realis E696 Actual
+T12	Contact_Broadcast 282 290	protests
+E556	Contact_Broadcast:T12
+A12	Realis E556 Actual
+T13	Justice_Execute 554 564	executions
+E546	Justice_Execute:T13
+A13	Realis E546 Generic
+T14	Life_Die 554 564	executions
+E91	Life_Die:T14
+A14	Realis E91 Generic
+T15	Movement_Transport-Person 667 675	escorted
+E676	Movement_Transport-Person:T15
+A15	Realis E676 Actual
+T16	Manufacture_Artifact 698 705	erected
+E287	Manufacture_Artifact:T16
+A16	Realis E287 Actual
+T17	Contact_Meet 785 790	spoke
+E280	Contact_Meet:T17
+A17	Realis E280 Actual
+T18	Contact_Broadcast 807 814	uttered
+E585	Contact_Broadcast:T18
+A18	Realis E585 Actual
+T19	Contact_Contact 863 867	said
+E496	Contact_Contact:T19
+A19	Realis E496 Actual
+T20	Life_Die 1669 1674	death
+E957	Life_Die:T20
+A20	Realis E957 Generic
+T21	Justice_Convict 1961 1970	convicted
+E398	Justice_Convict:T21
+A21	Realis E398 Generic
+T22	Conflict_Attack 1971 1980	murderers
+E342	Conflict_Attack:T22
+A22	Realis E342 Generic
+T23	Conflict_Attack 2115 2121	murder
+E275	Conflict_Attack:T23
+A23	Realis E275 Generic
+T24	Life_Die 1971 1980	murderers
+E515	Life_Die:T24
+A24	Realis E515 Generic
+T25	Life_Die 2115 2121	murder
+E288	Life_Die:T25
+A25	Realis E288 Generic
+T26	Movement_Transport-Person 2538 2546	cast out
+E240	Movement_Transport-Person:T26
+A26	Realis E240 Generic
+T27	Movement_Transport-Person 2819 2827	cast out
+E437	Movement_Transport-Person:T27
+A27	Realis E437 Generic
+T28	Movement_Transport-Person 2591 2595	move
+E315	Movement_Transport-Person:T28
+A28	Realis E315 Generic
+T29	Life_Beborn 3551 3555	born
+E657	Life_Beborn:T29
+A29	Realis E657 Generic
+T30	Life_Beborn 4452 4456	born
+E741	Life_Beborn:T30
+A30	Realis E741 Generic
+R1	Coreference Arg1:E697 Arg2:E432
+R2	Coreference Arg1:E284 Arg2:E112
+R3	Coreference Arg1:E112 Arg2:E887
+R4	Coreference Arg1:E6 Arg2:E389
+R5	Coreference Arg1:E389 Arg2:E327
+R6	Coreference Arg1:E342 Arg2:E275
+R7	Coreference Arg1:E515 Arg2:E288
+R8	Coreference Arg1:E240 Arg2:E437
+R9	Coreference Arg1:E657 Arg2:E741

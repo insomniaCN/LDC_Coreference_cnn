@@ -1,0 +1,28 @@
+<DOC id="NYT_ENG_20130529.0011" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130529/20130529,0b2279c98ef8cffb59dbeda40a809ff1.xml">
+<HEADLINE>
+OBAMA TO PICK FORMER BUSH JUSTICE DEPT. OFFICIAL TO LEAD FBI
+</HEADLINE>
+<TEXT>
+<P>
+WASHINGTON - President Barack Obama plans to nominate James B. Comey, a former hedge fund executive and a former senior Justice Department official under President George W. Bush, to replace Robert S. Mueller III as the director of the FBI, according to a person with knowledge of the selection.
+</P>
+<P>
+Comey, 52, was chosen for the position over the other finalist for the job, Lisa O. Monaco, who has served as the White House’s top counterterrorism adviser since January. Some Democrats had feared that if the president nominated Monaco - who oversaw national security issues at the Justice Department during the attacks in Benghazi, Libya, in September - Republicans would use the confirmation process as a forum for criticism of the administration’s handling of the attack.
+</P>
+<P>
+As deputy attorney general in the Bush administration, Comey was a critical player in 2004 in the dramatic hospital room episode in which the White House counsel, Alberto Gonzales, and Bush’s chief of staff, Andrew H. Card Jr., tried to persuade Attorney General John Ashcroft - who was ill and disoriented - to reauthorize a warrantless eavesdropping program.
+</P>
+<P>
+Comey, who was serving as the acting attorney general and had been tipped off that Gonzales and Card were trying to go around him, rushed to Ashcroft’s hospital room to thwart them. With Comey in the room, Ashcroft refused to reauthorize the program. After the episode, Bush agreed to make changes in the program, and Comey was widely praised for putting the law over politics.
+</P>
+<P>
+Comey graduated from the University of Chicago Law School in 1985, then had a meteoric rise at the Justice Department, culminating in his service as the department’s second-ranking official from 2003 to 2005. While oversee the U.S. attorney’s office in Richmond, Va., Comey was asked in 2001 to take over the government’s foundering investigation of the 1996 terrorist bombing at Khobar Towers in Saudi Arabia that killed 19 American service members.
+</P>
+<P>
+The FBI director at the time, Louis J. Freeh, had urged Ashcroft to take the case away from federal prosecutors in Washington who had been investigating for five years but had not brought charges.
+</P>
+<P>
+With a legal deadline looming over them, Comey and a colleague rapidly moved the case forward and within three months indicted 14 men.
+</P>
+</TEXT>
+</DOC>

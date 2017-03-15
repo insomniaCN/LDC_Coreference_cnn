@@ -1,0 +1,76 @@
+T1	Personnel_Elect 171 180	elections
+E262	Personnel_Elect:T1
+A1	Realis E262 Generic
+T2	Personnel_Elect 360 367	elected
+E134	Personnel_Elect:T2
+A2	Realis E134 Actual
+T3	Conflict_Demonstrate 450 459	rebellion
+E30	Conflict_Demonstrate:T3
+A3	Realis E30 Actual
+T4	Personnel_Elect 465 472	elected
+E29	Personnel_Elect:T4
+A4	Realis E29 Actual
+T5	Life_Die 571 575	late
+E789	Life_Die:T5
+A5	Realis E789 Actual
+T6	Personnel_Elect 588 591	won
+E433	Personnel_Elect:T6
+A6	Realis E433 Actual
+T7	Personnel_Elect 606 611	races
+E796	Personnel_Elect:T7
+A7	Realis E796 Actual
+T8	Conflict_Attack 782 790	Violence
+E655	Conflict_Attack:T8
+A8	Realis E655 Generic
+T9	Conflict_Attack 861 865	coup
+E16	Conflict_Attack:T9
+A9	Realis E16 Other
+T10	Personnel_End-Position 891 898	deposed
+E78	Personnel_End-Position:T10
+A10	Realis E78 Actual
+T11	Conflict_Demonstrate 940 948	uprising
+E407	Conflict_Demonstrate:T11
+A11	Realis E407 Actual
+T12	Personnel_Elect 1059 1062	won
+E969	Personnel_Elect:T12
+A12	Realis E969 Actual
+T13	Personnel_Elect 1134 1142	election
+E510	Personnel_Elect:T13
+A13	Realis E510 Actual
+T14	Personnel_Elect 1215 1223	election
+E630	Personnel_Elect:T14
+A14	Realis E630 Actual
+T15	Personnel_Elect 1423 1431	election
+E311	Personnel_Elect:T15
+A15	Realis E311 Other
+T16	Transaction_Transfer-Money 1190 1196	buying
+E660	Transaction_Transfer-Money:T16
+A16	Realis E660 Generic
+T17	Conflict_Attack 1228 1236	violence
+E381	Conflict_Attack:T17
+A17	Realis E381 Actual
+T18	Conflict_Attack 1432 1439	murders
+E845	Conflict_Attack:T18
+A18	Realis E845 Actual
+T19	Life_Die 1432 1439	murders
+E234	Life_Die:T19
+A19	Realis E234 Actual
+T20	Personnel_Nominate 1089 1098	candidate
+E39	Personnel_Nominate:T20
+A20	Realis E39 Actual
+T21	Personnel_Nominate 1500 1510	candidates
+E861	Personnel_Nominate:T21
+A21	Realis E861 Actual
+T22	Conflict_Attack 2469 2473	coup
+E160	Conflict_Attack:T22
+A22	Realis E160 Other
+T23	Conflict_Attack 2764 2768	coup
+E398	Conflict_Attack:T23
+A23	Realis E398 Other
+T24	Conflict_Attack 2819 2823	coup
+E992	Conflict_Attack:T24
+A24	Realis E992 Other
+R1	Coreference Arg1:E510 Arg2:E630
+R2	Coreference Arg1:E630 Arg2:E311
+R3	Coreference Arg1:E160 Arg2:E398
+R4	Coreference Arg1:E398 Arg2:E992

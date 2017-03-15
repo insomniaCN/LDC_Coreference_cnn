@@ -1,0 +1,90 @@
+T1	Contact_Communicate 136 140	told
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 158 162	told
+E2	Contact_Communicate:T2 
+T3	Contact_Communicate 170 174	tell
+E3	Contact_Communicate:T3 
+A2	Realis E3 Other
+T4	Contact_Communicate 193 197	told
+E4	Contact_Communicate:T4 
+A3	Realis E4 Actual
+T5	Contact_Communicate 245 252	telling
+E5	Contact_Communicate:T5 
+A4	Realis E5 Actual
+T6	Contact_Communicate 289 296	telling
+E6	Contact_Communicate:T6 
+A5	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 352 358	taking
+E7	Transaction_Transfer-Ownership:T7 
+A6	Questionable E7 Mention
+A7	Realis E7 Actual
+T8	Conflict_Attack 465 473	molested
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 1044 1047	say
+E9	Contact_Communicate:T9 
+A9	Realis E9 Other
+T10	Personnel_End-Position 1136 1141	fired
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Other
+T11	Conflict_Attack 1422 1427	raped
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 1750 1753	say
+E12	Contact_Communicate:T12 
+A12	Realis E12 Other
+T13	Personnel_End-Position 1842 1847	fired
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Money 3446 3450	cost
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Money 3678 3684;3689 3694	refill cache
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Generic
+T16	Business_Declare-Bankruptcy 3866 3878	bankruptcies
+E16	Business_Declare-Bankruptcy:T16 
+A16	Questionable E16 Realis
+A17	Realis E16 Actual
+T17	Conflict_Attack 3937 3941	rape
+E17	Conflict_Attack:T17 
+A18	Questionable E17 Realis
+A19	Realis E17 Actual
+T18	Conflict_Attack 4981 4985	rape
+E18	Conflict_Attack:T18 
+A20	Realis E18 Generic
+T19	Conflict_Attack 4989 5000	molestation
+E19	Conflict_Attack:T19 
+A21	Realis E19 Generic
+T20	Conflict_Attack 5661 5665	rape
+E20	Conflict_Attack:T20 
+A22	Realis E20 Generic
+T21	Conflict_Attack 5669 5680	molestation
+E21	Conflict_Attack:T21 
+A23	Realis E21 Generic
+T22	Conflict_Attack 6864 6868	rape
+E22	Conflict_Attack:T22 
+A24	Realis E22 Generic
+T23	Conflict_Attack 6872 6883	molestation
+E23	Conflict_Attack:T23 
+A25	Realis E23 Generic
+T24	Conflict_Attack 7205 7212	abusers
+E24	Conflict_Attack:T24 
+A26	Realis E24 Generic
+A27	Realis E2 Actual
+T25	Justice_Charge-Indict 985 995	indictment
+E25	Justice_Charge-Indict:T25 
+A28	Realis E25 Actual
+T26	Justice_Charge-Indict 1027 1029	it
+E26	Justice_Charge-Indict:T26 
+A29	Realis E26 Actual
+T27	Movement_Transport-Person 1110 1120	walked out
+E27	Movement_Transport-Person:T27 
+A30	Realis E27 Other
+T28	Justice_Charge-Indict 1733 1735	it
+E28	Justice_Charge-Indict:T28 
+A31	Realis E28 Actual
+T29	Movement_Transport-Person 1816 1826	walked out
+E29	Movement_Transport-Person:T29 
+A32	Realis E29 Other

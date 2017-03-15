@@ -1,0 +1,48 @@
+T4	Transaction_Transfer-Money 630 634	paid
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Contact_Meet 687 694	meeting
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 670 673;713 718	got email
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Life_Die 741 745	died
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Justice_Sue 798 801	sue
+E8	Justice_Sue:T8 
+A8	Realis E8 Other
+T9	Life_Die 820 824	dead
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T12	Transaction_Transfer-Money 1123 1126	pay
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic
+T14	Conflict_Attack 1467 1470	war
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T18	Justice_Sue 1739 1747	lawsuits
+E18	Justice_Sue:T18 
+A18	Realis E18 Generic
+T20	Transaction_Transfer-Money 1858 1870	grew wealthy
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Generic
+T22	Transaction_Transfer-Money 1960 1967	revenue
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Generic
+T24	Transaction_Transfer-Money 2066 2070	paid
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Transaction_Transfer-Money 2112 2116	paid
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Generic
+T30	Transaction_Transfer-Money 2482 2490	paid off
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Other
+T32	Transaction_Transfer-Money 2549 2553	cost
+E32	Transaction_Transfer-Money:T32 
+A32	Realis E32 Actual
+T37	Transaction_Transfer-Money 2766 2772	making
+E37	Transaction_Transfer-Money:T37 
+A37	Realis E37 Actual

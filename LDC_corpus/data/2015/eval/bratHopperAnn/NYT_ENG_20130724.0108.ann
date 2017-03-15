@@ -1,0 +1,97 @@
+T1	Business_Declare-Bankruptcy 202 212	BANKRUPTCY
+E508	Business_Declare-Bankruptcy:T1
+A1	Realis E508 Actual
+T2	Business_Declare-Bankruptcy 455 465	bankruptcy
+E475	Business_Declare-Bankruptcy:T2
+A2	Realis E475 Actual
+T3	Business_Declare-Bankruptcy 632 642	bankruptcy
+E288	Business_Declare-Bankruptcy:T3
+A3	Realis E288 Actual
+T4	Business_Declare-Bankruptcy 720 726	filing
+E820	Business_Declare-Bankruptcy:T4
+A4	Realis E820 Actual
+T5	Business_Declare-Bankruptcy 744 754	bankruptcy
+E569	Business_Declare-Bankruptcy:T5
+A5	Realis E569 Actual
+T6	Business_Declare-Bankruptcy 967 977	bankruptcy
+E121	Business_Declare-Bankruptcy:T6
+A6	Realis E121 Actual
+T7	Business_Declare-Bankruptcy 1120 1130	bankruptcy
+E677	Business_Declare-Bankruptcy:T7
+A7	Realis E677 Actual
+T8	Business_Declare-Bankruptcy 1284 1290	filing
+E670	Business_Declare-Bankruptcy:T8
+A8	Realis E670 Actual
+T9	Business_Declare-Bankruptcy 1952 1962	bankruptcy
+E405	Business_Declare-Bankruptcy:T9
+A9	Realis E405 Actual
+T10	Business_Declare-Bankruptcy 2386 2390	file
+E766	Business_Declare-Bankruptcy:T10
+A10	Realis E766 Other
+T11	Business_Declare-Bankruptcy 2443 2453	bankruptcy
+E697	Business_Declare-Bankruptcy:T11
+A11	Realis E697 Other
+T12	Justice_Trial-Hearing 1786 1793	hearing
+E303	Justice_Trial-Hearing:T12
+A12	Realis E303 Actual
+T13	Business_Declare-Bankruptcy 395 405	bankruptcy
+E541	Business_Declare-Bankruptcy:T13
+A13	Realis E541 Generic
+T14	Business_Declare-Bankruptcy 564 574	Bankruptcy
+E669	Business_Declare-Bankruptcy:T14
+A14	Realis E669 Generic
+T15	Business_Declare-Bankruptcy 782 792	bankruptcy
+E233	Business_Declare-Bankruptcy:T15
+A15	Realis E233 Generic
+T16	Business_Declare-Bankruptcy 1442 1452	bankruptcy
+E219	Business_Declare-Bankruptcy:T16
+A16	Realis E219 Generic
+T17	Transaction_Transfer-Money 1343 1351	pensions
+E957	Transaction_Transfer-Money:T17
+A17	Realis E957 Generic
+T18	Transaction_Transfer-Money 1430 1438	pensions
+E71	Transaction_Transfer-Money:T18
+A18	Realis E71 Generic
+T19	Transaction_Transfer-Money 2102 2110	pensions
+E736	Transaction_Transfer-Money:T19
+A19	Realis E736 Generic
+T20	Personnel_End-Position 1355 1362	retired
+E507	Personnel_End-Position:T20
+A20	Realis E507 Actual
+T21	Personnel_End-Position 2061 2068	retired
+E28	Personnel_End-Position:T21
+A21	Realis E28 Actual
+T22	Justice_Appeal 1595 1603	appealed
+E709	Justice_Appeal:T22
+A22	Realis E709 Actual
+T23	Justice_Appeal 1659 1666	Appeals
+E195	Justice_Appeal:T23
+A23	Realis E195 Generic
+T24	Conflict_Demonstrate 2544 2554	protesters
+E801	Conflict_Demonstrate:T24
+A24	Realis E801 Actual
+T25	Contact_Broadcast 846 850	said
+E490	Contact_Broadcast:T25
+A25	Realis E490 Actual
+T26	Contact_Contact 2431 2435	said
+E377	Contact_Contact:T26
+A26	Realis E377 Actual
+T27	Contact_Meet 2555 2563	gathered
+E418	Contact_Meet:T27
+A27	Realis E418 Actual
+R1	Coreference Arg1:E508 Arg2:E475
+R2	Coreference Arg1:E475 Arg2:E288
+R3	Coreference Arg1:E288 Arg2:E820
+R4	Coreference Arg1:E820 Arg2:E569
+R5	Coreference Arg1:E569 Arg2:E121
+R6	Coreference Arg1:E121 Arg2:E677
+R7	Coreference Arg1:E677 Arg2:E670
+R8	Coreference Arg1:E670 Arg2:E405
+R9	Coreference Arg1:E405 Arg2:E766
+R10	Coreference Arg1:E766 Arg2:E697
+R11	Coreference Arg1:E541 Arg2:E669
+R12	Coreference Arg1:E669 Arg2:E233
+R13	Coreference Arg1:E233 Arg2:E219
+R14	Coreference Arg1:E957 Arg2:E71
+R15	Coreference Arg1:E71 Arg2:E736
+R16	Coreference Arg1:E507 Arg2:E28

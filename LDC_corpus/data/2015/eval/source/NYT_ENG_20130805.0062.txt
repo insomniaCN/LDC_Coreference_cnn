@@ -1,0 +1,22 @@
+<DOC id="NYT_ENG_20130805.0062" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130805/20130805,5d225d4558586fb79c0feae28b052f8e.xml">
+<HEADLINE>
+MANAGER HIRES CHRISTIE'S TO APPRAISE DETROIT ART MUSEUM HOLDINGS
+</HEADLINE>
+<TEXT>
+<P>
+The city of Detroit, which has filed for bankruptcy, has formally hired the international auction house Christie’s to appraise part of the city-owned art collection held by the Detroit Institute of Arts, the auction house said Monday.
+</P>
+<P>
+A decision about whether to sell the art to satisfy creditors has not been made, city officials have said, although all the city’s assets are being evaluated in light of the situation in Detroit, the largest U.S. city ever to file for bankruptcy.
+</P>
+<P>
+Christie’s representatives had previously visited the museum in early June and confirmed Monday that the company had been hired to appraise the collection but gave no details about which portion of the collection it would be looking at.
+</P>
+<P>
+“Christie’s was asked to assist due to our expertise in this area across all fine art categories and eras,” it said in its statement. It said, “In addition we will also assist and advise on how to realize value for the City while leaving the art in the City’s ownership.”
+</P>
+<P>
+The office of Detroit emergency manager Kevyn Orr will pay Christie’s $200,000 for the appraisal, which is expected to be completed by mid-October, the Detroit Free Press reported on its website. Christie’s will appraise only artworks that are clearly owned by the city and that are not bound by donor restrictions that might rule out a possible sale, the newspaper said, citing Orr’s spokesman Bill Nowling.
+</P>
+</TEXT>
+</DOC>

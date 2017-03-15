@@ -1,0 +1,95 @@
+T1	Contact_Broadcast 446 450	said
+E855	Contact_Broadcast:T1
+A1	Realis E855 Actual
+T2	Contact_Broadcast 472 479	reports
+E655	Contact_Broadcast:T2
+A2	Realis E655 Actual
+T3	Contact_Correspondence 550 561	discussions
+E29	Contact_Correspondence:T3
+A3	Realis E29 Actual
+T4	Justice_Fine 698 703	fined
+E383	Justice_Fine:T4
+A4	Realis E383 Other
+T5	Justice_Fine 735 740	fines
+E40	Justice_Fine:T5
+A5	Realis E40 Generic
+T6	Justice_Fine 1339 1344	fines
+E547	Justice_Fine:T6
+A6	Realis E547 Generic
+T7	Justice_Fine 1510 1517	penalty
+E915	Justice_Fine:T7
+A7	Realis E915 Generic
+T8	Transaction_Transfer-Money 769 775	income
+E205	Transaction_Transfer-Money:T8
+A8	Realis E205 Generic
+T9	Contact_Broadcast 792 798	report
+E92	Contact_Broadcast:T9
+A9	Realis E92 Actual
+T10	Contact_Broadcast 1074 1080	report
+E97	Contact_Broadcast:T10
+A10	Realis E97 Actual
+T11	Contact_Broadcast 4535 4539	said
+E158	Contact_Broadcast:T11
+A11	Realis E158 Actual
+T12	Contact_Contact 1028 1037	confirmed
+E754	Contact_Contact:T12
+A12	Realis E754 Actual
+T13	Contact_Correspondence 1113 1118	Calls
+E479	Contact_Correspondence:T13
+A13	Realis E479 Generic
+T14	Contact_Broadcast 1550 1554	said
+E704	Contact_Broadcast:T14
+A14	Realis E704 Actual
+T15	Contact_Contact 2464 2467	say
+E24	Contact_Contact:T15
+A15	Realis E24 Generic
+T16	Contact_Contact 2608 2617	interview
+E465	Contact_Contact:T16
+A16	Realis E465 Actual
+T17	Contact_Contact 2678 2682	said
+E23	Contact_Contact:T17
+A17	Realis E23 Actual
+T18	Contact_Contact 2753 2758	added
+E238	Contact_Contact:T18
+A18	Realis E238 Actual
+T19	Contact_Correspondence 2985 2992	comment
+E783	Contact_Correspondence:T19
+A19	Realis E783 Other
+T20	Contact_Contact 3096 3099	say
+E807	Contact_Contact:T20
+A20	Realis E807 Generic
+T21	Contact_Contact 3164 3167	say
+E374	Contact_Contact:T21
+A21	Realis E374 Generic
+T22	Contact_Broadcast 3699 3703	said
+E955	Contact_Broadcast:T22
+A22	Realis E955 Actual
+T23	Contact_Broadcast 4091 4095	said
+E477	Contact_Broadcast:T23
+A23	Realis E477 Actual
+T24	Movement_Transport-Person 3965 3973	followed
+E732	Movement_Transport-Person:T24
+A24	Realis E732 Actual
+T25	Life_Divorce 4166 4174	divorced
+E985	Life_Divorce:T25
+A25	Realis E985 Actual
+T26	Contact_Meet 4444 4454	translator
+E632	Contact_Meet:T26
+A26	Realis E632 Actual
+T27	Life_Beborn 3341 3350	birthrate
+E554	Life_Beborn:T27
+A27	Realis E554 Generic
+T28	Life_Beborn 1477 1481	have
+E334	Life_Beborn:T28
+A28	Realis E334 Generic
+T29	Contact_Broadcast 3440 3446	report
+E152	Contact_Broadcast:T29
+A29	Realis E152 Other
+R1	Coreference Arg1:E40 Arg2:E547
+R2	Coreference Arg1:E547 Arg2:E915
+R3	Coreference Arg1:E92 Arg2:E97
+R4	Coreference Arg1:E97 Arg2:E158
+R5	Coreference Arg1:E465 Arg2:E23
+R6	Coreference Arg1:E23 Arg2:E238
+R7	Coreference Arg1:E955 Arg2:E477
+R8	Coreference Arg1:E334 Arg2:E554

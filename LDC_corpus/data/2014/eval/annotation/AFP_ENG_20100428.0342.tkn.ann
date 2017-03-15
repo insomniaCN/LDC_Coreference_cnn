@@ -1,0 +1,57 @@
+T1	Conflict_Attack 78 82	shot
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 83 87	dead
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Demonstrate 103 110	protest
+E3	Conflict_Demonstrate:T3 
+A3	Realis E3 Actual
+T4	Life_Die 247 253	killed
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 283 287	fire
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Demonstrate 311 318	protest
+E6	Conflict_Demonstrate:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 416 421	taken
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 465 469	shot
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Life_Die 488 492	died
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 507 514	arrival
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 776 789	hurling rocks
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Demonstrate 852 859	protest
+E12	Conflict_Demonstrate:T12 
+A12	Realis E12 Actual
+T13	Conflict_Demonstrate 942 949;957 971	holding demonstrations
+E13	Conflict_Demonstrate:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 1080 1094	demonstrations
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 1181 1186;1195 1200	fires shots
+E15	Conflict_Attack:T15 
+A15	Realis E15 Generic
+T16	Conflict_Demonstrate 1212 1220	protests
+E16	Conflict_Demonstrate:T16 
+A16	Realis E16 Actual
+T17	Life_Injure 1320 1327	wounded
+E17	Life_Injure:T17 
+A17	Realis E17 Actual
+T18	Conflict_Demonstrate 1351 1365	demonstrations
+E18	Conflict_Demonstrate:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 1448 1455	attacks
+E19	Conflict_Attack:T19 
+A19	Realis E19 Generic

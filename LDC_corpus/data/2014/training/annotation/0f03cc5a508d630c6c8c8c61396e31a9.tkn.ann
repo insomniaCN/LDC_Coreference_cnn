@@ -1,0 +1,69 @@
+T3	Movement_Transport-Person 301 305	come
+E3	Movement_Transport-Person:T3 
+A4	Realis E3 Other
+T4	Life_Die 340 349	pass away
+E4	Life_Die:T4 
+A5	Realis E4 Other
+T5	Life_Die 370 379	pass away
+E5	Life_Die:T5 
+A6	Realis E5 Other
+T6	Contact_Meet 444 451	talking
+E6	Contact_Meet:T6 
+A7	Realis E6 Other
+T9	Contact_Communicate 1070 1076	advice
+E9	Contact_Communicate:T9 
+A13	Realis E9 Other
+T14	Life_Die 1516 1519	die
+E14	Life_Die:T14 
+A22	Realis E14 Other
+T15	Contact_Meet 1794 1798	talk
+E15	Contact_Meet:T15 
+A23	Realis E15 Other
+T16	Life_Die 1962 1971	mortality
+E16	Life_Die:T16 
+A25	Realis E16 Generic
+T17	Life_Die 2033 2039	deaths
+E17	Life_Die:T17 
+A27	Realis E17 Generic
+T18	Life_Be-Born 2057 2063	births
+E18	Life_Be-Born:T18 
+A29	Realis E18 Generic
+T19	Life_Be-Born 2115 2121	births
+E19	Life_Be-Born:T19 
+A31	Realis E19 Generic
+T20	Life_Die 2173 2182	mortality
+E20	Life_Die:T20 
+A33	Realis E20 Generic
+T21	Life_Die 2419 2429	stillbirth
+E21	Life_Die:T21 
+A35	Realis E21 Generic
+T22	Life_Die 2438 2443	death
+E22	Life_Die:T22 
+A37	Realis E22 Generic
+T23	Life_Be-Born 2505 2511	births
+E23	Life_Be-Born:T23 
+A39	Realis E23 Generic
+T24	Life_Die 2534 2539	death
+E24	Life_Die:T24 
+A41	Realis E24 Generic
+T25	Life_Be-Born 2563 2569	births
+E25	Life_Be-Born:T25 
+A43	Realis E25 Generic
+T26	Life_Die 2641 2651	stillbirth
+E26	Life_Die:T26 
+A45	Realis E26 Generic
+T27	Life_Die 2666 2672	deaths
+E27	Life_Die:T27 
+A47	Realis E27 Generic
+T28	Life_Be-Born 2966 2972	births
+E28	Life_Be-Born:T28 
+A48	Realis E28 Generic
+T1	Contact_Meet 684 693	reassured
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 1194 1205	all the way
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T7	Movement_Transport-Person 1449 1460	all the way
+E7	Movement_Transport-Person:T7 
+A3	Realis E7 Actual

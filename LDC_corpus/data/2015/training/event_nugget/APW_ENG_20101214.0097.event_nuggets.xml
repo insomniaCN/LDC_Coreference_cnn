@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000564" doc_id="APW_ENG_20101214.0097" source_type="newswire">
+<event_mention id="em-75" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="77" length="7">lay off</trigger>
+      </event_mention>
+<event_mention id="em-88" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="215" length="7">lay off</trigger>
+      </event_mention>
+<event_mention id="em-101" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="APW_ENG_20101214.0097" offset="373" length="8">job cuts</trigger>
+      </event_mention>
+<event_mention id="em-114" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="APW_ENG_20101214.0097" offset="447" length="5">plans</trigger>
+      </event_mention>
+<event_mention id="em-127" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="555" length="8">cutbacks</trigger>
+      </event_mention>
+<event_mention id="em-140" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="APW_ENG_20101214.0097" offset="666" length="6">layoff</trigger>
+      </event_mention>
+<event_mention id="em-153" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="APW_ENG_20101214.0097" offset="722" length="14">housecleanings</trigger>
+      </event_mention>
+<event_mention id="em-166" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="965" length="10">reductions</trigger>
+      </event_mention>
+<event_mention id="em-179" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="1199" length="4">cuts</trigger>
+      </event_mention>
+<event_mention id="em-192" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="1247" length="7">layoffs</trigger>
+      </event_mention>
+<event_mention id="em-205" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20101214.0097" offset="1508" length="14">shown the door</trigger>
+      </event_mention>
+<event_mention id="em-218" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="APW_ENG_20101214.0097" offset="818" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-233" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="926" length="7">revenue</trigger>
+      </event_mention>
+<event_mention id="em-248" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="APW_ENG_20101214.0097" offset="1097" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-261" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="1591" length="7">revenue</trigger>
+      </event_mention>
+<event_mention id="em-274" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101214.0097" offset="520" length="12">announcement</trigger>
+      </event_mention>
+<event_mention id="em-289" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20101214.0097" offset="1227" length="4">News</trigger>
+      </event_mention>
+<event_mention id="em-315" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20101214.0097" offset="1734" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-330" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="1842" length="7">revenue</trigger>
+      </event_mention>
+<event_mention id="em-345" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="1979" length="7">results</trigger>
+      </event_mention>
+<event_mention id="em-360" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20101214.0097" offset="2028" length="4">move</trigger>
+      </event_mention>
+<event_mention id="em-375" type="transaction" subtype="transferownership" realis="generic" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="2353" length="6">buyout</trigger>
+      </event_mention>
+<event_mention id="em-390" type="transaction" subtype="transferownership" realis="other" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="2387" length="8">takeover</trigger>
+      </event_mention>
+<event_mention id="em-403" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="APW_ENG_20101214.0097" offset="2724" length="7">results</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

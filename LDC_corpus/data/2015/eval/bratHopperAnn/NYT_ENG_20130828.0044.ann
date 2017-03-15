@@ -1,0 +1,230 @@
+T1	Conflict_Attack 193 200	KILLING
+E817	Conflict_Attack:T1
+A1	Realis E817 Actual
+T2	Conflict_Attack 652 660	killings
+E229	Conflict_Attack:T2
+A2	Realis E229 Actual
+T3	Conflict_Attack 1076 1084	killings
+E876	Conflict_Attack:T3
+A3	Realis E876 Actual
+T4	Conflict_Attack 2249 2257	killings
+E273	Conflict_Attack:T4
+A4	Realis E273 Actual
+T5	Conflict_Attack 2693 2699	killed
+E198	Conflict_Attack:T5
+A5	Realis E198 Actual
+T6	Life_Die 193 200	KILLING
+E140	Life_Die:T6
+A6	Realis E140 Actual
+T7	Life_Die 652 660	killings
+E630	Life_Die:T7
+A7	Realis E630 Actual
+T8	Life_Die 1076 1084	killings
+E693	Life_Die:T8
+A8	Realis E693 Actual
+T9	Life_Die 2249 2257	killings
+E872	Life_Die:T9
+A9	Realis E872 Actual
+T10	Life_Die 2693 2699	killed
+E912	Life_Die:T10
+A10	Realis E912 Actual
+T11	Justice_Arrest-Jail 223 229	PRISON
+E703	Justice_Arrest-Jail:T11
+A11	Realis E703 Other
+T12	Justice_Arrest-Jail 439 445	prison
+E365	Justice_Arrest-Jail:T12
+A12	Realis E365 Other
+T13	Personnel_End-Position 269 275	former
+E235	Personnel_End-Position:T13
+A13	Realis E235 Actual
+T14	Personnel_End-Position 962 968	former
+E520	Personnel_End-Position:T14
+A14	Realis E520 Actual
+T15	Personnel_End-Position 2348 2354	former
+E400	Personnel_End-Position:T15
+A15	Realis E400 Actual
+T16	Conflict_Attack 393 396	war
+E739	Conflict_Attack:T16
+A16	Realis E739 Actual
+T17	Justice_Sentence 406 415	sentenced
+E716	Justice_Sentence:T17
+A17	Realis E716 Actual
+T18	Justice_Sentence 478 486	sentence
+E778	Justice_Sentence:T18
+A18	Realis E778 Actual
+T19	Justice_Sentence 1621 1629	sentence
+E360	Justice_Sentence:T19
+A19	Realis E360 Actual
+T20	Justice_Sentence 1744 1754	sentencing
+E625	Justice_Sentence:T20
+A20	Realis E625 Actual
+T21	Justice_Sentence 3083 3091	sentence
+E293	Justice_Sentence:T21
+A21	Realis E293 Actual
+T22	Movement_Transport-Person 450 461	immigration
+E864	Movement_Transport-Person:T22
+A22	Realis E864 Generic
+T23	Movement_Transport-Person 1255 1266	immigration
+E27	Movement_Transport-Person:T23
+A23	Realis E27 Generic
+T24	Movement_Transport-Person 1634 1645	immigration
+E534	Movement_Transport-Person:T24
+A24	Realis E534 Generic
+T25	Movement_Transport-Person 1924 1935	immigration
+E487	Movement_Transport-Person:T25
+A25	Realis E487 Generic
+T26	Justice_Extradite 550 561	extradition
+E941	Justice_Extradite:T26
+A26	Realis E941 Other
+T27	Justice_Extradite 734 745	extradition
+E57	Justice_Extradite:T27
+A27	Realis E57 Other
+T28	Justice_Extradite 1582 1593	extraditing
+E526	Justice_Extradite:T28
+A28	Realis E526 Other
+T29	Justice_Extradite 1653 1664	Extradition
+E647	Justice_Extradite:T29
+A29	Realis E647 Other
+T30	Justice_Extradite 1843 1854	extradition
+E955	Justice_Extradite:T30
+A30	Realis E955 Other
+T31	Movement_Transport-Person 550 561	extradition
+E888	Movement_Transport-Person:T31
+A31	Realis E888 Other
+T32	Movement_Transport-Person 734 745	extradition
+E507	Movement_Transport-Person:T32
+A32	Realis E507 Other
+T33	Movement_Transport-Person 1582 1593	extraditing
+E227	Movement_Transport-Person:T33
+A33	Realis E227 Other
+T34	Movement_Transport-Person 1653 1664	Extradition
+E156	Movement_Transport-Person:T34
+A34	Realis E156 Other
+T35	Movement_Transport-Person 1843 1854	extradition
+E336	Movement_Transport-Person:T35
+A35	Realis E336 Other
+T36	Justice_Trial-Hearing 634 639	trial
+E436	Justice_Trial-Hearing:T36
+A36	Realis E436 Other
+T37	Justice_Convict 889 898	convicted
+E372	Justice_Convict:T37
+A37	Realis E372 Other
+T38	Justice_Arrest-Jail 941 947	prison
+E654	Justice_Arrest-Jail:T38
+A38	Realis E654 Other
+T39	Justice_Arrest-Jail 1140 1148	arrested
+E296	Justice_Arrest-Jail:T39
+A39	Realis E296 Actual
+T40	Justice_Charge-Indict 1244 1251	charges
+E312	Justice_Charge-Indict:T40
+A40	Realis E312 Actual
+T41	Movement_Transport-Person 1966 1977	deportation
+E111	Movement_Transport-Person:T41
+A41	Realis E111 Other
+T42	Movement_Transport-Person 2056 2063	entered
+E720	Movement_Transport-Person:T42
+A42	Realis E720 Actual
+T43	Movement_Transport-Person 2173 2177	came
+E547	Movement_Transport-Person:T43
+A43	Realis E547 Actual
+T44	Justice_Pardon 2289 2296	amnesty
+E361	Justice_Pardon:T44
+A44	Realis E361 Actual
+T45	Movement_Transport-Person 2319 2323	left
+E108	Movement_Transport-Person:T45
+A45	Realis E108 Actual
+T46	Conflict_Attack 335 342	killing
+E924	Conflict_Attack:T46
+A46	Realis E924 Other
+T47	Conflict_Attack 2544 2548	kill
+E516	Conflict_Attack:T47
+A47	Realis E516 Other
+T48	Conflict_Attack 2912 2919	slaying
+E611	Conflict_Attack:T48
+A48	Realis E611 Actual
+T49	Life_Die 335 342	killing
+E670	Life_Die:T49
+A49	Realis E670 Other
+T50	Life_Die 2544 2548	kill
+E744	Life_Die:T50
+A50	Realis E744 Other
+T51	Life_Die 2912 2919	slaying
+E794	Life_Die:T51
+A51	Realis E794 Actual
+T52	Conflict_Attack 2705 2709	raid
+E834	Conflict_Attack:T52
+A52	Realis E834 Actual
+T53	Justice_Arrest-Jail 2831 2837	arrest
+E284	Justice_Arrest-Jail:T53
+A53	Realis E284 Other
+T54	Contact_Broadcast 2824 2830	issued
+E455	Contact_Broadcast:T54
+A54	Realis E455 Actual
+T55	Justice_Extradite 2965 2976	extradition
+E441	Justice_Extradite:T55
+A55	Realis E441 Other
+T56	Movement_Transport-Person 2965 2976	extradition
+E116	Movement_Transport-Person:T56
+A56	Realis E116 Other
+T57	Contact_Broadcast 3251 3260	statement
+E56	Contact_Broadcast:T57
+A57	Realis E56 Actual
+T58	Contact_Meet 1277 1284	perjury
+E343	Contact_Meet:T58
+A58	Realis E343 Actual
+T59	Contact_Meet 2007 2012	lying
+E349	Contact_Meet:T59
+A59	Realis E349 Actual
+T60	Contact_Contact 1516 1520	said
+E15	Contact_Contact:T60
+A60	Realis E15 Actual
+T61	Justice_Arrest-Jail 1610 1616	served
+E358	Justice_Arrest-Jail:T61
+A61	Realis E358 Other
+T62	Contact_Contact 2095 2099	said
+E44	Contact_Contact:T62
+A62	Realis E44 Actual
+T63	Contact_Contact 2276 2280	said
+E840	Contact_Contact:T63
+A63	Realis E840 Actual
+T64	Justice_Pardon 797 804	amnesty
+E168	Justice_Pardon:T64
+A64	Realis E168 Generic
+T65	Contact_Contact 2598 2611	collaborating
+E847	Contact_Contact:T65
+A65	Realis E847 Other
+T66	Contact_Contact 2951 2960	requested
+E446	Contact_Contact:T66
+A66	Realis E446 Actual
+R1	Coreference Arg1:E817 Arg2:E229
+R2	Coreference Arg1:E229 Arg2:E876
+R3	Coreference Arg1:E876 Arg2:E273
+R4	Coreference Arg1:E273 Arg2:E198
+R5	Coreference Arg1:E140 Arg2:E630
+R6	Coreference Arg1:E630 Arg2:E693
+R7	Coreference Arg1:E693 Arg2:E872
+R8	Coreference Arg1:E872 Arg2:E912
+R9	Coreference Arg1:E703 Arg2:E365
+R10	Coreference Arg1:E235 Arg2:E520
+R11	Coreference Arg1:E520 Arg2:E400
+R12	Coreference Arg1:E716 Arg2:E778
+R13	Coreference Arg1:E778 Arg2:E360
+R14	Coreference Arg1:E360 Arg2:E625
+R15	Coreference Arg1:E625 Arg2:E293
+R16	Coreference Arg1:E864 Arg2:E27
+R17	Coreference Arg1:E27 Arg2:E534
+R18	Coreference Arg1:E534 Arg2:E487
+R19	Coreference Arg1:E941 Arg2:E57
+R20	Coreference Arg1:E57 Arg2:E526
+R21	Coreference Arg1:E526 Arg2:E647
+R22	Coreference Arg1:E647 Arg2:E955
+R23	Coreference Arg1:E888 Arg2:E507
+R24	Coreference Arg1:E507 Arg2:E227
+R25	Coreference Arg1:E227 Arg2:E156
+R26	Coreference Arg1:E156 Arg2:E336
+R27	Coreference Arg1:E720 Arg2:E547
+R28	Coreference Arg1:E924 Arg2:E516
+R29	Coreference Arg1:E516 Arg2:E611
+R30	Coreference Arg1:E670 Arg2:E744
+R31	Coreference Arg1:E744 Arg2:E794
+R32	Coreference Arg1:E343 Arg2:E349

@@ -1,0 +1,60 @@
+T1	Contact_Contact 1540 1547	contact
+E99	Contact_Contact:T1
+A1	Realis E99 Other
+T2	Conflict_Attack 349 356	assault
+E140	Conflict_Attack:T2
+A2	Realis E140 Actual
+T3	Conflict_Attack 1853 1859	pinned
+E156	Conflict_Attack:T3
+A3	Realis E156 Actual
+T4	Contact_Broadcast 1633 1642	statement
+E164	Contact_Broadcast:T4
+A4	Realis E164 Actual
+T5	Justice_Charge-Indict 240 247	charges
+E172	Justice_Charge-Indict:T5
+A5	Realis E172 Actual
+T6	Movement_Transport-Person 1902 1909	leaving
+E183	Movement_Transport-Person:T6
+A6	Realis E183 Actual
+T7	Conflict_Attack 1873 1880	damaged
+E231	Conflict_Attack:T7
+A7	Realis E231 Actual
+T8	Conflict_Attack 655 666	destruction
+E297	Conflict_Attack:T8
+A8	Realis E297 Actual
+T9	Justice_Charge-Indict 542 549	charges
+E307	Justice_Charge-Indict:T9
+A9	Realis E307 Actual
+T10	Justice_Arrest-Jail 1437 1443	turned
+E389	Justice_Arrest-Jail:T10
+A10	Realis E389 Actual
+T11	Conflict_Attack 429 436	assault
+E396	Conflict_Attack:T11
+A11	Realis E396 Actual
+T12	Conflict_Attack 646 653	battery
+E448	Conflict_Attack:T12
+A12	Realis E448 Actual
+T13	Contact_Broadcast 1987 1996	statement
+E512	Contact_Broadcast:T13
+A13	Realis E512 Actual
+T14	Justice_Trial-Hearing 1031 1038	hearing
+E526	Justice_Trial-Hearing:T14
+A14	Realis E526 Actual
+T15	Justice_Charge-Indict 623 630	charges
+E691	Justice_Charge-Indict:T15
+A15	Realis E691 Actual
+T16	Justice_Charge-Indict 1317 1324	charges
+E786	Justice_Charge-Indict:T16
+A16	Realis E786 Actual
+T17	Conflict_Attack 634 641	assault
+E897	Conflict_Attack:T17
+A17	Realis E897 Actual
+T18	Justice_Arrest-Jail 1954 1962	arrested
+E898	Justice_Arrest-Jail:T18
+A18	Realis E898 Actual
+T19	Transaction_Transfer-Money 1490 1494	bail
+E913	Transaction_Transfer-Money:T19
+A19	Realis E913 Actual
+T20	Justice_Release-Parole 1471 1479	released
+E995	Justice_Release-Parole:T20
+A20	Realis E995 Actual

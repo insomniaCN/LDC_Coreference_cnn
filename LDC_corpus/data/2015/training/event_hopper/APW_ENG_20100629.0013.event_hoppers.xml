@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000553" doc_id="APW_ENG_20100629.0013" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="87" length="4">dies</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="283" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="333" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-49" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="204" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100629.0013" offset="322" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100629.0013" offset="611" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="business" subtype="startorg" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="535" length="10">foundation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="business" subtype="endorg" realis="other">
+        <trigger source="APW_ENG_20100629.0013" offset="797" length="5">close</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="APW_ENG_20100629.0013" offset="977" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-152" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="1450" length="6">merged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-167" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20100629.0013" offset="1485" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-182" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20100629.0013" offset="1954" length="10">made money</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-195" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20100629.0013" offset="2065" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-210" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20100629.0013" offset="2095" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-225" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100629.0013" offset="2113" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-253">
+      <event_mention id="em-240" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100629.0013" offset="2411" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-268">
+      <event_mention id="em-255" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100629.0013" offset="2598" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-283">
+      <event_mention id="em-270" type="life" subtype="beborn" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="2772" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-298">
+      <event_mention id="em-285" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="APW_ENG_20100629.0013" offset="2367" length="4">made</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-313">
+      <event_mention id="em-300" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="APW_ENG_20100629.0013" offset="1060" length="4">made</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-328">
+      <event_mention id="em-315" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="APW_ENG_20100629.0013" offset="1225" length="6">making</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-343">
+      <event_mention id="em-330" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="APW_ENG_20100629.0013" offset="1626" length="7">produce</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-358">
+      <event_mention id="em-345" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="2816" length="5">moved</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-373">
+      <event_mention id="em-360" type="business" subtype="startorg" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="2955" length="7">founded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-388">
+      <event_mention id="em-375" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100629.0013" offset="3254" length="7">telling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-403">
+      <event_mention id="em-390" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20100629.0013" offset="3452" length="9">interview</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-418">
+      <event_mention id="em-405" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100629.0013" offset="3648" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-433">
+      <event_mention id="em-420" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="APW_ENG_20100629.0013" offset="3840" length="9">took over</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,36 @@
+T1	Justice_Charge-Indict 138 146	indicted
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 277 285	indicted
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Justice_Charge-Indict 370 380	indictment
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 619 628	subsidies
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Justice_Charge-Indict 656 666	indictment
+E5	Justice_Charge-Indict:T5 
+T6	Personnel_Start-Position 483 492	recruited
+E6	Personnel_Start-Position:T6 
+A5	Realis E6 Actual
+T7	Movement_Transport-Person 743 751	returned
+E7	Movement_Transport-Person:T7 
+A6	Realis E7 Actual
+T8	Personnel_Start-Position 776 783	recruit
+E8	Personnel_Start-Position:T8 
+A7	Realis E8 Other
+A8	Questionable E8 Mention
+T9	Justice_Charge-Indict 1330 1338	indicted
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Justice_Charge-Indict 1342 1349	charges
+E10	Justice_Charge-Indict:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 1123 1126	pay
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Other
+T12	Movement_Transport-Person 1222 1233	deployments
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Generic

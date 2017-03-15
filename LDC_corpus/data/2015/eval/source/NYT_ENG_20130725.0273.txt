@@ -1,0 +1,49 @@
+<DOC id="NYT_ENG_20130725.0273" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130725/20130725,e5bf2841989db9a70e7c779f5f02ef66.xml">
+<HEADLINE>
+KILLER OF TWO UNDERCOVER DETECTIVES IS SENT BACK TO DEATH ROW
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+NEW YORK - Ronell Wilson, whose first death sentence for killing two undercover police detectives was overturned, was sentenced again Wednesday to die by a federal jury that heard gripping testimony about his time in jail, where he roamed freely after the shootings, intimidated fellow inmates and fathered a child with a guard.
+</P>
+<P>
+The anonymous jury took just five hours to reach its decision to return Wilson to federal death row, where no other New Yorker has served time in six decades.
+</P>
+<P>
+As the jury foreman responded to preliminary questions, Wilson, 31, slumped forward with his chin in his hands as the tension rose in the courtroom in U.S. District Court in Brooklyn. When the foreman finally said “yes” to the death penalty, Wilson looked over to his family. They wept as he was led away.
+</P>
+<P>
+Rodney Andrews Sr., the father of one of the victims, Detective Rodney J. Andrews, said that he was pleased with the outcome.
+</P>
+<P>
+“He’s proven that he’s not going to change,” Andrews said of Wilson.
+</P>
+<P>
+Andrews said that he wanted to watch Wilson’s execution, and when asked why, he replied, “For satisfaction.”
+</P>
+<P>
+The family of Detective James V. Nemorin, the other victim, did not attend court Wednesday.
+</P>
+<P>
+In a statement, the police commissioner, Raymond W. Kelly, said: “It was an assault on the society that those officers represented, and for that reason their murders had to be answered with the full force of punishment at society’s disposal.”
+</P>
+<P>
+Wilson’s lawyers declined to comment.
+</P>
+<P>
+Death penalty trials are exceedingly rare in New York, where the state’s highest court struck down the death penalty in 2004 and where capital cases at the federal level are often resolved before trial.
+</P>
+<P>
+On March 10, 2003, Wilson killed Andrews, 34, and Nemorin, 36, who were participating in a sting operation to buy an illegal gun. He shot each once in the back of the head at point-blank range on a secluded street on Staten Island.
+</P>
+<P>
+Federal prosecutors vigorously sought the death penalty against Wilson, taking the case from state prosecutors when capital punishment at the state level was invalidated. They won a death verdict in 2007, the first one in New York since 1953.
+</P>
+<P>
+The 2nd Circuit Court of Appeals overturned his death sentence in 2010. The panel commuted the sentence to life in prison without parole, but prosecutors decided to again seek death.
+</P>
+</TEXT>
+</DOC>

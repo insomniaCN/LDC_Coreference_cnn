@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000649" doc_id="WPB_ENG_20101228.0045" source_type="newswire">
+<event_mention id="em-10" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="62" length="5">Hangs</trigger>
+      </event_mention>
+<event_mention id="em-23" type="life" subtype="die" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="62" length="5">Hangs</trigger>
+      </event_mention>
+<event_mention id="em-38" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="232" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-51" type="life" subtype="die" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="232" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-66" type="justice" subtype="convict" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="249" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-79" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="WPB_ENG_20101228.0045" offset="396" length="8">reported</trigger>
+      </event_mention>
+<event_mention id="em-94" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="488" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-109" type="conflict" subtype="attack" realis="generic">
+        <trigger source="WPB_ENG_20101228.0045" offset="572" length="6">combat</trigger>
+      </event_mention>
+<event_mention id="em-124" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="WPB_ENG_20101228.0045" offset="714" length="3">met</trigger>
+      </event_mention>
+<event_mention id="em-139" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="802" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-154" type="life" subtype="die" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="802" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-169" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="911" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-182" type="life" subtype="die" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="911" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-195" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="951" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-210" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="WPB_ENG_20101228.0045" offset="1118" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-225" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="WPB_ENG_20101228.0045" offset="1173" length="7">visited</trigger>
+      </event_mention>
+<event_mention id="em-240" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="WPB_ENG_20101228.0045" offset="1222" length="4">meet</trigger>
+      </event_mention>
+<event_mention id="em-255" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="1288" length="10">executions</trigger>
+      </event_mention>
+<event_mention id="em-268" type="justice" subtype="sentence" realis="generic">
+        <trigger source="WPB_ENG_20101228.0045" offset="1350" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-283" type="justice" subtype="execute" realis="other">
+        <trigger source="WPB_ENG_20101228.0045" offset="1363" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-298" type="justice" subtype="convict" realis="generic">
+        <trigger source="WPB_ENG_20101228.0045" offset="1430" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-313" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="WPB_ENG_20101228.0045" offset="1404" length="6">saying</trigger>
+      </event_mention>
+<event_mention id="em-328" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="1509" length="6">hanged</trigger>
+      </event_mention>
+<event_mention id="em-343" type="life" subtype="die" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="1509" length="6">hanged</trigger>
+      </event_mention>
+<event_mention id="em-358" type="justice" subtype="convict" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="1528" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-373" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="WPB_ENG_20101228.0045" offset="1556" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-388" type="justice" subtype="execute" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="1639" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-403" type="life" subtype="die" realis="actual">
+        <trigger source="WPB_ENG_20101228.0045" offset="1639" length="8">executed</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000557" doc_id="APW_ENG_20100914.0967" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="101" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-49" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="318" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-92" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="536" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-105" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100914.0967" offset="573" length="4">beat</trigger>
+      </event_mention>
+      <event_mention id="em-161" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="782" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-333" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="2009" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-346" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="2044" length="8">fighting</trigger>
+      </event_mention>
+      <event_mention id="em-374" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="2217" length="5">fight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-75">
+      <event_mention id="em-62" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100914.0967" offset="343" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-189" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20100914.0967" offset="924" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-90">
+      <event_mention id="em-77" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="522" length="4">sued</trigger>
+      </event_mention>
+      <event_mention id="em-148" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="603" length="7">seeking</trigger>
+      </event_mention>
+      <event_mention id="em-447" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="1189" length="4">sued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-131">
+      <event_mention id="em-118" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100914.0967" offset="556" length="6">claims</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-146">
+      <event_mention id="em-202" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100914.0967" offset="1124" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-187">
+      <event_mention id="em-174" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="853" length="4">beat</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-228">
+      <event_mention id="em-215" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="1210" length="7">arrived</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-243">
+      <event_mention id="em-230" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="1346" length="7">arrived</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-258">
+      <event_mention id="em-245" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="814" length="8">pursuing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-273">
+      <event_mention id="em-260" type="conflict" subtype="attack" realis="generic">
+        <trigger source="APW_ENG_20100914.0967" offset="1640" length="6">attack</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-288">
+      <event_mention id="em-275" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20100914.0967" offset="1484" length="7">talking</trigger>
+      </event_mention>
+      <event_mention id="em-305" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20100914.0967" offset="1592" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-303">
+      <event_mention id="em-290" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20100914.0967" offset="1725" length="8">argument</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-331">
+      <event_mention id="em-318" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100914.0967" offset="1813" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-372">
+      <event_mention id="em-359" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="2185" length="6">charge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-400">
+      <event_mention id="em-387" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="2243" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-415">
+      <event_mention id="em-402" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100914.0967" offset="2314" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-430">
+      <event_mention id="em-417" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100914.0967" offset="662" length="4">fees</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-445">
+      <event_mention id="em-432" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100914.0967" offset="872" length="7">leaving</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

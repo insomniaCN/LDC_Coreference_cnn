@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20130629.0099" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130629/20130629,77d2f2cea1edc175ff58eafb450b1160.xml">
+<HEADLINE>
+AMERICAN AMONG 3 KILLED IN EGYPT AS UNREST SPREADS
+</HEADLINE>
+<TEXT>
+<P>
+EDS: CHANGES headline; EDITS 3rd graf to add name of State Dept. spokesman and confirmation of death; EDITS graf beginning “In recent days, both...” to detail U.S. travel advisory regarding Egypt; MINOR edits; (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+CAIRO - At least three people were killed and hundreds were injured across Egypt on Friday, as anti-government protesters ransacked Muslim Brotherhood offices and tens of thousands of supporters and opponents of President Mohammed Morsi held dueling rallies in the capital.
+</P>
+<P>
+While the protests in Cairo remained peaceful, deadly clashes erupted in the port city of Alexandria, where protesters set fire to the Brotherhood’s headquarters. Security officials said that among the victims was a U.S. citizen, a man stabbed to death near the headquarters.
+</P>
+<P>
+The security official said it was not clear who had attacked the man, and the official was not able to provide information about a second victim in the city. A State Department spokesman, Patrick Ventrell, confirmed that a U.S. citizen was killed in Alexandria but said he had no further information.
+</P>
+<P>
+The violence Friday provided a dark prelude to planned mass protests Sunday by Morsi’s opponents, who are demanding that the president step down and early elections be held. Fears about possible violence at the marches have preoccupied the country for weeks and further split Egypt’s deeply polarized political class.
+</P>
+<P>
+In recent days, both the army and Egypt’s highest religious authority have warned about the potential for deadly civil strife. On Friday, the United States warned its citizens to defer “nonessential” travel to Egypt and said it was allowing some of its embassy employees and their families to leave the country because of the political unrest.
+</P>
+<P>
+At least seven people have been killed in violent episodes over the past three days outside Cairo. The Muslim Brotherhood, Egypt’s largest Islamist party and the movement that brought Morsi to power, said several of its supporters were killed in attacks on its offices and on mosques. In Cairo, tens of thousands of people took to the streets in competing protests that remained separate, and as a result, largely peaceful. Anti-government protesters gathered in Tahrir Square, around the Defense Ministry and in front of the presidential palace, which has been ringed with new barriers, including concrete blocks and shipping containers.
+</P>
+<P>
+Calls for Morsi to resign have intensified as Egypt lurches from crisis to crisis, the most recent one over the endless gas lines that have clogged roads around the country.
+</P>
+</TEXT>
+</DOC>

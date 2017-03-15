@@ -1,0 +1,72 @@
+T1	Personnel_End-Position 312 318	former
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Justice_Extradite 500 510	extradited
+E2	Justice_Extradite:T2 
+A2	Realis E2 Other
+T3	Contact_Meet 1191 1198	meeting
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 1607 1614	arrived
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T6	Contact_Meet 1867 1874	meeting
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 2008 2014	travel
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Movement_Transport-Person 2180 2189	traveling
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Contact_Meet 2337 2341	meet
+E9	Contact_Meet:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 2875 2884	traveling
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Justice_Charge-Indict 3268 3275	charged
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Actual
+T12	Justice_Extradite 3620 3630	extradited
+E12	Justice_Extradite:T12 
+A12	Realis E12 Other
+T13	Justice_Charge-Indict 3695 3702	charges
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Ownership 2557 2566	delivered
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Actual
+T16	Conflict_Attack 468 475	torture
+E16	Conflict_Attack:T16 
+A16	Realis E16 Other
+T17	Justice_Execute 483 488	death
+E17	Justice_Execute:T17 
+A17	Realis E17 Other
+T18	Justice_Execute 827 832	death
+E18	Justice_Execute:T18 
+A18	Realis E18 Other
+T20	Justice_Charge-Indict 3381 3387	charge
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Actual
+T21	Justice_Execute 3556 3561	death
+E21	Justice_Execute:T21 
+A21	Realis E21 Generic
+T15	Justice_Sentence 489 496	penalty
+E15	Justice_Sentence:T15 
+A15	Realis E15 Other
+T22	Justice_Charge-Indict 778 785	accused
+E22	Justice_Charge-Indict:T22 
+A22	Realis E22 Other
+T23	Justice_Sentence 833 840	penalty
+E23	Justice_Sentence:T23 
+A23	Realis E23 Other
+T5	Justice_Sentence 3562 3569	penalty
+E5	Justice_Sentence:T5 
+A5	Realis E5 Generic
+T19	Justice_Arrest-Jail 3417 3426	in prison
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Other
+T24	Transaction_Transfer-Ownership 3345 3353	stealing
+E24	Transaction_Transfer-Ownership:T24 
+A24	Realis E24 Actual

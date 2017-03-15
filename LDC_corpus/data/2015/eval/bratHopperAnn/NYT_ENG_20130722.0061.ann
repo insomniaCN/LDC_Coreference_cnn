@@ -1,0 +1,123 @@
+T1	Transaction_Transfer-Ownership 212 219	TRADING
+E555	Transaction_Transfer-Ownership:T1
+A1	Realis E555 Generic
+T2	Transaction_Transfer-Ownership 311 318	trading
+E560	Transaction_Transfer-Ownership:T2
+A2	Realis E560 Generic
+T3	Transaction_Transfer-Ownership 522 529	Trading
+E829	Transaction_Transfer-Ownership:T3
+A3	Realis E829 Generic
+T4	Contact_Broadcast 450 454	said
+E136	Contact_Broadcast:T4
+A4	Realis E136 Actual
+T5	Transaction_Transfer-Ownership 614 621	traders
+E79	Transaction_Transfer-Ownership:T5
+A5	Realis E79 Generic
+T6	Transaction_Transfer-Ownership 1778 1785	traders
+E352	Transaction_Transfer-Ownership:T6
+A6	Realis E352 Generic
+T7	Transaction_Transfer-Ownership 688 695	trading
+E777	Transaction_Transfer-Ownership:T7
+A7	Realis E777 Generic
+T8	Transaction_Transfer-Ownership 1070 1077	trading
+E889	Transaction_Transfer-Ownership:T8
+A8	Realis E889 Generic
+T9	Transaction_Transfer-Ownership 2497 2504	trading
+E517	Transaction_Transfer-Ownership:T9
+A9	Realis E517 Generic
+T10	Transaction_Transfer-Ownership 2640 2647	trading
+E794	Transaction_Transfer-Ownership:T10
+A10	Realis E794 Generic
+T11	Transaction_Transfer-Ownership 431 438	Trading
+E822	Transaction_Transfer-Ownership:T11
+A11	Realis E822 Generic
+T12	Transaction_Transfer-Ownership 1441 1448	Trading
+E207	Transaction_Transfer-Ownership:T12
+A12	Realis E207 Generic
+T13	Justice_Fine 919 923	fine
+E551	Justice_Fine:T13
+A13	Realis E551 Actual
+T14	Transaction_Transaction 976 984	Exchange
+E269	Transaction_Transaction:T14
+A14	Realis E269 Generic
+T15	Transaction_Transaction 1085 1094	exchanges
+E810	Transaction_Transaction:T15
+A15	Realis E810 Generic
+T16	Transaction_Transaction 1561 1569	Exchange
+E147	Transaction_Transaction:T16
+A16	Realis E147 Generic
+T17	Transaction_Transfer-Money 991 998	penalty
+E19	Transaction_Transfer-Money:T17
+A17	Realis E19 Other
+T18	Transaction_Transfer-Ownership 1197 1204	trading
+E533	Transaction_Transfer-Ownership:T18
+A18	Realis E533 Generic
+T19	Transaction_Transfer-Ownership 2287 2294	trading
+E506	Transaction_Transfer-Ownership:T19
+A19	Realis E506 Generic
+T20	Transaction_Transfer-Ownership 2468 2475	trading
+E29	Transaction_Transfer-Ownership:T20
+A20	Realis E29 Generic
+T21	Contact_Correspondence 1340 1347	letters
+E927	Contact_Correspondence:T21
+A21	Realis E927 Actual
+T22	Transaction_Transfer-Ownership 1583 1590	trading
+E434	Transaction_Transfer-Ownership:T22
+A22	Realis E434 Generic
+T23	Contact_Contact 1618 1623	order
+E743	Contact_Contact:T23
+A23	Realis E743 Actual
+T24	Contact_Contact 1661 1666	order
+E924	Contact_Contact:T24
+A24	Realis E924 Actual
+T25	Transaction_Transfer-Money 1734 1737	buy
+E333	Transaction_Transfer-Money:T25
+A25	Realis E333 Generic
+T26	Transaction_Transfer-Money 1929 1932	buy
+E22	Transaction_Transfer-Money:T26
+A26	Realis E22 Generic
+T27	Transaction_Transfer-Ownership 1864 1868	sell
+E530	Transaction_Transfer-Ownership:T27
+A27	Realis E530 Generic
+T28	Contact_Broadcast 2367 2376	statement
+E518	Contact_Broadcast:T28
+A28	Realis E518 Actual
+T29	Contact_Broadcast 2559 2568	statement
+E275	Contact_Broadcast:T29
+A29	Realis E275 Actual
+T30	Contact_Broadcast 2477 2483	called
+E901	Contact_Broadcast:T30
+A30	Realis E901 Actual
+T31	Contact_Correspondence 2806 2810	said
+E476	Contact_Correspondence:T31
+A31	Realis E476 Actual
+T32	Contact_Contact 2838 2845	comment
+E903	Contact_Contact:T32
+A32	Realis E903 Other
+T33	Justice_Fine 478 487	penalties
+E544	Justice_Fine:T33
+A33	Realis E544 Actual
+T34	Transaction_Transfer-Money 478 487	penalties
+E420	Transaction_Transfer-Money:T34
+A34	Realis E420 Other
+T35	Transaction_Transfer-Money 919 923	fine
+E43	Transaction_Transfer-Money:T35
+A35	Realis E43 Other
+T36	Justice_Fine 991 998	penalty
+E418	Justice_Fine:T36
+A36	Realis E418 Actual
+R1	Coreference Arg1:E555 Arg2:E560
+R2	Coreference Arg1:E560 Arg2:E829
+R3	Coreference Arg1:E79 Arg2:E352
+R4	Coreference Arg1:E822 Arg2:E777
+R5	Coreference Arg1:E777 Arg2:E889
+R6	Coreference Arg1:E889 Arg2:E207
+R7	Coreference Arg1:E207 Arg2:E517
+R8	Coreference Arg1:E517 Arg2:E794
+R9	Coreference Arg1:E269 Arg2:E810
+R10	Coreference Arg1:E810 Arg2:E147
+R11	Coreference Arg1:E533 Arg2:E506
+R12	Coreference Arg1:E506 Arg2:E29
+R13	Coreference Arg1:E743 Arg2:E924
+R14	Coreference Arg1:E333 Arg2:E22
+R15	Coreference Arg1:E901 Arg2:E275

@@ -1,0 +1,54 @@
+T1	Justice_Charge-Indict 181 191	indictment
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 378 383	raped
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T4	Conflict_Attack 1222 1228	raping
+E4	Conflict_Attack:T4 
+A4	Realis E4 Generic
+T5	Conflict_Attack 1371 1377	Raping
+E5	Conflict_Attack:T5 
+A5	Realis E5 Generic
+T7	Personnel_End-Position 1872 1883	termination
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 2125 2131	raping
+E8	Conflict_Attack:T8 
+A8	Realis E8 Generic
+T9	Conflict_Attack 2310 2314	rape
+E9	Conflict_Attack:T9 
+A9	Realis E9 Generic
+T10	Conflict_Attack 2388 2394	raping
+E10	Conflict_Attack:T10 
+A10	Realis E10 Generic
+T11	Conflict_Attack 2565 2569	rape
+E11	Conflict_Attack:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 3017 3022	raped
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T14	Conflict_Attack 3774 3780	fought
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 3786 3789	war
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Life_Marry 3802 3809	married
+E16	Life_Marry:T16 
+A16	Realis E16 Actual
+T17	Life_Be-Born 3848 3860	had children
+E17	Life_Be-Born:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 4129 4134	raped
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 4141 4152	walked away
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 4161 4168	calling
+E20	Contact_Communicate:T20 
+A20	Realis E20 Other
+T21	Conflict_Attack 4236 4240	rape
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual

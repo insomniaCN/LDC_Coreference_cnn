@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20130715.0115" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130715/20130715,8f1441f1d8080c9c4c9544ed7b5635fc.xml">
+<HEADLINE>
+CALIFORNIA IS FACING MORE WOES ON PRISONS
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+LOS ANGELES - Just six months after declaring that “the prison crisis is over in California,” Gov. Jerry Brown is facing dire predictions about the future of the state’s prison system, one of the largest in the nation.
+</P>
+<P>
+A widespread inmate hunger strike against California’s policy of solitary confinement was approaching its second week on Sunday. The federal courts have demanded the release of nearly 10,000 inmates and the transfer of 2,600 others who are at risk of contracting a deadly disease in the state’s overcrowded prisons.
+</P>
+<P>
+State lawmakers have called for an investigation into a new report that nearly 150 women behind bars were coerced into being sterilized over the last decade. And last week, a federal judge ruled that prisoners were not receiving adequate medical care
+</P>
+<P>
+“It is like a tinderbox, and all you had to do is light a match,” said Jules Lobel, the president of the Center for Constitutional Rights and the lead lawyer in a federal lawsuit over solitary confinement. “They see the state has shown no willingness to change, even when the high court orders it. They have decided to circle the wagons and keep the system that exists today as intact as possible.”
+</P>
+<P>
+In many ways California prison system officials have been among the most reluctant to adapt systemic changes, experts say, doing so only when forced to by the federal courts. Even then, lawyers and advocates for prisoners say, the changes have come slowly and unevenly.
+</P>
+<P>
+Brown, a Democrat, has aggressively fought several federal court orders in the two years since the U.S. Supreme Court ruled that conditions and overcrowding in the system amounted to a violation of the Eighth Amendment - cruel and unusual punishment. Since then, federal judges overseeing the case have repeatedly declared that the state was not making changes quickly enough, and that conditions in the prisons remained appalling - that the state had been “deliberately indifferent.”
+</P>
+<P>
+The judges have twice threatened to hold the governor in contempt if he does not comply with their order to release prisoners. Last week, Brown appealed to the Supreme Court to stop the order, arguing that the system had already improved dramatically and that stopping the release of prisoners was essential for public safety.
+</P>
+</TEXT>
+</DOC>

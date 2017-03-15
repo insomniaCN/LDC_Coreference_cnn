@@ -1,0 +1,40 @@
+<DOC id="NYT_ENG_20130811.0032" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130811/20130811,5016b67d0ab2db4c8b6245d4a504d411.xml">
+<HEADLINE>
+ISRAELI HOUSING PLAN ADDS TO TENSIONS AHEAD OF TALKS
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+JERUSALEM - Israel published bids Sunday for the construction of more than 1,000 housing units in contested areas of East Jerusalem and several large West Bank settlements, intensifying the already charged atmosphere three days before the resumption of Israeli-Palestinian peace talks here and hours before Israel was to announce the names of Palestinian prisoners to be released this week.
+</P>
+<P>
+While the planning and building of settlements have continued in the months preceding the talks, causing constant friction, Prime Minister Benjamin Netanyahu’s new governing coalition had so far refrained from issuing construction bids since it was formed in March. The publishing of bids is the final bureaucratic stage before new construction can begin.
+</P>
+<P>
+Uri Ariel, the housing minister, announced the contentious move while Netanyahu was recovering in a hospital after overnight surgery for a hernia.
+</P>
+<P>
+“The government of Israel is working to bring down the cost of living in all parts of the country,” Ariel, a member of the pro-settlement Jewish Home Party, said in a statement.
+</P>
+<P>
+“No country in the world accepts dictates from other countries about where it is allowed to build and where not,” he continued, responding to the international condemnation of Israel’s continuing efforts to build up the settlements.
+</P>
+<P>
+The prime minister’s office offered no immediate comment.
+</P>
+<P>
+The settlement move appeared intended to appease the right-wing members of the Israeli government ahead of the expected release this week of 26 Palestinian prisoners who have served 20 years or more in prison for deadly attacks against Israelis. Later on Sunday, a ministerial committee was expected to complete the list of those to be released on Tuesday.
+</P>
+<P>
+The decision to release 104 prisoners over the coming months is deeply unpopular in Israel. Netanyahu has explained it as a gesture that was necessary to persuade the Palestinian leadership to agree to resume long-stalled negotiations and that was preferable to acceding to other Palestinian demands like a settlement freeze.
+</P>
+<P>
+But it appears that the talks Wednesday will be taking place amid a storm of mutual recrimination.
+</P>
+<P>
+Muhammad Shtayyeh, a senior Palestinian negotiator, issued a statement Sunday saying, “It is clear that the Israeli government is deliberately attempting to sabotage U.S. and international efforts to resume negotiations.” Israel, he continued, “continues to use peace negotiations as a smoke screen for more settlement construction.”
+</P>
+</TEXT>
+</DOC>

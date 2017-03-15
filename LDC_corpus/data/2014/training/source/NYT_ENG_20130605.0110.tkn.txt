@@ -1,0 +1,31 @@
+<DOC id= " NYT_ENG_20130605.0110 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130605 / 20130605,5f485f81 acc587eaf54b4eb2e89e41e3 . xml " > 
+<HEADLINE> 
+LOPEZ IS SAID TO BE FINED OVER SEXUAL HARASSMENT COMPLAINTS 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+A New York legislative ethics panel will impose the largest fine in its history on former Assemblyman Vito J . Lopez for reportedly sexually harassing several of his former employees , people briefed on the decision said .
+< / P> 
+<P> 
+The fine is said to be $ 330,000 , although the figure has not been officially released .
+< / P> 
+<P> 
+Lopez was the subject of a scathing report released last month by the state ’s Joint Commission on Public Ethics . Under state law , it was left to a panel of lawmakers called the Legislative Ethics Commission to fine Lopez for violating the state ’s Public Officers Law . The fine was reported Tuesday by Newsday .
+< / P> 
+<P> 
+The penalty is unlikely to personally cost Lopez , since he can pay it using his campaign funds . He had more than $ 1 million in his campaign account at his last filing in January .
+< / P> 
+<P> 
+Lopez declined to attend a private hearing held Tuesday . His lawyer , Gerald B . Lefcourt , expressed anger that Lopez ’s legal team has not been allowed to cross-examine his accusers .
+< / P> 
+<P> 
+“ This is a total , laughable lack of due process by people who are supposed to care about the law , ” he said . “ It is all politics . ” 
+< / P> 
+<P> 
+The joint commission ’s report detailed Lopez ’s behavior with eight female employees , including accusations of physical sexual assault and pressuring women to stay with him in hotel rooms or apartments . He was also accused of creating a pervasive atmosphere of sexual hostility , pressuring women to dress provocatively and massage him .
+< / P> 
+<P> 
+Lopez , the former Brooklyn Democratic chairman , resigned last month under pressure after the report came out and has said he plans to run for City Council . The legislative commission can pursue legal action if Lopez refuses to pay .
+< / P> 
+< / TEXT> 
+< / DOC

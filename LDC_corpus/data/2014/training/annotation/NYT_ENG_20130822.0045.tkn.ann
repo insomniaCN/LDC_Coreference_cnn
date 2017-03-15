@@ -1,0 +1,37 @@
+T1	Transaction_Transfer-Ownership 492 499	trading
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Ownership 692 699	trading
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Ownership 1014 1021	trading
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Generic
+T4	Transaction_Transfer-Ownership 1676 1683	trading
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Generic
+T5	Transaction_Transfer-Ownership 1714 1721	trading
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Generic
+T6	Contact_Communicate 1964 1971	calling
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 221 228	TRADING
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Ownership 873 880	Trading
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Ownership 1365 1372	trading
+E9	Transaction_Transfer-Ownership:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Ownership 1646 1652	traded
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Generic
+A11	Questionable E6 Realis
+T11	Transaction_Transfer-Ownership 2326 2333	trading
+E11	Transaction_Transfer-Ownership:T11 
+A12	Realis E11 Generic
+T12	Contact_Communicate 2035 2046	get through
+E12	Contact_Communicate:T12 
+A13	Realis E12 Other

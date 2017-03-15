@@ -1,0 +1,94 @@
+T1	Contact_Broadcast 905 909	said
+E477	Contact_Broadcast:T1
+A1	Realis E477 Actual
+T2	Contact_Meet 1619 1624	forum
+E835	Contact_Meet:T2
+A2	Realis E835 Actual
+T3	Contact_Meet 3724 3731	hearing
+E497	Contact_Meet:T3
+A3	Realis E497 Actual
+T4	Justice_Trial-Hearing 1839 1846	hearing
+E642	Justice_Trial-Hearing:T4
+A4	Realis E642 Other
+T5	Justice_Trial-Hearing 1863 1881	cross examinations
+E129	Justice_Trial-Hearing:T5
+A5	Realis E129 Other
+T6	Contact_Contact 2149 2153	said
+E933	Contact_Contact:T6
+A6	Realis E933 Actual
+T7	Personnel_End-Position 2485 2491	former
+E592	Personnel_End-Position:T7
+A7	Realis E592 Actual
+T8	Transaction_Transfer-Money 2741 2753	compensation
+E841	Transaction_Transfer-Money:T8
+A8	Realis E841 Other
+T9	Transaction_Transfer-Money 3174 3186	compensation
+E998	Transaction_Transfer-Money:T9
+A9	Realis E998 Other
+T10	Movement_Transport-Person 2809 2816	traffic
+E17	Movement_Transport-Person:T10
+A10	Realis E17 Generic
+T11	Transaction_Transfer-Ownership 3691 3698	swapped
+E728	Transaction_Transfer-Ownership:T11
+A11	Realis E728 Actual
+T12	Contact_Contact 3784 3791	talking
+E737	Contact_Contact:T12
+A12	Realis E737 Other
+T13	Contact_Contact 185 189	told
+E392	Contact_Contact:T13
+A13	Realis E392 Actual
+T14	Manufacture_Artifact 1493 1498	build
+E155	Manufacture_Artifact:T14
+A14	Realis E155 Other
+T15	Manufacture_Artifact 399 410	development
+E630	Manufacture_Artifact:T15
+A15	Realis E630 Other
+T16	Manufacture_Artifact 1281 1292	development
+E946	Manufacture_Artifact:T16
+A16	Realis E946 Other
+T17	Manufacture_Artifact 691 702	development
+E340	Manufacture_Artifact:T17
+A17	Realis E340 Other
+T18	Contact_Broadcast 457 462	claim
+E30	Contact_Broadcast:T18
+A18	Realis E30 Actual
+T19	Contact_Broadcast 637 643	saying
+E257	Contact_Broadcast:T19
+A19	Realis E257 Actual
+T20	Contact_Correspondence 1863 1881	cross examinations
+E498	Contact_Correspondence:T20
+A20	Realis E498 Other
+T21	Contact_Contact 1965 1968	say
+E958	Contact_Contact:T21
+A21	Realis E958 Other
+T22	Contact_Contact 2544 2550	argued
+E851	Contact_Contact:T22
+A22	Realis E851 Actual
+T23	Contact_Broadcast 1335 1340	claim
+E931	Contact_Broadcast:T23
+A23	Realis E931 Actual
+T24	Manufacture_Artifact 2951 2962	development
+E376	Manufacture_Artifact:T24
+A24	Realis E376 Generic
+T25	Contact_Contact 2978 2987	negotiate
+E944	Contact_Contact:T25
+A25	Realis E944 Other
+T26	Contact_Contact 3022 3034	negotiations
+E18	Contact_Contact:T26
+A26	Realis E18 Other
+T27	Contact_Contact 2994 3000	asking
+E881	Contact_Contact:T27
+A27	Realis E881 Other
+T28	Contact_Contact 3060 3071	arbitration
+E415	Contact_Contact:T28
+A28	Realis E415 Generic
+T29	Contact_Contact 3585 3589	said
+E398	Contact_Contact:T29
+A29	Realis E398 Actual
+R1	Coreference Arg1:E835 Arg2:E497
+R2	Coreference Arg1:E642 Arg2:E129
+R3	Coreference Arg1:E841 Arg2:E998
+R4	Coreference Arg1:E630 Arg2:E340
+R5	Coreference Arg1:E340 Arg2:E946
+R6	Coreference Arg1:E946 Arg2:E155
+R7	Coreference Arg1:E944 Arg2:E18

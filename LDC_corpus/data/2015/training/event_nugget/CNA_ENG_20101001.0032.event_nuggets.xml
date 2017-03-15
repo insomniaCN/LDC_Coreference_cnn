@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589764a0000000000000047" doc_id="CNA_ENG_20101001.0032" source_type="newswire">
+<event_mention id="em-54" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="263" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-67" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="70" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-80" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="762" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-93" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1587" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-106" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="311" length="9">detention</trigger>
+      </event_mention>
+<event_mention id="em-119" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="106" length="9">detention</trigger>
+      </event_mention>
+<event_mention id="em-132" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="568" length="8">detained</trigger>
+      </event_mention>
+<event_mention id="em-145" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="370" length="4">held</trigger>
+      </event_mention>
+<event_mention id="em-158" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="669" length="10">detainment</trigger>
+      </event_mention>
+<event_mention id="em-171" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="787" length="8">detained</trigger>
+      </event_mention>
+<event_mention id="em-184" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="324" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-197" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="650" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-210" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1148" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-223" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1544" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-236" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="CNA_ENG_20101001.0032" offset="1125" length="8">released</trigger>
+      </event_mention>
+<event_mention id="em-249" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="CNA_ENG_20101001.0032" offset="1467" length="7">release</trigger>
+      </event_mention>
+<event_mention id="em-262" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1182" length="8">remitted</trigger>
+      </event_mention>
+<event_mention id="em-275" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1024" length="8">remitted</trigger>
+      </event_mention>
+<event_mention id="em-288" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1500" length="8">returned</trigger>
+      </event_mention>
+<event_mention id="em-301" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20101001.0032" offset="435" length="10">laundering</trigger>
+      </event_mention>
+<event_mention id="em-314" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20101001.0032" offset="1300" length="9">laundered</trigger>
+      </event_mention>
+<event_mention id="em-327" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20101001.0032" offset="1730" length="10">laundering</trigger>
+      </event_mention>
+<event_mention id="em-340" type="justice" subtype="sentence" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1774" length="9">sentences</trigger>
+      </event_mention>
+<event_mention id="em-353" type="justice" subtype="sentence" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1823" length="9">sentences</trigger>
+      </event_mention>
+<event_mention id="em-366" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="446" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-379" type="movement" subtype="transportperson" realis="other">
+        <trigger source="CNA_ENG_20101001.0032" offset="907" length="7">fleeing</trigger>
+      </event_mention>
+<event_mention id="em-392" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1601" length="8">returned</trigger>
+      </event_mention>
+<event_mention id="em-405" type="justice" subtype="appeal" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="2017" length="8">appealed</trigger>
+      </event_mention>
+<event_mention id="em-418" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="CNA_ENG_20101001.0032" offset="495" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-431" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="CNA_ENG_20101001.0032" offset="982" length="11">pointed out</trigger>
+      </event_mention>
+<event_mention id="em-444" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="CNA_ENG_20101001.0032" offset="1008" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-457" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1336" length="6">losses</trigger>
+      </event_mention>
+<event_mention id="em-470" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1364" length="4">fees</trigger>
+      </event_mention>
+<event_mention id="em-483" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1373" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-496" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="CNA_ENG_20101001.0032" offset="1481" length="4">bail</trigger>
+      </event_mention>
+<event_mention id="em-509" type="justice" subtype="convict" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="1689" length="6">guilty</trigger>
+      </event_mention>
+<event_mention id="em-522" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="CNA_ENG_20101001.0032" offset="2030" length="7">verdict</trigger>
+      </event_mention>
+<event_mention id="em-535" type="justice" subtype="convict" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="2030" length="7">verdict</trigger>
+      </event_mention>
+<event_mention id="em-548" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="CNA_ENG_20101001.0032" offset="1624" length="9">Detention</trigger>
+      </event_mention>
+<event_mention id="em-561" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="91" length="2">ex</trigger>
+      </event_mention>
+<event_mention id="em-574" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="446" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-587" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="CNA_ENG_20101001.0032" offset="533" length="6">ruling</trigger>
+      </event_mention>
+<event_mention id="em-600" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20101001.0032" offset="942" length="4">been</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

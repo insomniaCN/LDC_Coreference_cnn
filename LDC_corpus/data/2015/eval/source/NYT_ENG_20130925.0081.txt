@@ -1,0 +1,67 @@
+<DOC id="NYT_ENG_20130925.0081" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130925/20130925,47b26124b8a21a9fe0e6fe13cc264e58.xml">
+<HEADLINE>
+Obama nominates
+</HEADLINE>
+<TEXT>
+<P>
+EDNOTES: (FOR USE BY NEW YORK TIMES NEWS SERVICE CLIENTS)
+</P>
+<P>
+3 lawyers to federal judgeships in Mass. © 2013 The New York Times
+</P>
+<P>
+Addressing long-term vacancies in the federal court system in Massachusetts, the White House has nominated three lawyers for federal judgeships in the state, including the recommendation of Hampden District Attorney Mark G. Mastroianni to a US District Court post in Springfield.
+</P>
+<P>
+In addition to Mastroianni, the White House nominated attorney Indira Talwani to the US District Court in Boston, and tapped Harvard Law School professor David Jeremiah Barron -- a former Department of Justice lawyer -- for appointment to the US Court of Appeals for the First Circuit.
+</P>
+<P>
+The nominations, announced Tuesday, will be sent to the Senate Judiciary Committee for confirmation.
+</P>
+<P>
+''Both nominees .Â .Â . are talented and highly respected practitioners with diverse professional backgrounds, strong ties to the community, and impressive legal careers,'' said Senator Elizabeth Warren, who commissioned an advisory committee that recommended Talwani and Mastroianni.
+</P>
+<P>
+She also praised the nomination of Barron, saying he ''is a highly respected law professor and former government official with a strong commitment to public service.''
+</P>
+<P>
+In nominating Barron, President Obama said in a statement that he ''has displayed exceptional dedication to the legal profession through his work. .Â .Â . He will be a diligent, judicious, and esteemed addition to the First Circuit bench.''
+</P>
+<P>
+Barron is married to former Globe editorial columnist Juliette Kayyem, a candidate for Massachusetts governor. In addition to teaching at Harvard, he served for 18 months in the Obama administration as acting assistant attorney general in the Department of Justice.
+</P>
+<P>
+Barron came under criticism in October 2011 for drafting the Obama administration’s secret legal memorandum that justified the controversial killing, without a trial, of the American-born Anwar al-Awlaki, the radical Muslim cleric hiding in Yemen. He was killed in spite of an executive order banning assassinations. The White House defended the memorandum and the killing.
+</P>
+<P>
+Barron’s nomination was supported by lifelong Republican John F. Manning, a colleague at Harvard Law School, as well as Charles Fried, also a Harvard professor and solicitor general to President Reagan.
+</P>
+<P>
+If his nomination is approved, Barron would replace Court of Appeals Judge Michael Boudin, who assumed senior status, or semiretired status, in June. Boudin, who has sat on the court since 1992, was the author of the First Circuit’s historic decision that struck down the federal Defense of Marriage Act in 2012. The Supreme Court, in a separate case, later ruled the law unconstitutional.
+</P>
+<P>
+Mastroianni, a former state prosecutor and private lawyer who became district attorney in 2011, was nominated to replace US District Court Michael Ponsor, the Springfield sitting federal judge who took senior status in August 2011. And Talwani, a private lawyer who focuses on civil litigation, was tapped to replace US District Court Judge Mark L. Wolf, who took senior status in January.
+</P>
+<P>
+''These individuals have demonstrated the talent, expertise, and fair-mindedness Americans expect and deserve from their judicial system,'' Obama said. ''I am grateful for their willingness to serve and confident that they will apply the law with the utmost impartiality and integrity.''
+</P>
+<P>
+According to campaign finance reports, Barron and Talwani have donated to federal political candidates: Barron gave $4,000 to Obama and $1,500 to Warren. He has also given to Representative Joseph Kennedy III and Senator Edward J. Markey.
+</P>
+<P>
+Talwani gave $200 to Warren in 2011 and $1,000 to Secretary of State John F. Kerry’s presidential campaign in 2004.
+</P>
+<P>
+Retired US District Court Judge Nancy Gertner, who teaches at Harvard Law and headed Warren’s advisory committee that made the recommendations to Obama, said the panel worked quickly so that the positions would be filled.
+</P>
+<P>
+But, she said, the committee also took caution to follow Warren’s call for nominations with diverse backgrounds: not only in race and gender, but also in their legal backgrounds. Gertner said a priority was to find potential judges who did not have the typical background of being a federal prosecutor or coming from a large law firm.
+</P>
+<P>
+''The senator very much wanted to improve the diversity of the bench, not just racial and gender, but with economic diversity, and people who had different histories,'' Gertner said. ''There’s a perspective that is missing on the bench, so we were charged with trying to do something about background diversity, and I’m very proud of my senator and very proud of my committee.''
+</P>
+<P>
+The federal court in Boston has a vacancy following US District Court Judge Joseph Tauro’s announcement in August that he will go on senior status.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+T1	Transaction_Transfer-Ownership 1583 1588	donor
+E33	Transaction_Transfer-Ownership:T1
+A1	Realis E33 Generic
+T2	Contact_Broadcast 1458 1466	reported
+E90	Contact_Broadcast:T2
+A2	Realis E90 Actual
+T3	Contact_Broadcast 1129 1138	statement
+E298	Contact_Broadcast:T3
+A3	Realis E298 Actual
+T4	Movement_Transport-Person 802 809	visited
+E312	Movement_Transport-Person:T4
+A4	Realis E312 Actual
+T5	Transaction_Transfer-Money 1633 1637	sale
+E319	Transaction_Transfer-Money:T5
+A5	Realis E319 Other
+T6	Contact_Broadcast 839 848	confirmed
+E530	Contact_Broadcast:T6
+A6	Realis E530 Actual
+T7	Transaction_Transfer-Money 532 536	sell
+E723	Transaction_Transfer-Money:T7
+A7	Realis E723 Other
+T8	Transaction_Transfer-Money 1342 1345	pay
+E844	Transaction_Transfer-Money:T8
+A8	Realis E844 Other
+T9	Business_Declare-Bankruptcy 301 311	bankruptcy
+E894	Business_Declare-Bankruptcy:T9
+A9	Realis E894 Actual
+T10	Transaction_Transfer-Ownership 1633 1637	sale
+E918	Transaction_Transfer-Ownership:T10
+A10	Realis E918 Other
+T11	Business_Declare-Bankruptcy 739 749	bankruptcy
+E920	Business_Declare-Bankruptcy:T11
+A11	Realis E920 Actual
+T12	Transaction_Transfer-Ownership 532 536	sell
+E947	Transaction_Transfer-Ownership:T12
+A12	Realis E947 Other

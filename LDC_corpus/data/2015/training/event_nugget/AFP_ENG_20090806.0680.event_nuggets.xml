@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976370000000000000024" doc_id="AFP_ENG_20090806.0680" source_type="newswire">
+<event_mention id="em-38" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="1258" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-51" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="824" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-64" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="2481" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-77" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="3952" length="11">appointment</trigger>
+      </event_mention>
+<event_mention id="em-90" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="3275" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-103" type="justice" subtype="appeal" realis="generic">
+        <trigger source="AFP_ENG_20090806.0680" offset="3502" length="7">appeals</trigger>
+      </event_mention>
+<event_mention id="em-116" type="justice" subtype="appeal" realis="generic">
+        <trigger source="AFP_ENG_20090806.0680" offset="387" length="7">appeals</trigger>
+      </event_mention>
+<event_mention id="em-129" type="personnel" subtype="startposition" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="414" length="6">become</trigger>
+      </event_mention>
+<event_mention id="em-142" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="3553" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-155" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090806.0680" offset="1427" length="10">conference</trigger>
+      </event_mention>
+<event_mention id="em-168" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="787" length="6">debate</trigger>
+      </event_mention>
+<event_mention id="em-181" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="1013" length="8">declared</trigger>
+      </event_mention>
+<event_mention id="em-194" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="1154" length="4">warn</trigger>
+      </event_mention>
+<event_mention id="em-207" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090806.0680" offset="1505" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-220" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="2464" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-233" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="2798" length="9">announced</trigger>
+      </event_mention>
+<event_mention id="em-246" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="3196" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-259" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="3638" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-272" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="913" length="7">comment</trigger>
+      </event_mention>
+<event_mention id="em-285" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090806.0680" offset="1400" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-298" type="personnel" subtype="startposition" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="1576" length="7">confirm</trigger>
+      </event_mention>
+<event_mention id="em-311" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="1618" length="8">migrants</trigger>
+      </event_mention>
+<event_mention id="em-326" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="3076" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-341" type="personnel" subtype="startposition" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="2826" length="12">confirmation</trigger>
+      </event_mention>
+<event_mention id="em-354" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090806.0680" offset="1962" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-369" type="personnel" subtype="startposition" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="233" length="12">confirmation</trigger>
+      </event_mention>
+<event_mention id="em-382" type="personnel" subtype="elect" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="1210" length="9">elections</trigger>
+      </event_mention>
+<event_mention id="em-397" type="personnel" subtype="elect" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="1806" length="9">elections</trigger>
+      </event_mention>
+<event_mention id="em-410" type="personnel" subtype="elect" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="1842" length="4">vote</trigger>
+      </event_mention>
+<event_mention id="em-425" type="personnel" subtype="elect" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="2161" length="4">vote</trigger>
+      </event_mention>
+<event_mention id="em-440" type="personnel" subtype="elect" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="2591" length="4">vote</trigger>
+      </event_mention>
+<event_mention id="em-453" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090806.0680" offset="2687" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-466" type="personnel" subtype="elect" realis="other">
+        <trigger source="AFP_ENG_20090806.0680" offset="2699" length="4">vote</trigger>
+      </event_mention>
+<event_mention id="em-479" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="AFP_ENG_20090806.0680" offset="3911" length="8">approved</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

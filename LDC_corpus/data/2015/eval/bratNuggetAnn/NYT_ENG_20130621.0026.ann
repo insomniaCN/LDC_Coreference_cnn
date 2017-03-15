@@ -1,0 +1,114 @@
+T1	Life_Die 214 218	DIES
+E34	Life_Die:T1
+A1	Realis E34 Actual
+T2	Life_Die 956 963	lynched
+E39	Life_Die:T2
+A2	Realis E39 Actual
+T3	Movement_Transport-Person 2312 2326	slipped across
+E64	Movement_Transport-Person:T3
+A3	Realis E64 Actual
+T4	Life_Die 456 460	died
+E69	Life_Die:T4
+A4	Realis E69 Actual
+T5	Personnel_End-Position 262 268	former
+E95	Personnel_End-Position:T5
+A5	Realis E95 Actual
+T6	Conflict_Demonstrate 929 935	revolt
+E107	Conflict_Demonstrate:T6
+A6	Realis E107 Actual
+T7	Life_Die 543 548	death
+E118	Life_Die:T7
+A7	Realis E118 Actual
+T8	Personnel_Elect 4211 4219	election
+E120	Personnel_Elect:T8
+A8	Realis E120 Generic
+T9	Conflict_Attack 3018 3024	killed
+E122	Conflict_Attack:T9
+A9	Realis E122 Actual
+T10	Justice_Execute 743 751	executed
+E157	Justice_Execute:T10
+A10	Realis E157 Actual
+T11	Justice_Arrest-Jail 3537 3543	arrest
+E170	Justice_Arrest-Jail:T11
+A11	Realis E170 Generic
+T12	Personnel_Elect 4129 4136	elected
+E213	Personnel_Elect:T12
+A12	Realis E213 Actual
+T19	Personnel_Start-Position 3330 3337	working
+E222	Personnel_Start-Position:T19
+A19	Realis E222 Actual
+T14	Contact_Broadcast 529 538	announced
+E239	Contact_Broadcast:T14
+A14	Realis E239 Actual
+T15	Personnel_End-Position 4428 4440	stepped down
+E250	Personnel_End-Position:T15
+A15	Realis E250 Actual
+T16	Conflict_Demonstrate 3440 3448	rebelled
+E319	Conflict_Demonstrate:T16
+A16	Realis E319 Actual
+T17	Conflict_Attack 956 963	lynched
+E322	Conflict_Attack:T17
+A17	Realis E322 Actual
+T18	Movement_Transport-Person 2241 2247	return
+E336	Movement_Transport-Person:T18
+A18	Realis E336 Generic
+T19	Personnel_Start-Position 3330 3337	working
+E343	Personnel_Start-Position:T19
+A19	Realis E343 Actual
+T20	Personnel_Elect 1190 1197	Elected
+E395	Personnel_Elect:T20
+A20	Realis E395 Actual
+T21	Life_Die 3018 3024	killed
+E408	Life_Die:T21
+A21	Realis E408 Actual
+T22	Personnel_Start-Position 3190 3194	work
+E433	Personnel_Start-Position:T22
+A22	Realis E433 Actual
+T23	Movement_Transport-Person 3096 3100	sent
+E450	Movement_Transport-Person:T23
+A23	Realis E450 Actual
+T24	Conflict_Demonstrate 3786 3794	uprising
+E454	Conflict_Demonstrate:T24
+A24	Realis E454 Actual
+T25	Personnel_Start-Position 3048 3052	work
+E537	Personnel_Start-Position:T25
+A25	Realis E537 Actual
+T26	Contact_Meet 2185 2189	meet
+E611	Contact_Meet:T26
+A26	Realis E611 Generic
+T27	Conflict_Attack 3626 3630	hurt
+E653	Conflict_Attack:T27
+A27	Realis E653 Other
+T28	Movement_Transport-Person 3178 3186	returned
+E663	Movement_Transport-Person:T28
+A28	Realis E663 Actual
+T29	Life_Die 743 751	executed
+E690	Life_Die:T29
+A29	Realis E690 Actual
+T30	Movement_Transport-Person 2480 2485	cross
+E727	Movement_Transport-Person:T30
+A30	Realis E727 Generic
+T31	Contact_Broadcast 2435 2444	announced
+E795	Contact_Broadcast:T31
+A31	Realis E795 Actual
+T32	Movement_Transport-Person 2166 2170	gone
+E796	Movement_Transport-Person:T32
+A32	Realis E796 Generic
+T33	Life_Injure 3626 3630	hurt
+E807	Life_Injure:T33
+A33	Realis E807 Other
+T34	Personnel_End-Position 2709 2715	former
+E818	Personnel_End-Position:T34
+A34	Realis E818 Actual
+T35	Contact_Contact 2050 2054	said
+E860	Contact_Contact:T35
+A35	Realis E860 Actual
+T36	Life_Beborn 2871 2875	born
+E874	Life_Beborn:T36
+A36	Realis E874 Actual
+T37	Personnel_Start-Position 4076 4082	became
+E926	Personnel_Start-Position:T37
+A37	Realis E926 Actual
+T38	Personnel_Start-Position 3238 3244	joined
+E938	Personnel_Start-Position:T38
+A38	Realis E938 Actual

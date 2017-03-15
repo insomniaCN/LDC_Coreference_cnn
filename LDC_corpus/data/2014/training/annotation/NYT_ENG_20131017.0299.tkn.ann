@@ -1,0 +1,75 @@
+T1	Personnel_End-Position 202 208	FORMER
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 228 235	CHARGED
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 260 268	UPRISING
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 321 328	charged
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 347 353	former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 462 470	uprising
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 635 643	shooting
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Life_Die 783 789	killed
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Justice_Arrest-Jail 794 802	arrested
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 814 822	uprising
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Justice_Convict 828 837	convicted
+E11	Justice_Convict:T11 
+A11	Realis E11 Other
+T12	Justice_Sentence 856 865	sentenced
+E12	Justice_Sentence:T12 
+A12	Realis E12 Other
+T13	Justice_Arrest-Jail 877 883	prison
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Other
+T14	Justice_Charge-Indict 903 910	charges
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Actual
+T15	Justice_Charge-Indict 1092 1099	charged
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Actual
+T16	Life_Die 1167 1175	genocide
+E16	Life_Die:T16 
+A16	Realis E16 Generic
+T17	Justice_Charge-Indict 1217 1223	charge
+E17	Justice_Charge-Indict:T17 
+A17	Realis E17 Actual
+T18	Justice_Trial-Hearing 1267 1272	tried
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Actual
+T19	Life_Die 1277 1285	executed
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Personnel_End-Position 1322 1325	was
+E20	Personnel_End-Position:T20 
+A20	Realis E20 Actual
+T21	Justice_Charge-Indict 1379 1386	charged
+E21	Justice_Charge-Indict:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1641 1651	withdrawal
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Other
+T23	Conflict_Attack 1749 1757	uprising
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 1799 1808	repressed
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 390 393	war
+E25	Conflict_Attack:T25 
+A25	Realis E25 Generic

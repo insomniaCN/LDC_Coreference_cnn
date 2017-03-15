@@ -1,0 +1,186 @@
+T1	Life_Die 1936 1940	died
+E9	Life_Die:T1
+A1	Realis E9 Actual
+T2	Life_Die 297 303	murder
+E41	Life_Die:T2
+A2	Realis E41 Actual
+T3	Justice_Trial-Hearing 1157 1164	pleaded
+E55	Justice_Trial-Hearing:T3
+A3	Realis E55 Actual
+T4	Transaction_Transfer-Money 2715 2719	sold
+E57	Transaction_Transfer-Money:T4
+A4	Realis E57 Actual
+T5	Life_Die 2100 2106	murder
+E66	Life_Die:T5
+A5	Realis E66 Actual
+T6	Life_Die 652 656	died
+E111	Life_Die:T6
+A6	Realis E111 Actual
+T7	Justice_Trial-Hearing 238 245	pleaded
+E135	Justice_Trial-Hearing:T7
+A7	Realis E135 Actual
+T8	Conflict_Attack 1853 1857	fire
+E197	Conflict_Attack:T8
+A8	Realis E197 Actual
+T9	Justice_Arrest-Jail 2021 2029	captured
+E205	Justice_Arrest-Jail:T9
+A9	Realis E205 Actual
+T10	Personnel_End-Position 3192 3198	served
+E221	Personnel_End-Position:T10
+A10	Realis E221 Actual
+T11	Justice_Charge-Indict 2128 2135	charges
+E235	Justice_Charge-Indict:T11
+A11	Realis E235 Actual
+T12	Justice_Trial-Hearing 1235 1242	pleaded
+E236	Justice_Trial-Hearing:T12
+A12	Realis E236 Actual
+T13	Justice_Trial-Hearing 890 894	plea
+E255	Justice_Trial-Hearing:T13
+A13	Realis E255 Actual
+T14	Conflict_Attack 1038 1044	murder
+E261	Conflict_Attack:T14
+A14	Realis E261 Actual
+T15	Conflict_Attack 2799 2805	attack
+E271	Conflict_Attack:T15
+A15	Realis E271 Actual
+T16	Movement_Transport-Person 1513 1519	forced
+E285	Movement_Transport-Person:T16
+A16	Realis E285 Actual
+T17	Life_Die 1175 1181	murder
+E288	Life_Die:T17
+A17	Realis E288 Actual
+T18	Justice_Extradite 2067 2077	extradited
+E302	Justice_Extradite:T18
+A18	Realis E302 Actual
+T19	Life_Die 535 541	murder
+E303	Life_Die:T19
+A19	Realis E303 Other
+T20	Conflict_Attack 400 406	ambush
+E307	Conflict_Attack:T20
+A20	Realis E307 Actual
+T21	Contact_Meet 1307 1315	admitted
+E319	Contact_Meet:T21
+A21	Realis E319 Actual
+T22	Conflict_Attack 1396 1402	ambush
+E331	Conflict_Attack:T22
+A22	Realis E331 Actual
+T23	Justice_Trial-Hearing 503 510	pleaded
+E337	Justice_Trial-Hearing:T23
+A23	Realis E337 Actual
+T24	Conflict_Attack 1056 1062	murder
+E369	Conflict_Attack:T24
+A24	Realis E369 Other
+T25	Life_Die 1038 1044	murder
+E376	Life_Die:T25
+A25	Realis E376 Actual
+T26	Movement_Transport-Person 3223 3234	transferred
+E382	Movement_Transport-Person:T26
+A26	Realis E382 Actual
+T27	Conflict_Attack 2564 2570	attack
+E388	Conflict_Attack:T27
+A27	Realis E388 Actual
+T28	Life_Injure 742 749	wounded
+E406	Life_Injure:T28
+A28	Realis E406 Actual
+T29	Conflict_Attack 535 541	murder
+E408	Conflict_Attack:T29
+A29	Realis E408 Other
+T30	Conflict_Attack 297 303	murder
+E417	Conflict_Attack:T30
+A30	Realis E417 Actual
+T31	Conflict_Attack 2121 2127	murder
+E427	Conflict_Attack:T31
+A31	Realis E427 Other
+T32	Life_Die 2772 2778	murder
+E429	Life_Die:T32
+A32	Realis E429 Actual
+T33	Contact_Broadcast 2213 2217	said
+E468	Contact_Broadcast:T33
+A33	Realis E468 Actual
+T34	Contact_Contact 807 811	said
+E472	Contact_Contact:T34
+A34	Realis E472 Actual
+T35	Life_Die 1196 1202	murder
+E485	Life_Die:T35
+A35	Realis E485 Other
+T36	Justice_Arrest-Jail 2620 2626	arrest
+E515	Justice_Arrest-Jail:T36
+A36	Realis E515 Actual
+T37	Movement_Transport-Person 3308 3319	trafficking
+E532	Movement_Transport-Person:T37
+A37	Realis E532 Generic
+T38	Conflict_Attack 762 768	ambush
+E579	Conflict_Attack:T38
+A38	Realis E579 Actual
+T39	Personnel_Start-Position 3223 3234	transferred
+E603	Personnel_Start-Position:T39
+A39	Realis E603 Actual
+T40	Transaction_Transfer-Ownership 2715 2719	sold
+E627	Transaction_Transfer-Ownership:T40
+A40	Realis E627 Actual
+T41	Conflict_Attack 1348 1351	hit
+E688	Conflict_Attack:T41
+A41	Realis E688 Generic
+T42	Conflict_Attack 695 701	attack
+E694	Conflict_Attack:T42
+A42	Realis E694 Actual
+T43	Justice_Trial-Hearing 958 963	pleas
+E699	Justice_Trial-Hearing:T43
+A43	Realis E699 Actual
+T44	Conflict_Attack 2772 2778	murder
+E701	Conflict_Attack:T44
+A44	Realis E701 Actual
+T45	Conflict_Attack 1004 1010	ambush
+E717	Conflict_Attack:T45
+A45	Realis E717 Actual
+T46	Justice_Charge-Indict 1025 1032	charged
+E719	Justice_Charge-Indict:T46
+A46	Realis E719 Actual
+T47	Conflict_Attack 1772 1775	hit
+E758	Conflict_Attack:T47
+A47	Realis E758 Generic
+T48	Conflict_Attack 1980 1986	attack
+E762	Conflict_Attack:T48
+A48	Realis E762 Actual
+T49	Justice_Convict 2631 2641	conviction
+E764	Justice_Convict:T49
+A49	Realis E764 Actual
+T50	Contact_Broadcast 1627 1634	ordered
+E784	Contact_Broadcast:T50
+A50	Realis E784 Actual
+T51	Conflict_Attack 2222 2228	attack
+E801	Conflict_Attack:T51
+A51	Realis E801 Actual
+T52	Conflict_Attack 1790 1795	fired
+E823	Conflict_Attack:T52
+A52	Realis E823 Actual
+T53	Life_Injure 1954 1960	wounds
+E825	Life_Injure:T53
+A53	Realis E825 Actual
+T54	Movement_Transport-Artifact 3324 3333	smuggling
+E853	Movement_Transport-Artifact:T54
+A54	Realis E853 Generic
+T55	Conflict_Attack 1175 1181	murder
+E858	Conflict_Attack:T55
+A55	Realis E858 Actual
+T56	Movement_Transport-Person 1906 1913	driving
+E865	Movement_Transport-Person:T56
+A56	Realis E865 Actual
+T57	Conflict_Attack 1196 1202	murder
+E869	Conflict_Attack:T57
+A57	Realis E869 Other
+T58	Movement_Transport-Person 2067 2077	extradited
+E883	Movement_Transport-Person:T58
+A58	Realis E883 Actual
+T59	Movement_Transport-Person 1542 1551	traveling
+E885	Movement_Transport-Person:T59
+A59	Realis E885 Actual
+T60	Conflict_Attack 2100 2106	murder
+E937	Conflict_Attack:T60
+A60	Realis E937 Actual
+T61	Contact_Broadcast 2318 2322	said
+E979	Contact_Broadcast:T61
+A61	Realis E979 Actual
+T62	Life_Die 2121 2127	murder
+E987	Life_Die:T62
+A62	Realis E987 Other

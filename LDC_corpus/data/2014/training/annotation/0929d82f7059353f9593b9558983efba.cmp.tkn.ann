@@ -1,0 +1,72 @@
+T1	Life_Die 4595 4602	killing
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 4055 4062	claimed
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T4	Contact_Communicate 4561 4571	Discussing
+E4	Contact_Communicate:T4 
+A4	Realis E4 Generic
+T3	Conflict_Attack 202 206	shot
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T5	Life_Die 223 228	death
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1067 1073	bought
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 1121 1128	walking
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 1161 1169	followed
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 1197 1201	told
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 1210 1219	following
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Other
+T11	Life_Die 1252 1256	dead
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 1281 1288	walking
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 2202 2208	bought
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 2256 2263	walking
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 2296 2304	followed
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 2332 2336	told
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Movement_Transport-Person 2345 2354	following
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Other
+T18	Life_Die 2387 2391	dead
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 2416 2423	walking
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Transaction_Transfer-Ownership 3204 3208	sell
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Other
+T21	Life_Die 5080 5086	killed
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Life_Die 5180 5186	killed
+E22	Life_Die:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 4357 4361	shot
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Life_Die 4378 4383	death
+E24	Life_Die:T24 
+A24	Realis E24 Actual

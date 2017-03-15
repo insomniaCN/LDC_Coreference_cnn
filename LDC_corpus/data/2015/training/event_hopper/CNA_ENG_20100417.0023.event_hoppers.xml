@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000639" doc_id="CNA_ENG_20100417.0023" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="CNA_ENG_20100417.0023" offset="83" length="9">travelers</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="257" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="CNA_ENG_20100417.0023" offset="427" length="7">flights</trigger>
+      </event_mention>
+      <event_mention id="em-64" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="663" length="4">tour</trigger>
+      </event_mention>
+      <event_mention id="em-77" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="764" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-90" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="823" length="5">tours</trigger>
+      </event_mention>
+      <event_mention id="em-103" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="934" length="4">tour</trigger>
+      </event_mention>
+      <event_mention id="em-116" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="CNA_ENG_20100417.0023" offset="1022" length="8">tourists</trigger>
+      </event_mention>
+      <event_mention id="em-189" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="599" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-202" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="806" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-215" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="1117" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-243" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="1377" length="4">tour</trigger>
+      </event_mention>
+      <event_mention id="em-299" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="CNA_ENG_20100417.0023" offset="1534" length="8">traveler</trigger>
+      </event_mention>
+      <event_mention id="em-312" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="CNA_ENG_20100417.0023" offset="1674" length="6">travel</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-49" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="CNA_ENG_20100417.0023" offset="473" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-142">
+      <event_mention id="em-129" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="CNA_ENG_20100417.0023" offset="1043" length="7">retired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-157">
+      <event_mention id="em-144" type="life" subtype="marry" realis="actual">
+        <trigger source="CNA_ENG_20100417.0023" offset="1068" length="6">wedded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-172">
+      <event_mention id="em-159" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="CNA_ENG_20100417.0023" offset="1178" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-187">
+      <event_mention id="em-174" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20100417.0023" offset="1220" length="6">losses</trigger>
+      </event_mention>
+      <event_mention id="em-271" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20100417.0023" offset="1455" length="6">losses</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-241">
+      <event_mention id="em-228" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="CNA_ENG_20100417.0023" offset="1346" length="12">acknowledged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-269">
+      <event_mention id="em-256" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="CNA_ENG_20100417.0023" offset="1413" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-297">
+      <event_mention id="em-284" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20100417.0023" offset="1501" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-338" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="CNA_ENG_20100417.0023" offset="1703" length="4">meet</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

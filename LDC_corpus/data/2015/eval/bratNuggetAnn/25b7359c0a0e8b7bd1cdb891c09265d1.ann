@@ -1,0 +1,39 @@
+T1	Transaction_Transfer-Money 1563 1567	pass
+E11	Transaction_Transfer-Money:T1
+A1	Realis E11 Other
+T2	Contact_Correspondence 839 846	Phoning
+E42	Contact_Correspondence:T2
+A2	Realis E42 Other
+T3	Transaction_Transfer-Money 622 626	paid
+E66	Transaction_Transfer-Money:T3
+A3	Realis E66 Generic
+T4	Transaction_Transfer-Money 489 497	received
+E273	Transaction_Transfer-Money:T4
+A4	Realis E273 Generic
+T5	Transaction_Transfer-Money 531 538	pension
+E329	Transaction_Transfer-Money:T5
+A5	Realis E329 Generic
+T6	Transaction_Transfer-Money 668 672	gave
+E411	Transaction_Transfer-Money:T6
+A6	Realis E411 Generic
+T7	Life_Die 162 166	died
+E546	Life_Die:T7
+A7	Realis E546 Actual
+T8	Contact_Correspondence 965 970	phone
+E629	Contact_Correspondence:T8
+A8	Realis E629 Other
+T9	Transaction_Transfer-Ownership 713 718	taken
+E702	Transaction_Transfer-Ownership:T9
+A9	Realis E702 Actual
+T10	Contact_Meet 1167 1173	giving
+E737	Contact_Meet:T10
+A10	Realis E737 Other
+T11	Transaction_Transfer-Money 584 591	pension
+E818	Transaction_Transfer-Money:T11
+A11	Realis E818 Generic
+T12	Movement_Transport-Person 1136 1141	going
+E840	Movement_Transport-Person:T12
+A12	Realis E840 Other
+T13	Life_Die 1528 1532	died
+E949	Life_Die:T13
+A13	Realis E949 Actual

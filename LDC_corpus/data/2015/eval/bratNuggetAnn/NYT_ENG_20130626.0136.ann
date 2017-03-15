@@ -1,0 +1,165 @@
+T1	Justice_Pardon 879 885	pardon
+E13	Justice_Pardon:T1
+A1	Realis E13 Actual
+T2	Transaction_Transfer-Money 1327 1331	sold
+E19	Transaction_Transfer-Money:T2
+A2	Realis E19 Actual
+T3	Justice_Charge-Indict 2592 2600	indicted
+E27	Justice_Charge-Indict:T3
+A3	Realis E27 Actual
+T4	Justice_Pardon 183 191	PARDONED
+E35	Justice_Pardon:T4
+A4	Realis E35 Actual
+T5	Transaction_Transfer-Money 3082 3086	sold
+E41	Transaction_Transfer-Money:T5
+A5	Realis E41 Actual
+T6	Transaction_Transfer-Ownership 1304 1310	trader
+E52	Transaction_Transfer-Ownership:T6
+A6	Realis E52 Generic
+T7	Justice_Arrest-Jail 2951 2958	capture
+E98	Justice_Arrest-Jail:T7
+A7	Realis E98 Other
+T8	Transaction_Transfer-Ownership 310 317	trading
+E115	Transaction_Transfer-Ownership:T8
+A8	Realis E115 Generic
+T9	Transaction_Transfer-Money 3263 3271	acquired
+E151	Transaction_Transfer-Money:T9
+A9	Realis E151 Actual
+T10	Justice_Arrest-Jail 2745 2751	prison
+E152	Justice_Arrest-Jail:T10
+A10	Realis E152 Other
+T11	Business_Start-Org 3245 3252	founded
+E155	Business_Start-Org:T11
+A11	Realis E155 Actual
+T12	Justice_Pardon 790 796	pardon
+E175	Justice_Pardon:T12
+A12	Realis E175 Actual
+T13	Life_Die 3778 3786	survived
+E185	Life_Die:T13
+A13	Realis E185 Actual
+T14	Transaction_Transfer-Ownership 2155 2159	sold
+E225	Transaction_Transfer-Ownership:T14
+A14	Realis E225 Actual
+T15	Business_Start-Org 283 290	founder
+E227	Business_Start-Org:T15
+A15	Realis E227 Actual
+T16	Life_Beborn 1392 1396	born
+E245	Life_Beborn:T16
+A16	Realis E245 Actual
+T17	Transaction_Transfer-Money 2107 2113	bought
+E281	Transaction_Transfer-Money:T17
+A17	Realis E281 Actual
+T18	Transaction_Transfer-Ownership 3263 3271	acquired
+E290	Transaction_Transfer-Ownership:T18
+A18	Realis E290 Actual
+T19	Life_Divorce 967 973	former
+E293	Life_Divorce:T19
+A19	Realis E293 Actual
+T20	Movement_Transport-Person 2545 2549	fled
+E341	Movement_Transport-Person:T20
+A20	Realis E341 Actual
+T21	Transaction_Transfer-Ownership 2413 2422	suppliers
+E342	Transaction_Transfer-Ownership:T21
+A21	Realis E342 Generic
+T22	Justice_Charge-Indict 574 582	indicted
+E346	Justice_Charge-Indict:T22
+A22	Realis E346 Actual
+T23	Transaction_Transfer-Ownership 2107 2113	bought
+E354	Transaction_Transfer-Ownership:T23
+A23	Realis E354 Actual
+T24	Transaction_Transfer-Money 1776 1779	buy
+E358	Transaction_Transfer-Money:T24
+A24	Realis E358 Actual
+T25	Contact_Broadcast 3626 3635	statement
+E366	Contact_Broadcast:T25
+A25	Realis E366 Actual
+T26	Life_Die 203 207	DIES
+E382	Life_Die:T26
+A26	Realis E382 Actual
+T27	Transaction_Transfer-Money 1008 1017	donations
+E390	Transaction_Transfer-Money:T27
+A27	Realis E390 Actual
+T28	Contact_Broadcast 470 479	statement
+E392	Contact_Broadcast:T28
+A28	Realis E392 Actual
+T29	Movement_Transport-Person 3028 3035	leaving
+E504	Movement_Transport-Person:T29
+A29	Realis E504 Actual
+T30	Transaction_Transfer-Money 1665 1669	sell
+E512	Transaction_Transfer-Money:T30
+A30	Realis E512 Actual
+T31	Transaction_Transfer-Ownership 1541 1547	trader
+E518	Transaction_Transfer-Ownership:T31
+A31	Realis E518 Generic
+T32	Life_Die 348 352	died
+E540	Life_Die:T32
+A32	Realis E540 Actual
+T33	Transaction_Transfer-Ownership 1327 1331	sold
+E549	Transaction_Transfer-Ownership:T33
+A33	Realis E549 Actual
+T34	Personnel_End-Position 252 258	former
+E556	Personnel_End-Position:T34
+A34	Realis E556 Actual
+T35	Transaction_Transfer-Money 2155 2159	sold
+E599	Transaction_Transfer-Money:T35
+A35	Realis E599 Actual
+T36	Transaction_Transfer-Ownership 272 278	trader
+E606	Transaction_Transfer-Ownership:T36
+A36	Realis E606 Generic
+T37	Movement_Transport-Artifact 2138 2147	transport
+E629	Movement_Transport-Artifact:T37
+A37	Realis E629 Actual
+T38	Business_Start-Org 1218 1225	founded
+E667	Business_Start-Org:T38
+A38	Realis E667 Actual
+T39	Justice_Charge-Indict 617 624	charges
+E669	Justice_Charge-Indict:T39
+A39	Realis E669 Actual
+T40	Transaction_Transfer-Ownership 1776 1779	buy
+E673	Transaction_Transfer-Ownership:T40
+A40	Realis E673 Actual
+T41	Transaction_Transaction 654 661	trading
+E691	Transaction_Transaction:T41
+A41	Realis E691 Generic
+T42	Transaction_Transfer-Money 2674 2679	taxes
+E729	Transaction_Transfer-Money:T42
+A42	Realis E729 Other
+T43	Transaction_Transfer-Money 628 631	tax
+E792	Transaction_Transfer-Money:T43
+A43	Realis E792 Other
+T44	Justice_Charge-Indict 2604 2611	charges
+E800	Justice_Charge-Indict:T44
+A44	Realis E800 Actual
+T45	Transaction_Transfer-Ownership 3082 3086	sold
+E826	Transaction_Transfer-Ownership:T45
+A45	Realis E826 Actual
+T46	Transaction_Transaction 2622 2629	trading
+E848	Transaction_Transaction:T46
+A46	Realis E848 Generic
+T47	Transaction_Transfer-Ownership 1665 1669	sell
+E859	Transaction_Transfer-Ownership:T47
+A47	Realis E859 Actual
+T48	Personnel_End-Position 832 840	last day
+E894	Personnel_End-Position:T48
+A48	Realis E894 Actual
+T49	Life_Die 3456 3461	death
+E932	Life_Die:T49
+A49	Realis E932 Actual
+T50	Movement_Transport-Person 2922 2932	helicopter
+E937	Movement_Transport-Person:T50
+A50	Realis E937 Other
+T51	Transaction_Transfer-Ownership 3536 3543	trading
+E944	Transaction_Transfer-Ownership:T51
+A51	Realis E944 Generic
+T52	Transaction_Transfer-Ownership 902 908	trader
+E954	Transaction_Transfer-Ownership:T52
+A52	Realis E954 Generic
+T53	Movement_Transport-Person 1422 1427	moved
+E984	Movement_Transport-Person:T53
+A53	Realis E984 Actual
+T54	Contact_Contact 1976 1980	told
+E985	Contact_Contact:T54
+A54	Realis E985 Actual
+T55	Personnel_Start-Position 1512 1517	began
+E998	Personnel_Start-Position:T55
+A55	Realis E998 Actual

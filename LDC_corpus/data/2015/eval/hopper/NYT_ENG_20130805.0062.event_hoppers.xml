@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea740000000000000071" doc_id="NYT_ENG_20130805.0062" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-894" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130805.0062" offset="301" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-920" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="NYT_ENG_20130805.0062" offset="739" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-947" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130805.0062" offset="532" length="4">sell</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-723" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130805.0062" offset="532" length="4">sell</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-312" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130805.0062" offset="802" length="7">visited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-530" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130805.0062" offset="839" length="9">confirmed</trigger>
+      </event_mention>
+      <event_mention id="em-298" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130805.0062" offset="1129" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-844" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130805.0062" offset="1342" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-90" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130805.0062" offset="1458" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-33" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130805.0062" offset="1583" length="5">donor</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-918" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130805.0062" offset="1633" length="4">sale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-319" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130805.0062" offset="1633" length="4">sale</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

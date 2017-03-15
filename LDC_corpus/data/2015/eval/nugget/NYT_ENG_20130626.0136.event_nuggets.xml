@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea5c0000000000000038" doc_id="NYT_ENG_20130626.0136" source_type="newswire">
+  <event_mention id="em-13" type="justice" subtype="pardon" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="879" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-19" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1327" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-27" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="2592" length="8">indicted</trigger>
+  </event_mention>
+  <event_mention id="em-35" type="justice" subtype="pardon" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="183" length="8">PARDONED</trigger>
+  </event_mention>
+  <event_mention id="em-41" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="3082" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-52" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1304" length="6">trader</trigger>
+  </event_mention>
+  <event_mention id="em-98" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130626.0136" offset="2951" length="7">capture</trigger>
+  </event_mention>
+  <event_mention id="em-115" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="310" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-151" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="3263" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-152" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130626.0136" offset="2745" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-155" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="3245" length="7">founded</trigger>
+  </event_mention>
+  <event_mention id="em-175" type="justice" subtype="pardon" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="790" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-185" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="3778" length="8">survived</trigger>
+  </event_mention>
+  <event_mention id="em-225" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2155" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-227" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="283" length="7">founder</trigger>
+  </event_mention>
+  <event_mention id="em-245" type="life" subtype="beborn" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="1392" length="4">born</trigger>
+  </event_mention>
+  <event_mention id="em-281" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2107" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-290" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="3263" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-293" type="life" subtype="divorce" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="967" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-341" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="2545" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-342" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2413" length="9">suppliers</trigger>
+  </event_mention>
+  <event_mention id="em-346" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="574" length="8">indicted</trigger>
+  </event_mention>
+  <event_mention id="em-354" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2107" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-358" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1776" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-366" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130626.0136" offset="3626" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-382" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="203" length="4">DIES</trigger>
+  </event_mention>
+  <event_mention id="em-390" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1008" length="9">donations</trigger>
+  </event_mention>
+  <event_mention id="em-392" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130626.0136" offset="470" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-504" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="3028" length="7">leaving</trigger>
+  </event_mention>
+  <event_mention id="em-512" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1665" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-518" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1541" length="6">trader</trigger>
+  </event_mention>
+  <event_mention id="em-540" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="348" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-549" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1327" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-556" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="252" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-599" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2155" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-606" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="272" length="6">trader</trigger>
+  </event_mention>
+  <event_mention id="em-629" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="2138" length="9">transport</trigger>
+  </event_mention>
+  <event_mention id="em-667" type="business" subtype="startorg" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="1218" length="7">founded</trigger>
+  </event_mention>
+  <event_mention id="em-669" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="617" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-673" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1776" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="654" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-729" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2674" length="5">taxes</trigger>
+  </event_mention>
+  <event_mention id="em-792" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="628" length="3">tax</trigger>
+  </event_mention>
+  <event_mention id="em-800" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="2604" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-826" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="3082" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-848" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="2622" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-859" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="1665" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-894" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="832" length="8">last day</trigger>
+  </event_mention>
+  <event_mention id="em-932" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="3456" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-937" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130626.0136" offset="2922" length="10">helicopter</trigger>
+  </event_mention>
+  <event_mention id="em-944" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="3536" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-954" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130626.0136" offset="902" length="6">trader</trigger>
+  </event_mention>
+  <event_mention id="em-984" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="1422" length="5">moved</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130626.0136" offset="1976" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-998" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130626.0136" offset="1512" length="5">began</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea920000000000000118" doc_id="20ac2e0a5eaada472bfae4902d5539d3" source_type="multi_post">
+  <event_mention id="em-8" type="justice" subtype="sue" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1346" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-74" type="movement" subtype="transportperson" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="947" length="9">departure</trigger>
+  </event_mention>
+  <event_mention id="em-215" type="justice" subtype="trialhearing" realis="generic">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2162" length="8">hearings</trigger>
+  </event_mention>
+  <event_mention id="em-233" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1659" length="8">uprising</trigger>
+  </event_mention>
+  <event_mention id="em-285" type="conflict" subtype="attack" realis="generic">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="4884" length="3">War</trigger>
+  </event_mention>
+  <event_mention id="em-290" type="justice" subtype="sue" realis="generic">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2120" length="5">suits</trigger>
+  </event_mention>
+  <event_mention id="em-292" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1868" length="11">appointment</trigger>
+  </event_mention>
+  <event_mention id="em-371" type="justice" subtype="fine" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1419" length="5">fined</trigger>
+  </event_mention>
+  <event_mention id="em-435" type="justice" subtype="sentence" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2281" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-463" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2216" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-495" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2310" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-534" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1834" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-557" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2508" length="6">demand</trigger>
+  </event_mention>
+  <event_mention id="em-574" type="justice" subtype="appeal" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1020" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-579" type="justice" subtype="sue" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1523" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-633" type="business" subtype="endorg" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1148" length="10">destroying</trigger>
+  </event_mention>
+  <event_mention id="em-637" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2611" length="9">contracts</trigger>
+  </event_mention>
+  <event_mention id="em-663" type="conflict" subtype="attack" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="5521" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-680" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="2185" length="6">tweets</trigger>
+  </event_mention>
+  <event_mention id="em-725" type="conflict" subtype="attack" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="5332" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-742" type="life" subtype="die" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="5521" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-764" type="justice" subtype="sentence" realis="actual">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1283" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-821" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="644" length="5">hosts</trigger>
+  </event_mention>
+  <event_mention id="em-883" type="life" subtype="die" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="5332" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-889" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1311" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-951" type="business" subtype="endorg" realis="other">
+    <trigger source="20ac2e0a5eaada472bfae4902d5539d3" offset="1470" length="8">shutdown</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea770000000000000076" doc_id="NYT_ENG_20130813.0164" source_type="newswire">
+  <event_mention id="em-7" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="2413" length="12">construction</trigger>
+  </event_mention>
+  <event_mention id="em-19" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130813.0164" offset="1399" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-42" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="1425" length="5">moved</trigger>
+  </event_mention>
+  <event_mention id="em-85" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="1474" length="6">beaten</trigger>
+  </event_mention>
+  <event_mention id="em-88" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="1319" length="12">construction</trigger>
+  </event_mention>
+  <event_mention id="em-234" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130813.0164" offset="2496" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-255" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130813.0164" offset="1551" length="4">cost</trigger>
+  </event_mention>
+  <event_mention id="em-370" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="1189" length="8">creating</trigger>
+  </event_mention>
+  <event_mention id="em-441" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="2264" length="10">dispatched</trigger>
+  </event_mention>
+  <event_mention id="em-623" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130813.0164" offset="2436" length="5">issue</trigger>
+  </event_mention>
+  <event_mention id="em-660" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="569" length="11">Constructed</trigger>
+  </event_mention>
+  <event_mention id="em-665" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130813.0164" offset="2109" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-704" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130813.0164" offset="1493" length="10">confronted</trigger>
+  </event_mention>
+  <event_mention id="em-763" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130813.0164" offset="2777" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-770" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="2710" length="11">constructed</trigger>
+  </event_mention>
+  <event_mention id="em-844" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130813.0164" offset="506" length="5">built</trigger>
+  </event_mention>
+  <event_mention id="em-908" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130813.0164" offset="1399" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-969" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130813.0164" offset="1792" length="7">amassed</trigger>
+  </event_mention>
+  <event_mention id="em-974" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130813.0164" offset="2597" length="6">notice</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

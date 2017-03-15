@@ -1,0 +1,24 @@
+T1	Contact_Communicate 272 277	asked
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 298 305	contact
+E2	Contact_Communicate:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Money 378 382	cost
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Other
+T4	Contact_Communicate 443 446;449 455	got letter
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 525 531	texted
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 563 570	getting
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Other
+T7	Transaction_Transfer-Money 619 622	pay
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Contact_Communicate 543 547	said
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual

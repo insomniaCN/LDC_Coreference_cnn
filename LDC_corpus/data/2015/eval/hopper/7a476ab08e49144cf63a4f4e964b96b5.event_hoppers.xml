@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaad0000000000000171" doc_id="7a476ab08e49144cf63a4f4e964b96b5" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-456" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="148" length="7">paroled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-931" type="conflict" subtype="attack" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="156" length="6">rapist</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-772" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="167" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-809" type="conflict" subtype="attack" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="196" length="9">attacking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-821" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="252" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-241" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="302" length="7">walking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-333" type="conflict" subtype="attack" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="411" length="7">grabbed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-445" type="conflict" subtype="attack" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="424" length="5">threw</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-141">
+      <event_mention id="em-503" type="conflict" subtype="attack" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="466" length="7">slammed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-169">
+      <event_mention id="em-616" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="539" length="4">came</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-955" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="666" length="6">yelled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-212">
+      <event_mention id="em-905" type="life" subtype="injure" realis="generic">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="156" length="6">rapist</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-227">
+      <event_mention id="em-829" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="spontaneous">
+        <trigger source="7a476ab08e49144cf63a4f4e964b96b5" offset="694" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

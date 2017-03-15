@@ -1,0 +1,75 @@
+T1	Conflict_Demonstrate 101 109	protests
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T3	Personnel_Elect 414 422	election
+E3	Personnel_Elect:T3 
+A3	Realis E3 Other
+T5	Conflict_Demonstrate 946 954	protests
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T7	Conflict_Demonstrate 1447 1454	protest
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Actual
+T8	Personnel_Elect 1558 1567	elections
+E8	Personnel_Elect:T8 
+A8	Realis E8 Other
+T9	Life_Die 1805 1809	dead
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T11	Personnel_Elect 2266 2274	election
+E11	Personnel_Elect:T11 
+A11	Realis E11 Other
+T12	Conflict_Demonstrate 2347 2354	protest
+E12	Conflict_Demonstrate:T12 
+A12	Realis E12 Actual
+T13	Personnel_Elect 2430 2438	election
+E13	Personnel_Elect:T13 
+A13	Realis E13 Other
+T15	Conflict_Demonstrate 2574 2581	protest
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Actual
+T17	Conflict_Demonstrate 3028 3035	protest
+E17	Conflict_Demonstrate:T17 
+A17	Realis E17 Actual
+T18	Justice_Charge-Indict 3039 3046	charged
+E18	Justice_Charge-Indict:T18 
+A18	Realis E18 Other
+T19	Justice_Charge-Indict 3099 3106	charges
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Other
+T20	Conflict_Demonstrate 3215 3222	protest
+E20	Conflict_Demonstrate:T20 
+A20	Realis E20 Actual
+T21	Life_Die 3228 3234	killed
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Life_Injure 3249 3256	wounded
+E22	Life_Injure:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 3172 3189	violent incidents
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Justice_Charge-Indict 3412 3419	charges
+E24	Justice_Charge-Indict:T24 
+A24	Realis E24 Actual
+T26	Justice_Charge-Indict 3557 3564	charges
+E26	Justice_Charge-Indict:T26 
+A26	Realis E26 Actual
+T28	Justice_Fine 3771 3776	fines
+E28	Justice_Fine:T28 
+A28	Realis E28 Other
+T29	Justice_Arrest-Jail 3795 3803	arrested
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Generic
+T30	Justice_Charge-Indict 4163 4170	charged
+E30	Justice_Charge-Indict:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 4236 4240	coup
+E31	Conflict_Attack:T31 
+A31	Realis E31 Actual
+T2	Movement_Transport-Person 3599 3608	transport
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Generic
+T4	Personnel_End-Position 4210 4216	ousted
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual

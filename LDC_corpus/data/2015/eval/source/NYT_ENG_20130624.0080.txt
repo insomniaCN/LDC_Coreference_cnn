@@ -1,0 +1,40 @@
+<DOC id="NYT_ENG_20130624.0080" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130624/20130624,6a88c71517b34b0e6272a8c887df202d.xml">
+<HEADLINE>
+A PARALLEL SEARCH FOR A MISSING PANDA
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+There was an important Supreme Court ruling early in the day. An international fugitive was possibly on a flight from Moscow to Cuba. The Dow was diving. But by midday in the nation’s capital on Monday, a red panda who disappeared from the National Zoo had hijacked the news cycle.
+</P>
+<P>
+Turning to social media to help find Rusty, a raccoon-sized panda with a striped tail and a cute face, the zoo announced his disappearance on Twitter at 11:51 a.m. The message was forwarded nearly 3,000 times in an hour. In Washington, #redpanda was No. 1 in trending topics on Twitter. ABC News started a blog with “live coverage” of the search.
+</P>
+<P>
+The zoo said on Twitter that its animal care staff last saw Rusty on Sunday night in his exhibit and had been combing through the nearby trees since 8 a.m. Monday. “Please help us find Rusty,” the zoo pleaded. “He could be sick and hiding.”
+</P>
+<P>
+On its Facebook page, the zoo said that Rusty, an “arboreal, territorial” creature, was most likely napping in a tree nearby. But in an ominous note, the zoo said it was possible that Rusty had been stolen.
+</P>
+<P>
+Rusty’s cause was quickly taken up online by animal lovers and Twitter wits.
+</P>
+<P>
+“Edward Snowden and Rusty the red panda relaxing on a Havana beach,” wrote J.D. Ross, referring to the American security contractor who is wanted on spying charges.
+</P>
+<P>
+“Rusty the Red Panda last seen running away from DC in the direction of a city with a decent restaurant scene,” wrote Josh Barro, the politics editor of Business Insider.
+</P>
+<P>
+Newt Gingrich, who often detoured from the campaign trail to visit zoos in his ill-fated 2012 presidential quest (his finger was once nipped by a penguin), also joined the search. “In response to red panda charges, I have an alibi,” he wrote. “Callista and I were feeding our pet elephants all evening (just a joke) help find panda.”
+</P>
+<P>
+Once again, social media proved itself a powerful dragnet. Around 1:15 p.m., a Washingtonian posted a picture on Twitter of Rusty in a patch of weeds in the Adams Morgan district. “Red panda in our neighborhood,” wrote Ashley Foughty, who identified herself as a singer and actress. “Please come save him!”
+</P>
+<P>
+Not long after, the zoo announced on Twitter: “Rusty the red panda has been recovered, crated &amp; is headed safely back to the National Zoo!”
+</P>
+</TEXT>
+</DOC>

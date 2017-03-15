@@ -1,0 +1,75 @@
+T1	Justice_Pardon 242 250	pardoned
+E1	Justice_Pardon:T1 
+A1	Realis E1 Actual
+T2	Justice_Pardon 79 86	pardons
+E2	Justice_Pardon:T2 
+A2	Realis E2 Actual
+T3	Life_Die 104 110	murder
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 275 284	convicted
+E4	Justice_Convict:T4 
+A4	Realis E4 Actual
+T5	Life_Die 288 297	murdering
+E5	Life_Die:T5 
+A5	Questionable E5 Mention
+A6	Realis E5 Actual
+T6	Movement_Transport-Person 367 373	return
+E6	Movement_Transport-Person:T6 
+A7	Realis E6 Actual
+T7	Justice_Convict 470 479	convicted
+E7	Justice_Convict:T7 
+A8	Realis E7 Actual
+T8	Life_Injure 494 502;507 513	slitting throat
+E8	Life_Injure:T8 
+A9	Questionable E8 Type
+A10	Realis E8 Actual
+T9	Justice_Convict 602 614	found guilty
+E9	Justice_Convict:T9 
+A11	Realis E9 Actual
+T10	Life_Die 632 638	murder
+E10	Life_Die:T10 
+A12	Realis E10 Other
+T11	Justice_Sentence 901 909	sentence
+E11	Justice_Sentence:T11 
+A13	Realis E11 Actual
+T12	Justice_Pardon 958 966	pardoned
+E12	Justice_Pardon:T12 
+A14	Realis E12 Actual
+T13	Justice_Pardon 1042 1048	pardon
+E13	Justice_Pardon:T13 
+A15	Realis E13 Actual
+T14	Justice_Sentence 1518 1527	sentenced
+E14	Justice_Sentence:T14 
+A16	Realis E14 Actual
+T15	Justice_Sentence 1619 1627	sentence
+E15	Justice_Sentence:T15 
+A17	Realis E15 Actual
+T16	Justice_Sentence 1674 1682	sentence
+E16	Justice_Sentence:T16 
+A18	Realis E16 Actual
+T17	Movement_Transport-Person 1745 1750	leave
+E17	Movement_Transport-Person:T17 
+A19	Realis E17 Other
+T18	Movement_Transport-Person 1921 1929	traveled
+E18	Movement_Transport-Person:T18 
+A20	Realis E18 Actual
+T19	Justice_Convict 2013 2023	conviction
+E19	Justice_Convict:T19 
+A21	Realis E19 Actual
+T20	Transaction_Transfer-Money 2170 2180	nonpayment
+E20	Transaction_Transfer-Money:T20 
+A22	Realis E20 Generic
+T21	Transaction_Transfer-Money 2386 2390	sent
+E21	Transaction_Transfer-Money:T21 
+A23	Questionable E21 Realis
+A24	Realis E21 Actual
+T22	Movement_Transport-Person 1330 1342	heading home
+E22	Movement_Transport-Person:T22 
+A25	Realis E22 Other
+T23	Contact_Meet 1349 1357	reunited
+E23	Contact_Meet:T23 
+A26	Realis E23 Other
+T24	Justice_Pardon 1717 1723	pardon
+E24	Justice_Pardon:T24 
+A27	Realis E24 Actual

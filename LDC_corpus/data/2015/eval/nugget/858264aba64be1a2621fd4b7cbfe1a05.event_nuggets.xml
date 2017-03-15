@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab00000000000000181" doc_id="858264aba64be1a2621fd4b7cbfe1a05" source_type="multi_post">
+  <event_mention id="em-3" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="987" length="8">accounts</trigger>
+  </event_mention>
+  <event_mention id="em-6" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="593" length="5">brawl</trigger>
+  </event_mention>
+  <event_mention id="em-9" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2551" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-18" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1129" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-21" type="justice" subtype="acquit" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2972" length="9">acquittal</trigger>
+  </event_mention>
+  <event_mention id="em-43" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3769" length="4">beat</trigger>
+  </event_mention>
+  <event_mention id="em-49" type="life" subtype="die" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="944" length="8">deceased</trigger>
+  </event_mention>
+  <event_mention id="em-52" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3330" length="7">telling</trigger>
+  </event_mention>
+  <event_mention id="em-60" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="630" length="6">victim</trigger>
+  </event_mention>
+  <event_mention id="em-62" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3827" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-64" type="life" subtype="injure" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1228" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-92" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2570" length="4">note</trigger>
+  </event_mention>
+  <event_mention id="em-96" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4017" length="8">followed</trigger>
+  </event_mention>
+  <event_mention id="em-103" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3539" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-119" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4528" length="9">summonses</trigger>
+  </event_mention>
+  <event_mention id="em-122" type="conflict" subtype="attack" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4074" length="11">laid a hand</trigger>
+  </event_mention>
+  <event_mention id="em-124" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1339" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-126" type="justice" subtype="convict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="406" length="6">guilty</trigger>
+  </event_mention>
+  <event_mention id="em-153" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3891" length="4">drag</trigger>
+  </event_mention>
+  <event_mention id="em-172" type="justice" subtype="fine" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2409" length="5">fined</trigger>
+  </event_mention>
+  <event_mention id="em-174" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="824" length="7">dragged</trigger>
+  </event_mention>
+  <event_mention id="em-183" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="824" length="7">dragged</trigger>
+  </event_mention>
+  <event_mention id="em-186" type="justice" subtype="acquit" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="349" length="9">acquitted</trigger>
+  </event_mention>
+  <event_mention id="em-187" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3742" length="4">held</trigger>
+  </event_mention>
+  <event_mention id="em-190" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3697" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-191" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="712" length="5">melee</trigger>
+  </event_mention>
+  <event_mention id="em-198" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="751" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-232" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1250" length="7">summons</trigger>
+  </event_mention>
+  <event_mention id="em-248" type="conflict" subtype="attack" realis="generic">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1663" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-250" type="justice" subtype="convict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2749" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-253" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1687" length="7">dispute</trigger>
+  </event_mention>
+  <event_mention id="em-254" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2116" length="4">note</trigger>
+  </event_mention>
+  <event_mention id="em-259" type="justice" subtype="convict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2943" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-269" type="conflict" subtype="attack" realis="generic">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4587" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1113" length="8">injuries</trigger>
+  </event_mention>
+  <event_mention id="em-289" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="169" length="5">Trial</trigger>
+  </event_mention>
+  <event_mention id="em-296" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="630" length="6">victim</trigger>
+  </event_mention>
+  <event_mention id="em-312" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2067" length="8">admitted</trigger>
+  </event_mention>
+  <event_mention id="em-327" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3587" length="5">speak</trigger>
+  </event_mention>
+  <event_mention id="em-340" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="924" length="12">condemnation</trigger>
+  </event_mention>
+  <event_mention id="em-355" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="383" length="6">Victim</trigger>
+  </event_mention>
+  <event_mention id="em-358" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3410" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-376" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2497" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-394" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="362" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-396" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1602" length="3">its</trigger>
+  </event_mention>
+  <event_mention id="em-409" type="conflict" subtype="attack" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4154" length="4">hold</trigger>
+  </event_mention>
+  <event_mention id="em-416" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1958" length="6">charge</trigger>
+  </event_mention>
+  <event_mention id="em-442" type="justice" subtype="acquit" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1638" length="8">innocent</trigger>
+  </event_mention>
+  <event_mention id="em-444" type="life" subtype="injure" realis="generic">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1428" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-448" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1733" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-455" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4336" length="6">sermon</trigger>
+  </event_mention>
+  <event_mention id="em-459" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4249" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-468" type="justice" subtype="acquit" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1403" length="8">innocent</trigger>
+  </event_mention>
+  <event_mention id="em-475" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="448" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-479" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3055" length="6">preach</trigger>
+  </event_mention>
+  <event_mention id="em-485" type="conflict" subtype="attack" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1228" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-505" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1999" length="14">communications</trigger>
+  </event_mention>
+  <event_mention id="em-509" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3856" length="6">strike</trigger>
+  </event_mention>
+  <event_mention id="em-514" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1821" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-524" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1003" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-527" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="383" length="6">Victim</trigger>
+  </event_mention>
+  <event_mention id="em-536" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2019" length="6">charge</trigger>
+  </event_mention>
+  <event_mention id="em-537" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="645" length="7">beating</trigger>
+  </event_mention>
+  <event_mention id="em-541" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4313" length="5">asked</trigger>
+  </event_mention>
+  <event_mention id="em-550" type="justice" subtype="sentence" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2399" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-553" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3769" length="4">beat</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3697" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-563" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1590" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-571" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3891" length="4">drag</trigger>
+  </event_mention>
+  <event_mention id="em-572" type="justice" subtype="acquit" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="553" length="9">acquitted</trigger>
+  </event_mention>
+  <event_mention id="em-578" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4364" length="3">ask</trigger>
+  </event_mention>
+  <event_mention id="em-584" type="justice" subtype="convict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="616" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="801" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-616" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3248" length="8">ceremony</trigger>
+  </event_mention>
+  <event_mention id="em-627" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3714" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-639" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3516" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-642" type="justice" subtype="appeal" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2738" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-645" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4471" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-656" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1129" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-661" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2720" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-665" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2076" length="7">tacking</trigger>
+  </event_mention>
+  <event_mention id="em-670" type="justice" subtype="acquit" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1519" length="9">acquitted</trigger>
+  </event_mention>
+  <event_mention id="em-683" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4382" length="6">preach</trigger>
+  </event_mention>
+  <event_mention id="em-699" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3951" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-701" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1088" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-709" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1149" length="6">broken</trigger>
+  </event_mention>
+  <event_mention id="em-729" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1547" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-731" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2778" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-747" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2587" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-749" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="176" length="7">Assault</trigger>
+  </event_mention>
+  <event_mention id="em-767" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="778" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-790" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="645" length="7">beating</trigger>
+  </event_mention>
+  <event_mention id="em-791" type="conflict" subtype="attack" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4144" length="6">strike</trigger>
+  </event_mention>
+  <event_mention id="em-796" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="362" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-805" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4419" length="9">responded</trigger>
+  </event_mention>
+  <event_mention id="em-816" type="conflict" subtype="attack" realis="generic">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1428" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-822" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="456" length="5">melee</trigger>
+  </event_mention>
+  <event_mention id="em-831" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4109" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-839" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2474" length="7">ordered</trigger>
+  </event_mention>
+  <event_mention id="em-854" type="life" subtype="injure" realis="other">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4144" length="6">strike</trigger>
+  </event_mention>
+  <event_mention id="em-864" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4202" length="10">challenged</trigger>
+  </event_mention>
+  <event_mention id="em-866" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2394" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-872" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3969" length="3">ran</trigger>
+  </event_mention>
+  <event_mention id="em-875" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="4050" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-880" type="life" subtype="injure" realis="generic">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1663" length="7">assault</trigger>
+  </event_mention>
+  <event_mention id="em-884" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3856" length="6">strike</trigger>
+  </event_mention>
+  <event_mention id="em-887" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3221" length="7">invited</trigger>
+  </event_mention>
+  <event_mention id="em-905" type="life" subtype="injure" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3878" length="4">slap</trigger>
+  </event_mention>
+  <event_mention id="em-920" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="1567" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-925" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3106" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-942" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="585" length="7">funeral</trigger>
+  </event_mention>
+  <event_mention id="em-943" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2609" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-961" type="conflict" subtype="attack" realis="actual">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="3878" length="4">slap</trigger>
+  </event_mention>
+  <event_mention id="em-975" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="858264aba64be1a2621fd4b7cbfe1a05" offset="2311" length="4">note</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

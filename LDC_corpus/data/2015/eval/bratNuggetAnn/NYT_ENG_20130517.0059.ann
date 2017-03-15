@@ -1,0 +1,132 @@
+T1	Contact_Contact 1852 1856	said
+E29	Contact_Contact:T1
+A1	Realis E29 Actual
+T2	Contact_Broadcast 2103 2112	statement
+E56	Contact_Broadcast:T2
+A2	Realis E56 Actual
+T3	Life_Die 530 536	killed
+E74	Life_Die:T3
+A3	Realis E74 Actual
+T4	Conflict_Attack 629 637	violence
+E83	Conflict_Attack:T4
+A4	Realis E83 Actual
+T5	Contact_Contact 474 478	said
+E125	Contact_Contact:T5
+A5	Realis E125 Actual
+T6	Movement_Transport-Person 1493 1498	leave
+E161	Movement_Transport-Person:T6
+A6	Realis E161 Actual
+T7	Conflict_Attack 188 192	SHOT
+E213	Conflict_Attack:T7
+A7	Realis E213 Actual
+T8	Life_Die 766 772	victim
+E222	Life_Die:T8
+A8	Realis E222 Actual
+T9	Movement_Transport-Person 1595 1602	arrival
+E229	Movement_Transport-Person:T9
+A9	Realis E229 Actual
+T10	Conflict_Attack 205 213	INVASION
+E251	Conflict_Attack:T10
+A10	Realis E251 Actual
+T11	Conflict_Attack 2008 2016	shooting
+E265	Conflict_Attack:T11
+A11	Realis E265 Actual
+T12	Movement_Transport-Person 1316 1324	burst in
+E268	Movement_Transport-Person:T12
+A12	Realis E268 Actual
+T13	Life_Die 894 900	killed
+E274	Life_Die:T13
+A13	Realis E274 Actual
+T14	Movement_Transport-Person 2455 2460	leave
+E408	Movement_Transport-Person:T14
+A14	Realis E408 Actual
+T15	Life_Die 1647 1653	killed
+E435	Life_Die:T15
+A15	Realis E435 Actual
+T16	Movement_Transport-Person 492 498	forced
+E437	Movement_Transport-Person:T16
+A16	Realis E437 Actual
+T17	Contact_Meet 2221 2231	ceremonies
+E461	Contact_Meet:T17
+A17	Realis E461 Other
+T18	Conflict_Attack 1647 1653	killed
+E504	Conflict_Attack:T18
+A18	Realis E504 Actual
+T19	Conflict_Attack 2165 2171	killed
+E510	Conflict_Attack:T19
+A19	Realis E510 Actual
+T20	Conflict_Attack 580 585	fired
+E584	Conflict_Attack:T20
+A20	Realis E584 Actual
+T21	Life_Die 915 921	victim
+E607	Life_Die:T21
+A21	Realis E607 Actual
+T22	Life_Die 1688 1694	killed
+E608	Life_Die:T22
+A22	Realis E608 Actual
+T23	Conflict_Attack 284 288	shot
+E617	Conflict_Attack:T23
+A23	Realis E617 Actual
+T24	Conflict_Attack 530 536	killed
+E647	Conflict_Attack:T24
+A24	Realis E647 Actual
+T25	Conflict_Attack 1915 1922	gunfire
+E649	Conflict_Attack:T25
+A25	Realis E649 Actual
+T26	Contact_Contact 2507 2511	said
+E659	Contact_Contact:T26
+A26	Realis E659 Actual
+T27	Contact_Broadcast 2203 2207	said
+E676	Contact_Broadcast:T27
+A27	Realis E676 Actual
+T28	Contact_Broadcast 1960 1967	message
+E717	Contact_Broadcast:T28
+A28	Realis E717 Actual
+T29	Life_Die 293 299	killed
+E755	Life_Die:T29
+A29	Realis E755 Actual
+T30	Conflict_Attack 1606 1614	shooting
+E757	Conflict_Attack:T30
+A30	Realis E757 Actual
+T31	Conflict_Attack 894 900	killed
+E758	Conflict_Attack:T31
+A31	Realis E758 Actual
+T32	Conflict_Attack 915 921	victim
+E765	Conflict_Attack:T32
+A32	Realis E765 Actual
+T33	Conflict_Attack 766 772	victim
+E776	Conflict_Attack:T33
+A33	Realis E776 Actual
+T34	Conflict_Attack 1800 1808	shooting
+E782	Conflict_Attack:T34
+A34	Realis E782 Actual
+T35	Conflict_Attack 439 448	gunbattle
+E784	Conflict_Attack:T35
+A35	Realis E784 Actual
+T36	Contact_Correspondence 1557 1561	call
+E829	Contact_Correspondence:T36
+A36	Realis E829 Actual
+T37	Contact_Meet 2297 2303	gather
+E846	Contact_Meet:T37
+A37	Realis E846 Actual
+T38	Life_Die 180 187	FATALLY
+E849	Life_Die:T38
+A38	Realis E849 Actual
+T39	Movement_Transport-Person 347 357	broke into
+E858	Movement_Transport-Person:T39
+A39	Realis E858 Actual
+T40	Life_Die 590 595	fatal
+E870	Life_Die:T40
+A40	Realis E870 Actual
+T41	Contact_Contact 1697 1701	said
+E918	Contact_Contact:T41
+A41	Realis E918 Actual
+T42	Contact_Contact 2471 2476	asked
+E936	Contact_Contact:T42
+A42	Realis E936 Actual
+T43	Conflict_Attack 1688 1694	killed
+E972	Conflict_Attack:T43
+A43	Realis E972 Actual
+T44	Life_Die 2165 2171	killed
+E977	Life_Die:T44
+A44	Realis E977 Actual

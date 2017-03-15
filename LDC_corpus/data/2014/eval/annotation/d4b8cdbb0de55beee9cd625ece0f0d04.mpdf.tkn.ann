@@ -1,0 +1,813 @@
+T1	Justice_Charge-Indict 185 195	indictment
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 241 245	lied
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 251 254;258 262	get into
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 279 287	proclaim
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 344 350	speech
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 976 983	charged
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Other
+T7	Contact_Communicate 989 994	lying
+E7	Contact_Communicate:T7 
+A7	Realis E7 Other
+T8	Justice_Charge-Indict 1235 1245	indictment
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Justice_Trial-Hearing 1325 1330	trial
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Other
+T10	Conflict_Attack 1404 1407	war
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Conflict_Demonstrate 1488 1504	mass destruction
+E11	Conflict_Demonstrate:T11 
+A11	Realis E11 Generic
+T12	Contact_Communicate 1574 1578	said
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual
+T13	Justice_Charge-Indict 1631 1641	indictment
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 1783 1787	said
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 1796 1804	referred
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 1961 1965	said
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Justice_Charge-Indict 1973 1983	indictment
+E17	Justice_Charge-Indict:T17 
+A17	Realis E17 Actual
+T18	Contact_Communicate 2071 2078	explain
+E18	Contact_Communicate:T18 
+A18	Realis E18 Other
+T19	Conflict_Attack 2189 2192	war
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Justice_Charge-Indict 2270 2280	indictment
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Actual
+T21	Contact_Communicate 2305 2312	advised
+E21	Contact_Communicate:T21 
+A21	Realis E21 Actual
+T22	Contact_Communicate 2424 2428	tell
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Contact_Communicate 2475 2479	says
+E23	Contact_Communicate:T23 
+A23	Realis E23 Actual
+T24	Contact_Communicate 2515 2519	said
+E24	Contact_Communicate:T24 
+A24	Realis E24 Actual
+T25	Contact_Communicate 2571 2576	added
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Contact_Communicate 2623 2630	comment
+E26	Contact_Communicate:T26 
+A26	Realis E26 Other
+T27	Contact_Communicate 2658 2663	Asked
+E27	Contact_Communicate:T27 
+A27	Realis E27 Actual
+T28	Contact_Communicate 2682 2686	said
+E28	Contact_Communicate:T28 
+A28	Realis E28 Actual
+T29	Justice_Charge-Indict 2734 2741	charged
+E29	Justice_Charge-Indict:T29 
+A29	Realis E29 Other
+T30	Justice_Charge-Indict 2749 2759	indictment
+E30	Justice_Charge-Indict:T30 
+A30	Realis E30 Actual
+T31	Justice_Charge-Indict 2785 2795	indictment
+E31	Justice_Charge-Indict:T31 
+A31	Realis E31 Actual
+T32	Justice_Charge-Indict 2807 2814	charges
+E32	Justice_Charge-Indict:T32 
+A32	Realis E32 Actual
+T33	Justice_Arrest-Jail 2899 2905	prison
+E33	Justice_Arrest-Jail:T33 
+A33	Realis E33 Other
+T34	Justice_Sentence 2876 2883	penalty
+E34	Justice_Sentence:T34 
+A34	Realis E34 Other
+T35	Justice_Fine 2928 2933	fines
+E35	Justice_Fine:T35 
+A35	Realis E35 Other
+T36	Justice_Charge-Indict 2950 2957	charges
+E36	Justice_Charge-Indict:T36 
+A36	Realis E36 Actual
+T37	Justice_Charge-Indict 2985 2995	indictment
+E37	Justice_Charge-Indict:T37 
+A37	Realis E37 Actual
+T38	Contact_Communicate 532 537	words
+E38	Contact_Communicate:T38 
+A38	Realis E38 Actual
+T39	Justice_Charge-Indict 3016 3025	Count one
+E39	Justice_Charge-Indict:T39 
+A39	Realis E39 Actual
+T40	Justice_Charge-Indict 3067 3074	charges
+E40	Justice_Charge-Indict:T40 
+A40	Realis E40 Actual
+T41	Contact_Communicate 3200 3210	misleading
+E41	Contact_Communicate:T41 
+A41	Realis E41 Actual
+T42	Contact_Communicate 3215 3224	deceiving
+E42	Contact_Communicate:T42 
+A42	Realis E42 Actual
+T43	Justice_Charge-Indict 3339 3346	accused
+E43	Justice_Charge-Indict:T43 
+A43	Realis E43 Actual
+T44	Contact_Communicate 3350 3360	misleading
+E44	Contact_Communicate:T44 
+A44	Realis E44 Actual
+T45	Contact_Communicate 3389 3398	disclosed
+E45	Contact_Communicate:T45 
+A45	Realis E45 Actual
+T46	Justice_Charge-Indict 3431 3440	Count two
+E46	Justice_Charge-Indict:T46 
+A46	Realis E46 Actual
+T47	Contact_Communicate 3449 3458	statement
+E47	Contact_Communicate:T47 
+A47	Realis E47 Actual
+T48	Justice_Charge-Indict 3475 3482	charges
+E48	Justice_Charge-Indict:T48 
+A48	Realis E48 Actual
+T49	Contact_Communicate 3575 3584	statement
+E49	Contact_Communicate:T49 
+A49	Realis E49 Actual
+T50	Justice_Charge-Indict 3631 3641	indictment
+E50	Justice_Charge-Indict:T50 
+A50	Realis E50 Actual
+T51	Contact_Communicate 3653 3659	misled
+E51	Contact_Communicate:T51 
+A51	Realis E51 Actual
+T52	Contact_Communicate 3686 3695	questions
+E52	Contact_Communicate:T52 
+A52	Realis E52 Actual
+T53	Contact_Communicate 3704 3716	conversation
+E53	Contact_Communicate:T53 
+A53	Realis E53 Actual
+T55	Justice_Charge-Indict 3761 3772	Count three
+E55	Justice_Charge-Indict:T55 
+A55	Realis E55 Actual
+T56	Contact_Communicate 3781 3790	statement
+E56	Contact_Communicate:T56 
+A56	Realis E56 Actual
+T57	Justice_Charge-Indict 3801 3808	charged
+E57	Justice_Charge-Indict:T57 
+A57	Realis E57 Actual
+T58	Contact_Communicate 3814 3824	misleading
+E58	Contact_Communicate:T58 
+A58	Realis E58 Actual
+T59	Contact_Communicate 3856 3868	conversation
+E59	Contact_Communicate:T59 
+A59	Realis E59 Actual
+T60	Justice_Charge-Indict 3924 3934	Count four
+E60	Justice_Charge-Indict:T60 
+A60	Realis E60 Actual
+T61	Contact_Communicate 3937 3944	perjury
+E61	Contact_Communicate:T61 
+A61	Realis E61 Actual
+T62	Contact_Communicate 3970 3977	testify
+E62	Contact_Communicate:T62 
+A62	Realis E62 Other
+T63	Contact_Communicate 3952 3958;3962 3966	taking oath
+E63	Contact_Communicate:T63 
+A63	Realis E63 Actual
+T64	Contact_Communicate 4007 4011;4030 4042	made declaration
+E64	Contact_Communicate:T64 
+A64	Realis E64 Actual
+T65	Contact_Communicate 4053 4065	conversation
+E65	Contact_Communicate:T65 
+A65	Realis E65 Actual
+T66	Contact_Communicate 4096 4103	alleges
+E66	Contact_Communicate:T66 
+A66	Realis E66 Actual
+T67	Justice_Charge-Indict 4106 4116	Count five
+E67	Justice_Charge-Indict:T67 
+A67	Realis E67 Actual
+T68	Contact_Communicate 4119 4126	perjury
+E68	Contact_Communicate:T68 
+A68	Realis E68 Actual
+T70	Justice_Charge-Indict 4155 4162	accused
+E70	Justice_Charge-Indict:T70 
+A70	Realis E70 Actual
+T71	Contact_Communicate 4176 4182;4201 4213	making declaration
+E71	Contact_Communicate:T71 
+A71	Realis E71 Actual
+T72	Contact_Communicate 4224 4236	conversation
+E72	Contact_Communicate:T72 
+A72	Realis E72 Actual
+T73	Justice_Charge-Indict 4267 4277	indictment
+E73	Justice_Charge-Indict:T73 
+A73	Realis E73 Actual
+T74	Justice_Charge-Indict 4278 4285	charged
+E74	Justice_Charge-Indict:T74 
+A74	Realis E74 Actual
+T75	Justice_Charge-Indict 4297 4306	one count
+E75	Justice_Charge-Indict:T75 
+A75	Realis E75 Actual
+T76	Justice_Charge-Indict 4335 4338	two
+E76	Justice_Charge-Indict:T76 
+A76	Realis E76 Actual
+T77	Contact_Communicate 4342 4349	perjury
+E77	Contact_Communicate:T77 
+A77	Realis E77 Actual
+T78	Justice_Charge-Indict 4354 4357	two
+E78	Justice_Charge-Indict:T78 
+A78	Realis E78 Actual
+T79	Contact_Communicate 4361 4367;4374 4384	making statements
+E79	Contact_Communicate:T79 
+A79	Realis E79 Actual
+T80	Justice_Convict 4390 4399	convicted
+E80	Justice_Convict:T80 
+A80	Realis E80 Other
+T81	Justice_Charge-Indict 4407 4411	five
+E81	Justice_Charge-Indict:T81 
+A81	Realis E81 Actual
+T82	Justice_Arrest-Jail 4451 4457	prison
+E82	Justice_Arrest-Jail:T82 
+A82	Realis E82 Other
+T83	Justice_Fine 4480 4485	fines
+E83	Justice_Fine:T83 
+A83	Realis E83 Other
+T84	Justice_Charge-Indict 4513 4523	indictment
+E84	Justice_Charge-Indict:T84 
+A84	Realis E84 Actual
+T85	Contact_Communicate 4499 4508	suggested
+E85	Contact_Communicate:T85 
+A85	Realis E85 Actual
+T86	Contact_Communicate 4606 4610	said
+E86	Contact_Communicate:T86 
+A86	Realis E86 Actual
+T87	Conflict_Attack 4757 4760	war
+E87	Conflict_Attack:T87 
+A87	Realis E87 Actual
+T88	Justice_Charge-Indict 4912 4922	indictment
+E88	Justice_Charge-Indict:T88 
+A88	Realis E88 Actual
+T89	Justice_Charge-Indict 4954 4961	charged
+E89	Justice_Charge-Indict:T89 
+A89	Realis E89 Actual
+T90	Conflict_Attack 5031 5034	war
+E90	Conflict_Attack:T90 
+A90	Realis E90 Actual
+T91	Justice_Trial-Hearing 5049 5054	trial
+E91	Justice_Trial-Hearing:T91 
+A91	Realis E91 Other
+T92	Conflict_Attack 5183 5186	war
+E92	Conflict_Attack:T92 
+A92	Realis E92 Actual
+T93	Conflict_Attack 5218 5221	war
+E93	Conflict_Attack:T93 
+A93	Realis E93 Actual
+T94	Contact_Communicate 5238 5244	saying
+E94	Contact_Communicate:T94 
+A94	Realis E94 Actual
+T95	Conflict_Attack 5265 5281	mass destruction
+E95	Conflict_Attack:T95 
+A95	Realis E95 Generic
+T96	Justice_Charge-Indict 5388 5398	indictment
+E96	Justice_Charge-Indict:T96 
+A96	Realis E96 Actual
+T97	Personnel_End-Position 5421 5430;5435 5446	submitted resignation
+E97	Personnel_End-Position:T97 
+A97	Realis E97 Actual
+T98	Movement_Transport-Person 5515 5519	left
+E98	Movement_Transport-Person:T98 
+A98	Realis E98 Actual
+T99	Contact_Communicate 5539 5547	notified
+E99	Contact_Communicate:T99 
+A99	Realis E99 Actual
+T100	Justice_Charge-Indict 5589 5596	accused
+E100	Justice_Charge-Indict:T100 
+A100	Realis E100 Other
+T101	Justice_Charge-Indict 5625 5632	charges
+E101	Justice_Charge-Indict:T101 
+A101	Realis E101 Actual
+T102	Justice_Charge-Indict 5646 5653	accused
+E102	Justice_Charge-Indict:T102 
+A102	Realis E102 Actual
+T103	Contact_Communicate 5663 5668	lying
+E103	Contact_Communicate:T103 
+A103	Realis E103 Actual
+T104	Contact_Communicate 5679 5692	conversations
+E104	Contact_Communicate:T104 
+A104	Realis E104 Actual
+T105	Justice_Charge-Indict 6045 6052	charged
+E105	Justice_Charge-Indict:T105 
+A105	Realis E105 Other
+T106	Contact_Communicate 6058 6063	lying
+E106	Contact_Communicate:T106 
+A106	Realis E106 Actual
+T107	Justice_Charge-Indict 6295 6302	accused
+E107	Justice_Charge-Indict:T107 
+A107	Realis E107 Actual
+T108	Contact_Communicate 6306 6311	lying
+E108	Contact_Communicate:T108 
+A108	Realis E108 Actual
+T109	Contact_Communicate 6358 6362	lied
+E109	Contact_Communicate:T109 
+A109	Realis E109 Actual
+T110	Personnel_End-Position 6410 6419	impeached
+E110	Personnel_End-Position:T110 
+A110	Realis E110 Other
+T111	Personnel_End-Position 6433 6439	resign
+E111	Personnel_End-Position:T111 
+A111	Realis E111 Other
+T112	Contact_Communicate 6524 6536;6543 6549	comes out of mouths
+E112	Contact_Communicate:T112 
+A112	Realis E112 Generic
+T113	Justice_Charge-Indict 6758 6765	accused
+E113	Justice_Charge-Indict:T113 
+A113	Realis E113 Actual
+T114	Contact_Communicate 6769 6774	lying
+E114	Contact_Communicate:T114 
+A114	Realis E114 Actual
+T115	Contact_Communicate 6821 6825	lied
+E115	Contact_Communicate:T115 
+A115	Realis E115 Actual
+T116	Personnel_End-Position 6873 6882	impeached
+E116	Personnel_End-Position:T116 
+A116	Realis E116 Other
+T117	Personnel_End-Position 6896 6902	resign
+E117	Personnel_End-Position:T117 
+A117	Realis E117 Other
+T118	Contact_Communicate 6987 6999;7006 7012	comes out of mouths
+E118	Contact_Communicate:T118 
+A118	Realis E118 Actual
+T119	Contact_Communicate 7099 7106	perjury
+E119	Contact_Communicate:T119 
+A119	Realis E119 Generic
+T120	Personnel_End-Position 7167 7176	impeached
+E120	Personnel_End-Position:T120 
+A120	Realis E120 Other
+T121	Personnel_End-Position 7238 7257	removed from office
+E121	Personnel_End-Position:T121 
+A121	Realis E121 Other
+T122	Contact_Communicate 7631 7644	conversations
+E122	Contact_Communicate:T122 
+A122	Realis E122 Actual
+T123	Contact_Communicate 7803 7812	discussed
+E123	Contact_Communicate:T123 
+A123	Realis E123 Actual
+T125	Contact_Communicate 7948 7955	alleges
+E125	Contact_Communicate:T125 
+A125	Realis E125 Actual
+T126	Contact_Communicate 7963 7972	statement
+E126	Contact_Communicate:T126 
+A126	Realis E126 Actual
+T127	Justice_Charge-Indict 7977 7987	indictment
+E127	Justice_Charge-Indict:T127 
+A127	Realis E127 Actual
+T128	Contact_Communicate 8000 8004;8011 8021	made statements
+E128	Contact_Communicate:T128 
+A128	Realis E128 Actual
+T129	Contact_Communicate 8034 8047	conversations
+E129	Contact_Communicate:T129 
+A129	Realis E129 Actual
+T130	Justice_Trial-Hearing 8653 8663	prosecutor
+E130	Justice_Trial-Hearing:T130 
+A130	Realis E130 Other
+T131	Justice_Trial-Hearing 8721 8729	judicial
+E131	Justice_Trial-Hearing:T131 
+A131	Realis E131 Generic
+T132	Justice_Trial-Hearing 8769 8779	prosecutor
+E132	Justice_Trial-Hearing:T132 
+A132	Realis E132 Generic
+T133	Contact_Communicate 9035 9042	perjury
+E133	Contact_Communicate:T133 
+A133	Realis E133 Other
+T134	Contact_Communicate 9046 9052	did so
+E134	Contact_Communicate:T134 
+A134	Realis E134 Other
+T135	Contact_Communicate 9203 9207	lied
+E135	Contact_Communicate:T135 
+A135	Realis E135 Actual
+T136	Justice_Convict 9324 9333	convicted
+E136	Justice_Convict:T136 
+A136	Realis E136 Other
+T137	Justice_Sentence 9349 9359	serve time
+E137	Justice_Sentence:T137 
+A137	Realis E137 Other
+T138	Justice_Trial-Hearing 9400 9406	judged
+E138	Justice_Trial-Hearing:T138 
+A138	Realis E138 Other
+T139	Justice_Pardon 9543 9551	pardoned
+E139	Justice_Pardon:T139 
+A139	Realis E139 Actual
+T140	Contact_Communicate 9784 9791	perjury
+E140	Contact_Communicate:T140 
+A140	Realis E140 Generic
+T141	Justice_Charge-Indict 9881 9887	charge
+E141	Justice_Charge-Indict:T141 
+A141	Realis E141 Generic
+T142	Justice_Trial-Hearing 10251 10260	prosector
+E142	Justice_Trial-Hearing:T142 
+A142	Realis E142 Other
+T143	Contact_Meet 10302 10311	confernce
+E143	Contact_Meet:T143 
+A143	Realis E143 Actual
+T144	Justice_Charge-Indict 10567 10573	charge
+E144	Justice_Charge-Indict:T144 
+A144	Realis E144 Generic
+T145	Contact_Communicate 10614 10621	perjury
+E145	Contact_Communicate:T145 
+A145	Realis E145 Generic
+T146	Justice_Charge-Indict 9737 9743	charge
+E146	Justice_Charge-Indict:T146 
+A146	Realis E146 Generic
+T147	Justice_Charge-Indict 10711 10717	charge
+E147	Justice_Charge-Indict:T147 
+A147	Realis E147 Generic
+T148	Justice_Trial-Hearing 11081 11090	prosector
+E148	Justice_Trial-Hearing:T148 
+A148	Realis E148 Other
+T149	Contact_Meet 11132 11141	confernce
+E149	Contact_Meet:T149 
+A149	Realis E149 Actual
+T150	Contact_Communicate 10261 10265	said
+E150	Contact_Communicate:T150 
+A150	Realis E150 Actual
+T151	Contact_Communicate 11091 11095	said
+E151	Contact_Communicate:T151 
+A151	Realis E151 Actual
+T152	Contact_Communicate 11169 11176	perjury
+E152	Contact_Communicate:T152 
+A152	Realis E152 Actual
+T153	Justice_Charge-Indict 11202 11208	charge
+E153	Justice_Charge-Indict:T153 
+A153	Realis E153 Actual
+T154	Justice_Trial-Hearing 11425 11434	testifies
+E154	Justice_Trial-Hearing:T154 
+A154	Realis E154 Generic
+T155	Contact_Communicate 11448 11452	lied
+E155	Contact_Communicate:T155 
+A155	Realis E155 Generic
+T156	Contact_Communicate 11481 11488	perjury
+E156	Contact_Communicate:T156 
+A156	Realis E156 Generic
+T157	Justice_Charge-Indict 11530 11537	charges
+E157	Justice_Charge-Indict:T157 
+A157	Realis E157 Generic
+T158	Justice_Charge-Indict 11702 11708	charge
+E158	Justice_Charge-Indict:T158 
+A158	Realis E158 Generic
+T159	Contact_Communicate 11749 11756	perjury
+E159	Contact_Communicate:T159 
+A159	Realis E159 Generic
+T160	Justice_Charge-Indict 11846 11852	charge
+E160	Justice_Charge-Indict:T160 
+A160	Realis E160 Generic
+T161	Justice_Trial-Hearing 12216 12225	prosector
+E161	Justice_Trial-Hearing:T161 
+A161	Realis E161 Other
+T162	Contact_Communicate 12226 12230	said
+E162	Contact_Communicate:T162 
+A162	Realis E162 Actual
+T163	Contact_Communicate 367 372	words
+E163	Contact_Communicate:T163 
+A163	Realis E163 Actual
+T164	Contact_Meet 12267 12276	confernce
+E164	Contact_Meet:T164 
+A164	Realis E164 Actual
+T165	Contact_Communicate 12304 12311	perjury
+E165	Contact_Communicate:T165 
+A165	Realis E165 Actual
+T166	Justice_Charge-Indict 7279 7286	Charges
+E166	Justice_Charge-Indict:T166 
+A166	Realis E166 Actual
+T167	Personnel_End-Position 12481 12490	impeached
+E167	Personnel_End-Position:T167 
+A167	Realis E167 Other
+T168	Justice_Trial-Hearing 13030 13039	testifies
+E168	Justice_Trial-Hearing:T168 
+A168	Realis E168 Generic
+T169	Contact_Communicate 13053 13057	lied
+E169	Contact_Communicate:T169 
+A169	Realis E169 Generic
+T170	Contact_Communicate 13086 13093	perjury
+E170	Contact_Communicate:T170 
+A170	Realis E170 Generic
+T171	Justice_Charge-Indict 13135 13142	charges
+E171	Justice_Charge-Indict:T171 
+A171	Realis E171 Generic
+T172	Contact_Communicate 13182 13189	perjury
+E172	Contact_Communicate:T172 
+A172	Realis E172 Generic
+T173	Contact_Communicate 13469 13476	perjury
+E173	Contact_Communicate:T173 
+A173	Realis E173 Generic
+T174	Justice_Trial-Hearing 13687 13691	case
+E174	Justice_Trial-Hearing:T174 
+A174	Realis E174 Other
+T175	Justice_Trial-Hearing 1030 1034	case
+E175	Justice_Trial-Hearing:T175 
+A175	Realis E175 Other
+T176	Justice_Trial-Hearing 6099 6103	case
+E176	Justice_Trial-Hearing:T176 
+A176	Realis E176 Other
+T177	Justice_Trial-Hearing 4615 4619	case
+E177	Justice_Trial-Hearing:T177 
+A177	Realis E177 Other
+T178	Justice_Trial-Hearing 4744 4748	case
+E178	Justice_Trial-Hearing:T178 
+A178	Realis E178 Other
+T179	Justice_Trial-Hearing 7535 7539	Case
+E179	Justice_Trial-Hearing:T179 
+A179	Realis E179 Other
+T180	Justice_Trial-Hearing 14420 14424	case
+E180	Justice_Trial-Hearing:T180 
+A180	Realis E180 Other
+T181	Contact_Communicate 14610 14619	testimony
+E181	Contact_Communicate:T181 
+A181	Realis E181 Actual
+T182	Contact_Communicate 14932 14936	said
+E182	Contact_Communicate:T182 
+A182	Realis E182 Other
+T183	Contact_Communicate 14948 14954	talked
+E183	Contact_Communicate:T183 
+A183	Realis E183 Other
+T184	Contact_Communicate 14989 14993	said
+E184	Contact_Communicate:T184 
+A184	Realis E184 Actual
+T185	Justice_Charge-Indict 15104 15114	indictment
+E185	Justice_Charge-Indict:T185 
+A185	Realis E185 Actual
+T186	Justice_Trial-Hearing 15122 15133	prosecutors
+E186	Justice_Trial-Hearing:T186 
+A186	Realis E186 Other
+T187	Contact_Communicate 15151 15156	spoke
+E187	Contact_Communicate:T187 
+A187	Realis E187 Actual
+T188	Contact_Communicate 15183 15195	conversation
+E188	Contact_Communicate:T188 
+A188	Realis E188 Actual
+T189	Contact_Communicate 15242 15249	advised
+E189	Contact_Communicate:T189 
+A189	Realis E189 Actual
+T191	Justice_Charge-Indict 15329 15339	indictment
+E191	Justice_Charge-Indict:T191 
+A191	Realis E191 Actual
+T192	Justice_Charge-Indict 15411 15421	indictment
+E192	Justice_Charge-Indict:T192 
+A192	Realis E192 Actual
+T194	Contact_Communicate 15448 15457	discussed
+E194	Contact_Communicate:T194 
+A194	Realis E194 Actual
+T195	Contact_Communicate 15490 15502	conversation
+E195	Contact_Communicate:T195 
+A195	Realis E195 Actual
+T196	Justice_Charge-Indict 15509 15519	indictment
+E196	Justice_Charge-Indict:T196 
+A196	Realis E196 Actual
+T197	Contact_Communicate 15616 15623	briefed
+E197	Contact_Communicate:T197 
+A197	Realis E197 Actual
+T198	Justice_Charge-Indict 15721 15728	charged
+E198	Justice_Charge-Indict:T198 
+A198	Realis E198 Other
+T199	Contact_Communicate 15759 15763	told
+E199	Contact_Communicate:T199 
+A199	Realis E199 Actual
+T200	Contact_Communicate 15812 15816	said
+E200	Contact_Communicate:T200 
+A200	Realis E200 Actual
+T201	Contact_Communicate 15837 15849	conversation
+E201	Contact_Communicate:T201 
+A201	Realis E201 Other
+T202	Contact_Communicate 15906 15913	comment
+E202	Contact_Communicate:T202 
+A202	Realis E202 Other
+T203	Contact_Communicate 15983 15989	talked
+E203	Contact_Communicate:T203 
+A203	Realis E203 Actual
+T204	Contact_Communicate 16201 16211	emphasized
+E204	Contact_Communicate:T204 
+A204	Realis E204 Actual
+T205	Contact_Communicate 16355 16361	talked
+E205	Contact_Communicate:T205 
+A205	Realis E205 Actual
+T206	Justice_Charge-Indict 16404 16414	indictment
+E206	Justice_Charge-Indict:T206 
+A206	Realis E206 Actual
+T207	Justice_Trial-Hearing 16532 16543	prosecutors
+E207	Justice_Trial-Hearing:T207 
+A207	Realis E207 Other
+T208	Contact_Communicate 16566 16570	lied
+E208	Contact_Communicate:T208 
+A208	Realis E208 Actual
+T209	Contact_Communicate 16623 16636	conversations
+E209	Contact_Communicate:T209 
+A209	Realis E209 Actual
+T210	Justice_Trial-Hearing 16762 16771	testified
+E210	Justice_Trial-Hearing:T210 
+A210	Realis E210 Actual
+T211	Justice_Trial-Hearing 16815 16822	testify
+E211	Justice_Trial-Hearing:T211 
+A211	Realis E211 Other
+T212	Justice_Trial-Hearing 16830 16835	trial
+E212	Justice_Trial-Hearing:T212 
+A212	Realis E212 Other
+T213	Contact_Communicate 16890 16896	called
+E213	Contact_Communicate:T213 
+A213	Realis E213 Other
+T214	Justice_Trial-Hearing 16950 16959	testimony
+E214	Justice_Trial-Hearing:T214 
+A214	Realis E214 Other
+T215	Contact_Communicate 16981 16985	told
+E215	Contact_Communicate:T215 
+A215	Realis E215 Actual
+T216	Contact_Communicate 17142 17150	informed
+E216	Contact_Communicate:T216 
+A216	Realis E216 Actual
+T217	Contact_Meet 17189 17199	conference
+E217	Contact_Meet:T217 
+A217	Realis E217 Actual
+T218	Contact_Communicate 17236 17243	comment
+E218	Contact_Communicate:T218 
+A218	Realis E218 Actual
+T219	Contact_Communicate 17254 17266	conversation
+E219	Contact_Communicate:T219 
+A219	Realis E219 Actual
+T220	Contact_Communicate 17323 17332	addressed
+E220	Contact_Communicate:T220 
+A220	Realis E220 Actual
+T221	Justice_Trial-Hearing 17370 17379	testimony
+E221	Justice_Trial-Hearing:T221 
+A221	Realis E221 Actual
+T222	Contact_Communicate 17530 17534	said
+E222	Contact_Communicate:T222 
+A222	Realis E222 Actual
+T223	Movement_Transport-Person 17472 17482	subpoenaed
+E223	Movement_Transport-Person:T223 
+A223	Realis E223 Generic
+T224	Contact_Communicate 17595 17599	said
+E224	Contact_Communicate:T224 
+A224	Realis E224 Actual
+T225	Contact_Communicate 17711 17723	conversation
+E225	Contact_Communicate:T225 
+A225	Realis E225 Actual
+T226	Contact_Communicate 17812 17818	saying
+E226	Contact_Communicate:T226 
+A226	Realis E226 Generic
+T227	Personnel_End-Position 17915 17920	fired
+E227	Personnel_End-Position:T227 
+A227	Realis E227 Generic
+T228	Conflict_Attack 18294 18297	war
+E228	Conflict_Attack:T228 
+A228	Realis E228 Actual
+T229	Contact_Communicate 18337 18344	claimed
+E229	Contact_Communicate:T229 
+A229	Realis E229 Actual
+T230	Transaction_Transfer-Ownership 18369 18377	purchase
+E230	Transaction_Transfer-Ownership:T230 
+A230	Realis E230 Other
+T231	Transaction_Transfer-Ownership 18588 18597	purchased
+E231	Transaction_Transfer-Ownership:T231 
+A231	Realis E231 Other
+T233	Conflict_Attack 19200 19216	mass destruction
+E233	Conflict_Attack:T233 
+A233	Realis E233 Generic
+T235	Movement_Transport-Person 19310 19317	sending
+E235	Movement_Transport-Person:T235 
+A235	Realis E235 Other
+T236	Contact_Communicate 19375 19379	says
+E236	Contact_Communicate:T236 
+A236	Realis E236 Actual
+T237	Contact_Communicate 19436 19441	asked
+E237	Contact_Communicate:T237 
+A237	Realis E237 Actual
+T239	Contact_Communicate 19454 19461	contact
+E239	Contact_Communicate:T239 
+A239	Realis E239 Other
+T240	Contact_Communicate 19480 19486	answer
+E240	Contact_Communicate:T240 
+A240	Realis E240 Other
+T242	Contact_Communicate 19525 19529	told
+E242	Contact_Communicate:T242 
+A242	Realis E242 Actual
+T243	Contact_Communicate 19277 19281	told
+E243	Contact_Communicate:T243 
+A243	Realis E243 Actual
+T244	Contact_Communicate 18630 18634	said
+E244	Contact_Communicate:T244 
+A244	Realis E244 Actual
+T245	Contact_Communicate 19582 19589	claimed
+E245	Contact_Communicate:T245 
+A245	Realis E245 Actual
+T246	Transaction_Transfer-Ownership 19614 19622	purchase
+E246	Transaction_Transfer-Ownership:T246 
+A246	Realis E246 Other
+T247	Contact_Communicate 19732 19739	claimed
+E247	Contact_Communicate:T247 
+A247	Realis E247 Actual
+T248	Justice_Trial-Hearing 20084 20093	testifies
+E248	Justice_Trial-Hearing:T248 
+A248	Realis E248 Generic
+T249	Contact_Communicate 20107 20111	lied
+E249	Contact_Communicate:T249 
+A249	Realis E249 Actual
+T250	Contact_Communicate 20140 20147	perjury
+E250	Contact_Communicate:T250 
+A250	Realis E250 Actual
+T251	Justice_Charge-Indict 20189 20196	charges
+E251	Justice_Charge-Indict:T251 
+A251	Realis E251 Actual
+T252	Contact_Communicate 20255 20263	perjured
+E252	Contact_Communicate:T252 
+A252	Realis E252 Actual
+T253	Contact_Communicate 20476 20484	perjured
+E253	Contact_Communicate:T253 
+A253	Realis E253 Actual
+T254	Contact_Communicate 21078 21082	asks
+E254	Contact_Communicate:T254 
+A254	Realis E254 Other
+T255	Justice_Trial-Hearing 21096 21100	jury
+E255	Justice_Trial-Hearing:T255 
+A255	Realis E255 Actual
+T256	Justice_Pardon 21226 21232	pardon
+E256	Justice_Pardon:T256 
+A256	Realis E256 Other
+T257	Justice_Pardon 21444 21450	pardon
+E257	Justice_Pardon:T257 
+A257	Realis E257 Other
+T258	Justice_Pardon 21592 21598	pardon
+E258	Justice_Pardon:T258 
+A258	Realis E258 Other
+T259	Contact_Communicate 21696 21703	perjury
+E259	Contact_Communicate:T259 
+A259	Realis E259 Generic
+T260	Justice_Pardon 21919 21925	pardon
+E260	Justice_Pardon:T260 
+A260	Realis E260 Other
+T261	Contact_Communicate 22023 22030	perjury
+E261	Contact_Communicate:T261 
+A261	Realis E261 Generic
+T262	Justice_Pardon 23335 23341	pardon
+E262	Justice_Pardon:T262 
+A262	Realis E262 Other
+T263	Life_Die 23526 23530	kill
+E263	Life_Die:T263 
+A263	Realis E263 Other
+T264	Justice_Charge-Indict 23737 23747	indictment
+E264	Justice_Charge-Indict:T264 
+A264	Realis E264 Actual
+T265	Contact_Communicate 23793 23797	lied
+E265	Contact_Communicate:T265 
+A265	Realis E265 Actual
+T266	Contact_Communicate 23831 23839	proclaim
+E266	Contact_Communicate:T266 
+A266	Realis E266 Actual
+T267	Contact_Communicate 23896 23902	speech
+E267	Contact_Communicate:T267 
+A267	Realis E267 Actual
+T268	Contact_Communicate 23919 23924	words
+E268	Contact_Communicate:T268 
+A268	Realis E268 Actual
+T269	Contact_Communicate 24084 24089	words
+E269	Contact_Communicate:T269 
+A269	Realis E269 Actual
+T270	Justice_Trial-Hearing 24486 24496	prosecutor
+E270	Justice_Trial-Hearing:T270 
+A270	Realis E270 Other
+T271	Justice_Charge-Indict 24530 24542	five - count
+E271	Justice_Charge-Indict:T271 
+A271	Realis E271 Actual
+T272	Justice_Charge-Indict 24543 24553	indictment
+E272	Justice_Charge-Indict:T272 
+A272	Realis E272 Actual
+T273	Contact_Communicate 24829 24833	lied
+E273	Contact_Communicate:T273 
+A273	Realis E273 Actual
+T274	Conflict_Attack 24856 24864	invasion
+E274	Conflict_Attack:T274 
+A274	Realis E274 Actual
+T275	Contact_Communicate 24878 24883	lying
+E275	Contact_Communicate:T275 
+A275	Realis E275 Actual
+T277	Conflict_Attack 25508 25511	war
+E277	Conflict_Attack:T277 
+A277	Realis E277 Actual
+T278	Contact_Communicate 25755 25763	response
+E278	Contact_Communicate:T278 
+A278	Realis E278 Actual
+T279	Contact_Communicate 25819 25823	said
+E279	Contact_Communicate:T279 
+A279	Realis E279 Actual
+T280	Conflict_Attack 25960 25963	war
+E280	Conflict_Attack:T280 
+A280	Realis E280 Actual
+T54	Contact_Meet 1546 1556	conference
+E54	Contact_Meet:T54 
+A54	Realis E54 Actual

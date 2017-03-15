@@ -1,0 +1,39 @@
+T1	Personnel_Elect 70 75;80 87	picks leaders
+E1	Personnel_Elect:T1 
+A1	Realis E1 Actual
+T2	Personnel_Elect 274 281	elected
+E2	Personnel_Elect:T2 
+A2	Realis E2 Actual
+T3	Personnel_Elect 362 369	elected
+E3	Personnel_Elect:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 411 415;420 428	lost position
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Life_Die 789 793	died
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 847 851	died
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Die 919 930	passed away
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Business_Start-Org 1248 1255	created
+E8	Business_Start-Org:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 1307 1315	returned
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Business_Start-Org 1559 1565	create
+E10	Business_Start-Org:T10 
+A10	Realis E10 Other
+T11	Personnel_Start-Position 299 302	new
+E11	Personnel_Start-Position:T11 
+A11	Realis E11 Actual
+T12	Personnel_Start-Position 709 718	replacing
+E12	Personnel_Start-Position:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 1355 1360	exile
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual

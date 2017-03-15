@@ -1,0 +1,60 @@
+T1	Transaction_Transfer-Money 357 361	Loan
+E96	Transaction_Transfer-Money:T1
+A1	Realis E96 Actual
+T2	Transaction_Transfer-Money 837 840	buy
+E149	Transaction_Transfer-Money:T2
+A2	Realis E149 Other
+T3	Contact_Contact 592 598	argued
+E214	Contact_Contact:T3
+A3	Realis E214 Actual
+T4	Business_Declare-Bankruptcy 928 934	failed
+E258	Business_Declare-Bankruptcy:T4
+A4	Realis E258 Actual
+T5	Justice_Sue 966 970	sued
+E361	Justice_Sue:T5
+A5	Realis E361 Actual
+T6	Transaction_Transfer-Money 623 630	lending
+E389	Transaction_Transfer-Money:T6
+A6	Realis E389 Actual
+T7	Contact_Contact 1857 1861	said
+E420	Contact_Contact:T7
+A7	Realis E420 Actual
+T8	Transaction_Transfer-Ownership 954 964	taken over
+E464	Transaction_Transfer-Ownership:T8
+A8	Realis E464 Actual
+T9	Transaction_Transfer-Money 2138 2145	support
+E531	Transaction_Transfer-Money:T9
+A9	Realis E531 Generic
+T10	Transaction_Transfer-Money 1477 1481	lent
+E544	Transaction_Transfer-Money:T10
+A10	Realis E544 Actual
+T11	Transaction_Transfer-Ownership 837 840	buy
+E600	Transaction_Transfer-Ownership:T11
+A11	Realis E600 Other
+T12	Transaction_Transfer-Money 338 343	Repay
+E616	Transaction_Transfer-Money:T12
+A12	Realis E616 Other
+T13	Justice_Sue 1030 1041	countersued
+E635	Justice_Sue:T13
+A13	Realis E635 Actual
+T14	Transaction_Transfer-Money 1092 1096	loan
+E644	Transaction_Transfer-Money:T14
+A14	Realis E644 Actual
+T15	Transaction_Transfer-Money 793 797	loan
+E688	Transaction_Transfer-Money:T15
+A15	Realis E688 Actual
+T16	Contact_Contact 1403 1409	argued
+E759	Contact_Contact:T16
+A16	Realis E759 Actual
+T17	Transaction_Transfer-Money 565 569	loan
+E765	Transaction_Transfer-Money:T17
+A17	Realis E765 Actual
+T18	Transaction_Transfer-Money 1533 1536	pay
+E855	Transaction_Transfer-Money:T18
+A18	Realis E855 Other
+T19	Transaction_Transfer-Money 1149 1151	it
+E872	Transaction_Transfer-Money:T19
+A19	Realis E872 Actual
+T20	Justice_Sue 527 531	sued
+E944	Justice_Sue:T20
+A20	Realis E944 Actual

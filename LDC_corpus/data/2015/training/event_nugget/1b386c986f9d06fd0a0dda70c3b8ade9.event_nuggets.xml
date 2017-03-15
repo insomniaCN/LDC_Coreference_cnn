@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976290000000000000019" doc_id="1b386c986f9d06fd0a0dda70c3b8ade9" source_type="multi_post">
+<event_mention id="em-194" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="145" length="9">sentences</trigger>
+      </event_mention>
+<event_mention id="em-207" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="125" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-220" type="justice" subtype="sentence" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="319" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-233" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="474" length="7">trading</trigger>
+      </event_mention>
+<event_mention id="em-246" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="564" length="5">trade</trigger>
+      </event_mention>
+<event_mention id="em-259" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1345" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-272" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1399" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-285" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2650" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-298" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2704" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-337" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1993" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-350" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="940" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-363" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2075" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-376" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1022" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-389" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="603" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-402" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2455" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-415" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="848" length="5">argue</trigger>
+      </event_mention>
+<event_mention id="em-428" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1901" length="5">argue</trigger>
+      </event_mention>
+<event_mention id="em-441" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1635" length="9">pressured</trigger>
+      </event_mention>
+<event_mention id="em-454" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="711" length="9">pressured</trigger>
+      </event_mention>
+<event_mention id="em-467" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="392" length="8">pressure</trigger>
+      </event_mention>
+<event_mention id="em-480" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1672" length="7">capture</trigger>
+      </event_mention>
+<event_mention id="em-493" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="748" length="7">capture</trigger>
+      </event_mention>
+<event_mention id="em-506" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="800" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-519" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1724" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-532" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1218" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-545" type="justice" subtype="extradite" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1684" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-558" type="justice" subtype="extradite" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="760" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-571" type="justice" subtype="extradite" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="588" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-584" type="justice" subtype="extradite" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2386" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-597" type="justice" subtype="extradite" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1250" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-610" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1737" length="10">imprisoned</trigger>
+      </event_mention>
+<event_mention id="em-623" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="813" length="10">imprisoned</trigger>
+      </event_mention>
+<event_mention id="em-636" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2478" length="6">jailed</trigger>
+      </event_mention>
+<event_mention id="em-649" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1168" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-662" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2304" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-675" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2323" length="10">imprisoned</trigger>
+      </event_mention>
+<event_mention id="em-688" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1187" length="10">imprisoned</trigger>
+      </event_mention>
+<event_mention id="em-701" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2354" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-714" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1387" length="3">ask</trigger>
+      </event_mention>
+<event_mention id="em-727" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2692" length="3">ask</trigger>
+      </event_mention>
+<event_mention id="em-740" type="justice" subtype="extradite" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1432" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-753" type="justice" subtype="extradite" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2737" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-766" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2970" length="5">enter</trigger>
+      </event_mention>
+<event_mention id="em-779" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2109" length="5">enter</trigger>
+      </event_mention>
+<event_mention id="em-792" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="8151" length="5">enter</trigger>
+      </event_mention>
+<event_mention id="em-805" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3241" length="8">entering</trigger>
+      </event_mention>
+<event_mention id="em-818" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3082" length="8">entering</trigger>
+      </event_mention>
+<event_mention id="em-831" type="conflict" subtype="attack" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3977" length="8">shoot up</trigger>
+      </event_mention>
+<event_mention id="em-844" type="conflict" subtype="attack" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3421" length="8">shoot up</trigger>
+      </event_mention>
+<event_mention id="em-857" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4012" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-870" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3456" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-883" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3393" length="8">pressure</trigger>
+      </event_mention>
+<event_mention id="em-896" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3949" length="8">pressure</trigger>
+      </event_mention>
+<event_mention id="em-935" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3318" length="8">shipping</trigger>
+      </event_mention>
+<event_mention id="em-948" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3874" length="8">shipping</trigger>
+      </event_mention>
+<event_mention id="em-961" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4316" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-974" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4543" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-987" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4568" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1000" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4341" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1013" type="personnel" subtype="startposition" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4387" length="9">employing</trigger>
+      </event_mention>
+<event_mention id="em-1026" type="personnel" subtype="startposition" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4614" length="9">employing</trigger>
+      </event_mention>
+<event_mention id="em-1039" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5201" length="9">Smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1052" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4646" length="9">Smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1065" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5439" length="6">demand</trigger>
+      </event_mention>
+<event_mention id="em-1078" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4838" length="6">demand</trigger>
+      </event_mention>
+<event_mention id="em-1091" type="conflict" subtype="attack" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5483" length="5">fight</trigger>
+      </event_mention>
+<event_mention id="em-1104" type="conflict" subtype="attack" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4882" length="5">fight</trigger>
+      </event_mention>
+<event_mention id="em-1117" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5493" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-1130" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4892" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-1143" type="justice" subtype="extradite" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5507" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1156" type="justice" subtype="extradite" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4906" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1169" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7877" length="6">end up</trigger>
+      </event_mention>
+<event_mention id="em-1182" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7221" length="6">end up</trigger>
+      </event_mention>
+<event_mention id="em-1195" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4082" length="11">rounding up</trigger>
+      </event_mention>
+<event_mention id="em-1208" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="3526" length="11">rounding up</trigger>
+      </event_mention>
+<event_mention id="em-1221" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="451" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-1234" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5838" length="8">charging</trigger>
+      </event_mention>
+<event_mention id="em-1247" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5059" length="8">charging</trigger>
+      </event_mention>
+<event_mention id="em-1260" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5078" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1273" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5857" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1286" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6812" length="6">tariff</trigger>
+      </event_mention>
+<event_mention id="em-1299" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6033" length="6">tariff</trigger>
+      </event_mention>
+<event_mention id="em-1312" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5966" length="10">smuggleing</trigger>
+      </event_mention>
+<event_mention id="em-1325" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6745" length="10">smuggleing</trigger>
+      </event_mention>
+<event_mention id="em-1338" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6107" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-1351" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6994" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-1364" type="justice" subtype="extradite" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7007" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1377" type="justice" subtype="extradite" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6120" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1390" type="personnel" subtype="startposition" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6177" length="7">hireing</trigger>
+      </event_mention>
+<event_mention id="em-1403" type="personnel" subtype="startposition" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7064" length="7">hireing</trigger>
+      </event_mention>
+<event_mention id="em-1416" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7086" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-1429" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6199" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-1442" type="justice" subtype="trialhearing" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7684" length="9">persecute</trigger>
+      </event_mention>
+<event_mention id="em-1455" type="justice" subtype="trialhearing" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6873" length="9">persecute</trigger>
+      </event_mention>
+<event_mention id="em-1520" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5404" length="4">ship</trigger>
+      </event_mention>
+<event_mention id="em-1533" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4803" length="4">ship</trigger>
+      </event_mention>
+<event_mention id="em-1546" type="conflict" subtype="attack" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="422" length="8">shoot up</trigger>
+      </event_mention>
+<event_mention id="em-1559" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1302" length="11">cooperation</trigger>
+      </event_mention>
+<event_mention id="em-1572" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1336" length="8">prisoner</trigger>
+      </event_mention>
+<event_mention id="em-1585" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1829" length="9">arresting</trigger>
+      </event_mention>
+<event_mention id="em-1598" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1868" length="10">pressuring</trigger>
+      </event_mention>
+<event_mention id="em-1611" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2025" length="5">deals</trigger>
+      </event_mention>
+<event_mention id="em-1624" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2775" length="9">abducting</trigger>
+      </event_mention>
+<event_mention id="em-1637" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4935" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-1663" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5334" length="10">smuggleing</trigger>
+      </event_mention>
+<event_mention id="em-1676" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5536" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-1689" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5670" length="9">agreement</trigger>
+      </event_mention>
+<event_mention id="em-1702" type="justice" subtype="extradite" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7459" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1715" type="personnel" subtype="startposition" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7476" length="4">hire</trigger>
+      </event_mention>
+<event_mention id="em-1728" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7499" length="9">smugglers</trigger>
+      </event_mention>
+<event_mention id="em-1741" type="conflict" subtype="attack" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7185" length="6">attack</trigger>
+      </event_mention>
+<event_mention id="em-1754" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7449" length="6">demand</trigger>
+      </event_mention>
+<event_mention id="em-1767" type="conflict" subtype="attack" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7947" length="6">attack</trigger>
+      </event_mention>
+<event_mention id="em-1780" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="760" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1793" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1250" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1806" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1432" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1819" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1684" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1832" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2386" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1845" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2737" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1858" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="588" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-1871" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4316" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-1884" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4543" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-1897" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4341" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1910" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4568" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1923" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4646" length="9">Smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1936" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5201" length="9">Smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1949" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5078" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-1962" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="4906" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1975" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5334" length="10">smuggleing</trigger>
+      </event_mention>
+<event_mention id="em-1988" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5507" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-2001" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5857" length="9">smuggling</trigger>
+      </event_mention>
+<event_mention id="em-2014" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="5966" length="10">smuggleing</trigger>
+      </event_mention>
+<event_mention id="em-2027" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6120" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-2040" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6199" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-2053" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="6745" length="10">smuggleing</trigger>
+      </event_mention>
+<event_mention id="em-2066" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7007" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-2079" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7086" length="7">smuggle</trigger>
+      </event_mention>
+<event_mention id="em-2092" type="movement" subtype="transportperson" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7459" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-2105" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="7499" length="9">smugglers</trigger>
+      </event_mention>
+<event_mention id="em-2118" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="940" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-2131" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="1993" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-2144" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="195" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-2172" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="972" length="5">deals</trigger>
+      </event_mention>
+<event_mention id="em-2185" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="1b386c986f9d06fd0a0dda70c3b8ade9" offset="2607" length="11">cooperation</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

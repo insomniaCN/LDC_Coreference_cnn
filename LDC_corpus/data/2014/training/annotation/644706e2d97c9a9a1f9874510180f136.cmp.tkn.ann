@@ -1,0 +1,184 @@
+T1	Conflict_Attack 229 241	intervention
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 267 274	attacks
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 321 327	attack
+E3	Conflict_Attack:T3 
+A3	Realis E3 Other
+T4	Conflict_Attack 364 376	intervention
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 737 744	attacks
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Life_Die 764 768	dead
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 810 817	attacks
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Life_Die 839 849	casualties
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 892 899	attacks
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Life_Die 921 931	casualties
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 973 980	attacks
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Life_Die 1006 1016	fatalities
+E12	Life_Die:T12 
+T13	Conflict_Attack 1030 1037	attacks
+E13	Conflict_Attack:T13 
+A12	Realis E13 Actual
+T14	Life_Die 1043 1049	killed
+E14	Life_Die:T14 
+A13	Realis E14 Actual
+T15	Life_Die 1112 1122	casualties
+E15	Life_Die:T15 
+A14	Realis E15 Generic
+T16	Life_Die 1199 1205	killed
+E16	Life_Die:T16 
+A15	Realis E16 Actual
+T17	Life_Die 1300 1304	kill
+E17	Life_Die:T17 
+A16	Realis E17 Generic
+T18	Life_Die 1688 1697	causality
+E18	Life_Die:T18 
+A17	Realis E18 Generic
+T19	Life_Die 1770 1776	killed
+E19	Life_Die:T19 
+A18	Realis E19 Actual
+T20	Life_Die 1799 1805	killed
+E20	Life_Die:T20 
+A19	Realis E20 Actual
+T21	Conflict_Attack 1815 1822	attacks
+E21	Conflict_Attack:T21 
+A20	Realis E21 Actual
+T22	Life_Die 1887 1897	casaulties
+E22	Life_Die:T22 
+A21	Realis E22 Actual
+T23	Life_Die 1974 1980	killed
+E23	Life_Die:T23 
+A22	Realis E23 Actual
+T24	Conflict_Attack 2267 2276	conflicts
+E24	Conflict_Attack:T24 
+A23	Realis E24 Generic
+T25	Life_Die 2362 2368	lethal
+E25	Life_Die:T25 
+A24	Realis E25 Generic
+T26	Life_Die 2480 2487	murders
+E26	Life_Die:T26 
+A25	Realis E26 Generic
+T27	Life_Die 2541 2551	casualties
+E27	Life_Die:T27 
+A26	Realis E27 Actual
+T28	Life_Die 2593 2603	casualties
+E28	Life_Die:T28 
+A27	Realis E28 Actual
+T29	Life_Die 2674 2679	death
+E29	Life_Die:T29 
+A28	Realis E29 Actual
+T30	Life_Die 2804 2808	died
+E30	Life_Die:T30 
+A29	Realis E30 Other
+T31	Life_Die 2843 2850	blew up
+E31	Life_Die:T31 
+A30	Realis E31 Other
+T32	Life_Die 3163 3168	death
+E32	Life_Die:T32 
+A31	Realis E32 Actual
+T33	Life_Die 3293 3297	died
+E33	Life_Die:T33 
+A32	Realis E33 Other
+T34	Life_Die 3332 3339	blew up
+E34	Life_Die:T34 
+A33	Realis E34 Other
+T35	Conflict_Attack 3979 3986	attacks
+E35	Conflict_Attack:T35 
+A34	Realis E35 Actual
+T36	Conflict_Attack 4227 4233	attack
+E36	Conflict_Attack:T36 
+T37	Conflict_Attack 4255 4259	ones
+E37	Conflict_Attack:T37 
+A35	Realis E37 Actual
+T38	Life_Die 4376 4381	death
+E38	Life_Die:T38 
+A36	Realis E38 Generic
+T39	Life_Die 4504 4510	deaths
+E39	Life_Die:T39 
+A37	Realis E39 Generic
+T40	Conflict_Attack 4566 4573	attacks
+E40	Conflict_Attack:T40 
+A38	Realis E40 Generic
+T41	Conflict_Attack 4722 4725	war
+E41	Conflict_Attack:T41 
+A39	Realis E41 Actual
+T42	Conflict_Attack 4930 4943	ground zeroes
+E42	Conflict_Attack:T42 
+A40	Realis E42 Generic
+T43	Conflict_Attack 4997 5004	invaded
+E43	Conflict_Attack:T43 
+A41	Realis E43 Actual
+T44	Conflict_Attack 5020 5033	Dropped nukes
+E44	Conflict_Attack:T44 
+A42	Realis E44 Actual
+T45	Conflict_Attack 5054 5071	pour agent orange
+E45	Conflict_Attack:T45 
+A43	Realis E45 Actual
+T46	Conflict_Attack 5054 5058;5076 5096	pour other such chemicals
+E46	Conflict_Attack:T46 
+A44	Realis E46 Actual
+T47	Life_Die 5149 5153	died
+E47	Life_Die:T47 
+A45	Realis E47 Generic
+T48	Life_Die 5187 5193	killed
+E48	Life_Die:T48 
+A46	Realis E48 Actual
+T49	Life_Die 5538 5543	dying
+E49	Life_Die:T49 
+A47	Realis E49 Generic
+T50	Movement_Transport-Person 5826 5828	go
+E50	Movement_Transport-Person:T50 
+A48	Realis E50 Generic
+T51	Conflict_Attack 5833 5838	fight
+E51	Conflict_Attack:T51 
+A49	Realis E51 Generic
+T52	Life_Die 5861 5864	die
+E52	Life_Die:T52 
+A50	Realis E52 Generic
+T53	Life_Die 6061 6065	kill
+E53	Life_Die:T53 
+A51	Realis E53 Generic
+T54	Life_Die 6091 6097	deaths
+E54	Life_Die:T54 
+A52	Realis E54 Actual
+T55	Life_Die 6176 6184	killings
+E55	Life_Die:T55 
+A53	Realis E55 Generic
+T56	Life_Die 6218 6225	killing
+E56	Life_Die:T56 
+A54	Realis E56 Generic
+T57	Life_Die 475 479	kill
+E57	Life_Die:T57 
+A55	Realis E57 Other
+T58	Conflict_Attack 674 683	terrorism
+E58	Conflict_Attack:T58 
+A56	Realis E58 Generic
+T59	Conflict_Attack 2329 2339	combatants
+E59	Conflict_Attack:T59 
+A57	Realis E59 Generic
+T60	Conflict_Attack 2358 2361;2369 2374	use force
+E60	Conflict_Attack:T60 
+A58	Realis E60 Generic
+T61	Conflict_Attack 4278 4280	it
+E61	Conflict_Attack:T61 
+A59	Realis E61 Actual
+T62	Conflict_Attack 4652 4662	aggression
+E62	Conflict_Attack:T62 
+A60	Realis E62 Generic

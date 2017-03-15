@@ -1,0 +1,66 @@
+T1	Movement_Transport-Person 604 609	taken
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 654 658	trip
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 777 780	met
+E3	Contact_Meet:T3 
+A3	Realis E3 Other
+T4	Movement_Transport-Person 795 801	outing
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Movement_Transport-Person 852 858	headed
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 896 903	driving
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Contact_Meet 1117 1126	suggested
+E7	Contact_Meet:T7 
+A7	Realis E7 Actual
+T8	Contact_Meet 1265 1269	told
+E8	Contact_Meet:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 1405 1412	crawled
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Contact_Meet 2300 2308	answered
+E10	Contact_Meet:T10 
+A10	Realis E10 Actual
+T11	Contact_Meet 2371 2376	reply
+E11	Contact_Meet:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 2457 2461	came
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 3816 3820	told
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Contact_Meet 90 94	date
+E14	Contact_Meet:T14 
+A14	Realis E14 Generic
+T15	Contact_Meet 371 375	date
+E15	Contact_Meet:T15 
+A15	Realis E15 Generic
+T16	Contact_Meet 437 441	date
+E16	Contact_Meet:T16 
+A16	Realis E16 Actual
+T17	Contact_Meet 3296 3300	date
+E17	Contact_Meet:T17 
+A17	Realis E17 Generic
+T18	Contact_Meet 3704 3708	date
+E18	Contact_Meet:T18 
+A18	Realis E18 Other
+T19	Movement_Transport-Person 3953 3957	went
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 4072 4076	told
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual
+T21	Life_Marry 4169 4176	married
+E21	Life_Marry:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 311 315	went
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual

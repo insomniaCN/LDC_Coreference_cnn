@@ -1,0 +1,22 @@
+<DOC id="NYT_ENG_20130719.0222" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130719/20130719,e61353c339af3633089b0ba9f413d94a.xml">
+<HEADLINE>
+FINRA SCRUTINIZES HIGH-SPEED TRADING FIRMS
+</HEADLINE>
+<TEXT>
+<P>
+Regulators are taking a closer look at whether high-frequency trading firms might represent a threat to the stability of financial markets.
+</P>
+<P>
+The Financial Industry Regulatory Authority, an industry-financed regulator, sent letters to 10 high-speed trading firms this week, asking them for more information about their trading programs and the steps they have in place to avert “market disruptions.”
+</P>
+<P>
+The letter comes as regulators around the world are grappling with the role that high-speed trading firms have come to play over the last decade as they have grown to account for a majority of all trading in U.S. stocks. These firms, which use high-speed computers and infrastructure to take advantage of small discrepancies in trading prices, have also taken an increasing role in trading in other markets.
+</P>
+<P>
+The letter sent out this week is focused primarily on the steps the firms take to test their programs, or algorithms, before they begin trading with them, and the preparations they take to deal with unexpected trading problems. Regulators have been focused on these issues since one trading firm, Knight Capital, lost nearly $500 million and nearly went bankrupt after its trading programs went haywire last August.
+</P>
+<P>
+The letter also asks about efforts to monitor market “manipulation.” Earlier this year, FINRA said in an annual report that it was concerned about high-speed trading strategies that are “used for manipulative purposes.”
+</P>
+</TEXT>
+</DOC>

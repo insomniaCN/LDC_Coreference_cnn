@@ -1,0 +1,49 @@
+<DOC id="NYT_ENG_20130714.0047" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130714/20130714,68c6dd8d36bca221f60f060ab5ceee29.xml">
+<HEADLINE>
+ZIMMERMAN IS ACQUITTED IN KILLING OF TRAYVON MARTIN
+</HEADLINE>
+<TEXT>
+<P>
+EDS: SUBS 2 grafs starting “Sybrina Fulton” for 1 graf starting the same“; SUBS 2 grafs starting ”Calling it a"; SUBS headline.) ; (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+SANFORD, Fla. - George Zimmerman, the neighborhood watch volunteer who fatally shot Trayvon Martin, an unarmed black teenager, igniting a national debate on racial profiling and civil rights, was found not guilty late Saturday of second-degree murder. He also was acquitted of manslaughter, a lesser charge.
+</P>
+<P>
+After three weeks of testimony, the six-woman jury rejected the prosecution’s contention that Zimmerman had deliberately pursued Martin because he assumed the hoodie-clad teenager was a criminal and instigated the fight that led to his death.
+</P>
+<P>
+Zimmerman said he shot Martin on Feb. 26, 2012, in self-defense after the teenager knocked him to the ground, punched him and slammed his head repeatedly against the sidewalk. In finding him not guilty of murder or manslaughter, the jury agreed that Zimmerman could have been justified in shooting Martin because he feared great bodily harm or death.
+</P>
+<P>
+Saturday night, when the verdict was read, Zimmerman, 29, smiled slightly. His wife, Shellie, and several of his friends wept, and his parents kissed and embraced.
+</P>
+<P>
+Sybrina Fulton and Tracy Martin, who lost their son a few weeks after his 17th birthday, were not in the courtroom. In a statement released early Sunday, their attorney, Benjamin Crump, said the family was heartbroken and they thanked people around the world for their support.
+</P>
+<P>
+“Trayvon Martin will forever remain in the annals of history next to Medgar Evers and Emmett Till,” he said, “as symbols for the fight for equal justice for all.”
+</P>
+<P>
+After the verdict, Judge Debra S. Nelson, of Seminole County Court, told Zimmerman, who has been in hiding and wears a bulletproof vest outside, that his bond was revoked and his GPS monitor would be cut off. “You have no further business with the court,” she said.
+</P>
+<P>
+Outside the courthouse, perhaps 100 protesters who had been gathering through the night, their numbers building as the hours passed, began pumping their fists in the air, waving placards and chanting “No justice, no peace!” Sheriff’s deputies lined up inside the courthouse, watching the crowd, who were chanting peacefully, but intently.
+</P>
+<P>
+By 11:20, more than an hour after the verdict had been read, the crowd had begun to dwindle. Among the last of the protesters to leave the courthouse lawn was Mattie Aikens, 33, of Sanford. She had been standing outside since noon, and was still shocked. “He should have went to prison,” she said. “He should have just got guilty, guilty, guilty, guilty.”
+</P>
+<P>
+Mark O’Mara, one of Zimmerman’s lawyers, said, “George Zimmerman was never guilty of anything except firing the gun in self-defense.”
+</P>
+<P>
+Calling it a “very trying time,” Crump, the Martin family attorney, said he had urged Martin’s parents to stay out of the courtroom for the verdict. They were home and planning to attend church Sunday. The parents, he said, were grateful for all the support.
+</P>
+<P>
+Crump asked the family’s supporters to keep the peace and read a Twitter post by Bernice King, the Rev. Dr. Martin Luther King Jr.'s daughter.
+</P>
+<P>
+“Whatever the Zimmerman verdict is,” Crump read, “in the words of my father, we must conduct ourselves on the higher plane of dignity and discipline.”
+</P>
+</TEXT>
+</DOC>

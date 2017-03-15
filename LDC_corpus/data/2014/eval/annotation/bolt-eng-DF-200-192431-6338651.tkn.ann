@@ -1,0 +1,30 @@
+T1	Contact_Communicate 1811 1815	ring
+E1	Contact_Communicate:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 2261 2271	train back
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 3611 3615	rang
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Meet 2769 2773	talk
+E4	Contact_Meet:T4 
+A4	Realis E4 Actual
+T5	Contact_Meet 2958 2965	talking
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 399 404	phone
+E6	Contact_Communicate:T6 
+A6	Realis E6 Other
+T7	Contact_Communicate 571 576	phone
+E7	Contact_Communicate:T7 
+A7	Realis E7 Other
+T8	Movement_Transport-Person 1784 1792	get home
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Contact_Communicate 2625 2630	phone
+E9	Contact_Communicate:T9 
+A9	Realis E9 Other
+T10	Contact_Communicate 3303 3308	phone
+E10	Contact_Communicate:T10 
+A10	Realis E10 Other

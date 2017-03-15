@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130725.0085" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130725/20130725,4de8f0f0fa8b6824001102c5f3ad1ed3.xml">
+<HEADLINE>
+SECOND OPPOSITION LEADER ASSASSINATED IN TUNISIA
+</HEADLINE>
+<TEXT>
+<P>
+EDS: ADDS how Brahmi died to fifth graf; ADDS graf to end, beginning “The top human rights ...”); (This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+TUNIS, Tunisia - Tunisia, birthplace of the Arab Spring revolutionary movement, was plunged into a new political crisis Thursday when assassins shot an opposition party leader outside his home in a hail of gunfire.
+</P>
+<P>
+It was the second political assassination in Tunisia since February, and quickly incited protests blaming Ennahda, the moderate Islamist party that leads the government. Crowds of protesters gathered outside the offices of the Interior Ministry in Tunis, the capital, calling on Ennahda to relinquish power, and security forces were deployed to contain them.
+</P>
+<P>
+The Associated Press reported that protests erupted in other cities, including Sidi Bouzid, the impoverished town where the Tunisian revolution began, and in the nearby town of Meknassi, where angry demonstrators burned down the local Ennahda headquarters.
+</P>
+<P>
+Ennahda issued a statement calling the assassination “cowardly and despicable.” The leader of Ennahda, Rachid al-Ghannouchi, said on Tunisian radio: “This is a crime against the democratic transition of Tunisia. The classic question is: Who is behind this? I don’t think that any political party would want this.”
+</P>
+<P>
+TAP, Tunisia’s official news agency, said the victim was Mohamed Brahmi. Brahmi, 58, leader of the Arab nationalist People’s Party, was felled by several bullets outside his residence in Ariana, a suburb of Tunis. Other local Tunisian media said a pair of gunmen had shot Brahmi at least 11 times as he sat in a car with his daughter and that the killers escaped on a moped.
+</P>
+<P>
+At a hospital where Brahmi’s body was taken, dozens of protesters gathered to denounce Ennahda. “Ghannouchi is an assassin!” said a woman draped in a Tunisian flag. Others shouted: “The Islamists are vampires!”
+</P>
+<P>
+Noomen Toumi, one of the protesters at the hospital, said he believed Islamist extremists might have been behind the assassination of Brahmi. “It has to be someone who is against democracy,” he said.
+</P>
+<P>
+The assassination, which coincided with celebrations for the 56th anniversary of Tunisian statehood after independence from France, came as Tunisia was still grappling with a democratic transition following the January 2011 revolution that toppled the country’s autocratic leader, Zine El Abidine Ben Ali, and forced him into exile. The Tunisian revolution was the catalyst that spawned similar uprisings in Egypt, Libya, Yemen and Syria.
+</P>
+<P>
+The top human rights official at the United Nations, Navi Pillay, expressed shock at the killing of Brahmi and urged “the authorities to immediately launch a prompt and transparent investigation to ensure that the people who carried out this crime are held accountable.”
+</P>
+</TEXT>
+</DOC>

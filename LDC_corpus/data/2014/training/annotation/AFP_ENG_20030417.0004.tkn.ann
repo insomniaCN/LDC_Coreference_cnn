@@ -1,0 +1,33 @@
+T1	Conflict_Attack 167 173	hacked
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 177 182	death
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 363 369	hacked
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Die 373 378	death
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 515 523	attacked
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 664 671	dragged
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Life_Die 708 714	killed
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 755 762	fleeing
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Life_Die 1140 1149	eliminate
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Justice_Arrest-Jail 1193 1201	arrested
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Actual
+T11	Life_Die 1237 1245	killings
+E11	Life_Die:T11 
+A11	Realis E11 Actual

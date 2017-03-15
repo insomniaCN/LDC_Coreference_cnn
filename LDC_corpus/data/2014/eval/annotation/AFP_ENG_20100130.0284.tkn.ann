@@ -1,0 +1,60 @@
+T1	Justice_Execute 71 76	hangs
+E1	Justice_Execute:T1 
+A1	Realis E1 Actual
+T2	Justice_Convict 81 90	convicted
+E2	Justice_Convict:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 91 98	rapists
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Justice_Execute 201 207	hanged
+E4	Justice_Execute:T4 
+A4	Realis E4 Actual
+T5	Justice_Convict 228 237	convicted
+E5	Justice_Convict:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 241 247	raping
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Justice_Execute 342 350	hangings
+E7	Justice_Execute:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 517 521	into
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 581 586	raped
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Justice_Execute 642 650	hangings
+E10	Justice_Execute:T10 
+A10	Realis E10 Actual
+T11	Justice_Execute 693 701	executed
+E11	Justice_Execute:T11 
+A11	Realis E11 Actual
+T12	Justice_Execute 814 820	hanged
+E12	Justice_Execute:T12 
+A12	Realis E12 Actual
+T13	Justice_Execute 852 857	death
+E13	Justice_Execute:T13 
+A13	Realis E13 Generic
+T14	Justice_Sentence 858 865	penalty
+E14	Justice_Sentence:T14 
+A14	Realis E14 Generic
+T15	Justice_Trial-Hearing 949 969	judicial proceedings
+E15	Justice_Trial-Hearing:T15 
+A15	Realis E15 Generic
+T16	Life_Die 985 991	Murder
+E16	Life_Die:T16 
+A16	Realis E16 Generic
+T17	Conflict_Attack 994 998	rape
+E17	Conflict_Attack:T17 
+A17	Realis E17 Generic
+T18	Conflict_Attack 1001 1014	armed robbery
+E18	Conflict_Attack:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Ownership 1022 1033	trafficking
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Generic
+T20	Justice_Execute 1070 1075	death
+E20	Justice_Execute:T20 
+A20	Realis E20 Actual

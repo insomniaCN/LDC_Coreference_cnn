@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea590000000000000032" doc_id="NYT_ENG_20130619.0079" source_type="newswire">
+  <hoppers>
+    <hopper id="h-36">
+      <event_mention id="em-893" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="454" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-561" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130619.0079" offset="522" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-683" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130619.0079" offset="1032" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-627" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="762" length="11">restitution</trigger>
+      </event_mention>
+      <event_mention id="em-486" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="1117" length="6">relief</trigger>
+      </event_mention>
+      <event_mention id="em-25" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="1158" length="11">restitution</trigger>
+      </event_mention>
+      <event_mention id="em-420" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2931" length="11">restitution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-792" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="791" length="9">penalties</trigger>
+      </event_mention>
+      <event_mention id="em-566" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="1659" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-463" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130619.0079" offset="1321" length="9">statement</trigger>
+      </event_mention>
+      <event_mention id="em-102" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130619.0079" offset="1723" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-940" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="1450" length="6">return</trigger>
+      </event_mention>
+      <event_mention id="em-584" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2626" length="6">refund</trigger>
+      </event_mention>
+      <event_mention id="em-307" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2734" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-623" type="justice" subtype="fine" realis="actual">
+        <trigger source="NYT_ENG_20130619.0079" offset="1665" length="4">fine</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-206">
+      <event_mention id="em-774" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130619.0079" offset="2028" length="3">War</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-221">
+      <event_mention id="em-800" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130619.0079" offset="2051" length="4">mail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-236">
+      <event_mention id="em-83" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130619.0079" offset="2069" length="13">solicitations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-266">
+      <event_mention id="em-336" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="368" length="4">sell</trigger>
+      </event_mention>
+      <event_mention id="em-357" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2450" length="6">bought</trigger>
+      </event_mention>
+      <event_mention id="em-771" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2589" length="9">purchased</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-281">
+      <event_mention id="em-827" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="368" length="4">sell</trigger>
+      </event_mention>
+      <event_mention id="em-546" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2450" length="6">bought</trigger>
+      </event_mention>
+      <event_mention id="em-775" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2589" length="9">purchased</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-309">
+      <event_mention id="em-374" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2670" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-324">
+      <event_mention id="em-795" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="2901" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-352">
+      <event_mention id="em-15" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="3011" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-367">
+      <event_mention id="em-984" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="3067" length="4">fund</trigger>
+      </event_mention>
+      <event_mention id="em-208" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="3011" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-382">
+      <event_mention id="em-858" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="3210" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-397">
+      <event_mention id="em-506" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130619.0079" offset="3392" length="6">grants</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

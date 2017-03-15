@@ -1,0 +1,162 @@
+T1	Justice_Sentence 817 830	got jail time
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T3	Transaction_Transfer-Ownership 891 897	looted
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 932 938	looted
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 1005 1024	remanded in custody
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Generic
+T6	Justice_Fine 1074 1078	fine
+E6	Justice_Fine:T6 
+A6	Realis E6 Generic
+T7	Justice_Arrest-Jail 1104 1118	thrown in jail
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Generic
+T8	Justice_Appeal 1406 1414	appealed
+E8	Justice_Appeal:T8 
+A8	Realis E8 Other
+T9	Justice_Sentence 1435 1444	sentences
+E9	Justice_Sentence:T9 
+A9	Realis E9 Actual
+T10	Conflict_Demonstrate 1817 1821	riot
+E10	Conflict_Demonstrate:T10 
+A10	Realis E10 Generic
+T11	Justice_Arrest-Jail 1843 1851	arrested
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T12	Conflict_Demonstrate 2123 2127	riot
+E12	Conflict_Demonstrate:T12 
+A12	Realis E12 Generic
+T13	Justice_Arrest-Jail 2149 2157	arrested
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Actual
+T14	Justice_Arrest-Jail 2378 2386	arrested
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Other
+T15	Conflict_Demonstrate 2746 2750	riot
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Generic
+T16	Justice_Arrest-Jail 3121 3135	thrown in jail
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Other
+T17	Conflict_Attack 3020 3024	blow
+E17	Conflict_Attack:T17 
+A17	Realis E17 Other
+T18	Conflict_Attack 3191 3195	blow
+E18	Conflict_Attack:T18 
+A18	Realis E18 Other
+T19	Justice_Sentence 3414 3417;3423 3427	got time
+E19	Justice_Sentence:T19 
+A19	Realis E19 Actual
+T21	Transaction_Transfer-Ownership 3488 3494	looted
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 3529 3535	looted
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Justice_Arrest-Jail 3602 3621	remanded in custody
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Generic
+T24	Justice_Fine 3671 3675	fine
+E24	Justice_Fine:T24 
+A24	Realis E24 Generic
+T25	Justice_Arrest-Jail 3701 3715	thrown in jail
+E25	Justice_Arrest-Jail:T25 
+T26	Contact_Communicate 4171 4183	conversation
+E26	Contact_Communicate:T26 
+A25	Realis E26 Generic
+T27	Justice_Arrest-Jail 4257 4265	arrested
+E27	Justice_Arrest-Jail:T27 
+A26	Realis E27 Generic
+T28	Conflict_Demonstrate 4630 4634	riot
+E28	Conflict_Demonstrate:T28 
+A27	Realis E28 Other
+T29	Justice_Convict 6219 6228	convicted
+E29	Justice_Convict:T29 
+A28	Realis E29 Other
+T30	Justice_Arrest-Jail 6239 6247	arrested
+E30	Justice_Arrest-Jail:T30 
+A29	Realis E30 Other
+T31	Justice_Arrest-Jail 6324 6337	going to jail
+E31	Justice_Arrest-Jail:T31 
+A30	Realis E31 Other
+T32	Conflict_Attack 6546 6550	riot
+E32	Conflict_Attack:T32 
+A31	Realis E32 Other
+T33	Life_Die 6833 6837	kill
+E33	Life_Die:T33 
+A32	Realis E33 Other
+T34	Justice_Arrest-Jail 6884 6892	arrested
+E34	Justice_Arrest-Jail:T34 
+A33	Realis E34 Generic
+T35	Justice_Charge-Indict 6897 6904	charged
+E35	Justice_Charge-Indict:T35 
+A34	Realis E35 Generic
+T36	Life_Die 7052 7056	kill
+E36	Life_Die:T36 
+A35	Realis E36 Other
+T37	Justice_Arrest-Jail 7103 7111	arrested
+E37	Justice_Arrest-Jail:T37 
+A36	Realis E37 Generic
+T38	Justice_Charge-Indict 7116 7123	charged
+E38	Justice_Charge-Indict:T38 
+A37	Realis E38 Generic
+T39	Life_Die 7215 7221	killed
+E39	Life_Die:T39 
+A38	Realis E39 Other
+T40	Justice_Arrest-Jail 7233 7239	arrest
+E40	Justice_Arrest-Jail:T40 
+A39	Realis E40 Other
+T41	Conflict_Demonstrate 7277 7281	riot
+E41	Conflict_Demonstrate:T41 
+A40	Realis E41 Other
+T42	Conflict_Demonstrate 7410 7414	riot
+E42	Conflict_Demonstrate:T42 
+A41	Realis E42 Generic
+T43	Conflict_Demonstrate 8285 8289	riot
+E43	Conflict_Demonstrate:T43 
+A42	Realis E43 Other
+T44	Conflict_Demonstrate 8395 8399	riot
+E44	Conflict_Demonstrate:T44 
+A43	Realis E44 Other
+T45	Justice_Arrest-Jail 8534 8548	thrown in jail
+E45	Justice_Arrest-Jail:T45 
+A44	Realis E45 Other
+T46	Conflict_Demonstrate 8714 8718	riot
+E46	Conflict_Demonstrate:T46 
+A45	Realis E46 Other
+T47	Conflict_Demonstrate 8824 8828	riot
+E47	Conflict_Demonstrate:T47 
+A46	Realis E47 Other
+T48	Justice_Arrest-Jail 8973 8977	jail
+E48	Justice_Arrest-Jail:T48 
+A47	Realis E48 Other
+T49	Justice_Convict 9443 9452	convicted
+E49	Justice_Convict:T49 
+A48	Realis E49 Other
+T50	Justice_Arrest-Jail 9463 9471	arrested
+E50	Justice_Arrest-Jail:T50 
+A49	Realis E50 Other
+T51	Justice_Arrest-Jail 9548 9561	going to jail
+E51	Justice_Arrest-Jail:T51 
+A50	Realis E51 Other
+T52	Conflict_Attack 9882 9893	destruction
+E52	Conflict_Attack:T52 
+A51	Realis E52 Other
+T53	Contact_Communicate 277 284;295 299	message sent
+E53	Contact_Communicate:T53 
+A52	Realis E53 Actual
+T2	Transaction_Transfer-Ownership 835 844	accepting
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T54	Justice_Arrest-Jail 2772 2780	arrested
+E54	Justice_Arrest-Jail:T54 
+A53	Realis E54 Generic
+T20	Conflict_Attack 9862 9870	violence
+E20	Conflict_Attack:T20 
+A20	Realis E20 Other
+A54	Realis E25 Generic

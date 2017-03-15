@@ -1,0 +1,90 @@
+T1	Contact_Broadcast 772 776	says
+E13	Contact_Broadcast:T1
+A1	Realis E13 Actual
+T2	Life_Die 1354 1363	Execution
+E44	Life_Die:T2
+A2	Realis E44 Other
+T3	Life_Marry 2411 2419	Marriage
+E72	Life_Marry:T3
+A3	Realis E72 Generic
+T4	Life_Die 1521 1530	Execution
+E73	Life_Die:T4
+A4	Realis E73 Other
+T5	Justice_Execute 430 438	executed
+E87	Justice_Execute:T5
+A5	Realis E87 Actual
+T6	Life_Die 151 159	Executed
+E147	Life_Die:T6
+A6	Realis E147 Actual
+T7	Life_Die 824 829	death
+E168	Life_Die:T7
+A7	Realis E168 Other
+T8	Life_Die 574 582	Executed
+E177	Life_Die:T8
+A8	Realis E177 Actual
+T9	Life_Die 499 505	hanged
+E233	Life_Die:T9
+A9	Realis E233 Actual
+T10	Justice_Execute 151 159	Executed
+E243	Justice_Execute:T10
+A10	Realis E243 Actual
+T11	Life_Die 2697 2701	gone
+E310	Life_Die:T11
+A11	Realis E310 Actual
+T12	Justice_Execute 1354 1363	Execution
+E337	Justice_Execute:T12
+A12	Realis E337 Other
+T13	Life_Die 601 607	Hanged
+E374	Life_Die:T13
+A13	Realis E374 Actual
+T14	Justice_Convict 365 371	guilty
+E383	Justice_Convict:T14
+A14	Realis E383 Actual
+T15	Justice_Execute 286 294	executed
+E417	Justice_Execute:T15
+A15	Realis E417 Actual
+T16	Justice_Execute 601 607	Hanged
+E437	Justice_Execute:T16
+A16	Realis E437 Actual
+T17	Justice_Release-Parole 879 886	release
+E447	Justice_Release-Parole:T17
+A17	Realis E447 Other
+T18	Life_Die 286 294	executed
+E490	Life_Die:T18
+A18	Realis E490 Actual
+T19	Life_Die 2638 2644	Hanged
+E510	Life_Die:T19
+A19	Realis E510 Actual
+T20	Justice_Arrest-Jail 344 354	imprisoned
+E512	Justice_Arrest-Jail:T20
+A20	Realis E512 Actual
+T21	Life_Die 2611 2619	Executed
+E664	Life_Die:T21
+A21	Realis E664 Actual
+T22	Justice_Execute 499 505	hanged
+E688	Justice_Execute:T22
+A22	Realis E688 Actual
+T23	Contact_Broadcast 813 819	report
+E723	Contact_Broadcast:T23
+A23	Realis E723 Actual
+T24	Life_Die 178 184	Hanged
+E818	Life_Die:T24
+A24	Realis E818 Actual
+T25	Justice_Execute 2611 2619	Executed
+E836	Justice_Execute:T25
+A25	Realis E836 Actual
+T26	Justice_Execute 1521 1530	Execution
+E875	Justice_Execute:T26
+A26	Realis E875 Other
+T27	Justice_Execute 2638 2644	Hanged
+E917	Justice_Execute:T27
+A27	Realis E917 Actual
+T28	Justice_Execute 178 184	Hanged
+E926	Justice_Execute:T28
+A28	Realis E926 Actual
+T29	Justice_Execute 574 582	Executed
+E947	Justice_Execute:T29
+A29	Realis E947 Actual
+T30	Life_Die 430 438	executed
+E966	Life_Die:T30
+A30	Realis E966 Actual

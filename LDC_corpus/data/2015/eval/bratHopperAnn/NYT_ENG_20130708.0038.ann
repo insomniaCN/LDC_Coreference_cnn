@@ -1,0 +1,114 @@
+T1	Justice_Charge-Indict 201 207	CHARGE
+E52	Justice_Charge-Indict:T1
+A1	Realis E52 Other
+T2	Justice_Charge-Indict 431 439	charging
+E917	Justice_Charge-Indict:T2
+A2	Realis E917 Other
+T3	Justice_Charge-Indict 1596 1603	charged
+E884	Justice_Charge-Indict:T3
+A3	Realis E884 Other
+T4	Justice_Charge-Indict 1977 1984	charges
+E395	Justice_Charge-Indict:T4
+A4	Realis E395 Other
+T5	Personnel_End-Position 208 210	EX
+E876	Personnel_End-Position:T5
+A5	Realis E876 Actual
+T6	Personnel_End-Position 308 314	former
+E398	Personnel_End-Position:T6
+A6	Realis E398 Actual
+T7	Personnel_End-Position 733 739	resign
+E471	Personnel_End-Position:T7
+A7	Realis E471 Actual
+T8	Personnel_End-Position 3044 3051	replace
+E103	Personnel_End-Position:T8
+A8	Realis E103 Actual
+T9	Contact_Contact 268 273	asked
+E61	Contact_Contact:T9
+A9	Realis E61 Actual
+T10	Contact_Contact 406 413	request
+E264	Contact_Contact:T10
+A10	Realis E264 Actual
+T11	Contact_Contact 397 401	said
+E142	Contact_Contact:T11
+A11	Realis E142 Actual
+T12	Justice_Charge-Indict 533 540	charges
+E140	Justice_Charge-Indict:T12
+A12	Realis E140 Generic
+T13	Justice_Charge-Indict 780 787	charged
+E189	Justice_Charge-Indict:T13
+A13	Realis E189 Actual
+T14	Justice_Charge-Indict 1016 1023	charged
+E682	Justice_Charge-Indict:T14
+A14	Realis E682 Actual
+T15	Personnel_Start-Position 630 643	came to power
+E687	Personnel_Start-Position:T15
+A15	Realis E687 Actual
+T16	Contact_Contact 910 918	ordering
+E777	Contact_Contact:T16
+A16	Realis E777 Actual
+T17	Life_Divorce 983 992	divorcing
+E793	Life_Divorce:T17
+A17	Realis E793 Other
+T18	Contact_Contact 1184 1188	said
+E631	Contact_Contact:T18
+A18	Realis E631 Actual
+T19	Contact_Broadcast 1401 1405	said
+E957	Contact_Broadcast:T19
+A19	Realis E957 Actual
+T20	Contact_Broadcast 1614 1618	said
+E93	Contact_Broadcast:T20
+A20	Realis E93 Actual
+T21	Contact_Broadcast 1624 1633	statement
+E294	Contact_Broadcast:T21
+A21	Realis E294 Actual
+T22	Contact_Correspondence 1940 1944	said
+E402	Contact_Correspondence:T22
+A22	Realis E402 Actual
+T23	Contact_Correspondence 2189 2193	said
+E765	Contact_Correspondence:T23
+A23	Realis E765 Actual
+T24	Contact_Contact 2279 2283	said
+E934	Contact_Contact:T24
+A24	Realis E934 Actual
+T25	Personnel_End-Position 2331 2337	resign
+E446	Personnel_End-Position:T25
+A25	Realis E446 Generic
+T26	Personnel_Start-Position 2503 2510	awarded
+E723	Personnel_Start-Position:T26
+A26	Realis E723 Other
+T27	Personnel_Start-Position 1060 1065	posts
+E208	Personnel_Start-Position:T27
+A27	Realis E208 Other
+T28	Transaction_Transfer-Money 2380 2388	offering
+E391	Transaction_Transfer-Money:T28
+A28	Realis E391 Generic
+T29	Contact_Meet 2795 2802	discuss
+E694	Contact_Meet:T29
+A29	Realis E694 Other
+T30	Contact_Contact 2902 2906	said
+E900	Contact_Contact:T30
+A30	Realis E900 Actual
+T31	Personnel_Nominate 2983 2992	appointed
+E455	Personnel_Nominate:T31
+A31	Realis E455 Actual
+T32	Personnel_End-Position 3016 3022	former
+E890	Personnel_End-Position:T32
+A32	Realis E890 Actual
+T33	Personnel_Start-Position 3044 3051	replace
+E755	Personnel_Start-Position:T33
+A33	Realis E755 Other
+T34	Transaction_Transaction 2706 2709	buy
+E182	Transaction_Transaction:T34
+A34	Realis E182 Generic
+R1	Coreference Arg1:E52 Arg2:E917
+R2	Coreference Arg1:E917 Arg2:E884
+R3	Coreference Arg1:E884 Arg2:E395
+R4	Coreference Arg1:E876 Arg2:E398
+R5	Coreference Arg1:E398 Arg2:E471
+R6	Coreference Arg1:E471 Arg2:E103
+R7	Coreference Arg1:E61 Arg2:E264
+R8	Coreference Arg1:E189 Arg2:E682
+R9	Coreference Arg1:E957 Arg2:E93
+R10	Coreference Arg1:E93 Arg2:E294
+R11	Coreference Arg1:E402 Arg2:E765
+R12	Coreference Arg1:E208 Arg2:E723

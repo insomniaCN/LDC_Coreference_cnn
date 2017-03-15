@@ -1,0 +1,75 @@
+T1	Justice_Sue 360 363	sue
+E1	Justice_Sue:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Ownership 388 398	plundering
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Ownership 1072 1081	plundered
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Money 1325 1337	compensation
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Justice_Sue 1504 1507	sue
+E5	Justice_Sue:T5 
+A5	Realis E5 Other
+T6	Justice_Sue 2041 2048	lawsuit
+E6	Justice_Sue:T6 
+A6	Realis E6 Other
+T7	Justice_Sue 2089 2092	sue
+E7	Justice_Sue:T7 
+A7	Realis E7 Other
+T8	Justice_Sue 2569 2573	sued
+E8	Justice_Sue:T8 
+A8	Realis E8 Other
+T9	Justice_Sue 2781 2784	sue
+E9	Justice_Sue:T9 
+A9	Realis E9 Other
+T10	Life_Die 2966 2974;2986 2999	throwing into the Nile
+E10	Life_Die:T10 
+A10	Realis E10 Other
+T11	Justice_Trial-Hearing 3367 3378	adjudicated
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Justice_Sue 3429 3433	sued
+E12	Justice_Sue:T12 
+A12	Realis E12 Actual
+T13	Justice_Sue 3456 3467	countersued
+E13	Justice_Sue:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Money 3472 3479	payment
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 4012 4024	compensation
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T16	Justice_Sue 4280 4283	sue
+E16	Justice_Sue:T16 
+A16	Realis E16 Other
+T17	Justice_Sue 4597 4604	lawsuit
+E17	Justice_Sue:T17 
+A17	Realis E17 Generic
+T18	Justice_Sue 4662 4666	sued
+E18	Justice_Sue:T18 
+A18	Realis E18 Other
+T19	Justice_Sue 4813 4821	lawsuits
+E19	Justice_Sue:T19 
+A19	Realis E19 Other
+T20	Contact_Communicate 5034 5039	email
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual
+T21	Justice_Sue 5150 5158	lawsuits
+E21	Justice_Sue:T21 
+A21	Realis E21 Other
+T22	Justice_Sue 5275 5283	lawsuits
+E22	Justice_Sue:T22 
+A22	Realis E22 Generic
+T23	Justice_Sue 224 227	Sue
+E23	Justice_Sue:T23 
+A23	Realis E23 Other
+T24	Contact_Communicate 3215 3219	sent
+E24	Contact_Communicate:T24 
+A24	Realis E24 Actual
+T25	Life_Die 4033 4037	dead
+E25	Life_Die:T25 
+A25	Realis E25 Generic

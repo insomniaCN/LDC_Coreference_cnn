@@ -1,0 +1,78 @@
+T1	Conflict_Attack 203 210	beating
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 213 219	raping
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 224 231	burning
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Justice_Fine 355 359	fine
+E4	Justice_Fine:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 364 375	time served
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Justice_Execute 511 519	executed
+E6	Justice_Execute:T6 
+A6	Realis E6 Generic
+T7	Life_Die 524 531	killing
+E7	Life_Die:T7 
+A7	Realis E7 Generic
+T8	Justice_Execute 572 585	death penalty
+E8	Justice_Execute:T8 
+A8	Realis E8 Generic
+T9	Life_Die 740 746	murder
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Justice_Sentence 757 767	punishment
+E10	Justice_Sentence:T10 
+A10	Realis E10 Actual
+T11	Justice_Execute 996 1014	capital punishment
+E11	Justice_Execute:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 1224 1230	rapist
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Justice_Acquit 1252 1265	got away with
+E13	Justice_Acquit:T13 
+A13	Realis E13 Actual
+T14	Life_Die 1266 1272	murder
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 1743 1747	rape
+E15	Conflict_Attack:T15 
+A15	Realis E15 Generic
+T16	Transaction_Transfer-Money 2306 2312	paying
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Actual
+T17	Justice_Arrest-Jail 2351 2362	locked away
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Other
+T18	Justice_Arrest-Jail 2409 2415	prison
+E18	Justice_Arrest-Jail:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Money 2499 2508	shell out
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Other
+T20	Justice_Release-Parole 2606 2613	let out
+E20	Justice_Release-Parole:T20 
+A20	Realis E20 Generic
+T21	Justice_Execute 2700 2707	killing
+E21	Justice_Execute:T21 
+A21	Realis E21 Generic
+T22	Transaction_Transfer-Money 2876 2888	compensation
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Other
+T23	Justice_Sentence 2957 2967	punishment
+E23	Justice_Sentence:T23 
+A23	Realis E23 Other
+T24	Conflict_Attack 4432 4438	rapist
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Justice_Acquit 4460 4468	got away
+E25	Justice_Acquit:T25 
+A25	Realis E25 Actual
+T26	Life_Die 4474 4480	murder
+E26	Life_Die:T26 
+A26	Realis E26 Actual

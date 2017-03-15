@@ -1,0 +1,9 @@
+T3	Personnel_Start-Position 2109 2119	contracted
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T5	Business_End-Org 3172 3178	closed
+E5	Business_End-Org:T5 
+A5	Realis E5 Actual
+T1	Transaction_Transfer-Ownership 2927 2931	sell
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual

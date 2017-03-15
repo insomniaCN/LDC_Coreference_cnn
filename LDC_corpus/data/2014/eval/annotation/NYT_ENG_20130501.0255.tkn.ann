@@ -1,0 +1,99 @@
+T1	Justice_Charge-Indict 393 400	charged
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 419 427	arrested
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 1135 1142	attacks
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 1255 1262	charges
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Generic
+T5	Justice_Charge-Indict 1302 1309	charges
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Generic
+T6	Justice_Trial-Hearing 1735 1742	hearing
+E6	Justice_Trial-Hearing:T6 
+A6	Realis E6 Actual
+T7	Justice_Trial-Hearing 1933 1938	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Other
+T8	Justice_Arrest-Jail 1975 1983	arrested
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 2000 2009	traveling
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 2081 2089	traveled
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Justice_Charge-Indict 2213 2219	charge
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Actual
+T12	Life_Die 2366 2370	died
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 2463 2474	phone calls
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 2553 2559	travel
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Other
+T15	Contact_Communicate 2528 2537	discussed
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Life_Die 2595 2598	die
+E16	Life_Die:T16 
+A16	Realis E16 Other
+T17	Contact_Communicate 2645 2657	conversation
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 2677 2685	bombings
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 2770 2777	attacks
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 2789 2795	attack
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Contact_Communicate 2862 2872	phone call
+E21	Contact_Communicate:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 2941 2948	bombing
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 3102 3108	bombed
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 3183 3191	bombings
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Life_Die 3316 3322	killed
+E25	Life_Die:T25 
+A25	Realis E25 Actual
+T26	Life_Injure 3356 3363	injured
+E26	Life_Injure:T26 
+A26	Realis E26 Actual
+T27	Contact_Communicate 2756 2765	discussed
+E27	Contact_Communicate:T27 
+A27	Realis E27 Actual
+T29	Justice_Charge-Indict 1385 1396	prosecution
+E29	Justice_Charge-Indict:T29 
+A29	Realis E29 Generic
+T28	Personnel_Start-Position 2104 2108	join
+E28	Personnel_Start-Position:T28 
+A28	Realis E28 Other
+T30	Transaction_Transfer-Money 2346 2353	suicide
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Generic
+T31	Conflict_Attack 2354 2361	bombers
+E31	Conflict_Attack:T31 
+A31	Realis E31 Actual
+T32	Life_Die 3008 3015	suicide
+E32	Life_Die:T32 
+A32	Realis E32 Generic
+T33	Conflict_Attack 3016 3022	bomber
+E33	Conflict_Attack:T33 
+A33	Realis E33 Generic

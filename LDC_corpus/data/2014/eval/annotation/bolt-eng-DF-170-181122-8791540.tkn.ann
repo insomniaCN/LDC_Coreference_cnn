@@ -1,0 +1,462 @@
+T2	Conflict_Attack 95 101	bomber
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Justice_Release-Parole 285 292	release
+E3	Justice_Release-Parole:T3 
+A3	Realis E3 Actual
+T4	Justice_Release-Parole 367 372;394 401	grant freedom
+E4	Justice_Release-Parole:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 446 452	Bomber
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T7	Contact_Meet 761 773	celebrations
+E7	Contact_Meet:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Money 882 886	paid
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+T9	Justice_Arrest-Jail 950 956	jailed
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Actual
+T10	Justice_Release-Parole 997 1004	release
+E10	Justice_Release-Parole:T10 
+A10	Realis E10 Actual
+T12	Life_Die 1103 1106	die
+E12	Life_Die:T12 
+A12	Realis E12 Other
+T13	Justice_Release-Parole 1205 1212	release
+E13	Justice_Release-Parole:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 1227 1233	bomber
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T16	Contact_Communicate 1404 1410	talked
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T18	Justice_Release-Parole 1701 1709	released
+E18	Justice_Release-Parole:T18 
+A18	Realis E18 Actual
+T19	Justice_Arrest-Jail 1740 1747	serving
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Actual
+T20	Justice_Sentence 1777 1785	sentence
+E20	Justice_Sentence:T20 
+A20	Realis E20 Actual
+T21	Justice_Release-Parole 1971 1978	release
+E21	Justice_Release-Parole:T21 
+A21	Realis E21 Actual
+T23	Justice_Trial-Hearing 2066 2073	hearing
+E23	Justice_Trial-Hearing:T23 
+A23	Realis E23 Actual
+T25	Justice_Release-Parole 2143 2150	release
+E25	Justice_Release-Parole:T25 
+A25	Realis E25 Actual
+T26	Life_Die 2449 2453	died
+E26	Life_Die:T26 
+A26	Realis E26 Actual
+T28	Life_Die 2889 2892	ill
+E28	Life_Die:T28 
+A28	Realis E28 Actual
+T29	Conflict_Attack 2905 2911	bomber
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Contact_Communicate 2975 2978	ask
+E30	Contact_Communicate:T30 
+A30	Realis E30 Other
+T31	Life_Die 3070 3076	killed
+E31	Life_Die:T31 
+A31	Realis E31 Actual
+T32	Justice_Release-Parole 3280 3287	release
+E32	Justice_Release-Parole:T32 
+A32	Realis E32 Actual
+T33	Justice_Release-Parole 3362 3367;3389 3396	grant freedom
+E33	Justice_Release-Parole:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 3441 3447	Bomber
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T36	Contact_Meet 3756 3768	celebrations
+E36	Contact_Meet:T36 
+A36	Realis E36 Generic
+T37	Transaction_Transfer-Money 3877 3881	paid
+E37	Transaction_Transfer-Money:T37 
+A37	Realis E37 Actual
+T38	Justice_Arrest-Jail 3945 3951	jailed
+E38	Justice_Arrest-Jail:T38 
+A38	Realis E38 Actual
+T39	Justice_Release-Parole 3992 3999	release
+E39	Justice_Release-Parole:T39 
+A39	Realis E39 Actual
+T41	Life_Die 4098 4101	die
+E41	Life_Die:T41 
+A41	Realis E41 Other
+T42	Justice_Release-Parole 4200 4207	release
+E42	Justice_Release-Parole:T42 
+A42	Realis E42 Actual
+T43	Conflict_Attack 4222 4228	bomber
+E43	Conflict_Attack:T43 
+A43	Realis E43 Actual
+T45	Contact_Communicate 4399 4405	talked
+E45	Contact_Communicate:T45 
+A45	Realis E45 Actual
+T47	Justice_Release-Parole 4696 4704	released
+E47	Justice_Release-Parole:T47 
+A47	Realis E47 Actual
+T48	Justice_Arrest-Jail 4735 4742	serving
+E48	Justice_Arrest-Jail:T48 
+A48	Realis E48 Actual
+T49	Justice_Sentence 4772 4780	sentence
+E49	Justice_Sentence:T49 
+A49	Realis E49 Actual
+T50	Justice_Release-Parole 4966 4973	release
+E50	Justice_Release-Parole:T50 
+A50	Realis E50 Actual
+T52	Justice_Trial-Hearing 5061 5068	hearing
+E52	Justice_Trial-Hearing:T52 
+A52	Realis E52 Other
+T54	Justice_Release-Parole 5138 5145	release
+E54	Justice_Release-Parole:T54 
+A54	Realis E54 Actual
+T56	Life_Die 5444 5448	died
+E56	Life_Die:T56 
+A56	Realis E56 Actual
+T58	Conflict_Attack 5900 5906	bomber
+E58	Conflict_Attack:T58 
+A58	Realis E58 Actual
+T59	Contact_Communicate 5970 5973	ask
+E59	Contact_Communicate:T59 
+A59	Realis E59 Other
+T60	Life_Die 6065 6071	killed
+E60	Life_Die:T60 
+A60	Realis E60 Actual
+T63	Conflict_Attack 7155 7162	bombing
+E63	Conflict_Attack:T63 
+A63	Realis E63 Actual
+T64	Conflict_Attack 7699 7706	bombing
+E64	Conflict_Attack:T64 
+A64	Realis E64 Actual
+T65	Conflict_Attack 8201 8208	bombing
+E65	Conflict_Attack:T65 
+A65	Realis E65 Actual
+T67	Conflict_Attack 8784 8791	bombing
+E67	Conflict_Attack:T67 
+A67	Realis E67 Actual
+T73	Life_Die 9130 9138	murdered
+E73	Life_Die:T73 
+A73	Realis E73 Actual
+T74	Justice_Convict 9163 9172	convicted
+E74	Justice_Convict:T74 
+A74	Realis E74 Actual
+T75	Life_Die 9173 9181	murderer
+E75	Life_Die:T75 
+A75	Realis E75 Actual
+T77	Justice_Release-Parole 9152 9158;9182 9187	turned loose
+E77	Justice_Release-Parole:T77 
+A77	Realis E77 Actual
+T80	Conflict_Attack 9657 9664	bombing
+E80	Conflict_Attack:T80 
+A80	Realis E80 Actual
+T87	Life_Die 10552 10558	expire
+E87	Life_Die:T87 
+A87	Realis E87 Other
+T88	Conflict_Attack 10903 10910	bombing
+E88	Conflict_Attack:T88 
+A88	Realis E88 Actual
+T96	Conflict_Attack 12062 12069	bombing
+E96	Conflict_Attack:T96 
+A96	Realis E96 Actual
+T103	Life_Die 12839 12845	deaths
+E103	Life_Die:T103 
+A103	Realis E103 Actual
+T104	Conflict_Attack 12870 12878	blown up
+E104	Conflict_Attack:T104 
+A104	Realis E104 Actual
+T116	Life_Die 14693 14699	deaths
+E116	Life_Die:T116 
+A116	Realis E116 Actual
+T117	Conflict_Attack 14724 14732	blown up
+E117	Conflict_Attack:T117 
+A117	Realis E117 Actual
+T119	Life_Die 15321 15329	terminal
+E119	Life_Die:T119 
+A119	Realis E119 Other
+T120	Justice_Arrest-Jail 15377 15383	prison
+E120	Justice_Arrest-Jail:T120 
+A120	Realis E120 Generic
+T122	Justice_Release-Parole 15455 15463	released
+E122	Justice_Release-Parole:T122 
+A122	Realis E122 Actual
+T123	Conflict_Attack 15735 15739	bomb
+E123	Conflict_Attack:T123 
+A123	Realis E123 Generic
+T128	Life_Die 16447 16453	deaths
+E128	Life_Die:T128 
+A128	Realis E128 Actual
+T129	Conflict_Attack 16478 16486	blown up
+E129	Conflict_Attack:T129 
+A129	Realis E129 Actual
+T130	Movement_Transport-Person 16744 16746	go
+E130	Movement_Transport-Person:T130 
+A130	Realis E130 Other
+T133	Life_Die 16933 16941	murderer
+E133	Life_Die:T133 
+A133	Realis E133 Actual
+T134	Justice_Release-Parole 16922 16928;16942 16946	turned lose
+E134	Justice_Release-Parole:T134 
+A134	Realis E134 Actual
+T135	Life_Die 16954 16958	kill
+E135	Life_Die:T135 
+A135	Realis E135 Other
+T137	Life_Die 17147 17157	terminally
+E137	Life_Die:T137 
+A137	Realis E137 Other
+T138	Life_Die 15104 15114	terminally
+E138	Life_Die:T138 
+A138	Realis E138 Other
+T139	Life_Die 6768 6778	terminally
+E139	Life_Die:T139 
+A139	Realis E139 Other
+T140	Life_Die 6358 6368	terminally
+E140	Life_Die:T140 
+A140	Realis E140 Other
+T141	Life_Die 5873 5883	Terminally
+E141	Life_Die:T141 
+A141	Realis E141 Other
+T142	Life_Die 4067 4077	terminally
+E142	Life_Die:T142 
+A142	Realis E142 Other
+T143	Life_Die 2878 2888	Terminally
+E143	Life_Die:T143 
+A143	Realis E143 Other
+T144	Life_Die 1072 1082	terminally
+E144	Life_Die:T144 
+A144	Realis E144 Other
+T145	Life_Die 68 78	Terminally
+E145	Life_Die:T145 
+A145	Realis E145 Other
+T146	Life_Die 17364 17372	terminal
+E146	Life_Die:T146 
+A146	Realis E146 Other
+T148	Justice_Release-Parole 17498 17506	released
+E148	Justice_Release-Parole:T148 
+A148	Realis E148 Actual
+T149	Contact_Communicate 17695 17701	talked
+E149	Contact_Communicate:T149 
+A149	Realis E149 Actual
+T150	Life_Die 17984 17990	deaths
+E150	Life_Die:T150 
+A150	Realis E150 Actual
+T151	Conflict_Attack 18015 18023	blown up
+E151	Conflict_Attack:T151 
+A151	Realis E151 Actual
+T154	Justice_Release-Parole 18459 18465;18479 18483	turned lose
+E154	Justice_Release-Parole:T154 
+A154	Realis E154 Actual
+T155	Life_Die 18470 18478	murderer
+E155	Life_Die:T155 
+A155	Realis E155 Actual
+T156	Life_Die 18491 18495	kill
+E156	Life_Die:T156 
+A156	Realis E156 Other
+T159	Life_Die 18864 18874	terminally
+E159	Life_Die:T159 
+A159	Realis E159 Other
+T162	Life_Die 19081 19089	terminal
+E162	Life_Die:T162 
+A162	Realis E162 Other
+T165	Justice_Release-Parole 19215 19223	released
+E165	Justice_Release-Parole:T165 
+A165	Realis E165 Actual
+T166	Contact_Communicate 19412 19418	talked
+E166	Contact_Communicate:T166 
+A166	Realis E166 Actual
+T168	Movement_Transport-Person 19920 19922	go
+E168	Movement_Transport-Person:T168 
+A168	Realis E168 Other
+T169	Movement_Transport-Person 18281 18283	go
+E169	Movement_Transport-Person:T169 
+A169	Realis E169 Other
+T170	Justice_Release-Parole 20098 20104;20118 20122	turned lose
+E170	Justice_Release-Parole:T170 
+A170	Realis E170 Actual
+T171	Life_Die 20109 20117	murderer
+E171	Life_Die:T171 
+A171	Realis E171 Actual
+T172	Life_Die 20130 20134	kill
+E172	Life_Die:T172 
+A172	Realis E172 Actual
+T175	Life_Die 20334 20338	died
+E175	Life_Die:T175 
+A175	Realis E175 Actual
+T177	Conflict_Attack 20356 20363	bombing
+E177	Conflict_Attack:T177 
+A177	Realis E177 Actual
+T178	Conflict_Attack 20503 20509	bomber
+E178	Conflict_Attack:T178 
+A178	Realis E178 Actual
+T179	Conflict_Attack 20589 20595	bomber
+E179	Conflict_Attack:T179 
+A179	Realis E179 Actual
+T180	Justice_Release-Parole 20630 20637	release
+E180	Justice_Release-Parole:T180 
+A180	Realis E180 Actual
+T181	Movement_Transport-Person 20990 20992	go
+E181	Movement_Transport-Person:T181 
+A181	Realis E181 Other
+T184	Justice_Release-Parole 21168 21174;21188 21192	turned lose
+E184	Justice_Release-Parole:T184 
+A184	Realis E184 Actual
+T185	Life_Die 21179 21187	murderer
+E185	Life_Die:T185 
+A185	Realis E185 Actual
+T186	Life_Die 21200 21204	kill
+E186	Life_Die:T186 
+A186	Realis E186 Other
+T189	Life_Die 21404 21408	died
+E189	Life_Die:T189 
+A189	Realis E189 Actual
+T190	Conflict_Attack 21426 21433	bombing
+E190	Conflict_Attack:T190 
+A190	Realis E190 Actual
+T192	Conflict_Attack 21573 21579	bomber
+E192	Conflict_Attack:T192 
+A192	Realis E192 Actual
+T193	Conflict_Attack 21659 21665	bomber
+E193	Conflict_Attack:T193 
+A193	Realis E193 Actual
+T194	Justice_Release-Parole 21700 21707	release
+E194	Justice_Release-Parole:T194 
+A194	Realis E194 Actual
+T195	Conflict_Attack 22484 22491	bombing
+E195	Conflict_Attack:T195 
+A195	Realis E195 Actual
+T196	Justice_Trial-Hearing 22154 22160	trials
+E196	Justice_Trial-Hearing:T196 
+A196	Realis E196 Generic
+T198	Life_Die 22830 22838	murdered
+E198	Life_Die:T198 
+A198	Realis E198 Actual
+T199	Justice_Release-Parole 22852 22858;22882 22887	turned loose
+E199	Justice_Release-Parole:T199 
+A199	Realis E199 Actual
+T200	Justice_Convict 22863 22872	convicted
+E200	Justice_Convict:T200 
+A200	Realis E200 Actual
+T201	Life_Die 22873 22881	murderer
+E201	Life_Die:T201 
+A201	Realis E201 Actual
+T205	Life_Die 23247 23254	killing
+E205	Life_Die:T205 
+A205	Realis E205 Actual
+T206	Transaction_Transfer-Money 23714 23721	funding
+E206	Transaction_Transfer-Money:T206 
+A206	Realis E206 Actual
+T207	Personnel_Elect 24052 24061	elections
+E207	Personnel_Elect:T207 
+A207	Realis E207 Other
+T208	Justice_Release-Parole 24266 24273	release
+E208	Justice_Release-Parole:T208 
+A208	Realis E208 Actual
+T210	Justice_Release-Parole 24451 24458	release
+E210	Justice_Release-Parole:T210 
+A210	Realis E210 Actual
+T211	Conflict_Attack 24476 24482	bomber
+E211	Conflict_Attack:T211 
+A211	Realis E211 Actual
+T213	Transaction_Transfer-Ownership 24942 24947	Trade
+E213	Transaction_Transfer-Ownership:T213 
+A213	Realis E213 Generic
+T214	Movement_Transport-Person 25008 25015	visited
+E214	Movement_Transport-Person:T214 
+A214	Realis E214 Actual
+T215	Contact_Meet 25026 25029	met
+E215	Contact_Meet:T215 
+A215	Realis E215 Actual
+T216	Personnel_End-Position 25364 25370	former
+E216	Personnel_End-Position:T216 
+A216	Realis E216 Actual
+T217	Personnel_Start-Position 25108 25117	appointed
+E217	Personnel_Start-Position:T217 
+A217	Realis E217 Actual
+T218	Justice_Release-Parole 25715 25722	release
+E218	Justice_Release-Parole:T218 
+A218	Realis E218 Actual
+T219	Conflict_Attack 25743 25749	bomber
+E219	Conflict_Attack:T219 
+A219	Realis E219 Actual
+T221	Justice_Release-Parole 25831 25838	release
+E221	Justice_Release-Parole:T221 
+A221	Realis E221 Actual
+T222	Personnel_Start-Position 26006 26015	appointed
+E222	Personnel_Start-Position:T222 
+A222	Realis E222 Actual
+T223	Transaction_Transfer-Money 26322 26331	donations
+E223	Transaction_Transfer-Money:T223 
+A223	Realis E223 Other
+T224	Justice_Release-Parole 26421 26428	release
+E224	Justice_Release-Parole:T224 
+A224	Realis E224 Actual
+T226	Justice_Release-Parole 26638 26645	release
+E226	Justice_Release-Parole:T226 
+A226	Realis E226 Actual
+T227	Transaction_Transfer-Money 26832 26839	funding
+E227	Transaction_Transfer-Money:T227 
+A227	Realis E227 Generic
+T229	Conflict_Attack 26972 26976	wars
+E229	Conflict_Attack:T229 
+A229	Realis E229 Generic
+T230	Conflict_Attack 26986 26992	fought
+E230	Conflict_Attack:T230 
+A230	Realis E230 Generic
+T231	Transaction_Transfer-Money 27335 27342	funding
+E231	Transaction_Transfer-Money:T231 
+A231	Realis E231 Generic
+T232	Life_Die 27362 27369	suicide
+E232	Life_Die:T232 
+A232	Realis E232 Generic
+T233	Conflict_Attack 27370 27377	bombers
+E233	Conflict_Attack:T233 
+A233	Realis E233 Generic
+T234	Transaction_Transfer-Money 27380 27386	bought
+E234	Transaction_Transfer-Money:T234 
+A234	Realis E234 Generic
+T235	Transaction_Transfer-Money 27391 27395	paid
+E235	Transaction_Transfer-Money:T235 
+A235	Realis E235 Generic
+T236	Justice_Release-Parole 27483 27490	release
+E236	Justice_Release-Parole:T236 
+A236	Realis E236 Actual
+T237	Transaction_Transfer-Money 27591 27597	buying
+E237	Transaction_Transfer-Money:T237 
+A237	Realis E237 Actual
+T238	Conflict_Attack 27612 27615	war
+E238	Conflict_Attack:T238 
+A238	Realis E238 Actual
+T239	Contact_Communicate 27816 27824	inviting
+E239	Contact_Communicate:T239 
+A239	Realis E239 Actual
+T241	Conflict_Attack 29306 29309	War
+E241	Conflict_Attack:T241 
+A241	Realis E241 Actual
+T242	Transaction_Transfer-Money 29510 29517	funding
+E242	Transaction_Transfer-Money:T242 
+A242	Realis E242 Actual
+T243	Transaction_Transfer-Money 29627 29630	buy
+E243	Transaction_Transfer-Money:T243 
+A243	Realis E243 Generic
+T244	Transaction_Transfer-Money 29648 29653;29659 29662	money get
+E244	Transaction_Transfer-Money:T244 
+A244	Realis E244 Generic
+T245	Personnel_Elect 29792 29799	elected
+E245	Personnel_Elect:T245 
+A245	Realis E245 Generic
+T246	Personnel_Elect 29920 29927	elected
+E246	Personnel_Elect:T246 
+A246	Realis E246 Generic
+T247	Conflict_Attack 30020 30023	war
+E247	Conflict_Attack:T247 
+A247	Realis E247 Generic
+T1	Contact_Meet 28036 28049	shaking hands
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual

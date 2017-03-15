@@ -1,0 +1,160 @@
+T1	Justice_Charge-Indict 199 206	CHARGED
+E996	Justice_Charge-Indict:T1
+A1	Realis E996 Actual
+T2	Justice_Charge-Indict 633 641	charging
+E872	Justice_Charge-Indict:T2
+A2	Realis E872 Actual
+T3	Justice_Charge-Indict 809 816	charges
+E671	Justice_Charge-Indict:T3
+A3	Realis E671 Actual
+T4	Justice_Charge-Indict 2407 2414	charges
+E783	Justice_Charge-Indict:T4
+A4	Realis E783 Actual
+T5	Justice_Charge-Indict 2542 2549	charges
+E482	Justice_Charge-Indict:T5
+A5	Realis E482 Actual
+T6	Justice_Trial-Hearing 791 796	trial
+E345	Justice_Trial-Hearing:T6
+A6	Realis E345 Other
+T7	Justice_Trial-Hearing 971 974	try
+E6	Justice_Trial-Hearing:T7
+A7	Realis E6 Other
+T8	Justice_Trial-Hearing 1181 1184	try
+E259	Justice_Trial-Hearing:T8
+A8	Realis E259 Other
+T9	Justice_Trial-Hearing 3348 3353	tried
+E35	Justice_Trial-Hearing:T9
+A9	Realis E35 Other
+T10	Justice_Trial-Hearing 3723 3728	tried
+E961	Justice_Trial-Hearing:T10
+A10	Realis E961 Other
+T11	Justice_Trial-Hearing 3752 3757	tried
+E4	Justice_Trial-Hearing:T11
+A11	Realis E4 Other
+T12	Justice_Trial-Hearing 3950 3955	tried
+E971	Justice_Trial-Hearing:T12
+A12	Realis E971 Other
+T13	Justice_Trial-Hearing 4218 4223	tried
+E594	Justice_Trial-Hearing:T13
+A13	Realis E594 Other
+T14	Movement_Transport-Person 3784 3795	extradition
+E710	Movement_Transport-Person:T14
+A14	Realis E710 Generic
+T15	Justice_Charge-Indict 1046 1053	charges
+E654	Justice_Charge-Indict:T15
+A15	Realis E654 Actual
+T16	Justice_Appeal 1092 1100	appealed
+E696	Justice_Appeal:T16
+A16	Realis E696 Actual
+T17	Justice_Appeal 1249 1258	appellate
+E844	Justice_Appeal:T17
+A17	Realis E844 Generic
+T18	Contact_Broadcast 1773 1777	said
+E934	Contact_Broadcast:T18
+A18	Realis E934 Actual
+T19	Contact_Broadcast 2198 2202	said
+E862	Contact_Broadcast:T19
+A19	Realis E862 Actual
+T20	Manufacture_Artifact 2639 2651	construction
+E716	Manufacture_Artifact:T20
+A20	Realis E716 Actual
+T21	Justice_Charge-Indict 2745 2752	charged
+E595	Justice_Charge-Indict:T21
+A21	Realis E595 Actual
+T22	Justice_Charge-Indict 2945 2951	charge
+E166	Justice_Charge-Indict:T22
+A22	Realis E166 Actual
+T23	Justice_Charge-Indict 2852 2859	charged
+E704	Justice_Charge-Indict:T23
+A23	Realis E704 Actual
+T24	Justice_Charge-Indict 3042 3048	charge
+E493	Justice_Charge-Indict:T24
+A24	Realis E493 Actual
+T25	Justice_Arrest-Jail 2993 2999	prison
+E875	Justice_Arrest-Jail:T25
+A25	Realis E875 Generic
+T26	Justice_Fine 3017 3021	fine
+E41	Justice_Fine:T26
+A26	Realis E41 Other
+T27	Justice_Arrest-Jail 3079 3085	prison
+E116	Justice_Arrest-Jail:T27
+A27	Realis E116 Generic
+T28	Justice_Fine 3103 3107	fine
+E43	Justice_Fine:T28
+A28	Realis E43 Other
+T29	Justice_Extradite 3322 3332	extradited
+E470	Justice_Extradite:T29
+A29	Realis E470 Other
+T30	Justice_Extradite 3697 3707	extradited
+E230	Justice_Extradite:T30
+A30	Realis E230 Other
+T31	Justice_Extradite 3879 3890	extradition
+E346	Justice_Extradite:T31
+A31	Realis E346 Other
+T32	Justice_Extradite 5015 5026	extradition
+E775	Justice_Extradite:T32
+A32	Realis E775 Other
+T33	Movement_Transport-Person 3322 3332	extradited
+E21	Movement_Transport-Person:T33
+A33	Realis E21 Other
+T34	Movement_Transport-Person 3697 3707	extradited
+E301	Movement_Transport-Person:T34
+A34	Realis E301 Other
+T35	Movement_Transport-Person 3879 3890	extradition
+E260	Movement_Transport-Person:T35
+A35	Realis E260 Other
+T36	Movement_Transport-Person 4048 4053	bring
+E629	Movement_Transport-Person:T36
+A36	Realis E629 Other
+T37	Movement_Transport-Person 5015 5026	extradition
+E76	Movement_Transport-Person:T37
+A37	Realis E76 Other
+T38	Justice_Extradite 3784 3795	extradition
+E248	Justice_Extradite:T38
+A38	Realis E248 Generic
+T39	Justice_Convict 3983 3992	convicted
+E212	Justice_Convict:T39
+A39	Realis E212 Other
+T40	Justice_Sentence 4080 4088	sentence
+E491	Justice_Sentence:T40
+A40	Realis E491 Other
+T41	Justice_Trial-Hearing 4567 4572	tried
+E95	Justice_Trial-Hearing:T41
+A41	Realis E95 Generic
+T42	Justice_Trial-Hearing 4856 4861	trial
+E953	Justice_Trial-Hearing:T42
+A42	Realis E953 Generic
+T43	Justice_Charge-Indict 501 518	formal accusation
+E811	Justice_Charge-Indict:T43
+A43	Realis E811 Generic
+T44	Justice_Charge-Indict 566 576	indictment
+E316	Justice_Charge-Indict:T44
+A44	Realis E316 Generic
+T45	Transaction_Transfer-Money 3103 3107	fine
+E809	Transaction_Transfer-Money:T45
+A45	Realis E809 Other
+T46	Transaction_Transfer-Money 3017 3021	fine
+E278	Transaction_Transfer-Money:T46
+A46	Realis E278 Other
+R1	Coreference Arg1:E996 Arg2:E872
+R2	Coreference Arg1:E872 Arg2:E671
+R3	Coreference Arg1:E671 Arg2:E783
+R4	Coreference Arg1:E783 Arg2:E482
+R5	Coreference Arg1:E345 Arg2:E6
+R6	Coreference Arg1:E6 Arg2:E259
+R7	Coreference Arg1:E259 Arg2:E35
+R8	Coreference Arg1:E35 Arg2:E961
+R9	Coreference Arg1:E961 Arg2:E4
+R10	Coreference Arg1:E4 Arg2:E971
+R11	Coreference Arg1:E971 Arg2:E594
+R12	Coreference Arg1:E595 Arg2:E166
+R13	Coreference Arg1:E704 Arg2:E493
+R14	Coreference Arg1:E470 Arg2:E230
+R15	Coreference Arg1:E230 Arg2:E346
+R16	Coreference Arg1:E346 Arg2:E775
+R17	Coreference Arg1:E21 Arg2:E301
+R18	Coreference Arg1:E301 Arg2:E260
+R19	Coreference Arg1:E260 Arg2:E629
+R20	Coreference Arg1:E629 Arg2:E76
+R21	Coreference Arg1:E95 Arg2:E953
+R22	Coreference Arg1:E811 Arg2:E316

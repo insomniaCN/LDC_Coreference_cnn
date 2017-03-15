@@ -1,0 +1,60 @@
+T1	Transaction_Transfer-Ownership 352 359	renting
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Life_Die 411 428	committed suicide
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 496 500	told
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 548 554	return
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Other
+T5	Conflict_Attack 591 599	shooting
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 680 687	renting
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Generic
+T7	Life_Die 887 892;899 903	lives lost
+E7	Life_Die:T7 
+A7	Realis E7 Generic
+T10	Conflict_Attack 1100 1108	fighting
+E10	Conflict_Attack:T10 
+A10	Realis E10 Generic
+T11	Transaction_Transfer-Ownership 1179 1189	delivering
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Generic
+T12	Personnel_End-Position 1412 1418	former
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual
+T13	Contact_Meet 1394 1402	Ran into
+E13	Contact_Meet:T13 
+A13	Realis E13 Actual
+T16	Contact_Communicate 1735 1740	asked
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 1823 1827	text
+E17	Contact_Communicate:T17 
+A17	Realis E17 Generic
+T18	Contact_Communicate 1775 1780	reach
+E18	Contact_Communicate:T18 
+A18	Realis E18 Other
+T19	Contact_Communicate 1830 1835	email
+E19	Contact_Communicate:T19 
+A19	Realis E19 Generic
+T20	Contact_Communicate 1870 1874	said
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Money 1918 1932	transfer money
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Other
+T22	Transaction_Transfer-Ownership 238 245	rentals
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Generic
+T23	Contact_Communicate 1963 1970	contact
+E23	Contact_Communicate:T23 
+A23	Realis E23 Other
+T25	Transaction_Transfer-Ownership 627 633	rented
+E25	Transaction_Transfer-Ownership:T25 
+A25	Realis E25 Actual

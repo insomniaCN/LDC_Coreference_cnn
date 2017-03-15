@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9d0000000000000142" doc_id="46657bc49ff14a4f451594f0c0c4d83a" source_type="multi_post">
+  <event_mention id="em-35" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1160" length="10">auctioning</trigger>
+  </event_mention>
+  <event_mention id="em-75" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="314" length="9">borrowing</trigger>
+  </event_mention>
+  <event_mention id="em-115" type="personnel" subtype="startposition" realis="generic">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3403" length="10">appointees</trigger>
+  </event_mention>
+  <event_mention id="em-221" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3074" length="8">spending</trigger>
+  </event_mention>
+  <event_mention id="em-246" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3438" length="7">chained</trigger>
+  </event_mention>
+  <event_mention id="em-297" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1492" length="8">transfer</trigger>
+  </event_mention>
+  <event_mention id="em-348" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="898" length="9">subsidize</trigger>
+  </event_mention>
+  <event_mention id="em-350" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3147" length="9">summation</trigger>
+  </event_mention>
+  <event_mention id="em-364" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="251" length="6">raking</trigger>
+  </event_mention>
+  <event_mention id="em-466" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1055" length="4">make</trigger>
+  </event_mention>
+  <event_mention id="em-490" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="402" length="13">manufacturing</trigger>
+  </event_mention>
+  <event_mention id="em-494" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="4237" length="6">sucked</trigger>
+  </event_mention>
+  <event_mention id="em-501" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="980" length="7">awarded</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1135" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-540" type="personnel" subtype="startposition" realis="generic">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3240" length="9">appointed</trigger>
+  </event_mention>
+  <event_mention id="em-542" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="301" length="8">spending</trigger>
+  </event_mention>
+  <event_mention id="em-556" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1231" length="7">auction</trigger>
+  </event_mention>
+  <event_mention id="em-583" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="2800" length="8">spending</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="507" length="4">give</trigger>
+  </event_mention>
+  <event_mention id="em-619" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="959" length="8">bankrupt</trigger>
+  </event_mention>
+  <event_mention id="em-636" type="personnel" subtype="endposition" realis="other">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3925" length="7">get out</trigger>
+  </event_mention>
+  <event_mention id="em-652" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3390" length="4">came</trigger>
+  </event_mention>
+  <event_mention id="em-660" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1433" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-661" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1147" length="9">investors</trigger>
+  </event_mention>
+  <event_mention id="em-671" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3167" length="7">retired</trigger>
+  </event_mention>
+  <event_mention id="em-700" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1433" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-722" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="2886" length="8">spending</trigger>
+  </event_mention>
+  <event_mention id="em-767" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="3562" length="6">Former</trigger>
+  </event_mention>
+  <event_mention id="em-768" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1231" length="7">auction</trigger>
+  </event_mention>
+  <event_mention id="em-836" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="677" length="9">taxpayers</trigger>
+  </event_mention>
+  <event_mention id="em-844" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="846" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-850" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="2469" length="7">posting</trigger>
+  </event_mention>
+  <event_mention id="em-853" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1568" length="8">produces</trigger>
+  </event_mention>
+  <event_mention id="em-859" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1160" length="10">auctioning</trigger>
+  </event_mention>
+  <event_mention id="em-895" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="1105" length="8">bankrupt</trigger>
+  </event_mention>
+  <event_mention id="em-924" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="908" length="6">making</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="46657bc49ff14a4f451594f0c0c4d83a" offset="385" length="11">well-paying</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

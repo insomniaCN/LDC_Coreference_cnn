@@ -1,0 +1,91 @@
+T1	Manufacture_Artifact 152 160	building
+E591	Manufacture_Artifact:T1
+A1	Realis E591 Actual
+T2	Manufacture_Artifact 558 563	build
+E284	Manufacture_Artifact:T2
+A2	Realis E284 Actual
+T3	Manufacture_Artifact 645 650	build
+E984	Manufacture_Artifact:T3
+A3	Realis E984 Actual
+T4	Manufacture_Artifact 1706 1714	building
+E344	Manufacture_Artifact:T4
+A4	Realis E344 Actual
+T5	Manufacture_Artifact 2112 2117	build
+E787	Manufacture_Artifact:T5
+A5	Realis E787 Actual
+T6	Manufacture_Artifact 2199 2204	build
+E303	Manufacture_Artifact:T6
+A6	Realis E303 Actual
+T7	Manufacture_Artifact 2647 2655	building
+E615	Manufacture_Artifact:T7
+A7	Realis E615 Actual
+T8	Manufacture_Artifact 3053 3058	build
+E448	Manufacture_Artifact:T8
+A8	Realis E448 Actual
+T9	Manufacture_Artifact 3140 3145	build
+E722	Manufacture_Artifact:T9
+A9	Realis E722 Actual
+T10	Transaction_Transfer-Ownership 344 350	giving
+E639	Transaction_Transfer-Ownership:T10
+A10	Realis E639 Other
+T11	Transaction_Transfer-Ownership 1898 1904	giving
+E827	Transaction_Transfer-Ownership:T11
+A11	Realis E827 Other
+T12	Transaction_Transfer-Ownership 2839 2845	giving
+E403	Transaction_Transfer-Ownership:T12
+A12	Realis E403 Other
+T13	Movement_Transport-Person 390 398	vacation
+E999	Movement_Transport-Person:T13
+A13	Realis E999 Other
+T14	Movement_Transport-Person 1944 1952	vacation
+E728	Movement_Transport-Person:T14
+A14	Realis E728 Other
+T15	Movement_Transport-Person 2885 2893	vacation
+E944	Movement_Transport-Person:T15
+A15	Realis E944 Other
+T16	Transaction_Transfer-Ownership 457 463	bought
+E613	Transaction_Transfer-Ownership:T16
+A16	Realis E613 Actual
+T17	Transaction_Transfer-Ownership 2011 2017	bought
+E741	Transaction_Transfer-Ownership:T17
+A17	Realis E741 Actual
+T18	Transaction_Transfer-Ownership 2952 2958	bought
+E442	Transaction_Transfer-Ownership:T18
+A18	Realis E442 Actual
+T19	Contact_Correspondence 1477 1482	phone
+E651	Contact_Correspondence:T19
+A19	Realis E651 Generic
+T20	Movement_Transport-Artifact 3649 3656	transit
+E407	Movement_Transport-Artifact:T20
+A20	Realis E407 Other
+T21	Transaction_Transfer-Money 457 463	bought
+E198	Transaction_Transfer-Money:T21
+A21	Realis E198 Actual
+T22	Transaction_Transfer-Money 2011 2017	bought
+E524	Transaction_Transfer-Money:T22
+A22	Realis E524 Actual
+T23	Transaction_Transfer-Money 2952 2958	bought
+E401	Transaction_Transfer-Money:T23
+A23	Realis E401 Actual
+T24	Life_Marry 1527 1534	married
+E346	Life_Marry:T24
+A24	Realis E346 Actual
+T25	Manufacture_Artifact 3479 3482	put
+E712	Manufacture_Artifact:T25
+A25	Realis E712 Other
+R1	Coreference Arg1:E591 Arg2:E284
+R2	Coreference Arg1:E284 Arg2:E984
+R3	Coreference Arg1:E984 Arg2:E344
+R4	Coreference Arg1:E344 Arg2:E787
+R5	Coreference Arg1:E787 Arg2:E303
+R6	Coreference Arg1:E303 Arg2:E615
+R7	Coreference Arg1:E615 Arg2:E448
+R8	Coreference Arg1:E448 Arg2:E722
+R9	Coreference Arg1:E639 Arg2:E827
+R10	Coreference Arg1:E827 Arg2:E403
+R11	Coreference Arg1:E999 Arg2:E728
+R12	Coreference Arg1:E728 Arg2:E944
+R13	Coreference Arg1:E613 Arg2:E741
+R14	Coreference Arg1:E741 Arg2:E442
+R15	Coreference Arg1:E198 Arg2:E524
+R16	Coreference Arg1:E524 Arg2:E401

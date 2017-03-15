@@ -1,0 +1,21 @@
+T1	Transaction_Transfer-Ownership 196 201	seize
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 269 274	seize
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 358 364	seized
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 537 543	seized
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 953 961	arrested
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1419 1425	seized
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 979 983	came
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual

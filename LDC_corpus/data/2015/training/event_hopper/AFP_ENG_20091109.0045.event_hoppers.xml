@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976220000000000000011" doc_id="AFP_ENG_20091109.0045" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-36" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0045" offset="277" length="12">distributing</trigger>
+      </event_mention>
+      <event_mention id="em-49" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0045" offset="828" length="4">sell</trigger>
+      </event_mention>
+      <event_mention id="em-296" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0045" offset="640" length="5">buyer</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-62" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="936" length="13">lawsuit filed</trigger>
+      </event_mention>
+      <event_mention id="em-75" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="537" length="5">filed</trigger>
+      </event_mention>
+      <event_mention id="em-88" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="884" length="4">suit</trigger>
+      </event_mention>
+      <event_mention id="em-257" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="735" length="8">claiming</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-101" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091109.0045" offset="434" length="6">issued</trigger>
+      </event_mention>
+      <event_mention id="em-114" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091109.0045" offset="203" length="6">issued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-127" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="595" length="2">ex</trigger>
+      </event_mention>
+      <event_mention id="em-140" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="1005" length="8">divorced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-153" type="life" subtype="marry" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="1305" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-166" type="life" subtype="marry" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="985" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-179" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="457" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-192" type="justice" subtype="sue" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="1077" length="4">sued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-205" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0045" offset="1188" length="7">awarded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-218" type="life" subtype="marry" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="1438" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-231" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="1468" length="8">divorced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-244" type="life" subtype="marry" realis="actual">
+        <trigger source="AFP_ENG_20091109.0045" offset="1541" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-270" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0045" offset="828" length="4">sell</trigger>
+      </event_mention>
+      <event_mention id="em-311" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0045" offset="640" length="5">buyer</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-283" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091109.0045" offset="1259" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

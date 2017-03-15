@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000609" doc_id="bolt-eng-DF-200-192448-6191774" source_type="multi_post">
+<event_mention id="em-10" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="551" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-23" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="644" length="7">getting</trigger>
+      </event_mention>
+<event_mention id="em-38" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1094" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-53" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1566" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-66" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1609" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-81" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1652" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-94" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1737" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-107" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1837" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-122" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="1943" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-137" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="2004" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-154" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="2262" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-167" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="2785" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-182" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="2943" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-195" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="2980" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-210" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3173" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-223" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3216" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-236" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3259" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-249" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3344" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-262" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3444" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-288" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3550" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-301" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3611" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-314" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3984" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-327" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="3997" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-342" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="4152" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-355" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="4323" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-368" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="4354" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-383" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="4857" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-396" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="4984" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-411" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="7638" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-426" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="7638" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-439" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="8211" length="7">sending</trigger>
+      </event_mention>
+<event_mention id="em-454" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="8471" length="4">flow</trigger>
+      </event_mention>
+<event_mention id="em-469" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="9375" length="7">sending</trigger>
+      </event_mention>
+<event_mention id="em-482" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="9635" length="4">flow</trigger>
+      </event_mention>
+<event_mention id="em-495" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="10292" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-508" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="10305" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-521" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="10460" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-534" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-200-192448-6191774" offset="10563" length="7">elected</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

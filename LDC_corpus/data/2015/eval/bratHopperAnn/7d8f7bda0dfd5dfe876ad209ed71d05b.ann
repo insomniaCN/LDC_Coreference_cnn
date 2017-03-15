@@ -1,0 +1,39 @@
+T1	Justice_Arrest-Jail 266 272	prison
+E776	Justice_Arrest-Jail:T1
+A1	Realis E776 Actual
+T2	Justice_Arrest-Jail 1113 1119	prison
+E761	Justice_Arrest-Jail:T2
+A2	Realis E761 Actual
+T3	Justice_Arrest-Jail 1688 1695	serving
+E774	Justice_Arrest-Jail:T3
+A3	Realis E774 Actual
+T4	Contact_Contact 760 764	told
+E532	Contact_Contact:T4
+A4	Realis E532 Actual
+T5	Contact_Contact 931 940	responded
+E355	Contact_Contact:T5
+A5	Realis E355 Actual
+T6	Contact_Correspondence 1177 1191	communications
+E200	Contact_Correspondence:T6
+A6	Realis E200 Generic
+T7	Contact_Broadcast 1304 1311	posting
+E621	Contact_Broadcast:T7
+A7	Realis E621 Actual
+T8	Conflict_Attack 1448 1451	war
+E598	Conflict_Attack:T8
+A8	Realis E598 Generic
+T9	Justice_Release-Parole 1652 1660	released
+E560	Justice_Release-Parole:T9
+A9	Realis E560 Actual
+T10	Justice_Charge-Indict 1721 1727	charge
+E406	Justice_Charge-Indict:T10
+A10	Realis E406 Actual
+T11	Contact_Contact 288 297	declaring
+E994	Contact_Contact:T11
+A11	Realis E994 Actual
+T12	Contact_Contact 1539 1548	interview
+E767	Contact_Contact:T12
+A12	Realis E767 Actual
+R1	Coreference Arg1:E776 Arg2:E761
+R2	Coreference Arg1:E761 Arg2:E774
+R3	Coreference Arg1:E532 Arg2:E355

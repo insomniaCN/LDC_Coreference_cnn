@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea940000000000000123" doc_id="26e2712c97d5ed2bd0ae954e2db4f9af" source_type="multi_post">
+  <event_mention id="em-53" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="323" length="9">presented</trigger>
+  </event_mention>
+  <event_mention id="em-61" type="movement" subtype="transportperson" realis="other">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1477" length="5">doing</trigger>
+  </event_mention>
+  <event_mention id="em-174" type="movement" subtype="transportperson" realis="other">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2994" length="5">doing</trigger>
+  </event_mention>
+  <event_mention id="em-193" type="movement" subtype="transportperson" realis="other">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1350" length="5">doing</trigger>
+  </event_mention>
+  <event_mention id="em-244" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2433" length="6">driver</trigger>
+  </event_mention>
+  <event_mention id="em-249" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1167" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-272" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2401" length="6">arrive</trigger>
+  </event_mention>
+  <event_mention id="em-303" type="justice" subtype="fine" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2268" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-308" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2035" length="4">tell</trigger>
+  </event_mention>
+  <event_mention id="em-322" type="contact" subtype="contact" realis="generic" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2934" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-346" type="justice" subtype="fine" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="299" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-377" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1859" length="6">letter</trigger>
+  </event_mention>
+  <event_mention id="em-397" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="397" length="8">returned</trigger>
+  </event_mention>
+  <event_mention id="em-435" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="443" length="5">heard</trigger>
+  </event_mention>
+  <event_mention id="em-441" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="290" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-471" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1794" length="4">pull</trigger>
+  </event_mention>
+  <event_mention id="em-473" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1866" length="4">come</trigger>
+  </event_mention>
+  <event_mention id="em-529" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2415" length="10">overtaking</trigger>
+  </event_mention>
+  <event_mention id="em-549" type="justice" subtype="fine" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="926" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-563" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2377" length="8">speeding</trigger>
+  </event_mention>
+  <event_mention id="em-699" type="justice" subtype="fine" realis="other">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="3031" length="6">ticket</trigger>
+  </event_mention>
+  <event_mention id="em-734" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="554" length="7">arrived</trigger>
+  </event_mention>
+  <event_mention id="em-736" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2707" length="7">driving</trigger>
+  </event_mention>
+  <event_mention id="em-804" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="917" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-818" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="243" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-842" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="751" length="4">sent</trigger>
+  </event_mention>
+  <event_mention id="em-858" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2394" length="6">letter</trigger>
+  </event_mention>
+  <event_mention id="em-875" type="justice" subtype="fine" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="228" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-906" type="justice" subtype="fine" realis="generic">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1442" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-932" type="justice" subtype="appeal" realis="other">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="3405" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-949" type="justice" subtype="appeal" realis="other">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="3933" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-953" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1794" length="4">pull</trigger>
+  </event_mention>
+  <event_mention id="em-961" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="789" length="4">hand</trigger>
+  </event_mention>
+  <event_mention id="em-976" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="1332" length="5">doing</trigger>
+  </event_mention>
+  <event_mention id="em-994" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="197" length="7">driving</trigger>
+  </event_mention>
+  <event_mention id="em-995" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="26e2712c97d5ed2bd0ae954e2db4f9af" offset="2558" length="5">doing</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

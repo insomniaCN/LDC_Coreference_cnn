@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130513.0230" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130513/20130513,f8a97cb28bc8a72707b7075db484f5d5.xml">
+<HEADLINE>
+EX-HEDGE FUND MANAGER SENTENCED TO MORE THAN 6 YEARS
+</HEADLINE>
+<TEXT>
+<P>
+NEW YORK – During the sentencing of the former hedge fund manager Anthony Chiasson on Monday, Judge Richard J. Sullivan marveled at his prodigious wealth, ticking off the annual income listed on his tax returns. “$16 million, $10 million, $23 million,” he said.
+</P>
+<P>
+“It’s hard to imagine why someone would risk all that to engage in a crime like this,” the judge said.
+</P>
+<P>
+The crime is insider trading, and Sullivan of U.S. District Court in Manhattan handed down one of the stiffest sentences yet in the government’s vast campaign to root out wrongdoing on Wall Street trading floors. He sentenced Chiasson, a founder of Level Global Investors, to 6 1/2 years in prison after a jury found him guilty in December of illegally trading technology stocks.
+</P>
+<P>
+“This kind of conduct can’t go unpunished,” Sullivan said.
+</P>
+<P>
+Chiasson, 39, who did not address the court, was ordered to pay a $5 million fine and forfeit illegally obtained proceeds of as much as $2 million. He must report to the Federal Bureau of Prisons in 90 days.
+</P>
+<P>
+His legal team, led by Reid H. Weingarten of Steptoe &amp; Johnson and Gregory Morvillo of Morvillo Law, is appealing his conviction. They have brought on Mark F. Pomerantz, a lawyer at Paul, Weiss, Rifkind, Wharton &amp; Garrison, to handle the appeal.
+</P>
+<P>
+Chiasson was tried last year alongside Todd Newman, a former portfolio manager at Diamondback Capital Management. The government accused them of being the two most senior Wall Street traders in an eight-member “criminal club” that made $72 million in profits by trading shares of Dell and Nvidia based on corporate secrets obtained from inside those companies.
+</P>
+<P>
+After a six-week trial, a jury convicted Chiasson and Newman. Earlier this month, Sullivan sentenced Newman to 4 1/2 years in prison.
+</P>
+<P>
+Chiasson’s case is one of several insider-trading prosecutions that have touched SAC Capital Advisors, the giant hedge fund owned by the billionaire stock picker Steven A. Cohen that has become a central target of the government’s investigation. Prosecutors charged two former SAC employees with participating in the insider-trading ring involving Chiasson. Jon Horvath, a former SAC technology stock analyst, has admitted to being a part of the scheme. In March, Horvath’s boss, Michael S. Steinberg, was indicted. He is fighting the charges and is scheduled to go on trial in November before Sullivan.
+</P>
+</TEXT>
+</DOC>

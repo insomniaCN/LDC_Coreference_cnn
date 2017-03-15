@@ -1,0 +1,117 @@
+T1	Justice_Charge-Indict 200 207	ACCUSED
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 208 211	WAR
+E2	Conflict_Attack:T2 
+A2	Realis E2 Generic
+T3	Life_Die 228 232	DIES
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Justice_Trial-Hearing 242 247	TRIAL
+E4	Justice_Trial-Hearing:T4 
+A4	Realis E4 Other
+T5	Conflict_Attack 636 639	war
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Life_Die 650 654	died
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Justice_Trial-Hearing 699 704	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Other
+T9	Justice_Charge-Indict 776 783	charged
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Justice_Execute 842 852	executions
+E10	Justice_Execute:T10 
+A10	Realis E10 Actual
+T11	Life_Injure 857 865	tortures
+E11	Life_Injure:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 920 931	deportation
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T14	Justice_Charge-Indict 1022 1033	prosecutors
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 1043 1049	denied
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Justice_Charge-Indict 1054 1065	accusations
+E16	Justice_Charge-Indict:T16 
+A16	Realis E16 Actual
+T18	Life_Be-Born 1172 1176	born
+E18	Life_Be-Born:T18 
+A18	Realis E18 Actual
+T19	Life_Die 1185 1189	died
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Justice_Trial-Hearing 1361 1366	tried
+E20	Justice_Trial-Hearing:T20 
+A20	Realis E20 Actual
+T21	Justice_Sentence 1383 1392	sentenced
+E21	Justice_Sentence:T21 
+A21	Realis E21 Actual
+T22	Life_Die 1396 1401	death
+E22	Life_Die:T22 
+A22	Realis E22 Other
+T23	Movement_Transport-Person 1482 1486	fled
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T24	Justice_Charge-Indict 1572 1579	accused
+E24	Justice_Charge-Indict:T24 
+A24	Realis E24 Actual
+T26	Conflict_Attack 1628 1635	wartime
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Movement_Transport-Person 1684 1688	left
+E27	Movement_Transport-Person:T27 
+A27	Realis E27 Actual
+T28	Justice_Arrest-Jail 1827 1835	detained
+E28	Justice_Arrest-Jail:T28 
+A28	Realis E28 Actual
+T29	Justice_Charge-Indict 1884 1894	indictment
+E29	Justice_Charge-Indict:T29 
+A29	Realis E29 Actual
+T31	Movement_Transport-Person 2011 2022	deportation
+E31	Movement_Transport-Person:T31 
+A31	Realis E31 Generic
+T32	Conflict_Attack 2058 2062	beat
+E32	Conflict_Attack:T32 
+A32	Realis E32 Actual
+T33	Justice_Arrest-Jail 2067 2075	interned
+E33	Justice_Arrest-Jail:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 2105 2112	whipped
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T35	Conflict_Attack 2225 2234	assaulted
+E35	Conflict_Attack:T35 
+A35	Realis E35 Actual
+T36	Justice_Charge-Indict 2250 2260	indictment
+E36	Justice_Charge-Indict:T36 
+A36	Realis E36 Actual
+T38	Justice_Charge-Indict 2285 2292	charges
+E38	Justice_Charge-Indict:T38 
+A38	Realis E38 Actual
+T39	Conflict_Attack 2395 2398	War
+E39	Conflict_Attack:T39 
+A39	Realis E39 Actual
+T40	Justice_Trial-Hearing 2581 2586	trial
+E40	Justice_Trial-Hearing:T40 
+A40	Realis E40 Other
+T41	Life_Die 2699 2704	death
+E41	Life_Die:T41 
+A41	Realis E41 Actual
+T43	Life_Die 2796 2800	died
+E43	Life_Die:T43 
+A43	Realis E43 Actual
+T44	Justice_Trial-Hearing 2829 2834	trial
+E44	Justice_Trial-Hearing:T44 
+A44	Realis E44 Other
+T45	Life_Die 2939 2944	death
+E45	Life_Die:T45 
+A45	Realis E45 Actual
+T46	Conflict_Attack 3006 3009	war
+E46	Conflict_Attack:T46 
+A46	Realis E46 Generic

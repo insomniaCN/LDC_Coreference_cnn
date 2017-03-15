@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9a0000000000000136" doc_id="3cec870096d670c0992f9c5300201611" source_type="multi_post">
+  <event_mention id="em-128" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="333" length="8">resigned</trigger>
+  </event_mention>
+  <event_mention id="em-159" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="154" length="7">resigns</trigger>
+  </event_mention>
+  <event_mention id="em-185" type="justice" subtype="convict" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="1149" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-223" type="conflict" subtype="attack" realis="other">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="1290" length="9">murdering</trigger>
+  </event_mention>
+  <event_mention id="em-230" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="201" length="6">posted</trigger>
+  </event_mention>
+  <event_mention id="em-234" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="1079" length="9">embezzled</trigger>
+  </event_mention>
+  <event_mention id="em-293" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="1248" length="7">bonuses</trigger>
+  </event_mention>
+  <event_mention id="em-372" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="755" length="9">departure</trigger>
+  </event_mention>
+  <event_mention id="em-673" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="1260" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-676" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="311" length="12">embezzlement</trigger>
+  </event_mention>
+  <event_mention id="em-692" type="life" subtype="die" realis="other">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="1290" length="9">murdering</trigger>
+  </event_mention>
+  <event_mention id="em-744" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="599" length="5">tweet</trigger>
+  </event_mention>
+  <event_mention id="em-806" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="654" length="9">departure</trigger>
+  </event_mention>
+  <event_mention id="em-842" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="450" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-848" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="390" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-856" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="900" length="9">published</trigger>
+  </event_mention>
+  <event_mention id="em-867" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="738" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-957" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="987" length="8">siphoned</trigger>
+  </event_mention>
+  <event_mention id="em-958" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="3cec870096d670c0992f9c5300201611" offset="167" length="12">embezzlement</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,67 @@
+<DOC id="NYT_ENG_20130709.0101" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130709/20130709,6db1ff767cf4cc54f734de6c30dabcaa.xml">
+<HEADLINE>
+Bank's tight grip on cash is ill-advised
+</HEADLINE>
+<TEXT>
+<P>
+by John Romano,
+</P>
+<P>
+Times Columnist
+</P>
+<P>
+A strict diet, designed for medical purposes, is just part of the deal. That includes hiding the salt shaker and steering clear of alcohol.
+</P>
+<P>
+Smoking is out of the question, and frequenting the gym whenever your body is agreeable would also qualify as part of the routine.
+</P>
+<P>
+When you are waiting on a kidney transplant to prolong your life, you accept certain hassles along the way. Ronald Yaffe expected all of that.
+</P>
+<P>
+Here’s what he did not expect:
+</P>
+<P>
+A yearlong battle with Wells Fargo concerning $10,000 in cashier’s checks from the 1980s that the bank says it is not obligated to pay.
+</P>
+<P>
+''I’m mad. This has gotten personal, and I’m not going to let it go,'' Yaffe said Monday. ''Who would ever think that if you give your money to a bank, they won’t give it back to you when you ask for it?''
+</P>
+<P>
+This story begins more than 30 years ago when Yaffe began turning his spare cash into cashier’s checks at Central Fidelity Bank in Richmond, Va., where he was an optometrist. The idea, he said, was to have emergency funds to take with him on long sailing trips.
+</P>
+<P>
+The checks, totaling $11,800, went unused and Yaffe stashed them in a safe deposit box when he retired to Sarasota a short time later.
+</P>
+<P>
+With his medical condition worsening and a transplant or dialysis likely, Yaffe, 73, retrieved the checks last year, figuring his prescription costs would soon skyrocket.
+</P>
+<P>
+He deposited the funds in an account, but Wells Fargo soon notified him that the checks were invalid. The bank, Yaffe said, told him they could not find the necessary paper trail. Central Fidelity was sold to Wachovia in 1998, and Wachovia was acquired by Wells Fargo in 2009.
+</P>
+<P>
+The Virginia Department of Treasury found a record for one of the checks in unclaimed funds and sent Yaffe $1,800. The agency said the other $10,000 was reclaimed by Central Fidelity in 1987, according to Sarasota’s Herald-Tribune, which originally reported the story.
+</P>
+<P>
+That’s when Yaffe took the matter to court, and won a judgment last month for the $10,000 plus interest accrued from the time he tried to deposit the checks.
+</P>
+<P>
+Wells Fargo has since filed an appeal, saying Florida law has a five-year statute of limitations on cashier’s checks.
+</P>
+<P>
+''We are abiding by the law,'' said Wells Fargo spokeswoman Kathy Harrison. ''The judge in this case elected to ignore the case law that supports it. It’s an unfortunate situation, and now that it’s in litigation, there is not much more we can do or say.''
+</P>
+<P>
+Today’s cashier’s checks typically carry disclaimers saying they will be voided if not cashed in a specified period of time, often 90 days or six months. Yaffe said there were no time limits written on his checks in 1982.
+</P>
+<P>
+Even if the judgment is upheld in appeals, Yaffe says a portion of the $10,000 will go to attorney fees.
+</P>
+<P>
+And so a sick man might lose a large chunk of money, and a bank risks looking greedy and coldhearted.
+</P>
+<P>
+At this point Wells Fargo would be justified if it was worried about setting a legal precedent, but a little compassion a year ago could have avoided the whole mess.
+</P>
+</TEXT>
+</DOC>

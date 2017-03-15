@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000563" doc_id="APW_ENG_20101206.0775" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-53" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="98" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="251" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-133" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="399" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-146" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="474" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-363" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="886" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-477" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1162" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-520" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1343" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-860" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2457" length="10">proceeding</trigger>
+      </event_mention>
+      <event_mention id="em-873" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2519" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-901" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2691" length="11">proceedings</trigger>
+      </event_mention>
+      <event_mention id="em-914" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2781" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-927" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2810" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-940" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2881" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-953" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="3012" length="7">hearing</trigger>
+      </event_mention>
+      <event_mention id="em-966" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="3140" length="4">case</trigger>
+      </event_mention>
+      <event_mention id="em-979" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="3256" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="84" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="291" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-189" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="663" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-230" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="748" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-406" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="1042" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-548" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="1470" length="5">Death</trigger>
+      </event_mention>
+      <event_mention id="em-791" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="2209" length="9">executing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="justice" subtype="sentence" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="90" length="7">penalty</trigger>
+      </event_mention>
+      <event_mention id="em-120" type="justice" subtype="sentence" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="297" length="7">penalty</trigger>
+      </event_mention>
+      <event_mention id="em-202" type="justice" subtype="sentence" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="669" length="7">penalty</trigger>
+      </event_mention>
+      <event_mention id="em-419" type="justice" subtype="sentence" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="1048" length="7">penalty</trigger>
+      </event_mention>
+      <event_mention id="em-561" type="justice" subtype="sentence" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="1476" length="7">Penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-81" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="206" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-172">
+      <event_mention id="em-159" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="555" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-187">
+      <event_mention id="em-174" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="587" length="7">calling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-228">
+      <event_mention id="em-215" type="justice" subtype="trialhearing" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="677" length="5">cases</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-256">
+      <event_mention id="em-243" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="748" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-804" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="2209" length="9">executing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-271">
+      <event_mention id="em-258" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20101206.0775" offset="781" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-273">
+      <event_mention id="em-275" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20101206.0775" offset="787" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-301">
+      <event_mention id="em-288" type="justice" subtype="convict" realis="other">
+        <trigger source="APW_ENG_20101206.0775" offset="799" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-303">
+      <event_mention id="em-305" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="820" length="8">shooting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-331">
+      <event_mention id="em-318" type="life" subtype="injure" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="820" length="8">shooting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-346">
+      <event_mention id="em-333" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="812" length="7">fatally</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-361">
+      <event_mention id="em-348" type="transaction" subtype="transaction" realis="actual" ways="involuntaryforce">
+        <trigger source="APW_ENG_20101206.0775" offset="864" length="7">robbery</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-389">
+      <event_mention id="em-376" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="989" length="6">motion</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-391">
+      <event_mention id="em-393" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1021" length="8">declared</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-445">
+      <event_mention id="em-432" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1110" length="9">clarified</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-447">
+      <event_mention id="em-451" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1125" length="9">rescinded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-449">
+      <event_mention id="em-464" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1150" length="7">ordered</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-503">
+      <event_mention id="em-490" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1191" length="4">hear</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-505">
+      <event_mention id="em-507" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1328" length="7">testify</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-546">
+      <event_mention id="em-533" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1413" length="6">called</trigger>
+      </event_mention>
+      <event_mention id="em-608" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1597" length="9">discussed</trigger>
+      </event_mention>
+      <event_mention id="em-832" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="2318" length="11">questioning</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-587">
+      <event_mention id="em-574" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="1561" length="18">capital punishment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-589">
+      <event_mention id="em-595" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101206.0775" offset="1561" length="18">capital punishment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-591">
+      <event_mention id="em-634" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20101206.0775" offset="1631" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-593">
+      <event_mention id="em-621" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1615" length="12">exonerations</trigger>
+      </event_mention>
+      <event_mention id="em-662" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1805" length="11">exoneration</trigger>
+      </event_mention>
+      <event_mention id="em-677" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1867" length="12">exonerations</trigger>
+      </event_mention>
+      <event_mention id="em-778" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2107" length="12">exonerations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-660">
+      <event_mention id="em-647" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1743" length="10">executions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-675">
+      <event_mention id="em-690" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1913" length="9">testimony</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-716">
+      <event_mention id="em-703" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1945" length="9">testimony</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-731">
+      <event_mention id="em-718" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1913" length="9">testimony</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-733">
+      <event_mention id="em-737" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="1945" length="9">testimony</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-735">
+      <event_mention id="em-752" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="spontaneous">
+        <trigger source="APW_ENG_20101206.0775" offset="1965" length="11">confessions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-750">
+      <event_mention id="em-765" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="2059" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-830">
+      <event_mention id="em-817" type="justice" subtype="execute" realis="actual">
+        <trigger source="APW_ENG_20101206.0775" offset="1743" length="10">executions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-858">
+      <event_mention id="em-845" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="2343" length="5">asked</trigger>
+      </event_mention>
+      <event_mention id="em-992" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="3151" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-899">
+      <event_mention id="em-886" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20101206.0775" offset="2606" length="10">instructed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

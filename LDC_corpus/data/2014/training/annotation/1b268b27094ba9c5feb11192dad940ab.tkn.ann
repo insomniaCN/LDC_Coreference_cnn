@@ -1,0 +1,164 @@
+T3	Movement_Transport-Person 217 221	came
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 303 308	going
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Contact_Meet 623 630	talking
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 706 710	rang
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 756 760	told
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 799 803	said
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 819 824	asked
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 861 870	mentioned
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 889 893	said
+E11	Contact_Communicate:T11 
+A16	Realis E11 Actual
+T12	Contact_Communicate 953 957	rang
+E12	Contact_Communicate:T12 
+A17	Realis E12 Actual
+T13	Movement_Transport-Person 978 982;987 990	made way
+E13	Movement_Transport-Person:T13 
+A19	Realis E13 Actual
+T14	Movement_Transport-Person 1144 1152	returned
+E14	Movement_Transport-Person:T14 
+A20	Realis E14 Actual
+T15	Contact_Meet 1388 1392	told
+E15	Contact_Meet:T15 
+A21	Realis E15 Actual
+T16	Contact_Meet 1413 1422	explained
+E16	Contact_Meet:T16 
+A23	Realis E16 Actual
+T17	Contact_Communicate 1446 1450	talk
+E17	Contact_Communicate:T17 
+A24	Realis E17 Other
+T18	Contact_Meet 1570 1574	said
+E18	Contact_Meet:T18 
+A26	Realis E18 Actual
+T19	Movement_Transport-Person 1639 1643	went
+E19	Movement_Transport-Person:T19 
+A27	Realis E19 Actual
+T20	Contact_Communicate 1917 1922	heard
+E20	Contact_Communicate:T20 
+A29	Realis E20 Other
+T21	Movement_Transport-Person 1971 1978	sending
+E21	Movement_Transport-Person:T21 
+A30	Realis E21 Other
+T22	Contact_Meet 1996 2005	explained
+E22	Contact_Meet:T22 
+A32	Realis E22 Actual
+T23	Contact_Meet 2554 2562	visitied
+E23	Contact_Meet:T23 
+A33	Realis E23 Actual
+T24	Contact_Meet 2609 2616	adivsed
+E24	Contact_Meet:T24 
+A34	Realis E24 Actual
+T25	Contact_Meet 2663 2673	explaining
+E25	Contact_Meet:T25 
+A36	Realis E25 Actual
+T26	Contact_Meet 2728 2734	answer
+E26	Contact_Meet:T26 
+A38	Realis E26 Other
+T27	Contact_Meet 2745 2752	advised
+E27	Contact_Meet:T27 
+A40	Realis E27 Actual
+T28	Contact_Meet 2864 2868	said
+E28	Contact_Meet:T28 
+A42	Realis E28 Actual
+T29	Movement_Transport-Person 3078 3084	coming
+E29	Movement_Transport-Person:T29 
+A43	Realis E29 Other
+T30	Contact_Meet 3130 3139	interview
+E30	Contact_Meet:T30 
+A44	Realis E30 Other
+T31	Contact_Communicate 3226 3230	told
+E31	Contact_Communicate:T31 
+A45	Realis E31 Other
+T32	Contact_Meet 3310 3317	grilled
+E32	Contact_Meet:T32 
+A46	Realis E32 Other
+T33	Contact_Communicate 3723 3729	advice
+E33	Contact_Communicate:T33 
+A47	Realis E33 Other
+T34	Justice_Charge-Indict 3805 3815	prosecuted
+E34	Justice_Charge-Indict:T34 
+A48	Realis E34 Other
+T35	Contact_Communicate 4113 4119	asking
+E35	Contact_Communicate:T35 
+A49	Realis E35 Other
+T36	Contact_Communicate 4256 4263	telling
+E36	Contact_Communicate:T36 
+A50	Realis E36 Other
+T37	Contact_Meet 4299 4308	interview
+E37	Contact_Meet:T37 
+A52	Realis E37 Other
+T38	Contact_Meet 4678 4685	grilled
+E38	Contact_Meet:T38 
+A53	Realis E38 Actual
+T39	Contact_Meet 4711 4720	interview
+E39	Contact_Meet:T39 
+A54	Realis E39 Actual
+T40	Transaction_Transfer-Money 5134 5146	handing over
+E40	Transaction_Transfer-Money:T40 
+A56	Realis E40 Generic
+T41	Contact_Communicate 5311 5318	telling
+E41	Contact_Communicate:T41 
+A57	Realis E41 Other
+T42	Contact_Communicate 5818 5822	Tell
+E42	Contact_Communicate:T42 
+A58	Realis E42 Other
+T43	Transaction_Transfer-Money 5839 5842	pay
+E43	Transaction_Transfer-Money:T43 
+A60	Realis E43 Other
+T1	Contact_Communicate 129 134;143 164	offer advice or reassurance
+E1	Contact_Communicate:T1 
+A1	Realis E1 Other
+T2	Contact_Communicate 2179 2183	told
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T44	Movement_Transport-Person 2209 2217	attended
+E44	Movement_Transport-Person:T44 
+A11	Realis E44 Actual
+T45	Contact_Communicate 3975 3982	telling
+E45	Contact_Communicate:T45 
+A12	Realis E45 Other
+T46	Transaction_Transfer-Money 4085 4094	part with
+E46	Transaction_Transfer-Money:T46 
+A13	Realis E46 Other
+T47	Transaction_Transfer-Money 1787 1792	spent
+E47	Transaction_Transfer-Money:T47 
+A14	Realis E47 Other
+T49	Transaction_Transfer-Ownership 3493 3498	taken
+E49	Transaction_Transfer-Ownership:T49 
+A18	Realis E49 Actual
+T50	Transaction_Transfer-Ownership 3451 3457	stolen
+E50	Transaction_Transfer-Ownership:T50 
+A22	Realis E50 Actual
+T52	Contact_Communicate 728 732	does
+E52	Contact_Communicate:T52 
+A28	Realis E52 Other
+T53	Movement_Transport-Person 1287 1295	got back
+E53	Movement_Transport-Person:T53 
+A31	Realis E53 Actual
+T54	Conflict_Attack 2148 2157	booted in
+E54	Conflict_Attack:T54 
+A35	Realis E54 Actual
+T55	Transaction_Transfer-Ownership 3028 3034	stolen
+E55	Transaction_Transfer-Ownership:T55 
+A37	Realis E55 Actual
+T48	Transaction_Transfer-Money 205 212	burgled
+E48	Transaction_Transfer-Money:T48 
+T51	Movement_Transport-Person 1158 1165	holiday
+E51	Movement_Transport-Person:T51 
+A15	Realis E51 Actual

@@ -1,0 +1,159 @@
+T1	Personnel_End-Position 141 146	fired
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Other
+T2	Personnel_End-Position 803 808	Fired
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Other
+T3	Personnel_End-Position 894 899	Fired
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Other
+T4	Justice_Arrest-Jail 912 920	arrested
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Other
+T5	Personnel_End-Position 1060 1065	Fired
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Other
+T6	Justice_Arrest-Jail 1078 1086	arrested
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Other
+T7	Life_Injure 1219 1223	hurt
+E7	Life_Injure:T7 
+A7	Realis E7 Other
+T8	Justice_Charge-Indict 1237 1244	charged
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Other
+T9	Justice_Sue 1270 1274	sued
+E9	Justice_Sue:T9 
+A9	Realis E9 Other
+T10	Transaction_Transfer-Money 1288 1295	revenue
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Other
+T11	Justice_Charge-Indict 1450 1456	charge
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Other
+T12	Personnel_End-Position 1515 1520	fired
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Other
+T13	Personnel_End-Position 1702 1707	fired
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Other
+T14	Personnel_End-Position 2409 2414	Fired
+E14	Personnel_End-Position:T14 
+A14	Realis E14 Other
+T15	Personnel_End-Position 4077 4082	fired
+E15	Personnel_End-Position:T15 
+A15	Realis E15 Other
+T16	Personnel_End-Position 4725 4730	fired
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Other
+T17	Personnel_End-Position 5719 5723	fire
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Other
+T18	Justice_Charge-Indict 5796 5805	prosecute
+E18	Justice_Charge-Indict:T18 
+A18	Realis E18 Other
+T19	Personnel_End-Position 6441 6445	fire
+E19	Personnel_End-Position:T19 
+A19	Realis E19 Other
+T20	Justice_Charge-Indict 6518 6527	prosecute
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Other
+T21	Personnel_End-Position 7545 7550	Fired
+E21	Personnel_End-Position:T21 
+A21	Realis E21 Other
+T22	Personnel_End-Position 7788 7793	Fired
+E22	Personnel_End-Position:T22 
+A22	Realis E22 Other
+T23	Personnel_End-Position 8092 8097	Fired
+E23	Personnel_End-Position:T23 
+A23	Realis E23 Other
+T24	Personnel_End-Position 8350 8355	fired
+E24	Personnel_End-Position:T24 
+A24	Realis E24 Actual
+T25	Justice_Fine 793 798	Fined
+E25	Justice_Fine:T25 
+A25	Realis E25 Other
+T26	Justice_Fine 902 907	fined
+E26	Justice_Fine:T26 
+A26	Realis E26 Other
+T27	Justice_Fine 1068 1073	fined
+E27	Justice_Fine:T27 
+A27	Realis E27 Other
+T28	Conflict_Attack 925 932	assault
+E28	Conflict_Attack:T28 
+A28	Realis E28 Other
+T29	Conflict_Attack 1091 1098	assault
+E29	Conflict_Attack:T29 
+A29	Realis E29 Other
+T30	Conflict_Attack 1250 1256	assult
+E30	Conflict_Attack:T30 
+A30	Realis E30 Other
+T31	Conflict_Attack 1471 1478	assault
+E31	Conflict_Attack:T31 
+A31	Realis E31 Other
+T32	Conflict_Attack 1483 1490	battery
+E32	Conflict_Attack:T32 
+A32	Realis E32 Other
+T33	Transaction_Transfer-Money 2525 2528	pay
+E33	Transaction_Transfer-Money:T33 
+A33	Realis E33 Other
+T34	Justice_Fine 4067 4072	fined
+E34	Justice_Fine:T34 
+A34	Realis E34 Other
+T35	Transaction_Transfer-Money 4231 4234	pay
+E35	Transaction_Transfer-Money:T35 
+A35	Realis E35 Other
+T36	Justice_Fine 4752 4757	fined
+E36	Justice_Fine:T36 
+A36	Realis E36 Other
+T37	Justice_Fine 5071 5076	fined
+E37	Justice_Fine:T37 
+A37	Realis E37 Other
+T38	Justice_Fine 5333 5338	fined
+E38	Justice_Fine:T38 
+A38	Realis E38 Actual
+T39	Justice_Fine 5745 5751;5754 5758	impose fine
+E39	Justice_Fine:T39 
+A39	Realis E39 Other
+T40	Conflict_Attack 5813 5820	assault
+E40	Conflict_Attack:T40 
+A40	Realis E40 Other
+T41	Conflict_Attack 5825 5832	battery
+E41	Conflict_Attack:T41 
+A41	Realis E41 Other
+T42	Justice_Fine 6055 6060	fined
+E42	Justice_Fine:T42 
+A42	Realis E42 Other
+T43	Justice_Fine 6476 6480	fine
+E43	Justice_Fine:T43 
+A43	Realis E43 Other
+T44	Conflict_Attack 6535 6542	assault
+E44	Conflict_Attack:T44 
+A44	Realis E44 Other
+T45	Conflict_Attack 6547 6554	battery
+E45	Conflict_Attack:T45 
+A45	Realis E45 Other
+T46	Transaction_Transfer-Money 6982 6985	pay
+E46	Transaction_Transfer-Money:T46 
+A46	Realis E46 Other
+T47	Justice_Fine 7555 7560	Fined
+E47	Justice_Fine:T47 
+A47	Realis E47 Other
+T48	Justice_Fine 7798 7803	Fined
+E48	Justice_Fine:T48 
+A48	Realis E48 Other
+T49	Justice_Fine 8102 8107	Fined
+E49	Justice_Fine:T49 
+A49	Realis E49 Other
+T50	Justice_Fine 8243 8248	fined
+E50	Justice_Fine:T50 
+A50	Realis E50 Actual
+T51	Justice_Fine 8416 8421	fined
+E51	Justice_Fine:T51 
+A51	Realis E51 Other
+T52	Justice_Fine 8479 8484	fined
+E52	Justice_Fine:T52 
+A52	Realis E52 Other
+T53	Justice_Fine 8509 8513	fine
+E53	Justice_Fine:T53 
+A53	Realis E53 Other

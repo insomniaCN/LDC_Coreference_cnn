@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaa40000000000000155" doc_id="5bf441406f0ca8285ef6d52385ea8ebf" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-697" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="150" length="3">out</trigger>
+      </event_mention>
+      <event_mention id="em-411" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="470" length="3">out</trigger>
+      </event_mention>
+      <event_mention id="em-760" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="514" length="7">removed</trigger>
+      </event_mention>
+      <event_mention id="em-866" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="1153" length="6">firing</trigger>
+      </event_mention>
+      <event_mention id="em-191" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2045" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-940" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2091" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-585" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2144" length="9">dismissed</trigger>
+      </event_mention>
+      <event_mention id="em-204" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2299" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-633" type="personnel" subtype="endposition" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2458" length="6">remove</trigger>
+      </event_mention>
+      <event_mention id="em-817" type="personnel" subtype="endposition" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2524" length="7">leaving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-798" type="conflict" subtype="attack" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="367" length="7">violent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-336" type="life" subtype="die" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="440" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-454" type="life" subtype="die" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="846" length="8">killings</trigger>
+      </event_mention>
+      <event_mention id="em-575" type="life" subtype="die" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3072" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-824" type="life" subtype="die" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3165" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-61" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="592" length="10">consulting</trigger>
+      </event_mention>
+      <event_mention id="em-567" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2536" length="13">consultations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-121" type="personnel" subtype="elect" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="618" length="5">elect</trigger>
+      </event_mention>
+      <event_mention id="em-54" type="personnel" subtype="elect" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="1204" length="8">election</trigger>
+      </event_mention>
+      <event_mention id="em-928" type="personnel" subtype="elect" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2565" length="5">elect</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-809" type="personnel" subtype="startposition" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="652" length="5">takes</trigger>
+      </event_mention>
+      <event_mention id="em-687" type="personnel" subtype="startposition" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2599" length="15">comes to office</trigger>
+      </event_mention>
+      <event_mention id="em-445" type="personnel" subtype="startposition" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2785" length="8">incoming</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-869" type="justice" subtype="acquit" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="799" length="9">acquitted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-862" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="817" length="7">charges</trigger>
+      </event_mention>
+      <event_mention id="em-831" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2952" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-884" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="946" length="10">questioned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-168" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3278" length="3">put</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-522" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="1049" length="7">praised</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-334" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="421" length="11">allegations</trigger>
+      </event_mention>
+      <event_mention id="em-447" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="921" length="11">allegations</trigger>
+      </event_mention>
+      <event_mention id="em-727" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3017" length="11">accusations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-296">
+      <event_mention id="em-452" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="1235" length="6">argued</trigger>
+      </event_mention>
+      <event_mention id="em-812" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2808" length="6">voiced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-441">
+      <event_mention id="em-1" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2502" length="9">expressed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-523">
+      <event_mention id="em-331" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2742" length="9">explained</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-670">
+      <event_mention id="em-44" type="conflict" subtype="attack" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3177" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-685">
+      <event_mention id="em-741" type="life" subtype="die" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3177" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-728">
+      <event_mention id="em-517" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2357" length="11">accusations</trigger>
+      </event_mention>
+      <event_mention id="em-500" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2062" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-40" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2108" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-453" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2159" length="11">accusations</trigger>
+      </event_mention>
+      <event_mention id="em-267" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3359" length="11">allegations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-743">
+      <event_mention id="em-327" type="conflict" subtype="attack" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3374" length="7">beating</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-758">
+      <event_mention id="em-909" type="conflict" subtype="attack" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3383" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-773">
+      <event_mention id="em-654" type="life" subtype="die" realis="other">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3383" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-788">
+      <event_mention id="em-294" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3425" length="8">detained</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-803">
+      <event_mention id="em-749" type="conflict" subtype="attack" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="846" length="8">killings</trigger>
+      </event_mention>
+      <event_mention id="em-701" type="conflict" subtype="attack" realis="generic">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3072" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-818">
+      <event_mention id="em-443" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="2429" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-15" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="572" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-820">
+      <event_mention id="em-396" type="justice" subtype="acquit" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="3140" length="9">acquitted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-822">
+      <event_mention id="em-635" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="5bf441406f0ca8285ef6d52385ea8ebf" offset="968" length="5">named</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

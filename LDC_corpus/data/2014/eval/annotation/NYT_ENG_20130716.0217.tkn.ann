@@ -1,0 +1,108 @@
+T1	Justice_Fine 677 682	fines
+E1	Justice_Fine:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 777 784	ordered
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Money 788 794	return
+E3	Transaction_Transfer-Money:T3 
+T4	Transaction_Transfer-Money 837 848	accumulated
+E4	Transaction_Transfer-Money:T4 
+A3	Realis E4 Actual
+T5	Transaction_Transfer-Money 957 961	paid
+E5	Transaction_Transfer-Money:T5 
+A4	Realis E5 Actual
+T6	Transaction_Transfer-Money 1005 1012	payment
+E6	Transaction_Transfer-Money:T6 
+A5	Realis E6 Actual
+T7	Transaction_Transfer-Money 1018 1027	handed in
+E7	Transaction_Transfer-Money:T7 
+A6	Realis E7 Actual
+T8	Transaction_Transfer-Money 1053 1062;1076 1079	collected fee
+E8	Transaction_Transfer-Money:T8 
+A7	Realis E8 Actual
+T9	Personnel_End-Position 1139 1151	stepped down
+E9	Personnel_End-Position:T9 
+A8	Realis E9 Actual
+T10	Justice_Convict 1229 1238	convicted
+E10	Justice_Convict:T10 
+A9	Realis E10 Actual
+T11	Life_Die 1375 1379	dead
+E11	Life_Die:T11 
+A10	Realis E11 Actual
+T12	Conflict_Attack 1285 1289	coup
+E12	Conflict_Attack:T12 
+A11	Realis E12 Actual
+T13	Personnel_Start-Position 1295 1302;1307 1315	brought to power
+E13	Personnel_Start-Position:T13 
+A12	Realis E13 Actual
+T14	Conflict_Attack 1336 1345	crackdown
+E14	Conflict_Attack:T14 
+A13	Realis E14 Actual
+T15	Justice_Sentence 1435 1444	sentenced
+E15	Justice_Sentence:T15 
+A14	Realis E15 Actual
+T16	Justice_Execute 1448 1453	death
+E16	Justice_Execute:T16 
+A15	Realis E16 Other
+T17	Justice_Sentence 1458 1465	penalty
+E17	Justice_Sentence:T17 
+A16	Realis E17 Actual
+T18	Justice_Arrest-Jail 1493 1505	imprisonment
+E18	Justice_Arrest-Jail:T18 
+A17	Realis E18 Actual
+T19	Justice_Pardon 1521 1529	pardoned
+E19	Justice_Pardon:T19 
+A18	Realis E19 Actual
+T20	Justice_Release-Parole 1534 1539	freed
+E20	Justice_Release-Parole:T20 
+A19	Realis E20 Actual
+T21	Conflict_Attack 213 217	RAID
+E21	Conflict_Attack:T21 
+A20	Realis E21 Actual
+T22	Conflict_Attack 496 502	raided
+E22	Conflict_Attack:T22 
+A21	Realis E22 Actual
+T23	Conflict_Attack 1634 1643	ransacked
+E23	Conflict_Attack:T23 
+A22	Realis E23 Actual
+T24	Transaction_Transfer-Ownership 1707 1714	hauling
+E24	Transaction_Transfer-Ownership:T24 
+A23	Realis E24 Actual
+T25	Conflict_Attack 2141 2146	raids
+E25	Conflict_Attack:T25 
+A24	Realis E25 Actual
+T26	Transaction_Transfer-Ownership 2233 2239	seized
+E26	Transaction_Transfer-Ownership:T26 
+A25	Realis E26 Actual
+T27	Transaction_Transfer-Ownership 2290 2301	confiscated
+E27	Transaction_Transfer-Ownership:T27 
+A26	Realis E27 Actual
+T28	Transaction_Transfer-Ownership 2353 2362	auctioned
+E28	Transaction_Transfer-Ownership:T28 
+A27	Realis E28 Actual
+T29	Transaction_Transfer-Ownership 2636 2648	confiscating
+E29	Transaction_Transfer-Ownership:T29 
+A28	Realis E29 Actual
+T30	Justice_Fine 2701 2706	fines
+E30	Justice_Fine:T30 
+A29	Realis E30 Actual
+T31	Transaction_Transfer-Ownership 2868 2875	collect
+E31	Transaction_Transfer-Ownership:T31 
+A30	Realis E31 Actual
+T32	Personnel_End-Position 226 232	FORMER
+E32	Personnel_End-Position:T32 
+A31	Realis E32 Actual
+T33	Personnel_End-Position 526 532	former
+E33	Personnel_End-Position:T33 
+A32	Realis E33 Actual
+T34	Personnel_End-Position 596 607	ex-military
+E34	Personnel_End-Position:T34 
+A33	Realis E34 Actual
+T35	Movement_Transport-Person 1174 1182	Buddhist
+E35	Movement_Transport-Person:T35 
+A34	Realis E35 Actual
+T36	Transaction_Transfer-Money 2697 2700	pay
+E36	Transaction_Transfer-Money:T36 
+A35	Realis E36 Other
+A36	Realis E3 Other

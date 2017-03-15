@@ -1,0 +1,93 @@
+T1	Conflict_Attack 446 452	attack
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 504 513	statement
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 522 530	captured
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T5	Contact_Meet 646 655	confessed
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 706 714	attacked
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 866 872	combat
+E7	Conflict_Attack:T7 
+A7	Realis E7 Generic
+T10	Contact_Communicate 1007 1011	said
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 1158 1164	attack
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Life_Die 1173 1180;1185 1190	claimed lives
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 1237 1241	said
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 1315 1321	attack
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Justice_Arrest-Jail 1402 1409	custody
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T17	Contact_Communicate 1485 1489	said
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T19	Conflict_Attack 1672 1678	attack
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T22	Contact_Communicate 1830 1834	said
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Contact_Meet 1855 1859	told
+E23	Contact_Meet:T23 
+A23	Realis E23 Actual
+T25	Transaction_Transfer-Money 1921 1925	paid
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Actual
+T26	Transaction_Transfer-Ownership 1947 1955	purchase
+E26	Transaction_Transfer-Ownership:T26 
+A26	Realis E26 Actual
+T27	Movement_Transport-Person 1988 1994	travel
+E27	Movement_Transport-Person:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 2056 2064	hijacked
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 2099 2104	reach
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Actual
+T30	Contact_Communicate 2206 2213	contact
+E30	Contact_Communicate:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 2264 2270	attack
+E31	Conflict_Attack:T31 
+A31	Realis E31 Actual
+T32	Contact_Communicate 2316 2320	said
+E32	Contact_Communicate:T32 
+A32	Realis E32 Actual
+T33	Contact_Meet 2415 2418	met
+E33	Contact_Meet:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 2453 2459	attack
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T35	Justice_Arrest-Jail 2507 2511	jail
+E35	Justice_Arrest-Jail:T35 
+A35	Realis E35 Actual
+T36	Contact_Communicate 2637 2641	said
+E36	Contact_Communicate:T36 
+A36	Realis E36 Actual
+T37	Contact_Communicate 2782 2788	shared
+E37	Contact_Communicate:T37 
+A37	Realis E37 Actual
+T39	Contact_Communicate 2871 2875	said
+E39	Contact_Communicate:T39 
+A39	Realis E39 Actual
+T4	Transaction_Transfer-Ownership 2842 2847	given
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Actual

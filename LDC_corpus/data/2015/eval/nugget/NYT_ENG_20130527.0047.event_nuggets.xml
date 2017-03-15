@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea530000000000000023" doc_id="NYT_ENG_20130527.0047" source_type="newswire">
+  <event_mention id="em-6" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="3335" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-29" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="208" length="5">DEATH</trigger>
+  </event_mention>
+  <event_mention id="em-56" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1479" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-62" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2118" length="8">carrying</trigger>
+  </event_mention>
+  <event_mention id="em-83" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1162" length="8">run down</trigger>
+  </event_mention>
+  <event_mention id="em-105" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="378" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-125" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="2768" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-127" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2528" length="8">deported</trigger>
+  </event_mention>
+  <event_mention id="em-130" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1418" length="8">bombings</trigger>
+  </event_mention>
+  <event_mention id="em-152" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1227" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-157" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="513" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-158" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="899" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-177" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2719" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-198" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="596" length="9">confirmed</trigger>
+  </event_mention>
+  <event_mention id="em-214" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2053" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-217" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="2468" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-223" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="2255" length="5">spoke</trigger>
+  </event_mention>
+  <event_mention id="em-231" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1272" length="8">arriving</trigger>
+  </event_mention>
+  <event_mention id="em-248" type="personnel" subtype="startposition" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="2629" length="7">recruit</trigger>
+  </event_mention>
+  <event_mention id="em-250" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="3178" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-265" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="2395" length="4">says</trigger>
+  </event_mention>
+  <event_mention id="em-307" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="3912" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-326" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="3253" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-349" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="978" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-353" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="4168" length="7">calling</trigger>
+  </event_mention>
+  <event_mention id="em-359" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="3542" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-379" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="4444" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-388" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="2608" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-413" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1294" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-422" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="3667" length="9">terrorism</trigger>
+  </event_mention>
+  <event_mention id="em-429" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2925" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-462" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="3600" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-474" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="4754" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-475" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="2162" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-486" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="1997" length="10">statements</trigger>
+  </event_mention>
+  <event_mention id="em-487" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="4847" length="3">hit</trigger>
+  </event_mention>
+  <event_mention id="em-488" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="4903" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-533" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="4004" length="7">clashes</trigger>
+  </event_mention>
+  <event_mention id="em-539" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2842" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-540" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="3420" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-553" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1303" length="7">wounded</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="4073" length="8">accounts</trigger>
+  </event_mention>
+  <event_mention id="em-595" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="2828" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-650" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="1441" length="7">transit</trigger>
+  </event_mention>
+  <event_mention id="em-659" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2985" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-731" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="762" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-739" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2874" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-762" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="1713" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-769" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130527.0047" offset="2334" length="7">recruit</trigger>
+  </event_mention>
+  <event_mention id="em-779" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130527.0047" offset="4903" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-822" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1110" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-823" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="4261" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-843" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1692" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-860" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130527.0047" offset="4189" length="7">attacks</trigger>
+  </event_mention>
+  <event_mention id="em-862" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="2874" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-872" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1366" length="6">attack</trigger>
+  </event_mention>
+  <event_mention id="em-889" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="1513" length="7">bombers</trigger>
+  </event_mention>
+  <event_mention id="em-892" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="4261" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-898" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="474" length="7">hacking</trigger>
+  </event_mention>
+  <event_mention id="em-934" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130527.0047" offset="4429" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-950" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130527.0047" offset="2486" length="11">recruitment</trigger>
+  </event_mention>
+  <event_mention id="em-968" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130527.0047" offset="4304" length="3">say</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

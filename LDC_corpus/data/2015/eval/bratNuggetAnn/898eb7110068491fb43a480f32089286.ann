@@ -1,0 +1,69 @@
+T1	Business_End-Org 2159 2164	close
+E25	Business_End-Org:T1
+A1	Realis E25 Other
+T2	Contact_Correspondence 987 992	calls
+E39	Contact_Correspondence:T2
+A2	Realis E39 Actual
+T3	Transaction_Transfer-Ownership 934 938	rent
+E128	Transaction_Transfer-Ownership:T3
+A3	Realis E128 Other
+T4	Justice_Sue 297 304	lawsuit
+E171	Justice_Sue:T4
+A4	Realis E171 Actual
+T5	Transaction_Transfer-Money 1622 1626	fees
+E203	Transaction_Transfer-Money:T5
+A5	Realis E203 Other
+T6	Contact_Contact 1050 1054	told
+E218	Contact_Contact:T6
+A6	Realis E218 Actual
+T7	Contact_Broadcast 1476 1485	statement
+E251	Contact_Broadcast:T7
+A7	Realis E251 Actual
+T8	Transaction_Transfer-Money 934 938	rent
+E365	Transaction_Transfer-Money:T8
+A8	Realis E365 Other
+T9	Contact_Broadcast 383 392	statement
+E443	Contact_Broadcast:T9
+A9	Realis E443 Actual
+T10	Contact_Correspondence 903 910	replied
+E450	Contact_Correspondence:T10
+A10	Realis E450 Actual
+T11	Transaction_Transfer-Ownership 2168 2172	sell
+E465	Transaction_Transfer-Ownership:T11
+A11	Realis E465 Other
+T12	Movement_Transport-Person 697 705	vacation
+E513	Movement_Transport-Person:T12
+A12	Realis E513 Other
+T13	Contact_Meet 709 714	visit
+E646	Contact_Meet:T13
+A13	Realis E646 Other
+T14	Justice_Sue 507 514	lawsuit
+E672	Justice_Sue:T14
+A14	Realis E672 Actual
+T15	Transaction_Transfer-Money 2168 2172	sell
+E729	Transaction_Transfer-Money:T15
+A15	Realis E729 Other
+T16	Contact_Correspondence 607 616	contacted
+E750	Contact_Correspondence:T16
+A16	Realis E750 Actual
+T17	Transaction_Transfer-Money 1599 1606	damages
+E780	Transaction_Transfer-Money:T17
+A17	Realis E780 Other
+T18	Contact_Broadcast 1666 1675	statement
+E839	Contact_Broadcast:T18
+A18	Realis E839 Actual
+T19	Contact_Contact 1496 1505	complaint
+E844	Contact_Contact:T19
+A19	Realis E844 Actual
+T20	Contact_Broadcast 1214 1223	statement
+E862	Contact_Broadcast:T20
+A20	Realis E862 Actual
+T21	Contact_Correspondence 827 832	asked
+E877	Contact_Correspondence:T21
+A21	Realis E877 Actual
+T22	Transaction_Transfer-Money 2646 2650	fees
+E891	Transaction_Transfer-Money:T22
+A22	Realis E891 Other
+T23	Transaction_Transfer-Money 2623 2630	damages
+E996	Transaction_Transfer-Money:T23
+A23	Realis E996 Other

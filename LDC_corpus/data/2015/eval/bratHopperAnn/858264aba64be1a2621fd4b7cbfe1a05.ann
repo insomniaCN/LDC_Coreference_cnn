@@ -1,0 +1,403 @@
+T1	Justice_Trial-Hearing 169 174	Trial
+E289	Justice_Trial-Hearing:T1
+A1	Realis E289 Actual
+T2	Justice_Trial-Hearing 2609 2616	hearing
+E943	Justice_Trial-Hearing:T2
+A2	Realis E943 Actual
+T3	Conflict_Attack 176 183	Assault
+E749	Conflict_Attack:T3
+A3	Realis E749 Actual
+T4	Conflict_Attack 362 369	assault
+E796	Conflict_Attack:T4
+A4	Realis E796 Actual
+T5	Conflict_Attack 645 652	beating
+E537	Conflict_Attack:T5
+A5	Realis E537 Actual
+T6	Conflict_Attack 1129 1135	attack
+E656	Conflict_Attack:T6
+A6	Realis E656 Actual
+T7	Conflict_Attack 1228 1234	attack
+E485	Conflict_Attack:T7
+A7	Realis E485 Other
+T8	Conflict_Attack 383 389	Victim
+E527	Conflict_Attack:T8
+A8	Realis E527 Actual
+T9	Conflict_Attack 630 636	victim
+E296	Conflict_Attack:T9
+A9	Realis E296 Actual
+T10	Justice_Acquit 349 358	acquitted
+E186	Justice_Acquit:T10
+A10	Realis E186 Actual
+T11	Justice_Acquit 553 562	acquitted
+E572	Justice_Acquit:T11
+A11	Realis E572 Actual
+T12	Justice_Acquit 1403 1411	innocent
+E468	Justice_Acquit:T12
+A12	Realis E468 Actual
+T13	Justice_Acquit 1638 1646	innocent
+E442	Justice_Acquit:T13
+A13	Realis E442 Actual
+T14	Justice_Acquit 2972 2981	acquittal
+E21	Justice_Acquit:T14
+A14	Realis E21 Actual
+T15	Justice_Convict 406 412	guilty
+E126	Justice_Convict:T15
+A15	Realis E126 Actual
+T16	Justice_Convict 616 625	convicted
+E584	Justice_Convict:T16
+A16	Realis E584 Actual
+T17	Justice_Convict 2749 2759	conviction
+E250	Justice_Convict:T17
+A17	Realis E250 Actual
+T18	Justice_Convict 2943 2953	conviction
+E259	Justice_Convict:T18
+A18	Realis E259 Actual
+T19	Conflict_Attack 456 461	melee
+E822	Conflict_Attack:T19
+A19	Realis E822 Actual
+T20	Conflict_Attack 593 598	brawl
+E6	Conflict_Attack:T20
+A20	Realis E6 Actual
+T21	Conflict_Attack 712 717	melee
+E191	Conflict_Attack:T21
+A21	Realis E191 Actual
+T22	Conflict_Attack 3697 3705	attacked
+E555	Conflict_Attack:T22
+A22	Realis E555 Actual
+T23	Conflict_Attack 3769 3773	beat
+E553	Conflict_Attack:T23
+A23	Realis E553 Actual
+T24	Movement_Transport-Person 824 831	dragged
+E174	Movement_Transport-Person:T24
+A24	Realis E174 Actual
+T25	Movement_Transport-Person 3891 3895	drag
+E153	Movement_Transport-Person:T25
+A25	Realis E153 Actual
+T26	Contact_Broadcast 924 936	condemnation
+E340	Contact_Broadcast:T26
+A26	Realis E340 Actual
+T27	Contact_Broadcast 3330 3337	telling
+E52	Contact_Broadcast:T27
+A27	Realis E52 Actual
+T28	Contact_Broadcast 4336 4342	sermon
+E455	Contact_Broadcast:T28
+A28	Realis E455 Other
+T29	Contact_Broadcast 3587 3592	speak
+E327	Contact_Broadcast:T29
+A29	Realis E327 Actual
+T30	Contact_Contact 1088 1092	said
+E701	Contact_Contact:T30
+A30	Realis E701 Actual
+T31	Conflict_Attack 1428 1435	assault
+E816	Conflict_Attack:T31
+A31	Realis E816 Generic
+T32	Conflict_Attack 1663 1670	assault
+E248	Conflict_Attack:T32
+A32	Realis E248 Generic
+T33	Conflict_Attack 4587 4594	assault
+E269	Conflict_Attack:T33
+A33	Realis E269 Generic
+T34	Justice_Acquit 1519 1528	acquitted
+E670	Justice_Acquit:T34
+A34	Realis E670 Actual
+T35	Justice_Charge-Indict 1547 1554	charges
+E729	Justice_Charge-Indict:T35
+A35	Realis E729 Actual
+T36	Justice_Charge-Indict 1567 1574	charges
+E920	Justice_Charge-Indict:T36
+A36	Realis E920 Actual
+T37	Justice_Charge-Indict 1821 1828	charges
+E514	Justice_Charge-Indict:T37
+A37	Realis E514 Actual
+T38	Justice_Charge-Indict 1958 1964	charge
+E416	Justice_Charge-Indict:T38
+A38	Realis E416 Actual
+T39	Justice_Charge-Indict 2019 2025	charge
+E536	Justice_Charge-Indict:T39
+A39	Realis E536 Actual
+T40	Contact_Contact 1999 2013	communications
+E505	Contact_Contact:T40
+A40	Realis E505 Actual
+T41	Contact_Broadcast 2076 2083	tacking
+E665	Contact_Broadcast:T41
+A41	Realis E665 Actual
+T42	Contact_Broadcast 2116 2120	note
+E254	Contact_Broadcast:T42
+A42	Realis E254 Actual
+T43	Contact_Broadcast 2311 2315	note
+E975	Contact_Broadcast:T43
+A43	Realis E975 Actual
+T44	Contact_Broadcast 2570 2574	note
+E92	Contact_Broadcast:T44
+A44	Realis E92 Actual
+T45	Contact_Contact 2067 2075	admitted
+E312	Contact_Contact:T45
+A45	Realis E312 Actual
+T46	Justice_Sentence 2399 2407	sentence
+E550	Justice_Sentence:T46
+A46	Realis E550 Actual
+T47	Justice_Arrest-Jail 2394 2398	jail
+E866	Justice_Arrest-Jail:T47
+A47	Realis E866 Generic
+T48	Justice_Fine 2409 2414	fined
+E172	Justice_Fine:T48
+A48	Realis E172 Actual
+T49	Contact_Broadcast 2474 2481	ordered
+E839	Contact_Broadcast:T49
+A49	Realis E839 Actual
+T50	Contact_Contact 2497 2504	contact
+E376	Contact_Contact:T50
+A50	Realis E376 Other
+T51	Contact_Meet 2551 2560	testified
+E9	Contact_Meet:T51
+A51	Realis E9 Actual
+T52	Contact_Contact 2587 2591	said
+E747	Contact_Contact:T52
+A52	Realis E747 Actual
+T53	Contact_Broadcast 2720 2729	announced
+E661	Contact_Broadcast:T53
+A53	Realis E661 Actual
+T54	Justice_Appeal 2738 2744	appeal
+E642	Justice_Appeal:T54
+A54	Realis E642 Other
+T55	Contact_Meet 3516 3525	testimony
+E639	Contact_Meet:T55
+A55	Realis E639 Actual
+T56	Contact_Meet 4419 4428	responded
+E805	Contact_Meet:T56
+A56	Realis E805 Actual
+T57	Contact_Meet 3539 3548	testified
+E103	Contact_Meet:T57
+A57	Realis E103 Actual
+T58	Contact_Meet 3714 3723	testified
+E627	Contact_Meet:T58
+A58	Realis E627 Actual
+T59	Contact_Meet 4202 4212	challenged
+E864	Contact_Meet:T59
+A59	Realis E864 Actual
+T60	Contact_Meet 3827 3836	testified
+E62	Contact_Meet:T60
+A60	Realis E62 Actual
+T61	Movement_Transport-Person 4017 4025	followed
+E96	Movement_Transport-Person:T61
+A61	Realis E96 Actual
+T62	Contact_Meet 4313 4318	asked
+E541	Contact_Meet:T62
+A62	Realis E541 Other
+T63	Contact_Contact 4471 4475	said
+E645	Contact_Contact:T63
+A63	Realis E645 Actual
+T64	Contact_Broadcast 4528 4537	summonses
+E119	Contact_Broadcast:T64
+A64	Realis E119 Actual
+T65	Life_Injure 1113 1121	injuries
+E282	Life_Injure:T65
+A65	Realis E282 Actual
+T66	Life_Injure 362 369	assault
+E394	Life_Injure:T66
+A66	Realis E394 Actual
+T67	Life_Injure 383 389	Victim
+E355	Life_Injure:T67
+A67	Realis E355 Actual
+T68	Life_Injure 645 652	beating
+E790	Life_Injure:T68
+A68	Realis E790 Actual
+T69	Life_Injure 630 636	victim
+E60	Life_Injure:T69
+A69	Realis E60 Actual
+T70	Life_Injure 1129 1135	attack
+E18	Life_Injure:T70
+A70	Realis E18 Actual
+T71	Life_Injure 1228 1234	attack
+E64	Life_Injure:T71
+A71	Realis E64 Other
+T72	Life_Injure 3697 3705	attacked
+E190	Life_Injure:T72
+A72	Realis E190 Actual
+T73	Life_Injure 3769 3773	beat
+E43	Life_Injure:T73
+A73	Realis E43 Actual
+T74	Contact_Meet 751 759	gathered
+E198	Contact_Meet:T74
+A74	Realis E198 Actual
+T75	Contact_Meet 448 455	funeral
+E475	Contact_Meet:T75
+A75	Realis E475 Actual
+T76	Contact_Meet 585 592	funeral
+E942	Contact_Meet:T76
+A76	Realis E942 Actual
+T77	Contact_Meet 778 785	funeral
+E767	Contact_Meet:T77
+A77	Realis E767 Actual
+T78	Contact_Meet 1003 1010	funeral
+E524	Contact_Meet:T78
+A78	Realis E524 Actual
+T79	Contact_Meet 1590 1597	funeral
+E563	Contact_Meet:T79
+A79	Realis E563 Actual
+T80	Contact_Meet 1602 1605	its
+E396	Contact_Meet:T80
+A80	Realis E396 Actual
+T81	Contact_Meet 1733 1740	funeral
+E448	Contact_Meet:T81
+A81	Realis E448 Actual
+T82	Contact_Meet 3106 3113	funeral
+E925	Contact_Meet:T82
+A82	Realis E925 Actual
+T83	Contact_Meet 3248 3256	ceremony
+E616	Contact_Meet:T83
+A83	Realis E616 Actual
+T84	Contact_Meet 3410 3418	gathered
+E358	Contact_Meet:T84
+A84	Realis E358 Actual
+T85	Contact_Meet 4249 4256	funeral
+E459	Contact_Meet:T85
+A85	Realis E459 Actual
+T86	Movement_Transport-Person 3969 3972	ran
+E872	Movement_Transport-Person:T86
+A86	Realis E872 Actual
+T87	Movement_Transport-Person 801 808	charged
+E589	Movement_Transport-Person:T87
+A87	Realis E589 Actual
+T88	Conflict_Attack 824 831	dragged
+E183	Conflict_Attack:T88
+A88	Realis E183 Actual
+T89	Conflict_Attack 3891 3895	drag
+E571	Conflict_Attack:T89
+A89	Realis E571 Actual
+T90	Life_Die 944 952	deceased
+E49	Life_Die:T90
+A90	Realis E49 Actual
+T91	Contact_Contact 987 995	accounts
+E3	Contact_Contact:T91
+A91	Realis E3 Actual
+T92	Life_Injure 1149 1155	broken
+E709	Life_Injure:T92
+A92	Realis E709 Actual
+T93	Contact_Broadcast 1250 1257	summons
+E232	Contact_Broadcast:T93
+A93	Realis E232 Actual
+T94	Contact_Meet 1339 1348	testimony
+E124	Contact_Meet:T94
+A94	Realis E124 Actual
+T95	Life_Injure 1428 1435	assault
+E444	Life_Injure:T95
+A95	Realis E444 Generic
+T96	Life_Injure 1663 1670	assault
+E880	Life_Injure:T96
+A96	Realis E880 Generic
+T97	Contact_Meet 1687 1694	dispute
+E253	Contact_Meet:T97
+A97	Realis E253 Actual
+T98	Contact_Contact 2778 2782	said
+E731	Contact_Contact:T98
+A98	Realis E731 Actual
+T99	Contact_Broadcast 4382 4388	preach
+E683	Contact_Broadcast:T99
+A99	Realis E683 Generic
+T100	Contact_Broadcast 3055 3061	preach
+E479	Contact_Broadcast:T100
+A100	Realis E479 Generic
+T101	Contact_Meet 3221 3228	invited
+E887	Contact_Meet:T101
+A101	Realis E887 Actual
+T102	Conflict_Attack 3742 3746	held
+E187	Conflict_Attack:T102
+A102	Realis E187 Actual
+T103	Conflict_Attack 4154 4158	hold
+E409	Conflict_Attack:T103
+A103	Realis E409 Other
+T104	Conflict_Attack 3856 3862	strike
+E509	Conflict_Attack:T104
+A104	Realis E509 Actual
+T105	Conflict_Attack 4074 4085	laid a hand
+E122	Conflict_Attack:T105
+A105	Realis E122 Other
+T106	Conflict_Attack 4144 4150	strike
+E791	Conflict_Attack:T106
+A106	Realis E791 Other
+T107	Life_Injure 3856 3862	strike
+E884	Life_Injure:T107
+A107	Realis E884 Actual
+T108	Life_Injure 4144 4150	strike
+E854	Life_Injure:T108
+A108	Realis E854 Other
+T109	Conflict_Attack 3878 3882	slap
+E961	Conflict_Attack:T109
+A109	Realis E961 Actual
+T110	Life_Injure 3878 3882	slap
+E905	Life_Injure:T110
+A110	Realis E905 Actual
+T111	Contact_Meet 3951 3960	testimony
+E699	Contact_Meet:T111
+A111	Realis E699 Actual
+T112	Contact_Meet 4050 4059	testified
+E875	Contact_Meet:T112
+A112	Realis E875 Actual
+T113	Contact_Meet 4109 4118	testified
+E831	Contact_Meet:T113
+A113	Realis E831 Actual
+T114	Contact_Contact 4364 4367	ask
+E578	Contact_Contact:T114
+A114	Realis E578 Generic
+R1	Coreference Arg1:E289 Arg2:E943
+R2	Coreference Arg1:E749 Arg2:E796
+R3	Coreference Arg1:E796 Arg2:E527
+R4	Coreference Arg1:E527 Arg2:E296
+R5	Coreference Arg1:E296 Arg2:E537
+R6	Coreference Arg1:E537 Arg2:E656
+R7	Coreference Arg1:E656 Arg2:E485
+R8	Coreference Arg1:E186 Arg2:E572
+R9	Coreference Arg1:E572 Arg2:E468
+R10	Coreference Arg1:E468 Arg2:E442
+R11	Coreference Arg1:E442 Arg2:E21
+R12	Coreference Arg1:E126 Arg2:E584
+R13	Coreference Arg1:E584 Arg2:E250
+R14	Coreference Arg1:E250 Arg2:E259
+R15	Coreference Arg1:E822 Arg2:E6
+R16	Coreference Arg1:E6 Arg2:E191
+R17	Coreference Arg1:E191 Arg2:E555
+R18	Coreference Arg1:E555 Arg2:E553
+R19	Coreference Arg1:E174 Arg2:E153
+R20	Coreference Arg1:E340 Arg2:E52
+R21	Coreference Arg1:E52 Arg2:E327
+R22	Coreference Arg1:E327 Arg2:E455
+R23	Coreference Arg1:E816 Arg2:E248
+R24	Coreference Arg1:E248 Arg2:E269
+R25	Coreference Arg1:E416 Arg2:E536
+R26	Coreference Arg1:E505 Arg2:E665
+R27	Coreference Arg1:E665 Arg2:E254
+R28	Coreference Arg1:E254 Arg2:E975
+R29	Coreference Arg1:E975 Arg2:E92
+R30	Coreference Arg1:E639 Arg2:E103
+R31	Coreference Arg1:E103 Arg2:E627
+R32	Coreference Arg1:E627 Arg2:E864
+R33	Coreference Arg1:E864 Arg2:E805
+R34	Coreference Arg1:E394 Arg2:E355
+R35	Coreference Arg1:E355 Arg2:E60
+R36	Coreference Arg1:E60 Arg2:E790
+R37	Coreference Arg1:E790 Arg2:E282
+R38	Coreference Arg1:E282 Arg2:E18
+R39	Coreference Arg1:E18 Arg2:E64
+R40	Coreference Arg1:E64 Arg2:E190
+R41	Coreference Arg1:E190 Arg2:E43
+R42	Coreference Arg1:E475 Arg2:E942
+R43	Coreference Arg1:E942 Arg2:E198
+R44	Coreference Arg1:E198 Arg2:E767
+R45	Coreference Arg1:E767 Arg2:E524
+R46	Coreference Arg1:E524 Arg2:E563
+R47	Coreference Arg1:E563 Arg2:E396
+R48	Coreference Arg1:E396 Arg2:E448
+R49	Coreference Arg1:E448 Arg2:E925
+R50	Coreference Arg1:E925 Arg2:E616
+R51	Coreference Arg1:E616 Arg2:E358
+R52	Coreference Arg1:E358 Arg2:E459
+R53	Coreference Arg1:E589 Arg2:E872
+R54	Coreference Arg1:E183 Arg2:E571
+R55	Coreference Arg1:E444 Arg2:E880
+R56	Coreference Arg1:E479 Arg2:E683
+R57	Coreference Arg1:E187 Arg2:E409
+R58	Coreference Arg1:E509 Arg2:E122
+R59	Coreference Arg1:E122 Arg2:E791
+R60	Coreference Arg1:E884 Arg2:E854
+R61	Coreference Arg1:E699 Arg2:E875

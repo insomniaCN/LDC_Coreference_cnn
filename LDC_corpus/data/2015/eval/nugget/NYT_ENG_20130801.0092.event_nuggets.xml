@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea740000000000000070" doc_id="NYT_ENG_20130801.0092" source_type="newswire">
+  <event_mention id="em-3" type="life" subtype="die" realis="other">
+    <trigger source="NYT_ENG_20130801.0092" offset="1441" length="6">taking</trigger>
+  </event_mention>
+  <event_mention id="em-5" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="NYT_ENG_20130801.0092" offset="1208" length="8">released</trigger>
+  </event_mention>
+  <event_mention id="em-19" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130801.0092" offset="2145" length="10">settlement</trigger>
+  </event_mention>
+  <event_mention id="em-47" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="445" length="4">cell</trigger>
+  </event_mention>
+  <event_mention id="em-76" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="1257" length="4">cell</trigger>
+  </event_mention>
+  <event_mention id="em-90" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130801.0092" offset="603" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-103" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="1238" length="5">taken</trigger>
+  </event_mention>
+  <event_mention id="em-165" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130801.0092" offset="172" length="10">SETTLEMENT</trigger>
+  </event_mention>
+  <event_mention id="em-228" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="203" length="4">CELL</trigger>
+  </event_mention>
+  <event_mention id="em-231" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="1160" length="11">interviewed</trigger>
+  </event_mention>
+  <event_mention id="em-285" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="911" length="9">picked up</trigger>
+  </event_mention>
+  <event_mention id="em-287" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="787" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-336" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="2074" length="4">cell</trigger>
+  </event_mention>
+  <event_mention id="em-457" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="1492" length="4">note</trigger>
+  </event_mention>
+  <event_mention id="em-501" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="658" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-538" type="life" subtype="die" realis="other">
+    <trigger source="NYT_ENG_20130801.0092" offset="1610" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-539" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="1361" length="4">cell</trigger>
+  </event_mention>
+  <event_mention id="em-556" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="1970" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-588" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="2160" length="9">confirmed</trigger>
+  </event_mention>
+  <event_mention id="em-647" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="1474" length="7">scratch</trigger>
+  </event_mention>
+  <event_mention id="em-728" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130801.0092" offset="2179" length="9">detention</trigger>
+  </event_mention>
+  <event_mention id="em-787" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130801.0092" offset="1861" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-837" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130801.0092" offset="1125" length="5">taken</trigger>
+  </event_mention>
+  <event_mention id="em-844" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="2019" length="6">issued</trigger>
+  </event_mention>
+  <event_mention id="em-853" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="998" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-857" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="1770" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-872" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130801.0092" offset="526" length="10">compensate</trigger>
+  </event_mention>
+  <event_mention id="em-881" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130801.0092" offset="837" length="10">settlement</trigger>
+  </event_mention>
+  <event_mention id="em-888" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130801.0092" offset="710" length="7">seeking</trigger>
+  </event_mention>
+  <event_mention id="em-997" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130801.0092" offset="2130" length="7">comment</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

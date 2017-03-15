@@ -1,0 +1,51 @@
+T1	Personnel_End-Position 85 92	lay off
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Other
+T2	Personnel_End-Position 235 242	lay off
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T4	Personnel_End-Position 706 712	layoff
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Other
+T5	Personnel_Start-Position 866 871	hired
+E5	Personnel_Start-Position:T5 
+A5	Realis E5 Actual
+T6	Personnel_Start-Position 1155 1160	hired
+E6	Personnel_Start-Position:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1161 1167	former
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 1313 1320	layoffs
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Other
+T11	Transaction_Transfer-Ownership 2496 2504	takeover
+E11	Transaction_Transfer-Ownership:T11 
+A12	Realis E11 Other
+T3	Personnel_End-Position 401 409	job cuts
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Other
+T10	Transaction_Transfer-Money 976 983	revenue
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Generic
+T12	Personnel_End-Position 1259 1267	job cuts
+E12	Personnel_End-Position:T12 
+A11	Realis E12 Actual
+T13	Personnel_End-Position 767 781	housecleanings
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Actual
+T14	Personnel_End-Position 1021 1031	reductions
+E14	Personnel_End-Position:T14 
+A14	Realis E14 Actual
+T15	Personnel_End-Position 1582 1596	shown the door
+E15	Personnel_End-Position:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 1671 1678	revenue
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 1931 1938	revenue
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic
+T9	Transaction_Transfer-Ownership 2462 2468	buyout
+E9	Transaction_Transfer-Ownership:T9 
+A9	Realis E9 Generic

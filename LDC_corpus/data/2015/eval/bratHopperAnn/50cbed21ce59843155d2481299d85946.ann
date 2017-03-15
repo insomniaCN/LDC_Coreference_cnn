@@ -1,0 +1,37 @@
+T1	Transaction_Transfer-Ownership 148 151	buy
+E190	Transaction_Transfer-Ownership:T1
+A1	Realis E190 Other
+T2	Transaction_Transfer-Money 148 151	buy
+E173	Transaction_Transfer-Money:T2
+A2	Realis E173 Other
+T3	Contact_Broadcast 705 712	comment
+E526	Contact_Broadcast:T3
+A3	Realis E526 Generic
+T4	Transaction_Transfer-Ownership 952 958	bought
+E387	Transaction_Transfer-Ownership:T4
+A4	Realis E387 Actual
+T5	Transaction_Transfer-Money 952 958	bought
+E169	Transaction_Transfer-Money:T5
+A5	Realis E169 Actual
+T6	Business_Merge-Org 998 1004	merged
+E986	Business_Merge-Org:T6
+A6	Realis E986 Actual
+T7	Manufacture_Artifact 1038 1042	made
+E64	Manufacture_Artifact:T7
+A7	Realis E64 Generic
+T8	Transaction_Transfer-Ownership 1247 1250	get
+E255	Transaction_Transfer-Ownership:T8
+A8	Realis E255 Other
+T9	Transaction_Transfer-Money 1247 1250	get
+E11	Transaction_Transfer-Money:T9
+A9	Realis E11 Other
+T10	Manufacture_Artifact 1290 1303	manufacturers
+E811	Manufacture_Artifact:T10
+A10	Realis E811 Generic
+T11	Manufacture_Artifact 544 556	manufacturer
+E567	Manufacture_Artifact:T11
+A11	Realis E567 Generic
+T12	Contact_Correspondence 222 231	recommend
+E496	Contact_Correspondence:T12
+A12	Realis E496 Other
+R1	Coreference Arg1:E567 Arg2:E811

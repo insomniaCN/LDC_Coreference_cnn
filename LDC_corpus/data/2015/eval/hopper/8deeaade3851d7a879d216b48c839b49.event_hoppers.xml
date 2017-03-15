@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab30000000000000187" doc_id="8deeaade3851d7a879d216b48c839b49" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-613" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="161" length="10">protesting</trigger>
+      </event_mention>
+      <event_mention id="em-353" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="1191" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-323" type="life" subtype="marry" realis="generic">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="189" length="8">marriage</trigger>
+      </event_mention>
+      <event_mention id="em-48" type="life" subtype="marry" realis="generic">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="530" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-559" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="247" length="7">skipped</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-68" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="312" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-643" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="852" length="10">protesting</trigger>
+      </event_mention>
+      <event_mention id="em-502" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="1246" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-917" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="1088" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-968" type="life" subtype="marry" realis="generic">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="1154" length="8">marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-95" type="conflict" subtype="attack" realis="other">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="2093" length="5">smack</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-889" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="505" length="7">chanted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-320" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="752" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-128" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="8deeaade3851d7a879d216b48c839b49" offset="786" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

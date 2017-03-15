@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976460000000000000043" doc_id="APW_ENG_20100204.0044" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-30" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="406" length="12">compensation</trigger>
+      </event_mention>
+      <event_mention id="em-43" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="58" length="12">Compensation</trigger>
+      </event_mention>
+      <event_mention id="em-56" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="1088" length="11">compensated</trigger>
+      </event_mention>
+      <event_mention id="em-69" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="1292" length="11">compensated</trigger>
+      </event_mention>
+      <event_mention id="em-82" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="1543" length="12">compensation</trigger>
+      </event_mention>
+      <event_mention id="em-264" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="240" length="7">receive</trigger>
+      </event_mention>
+      <event_mention id="em-277" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="606" length="7">receive</trigger>
+      </event_mention>
+      <event_mention id="em-290" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="1111" length="7">receive</trigger>
+      </event_mention>
+      <event_mention id="em-318" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="1751" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-147" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100204.0044" offset="550" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-160" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="658" length="8">earnings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-173" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100204.0044" offset="1143" length="8">received</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-186" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20100204.0044" offset="1889" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-199" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100204.0044" offset="1936" length="5">phone</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-212" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100204.0044" offset="2170" length="5">phone</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-225" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100204.0044" offset="811" length="10">discussing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-238" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100204.0044" offset="1059" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-251" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100204.0044" offset="2094" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-316">
+      <event_mention id="em-303" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100204.0044" offset="1436" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

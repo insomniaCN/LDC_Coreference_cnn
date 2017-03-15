@@ -1,0 +1,39 @@
+T1	Transaction_Transfer-Ownership 563 568	given
+E8	Transaction_Transfer-Ownership:T1
+A1	Realis E8 Actual
+T2	Justice_Arrest-Jail 379 387	arrested
+E24	Justice_Arrest-Jail:T2
+A2	Realis E24 Actual
+T3	Contact_Broadcast 597 605	declared
+E107	Contact_Broadcast:T3
+A3	Realis E107 Actual
+T4	Contact_Correspondence 789 796	request
+E312	Contact_Correspondence:T4
+A4	Realis E312 Actual
+T5	Justice_Arrest-Jail 333 341	arrested
+E373	Justice_Arrest-Jail:T5
+A5	Realis E373 Actual
+T6	Movement_Transport-Person 506 513	entered
+E375	Movement_Transport-Person:T6
+A6	Realis E375 Actual
+T7	Contact_Meet 649 656	respond
+E434	Contact_Meet:T7
+A7	Realis E434 Other
+T8	Justice_Arrest-Jail 147 153	arrest
+E503	Justice_Arrest-Jail:T8
+A8	Realis E503 Actual
+T9	Justice_Arrest-Jail 743 749	arrest
+E566	Justice_Arrest-Jail:T9
+A9	Realis E566 Actual
+T10	Movement_Transport-Person 777 788	extradition
+E729	Movement_Transport-Person:T10
+A10	Realis E729 Other
+T11	Justice_Extradite 777 788	extradition
+E736	Justice_Extradite:T11
+A11	Realis E736 Generic
+T12	Contact_Broadcast 831 835	told
+E978	Contact_Broadcast:T12
+A12	Realis E978 Actual
+T13	Contact_Broadcast 488 492	told
+E986	Contact_Broadcast:T13
+A13	Realis E986 Actual

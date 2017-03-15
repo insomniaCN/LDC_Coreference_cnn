@@ -1,0 +1,27 @@
+T1	Justice_Execute 170 175	death
+E1	Justice_Execute:T1 
+A1	Realis E1 Other
+T2	Justice_Charge-Indict 231 241	prosecuted
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Justice_Sentence 272 281	sentenced
+E3	Justice_Sentence:T3 
+A3	Realis E3 Other
+T4	Justice_Execute 285 290	death
+E4	Justice_Execute:T4 
+A4	Realis E4 Other
+T5	Justice_Charge-Indict 303 310	charged
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 662 670	arrested
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 792 799	charged
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Justice_Trial-Hearing 1282 1287	trial
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Actual
+T9	Justice_Trial-Hearing 1503 1508	trial
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Generic

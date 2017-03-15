@@ -1,0 +1,147 @@
+T1	Life_Die 197 203	murder
+E46	Life_Die:T1
+A1	Realis E46 Actual
+T2	Life_Divorce 1879 1887	divorced
+E47	Life_Divorce:T2
+A2	Realis E47 Actual
+T3	Life_Injure 1759 1765	injury
+E48	Life_Injure:T3
+A3	Realis E48 Actual
+T4	Conflict_Attack 734 740	murder
+E110	Conflict_Attack:T4
+A4	Realis E110 Actual
+T5	Justice_Convict 951 960	convicted
+E146	Justice_Convict:T5
+A5	Realis E146 Actual
+T6	Justice_Arrest-Jail 4209 4217	arrested
+E173	Justice_Arrest-Jail:T6
+A6	Realis E173 Generic
+T7	Conflict_Attack 2975 2982	crashed
+E197	Conflict_Attack:T7
+A7	Realis E197 Actual
+T8	Personnel_Start-Position 2488 2494	became
+E227	Personnel_Start-Position:T8
+A8	Realis E227 Actual
+T9	Contact_Contact 4237 4245	confided
+E262	Contact_Contact:T9
+A9	Realis E262 Actual
+T10	Conflict_Attack 5395 5399	what
+E275	Conflict_Attack:T10
+A10	Realis E275 Actual
+T11	Conflict_Attack 4720 4727	killing
+E314	Conflict_Attack:T11
+A11	Realis E314 Actual
+T12	Conflict_Attack 4938 4944	murder
+E332	Conflict_Attack:T12
+A12	Realis E332 Actual
+T13	Justice_Convict 5244 5255	convictions
+E348	Justice_Convict:T13
+A13	Realis E348 Actual
+T14	Contact_Contact 2074 2078	said
+E376	Contact_Contact:T14
+A14	Realis E376 Actual
+T15	Contact_Contact 4487 4491	told
+E378	Contact_Contact:T15
+A15	Realis E378 Actual
+T16	Transaction_Transfer-Ownership 1056 1060	give
+E446	Transaction_Transfer-Ownership:T16
+A16	Realis E446 Other
+T17	Contact_Contact 4041 4048	alerted
+E471	Contact_Contact:T17
+A17	Realis E471 Actual
+T18	Movement_Transport-Person 4562 4566	came
+E473	Movement_Transport-Person:T18
+A18	Realis E473 Actual
+T19	Transaction_Transfer-Ownership 4638 4644	stolen
+E481	Transaction_Transfer-Ownership:T19
+A19	Realis E481 Other
+T20	Life_Marry 1900 1909	remarried
+E490	Life_Marry:T20
+A20	Realis E490 Actual
+T21	Conflict_Attack 964 973	murdering
+E507	Conflict_Attack:T21
+A21	Realis E507 Actual
+T22	Movement_Transport-Artifact 5143 5150	courier
+E528	Movement_Transport-Artifact:T22
+A22	Realis E528 Other
+T23	Life_Die 4720 4727	killing
+E549	Life_Die:T23
+A23	Realis E549 Actual
+T24	Life_Die 5395 5399	what
+E565	Life_Die:T24
+A24	Realis E565 Actual
+T25	Personnel_Start-Position 3838 3842	work
+E628	Personnel_Start-Position:T25
+A25	Realis E628 Actual
+T26	Conflict_Attack 197 203	murder
+E631	Conflict_Attack:T26
+A26	Realis E631 Actual
+T27	Justice_Convict 4844 4853	convicted
+E652	Justice_Convict:T27
+A27	Realis E652 Actual
+T28	Conflict_Attack 779 787	tortured
+E676	Conflict_Attack:T28
+A28	Realis E676 Actual
+T29	Transaction_Transfer-Ownership 1029 1035	stolen
+E681	Transaction_Transfer-Ownership:T29
+A29	Realis E681 Other
+T30	Justice_Trial-Hearing 895 900	trial
+E696	Justice_Trial-Hearing:T30
+A30	Realis E696 Actual
+T31	Life_Die 964 973	murdering
+E699	Life_Die:T31
+A31	Realis E699 Actual
+T32	Conflict_Attack 3732 3739	attacks
+E732	Conflict_Attack:T32
+A32	Realis E732 Actual
+T33	Transaction_Transaction 4291 4303	prostitution
+E788	Transaction_Transaction:T33
+A33	Realis E788 Generic
+T34	Life_Injure 4705 4714	torturing
+E794	Life_Injure:T34
+A34	Realis E794 Actual
+T35	Contact_Contact 1333 1337	said
+E836	Contact_Contact:T35
+A35	Realis E836 Actual
+T36	Contact_Meet 3354 3358	talk
+E838	Contact_Meet:T36
+A36	Realis E838 Actual
+T37	Life_Die 734 740	murder
+E842	Life_Die:T37
+A37	Realis E842 Actual
+T38	Conflict_Attack 4705 4714	torturing
+E849	Conflict_Attack:T38
+A38	Realis E849 Other
+T39	Movement_Transport-Person 3795 3802	brought
+E861	Movement_Transport-Person:T39
+A39	Realis E861 Actual
+T40	Life_Die 4938 4944	murder
+E879	Life_Die:T40
+A40	Realis E879 Actual
+T41	Life_Injure 779 787	tortured
+E884	Life_Injure:T41
+A41	Realis E884 Actual
+T42	Justice_Trial-Hearing 1109 1114	trial
+E919	Justice_Trial-Hearing:T42
+A42	Realis E919 Other
+T43	Personnel_Start-Position 645 651	became
+E935	Personnel_Start-Position:T43
+A43	Realis E935 Actual
+T44	Conflict_Attack 2690 2693	war
+E964	Conflict_Attack:T44
+A44	Realis E964 Generic
+T45	Life_Die 1181 1186	death
+E965	Life_Die:T45
+A45	Realis E965 Actual
+T46	Justice_Sentence 4858 4867	sentenced
+E980	Justice_Sentence:T46
+A46	Realis E980 Actual
+T47	Movement_Transport-Person 4736 4744	dropping
+E985	Movement_Transport-Person:T47
+A47	Realis E985 Actual
+T48	Life_Die 3619 3623	died
+E988	Life_Die:T48
+A48	Realis E988 Other
+T49	Movement_Transport-Person 2448 2453	moved
+E994	Movement_Transport-Person:T49
+A49	Realis E994 Actual

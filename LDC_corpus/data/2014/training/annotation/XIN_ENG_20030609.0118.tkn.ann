@@ -1,0 +1,30 @@
+T1	Personnel_Nominate 177 185	appoints
+E1	Personnel_Nominate:T1 
+T2	Personnel_Nominate 299 308	appointed
+E2	Personnel_Nominate:T2 
+A1	Realis E2 Actual
+T3	Personnel_Start-Position 370 377	replace
+E3	Personnel_Start-Position:T3 
+A2	Realis E3 Actual
+T4	Personnel_End-Position 399 407	resigned
+E4	Personnel_End-Position:T4 
+A3	Realis E4 Actual
+T5	Personnel_End-Position 637 646;651 662	submitted resignation
+E5	Personnel_End-Position:T5 
+A4	Realis E5 Actual
+T6	Transaction_Transfer-Money 707 715	spending
+E6	Transaction_Transfer-Money:T6 
+A5	Realis E6 Actual
+T7	Personnel_End-Position 1110 1114	quit
+E7	Personnel_End-Position:T7 
+A6	Realis E7 Other
+T8	Personnel_End-Position 1146 1153;1159 1167	give up position
+E8	Personnel_End-Position:T8 
+A7	Realis E8 Other
+T9	Personnel_Nominate 1366 1377	appointment
+E9	Personnel_Nominate:T9 
+A8	Realis E9 Actual
+A9	Realis E1 Actual
+T10	Personnel_Start-Position 1035 1044	took over
+E10	Personnel_Start-Position:T10 
+A10	Realis E10 Actual

@@ -1,0 +1,49 @@
+T1	Justice_Fine 194 198	fine
+E991	Justice_Fine:T1
+A1	Realis E991 Actual
+T2	Justice_Fine 345 350	fined
+E53	Justice_Fine:T2
+A2	Realis E53 Actual
+T3	Justice_Fine 1006 1010	fine
+E816	Justice_Fine:T3
+A3	Realis E816 Actual
+T4	Contact_Broadcast 238 244	called
+E363	Contact_Broadcast:T4
+A4	Realis E363 Actual
+T5	Transaction_Transfer-Money 260 268	shoppers
+E750	Transaction_Transfer-Money:T5
+A5	Realis E750 Generic
+T6	Transaction_Transfer-Ownership 260 268	shoppers
+E623	Transaction_Transfer-Ownership:T6
+A6	Realis E623 Generic
+T7	Justice_Appeal 311 318	Appeals
+E477	Justice_Appeal:T7
+A7	Realis E477 Generic
+T8	Justice_Arrest-Jail 580 584	jail
+E106	Justice_Arrest-Jail:T8
+A8	Realis E106 Generic
+T9	Justice_Sentence 585 593	sentence
+E298	Justice_Sentence:T9
+A9	Realis E298 Actual
+T10	Justice_Sentence 888 897	sentenced
+E173	Justice_Sentence:T10
+A10	Realis E173 Actual
+T11	Contact_Broadcast 610 616	report
+E923	Contact_Broadcast:T11
+A11	Realis E923 Actual
+T12	Contact_Broadcast 1033 1041	reported
+E351	Contact_Broadcast:T12
+A12	Realis E351 Actual
+T13	Justice_Acquit 778 788	not guilty
+E913	Justice_Acquit:T13
+A13	Realis E913 Actual
+T14	Justice_Appeal 812 818	appeal
+E362	Justice_Appeal:T14
+A14	Realis E362 Actual
+T15	Contact_Broadcast 835 844	statement
+E462	Contact_Broadcast:T15
+A15	Realis E462 Actual
+R1	Coreference Arg1:E991 Arg2:E53
+R2	Coreference Arg1:E53 Arg2:E816
+R3	Coreference Arg1:E298 Arg2:E173
+R4	Coreference Arg1:E923 Arg2:E351

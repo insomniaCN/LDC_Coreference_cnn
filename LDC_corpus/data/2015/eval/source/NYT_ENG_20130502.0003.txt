@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130502.0003" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130502/20130502,0232fe34c177edafc50d05688c1c2a50.xml">
+<HEADLINE>
+INDIAN PRISONER IN PAKISTAN DIES AFTER BEATING
+</HEADLINE>
+<TEXT>
+<P>
+MULTAN, Pakistan – An Indian man on death row in Pakistan for espionage has died after being attacked by fellow inmates, Pakistan’s state television said early Thursday.
+</P>
+<P>
+Sarabjit Singh, 51, died in a hospital in the eastern city of Lahore, where he had been in a coma for at least five days.
+</P>
+<P>
+Singh was convicted of espionage in relation to bombings in two Pakistani cities in 1990.
+</P>
+<P>
+His fate has been a source of tension between Pakistan and India since he was attacked Friday. In a statement, the Indian prime minister, Manmohan Singh, said he was “deeply saddened” by Sarabjit Singh’s death, describing him as a “brave son of India.”
+</P>
+<P>
+Singh, the prime minister, criticized the Pakistani government’s refusal to repatriate the injured prisoner to India for emergency treatment.
+</P>
+<P>
+According to the Pakistani police, Sarabjit Singh was assaulted by two prisoners as he left his cell at Kot Lakhpat jail, outside Lahore, to exercise last Friday. He suffered severe head injuries and was later taken to the city’s Jinnah hospital in critical condition.
+</P>
+<P>
+Singh’s Pakistani lawyer said that his client had previously spoken of threats from inmates following the hanging of Afzal Guru, an accused Kashmiri militant, by the Indian authorities in February.
+</P>
+<P>
+Singh was convicted of spying and for his involvement in a series of bomb blasts that killed 14 people in the Punjabi cities of Faisalabad and Lahore in 1990.
+</P>
+<P>
+In 2006, Singh’s sister appealed to Pervez Musharraf, who was then Pakistan’s president, to grant him clemency and repatriate him to India.
+</P>
+<P>
+That petition was dismissed by Musharraf and the Pakistani courts. Singh then wrote to President Asif Ali Zardari in July 2009, requesting a pardon on humanitarian grounds.
+</P>
+</TEXT>
+</DOC>

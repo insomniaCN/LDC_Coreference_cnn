@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea4e0000000000000016" doc_id="NYT_ENG_20130520.0202" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-621" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="207" length="8">ARRESTED</trigger>
+      </event_mention>
+      <event_mention id="em-402" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="292" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-600" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="802" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-72" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="1000" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-841" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="2002" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-13" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="590" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-574" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="661" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-58" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130520.0202" offset="940" length="10">immigrants</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-592" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="968" length="7">arrived</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-713" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="1275" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-298" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130520.0202" offset="1349" length="7">funding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-747" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="1507" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-562" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="1672" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-912" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="1710" length="12">embezzlement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-38" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130520.0202" offset="1777" length="6">resale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-277">
+      <event_mention id="em-153" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="2098" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-292">
+      <event_mention id="em-456" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="2210" length="9">described</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-307">
+      <event_mention id="em-339" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="2322" length="9">responded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-322">
+      <event_mention id="em-985" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130520.0202" offset="2380" length="9">financing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-337">
+      <event_mention id="em-930" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130520.0202" offset="2454" length="10">immigrants</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-365">
+      <event_mention id="em-689" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130520.0202" offset="2641" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-380">
+      <event_mention id="em-859" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130520.0202" offset="2731" length="5">funds</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-395">
+      <event_mention id="em-965" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="2769" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-410">
+      <event_mention id="em-154" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="2810" length="8">deported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-438">
+      <event_mention id="em-190" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130520.0202" offset="2864" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-468">
+      <event_mention id="em-664" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="NYT_ENG_20130520.0202" offset="1055" length="8">smuggler</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-483">
+      <event_mention id="em-777" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130520.0202" offset="1777" length="6">resale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-498">
+      <event_mention id="em-597" type="business" subtype="startorg" realis="generic">
+        <trigger source="NYT_ENG_20130520.0202" offset="1871" length="6">create</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-513">
+      <event_mention id="em-113" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="1951" length="4">held</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-528">
+      <event_mention id="em-507" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130520.0202" offset="2370" length="9">terrorism</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-530">
+      <event_mention id="em-207" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130520.0202" offset="2853" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

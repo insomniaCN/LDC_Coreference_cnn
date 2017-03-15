@@ -1,0 +1,207 @@
+T1	Justice_Convict 201 210	Convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 218 225	stabbed
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Life_Die 229 234	death
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 334 342;357 366	spending in prison
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Justice_Release-Parole 306 313	paroled
+E5	Justice_Release-Parole:T5 
+A5	Realis E5 Actual
+T6	Life_Die 375 382	killing
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Die 423 430	fatally
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 431 438	stabbed
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 534 541	charged
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T11	Life_Die 588 595	killing
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T10	Justice_Charge-Indict 650 656	charge
+E10	Justice_Charge-Indict:T10 
+A10	Realis E10 Actual
+T12	Life_Die 710 715	death
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Life_Die 563 569	murder
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Justice_Arrest-Jail 879 882;887 898	put behind bars
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Other
+T15	Life_Die 914 919	death
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Life_Die 1237 1244	suicide
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Justice_Trial-Hearing 1273 1280	retrial
+E17	Justice_Trial-Hearing:T17 
+A17	Realis E17 Other
+T18	Life_Die 1572 1578	killed
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Life_Die 1642 1647	death
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Life_Die 1895 1900	death
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Life_Die 1917 1921	dead
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 2162 2169	stabbed
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Life_Die 2325 2332	killing
+E23	Life_Die:T23 
+A23	Realis E23 Actual
+T24	Life_Die 2357 2363	murder
+E24	Life_Die:T24 
+A24	Realis E24 Actual
+T25	Justice_Charge-Indict 2383 2390	charged
+E25	Justice_Charge-Indict:T25 
+A25	Realis E25 Actual
+T26	Justice_Arrest-Jail 2463 2469	arrest
+E26	Justice_Arrest-Jail:T26 
+A26	Realis E26 Actual
+T27	Justice_Release-Parole 2527 2534	release
+E27	Justice_Release-Parole:T27 
+A27	Realis E27 Actual
+T28	Personnel_End-Position 2598 2605	retired
+E28	Personnel_End-Position:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 2697 2703	moving
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Other
+T30	Movement_Transport-Person 3204 3209	moved
+E30	Movement_Transport-Person:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 3712 3721	strangled
+E31	Conflict_Attack:T31 
+A31	Realis E31 Actual
+T32	Life_Die 3923 3929	killed
+E32	Life_Die:T32 
+A32	Realis E32 Actual
+T33	Justice_Charge-Indict 4198 4205	charged
+E33	Justice_Charge-Indict:T33 
+A33	Realis E33 Actual
+T34	Justice_Trial-Hearing 4275 4280	trial
+E34	Justice_Trial-Hearing:T34 
+A34	Realis E34 Actual
+T35	Justice_Acquit 4289 4298	acquitted
+E35	Justice_Acquit:T35 
+A35	Realis E35 Actual
+T36	Justice_Charge-Indict 4364 4370	charge
+E36	Justice_Charge-Indict:T36 
+A36	Realis E36 Actual
+T37	Justice_Arrest-Jail 4390 4398	arrested
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Actual
+T38	Life_Die 4452 4457	fatal
+E38	Life_Die:T38 
+A38	Realis E38 Actual
+T39	Justice_Appeal 4523 4531	appealed
+E39	Justice_Appeal:T39 
+A39	Realis E39 Actual
+T40	Life_Die 4536 4542	murder
+E40	Life_Die:T40 
+A40	Realis E40 Actual
+T41	Life_Die 4650 4656	murder
+E41	Life_Die:T41 
+A41	Realis E41 Actual
+T42	Justice_Charge-Indict 4657 4663	charge
+E42	Justice_Charge-Indict:T42 
+A42	Realis E42 Actual
+T43	Justice_Appeal 4690 4698	appealed
+E43	Justice_Appeal:T43 
+A43	Realis E43 Actual
+T44	Life_Die 4852 4859	suicide
+E44	Life_Die:T44 
+A44	Realis E44 Actual
+T45	Justice_Trial-Hearing 5001 5006	trial
+E45	Justice_Trial-Hearing:T45 
+A45	Realis E45 Other
+T46	Life_Die 5058 5070	manslaughter
+E46	Life_Die:T46 
+A46	Realis E46 Actual
+T47	Justice_Trial-Hearing 5250 5255	trial
+E47	Justice_Trial-Hearing:T47 
+A47	Realis E47 Actual
+T48	Justice_Sentence 5269 5278	sentenced
+E48	Justice_Sentence:T48 
+A48	Realis E48 Actual
+T49	Justice_Release-Parole 5328 5336	released
+E49	Justice_Release-Parole:T49 
+A49	Realis E49 Actual
+T50	Justice_Arrest-Jail 5364 5375	time served
+E50	Justice_Arrest-Jail:T50 
+A50	Realis E50 Actual
+T51	Justice_Sentence 5407 5417	sentencing
+E51	Justice_Sentence:T51 
+A51	Realis E51 Actual
+T52	Justice_Sentence 5747 5757	sentencing
+E52	Justice_Sentence:T52 
+A52	Realis E52 Actual
+T53	Life_Die 5914 5921	killing
+E53	Life_Die:T53 
+A53	Realis E53 Actual
+T54	Life_Die 6437 6444	killing
+E54	Life_Die:T54 
+A54	Realis E54 Actual
+T55	Contact_Meet 6577 6580	met
+E55	Contact_Meet:T55 
+A55	Realis E55 Actual
+T56	Contact_Meet 6874 6879	visit
+E56	Contact_Meet:T56 
+A56	Realis E56 Actual
+T57	Life_Die 6903 6909	killed
+E57	Life_Die:T57 
+A57	Realis E57 Actual
+T59	Transaction_Transfer-Ownership 7050 7055	steal
+E59	Transaction_Transfer-Ownership:T59 
+A59	Realis E59 Other
+T58	Movement_Transport-Person 3555 3559	went
+E58	Movement_Transport-Person:T58 
+A58	Realis E58 Actual
+T60	Transaction_Transfer-Ownership 3624 3629	steal
+E60	Transaction_Transfer-Ownership:T60 
+A60	Realis E60 Other
+T61	Transaction_Transfer-Ownership 3634 3638	pawn
+E61	Transaction_Transfer-Ownership:T61 
+A61	Realis E61 Other
+T62	Contact_Communicate 1615 1621	called
+E62	Contact_Communicate:T62 
+A62	Realis E62 Actual
+T63	Contact_Meet 2099 2109	confronted
+E63	Contact_Meet:T63 
+A63	Realis E63 Actual
+T64	Justice_Release-Parole 2489 2495	parole
+E64	Justice_Release-Parole:T64 
+A64	Realis E64 Generic
+T65	Movement_Transport-Person 3999 4011	crossed into
+E65	Movement_Transport-Person:T65 
+A65	Realis E65 Actual
+T66	Justice_Convict 4965 4975	conviction
+E66	Justice_Convict:T66 
+A66	Realis E66 Actual
+T67	Justice_Charge-Indict 5239 5246	charges
+E67	Justice_Charge-Indict:T67 
+A67	Realis E67 Generic
+T68	Transaction_Transfer-Ownership 6892 6898	robbed
+E68	Transaction_Transfer-Ownership:T68 
+A68	Realis E68 Actual
+T69	Life_Die 7094 7103;7118 7122	sacrifice life
+E69	Life_Die:T69 
+A69	Realis E69 Actual

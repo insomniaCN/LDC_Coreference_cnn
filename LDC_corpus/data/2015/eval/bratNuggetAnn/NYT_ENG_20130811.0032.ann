@@ -1,0 +1,105 @@
+T1	Contact_Broadcast 1781 1788	comment
+E45	Contact_Broadcast:T1
+A1	Realis E45 Other
+T2	Contact_Contact 2815 2827	negotiations
+E47	Contact_Contact:T2
+A2	Realis E47 Other
+T3	Contact_Broadcast 1523 1531	dictates
+E60	Contact_Broadcast:T3
+A3	Realis E60 Generic
+T4	Contact_Broadcast 1180 1189	announced
+E72	Contact_Broadcast:T4
+A4	Realis E72 Actual
+T5	Contact_Broadcast 1470 1479	statement
+E127	Contact_Broadcast:T5
+A5	Realis E127 Actual
+T6	Justice_Release-Parole 2181 2188	release
+E135	Justice_Release-Parole:T6
+A6	Realis E135 Other
+T7	Contact_Broadcast 703 711	announce
+E137	Contact_Broadcast:T7
+A7	Realis E137 Other
+T8	Contact_Contact 872 877	talks
+E151	Contact_Contact:T8
+A8	Realis E151 Other
+T9	Justice_Release-Parole 1919 1926	release
+E163	Justice_Release-Parole:T9
+A9	Realis E163 Other
+T10	Contact_Contact 2319 2327	persuade
+E225	Contact_Contact:T10
+A10	Realis E225 Actual
+T11	Manufacture_Artifact 1582 1587	build
+E240	Manufacture_Artifact:T11
+A11	Realis E240 Generic
+T12	Justice_Arrest-Jail 2001 2007	prison
+E287	Justice_Arrest-Jail:T12
+A12	Realis E287 Generic
+T13	Manufacture_Artifact 2927 2939	construction
+E319	Manufacture_Artifact:T13
+A13	Realis E319 Generic
+T14	Contact_Contact 219 224	TALKS
+E334	Contact_Contact:T14
+A14	Realis E334 Other
+T15	Contact_Contact 2648 2658	negotiator
+E405	Contact_Contact:T15
+A15	Realis E405 Generic
+T16	Contact_Contact 2387 2399	negotiations
+E431	Contact_Contact:T16
+A16	Realis E431 Other
+T17	Justice_Arrest-Jail 1955 1964	prisoners
+E462	Justice_Arrest-Jail:T17
+A17	Realis E462 Actual
+T31	Manufacture_Artifact 431 443	construction
+E469	Manufacture_Artifact:T31
+A31	Realis E469 Other
+T19	Justice_Release-Parole 753 761	released
+E516	Justice_Release-Parole:T19
+A19	Realis E516 Other
+T20	Contact_Contact 2876 2888	negotiations
+E556	Contact_Contact:T20
+A20	Realis E556 Other
+T21	Contact_Contact 2457 2464	demands
+E557	Contact_Contact:T21
+A21	Realis E557 Generic
+T22	Justice_Arrest-Jail 737 746	prisoners
+E665	Justice_Arrest-Jail:T22
+A22	Realis E665 Actual
+T23	Contact_Broadcast 2669 2678	statement
+E674	Contact_Broadcast:T23
+A23	Realis E674 Actual
+T24	Life_Die 2012 2018	deadly
+E702	Life_Die:T24
+A24	Realis E702 Generic
+T25	Justice_Release-Parole 2135 2143	released
+E703	Justice_Release-Parole:T25
+A25	Realis E703 Other
+T26	Manufacture_Artifact 1697 1705	build up
+E716	Manufacture_Artifact:T26
+A26	Realis E716 Generic
+T27	Contact_Contact 661 666	talks
+E773	Contact_Contact:T27
+A27	Realis E773 Other
+T28	Contact_Contact 2524 2529	talks
+E781	Contact_Contact:T28
+A28	Realis E781 Other
+T29	Contact_Contact 2271 2280	explained
+E813	Contact_Contact:T29
+A29	Realis E813 Actual
+T30	Manufacture_Artifact 1000 1012	construction
+E853	Manufacture_Artifact:T30
+A30	Realis E853 Generic
+T31	Manufacture_Artifact 431 443	construction
+E902	Manufacture_Artifact:T31
+A31	Realis E902 Other
+T32	Conflict_Attack 2019 2026	attacks
+E908	Conflict_Attack:T32
+A32	Realis E908 Generic
+T33	Manufacture_Artifact 1114 1126	construction
+E920	Manufacture_Artifact:T33
+A33	Realis E920 Other
+T34	Manufacture_Artifact 805 813	building
+E925	Manufacture_Artifact:T34
+A34	Realis E925 Generic
+T35	Justice_Arrest-Jail 2193 2202	prisoners
+E968	Justice_Arrest-Jail:T35
+A35	Realis E968 Actual

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976310000000000000021" doc_id="3288ddfcb46d1934ad453afd8a4e292f" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-90" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1929" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-103" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1647" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-116" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2520" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-129" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1955" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-142" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1673" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-155" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2546" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-168" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2953" length="4">blow</trigger>
+      </event_mention>
+      <event_mention id="em-181" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2786" length="4">blow</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-194" type="justice" subtype="sentence" realis="actual">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="686" length="13">got jail time</trigger>
+      </event_mention>
+      <event_mention id="em-207" type="justice" subtype="sentence" realis="actual">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3152" length="13">got jail time</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-220" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3226" length="6">looted</trigger>
+      </event_mention>
+      <event_mention id="em-233" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="760" length="6">looted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-246" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="800" length="6">looted</trigger>
+      </event_mention>
+      <event_mention id="em-259" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3266" length="6">looted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-272" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3338" length="19">remanded in custody</trigger>
+      </event_mention>
+      <event_mention id="em-285" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="872" length="19">remanded in custody</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-298" type="justice" subtype="fine" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="940" length="4">fine</trigger>
+      </event_mention>
+      <event_mention id="em-311" type="justice" subtype="fine" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3406" length="4">fine</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-324" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3436" length="14">thrown in jail</trigger>
+      </event_mention>
+      <event_mention id="em-337" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="970" length="14">thrown in jail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-350" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6115" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-363" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="4303" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-376" type="life" subtype="die" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6376" length="4">kill</trigger>
+      </event_mention>
+      <event_mention id="em-389" type="life" subtype="die" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6573" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-402" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6624" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-415" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6427" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-428" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6637" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-441" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6440" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-454" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8132" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-467" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="7734" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-480" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6918" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-493" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6790" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-38">
+      <event_mention id="em-506" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8240" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-519" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="7842" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-40">
+      <event_mention id="em-532" type="justice" subtype="convict" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="5815" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-545" type="justice" subtype="convict" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8822" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-42">
+      <event_mention id="em-558" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8842" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-571" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="5835" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-44">
+      <event_mention id="em-584" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="5917" length="13">going to jail</trigger>
+      </event_mention>
+      <event_mention id="em-597" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8924" length="13">going to jail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-48">
+      <event_mention id="em-649" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2846" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-662" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2757" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-50">
+      <event_mention id="em-1039" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="4225" length="16">violent activity</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-52">
+      <event_mention id="em-701" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8376" length="14">thrown in jail</trigger>
+      </event_mention>
+      <event_mention id="em-714" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="7978" length="14">thrown in jail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-54">
+      <event_mention id="em-727" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3170" length="9">accepting</trigger>
+      </event_mention>
+      <event_mention id="em-740" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="704" length="9">accepting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-56">
+      <event_mention id="em-753" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1693" length="7">threats</trigger>
+      </event_mention>
+      <event_mention id="em-766" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1975" length="7">threats</trigger>
+      </event_mention>
+      <event_mention id="em-1026" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2566" length="7">threats</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-58">
+      <event_mention id="em-792" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="243" length="7">threats</trigger>
+      </event_mention>
+      <event_mention id="em-1000" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="notinperson" schedule="planned">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2191" length="7">threats</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-60">
+      <event_mention id="em-805" type="justice" subtype="appeal" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1265" length="8">appealed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-818" type="justice" subtype="sentence" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="1294" length="9">sentences</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-831" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2178" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-844" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="2885" length="14">thrown in jail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-68">
+      <event_mention id="em-857" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3876" length="12">conversation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-70">
+      <event_mention id="em-870" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="3961" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-72">
+      <event_mention id="em-883" type="life" subtype="die" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6731" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-74">
+      <event_mention id="em-896" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6749" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-76">
+      <event_mention id="em-909" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="9252" length="11">destruction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-80">
+      <event_mention id="em-935" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="9232" length="8">violence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-82">
+      <event_mention id="em-948" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6731" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-84">
+      <event_mention id="em-961" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8499" length="9">suggested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-86">
+      <event_mention id="em-974" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="8509" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1052">
+      <event_mention id="em-1054" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6376" length="4">kill</trigger>
+      </event_mention>
+      <event_mention id="em-1067" type="conflict" subtype="attack" realis="other">
+        <trigger source="3288ddfcb46d1934ad453afd8a4e292f" offset="6573" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

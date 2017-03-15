@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea6a0000000000000057" doc_id="NYT_ENG_20130722.0061" source_type="newswire">
+  <event_mention id="em-19" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="991" length="7">penalty</trigger>
+  </event_mention>
+  <event_mention id="em-22" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1929" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-29" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="2468" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-43" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="919" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-79" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="614" length="7">traders</trigger>
+  </event_mention>
+  <event_mention id="em-136" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130722.0061" offset="450" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-147" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1561" length="8">Exchange</trigger>
+  </event_mention>
+  <event_mention id="em-207" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1441" length="7">Trading</trigger>
+  </event_mention>
+  <event_mention id="em-269" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="976" length="8">Exchange</trigger>
+  </event_mention>
+  <event_mention id="em-275" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130722.0061" offset="2559" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-333" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1734" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-352" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1778" length="7">traders</trigger>
+  </event_mention>
+  <event_mention id="em-418" type="justice" subtype="fine" realis="actual">
+    <trigger source="NYT_ENG_20130722.0061" offset="991" length="7">penalty</trigger>
+  </event_mention>
+  <event_mention id="em-420" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="478" length="9">penalties</trigger>
+  </event_mention>
+  <event_mention id="em-434" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1583" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-476" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130722.0061" offset="2806" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-506" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="2287" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-517" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="2497" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-518" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130722.0061" offset="2367" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-530" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1864" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-533" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1197" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-544" type="justice" subtype="fine" realis="actual">
+    <trigger source="NYT_ENG_20130722.0061" offset="478" length="9">penalties</trigger>
+  </event_mention>
+  <event_mention id="em-551" type="justice" subtype="fine" realis="actual">
+    <trigger source="NYT_ENG_20130722.0061" offset="919" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="212" length="7">TRADING</trigger>
+  </event_mention>
+  <event_mention id="em-560" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="311" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-743" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130722.0061" offset="1618" length="5">order</trigger>
+  </event_mention>
+  <event_mention id="em-777" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="688" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-794" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="2640" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-810" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1085" length="9">exchanges</trigger>
+  </event_mention>
+  <event_mention id="em-822" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="431" length="7">Trading</trigger>
+  </event_mention>
+  <event_mention id="em-829" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="522" length="7">Trading</trigger>
+  </event_mention>
+  <event_mention id="em-889" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130722.0061" offset="1070" length="7">trading</trigger>
+  </event_mention>
+  <event_mention id="em-901" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130722.0061" offset="2477" length="6">called</trigger>
+  </event_mention>
+  <event_mention id="em-903" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130722.0061" offset="2838" length="7">comment</trigger>
+  </event_mention>
+  <event_mention id="em-924" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130722.0061" offset="1661" length="5">order</trigger>
+  </event_mention>
+  <event_mention id="em-927" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130722.0061" offset="1340" length="7">letters</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,39 @@
+T1	Justice_Charge-Indict 95 102	charges
+E1	Justice_Charge-Indict:T1 
+A1	Questionable E1 Subtype
+A2	Realis E1 Actual
+T2	Justice_Charge-Indict 498 505	charges
+E2	Justice_Charge-Indict:T2 
+A3	Realis E2 Actual
+T3	Justice_Charge-Indict 550 557	charged
+E3	Justice_Charge-Indict:T3 
+A4	Realis E3 Actual
+T4	Justice_Arrest-Jail 593 599	arrest
+E4	Justice_Arrest-Jail:T4 
+A5	Questionable E4 Realis
+A6	Realis E4 Generic
+T5	Transaction_Transfer-Money 742 745	pay
+E5	Transaction_Transfer-Money:T5 
+A7	Realis E5 Other
+T6	Justice_Charge-Indict 770 777	charges
+E6	Justice_Charge-Indict:T6 
+A8	Realis E6 Actual
+T7	Transaction_Transfer-Money 856 859	pay
+E7	Transaction_Transfer-Money:T7 
+A9	Realis E7 Generic
+T8	Justice_Charge-Indict 1183 1193	indictment
+E8	Justice_Charge-Indict:T8 
+A10	Realis E8 Actual
+T9	Justice_Charge-Indict 1843 1850	Charges
+E9	Justice_Charge-Indict:T9 
+A11	Questionable E9 Realis
+A12	Realis E9 Actual
+T10	Justice_Extradite 2015 2025	extradited
+E10	Justice_Extradite:T10 
+A13	Realis E10 Other
+T11	Justice_Convict 2268 2271;2274 2288	get guilty verdict
+E11	Justice_Convict:T11 
+A14	Realis E11 Other
+T12	Personnel_End-Position 689 695	former
+E12	Personnel_End-Position:T12 
+A15	Realis E12 Actual

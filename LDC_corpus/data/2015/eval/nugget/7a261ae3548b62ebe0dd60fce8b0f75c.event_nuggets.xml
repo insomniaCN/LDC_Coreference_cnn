@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaac0000000000000170" doc_id="7a261ae3548b62ebe0dd60fce8b0f75c" source_type="multi_post">
+  <event_mention id="em-19" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="1246" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-28" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="2590" length="7">claimed</trigger>
+  </event_mention>
+  <event_mention id="em-30" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="2303" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-44" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="1902" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-99" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="819" length="5">force</trigger>
+  </event_mention>
+  <event_mention id="em-116" type="justice" subtype="sue" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="775" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-120" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="842" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-121" type="justice" subtype="trialhearing" realis="generic">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="1955" length="5">Trial</trigger>
+  </event_mention>
+  <event_mention id="em-234" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="445" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-265" type="justice" subtype="appeal" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="737" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-268" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="675" length="8">shooting</trigger>
+  </event_mention>
+  <event_mention id="em-274" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="2197" length="7">claimed</trigger>
+  </event_mention>
+  <event_mention id="em-330" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="660" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-357" type="justice" subtype="appeal" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="877" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-392" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="2527" length="7">claimed</trigger>
+  </event_mention>
+  <event_mention id="em-417" type="justice" subtype="acquit" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="602" length="9">acquitted</trigger>
+  </event_mention>
+  <event_mention id="em-484" type="justice" subtype="sue" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="212" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-505" type="justice" subtype="appeal" realis="generic">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="1735" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-537" type="life" subtype="injure" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="819" length="5">force</trigger>
+  </event_mention>
+  <event_mention id="em-643" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="281" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-682" type="life" subtype="injure" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="675" length="8">shooting</trigger>
+  </event_mention>
+  <event_mention id="em-693" type="life" subtype="injure" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="491" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-695" type="life" subtype="injure" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="281" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-797" type="life" subtype="die" realis="generic">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="1428" length="9">murderous</trigger>
+  </event_mention>
+  <event_mention id="em-822" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="231" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-850" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="491" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-883" type="transaction" subtype="transferownership" realis="other" ways="canttell">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="563" length="6">stolen</trigger>
+  </event_mention>
+  <event_mention id="em-948" type="conflict" subtype="attack" realis="generic">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="1428" length="9">murderous</trigger>
+  </event_mention>
+  <event_mention id="em-977" type="contact" subtype="contact" realis="generic" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="7a261ae3548b62ebe0dd60fce8b0f75c" offset="2092" length="6">stated</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

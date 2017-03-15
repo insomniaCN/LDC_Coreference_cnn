@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa70000000000000160" doc_id="6f139b70e7d56b6dbbc2bafd94e99e48" source_type="multi_post">
+  <event_mention id="em-198" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="457" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-284" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="558" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-303" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2199" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-344" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="1706" length="8">building</trigger>
+  </event_mention>
+  <event_mention id="em-346" type="life" subtype="marry" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="1527" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-401" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2952" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-403" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2839" length="6">giving</trigger>
+  </event_mention>
+  <event_mention id="em-407" type="movement" subtype="transportartifact" realis="other">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="3649" length="7">transit</trigger>
+  </event_mention>
+  <event_mention id="em-442" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2952" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-448" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="3053" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-524" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2011" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-591" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="152" length="8">building</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="457" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-615" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2647" length="8">building</trigger>
+  </event_mention>
+  <event_mention id="em-639" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="344" length="6">giving</trigger>
+  </event_mention>
+  <event_mention id="em-651" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="1477" length="5">phone</trigger>
+  </event_mention>
+  <event_mention id="em-712" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="3479" length="3">put</trigger>
+  </event_mention>
+  <event_mention id="em-722" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="3140" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-728" type="movement" subtype="transportperson" realis="other">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="1944" length="8">vacation</trigger>
+  </event_mention>
+  <event_mention id="em-741" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2011" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-787" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2112" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-827" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="1898" length="6">giving</trigger>
+  </event_mention>
+  <event_mention id="em-944" type="movement" subtype="transportperson" realis="other">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="2885" length="8">vacation</trigger>
+  </event_mention>
+  <event_mention id="em-984" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="645" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="movement" subtype="transportperson" realis="other">
+    <trigger source="6f139b70e7d56b6dbbc2bafd94e99e48" offset="390" length="8">vacation</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

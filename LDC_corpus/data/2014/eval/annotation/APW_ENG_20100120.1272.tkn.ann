@@ -1,0 +1,60 @@
+T1	Movement_Transport-Person 84 90	return
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 251 257	return
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Other
+T3	Movement_Transport-Person 470 478	re-entry
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Movement_Transport-Person 630 640	admittance
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Other
+T5	Movement_Transport-Person 1059 1069	admittance
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Other
+T6	Justice_Sue 1508 1512	sued
+E6	Justice_Sue:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 1912 1915	war
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 1972 1978	letter
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Justice_Sue 2110 2114	sued
+E9	Justice_Sue:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 2442 2446	move
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Other
+T11	Personnel_Start-Position 2461 2465;2485 2488	take job
+E11	Personnel_Start-Position:T11 
+A11	Realis E11 Other
+T12	Transaction_Transfer-Money 2672 2679	donated
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 2706 2716	gave money
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 3189 3197	visiting
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Other
+T15	Conflict_Attack 3929 3932	war
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 1930 1936	denied
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 1979 1985	saying
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T18	Contact_Meet 3660 3670	questioned
+E18	Contact_Meet:T18 
+A18	Realis E18 Actual
+T19	Contact_Communicate 3848 3857	interview
+E19	Contact_Communicate:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 3954 3958	said
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual

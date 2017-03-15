@@ -1,0 +1,41 @@
+T1	Justice_Trial-Hearing 105 110;88 101	court appear before
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Other
+T2	Justice_Trial-Hearing 299 306	hearing
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Other
+T3	Justice_Trial-Hearing 342 347	trial
+E3	Justice_Trial-Hearing:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 546 562	letter addressed
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 536 540	said
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Justice_Trial-Hearing 739 744	trial
+E6	Justice_Trial-Hearing:T6 
+A6	Realis E6 Other
+T7	Justice_Trial-Hearing 873 878	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 1052 1056	told
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Justice_Trial-Hearing 1115 1120	trial
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 222 225	war
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Generic
+T11	Justice_Trial-Hearing 378 380	it
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+A12	Questionable E6 Realis
+T12	Justice_Trial-Hearing 758 761	one
+E12	Justice_Trial-Hearing:T12 
+A13	Questionable E12 Realis
+A14	Realis E12 Other
+T13	Justice_Trial-Hearing 1127 1129	it
+E13	Justice_Trial-Hearing:T13 
+A15	Realis E13 Actual

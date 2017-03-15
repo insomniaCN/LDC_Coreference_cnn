@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000591" doc_id="bolt-eng-DF-170-181137-9031763" source_type="multi_post">
+<event_mention id="em-10" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="126" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-23" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="714" length="5">Fined</trigger>
+      </event_mention>
+<event_mention id="em-38" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="724" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-51" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="799" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-64" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="806" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-77" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="816" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-92" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="829" length="7">assault</trigger>
+      </event_mention>
+<event_mention id="em-107" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="90" length="8">tripping</trigger>
+      </event_mention>
+<event_mention id="em-120" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="80" length="6">admits</trigger>
+      </event_mention>
+<event_mention id="em-135" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="943" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-148" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="950" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-161" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="960" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-174" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="973" length="7">assault</trigger>
+      </event_mention>
+<event_mention id="em-187" type="life" subtype="injure" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1095" length="4">hurt</trigger>
+      </event_mention>
+<event_mention id="em-202" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1110" length="10">be charged</trigger>
+      </event_mention>
+<event_mention id="em-217" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1126" length="6">assult</trigger>
+      </event_mention>
+<event_mention id="em-230" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1146" length="4">sued</trigger>
+      </event_mention>
+<event_mention id="em-245" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1164" length="7">revenue</trigger>
+      </event_mention>
+<event_mention id="em-260" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1307" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-314" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1340" length="7">battery</trigger>
+      </event_mention>
+<event_mention id="em-327" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1371" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-340" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1541" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-353" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1658" length="5">trips</trigger>
+      </event_mention>
+<event_mention id="em-366" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="1803" length="9">interview</trigger>
+      </event_mention>
+<event_mention id="em-394" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="2190" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-407" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="2290" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-435" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="3046" length="9">commented</trigger>
+      </event_mention>
+<event_mention id="em-448" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="3248" length="12">conversation</trigger>
+      </event_mention>
+<event_mention id="em-463" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="3278" length="10">interviews</trigger>
+      </event_mention>
+<event_mention id="em-478" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="3710" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-491" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="3720" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-504" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="3853" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-530" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="4316" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-543" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="4342" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-558" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="4620" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-571" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="4859" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-584" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5236" length="4">fire</trigger>
+      </event_mention>
+<event_mention id="em-597" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5270" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-610" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5311" length="9">prosecute</trigger>
+      </event_mention>
+<event_mention id="em-651" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5542" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-664" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5919" length="4">fire</trigger>
+      </event_mention>
+<event_mention id="em-677" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5953" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-690" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="5994" length="9">prosecute</trigger>
+      </event_mention>
+<event_mention id="em-716" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="6019" length="11">and battery</trigger>
+      </event_mention>
+<event_mention id="em-729" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="6407" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-755" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="6933" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-768" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="6943" length="5">Fined</trigger>
+      </event_mention>
+<event_mention id="em-781" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7152" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-794" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7162" length="5">Fined</trigger>
+      </event_mention>
+<event_mention id="em-807" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7425" length="5">Fired</trigger>
+      </event_mention>
+<event_mention id="em-820" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7435" length="5">Fined</trigger>
+      </event_mention>
+<event_mention id="em-833" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7569" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-848" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7674" length="5">fired</trigger>
+      </event_mention>
+<event_mention id="em-863" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7737" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-878" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7799" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-893" type="justice" subtype="fine" realis="other">
+        <trigger source="bolt-eng-DF-170-181137-9031763" offset="7828" length="4">fine</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

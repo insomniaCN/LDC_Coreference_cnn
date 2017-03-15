@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea930000000000000120" doc_id="23b31b507483788112646d4e40ed5f2b" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-479" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="155" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-657" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="614" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-468" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1326" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-489" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2148" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-451" type="life" subtype="injure" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="476" length="6">injury</trigger>
+      </event_mention>
+      <event_mention id="em-526" type="life" subtype="injure" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2010" length="6">injury</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-332" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="735" length="8">lawsuits</trigger>
+      </event_mention>
+      <event_mention id="em-253" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2269" length="8">lawsuits</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-508" type="justice" subtype="sue" realis="actual">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="790" length="10">litigation</trigger>
+      </event_mention>
+      <event_mention id="em-150" type="justice" subtype="sue" realis="actual">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2324" length="10">litigation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-685" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="874" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-239" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1046" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-190" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2408" length="10">bankruptcy</trigger>
+      </event_mention>
+      <event_mention id="em-541" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2580" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-400" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1111" length="4">pays</trigger>
+      </event_mention>
+      <event_mention id="em-993" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2645" length="4">pays</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-126" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1510" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-269">
+      <event_mention id="em-880" type="justice" subtype="sue" realis="other">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="3293" length="5">suing</trigger>
+      </event_mention>
+      <event_mention id="em-879" type="justice" subtype="sue" realis="other">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="3642" length="5">suing</trigger>
+      </event_mention>
+      <event_mention id="em-472" type="justice" subtype="sue" realis="other">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="4017" length="5">suing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-297">
+      <event_mention id="em-140" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="3236" length="3">get</trigger>
+      </event_mention>
+      <event_mention id="em-484" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="3585" length="3">get</trigger>
+      </event_mention>
+      <event_mention id="em-823" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="3960" length="3">get</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-366">
+      <event_mention id="em-406" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="264" length="12">manufactured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-394">
+      <event_mention id="em-867" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="834" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-689" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2368" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-409">
+      <event_mention id="em-330" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1159" length="7">refuses</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-424">
+      <event_mention id="em-163" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1170" length="8">disclose</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-439">
+      <event_mention id="em-828" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1247" length="7">offered</trigger>
+      </event_mention>
+      <event_mention id="em-780" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1343" length="6">advice</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-467">
+      <event_mention id="em-22" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1431" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-765" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="189" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-210" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="483" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-836" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="984" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-844" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1753" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-359" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2017" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-988" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2518" length="6">claims</trigger>
+      </event_mention>
+      <event_mention id="em-795" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1130" length="9">claimants</trigger>
+      </event_mention>
+      <event_mention id="em-940" type="justice" subtype="sue" realis="generic">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="2664" length="9">claimants</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-521">
+      <event_mention id="em-753" type="justice" subtype="sue" realis="other">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="1593" length="5">claim</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-666">
+      <event_mention id="em-372" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="4186" length="6">outcry</trigger>
+      </event_mention>
+      <event_mention id="em-922" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="4436" length="6">outcry</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-694">
+      <event_mention id="em-205" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="23b31b507483788112646d4e40ed5f2b" offset="4619" length="6">outcry</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

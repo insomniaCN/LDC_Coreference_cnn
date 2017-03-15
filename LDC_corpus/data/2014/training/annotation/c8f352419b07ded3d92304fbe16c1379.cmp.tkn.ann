@@ -1,0 +1,39 @@
+T1	Transaction_Transfer-Money 868 872;886 891	made money
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T2	Life_Die 1200 1208	murdered
+E2	Life_Die:T2 
+A2	Realis E2 Generic
+T3	Justice_Release-Parole 1464 1470	parole
+E3	Justice_Release-Parole:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 2355 2359;2373 2378	made money
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Life_Die 2687 2695	murdered
+E5	Life_Die:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Ownership 2804 2809	gives
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Generic
+T7	Movement_Transport-Person 3636 3640	runs
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Money 3815 3822	donated
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+T9	Life_Die 4307 4311	died
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Life_Die 4712 4717	death
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Life_Die 5173 5177	died
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 5258 5262	went
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Life_Die 6040 6046	killed
+E13	Life_Die:T13 
+A13	Realis E13 Actual

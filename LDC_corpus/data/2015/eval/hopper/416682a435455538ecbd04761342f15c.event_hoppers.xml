@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea9c0000000000000139" doc_id="416682a435455538ecbd04761342f15c" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-21" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="602" length="9">purchased</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-800" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="692" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-111" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="926" length="7">tweeted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-845" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="1419" length="7">driving</trigger>
+      </event_mention>
+      <event_mention id="em-847" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="1436" length="7">driving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-928" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="1671" length="8">speeding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-3" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="1838" length="6">chased</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-608" type="conflict" subtype="attack" realis="other">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="1921" length="3">hit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-127" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="416682a435455538ecbd04761342f15c" offset="602" length="9">purchased</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

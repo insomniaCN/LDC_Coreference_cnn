@@ -1,0 +1,121 @@
+<DOC id="NYT_ENG_20130822.0211" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130822/20130822,c905537389b0a6dd2929a49ea39dfb4b.xml">
+<HEADLINE>
+BC-FRONTPAGE-NYT
+</HEADLINE>
+<TEXT>
+<P>
+NEW YORK TIMES stories for Page 1, Friday, Aug. 23. To reach the New York Times News Service, phone 888-346-9867 or 212-556-1927. You can also follow the News Service on Twitter: (at)NYTNewsService.
+</P>
+<P>
+TOP
+</P>
+<P>
+Lede story:
+</P>
+<P>
+SYRIA-ATTACK-RESPONSE (Washington) - The Obama administration intensified its threats Thursday to take action against the Syrian government if the United States concludes that President Bashar Assad’s forces used poison gas in an attack that killed hundreds. At the White House, officials from the Pentagon, State Department and the intelligence agencies met to deliberate over those options, which officials have said could range from airstrikes to the imposition of a no-fly zone. By Mark Landler, Michael R. Gordon, Mark Mazzetti and Thom Shanker.
+</P>
+<P>
+Top center:
+</P>
+<P>
+Refer to:
+</P>
+<P>
+EGYPT-MUBARAK (Cairo) - Egypt’s new rulers moved former President Hosni Mubarak from a prison cell to house arrest at a military hospital Thursday, ending more than two years of incarceration but stopping short of granting him full freedom. His release stoked the anger of the thousands of Islamists and others still protesting in the streets around the country nightly to denounce the military’s ouster and detention last month of Mubarak’s successor, Mohammed Morsi. By David D. Kirkpatrick and Rod Nordland.
+</P>
+<P>
+With photos XNYT18-26.
+</P>
+<P>
+Top left:
+</P>
+<P>
+NASDAQ-OUTAGE (New York) - Trading in a wide array of stocks, including popular ones like Apple and Microsoft, ground to a halt Thursday after a technology problem at the Nasdaq stock exchange. The breakdown appeared to be one of the most significant technology problems to hit a trading world that has become accustomed to glitches. By Nathaniel Popper.
+</P>
+<P>
+With photo XNYT33.
+</P>
+<P>
+NY-POLICE-COUNCIL (New York) - In a rebuke to the Bloomberg administration, the New York City Council voted Thursday to override the vetoes of two bills that will in part greatly increase oversight of the Police Department and its use of stop-and-frisk tactics. The votes amounted to a personal defeat for Mayor Michael R. Bloomberg, who had denounced the legislation as dangerous to New Yorkers, and the actions offered a stark reminder of his diminished ability to influence city politics in the waning months of his administration. By J. David Goodman.
+</P>
+<P>
+With photo XNYT79.
+</P>
+<P>
+FOLD
+</P>
+<P>
+Center:
+</P>
+<P>
+SYRIA-U.S.-PRISONER (Undated) - For seven months, U.S. photographer Matthew Schrier, 35, was a prisoner in Syria of jihadists opposed to President Bashar Assad. Held in bases and prisons run by two Islamist rebel groups, he said, he was robbed, beaten and accused of being a U.S. spy by men who then assumed his identity online. Now in the United States, Schrier has returned with an account of the descent by elements of the anti-Assad opposition into sanctimonious hatred and crime. By C.J. Chivers.
+</P>
+<P>
+BOTTOM
+</P>
+<P>
+Left:
+</P>
+<P>
+DOPING-EXTENT (Undated) - Trying to measure the extent to which performance-enhancing drugs are used by athletes. By Tim Rohan.
+</P>
+<P>
+Center:
+</P>
+<P>
+NEV-AREA51-CONFIRMED (Rachel, Nev.) - Last week the CIA released a classified report on the history of the U-2 spy plane that acknowledged what everyone here has long known: There is a secret military testing base at Groom Lake called Area 51, 150 miles north by car from Las Vegas. The report, released after eight years of prodding by an archivist researching the history of the U-2, made no mention of colonies of alien life, suggesting that the secret base was dedicated to the relatively more mundane task of testing spy planes. By Adam Nagourney.
+</P>
+<P>
+With photo.
+</P>
+<P>
+INSIDE STORIES PROMOTED ON PAGE 1
+</P>
+<P>
+MTV-VIDEO-AWARDS (Undated) - On Sunday night, when MTV’s Video Music Awards show is broadcast live from Barclays Center in Brooklyn for the first time, it will celebrate an art form that seemed to be in decline a decade ago but, directors say, has undergone a renaissance with the rise of YouTube and broadband connections. By James C. McKinley Jr.
+</P>
+<P>
+With photos XNYT61, 62.
+</P>
+<P>
+OBIT-MOTLEY (Undated) - Ron Motley, who served as lead counsel in lawsuits against tobacco companies that yielded the largest civil settlement in U.S. history, died Wednesday. He was 68. By John Schwartz.
+</P>
+<P>
+CALIF-MAYOR-HARASSMENT (Los Angeles) - Embattled San Diego Mayor Bob Filner, who has been accused of inappropriate behavior by more than a dozen women, was expected to resign Friday as part of an agreement with other city officials, local officials close to the mediation effort said. The City Council is expected to meet Friday to approve the deal, which is said to include paying for at least part of Filner’s legal fees. By Jennifer Medina.
+</P>
+<P>
+POLIO-OUTBREAKS (Undated) - The global effort to eradicate polio, a disease that has been on the brink of extinction for years, is facing serious setbacks on two continents. The virus is surging in Somalia and the Horn of Africa, which had been largely free of cases for several years. And a new outbreak has begun in a part of Pakistan that a warlord declared off-limits to vaccinators 14 months ago. By Donald G. McNeil. Jr.
+</P>
+<P>
+With photo XNYT63.
+</P>
+<P>
+U.S.-AFGHAN-KILLINGS (Joint Base Lewis-McChord, Wash.) - Staff Sgt. Robert Bales offered a tearful apology Thursday for gunning down 16 unarmed Afghan civilians inside their homes but said he still could not explain why he had carried out one of the worst U.S. war crimes in years. The unsworn statement from Bales, 40, came on the third day of a hearing to determine whether he should ever be eligible for parole in the March 2012 massacre. By Jack Healy.
+</P>
+<P>
+CAMERON-EXHIBIT-REVIEW (New York) - Karen Rosenberg reviews “Julia Margaret Cameron,” the Metropolitan Museum of Art’s first solo exhibition of the 19th-century photographer’s work.
+</P>
+<P>
+With photos XNYT72-74.
+</P>
+<P>
+BBN-METS-MATSUZAKA (Undated) - Six years after he arrived in the United States as a Japanese sensation and helped the Boston Red Sox win a World Series, pitcher Daisuke Matsuzaka is about to become a member of the New York Mets. By Andrew Keh.
+</P>
+<P>
+NY-MEDICAL-PAROLE (Undated) - The New York State Parole Board ruled Thursday that Anthony D. Marshall, the 89-year-old son of the philanthropist and socialite Brooke Astor, has grown so frail and sick that he will be paroled from prison after serving about 60 days of his sentence of one to three years. By Russ Buettner.
+</P>
+<P>
+With photo XNYT80.
+</P>
+<P>
+GLF-FANS-NOISE (Jersey City, N.J.) - Golf tournaments are generally quiet affairs, where fans are expected to be fluent in the etiquette of a sport that affords silence as each athlete lifts his club, swings through the ball and follows its path. That moment of silence, however, is increasingly being breached. By Karen Crouse.
+</P>
+<P>
+OBAMA-SOLDIER-TIES (Washington) - In more than four years in office, President Barack Obama has met privately with nearly 1,000 men and women injured in Iraq and Afghanistan. Yet his repeated encounters with Sgt. 1st Class Cory Remsburg stand out for bringing a president face to face with the resilience of the wounded and the brutal costs of the wars. By Jackie Calmes.
+</P>
+<P>
+CHINA-BO-TRIAL (Jinan, China) - Bo Xilai, the politician who fell from the heights of China’s elite, took a pugnacious and defiant stand Thursday in the opening session of China’s most closely watched trial in decades, denying that he took millions of dollars in bribes and ridiculing his wife’s testimony against him. By Edward Wong and Jonathan Ansfield.
+</P>
+</TEXT>
+</DOC

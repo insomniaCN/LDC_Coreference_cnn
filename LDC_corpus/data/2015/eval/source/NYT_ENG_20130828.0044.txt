@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130828.0044" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130828/20130828,2f6f9678549c159432b7e5cf810f94b0.xml">
+<HEADLINE>
+SALVADORAN LINKED TO KILLING TO SERVE TIME IN U.S. PRISON
+</HEADLINE>
+<TEXT>
+<P>
+MEXICO CITY - A former colonel in the Salvadoran military accused of planning the killing of six Jesuit priests during that country’s civil war has been sentenced to 21 months in a U.S. prison for immigration violations. The sentence, handed down in Boston on Tuesday, could set the stage for his extradition to Spain, where he would be one of the few top-ranking officers to face trial in the 1989 killings.
+</P>
+<P>
+Five of the six priests were Spanish, and Spain is seeking his extradition because it is unlikely that El Salvador - where an amnesty law has allowed other suspects in the crime to remain free - will prosecute him. If convicted in Spain, he could face up to 30 years in prison.
+</P>
+<P>
+The former colonel, Inocente Orlando Montano, 71, was El Salvador’s vice minister of public safety at the time of the killings, which brought international condemnation. When he was arrested in 2011, he had been living in a Boston suburb for 10 years. He pleaded guilty in September to charges of immigration fraud and perjury related to his application for temporary humanitarian status to remain legally in the United States.
+</P>
+<P>
+Almudena Bernabéu, a lawyer with the Center for Justice and Accountability in San Francisco, which has pursued the case, said that the United States had indicated it would be amenable to extraditing Montano once he served his sentence for immigration fraud. Extradition proceedings could take more than a year.
+</P>
+<P>
+“With the conclusion of this sentencing, the hope is that the United States will, in fact, revise and respond positively to the extradition request,” Bernabéu said.
+</P>
+<P>
+Montano had been granted a special immigration status that shielded him from deportation, which he had received after lying about his military service and the date he entered the United States, prosecutors said.
+</P>
+<P>
+An assistant U.S. attorney, John A. Capin, argued that Montano came to the United States to avoid criminal prosecution for his role in the killings. Montano’s lawyer said that an amnesty was in effect when he left El Salvador, making the former colonel, who he said faced economic hardship at the time, immune to prosecution in his home country.
+</P>
+<P>
+A 1993 U.N. Truth Commission report named Montano a participant in the plot to kill the priests, whom military officers suspected of collaborating with left-wing guerrillas. They, their housekeeper and her teenage daughter were killed in a raid on the Jesuit-run University of Central America in San Salvador.
+</P>
+<P>
+In 2011, a Spanish National Court judge issued arrest warrants for 20 men, including Montano, suspected of participating in the slaying of the priests. The judge also requested the extradition of 15 of the 20 - the main suspects - but the Salvadoran Supreme Court denied that request.
+</P>
+<P>
+“The sentence of 21 months sends a message to human rights abusers that they cannot seek safe haven in the United States and avoid accountability for their actions,” said a statement from the Center for Justice and Accountability.
+</P>
+</TEXT>
+</DOC>

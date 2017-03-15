@@ -1,0 +1,24 @@
+T1	Personnel_Start-Position 102 110	sworn in
+E1	Personnel_Start-Position:T1 
+A1	Realis E1 Actual
+T2	Personnel_Start-Position 257 265	sworn in
+E2	Personnel_Start-Position:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 381 388	becomes
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T4	Personnel_Start-Position 627 635	sworn in
+E4	Personnel_Start-Position:T4 
+A4	Realis E4 Actual
+T5	Personnel_Elect 1945 1948;1977 1985	won election
+E5	Personnel_Elect:T5 
+A5	Realis E5 Actual
+T6	Conflict_Demonstrate 2162 2175	demonstration
+E6	Conflict_Demonstrate:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 1081 1086;1111 1117	raise budget
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Generic
+T8	Personnel_Start-Position 1811 1823	inauguration
+E8	Personnel_Start-Position:T8 
+A8	Realis E8 Actual

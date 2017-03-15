@@ -1,0 +1,115 @@
+T1	Movement_Transport-Person 215 220	STORM
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 306 313	injured
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Conflict_Demonstrate 356 364	protests
+E3	Conflict_Demonstrate:T3 
+A3	Realis E3 Actual
+T4	Conflict_Demonstrate 640 654	demonstrations
+E4	Conflict_Demonstrate:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 764 768	riot
+E5	Conflict_Attack:T5 
+A5	Realis E5 Generic
+T6	Movement_Transport-Person 779 784	storm
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Other
+T7	Movement_Transport-Person 934 938	fled
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 983 990	pursued
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Life_Injure 1074 1081	injured
+E9	Life_Injure:T9 
+A9	Questionable E9 Realis
+A10	Realis E9 Actual
+T10	Movement_Transport-Person 1137 1146	streaming
+E10	Movement_Transport-Person:T10 
+A11	Realis E10 Actual
+T11	Conflict_Demonstrate 1159 1166	protest
+E11	Conflict_Demonstrate:T11 
+A12	Realis E11 Actual
+T12	Conflict_Attack 1171 1180	crackdown
+E12	Conflict_Attack:T12 
+A13	Realis E12 Actual
+T13	Life_Injure 1370 1377	injured
+E13	Life_Injure:T13 
+A14	Realis E13 Actual
+T14	Conflict_Demonstrate 1414 1422	protests
+E14	Conflict_Demonstrate:T14 
+A15	Realis E14 Actual
+T15	Life_Injure 1554 1559	burns
+E15	Life_Injure:T15 
+A16	Realis E15 Actual
+T16	Conflict_Attack 1596 1600	shot
+E16	Conflict_Attack:T16 
+A17	Realis E16 Actual
+T17	Conflict_Attack 1643 1652	crackdown
+E17	Conflict_Attack:T17 
+A18	Realis E17 Actual
+T18	Conflict_Demonstrate 1876 1884	protests
+E18	Conflict_Demonstrate:T18 
+A19	Realis E18 Actual
+T19	Conflict_Demonstrate 1951 1959	protests
+E19	Conflict_Demonstrate:T19 
+A20	Realis E19 Actual
+T20	Conflict_Attack 1989 1995	attack
+E20	Conflict_Attack:T20 
+A21	Realis E20 Actual
+T21	Conflict_Demonstrate 2341 2348	protest
+E21	Conflict_Demonstrate:T21 
+A22	Realis E21 Actual
+T22	Movement_Transport-Person 2600 2610	sending in
+E22	Movement_Transport-Person:T22 
+A23	Realis E22 Actual
+T23	Conflict_Attack 2652 2659	assault
+E23	Conflict_Attack:T23 
+A24	Realis E23 Actual
+T24	Conflict_Demonstrate 2672 2686	demonstrations
+E24	Conflict_Demonstrate:T24 
+A25	Realis E24 Actual
+T25	Movement_Transport-Person 2823 2830	chasing
+E25	Movement_Transport-Person:T25 
+A26	Realis E25 Actual
+T26	Conflict_Attack 2895 2901	firing
+E26	Conflict_Attack:T26 
+A27	Realis E26 Actual
+T27	Conflict_Attack 3000 3006	hurled
+E27	Conflict_Attack:T27 
+A28	Realis E27 Actual
+T28	Conflict_Demonstrate 3055 3060	march
+E28	Conflict_Demonstrate:T28 
+A29	Realis E28 Other
+T29	Conflict_Demonstrate 238 248	PROTESTERS
+E29	Conflict_Demonstrate:T29 
+A31	Realis E29 Actual
+T30	Conflict_Demonstrate 803 810	protest
+E30	Conflict_Demonstrate:T30 
+A32	Realis E30 Actual
+T31	Conflict_Attack 1089 1093	raid
+E31	Conflict_Attack:T31 
+A33	Realis E31 Actual
+T32	Conflict_Demonstrate 1724 1734	protesters
+E32	Conflict_Demonstrate:T32 
+A34	Realis E32 Actual
+T33	Conflict_Demonstrate 2418 2431	demonstrators
+E33	Conflict_Demonstrate:T33 
+A35	Realis E33 Actual
+T34	Conflict_Demonstrate 2775 2785	protesters
+E34	Conflict_Demonstrate:T34 
+A36	Realis E34 Actual
+T35	Conflict_Demonstrate 2831 2841	protesters
+E35	Conflict_Demonstrate:T35 
+A37	Realis E35 Actual
+T36	Conflict_Demonstrate 2951 2964	demonstrators
+E36	Conflict_Demonstrate:T36 
+A38	Realis E36 Actual
+T37	Conflict_Demonstrate 2989 2999	protesters
+E37	Conflict_Demonstrate:T37 
+A39	Realis E37 Actual
+T38	Conflict_Demonstrate 3122 3132	protesters
+E38	Conflict_Demonstrate:T38 
+A30	Realis E38 Actual

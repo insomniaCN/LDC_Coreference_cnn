@@ -1,0 +1,96 @@
+T1	Justice_Sue 1182 1189	lawsuit
+E65	Justice_Sue:T1
+A1	Realis E65 Actual
+T2	Personnel_Elect 771 778	elected
+E95	Personnel_Elect:T2
+A2	Realis E95 Generic
+T3	Contact_Contact 2366 2371	argue
+E178	Contact_Contact:T3
+A3	Realis E178 Actual
+T4	Contact_Contact 4520 4527	alluded
+E181	Contact_Contact:T4
+A4	Realis E181 Actual
+T5	Transaction_Transfer-Money 500 503	pay
+E215	Transaction_Transfer-Money:T5
+A5	Realis E215 Other
+T6	Contact_Contact 4392 4397	asked
+E241	Contact_Contact:T6
+A6	Realis E241 Actual
+T7	Transaction_Transfer-Money 2920 2928	spending
+E256	Transaction_Transfer-Money:T7
+A7	Realis E256 Generic
+T8	Contact_Contact 794 797	say
+E267	Contact_Contact:T8
+A8	Realis E267 Actual
+T9	Personnel_End-Position 4194 4198	fire
+E311	Personnel_End-Position:T9
+A9	Realis E311 Other
+T10	Justice_Sue 2989 2993	sues
+E377	Justice_Sue:T10
+A10	Realis E377 Generic
+T11	Contact_Broadcast 3221 3228	writing
+E412	Contact_Broadcast:T11
+A11	Realis E412 Actual
+T12	Contact_Broadcast 1769 1777	releases
+E473	Contact_Broadcast:T12
+A12	Realis E473 Actual
+T13	Contact_Contact 1992 2004	notification
+E498	Contact_Contact:T13
+A13	Realis E498 Other
+T14	Contact_Contact 2698 2702	said
+E504	Contact_Contact:T14
+A14	Realis E504 Actual
+T15	Contact_Contact 1242 1246	said
+E526	Contact_Contact:T15
+A15	Realis E526 Actual
+T16	Transaction_Transfer-Money 2600 2608	spending
+E544	Transaction_Transfer-Money:T16
+A16	Realis E544 Generic
+T17	Contact_Contact 921 927	saying
+E559	Contact_Contact:T17
+A17	Realis E559 Actual
+T18	Contact_Contact 2793 2803	questioned
+E566	Contact_Contact:T18
+A18	Realis E566 Actual
+T19	Transaction_Transaction 4092 4096	deal
+E615	Transaction_Transaction:T19
+A19	Realis E615 Other
+T20	Justice_Appeal 3121 3128	Appeals
+E643	Justice_Appeal:T20
+A20	Realis E643 Generic
+T21	Justice_Sue 187 191	SUES
+E663	Justice_Sue:T21
+A21	Realis E663 Actual
+T22	Justice_Sue 1412 1419	lawsuit
+E683	Justice_Sue:T22
+A22	Realis E683 Actual
+T23	Contact_Contact 2075 2079	said
+E713	Contact_Contact:T23
+A23	Realis E713 Actual
+T24	Justice_Sue 381 388	lawsuit
+E793	Justice_Sue:T24
+A24	Realis E793 Actual
+T25	Personnel_End-Position 562 568	former
+E820	Personnel_End-Position:T25
+A25	Realis E820 Actual
+T26	Personnel_Start-Position 2299 2307	sworn in
+E823	Personnel_Start-Position:T26
+A26	Realis E823 Actual
+T27	Contact_Broadcast 3962 3972	publicized
+E860	Contact_Broadcast:T27
+A27	Realis E860 Actual
+T28	Transaction_Transaction 2157 2163	wasted
+E866	Transaction_Transaction:T28
+A28	Realis E866 Actual
+T29	Transaction_Transfer-Money 2512 2519	payroll
+E893	Transaction_Transfer-Money:T29
+A29	Realis E893 Generic
+T30	Personnel_Nominate 3554 3564	nomination
+E907	Personnel_Nominate:T30
+A30	Realis E907 Other
+T31	Contact_Broadcast 4436 4446	statements
+E920	Contact_Broadcast:T31
+A31	Realis E920 Actual
+T32	Personnel_Start-Position 2233 2245	stepped into
+E999	Personnel_Start-Position:T32
+A32	Realis E999 Actual

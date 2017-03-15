@@ -1,0 +1,153 @@
+T1	Personnel_End-Position 521 528	onetime
+E5	Personnel_End-Position:T1
+A1	Realis E5 Actual
+T2	Life_Marry 549 556	married
+E21	Life_Marry:T2
+A2	Realis E21 Actual
+T3	Transaction_Transfer-Ownership 3681 3686	gifts
+E23	Transaction_Transfer-Ownership:T3
+A3	Realis E23 Other
+T4	Contact_Contact 2866 2870	told
+E45	Contact_Contact:T4
+A4	Realis E45 Actual
+T5	Personnel_End-Position 987 993	resign
+E68	Personnel_End-Position:T5
+A5	Realis E68 Actual
+T6	Life_Marry 2213 2220	married
+E83	Life_Marry:T6
+A6	Realis E83 Other
+T7	Justice_Trial-Hearing 1738 1745	testify
+E84	Justice_Trial-Hearing:T7
+A7	Realis E84 Generic
+T8	Personnel_End-Position 1884 1890	former
+E98	Personnel_End-Position:T8
+A8	Realis E98 Actual
+T9	Transaction_Transaction 2439 2447	offering
+E127	Transaction_Transaction:T9
+A9	Realis E127 Other
+T10	Life_Marry 2233 2241	ceremony
+E131	Life_Marry:T10
+A10	Realis E131 Other
+T11	Justice_Charge-Indict 2966 2973	charged
+E177	Justice_Charge-Indict:T11
+A11	Realis E177 Other
+T12	Justice_Trial-Hearing 3114 3119	trial
+E205	Justice_Trial-Hearing:T12
+A12	Realis E205 Other
+T13	Movement_Transport-Person 378 382	trip
+E288	Movement_Transport-Person:T13
+A13	Realis E288 Other
+T14	Life_Marry 186 190	WEDS
+E290	Life_Marry:T14
+A14	Realis E290 Actual
+T15	Movement_Transport-Person 1550 1556	walked
+E319	Movement_Transport-Person:T15
+A15	Realis E319 Actual
+T16	Transaction_Transaction 1863 1869	bribes
+E324	Transaction_Transaction:T16
+A16	Realis E324 Other
+T17	Contact_Contact 3234 3240	saying
+E342	Contact_Contact:T17
+A17	Realis E342 Actual
+T18	Personnel_End-Position 456 462	former
+E359	Personnel_End-Position:T18
+A18	Realis E359 Actual
+T19	Contact_Contact 2081 2091	directions
+E400	Contact_Contact:T19
+A19	Realis E400 Actual
+T20	Justice_Trial-Hearing 1942 1946	case
+E413	Justice_Trial-Hearing:T20
+A20	Realis E413 Actual
+T21	Contact_Contact 1661 1665	told
+E451	Contact_Contact:T21
+A21	Realis E451 Actual
+T22	Contact_Correspondence 3328 3333	calls
+E481	Contact_Correspondence:T22
+A22	Realis E481 Generic
+T23	Contact_Contact 1780 1784	said
+E502	Contact_Contact:T23
+A23	Realis E502 Actual
+T24	Transaction_Transaction 1221 1226	bribe
+E525	Transaction_Transaction:T24
+A24	Realis E525 Other
+T25	Justice_Charge-Indict 1051 1058	charged
+E526	Justice_Charge-Indict:T25
+A25	Realis E526 Actual
+T26	Contact_Contact 2094 2098	said
+E529	Contact_Contact:T26
+A26	Realis E529 Actual
+T27	Transaction_Transfer-Ownership 3569 3577	receipts
+E540	Transaction_Transfer-Ownership:T27
+A27	Realis E540 Actual
+T28	Contact_Meet 1738 1745	testify
+E558	Contact_Meet:T28
+A28	Realis E558 Generic
+T29	Justice_Trial-Hearing 217 221	CASE
+E577	Justice_Trial-Hearing:T29
+A29	Realis E577 Actual
+T30	Contact_Contact 3152 3156	told
+E593	Contact_Contact:T30
+A30	Realis E593 Actual
+T31	Contact_Contact 2625 2632	telling
+E619	Contact_Contact:T31
+A31	Realis E619 Actual
+T32	Contact_Contact 3472 3476	said
+E632	Contact_Contact:T32
+A32	Realis E632 Actual
+T33	Personnel_End-Position 172 178	FORMER
+E637	Personnel_End-Position:T33
+A33	Realis E637 Actual
+T34	Life_Marry 569 577	ceremony
+E680	Life_Marry:T34
+A34	Realis E680 Actual
+T35	Contact_Broadcast 3209 3218	statement
+E752	Contact_Broadcast:T35
+A35	Realis E752 Other
+T36	Transaction_Transfer-Money 3569 3577	receipts
+E754	Transaction_Transfer-Money:T36
+A36	Realis E754 Actual
+T37	Transaction_Transaction 1455 1462	bribing
+E768	Transaction_Transaction:T37
+A37	Realis E768 Other
+T38	Contact_Contact 2885 2895	explaining
+E771	Contact_Contact:T38
+A38	Realis E771 Actual
+T39	Transaction_Transaction 1302 1308	offers
+E795	Transaction_Transaction:T39
+A39	Realis E795 Other
+T40	Transaction_Transaction 1934 1941	bribery
+E814	Transaction_Transaction:T40
+A40	Realis E814 Actual
+T41	Contact_Contact 3035 3044	professed
+E817	Contact_Contact:T41
+A41	Realis E817 Actual
+T42	Transaction_Transaction 3446 3454	peddling
+E829	Transaction_Transaction:T42
+A42	Realis E829 Generic
+T43	Justice_Arrest-Jail 3539 3545	arrest
+E838	Justice_Arrest-Jail:T43
+A43	Realis E838 Actual
+T44	Justice_Trial-Hearing 3795 3799	case
+E857	Justice_Trial-Hearing:T44
+A44	Realis E857 Actual
+T45	Life_Marry 767 775	marriage
+E860	Life_Marry:T45
+A45	Realis E860 Actual
+T46	Life_Divorce 1163 1171	divorced
+E862	Life_Divorce:T46
+A46	Realis E862 Actual
+T47	Transaction_Transaction 211 216	BRIBE
+E880	Transaction_Transaction:T47
+A47	Realis E880 Actual
+T48	Movement_Transport-Person 4044 4048	tour
+E895	Movement_Transport-Person:T48
+A48	Realis E895 Generic
+T49	Justice_Release-Parole 3067 3075	released
+E915	Justice_Release-Parole:T49
+A49	Realis E915 Actual
+T50	Contact_Broadcast 604 612	reported
+E948	Contact_Broadcast:T50
+A50	Realis E948 Actual
+T51	Justice_Arrest-Jail 3101 3105	jail
+E972	Justice_Arrest-Jail:T51
+A51	Realis E972 Actual

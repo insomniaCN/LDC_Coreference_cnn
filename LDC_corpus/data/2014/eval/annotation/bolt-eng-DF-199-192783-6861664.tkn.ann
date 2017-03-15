@@ -1,0 +1,39 @@
+T2	Personnel_Elect 598 601	win
+E2	Personnel_Elect:T2 
+A2	Realis E2 Other
+T5	Personnel_Elect 985 989	race
+E5	Personnel_Elect:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 1789 1792	war
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 1878 1886	spending
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Life_Die 1293 1297	dead
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T10	Personnel_Elect 2285 2293	elective
+E10	Personnel_Elect:T10 
+A10	Realis E10 Generic
+T11	Conflict_Attack 2470 2478	invasion
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Personnel_Elect 2546 2554	elective
+E12	Personnel_Elect:T12 
+A12	Realis E12 Generic
+T14	Transaction_Transfer-Money 2856 2859	pay
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Other
+T16	Personnel_Elect 3212 3215	win
+E16	Personnel_Elect:T16 
+A16	Realis E16 Other
+T17	Conflict_Attack 3327 3330	war
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T1	Conflict_Demonstrate 1948 1955	protest
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Other
+T3	Personnel_Elect 3431 3449	getting more votes
+E3	Personnel_Elect:T3 
+A3	Realis E3 Other

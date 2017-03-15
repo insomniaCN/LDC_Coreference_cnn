@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20131001.0151" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20131001/20131001,9dea32423b73721a15be358de07fd990.xml">
+<HEADLINE>
+ALLY OF IVORY COAST STRONGMAN SOUGHT BY INTERNATIONAL COURT
+</HEADLINE>
+<TEXT>
+<P>
+DAKAR, Senegal - Charles Blé Goudé, a crucial ally of Laurent Gbagbo, the Ivory Coast strongman indicted on charges of crimes against humanity, is being sought on similar charges, the International Criminal Court said Tuesday.
+</P>
+<P>
+Blé Goudé played a central role in Gbagbo’s efforts to stay in power by force after his defeat in presidential elections in November 2010, recruiting and arming youths who went on to beat and sometimes murder opponents in the economic capital, Abidjan. He was known as the “general of the streets,” and the youth militia he founded, the Jeunes Patriotes, or Young Patriots, was notorious for its brutality, extortionate checkpoints and frenzied rallies presided over by Blé Goudé.
+</P>
+<P>
+An indictment against him, unsealed Tuesday by the International Criminal Court in The Hague, Netherlands, has been pending since December 2011, eight months after he fled Ivory Coast when Gbagbo, the former president, was ousted by the French military. Blé Goudé was subsequently arrested in Ghana and extradited to Ivory Coast in January of this year.
+</P>
+<P>
+The indictment accuses him of crimes of humanity including murder and rape and calls him a member of Gbagbo’s inner circle who met with him to receive instructions and formulate plans, playing “a key role in recruiting, enlisting, arming, training and integrating thousands of volunteers” into the army.
+</P>
+<P>
+The wounds of the brief but bloody 2010-11 civil war - more than 3,000 people died - in Ivory Coast, in which Blé Goudé participated actively, are not healed. Rural warlords who helped bring Gbagbo’s presidential opponent, Alassane Ouattara, to power still play important military and economic roles, notably in smuggling and in other “predatory economic activities,” according to a report by a United Nations group of experts in April that underlined the country’s political fragility. Gbagbo’s partisans remain armed; about $400 million in cocoa beans - Ivory Coast is the world’s leading producer and was once West Africa’s economic powerhouse - was lost to smuggling in 2011-12, according to the report.
+</P>
+<P>
+Long before the civil war, the Jeunes Patriotes had several times been mobilized against forces perceived to be threatening Gbagbo’s power, including the French and the United Nations, with violent results.
+</P>
+<P>
+Blé Goudé is now being held by the authorities in Ivory Coast, and it is not clear whether they will release him to The Hague. Eleven days ago they announced that they would not be sending Gbagbo’s wife, Simone, also under indictment, to The Hague, but instead would try her at home.
+</P>
+<P>
+Human rights activists in Ivory Coast said they doubted that Blé Goudé could receive a fair trial in that country, pointing out, for instance, that his lawyer there has no access to him. In addition, some of the very rebel leaders who helped Ouattara gain power are accused of crimes similar to those Gbagbo and his associates are accused of. But so far they have not been arrested.
+</P>
+<P>
+“We think justice in Ivory Coast is victors’ justice,” said Hervé Gouamene, Blé Goudé’s lawyer in Abidjan. “Everyone knows crimes were committed on the other side, too. There is no impartiality.”
+</P>
+</TEXT>
+</DOC>

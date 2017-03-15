@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8f3130000000000000003" doc_id="3ef23b47977fd4da6f8ad1503d52731e" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-91" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="157" length="4">date</trigger>
+      </event_mention>
+      <event_mention id="em-666" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="715" length="4">show</trigger>
+      </event_mention>
+      <event_mention id="em-330" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="1087" length="4">date</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-935" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="213" length="4">went</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-64" type="movement" subtype="transportperson" realis="other">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="274" length="2">go</trigger>
+      </event_mention>
+      <event_mention id="em-210" type="movement" subtype="transportperson" realis="other">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="890" length="5">going</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-889" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="490" length="8">messaged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-892" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="523" length="7">calling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-312" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="545" length="9">answering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-466" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="608" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-973" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="818" length="3">let</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-141">
+      <event_mention id="em-625" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="1112" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-731" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="1380" length="6">seeing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-317" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="1595" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-423" type="movement" subtype="transportperson" realis="other">
+        <trigger source="3ef23b47977fd4da6f8ad1503d52731e" offset="295" length="7">back to</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,84 @@
+T1	Justice_Convict 66 75	Convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Life_Die 76 84	murderer
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Execute 85 93	executed
+E3	Justice_Execute:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 215 224	convicted
+E4	Justice_Convict:T4 
+A4	Realis E4 Actual
+T5	Life_Die 225 233	murderer
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Justice_Execute 238 246	executed
+E6	Justice_Execute:T6 
+A6	Realis E6 Actual
+T7	Life_Die 366 369	die
+E7	Life_Die:T7 
+A7	Realis E7 Generic
+T9	Justice_Execute 427 439	put to death
+E9	Justice_Execute:T9 
+A9	Realis E9 Actual
+T10	Justice_Execute 497 505	executed
+E10	Justice_Execute:T10 
+A10	Realis E10 Actual
+T11	Justice_Execute 573 578	death
+E11	Justice_Execute:T11 
+A11	Realis E11 Generic
+T15	Life_Die 628 634	lethal
+E15	Life_Die:T15 
+A15	Realis E15 Generic
+T16	Justice_Sentence 777 786	sentenced
+E16	Justice_Sentence:T16 
+A16	Realis E16 Actual
+T17	Justice_Execute 790 795	death
+E17	Justice_Execute:T17 
+A17	Realis E17 Actual
+T18	Life_Die 809 815	murder
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Life_Die 870 877	killing
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Life_Divorce 898 904	former
+E20	Life_Divorce:T20 
+A20	Realis E20 Actual
+T21	Life_Die 998 1004	murder
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Life_Die 1113 1118	Death
+E22	Life_Die:T22 
+A22	Realis E22 Actual
+T24	Justice_Execute 1286 1294	executed
+E24	Justice_Execute:T24 
+A24	Realis E24 Generic
+T26	Justice_Execute 1355 1360	death
+E26	Justice_Execute:T26 
+A26	Realis E26 Generic
+T27	Justice_Sentence 1361 1368	penalty
+E27	Justice_Sentence:T27 
+A27	Realis E27 Generic
+T28	Justice_Convict 1401 1408	convict
+E28	Justice_Convict:T28 
+A28	Realis E28 Actual
+T29	Justice_Execute 1409 1421	put to death
+E29	Justice_Execute:T29 
+A29	Realis E29 Actual
+T30	Justice_Execute 1527 1535	executed
+E30	Justice_Execute:T30 
+A30	Realis E30 Actual
+T31	Life_Die 1539 1545	lethal
+E31	Life_Die:T31 
+A31	Realis E31 Generic
+T13	Justice_Arrest-Jail 856 865	in prison
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 959 962	met
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T23	Life_Die 1647 1654;1658 1663	claimed lives
+E23	Life_Die:T23 
+A23	Realis E23 Actual

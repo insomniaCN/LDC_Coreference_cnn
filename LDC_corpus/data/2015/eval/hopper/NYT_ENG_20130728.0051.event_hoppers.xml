@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea720000000000000067" doc_id="NYT_ENG_20130728.0051" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-998" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130728.0051" offset="536" length="9">elections</trigger>
+      </event_mention>
+      <event_mention id="em-857" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130728.0051" offset="1103" length="8">election</trigger>
+      </event_mention>
+      <event_mention id="em-719" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130728.0051" offset="1423" length="8">election</trigger>
+      </event_mention>
+      <event_mention id="em-583" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130728.0051" offset="2540" length="8">Election</trigger>
+      </event_mention>
+      <event_mention id="em-344" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130728.0051" offset="2603" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-963" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="1052" length="8">returned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-297" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="1066" length="5">exile</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-109" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130728.0051" offset="716" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-562" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130728.0051" offset="1113" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-270" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="1145" length="4">came</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-905" type="business" subtype="mergeorg" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="1551" length="6">merged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-594" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="1571" length="4">form</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-881" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130728.0051" offset="1778" length="8">salaries</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-994" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130728.0051" offset="1796" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-141" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130728.0051" offset="1869" length="4">wage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-500" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130728.0051" offset="2112" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-961" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130728.0051" offset="2183" length="6">income</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-755" type="transaction" subtype="transferownership" realis="generic" ways="involuntaryforce">
+        <trigger source="NYT_ENG_20130728.0051" offset="2418" length="8">seizures</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-285">
+      <event_mention id="em-457" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130728.0051" offset="2468" length="5">given</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-313">
+      <event_mention id="em-302" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130728.0051" offset="2567" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-341">
+      <event_mention id="em-569" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="185" length="4">WINS</trigger>
+      </event_mention>
+      <event_mention id="em-913" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="492" length="3">won</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="794" length="3">won</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-382">
+      <event_mention id="em-274" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130728.0051" offset="888" length="8">replaced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-397">
+      <event_mention id="em-21" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130728.0051" offset="1252" length="3">won</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

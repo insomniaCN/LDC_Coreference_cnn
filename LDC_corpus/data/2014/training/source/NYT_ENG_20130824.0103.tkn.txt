@@ -1,0 +1,31 @@
+<DOC id= " NYT_ENG_20130824.0103 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130824 / 20130824,7259dd635e56 a207 a2 a292 a9cd4f4332 . xml " > 
+<HEADLINE> 
+FALLEN CHINESE OFFICIAL FACES HIS ACCUSER DURING CORRUPTION TRIAL 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+JINAN , China - In a dramatic high point of his trial , Bo Xilai , the fallen Communist Party star , faced off in court Saturday with Wang Lijun , the former police chief whose flight to a U.S. consulate last year set off the biggest scandal to shake the party in decades .
+< / P> 
+<P> 
+It was the first time the two were known to have seen each other since February 2012 , when Wang fled the southwest metropolis of Chongqing , which Bo governed for four years , for the nearby consulate . There , Wang told U.S. officials that Bo ’s wife had poisoned a British businessman , Neil Heywood , and that Bo was now persecuting Wang because he knew about the murder .
+< / P> 
+<P> 
+Wang , who is serving a 15 - year prison sentence for defection and other crimes , took the witness stand Saturday for the prosecution . In glasses , white shirt and neatly parted hair , he appeared much as he did in September at his own trial . Bo stared at him and took blame , to a degree , for the episode leading to Wang ’s flight .
+< / P> 
+<P> 
+“ I made mistakes ; I am very ashamed and I am willing to take appropriate responsibility , but whether it ’s a crime or not a crime is another matter , ” Bo testified . He added that he had not bent the law to protect his wife , because he did not believe that she had killed Heywood , and that he demoted Wang right before he fled for the consulate because he believed that Wang was unstable .
+< / P> 
+<P> 
+Wang testified that Bo ’s wife , Gu Kailai , secretly confessed to him Nov . 14 , 2011 , that she had just poisoned Heywood . Wang was close to Gu and kept this a secret for a while , but in late January 2012 , he said , he told Bo that his wife had murdered Heywood .
+< / P> 
+<P> 
+Bo is charged with abuse of power for demoting Wang and , prosecutors say , taking other steps to obstruct justice in the Heywood matter . He is also charged with taking bribes and embezzling amounts totaling $ 4.4 million . The abuse of power charge is the last one to be addressed in the trial , which began Thursday and is expected to run at least through Sunday . Bo has pleaded not guilty to all charges .
+< / P> 
+<P> 
+Bo was dismissed from his post in March 2012 . Soon afterward , the murder scandal became public . Gu was convicted of murder a year ago and given a suspended death sentence , essentially life in prison .
+< / P> 
+< / TEXT> 
+< / DOC

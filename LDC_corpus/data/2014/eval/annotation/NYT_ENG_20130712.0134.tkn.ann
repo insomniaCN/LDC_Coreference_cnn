@@ -1,0 +1,186 @@
+T1	Personnel_Start-Position 425 434	appointed
+E1	Personnel_Start-Position:T1 
+T2	Personnel_Nominate 479 488	nominated
+E2	Personnel_Nominate:T2 
+A1	Realis E2 Actual
+T3	Justice_Trial-Hearing 624 629	trial
+E3	Justice_Trial-Hearing:T3 
+A2	Realis E3 Actual
+T4	Personnel_End-Position 694 700	former
+E4	Personnel_End-Position:T4 
+A3	Realis E4 Actual
+T5	Justice_Sentence 729 739	sentencing
+E5	Justice_Sentence:T5 
+A4	Realis E5 Actual
+T6	Justice_Arrest-Jail 757 766	in prison
+E6	Justice_Arrest-Jail:T6 
+A5	Realis E6 Other
+T7	Justice_Fine 772 777	fines
+E7	Justice_Fine:T7 
+A6	Realis E7 Actual
+T8	Justice_Charge-Indict 817 824	charges
+E8	Justice_Charge-Indict:T8 
+A7	Realis E8 Actual
+T9	Justice_Trial-Hearing 878 883	trial
+E9	Justice_Trial-Hearing:T9 
+A8	Realis E9 Actual
+T10	Justice_Acquit 1076 1085	acquitted
+E10	Justice_Acquit:T10 
+A9	Realis E10 Actual
+T11	Justice_Trial-Hearing 1093 1100	retrial
+E11	Justice_Trial-Hearing:T11 
+A10	Realis E11 Actual
+T12	Personnel_Start-Position 1137 1146	appointed
+E12	Personnel_Start-Position:T12 
+A11	Realis E12 Actual
+T13	Personnel_Nominate 1193 1202	nominated
+E13	Personnel_Nominate:T13 
+A12	Realis E13 Actual
+T14	Justice_Sue 1373 1380	lawsuit
+E14	Justice_Sue:T14 
+A13	Realis E14 Actual
+T15	Transaction_Transfer-Ownership 1436 1445	hand over
+E15	Transaction_Transfer-Ownership:T15 
+A14	Realis E15 Other
+T16	Conflict_Attack 1472 1478	strike
+E16	Conflict_Attack:T16 
+A15	Realis E16 Generic
+T17	Transaction_Transfer-Ownership 1531 1540	hand over
+E17	Transaction_Transfer-Ownership:T17 
+A16	Realis E17 Other
+T18	Justice_Trial-Hearing 1869 1874	trial
+E18	Justice_Trial-Hearing:T18 
+A17	Realis E18 Other
+T19	Personnel_Start-Position 1929 1938	appointed
+E19	Personnel_Start-Position:T19 
+A18	Realis E19 Actual
+T20	Personnel_Start-Position 2000 2009	appointed
+E20	Personnel_Start-Position:T20 
+A19	Realis E20 Actual
+T21	Personnel_End-Position 2067 2074	retired
+E21	Personnel_End-Position:T21 
+A20	Realis E21 Actual
+T22	Personnel_Nominate 2142 2152	nomination
+E22	Personnel_Nominate:T22 
+T23	Conflict_Attack 2380 2386	attack
+E23	Conflict_Attack:T23 
+A21	Realis E23 Other
+T24	Personnel_Start-Position 2453 2462	appointed
+E24	Personnel_Start-Position:T24 
+A22	Realis E24 Actual
+T25	Personnel_Start-Position 2517 2526	appointed
+E25	Personnel_Start-Position:T25 
+A23	Realis E25 Actual
+T26	Personnel_Nominate 2674 2684	nomination
+E26	Personnel_Nominate:T26 
+A24	Realis E26 Actual
+T27	Personnel_Start-Position 2727 2736	appointed
+E27	Personnel_Start-Position:T27 
+T28	Personnel_Nominate 2780 2789	nominated
+E28	Personnel_Nominate:T28 
+A25	Realis E28 Actual
+T29	Justice_Appeal 3158 3164	appeal
+E29	Justice_Appeal:T29 
+A26	Realis E29 Actual
+T30	Personnel_Start-Position 3413 3422	appointed
+E30	Personnel_Start-Position:T30 
+A27	Realis E30 Actual
+T31	Personnel_Nominate 3466 3475	nominated
+E31	Personnel_Nominate:T31 
+A28	Realis E31 Actual
+T32	Personnel_Start-Position 4050 4059	appointed
+E32	Personnel_Start-Position:T32 
+A29	Realis E32 Actual
+T33	Personnel_Nominate 4104 4113	nominated
+E33	Personnel_Nominate:T33 
+A30	Realis E33 Actual
+T34	Life_Die 4390 4396	deadly
+E34	Life_Die:T34 
+A31	Realis E34 Generic
+T35	Conflict_Attack 4385 4389;4397 4402	used force
+E35	Conflict_Attack:T35 
+A32	Realis E35 Actual
+T36	Conflict_Attack 4408 4413	siege
+E36	Conflict_Attack:T36 
+A33	Realis E36 Actual
+T37	Personnel_Start-Position 4536 4545	appointed
+E37	Personnel_Start-Position:T37 
+A34	Realis E37 Actual
+T38	Personnel_Nominate 4588 4597	nominated
+E38	Personnel_Nominate:T38 
+A35	Realis E38 Actual
+T39	Personnel_Start-Position 5117 5126	appointed
+E39	Personnel_Start-Position:T39 
+A36	Realis E39 Actual
+T40	Personnel_Nominate 5167 5176	nominated
+E40	Personnel_Nominate:T40 
+A37	Realis E40 Actual
+T41	Personnel_Nominate 5317 5327	nomination
+E41	Personnel_Nominate:T41 
+A38	Realis E41 Actual
+T42	Personnel_Start-Position 5573 5582	appointed
+E42	Personnel_Start-Position:T42 
+A39	Realis E42 Actual
+T43	Justice_Sue 5694 5701;5714 5719	lawsuit filed
+E43	Justice_Sue:T43 
+A40	Realis E43 Actual
+T44	Justice_Sue 5802 5809	lawsuit
+E44	Justice_Sue:T44 
+A41	Realis E44 Actual
+T45	Justice_Sue 5841 5845	sued
+E45	Justice_Sue:T45 
+A42	Realis E45 Other
+T46	Personnel_Start-Position 5987 5996	appointed
+E46	Personnel_Start-Position:T46 
+A43	Realis E46 Actual
+T47	Personnel_Nominate 6037 6046	nominated
+E47	Personnel_Nominate:T47 
+A44	Realis E47 Actual
+T48	Justice_Trial-Hearing 6381 6386	trial
+E48	Justice_Trial-Hearing:T48 
+A45	Realis E48 Actual
+T49	Justice_Sentence 6444 6454	sentencing
+E49	Justice_Sentence:T49 
+A46	Realis E49 Actual
+T50	Justice_Arrest-Jail 6471 6480	in prison
+E50	Justice_Arrest-Jail:T50 
+A47	Realis E50 Other
+T51	Transaction_Transfer-Ownership 6629 6632	rob
+E51	Transaction_Transfer-Ownership:T51 
+A48	Realis E51 Other
+T52	Contact_Meet 5915 5920	lying
+E52	Contact_Meet:T52 
+A49	Realis E52 Actual
+T53	Contact_Meet 3709 3717	refusing
+E53	Contact_Meet:T53 
+A50	Realis E53 Actual
+T54	Contact_Meet 3760 3764	jury
+E54	Contact_Meet:T54 
+A51	Realis E54 Actual
+T55	Contact_Communicate 3116 3120	said
+E55	Contact_Communicate:T55 
+A52	Realis E55 Actual
+T56	Justice_Arrest-Jail 1841 1850	detainees
+E56	Justice_Arrest-Jail:T56 
+A53	Realis E56 Actual
+T57	Contact_Communicate 1853 1862	petitions
+E57	Contact_Communicate:T57 
+A54	Realis E57 Actual
+T58	Conflict_Attack 1563 1570	strikes
+E58	Conflict_Attack:T58 
+A55	Realis E58 Actual
+T59	Justice_Trial-Hearing 1052 1057	trial
+E59	Justice_Trial-Hearing:T59 
+A56	Realis E59 Actual
+T60	Justice_Trial-Hearing 959 967	mistrial
+E60	Justice_Trial-Hearing:T60 
+A57	Realis E60 Actual
+T61	Contact_Meet 1019 1023	jury
+E61	Contact_Meet:T61 
+A58	Realis E61 Actual
+T62	Contact_Meet 870 877	perjury
+E62	Contact_Meet:T62 
+A59	Realis E62 Actual
+A60	Realis E1 Actual
+A61	Realis E22 Actual
+A62	Realis E27 Actual

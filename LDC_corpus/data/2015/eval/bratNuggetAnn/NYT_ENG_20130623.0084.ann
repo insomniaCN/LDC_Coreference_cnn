@@ -1,0 +1,60 @@
+T1	Contact_Broadcast 956 960	told
+E21	Contact_Broadcast:T1
+A1	Realis E21 Actual
+T2	Contact_Contact 1841 1845	said
+E34	Contact_Contact:T2
+A2	Realis E34 Actual
+T3	Personnel_End-Position 460 471	resignation
+E62	Personnel_End-Position:T3
+A3	Realis E62 Actual
+T4	Personnel_End-Position 1411 1419	resigned
+E111	Personnel_End-Position:T4
+A4	Realis E111 Actual
+T5	Personnel_End-Position 1233 1237	quit
+E193	Personnel_End-Position:T5
+A5	Realis E193 Actual
+T6	Contact_Contact 1014 1019	asked
+E199	Contact_Contact:T6
+A6	Realis E199 Actual
+T7	Movement_Transport-Person 786 790	back
+E232	Movement_Transport-Person:T7
+A7	Realis E232 Other
+T8	Contact_Contact 1387 1391	said
+E263	Contact_Contact:T8
+A8	Realis E263 Actual
+T9	Personnel_Start-Position 555 565	sworn into
+E362	Personnel_Start-Position:T9
+A9	Realis E362 Actual
+T10	Personnel_End-Position 1120 1128	replaced
+E526	Personnel_End-Position:T10
+A10	Realis E526 Actual
+T11	Personnel_Start-Position 1120 1128	replaced
+E675	Personnel_Start-Position:T11
+A11	Realis E675 Actual
+T12	Personnel_Start-Position 1635 1646	took office
+E683	Personnel_Start-Position:T12
+A12	Realis E683 Actual
+T13	Personnel_End-Position 1948 1959	resignation
+E686	Personnel_End-Position:T13
+A13	Realis E686 Actual
+T14	Contact_Contact 828 833	talks
+E718	Contact_Contact:T14
+A14	Realis E718 Other
+T15	Contact_Contact 2154 2158	said
+E767	Contact_Contact:T15
+A15	Realis E767 Actual
+T16	Personnel_End-Position 203 214	RESIGNATION
+E855	Personnel_End-Position:T16
+A16	Realis E855 Actual
+T17	Personnel_Nominate 1776 1782	tapped
+E864	Personnel_Nominate:T17
+A17	Realis E864 Actual
+T18	Contact_Contact 519 524	asked
+E933	Contact_Contact:T18
+A18	Realis E933 Actual
+T19	Personnel_End-Position 528 532	quit
+E951	Personnel_End-Position:T19
+A19	Realis E951 Other
+T20	Personnel_Start-Position 1343 1354	appointment
+E999	Personnel_Start-Position:T20
+A20	Realis E999 Actual

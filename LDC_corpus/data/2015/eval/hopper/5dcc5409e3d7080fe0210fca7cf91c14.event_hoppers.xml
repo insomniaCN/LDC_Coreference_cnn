@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaa50000000000000157" doc_id="5dcc5409e3d7080fe0210fca7cf91c14" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-330" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="338" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-588" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1057" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-22" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="262" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-644" type="life" subtype="injure" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="314" length="7">injured</trigger>
+      </event_mention>
+      <event_mention id="em-670" type="life" subtype="injure" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="240" length="7">injured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-90">
+      <event_mention id="em-20" type="conflict" subtype="attack" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="413" length="5">fired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-981" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="453" length="7">arrests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-673" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="568" length="9">described</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-758" type="life" subtype="die" realis="other">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="940" length="4">lost</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-204">
+      <event_mention id="em-688" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1224" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-219">
+      <event_mention id="em-409" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1356" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-566" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1424" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-127" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1475" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-234">
+      <event_mention id="em-892" type="conflict" subtype="attack" realis="generic">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1389" length="7">beating</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-275">
+      <event_mention id="em-459" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1605" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-407" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1650" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-625" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1703" length="8">uprising</trigger>
+      </event_mention>
+      <event_mention id="em-299" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1728" length="10">protestors</trigger>
+      </event_mention>
+      <event_mention id="em-18" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1786" length="10">protestors</trigger>
+      </event_mention>
+      <event_mention id="em-323" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1925" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-344">
+      <event_mention id="em-231" type="conflict" subtype="attack" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1720" length="7">beating</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-372">
+      <event_mention id="em-787" type="conflict" subtype="attack" realis="generic">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1011" length="8">attacked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-400">
+      <event_mention id="em-379" type="conflict" subtype="attack" realis="generic">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="618" length="8">thuggery</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-430">
+      <event_mention id="em-672" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="1615" length="5">Riots</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-445">
+      <event_mention id="em-64" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="494" length="7">rioting</trigger>
+      </event_mention>
+      <event_mention id="em-304" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="5dcc5409e3d7080fe0210fca7cf91c14" offset="214" length="5">riots</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

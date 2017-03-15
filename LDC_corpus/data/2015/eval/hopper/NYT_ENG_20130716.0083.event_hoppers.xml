@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea670000000000000052" doc_id="NYT_ENG_20130716.0083" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-958" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="197" length="6">FORMER</trigger>
+      </event_mention>
+      <event_mention id="em-373" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="346" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-209" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="938" length="12">stepped down</trigger>
+      </event_mention>
+      <event_mention id="em-546" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="414" length="2">ex</trigger>
+      </event_mention>
+      <event_mention id="em-138" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3555" length="8">replaced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-83" type="justice" subtype="fine" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="492" length="5">fines</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-813" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="595" length="6">return</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-568" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="NYT_ENG_20130716.0083" offset="644" length="11">accumulated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-65" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="763" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-85" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="810" length="7">payment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-187" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="857" length="9">collected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-725" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1026" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-770" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1107" length="5">power</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-534" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1082" length="4">coup</trigger>
+      </event_mention>
+      <event_mention id="em-66" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3114" length="4">coup</trigger>
+      </event_mention>
+      <event_mention id="em-886" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3416" length="4">coup</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-806" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1172" length="4">dead</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-212">
+      <event_mention id="em-781" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1133" length="9">crackdown</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-227">
+      <event_mention id="em-76" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1231" length="9">sentenced</trigger>
+      </event_mention>
+      <event_mention id="em-257" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1253" length="7">penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-350" type="justice" subtype="execute" realis="other">
+        <trigger source="NYT_ENG_20130716.0083" offset="1244" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-270">
+      <event_mention id="em-924" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="NYT_ENG_20130716.0083" offset="1288" length="12">imprisonment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-285">
+      <event_mention id="em-434" type="justice" subtype="pardon" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1315" length="8">pardoned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-300">
+      <event_mention id="em-511" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1328" length="5">freed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-315">
+      <event_mention id="em-832" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="NYT_ENG_20130716.0083" offset="1382" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-330">
+      <event_mention id="em-912" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="1492" length="7">hauling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-345">
+      <event_mention id="em-905" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130716.0083" offset="1926" length="7">comment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-360">
+      <event_mention id="em-392" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130716.0083" offset="2057" length="6">seized</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-375">
+      <event_mention id="em-468" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130716.0083" offset="2110" length="11">confiscated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-390">
+      <event_mention id="em-110" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="2172" length="9">auctioned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-405">
+      <event_mention id="em-277" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130716.0083" offset="2466" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-420">
+      <event_mention id="em-979" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="2494" length="6">set up</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-435">
+      <event_mention id="em-59" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130716.0083" offset="2574" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-450">
+      <event_mention id="em-907" type="transaction" subtype="transferownership" realis="generic" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130716.0083" offset="2728" length="12">confiscating</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-465">
+      <event_mention id="em-687" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="2789" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-480">
+      <event_mention id="em-190" type="justice" subtype="fine" realis="generic">
+        <trigger source="NYT_ENG_20130716.0083" offset="2793" length="5">fines</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-495">
+      <event_mention id="em-545" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130716.0083" offset="2965" length="7">collect</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-510">
+      <event_mention id="em-547" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3215" length="13">assassination</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-525">
+      <event_mention id="em-710" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3215" length="13">assassination</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-540">
+      <event_mention id="em-874" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="3371" length="8">received</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-555">
+      <event_mention id="em-692" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130716.0083" offset="3349" length="8">admitted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-570">
+      <event_mention id="em-758" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="3441" length="5">repay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-585">
+      <event_mention id="em-934" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3480" length="6">Former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-600">
+      <event_mention id="em-161" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130716.0083" offset="3555" length="8">replaced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-615">
+      <event_mention id="em-344" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="3602" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-656">
+      <event_mention id="em-533" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130716.0083" offset="1244" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-684">
+      <event_mention id="em-98" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130716.0083" offset="2172" length="9">auctioned</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

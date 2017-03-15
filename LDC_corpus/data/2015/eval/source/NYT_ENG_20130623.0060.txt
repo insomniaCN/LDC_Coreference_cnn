@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130623.0060" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130623/20130623,8ee53fc90a6bf348f549d93dcf605e27.xml">
+<HEADLINE>
+POLICE USE WATER CANNONS ON ISTANBUL PROTESTERS
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+ISTANBUL - Turkish police Saturday used water cannons to scatter thousands of people who had gathered in Taksim Square here to commemorate four people killed during the nationwide anti-government protests that have gripped Turkey for more than two weeks.
+</P>
+<P>
+Representatives of the peaceful protesters read a statement of their demands before turning to Gezi Park, the center of a campaign to save the only green patch in Istanbul’s center. But that environmental campaign has quickly blossomed into a protest against Prime Minister Recep Tayyip Erdogan’s autocratic and dismissive reaction toward the protesters.
+</P>
+<P>
+A few activists, representing Taksim Solidarity, an umbrella group, left red carnations at the entrance to Gezi Park, which has been blocked by the police since last Saturday. Some members of the crowd threw carnations at police vehicles or attached them to their wired windows.
+</P>
+<P>
+The police warned the crowd to disperse, but the protesters refused to leave Taksim Square and chanted anti-government slogans. Dozens of police officers then moved toward the crowd and began spraying the protesters with water cannons. For the first time in more than 20 days, the police did not use tear gas to force protesters away from Taksim Square. But the police did fire it at protesters on some side streets and at least one entrance to the square.
+</P>
+<P>
+“I was not standing on the road, which the police asked us to clear, so I thought I should be fine,” Gonul Duzer, a 24-year-old student, said as she held red carnations in her hand. “I wanted to hand these to them, but instead they pushed me away with their shields and said our right to protest was over.”
+</P>
+<P>
+Demonstrators and passers-by sought shelter in nearby cafes that sealed off their windows, in case the police used tear gas, and emptied terraces overlooking the square.
+</P>
+<P>
+On Saturday, Erdogan claimed that the protests were carried out “with malicious intentions.”
+</P>
+<P>
+“You became the pawns in a dirty game and were deceived gravely,” he said, according to the semiofficial Anatolian news agency, referring to young activists who have been attending protests in more than 60 cities.
+</P>
+<P>
+“Nobody but God will have the power to overthrow our government,” Erdogan said at a rally in Samsun, a town on the Black Sea coast.
+</P>
+</TEXT>
+</DOC>

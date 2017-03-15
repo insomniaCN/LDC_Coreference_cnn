@@ -1,0 +1,34 @@
+<DOC id= " NYT_ENG_20130517.0117 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130517 / 20130517,7f602f4fdbef954b35 a659d403 a50386 . xml " > 
+<HEADLINE> 
+
+< / HEADLINE> 
+<TEXT> 
+<P> 
+FOR FRIDAY AMs 
+< / P> 
+<P> 
+The following stories are on the front page of the Business Section of the New York Times for Friday , May 17 . They are scheduled to move by 9 p.m. ET unless otherwise noted . To reach the New York Times News Service , phone 888 - 346-9867 or 212 - 556-1927 . You can also follow the News Service on Twitter : ( at ) NYTNewsService . For information on NYT photos and graphics , call 888 - 603-1036 or 212 - 556-4204 .
+< / P> 
+<P> 
+DRUG - MARKETING - DATA ( Undated ) – In the old days , sales representatives from drug companies would chat up local pharmacists to learn what drugs doctors were prescribing . Now such shoulder - rubbing is becoming a quaint memory – thanks to vast databases of patient and doctor information being used by pharmaceutical companies to market drugs . By Katie Thomas .
+< / P> 
+<P> 
+With photos XNYT63 , 64 .
+< / P> 
+<P> 
+NORRIS - COLUMN ( Undated ) – On how we reached the point that the IRS is supposed to investigate political activities . High & amp ; Low Finance by Floyd Norris .
+< / P> 
+<P> 
+BANGLADESH - FACTORY - SAFETY ( Undated ) – A large coalition of religious groups and investors is pressing major U.S. retailers to join a landmark plan to improve safety in Bangladesh apparel factories , calling on them to act together to force changes in overseas workplaces . By Steven Greenhouse .
+< / P> 
+<P> 
+FALLEN - INVESTOR - COMEBACK ( Undated ) – Fred Eckert , a onetime Goldman Sachs partner who soared as a star in “ vulture ” investing in ailing companies , saw his fortunes fall in the turmoil of the financial crisis . By 2011 , he was bankrupt , divorced and , for two months , in a coma . Now Eckert , 65 , insists that he can make another try for the top . He is trying to start a new money management business by raising up to $ 100 million . The new company ’s name ? Phoenix Star Capital . By Randall Smith .
+< / P> 
+<P> 
+HESS - BOARD ( Houston ) – Few boardroom battles are resolved like that over Hess Corp . After marathon talks ending only hours before shareholders began arriving for the oil company ’s annual investor meeting , Hess agreed to give the activist hedge fund Elliott Management three board seats , in exchange for winning the hedge fund ’s support of the company ’s own slate of five directors . The pact ends one of the biggest corporate governance fights of the year , as activist investors grow increasingly bolder in seeking out ever - larger targets . By Michael J . de la Merced .
+< / P> 
+<P> 
+FOXCONN - CONDITIONS ( Undated ) – Foxconn Technology , which manufactures Apple ’s iPads and iPhones , has made substantial progress toward improving safety and other working conditions at three of its Chinese plants dedicated to making Apple products , a global monitoring group said . By Vindu Goel .
+< / P> 
+< / TEXT> 
+< / DOC

@@ -1,0 +1,69 @@
+T1	Conflict_Attack 200 213	ROCKETS FIRED
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 227 230	HIT
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 483 490;496 501	rockets fired
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 640 651	rocket fire
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 754 762	conflict
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 817 820	hit
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 870 876	attack
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 966 974	targeted
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 1177 1186	airstrike
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 1273 1279	struck
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T12	Conflict_Attack 1552 1556	fell
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1666 1672	fallen
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 1796 1803;1809 1817	rockets launched
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 1976 1982	attack
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 2413 2418;2432 2439	fired rockets
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Conflict_Attack 2744 2755	rocket fire
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 2830 2835;2849 2856	fired rockets
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Life_Die 2959 2963	dead
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 3118 3123	fight
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 286 292	strike
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Life_Injure 1220 1230	casualties
+E22	Life_Injure:T22 
+A22	Realis E22 Generic
+T11	Life_Injure 1630 1638	injuries
+E11	Life_Injure:T11 
+A11	Realis E11 Generic
+T23	Conflict_Attack 2809 2817	violence
+E23	Conflict_Attack:T23 
+A23	Realis E23 Generic

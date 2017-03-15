@@ -1,0 +1,68 @@
+T1	Justice_Charge-Indict 240 247	charges
+E172	Justice_Charge-Indict:T1
+A1	Realis E172 Actual
+T2	Justice_Charge-Indict 542 549	charges
+E307	Justice_Charge-Indict:T2
+A2	Realis E307 Actual
+T3	Justice_Charge-Indict 623 630	charges
+E691	Justice_Charge-Indict:T3
+A3	Realis E691 Actual
+T4	Justice_Charge-Indict 1317 1324	charges
+E786	Justice_Charge-Indict:T4
+A4	Realis E786 Actual
+T5	Conflict_Attack 349 356	assault
+E140	Conflict_Attack:T5
+A5	Realis E140 Actual
+T6	Conflict_Attack 429 436	assault
+E396	Conflict_Attack:T6
+A6	Realis E396 Actual
+T7	Conflict_Attack 634 641	assault
+E897	Conflict_Attack:T7
+A7	Realis E897 Actual
+T8	Transaction_Transfer-Money 1490 1494	bail
+E913	Transaction_Transfer-Money:T8
+A8	Realis E913 Actual
+T9	Conflict_Attack 646 653	battery
+E448	Conflict_Attack:T9
+A9	Realis E448 Actual
+T10	Conflict_Attack 1853 1859	pinned
+E156	Conflict_Attack:T10
+A10	Realis E156 Actual
+T11	Conflict_Attack 655 666	destruction
+E297	Conflict_Attack:T11
+A11	Realis E297 Actual
+T12	Conflict_Attack 1873 1880	damaged
+E231	Conflict_Attack:T12
+A12	Realis E231 Actual
+T13	Justice_Trial-Hearing 1031 1038	hearing
+E526	Justice_Trial-Hearing:T13
+A13	Realis E526 Actual
+T14	Justice_Arrest-Jail 1437 1443	turned
+E389	Justice_Arrest-Jail:T14
+A14	Realis E389 Actual
+T15	Justice_Arrest-Jail 1954 1962	arrested
+E898	Justice_Arrest-Jail:T15
+A15	Realis E898 Actual
+T16	Justice_Release-Parole 1471 1479	released
+E995	Justice_Release-Parole:T16
+A16	Realis E995 Actual
+T17	Contact_Broadcast 1633 1642	statement
+E164	Contact_Broadcast:T17
+A17	Realis E164 Actual
+T18	Movement_Transport-Person 1902 1909	leaving
+E183	Movement_Transport-Person:T18
+A18	Realis E183 Actual
+T19	Contact_Broadcast 1987 1996	statement
+E512	Contact_Broadcast:T19
+A19	Realis E512 Actual
+T20	Contact_Contact 1540 1547	contact
+E99	Contact_Contact:T20
+A20	Realis E99 Other
+R1	Coreference Arg1:E172 Arg2:E307
+R2	Coreference Arg1:E307 Arg2:E691
+R3	Coreference Arg1:E691 Arg2:E786
+R4	Coreference Arg1:E140 Arg2:E396
+R5	Coreference Arg1:E396 Arg2:E897
+R6	Coreference Arg1:E448 Arg2:E156
+R7	Coreference Arg1:E297 Arg2:E231
+R8	Coreference Arg1:E389 Arg2:E898

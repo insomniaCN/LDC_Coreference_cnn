@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea940000000000000122" doc_id="26c754423eb2c894526b870d6d477db7" source_type="multi_post">
+  <event_mention id="em-4" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1190" length="6">expand</trigger>
+  </event_mention>
+  <event_mention id="em-12" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="2110" length="13">privatization</trigger>
+  </event_mention>
+  <event_mention id="em-139" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="704" length="7">expense</trigger>
+  </event_mention>
+  <event_mention id="em-199" type="justice" subtype="sue" realis="actual">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1349" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-251" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="2338" length="6">handed</trigger>
+  </event_mention>
+  <event_mention id="em-266" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1849" length="13">privatization</trigger>
+  </event_mention>
+  <event_mention id="em-383" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="674" length="7">sourced</trigger>
+  </event_mention>
+  <event_mention id="em-391" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="2060" length="7">procure</trigger>
+  </event_mention>
+  <event_mention id="em-398" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1061" length="4">toll</trigger>
+  </event_mention>
+  <event_mention id="em-415" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="786" length="4">toll</trigger>
+  </event_mention>
+  <event_mention id="em-467" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1901" length="10">privatized</trigger>
+  </event_mention>
+  <event_mention id="em-490" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="196" length="9">construct</trigger>
+  </event_mention>
+  <event_mention id="em-586" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1407" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1624" length="8">purchase</trigger>
+  </event_mention>
+  <event_mention id="em-602" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1624" length="8">purchase</trigger>
+  </event_mention>
+  <event_mention id="em-661" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="389" length="10">privatized</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1098" length="7">traffic</trigger>
+  </event_mention>
+  <event_mention id="em-693" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="334" length="7">traffic</trigger>
+  </event_mention>
+  <event_mention id="em-700" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1766" length="11">privatizing</trigger>
+  </event_mention>
+  <event_mention id="em-719" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="2361" length="9">investors</trigger>
+  </event_mention>
+  <event_mention id="em-842" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="692" length="6">recoup</trigger>
+  </event_mention>
+  <event_mention id="em-863" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1290" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-866" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="587" length="4">toll</trigger>
+  </event_mention>
+  <event_mention id="em-870" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="214" length="4">toll</trigger>
+  </event_mention>
+  <event_mention id="em-871" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="26c754423eb2c894526b870d6d477db7" offset="1926" length="5">built</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,57 @@
+T1	Conflict_Attack 508 516	bombings
+E1	Conflict_Attack:T1 
+A1	Questionable E1 Realis
+A2	Realis E1 Actual
+T2	Business_Start-Org 1170 1177	started
+E2	Business_Start-Org:T2 
+A3	Realis E2 Actual
+T3	Life_Die 1711 1715	died
+E3	Life_Die:T3 
+A4	Questionable E3 Realis
+A5	Realis E3 Actual
+T4	Life_Die 2213 2217	died
+E4	Life_Die:T4 
+A6	Questionable E4 Realis
+A7	Realis E4 Actual
+T5	Conflict_Demonstrate 2678 2685	marches
+E5	Conflict_Demonstrate:T5 
+A8	Realis E5 Generic
+T6	Conflict_Demonstrate 2866 2873	protest
+E6	Conflict_Demonstrate:T6 
+A9	Realis E6 Actual
+T7	Conflict_Demonstrate 2957 2967	protesting
+E7	Conflict_Demonstrate:T7 
+A10	Realis E7 Actual
+T8	Justice_Arrest-Jail 3801 3810	locked up
+E8	Justice_Arrest-Jail:T8 
+A11	Realis E8 Generic
+T9	Justice_Arrest-Jail 3901 3905;3916 3925	hold prisoners
+E9	Justice_Arrest-Jail:T9 
+A12	Realis E9 Generic
+T10	Justice_Arrest-Jail 4015 4024	locked up
+E10	Justice_Arrest-Jail:T10 
+A13	Realis E10 Actual
+T11	Conflict_Demonstrate 4050 4054	demo
+E11	Conflict_Demonstrate:T11 
+T12	Conflict_Demonstrate 4247 4254	protest
+E12	Conflict_Demonstrate:T12 
+A14	Realis E12 Actual
+T13	Conflict_Demonstrate 4338 4348	protesting
+E13	Conflict_Demonstrate:T13 
+A15	Realis E13 Actual
+T14	Life_Die 5795 5803	massacre
+E14	Life_Die:T14 
+A16	Realis E14 Actual
+T15	Life_Die 5862 5864	it
+E15	Life_Die:T15 
+A17	Realis E15 Actual
+T16	Life_Die 5897 5899	it
+E16	Life_Die:T16 
+A18	Realis E16 Actual
+T17	Justice_Trial-Hearing 5904 5908;5923 5928	face court
+E17	Justice_Trial-Hearing:T17 
+A19	Questionable E17 Mention
+A20	Realis E17 Actual
+T18	Movement_Transport-Person 2768 2776	run away
+E18	Movement_Transport-Person:T18 
+A21	Realis E18 Generic

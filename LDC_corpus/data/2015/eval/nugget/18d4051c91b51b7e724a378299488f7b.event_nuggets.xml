@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea8e0000000000000110" doc_id="18d4051c91b51b7e724a378299488f7b" source_type="multi_post">
+  <event_mention id="em-48" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="1011" length="4">left</trigger>
+  </event_mention>
+  <event_mention id="em-166" type="personnel" subtype="startposition" realis="other">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="393" length="9">take over</trigger>
+  </event_mention>
+  <event_mention id="em-197" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="610" length="7">testify</trigger>
+  </event_mention>
+  <event_mention id="em-352" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="869" length="8">resigned</trigger>
+  </event_mention>
+  <event_mention id="em-629" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="382" length="7">nominee</trigger>
+  </event_mention>
+  <event_mention id="em-633" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="744" length="8">hearings</trigger>
+  </event_mention>
+  <event_mention id="em-680" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="1169" length="9">confirmed</trigger>
+  </event_mention>
+  <event_mention id="em-809" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="229" length="7">nominee</trigger>
+  </event_mention>
+  <event_mention id="em-854" type="personnel" subtype="startposition" realis="other">
+    <trigger source="18d4051c91b51b7e724a378299488f7b" offset="802" length="7">replace</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

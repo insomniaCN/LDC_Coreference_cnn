@@ -1,0 +1,60 @@
+T1	Justice_Sentence 722 730	sentence
+E96	Justice_Sentence:T1
+A1	Realis E96 Actual
+T2	Justice_Arrest-Jail 476 482	jailed
+E132	Justice_Arrest-Jail:T2
+A2	Realis E132 Actual
+T3	Justice_Arrest-Jail 973 981	prisoner
+E184	Justice_Arrest-Jail:T3
+A3	Realis E184 Actual
+T4	Movement_Transport-Person 387 395	snatched
+E227	Movement_Transport-Person:T4
+A4	Realis E227 Actual
+T5	Conflict_Attack 387 395	snatched
+E250	Conflict_Attack:T5
+A5	Realis E250 Actual
+T6	Justice_Release-Parole 916 924	released
+E252	Justice_Release-Parole:T6
+A6	Realis E252 Other
+T7	Contact_Correspondence 1106 1116	memorandum
+E275	Contact_Correspondence:T7
+A7	Realis E275 Other
+T8	Movement_Transport-Person 236 245	kidnapped
+E429	Movement_Transport-Person:T8
+A8	Realis E429 Actual
+T9	Movement_Transport-Person 158 166	handover
+E455	Movement_Transport-Person:T9
+A9	Realis E455 Other
+T10	Justice_Arrest-Jail 764 768	jail
+E488	Justice_Arrest-Jail:T10
+A10	Realis E488 Actual
+T11	Movement_Transport-Person 986 993	sending
+E582	Movement_Transport-Person:T11
+A11	Realis E582 Other
+T12	Contact_Contact 613 617	said
+E672	Contact_Contact:T12
+A12	Realis E672 Actual
+T13	Conflict_Attack 236 245	kidnapped
+E690	Conflict_Attack:T13
+A13	Realis E690 Actual
+T14	Justice_Release-Parole 210 217	release
+E774	Justice_Release-Parole:T14
+A14	Realis E774 Other
+T15	Justice_Release-Parole 673 681	released
+E776	Justice_Release-Parole:T15
+A15	Realis E776 Other
+T16	Justice_Sentence 1019 1027	sentence
+E787	Justice_Sentence:T16
+A16	Realis E787 Actual
+T17	Justice_Release-Parole 423 430	release
+E864	Justice_Release-Parole:T17
+A17	Realis E864 Other
+T18	Conflict_Attack 516 523	blow up
+E917	Conflict_Attack:T18
+A18	Realis E917 Other
+T19	Justice_Arrest-Jail 1220 1226	jailed
+E941	Justice_Arrest-Jail:T19
+A19	Realis E941 Generic
+T20	Contact_Broadcast 321 325	said
+E999	Contact_Broadcast:T20
+A20	Realis E999 Actual

@@ -1,0 +1,133 @@
+T1	Life_Die 249 254	DEATH
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 448 453	death
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 439 447	shooting
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Die 742 749	killing
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Personnel_Start-Position 1000 1011	took office
+E5	Personnel_Start-Position:T5 
+T6	Life_Die 1140 1146	murder
+E6	Life_Die:T6 
+A5	Realis E6 Actual
+T7	Life_Die 1330 1335	death
+E7	Life_Die:T7 
+A6	Realis E7 Actual
+T9	Personnel_End-Position 1385 1391	former
+E9	Personnel_End-Position:T9 
+A8	Realis E9 Actual
+T10	Justice_Convict 1438 1447	convicted
+E10	Justice_Convict:T10 
+A9	Realis E10 Actual
+T11	Life_Die 1451 1457	murder
+E11	Life_Die:T11 
+A10	Realis E11 Actual
+T12	Justice_Sentence 1470 1479	sentenced
+E12	Justice_Sentence:T12 
+A11	Realis E12 Actual
+T13	Justice_Arrest-Jail 1492 1501	in prison
+E13	Justice_Arrest-Jail:T13 
+A12	Realis E13 Actual
+T14	Justice_Sentence 1517 1525	extended
+E14	Justice_Sentence:T14 
+A13	Realis E14 Actual
+T15	Justice_Release-Parole 1553 1561	released
+E15	Justice_Release-Parole:T15 
+A14	Realis E15 Actual
+T16	Justice_Arrest-Jail 1567 1571	jail
+E16	Justice_Arrest-Jail:T16 
+A15	Realis E16 Actual
+T17	Conflict_Attack 1644 1652	tortured
+E17	Conflict_Attack:T17 
+A16	Realis E17 Actual
+T18	Justice_Arrest-Jail 1777 1783	jailed
+E18	Justice_Arrest-Jail:T18 
+A17	Realis E18 Actual
+T19	Life_Die 1859 1866	killing
+E19	Life_Die:T19 
+A18	Realis E19 Actual
+T20	Personnel_End-Position 1911 1922	at the time
+E20	Personnel_End-Position:T20 
+A19	Realis E20 Actual
+T21	Movement_Transport-Person 2076 2081	visit
+E21	Movement_Transport-Person:T21 
+A20	Realis E21 Actual
+T22	Life_Die 2466 2471	death
+E22	Life_Die:T22 
+A21	Realis E22 Actual
+T23	Justice_Release-Parole 2563 2571	released
+E23	Justice_Release-Parole:T23 
+A22	Realis E23 Actual
+T24	Justice_Arrest-Jail 2577 2581	jail
+E24	Justice_Arrest-Jail:T24 
+A23	Realis E24 Actual
+T25	Life_Die 2628 2634	murder
+E25	Life_Die:T25 
+A24	Realis E25 Actual
+T26	Justice_Acquit 2617 2624	cleared
+E26	Justice_Acquit:T26 
+A25	Realis E26 Other
+T27	Life_Die 2932 2938	murder
+E27	Life_Die:T27 
+A26	Realis E27 Actual
+T28	Contact_Communicate 643 647	said
+E28	Contact_Communicate:T28 
+A27	Realis E28 Actual
+T29	Life_Die 752 757	which
+E29	Life_Die:T29 
+A28	Realis E29 Actual
+#1	AnnotatorNotes E29	anaphor
+T30	Contact_Communicate 867 872	added
+E30	Contact_Communicate:T30 
+A29	Realis E30 Actual
+T31	Contact_Communicate 879 888	interview
+E31	Contact_Communicate:T31 
+A30	Realis E31 Actual
+T32	Movement_Transport-Person 898 903	visit
+E32	Movement_Transport-Person:T32 
+A31	Realis E32 Actual
+T33	Personnel_Elect 1032 1041	elections
+E33	Personnel_Elect:T33 
+A32	Realis E33 Actual
+T34	Justice_Trial-Hearing 1147 1151	case
+E34	Justice_Trial-Hearing:T34 
+A33	Realis E34 Actual
+T8	Conflict_Attack 1348 1352	shot
+E8	Conflict_Attack:T8 
+A7	Realis E8 Actual
+T35	Contact_Communicate 1596 1604	recanted
+E35	Contact_Communicate:T35 
+A34	Realis E35 Actual
+T36	Contact_Meet 1611 1620	testimony
+E36	Contact_Meet:T36 
+A35	Realis E36 Actual
+T37	Contact_Communicate 1625 1629	said
+E37	Contact_Communicate:T37 
+A36	Realis E37 Actual
+T38	Contact_Communicate 1700 1704	said
+E38	Contact_Communicate:T38 
+A37	Realis E38 Actual
+T39	Contact_Communicate 1658 1669	implicating
+E39	Contact_Communicate:T39 
+A38	Realis E39 Actual
+T40	Contact_Meet 2113 2119	assure
+E40	Contact_Meet:T40 
+A39	Realis E40 Actual
+T41	Contact_Communicate 2394 2398	said
+E41	Contact_Communicate:T41 
+A40	Realis E41 Actual
+T42	Contact_Communicate 2404 2413	telephone
+E42	Contact_Communicate:T42 
+A41	Realis E42 Generic
+T43	Contact_Communicate 2414 2423	interview
+E43	Contact_Communicate:T43 
+A42	Realis E43 Actual
+T44	Contact_Communicate 2692 2696	said
+E44	Contact_Communicate:T44 
+A43	Realis E44 Actual
+A44	Realis E5 Actual

@@ -1,0 +1,189 @@
+T1	Justice_Sentence 244 252	SENTENCE
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 305 315	imprisoned
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Business_End-Org 388 396	collapse
+E3	Business_End-Org:T3 
+A3	Realis E3 Actual
+T4	Justice_Sentence 449 457	sentence
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 554 560	former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Justice_Appeal 634 641	appeals
+E6	Justice_Appeal:T6 
+A6	Realis E6 Other
+T7	Transaction_Transfer-Ownership 724 730	seized
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 746 757	distributed
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Other
+T9	Business_End-Org 781 788	failure
+E9	Business_End-Org:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 814 818	lost
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 861 865	lost
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Business_Declare-Bankruptcy 930 940	bankruptcy
+E12	Business_Declare-Bankruptcy:T12 
+A12	Realis E12 Actual
+T13	Justice_Sentence 1017 1026	sentenced
+E13	Justice_Sentence:T13 
+A13	Realis E13 Actual
+T14	Justice_Release-Parole 1060 1072	leave prison
+E14	Justice_Release-Parole:T14 
+A14	Realis E14 Other
+T15	Justice_Trial-Hearing 1236 1241	trial
+E15	Justice_Trial-Hearing:T15 
+A15	Realis E15 Actual
+T16	Justice_Sentence 1321 1329	sentence
+E16	Justice_Sentence:T16 
+A16	Realis E16 Generic
+T17	Justice_Appeal 1348 1354	appeal
+E17	Justice_Appeal:T17 
+A17	Realis E17 Generic
+T18	Justice_Sentence 1393 1405	resentencing
+E18	Justice_Sentence:T18 
+A18	Realis E18 Other
+T19	Justice_Trial-Hearing 1406 1413	hearing
+E19	Justice_Trial-Hearing:T19 
+A19	Realis E19 Other
+T20	Business_End-Org 1574 1583	implosion
+E20	Business_End-Org:T20 
+A20	Realis E20 Actual
+T21	Justice_Convict 1586 1595	Convicted
+E21	Justice_Convict:T21 
+A21	Realis E21 Actual
+T22	Personnel_End-Position 1626 1633	onetime
+E22	Personnel_End-Position:T22 
+A22	Realis E22 Actual
+T23	Justice_Arrest-Jail 1743 1749	prison
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Actual
+T24	Justice_Sentence 1735 1740;1750 1758	serve sentence
+E24	Justice_Sentence:T24 
+A24	Realis E24 Actual
+T25	Life_Die 1843 1847	died
+E25	Life_Die:T25 
+A25	Realis E25 Actual
+T26	Justice_Trial-Hearing 1876 1881	trial
+E26	Justice_Trial-Hearing:T26 
+A26	Realis E26 Actual
+T27	Personnel_End-Position 1932 1938	former
+E27	Personnel_End-Position:T27 
+A27	Realis E27 Actual
+T28	Justice_Release-Parole 1969 1977	released
+E28	Justice_Release-Parole:T28 
+A28	Realis E28 Actual
+T29	Justice_Arrest-Jail 1983 1989	prison
+E29	Justice_Arrest-Jail:T29 
+T30	Justice_Sentence 2264 2272	sentence
+E30	Justice_Sentence:T30 
+A29	Realis E30 Other
+T31	Justice_Release-Parole 2364 2372	been out
+E31	Justice_Release-Parole:T31 
+A30	Realis E31 Actual
+T32	Justice_Arrest-Jail 2376 2382	prison
+E32	Justice_Arrest-Jail:T32 
+T33	Justice_Sentence 2620 2628	punished
+E33	Justice_Sentence:T33 
+A31	Realis E33 Other
+T34	Transaction_Transfer-Money 2674 2681;2686 2697	receive restitution
+E34	Transaction_Transfer-Money:T34 
+A32	Realis E34 Other
+T35	Justice_Arrest-Jail 2753 2759	prison
+E35	Justice_Arrest-Jail:T35 
+A33	Realis E35 Actual
+T36	Justice_Sentence 2760 2768	sentence
+E36	Justice_Sentence:T36 
+A34	Realis E36 Actual
+T37	Justice_Convict 2876 2883	convict
+E37	Justice_Convict:T37 
+A35	Realis E37 Actual
+T38	Justice_Convict 2993 3003	conviction
+E38	Justice_Convict:T38 
+A36	Realis E38 Actual
+T39	Justice_Sentence 3235 3243	sentence
+E39	Justice_Sentence:T39 
+A37	Realis E39 Actual
+T40	Justice_Appeal 3305 3311	appeal
+E40	Justice_Appeal:T40 
+A38	Realis E40 Actual
+T41	Personnel_End-Position 3374 3381	onetime
+E41	Personnel_End-Position:T41 
+A39	Realis E41 Actual
+T42	Personnel_Start-Position 3406 3412	joined
+E42	Personnel_Start-Position:T42 
+A40	Realis E42 Actual
+T43	Transaction_Transfer-Money 3605 3610	debts
+E43	Transaction_Transfer-Money:T43 
+A41	Realis E43 Actual
+T44	Justice_Trial-Hearing 3749 3754	trial
+E44	Justice_Trial-Hearing:T44 
+A42	Realis E44 Actual
+T45	Business_End-Org 3988 3997	crumbling
+E45	Business_End-Org:T45 
+A43	Realis E45 Generic
+T46	Personnel_End-Position 4036 4045	lost jobs
+E46	Personnel_End-Position:T46 
+A44	Realis E46 Generic
+T47	Personnel_End-Position 4116 4122	former
+E47	Personnel_End-Position:T47 
+A45	Realis E47 Actual
+T48	Justice_Sentence 4157 4166	sentenced
+E48	Justice_Sentence:T48 
+A46	Realis E48 Actual
+T49	Justice_Sentence 4305 4313;4326 4334	received sentence
+E49	Justice_Sentence:T49 
+A47	Realis E49 Actual
+T50	Business_End-Org 4354 4363	collapses
+E50	Business_End-Org:T50 
+A48	Realis E50 Actual
+T51	Justice_Sentence 4625 4633	sentence
+E51	Justice_Sentence:T51 
+A49	Realis E51 Actual
+T52	Justice_Arrest-Jail 4639 4645	prison
+E52	Justice_Arrest-Jail:T52 
+A50	Realis E52 Actual
+T53	Movement_Transport-Person 4685 4690	moved
+E53	Movement_Transport-Person:T53 
+A51	Realis E53 Actual
+T54	Justice_Release-Parole 4900 4907	release
+E54	Justice_Release-Parole:T54 
+A52	Realis E54 Other
+T55	Justice_Arrest-Jail 978 984	prison
+E55	Justice_Arrest-Jail:T55 
+A53	Realis E55 Generic
+T56	Justice_Convict 1821 1833	found guilty
+E56	Justice_Convict:T56 
+A54	Realis E56 Actual
+T57	Contact_Communicate 2215 2219	said
+E57	Contact_Communicate:T57 
+A55	Realis E57 Actual
+T58	Contact_Communicate 2225 2234	statement
+E58	Contact_Communicate:T58 
+A56	Realis E58 Actual
+T59	Contact_Communicate 2534 2538	said
+E59	Contact_Communicate:T59 
+A57	Realis E59 Actual
+T60	Contact_Communicate 2544 2553	statement
+E60	Contact_Communicate:T60 
+A58	Realis E60 Actual
+T61	Justice_Sentence 3263 3275	resentencing
+E61	Justice_Sentence:T61 
+A59	Realis E61 Other
+T62	Contact_Meet 3724 3733	testified
+E62	Contact_Meet:T62 
+A60	Realis E62 Actual
+T63	Personnel_End-Position 3766 3772	former
+E63	Personnel_End-Position:T63 
+A61	Realis E63 Actual
+A62	Realis E29 Actual
+A63	Realis E32 Actual

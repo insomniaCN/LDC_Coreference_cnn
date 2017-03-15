@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000654" doc_id="XIN_ENG_20100114.0378" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="personnel" subtype="elect" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="71" length="7">elected</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="personnel" subtype="elect" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="244" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="224" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100114.0378" offset="343" length="7">session</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100114.0378" offset="447" length="7">session</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="368" length="8">replaced</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="515" length="11">resignation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="life" subtype="beborn" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="570" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="personnel" subtype="elect" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="785" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100114.0378" offset="875" length="8">replaced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-152" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100114.0378" offset="1011" length="4">meet</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

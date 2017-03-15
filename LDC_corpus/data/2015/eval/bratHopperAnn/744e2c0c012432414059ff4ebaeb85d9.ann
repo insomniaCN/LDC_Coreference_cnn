@@ -1,0 +1,42 @@
+T1	Manufacture_Artifact 185 196	woodworking
+E364	Manufacture_Artifact:T1
+A1	Realis E364 Generic
+T2	Business_End-Org 274 287	went belly up
+E425	Business_End-Org:T2
+A2	Realis E425 Actual
+T3	Transaction_Transfer-Ownership 525 528	get
+E167	Transaction_Transfer-Ownership:T3
+A3	Realis E167 Generic
+T4	Transaction_Transfer-Ownership 627 630	buy
+E815	Transaction_Transfer-Ownership:T4
+A4	Realis E815 Generic
+T5	Transaction_Transfer-Ownership 871 882	shop around
+E431	Transaction_Transfer-Ownership:T5
+A5	Realis E431 Generic
+T6	Manufacture_Artifact 925 929	make
+E660	Manufacture_Artifact:T6
+A6	Realis E660 Generic
+T7	Transaction_Transfer-Ownership 1867 1871	gets
+E951	Transaction_Transfer-Ownership:T7
+A7	Realis E951 Generic
+T8	Contact_Contact 1900 1903	ask
+E145	Contact_Contact:T8
+A8	Realis E145 Other
+T9	Contact_Correspondence 2411 2414	ask
+E345	Contact_Correspondence:T9
+A9	Realis E345 Other
+T10	Movement_Transport-Artifact 3362 3371	delivered
+E922	Movement_Transport-Artifact:T10
+A10	Realis E922 Generic
+T11	Movement_Transport-Artifact 3679 3683	send
+E215	Movement_Transport-Artifact:T11
+A11	Realis E215 Other
+T12	Contact_Correspondence 3796 3800	call
+E253	Contact_Correspondence:T12
+A12	Realis E253 Other
+T13	Transaction_Transfer-Money 627 630	buy
+E599	Transaction_Transfer-Money:T13
+A13	Realis E599 Generic
+T14	Transaction_Transfer-Ownership 4320 4324	pass
+E981	Transaction_Transfer-Ownership:T14
+A14	Realis E981 Other

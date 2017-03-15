@@ -1,0 +1,48 @@
+T1	Personnel_Nominate 246 255	nominated
+E1	Personnel_Nominate:T1 
+A1	Realis E1 Actual
+T2	Personnel_Nominate 771 780	nominated
+E2	Personnel_Nominate:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 854 857	got
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T4	Personnel_Nominate 1123 1132	nominated
+E4	Personnel_Nominate:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 1465 1470	fired
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Personnel_Start-Position 1509 1514	hired
+E6	Personnel_Start-Position:T6 
+A6	Realis E6 Other
+T7	Personnel_Nominate 1799 1808	nominated
+E7	Personnel_Nominate:T7 
+A7	Realis E7 Actual
+T8	Personnel_Nominate 2373 2382	nominated
+E8	Personnel_Nominate:T8 
+A8	Realis E8 Actual
+T9	Justice_Convict 2538 2548	conviction
+E9	Justice_Convict:T9 
+A9	Realis E9 Actual
+T10	Personnel_Nominate 2813 2822	nominated
+E10	Personnel_Nominate:T10 
+A10	Realis E10 Actual
+T11	Justice_Convict 2978 2988	conviction
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T13	Personnel_Elect 3333 3346	win elections
+E13	Personnel_Elect:T13 
+A13	Realis E13 Other
+T14	Personnel_Nominate 3667 3676	nominated
+E14	Personnel_Nominate:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 4040 4042	go
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Other
+T16	Personnel_End-Position 4573 4586	out of office
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Other
+T12	Personnel_Elect 3363 3366;3375 3384	win elections
+E12	Personnel_Elect:T12 
+A12	Realis E12 Other

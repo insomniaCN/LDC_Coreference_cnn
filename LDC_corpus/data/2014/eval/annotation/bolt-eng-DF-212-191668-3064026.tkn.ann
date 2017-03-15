@@ -1,0 +1,98 @@
+T1	Conflict_Attack 93 98	clash
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 221 226	clash
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 281 286	clash
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 343 347	riot
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Justice_Fine 384 389;400 404	given fine
+E5	Justice_Fine:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 414 418	riot
+E6	Conflict_Attack:T6 
+A6	Realis E6 Generic
+T7	Conflict_Attack 443 458	violent protest
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Life_Injure 546 553	injured
+E8	Life_Injure:T8 
+A8	Realis E8 Actual
+T10	Justice_Fine 667 672	fined
+E10	Justice_Fine:T10 
+A11	Realis E10 Actual
+T11	Conflict_Demonstrate 828 834	massed
+E11	Conflict_Demonstrate:T11 
+A12	Realis E11 Actual
+T12	Justice_Fine 1072 1078	fining
+E12	Justice_Fine:T12 
+A13	Realis E12 Actual
+T13	Conflict_Attack 1417 1423	rioted
+E13	Conflict_Attack:T13 
+A14	Realis E13 Actual
+T14	Conflict_Demonstrate 1639 1645	massed
+E14	Conflict_Demonstrate:T14 
+A15	Realis E14 Actual
+T15	Movement_Transport-Person 1743 1749	deport
+E15	Movement_Transport-Person:T15 
+A16	Realis E15 Other
+T16	Conflict_Attack 2196 2201	clash
+E16	Conflict_Attack:T16 
+A17	Realis E16 Actual
+T17	Conflict_Attack 2264 2271	clashed
+E17	Conflict_Attack:T17 
+A18	Realis E17 Actual
+T18	Life_Injure 2374 2381	injured
+E18	Life_Injure:T18 
+A19	Realis E18 Actual
+T19	Conflict_Demonstrate 2450 2456;2459 2466	staged protest
+E19	Conflict_Demonstrate:T19 
+A20	Realis E19 Actual
+T20	Justice_Fine 2508 2513	fined
+E20	Justice_Fine:T20 
+A21	Realis E20 Actual
+T21	Conflict_Attack 2588 2593	clash
+E21	Conflict_Attack:T21 
+A22	Realis E21 Actual
+T22	Conflict_Attack 2609 2613	riot
+E22	Conflict_Attack:T22 
+A23	Realis E22 Generic
+T23	Conflict_Attack 2742 2751	brutality
+E23	Conflict_Attack:T23 
+A24	Realis E23 Generic
+T24	Movement_Transport-Person 2851 2857	rushed
+E24	Movement_Transport-Person:T24 
+A25	Realis E24 Actual
+T25	Life_Injure 3041 3048	injured
+E25	Life_Injure:T25 
+A26	Realis E25 Actual
+T26	Justice_Fine 3275 3279	fine
+E26	Justice_Fine:T26 
+A27	Realis E26 Generic
+A28	Questionable E26 Realis
+T27	Transaction_Transfer-Ownership 3296 3306	confiscate
+E27	Transaction_Transfer-Ownership:T27 
+A29	Questionable E27 Realis
+A30	Realis E27 Generic
+T28	Contact_Meet 3464 3471	meeting
+E28	Contact_Meet:T28 
+A31	Realis E28 Other
+T29	Justice_Fine 3712 3717	fined
+E29	Justice_Fine:T29 
+A32	Realis E29 Generic
+T30	Conflict_Attack 4026 4032	rioted
+E30	Conflict_Attack:T30 
+A33	Realis E30 Actual
+T31	Justice_Fine 4138 4142	fine
+E31	Justice_Fine:T31 
+A34	Realis E31 Actual
+T9	Conflict_Attack 2122 2127	clash
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T32	Transaction_Transfer-Ownership 2567 2574	deliver
+E32	Transaction_Transfer-Ownership:T32 
+A10	Realis E32 Generic

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea890000000000000099" doc_id="04bfe2831596d665b1585d8bf7bedd47" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-248" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="416" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-325" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="482" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-73" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1649" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-625" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="509" length="7">retired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-792" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="609" length="10">kidnapping</trigger>
+      </event_mention>
+      <event_mention id="em-460" type="movement" subtype="transportperson" realis="other">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1111" length="5">taken</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-261" type="conflict" subtype="attack" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="609" length="10">kidnapping</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-999" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="997" length="8">detained</trigger>
+      </event_mention>
+      <event_mention id="em-598" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1345" length="4">held</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-289" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1290" length="7">reports</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-839" type="conflict" subtype="attack" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1324" length="8">tortured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-32" type="justice" subtype="pardon" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1426" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-328" type="justice" subtype="pardon" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1805" length="7">amnesty</trigger>
+      </event_mention>
+      <event_mention id="em-464" type="justice" subtype="pardon" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1391" length="7">Amnesty</trigger>
+      </event_mention>
+      <event_mention id="em-877" type="justice" subtype="pardon" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1970" length="7">Amnesty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-344" type="conflict" subtype="attack" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1509" length="7">torture</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-187" type="justice" subtype="execute" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1536" length="10">executions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-266">
+      <event_mention id="em-199" type="justice" subtype="pardon" realis="actual">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1874" length="9">amnesties</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-307">
+      <event_mention id="em-308" type="conflict" subtype="attack" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="2034" length="13">disappearance</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-322">
+      <event_mention id="em-688" type="life" subtype="die" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1536" length="10">executions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-337">
+      <event_mention id="em-290" type="conflict" subtype="attack" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1685" length="10">kidnapping</trigger>
+      </event_mention>
+      <event_mention id="em-642" type="conflict" subtype="attack" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="2051" length="10">kidnapping</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-352">
+      <event_mention id="em-774" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="1685" length="10">kidnapping</trigger>
+      </event_mention>
+      <event_mention id="em-430" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="04bfe2831596d665b1585d8bf7bedd47" offset="2051" length="10">kidnapping</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaaa0000000000000166" doc_id="75e6ef693e721b0278bfcd31ef3d43f5" source_type="multi_post">
+  <event_mention id="em-152" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="850" length="11">dropped off</trigger>
+  </event_mention>
+  <event_mention id="em-173" type="life" subtype="injure" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="537" length="6">injury</trigger>
+  </event_mention>
+  <event_mention id="em-202" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="896" length="6">riding</trigger>
+  </event_mention>
+  <event_mention id="em-315" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="1078" length="8">benefits</trigger>
+  </event_mention>
+  <event_mention id="em-436" type="justice" subtype="appeal" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="1134" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-525" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="693" length="12">compensation</trigger>
+  </event_mention>
+  <event_mention id="em-847" type="justice" subtype="appeal" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="472" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-890" type="life" subtype="injure" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="744" length="7">injured</trigger>
+  </event_mention>
+  <event_mention id="em-963" type="justice" subtype="appeal" realis="actual">
+    <trigger source="75e6ef693e721b0278bfcd31ef3d43f5" offset="604" length="6">appeal</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

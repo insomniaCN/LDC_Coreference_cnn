@@ -1,0 +1,50 @@
+T1	Justice_Convict 72 81	convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Justice_Convict 231 240	convicted
+E2	Justice_Convict:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 326 331	reach
+E3	Movement_Transport-Person:T3 
+A3	Questionable E3 Realis
+A4	Realis E3 Actual
+T4	Justice_Extradite 415 425	extradited
+E4	Justice_Extradite:T4 
+A5	Realis E4 Actual
+T5	Justice_Convict 488 500	found guilty
+E5	Justice_Convict:T5 
+A6	Realis E5 Actual
+T6	Justice_Sentence 583 592	sentenced
+E6	Justice_Sentence:T6 
+A7	Realis E6 Other
+T7	Movement_Transport-Person 688 695	smuggle
+E7	Movement_Transport-Person:T7 
+A8	Realis E7 Other
+T8	Justice_Convict 802 807;812 818	found guilty
+E8	Justice_Convict:T8 
+A9	Realis E8 Actual
+T9	Movement_Transport-Person 966 969	fly
+E9	Movement_Transport-Person:T9 
+A10	Realis E9 Generic
+T10	Transaction_Transfer-Money 988 991	pay
+E10	Transaction_Transfer-Money:T10 
+A11	Realis E10 Generic
+T11	Movement_Transport-Person 1012 1016	ship
+E11	Movement_Transport-Person:T11 
+A12	Realis E11 Generic
+T12	Justice_Arrest-Jail 1219 1226;1241 1252	serving prison term
+E12	Justice_Arrest-Jail:T12 
+A13	Realis E12 Actual
+T13	Justice_Extradite 1278 1288	extradited
+E13	Justice_Extradite:T13 
+A14	Realis E13 Actual
+T14	Movement_Transport-Person 1334 1343	smuggling
+E14	Movement_Transport-Person:T14 
+A15	Questionable E14 Realis
+A16	Realis E14 Actual
+T15	Movement_Transport-Person 1456 1460	fled
+E15	Movement_Transport-Person:T15 
+A17	Realis E15 Actual
+T16	Transaction_Transfer-Money 1483 1487	paid
+E16	Transaction_Transfer-Money:T16 
+A18	Realis E16 Other

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaae0000000000000178" doc_id="809ce44fb6d30754dd811489f4a16530" source_type="multi_post">
+  <event_mention id="em-17" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="2277" length="4">SOLD</trigger>
+  </event_mention>
+  <event_mention id="em-24" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="894" length="14">globe-trotting</trigger>
+  </event_mention>
+  <event_mention id="em-78" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="1059" length="10">nomination</trigger>
+  </event_mention>
+  <event_mention id="em-260" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="2277" length="4">SOLD</trigger>
+  </event_mention>
+  <event_mention id="em-265" type="life" subtype="die" realis="actual">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="1783" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-363" type="conflict" subtype="attack" realis="actual">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="815" length="10">shoot down</trigger>
+  </event_mention>
+  <event_mention id="em-433" type="conflict" subtype="attack" realis="generic">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="1708" length="3">War</trigger>
+  </event_mention>
+  <event_mention id="em-459" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="762" length="10">chewed out</trigger>
+  </event_mention>
+  <event_mention id="em-651" type="conflict" subtype="attack" realis="actual">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="1795" length="9">Holocaust</trigger>
+  </event_mention>
+  <event_mention id="em-794" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="1599" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-867" type="life" subtype="die" realis="actual">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="1216" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-938" type="life" subtype="die" realis="actual">
+    <trigger source="809ce44fb6d30754dd811489f4a16530" offset="2561" length="5">dying</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

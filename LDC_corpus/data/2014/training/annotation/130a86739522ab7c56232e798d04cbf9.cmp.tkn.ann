@@ -1,0 +1,45 @@
+T1	Life_Die 690 701	passed away
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Divorce 1543 1551	divorced
+E2	Life_Divorce:T2 
+A2	Realis E2 Actual
+T3	Life_Die 2592 2603	passed away
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 3334 3337	get
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Money 3886 3889	pay
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Money 3223 3227	paid
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Life_Die 3536 3541	death
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 4228 4232	take
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Generic
+T9	Contact_Communicate 575 578	say
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 1188 1191	ask
+E10	Contact_Communicate:T10 
+A10	Realis E10 Other
+T11	Transaction_Transfer-Money 1415 1422	incomes
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 2477 2480	say
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 3144 3148	tell
+E13	Contact_Communicate:T13 
+A13	Realis E13 Other
+T14	Contact_Communicate 3003 3014	counselling
+E14	Contact_Communicate:T14 
+A14	Realis E14 Other
+T15	Contact_Communicate 3498 3509	counselling
+E15	Contact_Communicate:T15 
+A15	Realis E15 Other

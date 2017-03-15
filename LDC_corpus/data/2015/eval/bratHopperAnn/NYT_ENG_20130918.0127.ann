@@ -1,0 +1,338 @@
+T1	Justice_Release-Parole 177 182	FREES
+E255	Justice_Release-Parole:T1
+A1	Realis E255 Actual
+T2	Justice_Release-Parole 527 532	freed
+E56	Justice_Release-Parole:T2
+A2	Realis E56 Actual
+T3	Justice_Release-Parole 668 675	release
+E687	Justice_Release-Parole:T3
+A3	Realis E687 Actual
+T4	Justice_Release-Parole 1424 1429	freed
+E697	Justice_Release-Parole:T4
+A4	Realis E697 Actual
+T5	Justice_Release-Parole 2136 2143	release
+E852	Justice_Release-Parole:T5
+A5	Realis E852 Actual
+T6	Justice_Release-Parole 2356 2364	releases
+E354	Justice_Release-Parole:T6
+A6	Realis E354 Actual
+T7	Justice_Release-Parole 3698 3706	released
+E130	Justice_Release-Parole:T7
+A7	Realis E130 Actual
+T8	Justice_Release-Parole 4199 4206	release
+E16	Justice_Release-Parole:T8
+A8	Realis E16 Actual
+T9	Justice_Release-Parole 4702 4710	releases
+E710	Justice_Release-Parole:T9
+A9	Realis E710 Actual
+T10	Justice_Release-Parole 4959 4964	freed
+E186	Justice_Release-Parole:T10
+A10	Realis E186 Actual
+T11	Justice_Arrest-Jail 193 202	PRISONERS
+E731	Justice_Arrest-Jail:T11
+A11	Realis E731 Actual
+T12	Justice_Arrest-Jail 571 580	prisoners
+E730	Justice_Arrest-Jail:T12
+A12	Realis E730 Actual
+T13	Justice_Arrest-Jail 659 667	prisoner
+E28	Justice_Arrest-Jail:T13
+A13	Realis E28 Actual
+T14	Justice_Arrest-Jail 1414 1423	prisoners
+E382	Justice_Arrest-Jail:T14
+A14	Realis E382 Actual
+T15	Justice_Arrest-Jail 2127 2135	prisoner
+E691	Justice_Arrest-Jail:T15
+A15	Realis E691 Actual
+T16	Justice_Arrest-Jail 3688 3697	prisoners
+E622	Justice_Arrest-Jail:T16
+A16	Realis E622 Actual
+T17	Justice_Arrest-Jail 4221 4230	prisoners
+E509	Justice_Arrest-Jail:T17
+A17	Realis E509 Actual
+T18	Justice_Arrest-Jail 4693 4701	prisoner
+E990	Justice_Arrest-Jail:T18
+A18	Realis E990 Actual
+T19	Movement_Transport-Person 230 235	VISIT
+E782	Movement_Transport-Person:T19
+A19	Realis E782 Other
+T20	Movement_Transport-Person 423 428	visit
+E291	Movement_Transport-Person:T20
+A20	Realis E291 Other
+T21	Movement_Transport-Person 881 886	visit
+E314	Movement_Transport-Person:T21
+A21	Realis E314 Other
+T22	Movement_Transport-Person 2394 2398	trip
+E592	Movement_Transport-Person:T22
+A22	Realis E592 Other
+T23	Movement_Transport-Person 2543 2547	trip
+E491	Movement_Transport-Person:T23
+A23	Realis E491 Other
+T24	Movement_Transport-Person 5542 5548	visits
+E71	Movement_Transport-Person:T24
+A24	Realis E71 Other
+T25	Justice_Charge-Indict 289 296	charges
+E9	Justice_Charge-Indict:T25
+A25	Realis E9 Actual
+T26	Justice_Release-Parole 343 350	release
+E289	Justice_Release-Parole:T26
+A26	Realis E289 Actual
+T27	Justice_Release-Parole 1188 1195	release
+E634	Justice_Release-Parole:T27
+A27	Realis E634 Actual
+T28	Justice_Release-Parole 1230 1238	released
+E750	Justice_Release-Parole:T28
+A28	Realis E750 Actual
+T29	Justice_Release-Parole 1284 1292	released
+E913	Justice_Release-Parole:T29
+A29	Realis E913 Actual
+T30	Justice_Release-Parole 1306 1310	free
+E225	Justice_Release-Parole:T30
+A30	Realis E225 Actual
+T31	Justice_Release-Parole 1390 1395	freed
+E272	Justice_Release-Parole:T31
+A31	Realis E272 Actual
+T32	Justice_Release-Parole 2563 2570	release
+E445	Justice_Release-Parole:T32
+A32	Realis E445 Actual
+T33	Personnel_Elect 1010 1018	election
+E624	Personnel_Elect:T33
+A33	Realis E624 Actual
+T34	Personnel_Elect 4152 4160	election
+E795	Personnel_Elect:T34
+A34	Realis E795 Actual
+T35	Personnel_Elect 4486 4494	election
+E45	Personnel_Elect:T35
+A35	Realis E45 Other
+T36	Justice_Arrest-Jail 2871 2879	arrested
+E35	Justice_Arrest-Jail:T36
+A36	Realis E35 Actual
+T37	Justice_Arrest-Jail 1071 1077	prison
+E513	Justice_Arrest-Jail:T37
+A37	Realis E513 Actual
+T38	Justice_Arrest-Jail 2921 2925	jail
+E699	Justice_Arrest-Jail:T38
+A38	Realis E699 Actual
+T39	Justice_Arrest-Jail 3197 3203	jailed
+E958	Justice_Arrest-Jail:T39
+A39	Realis E958 Actual
+T40	Contact_Correspondence 1168 1177	interview
+E736	Contact_Correspondence:T40
+A40	Realis E736 Actual
+T41	Contact_Correspondence 1201 1205	said
+E11	Contact_Correspondence:T41
+A41	Realis E11 Actual
+T42	Movement_Transport-Person 1363 1368	drove
+E937	Movement_Transport-Person:T42
+A42	Realis E937 Actual
+T43	Justice_Arrest-Jail 1583 1589	prison
+E321	Justice_Arrest-Jail:T43
+A43	Realis E321 Actual
+T44	Justice_Arrest-Jail 1631 1637	prison
+E832	Justice_Arrest-Jail:T44
+A44	Realis E832 Generic
+T45	Justice_Arrest-Jail 1666 1675	prisoners
+E444	Justice_Arrest-Jail:T45
+A45	Realis E444 Generic
+T46	Justice_Arrest-Jail 1735 1747	imprisonment
+E786	Justice_Arrest-Jail:T46
+A46	Realis E786 Generic
+T47	Justice_Arrest-Jail 1819 1825	prison
+E664	Justice_Arrest-Jail:T47
+A47	Realis E664 Actual
+T48	Justice_Sentence 1858 1867	sentenced
+E86	Justice_Sentence:T48
+A48	Realis E86 Actual
+T49	Conflict_Demonstrate 1906 1913	protest
+E992	Conflict_Demonstrate:T49
+A49	Realis E992 Actual
+T50	Conflict_Demonstrate 3856 3864	protests
+E68	Conflict_Demonstrate:T50
+A50	Realis E68 Actual
+T51	Conflict_Demonstrate 4624 4632	protests
+E735	Conflict_Demonstrate:T51
+A51	Realis E735 Actual
+T52	Personnel_Elect 1938 1946	election
+E147	Personnel_Elect:T52
+A52	Realis E147 Actual
+T53	Personnel_Elect 3934 3942	election
+E76	Personnel_Elect:T53
+A53	Realis E76 Actual
+T54	Contact_Broadcast 1989 1994	speak
+E773	Contact_Broadcast:T54
+A54	Realis E773 Other
+T55	Justice_Trial-Hearing 2687 2692	cases
+E454	Justice_Trial-Hearing:T55
+A55	Realis E454 Generic
+T56	Movement_Transport-Person 2787 2792	leave
+E27	Movement_Transport-Person:T56
+A56	Realis E27 Other
+T57	Justice_Sentence 2926 2934	sentence
+E467	Justice_Sentence:T57
+A57	Realis E467 Actual
+T58	Contact_Broadcast 3071 3078	message
+E982	Contact_Broadcast:T58
+A58	Realis E982 Actual
+T59	Contact_Broadcast 3236 3240	said
+E963	Contact_Broadcast:T59
+A59	Realis E963 Actual
+T60	Justice_Arrest-Jail 3303 3312	prisoners
+E549	Justice_Arrest-Jail:T60
+A60	Realis E549 Generic
+T61	Justice_Arrest-Jail 3344 3355	behind bars
+E904	Justice_Arrest-Jail:T61
+A61	Realis E904 Generic
+T62	Justice_Trial-Hearing 3366 3371	tried
+E950	Justice_Trial-Hearing:T62
+A62	Realis E950 Generic
+T63	Justice_Arrest-Jail 3447 3453	prison
+E661	Justice_Arrest-Jail:T63
+A63	Realis E661 Generic
+T64	Movement_Transport-Person 3552 3558	travel
+E75	Movement_Transport-Person:T64
+A64	Realis E75 Other
+T65	Personnel_End-Position 3721 3727	former
+E659	Personnel_End-Position:T65
+A65	Realis E659 Actual
+T66	Contact_Contact 4040 4045	heard
+E797	Contact_Contact:T66
+A66	Realis E797 Actual
+T67	Justice_Release-Parole 4074 4079	freed
+E219	Justice_Release-Parole:T67
+A67	Realis E219 Actual
+T68	Contact_Correspondence 4111 4115	said
+E391	Contact_Correspondence:T68
+A68	Realis E391 Actual
+T69	Contact_Correspondence 4245 4249	said
+E110	Contact_Correspondence:T69
+A69	Realis E110 Actual
+T70	Personnel_End-Position 4298 4304	former
+E140	Personnel_End-Position:T70
+A70	Realis E140 Actual
+T71	Personnel_End-Position 4362 4368	former
+E772	Personnel_End-Position:T71
+A71	Realis E772 Actual
+T72	Justice_Arrest-Jail 4412 4418	arrest
+E586	Justice_Arrest-Jail:T72
+A72	Realis E586 Actual
+T73	Justice_Release-Parole 4548 4555	release
+E394	Justice_Release-Parole:T73
+A73	Realis E394 Other
+T74	Contact_Broadcast 4678 4682	said
+E469	Contact_Broadcast:T74
+A74	Realis E469 Actual
+T75	Contact_Contact 4731 4743	negotiations
+E30	Contact_Contact:T75
+A75	Realis E30 Generic
+T76	Justice_Release-Parole 4819 4824	freed
+E796	Justice_Release-Parole:T76
+A76	Realis E796 Other
+T77	Justice_Arrest-Jail 4836 4842	arrest
+E939	Justice_Arrest-Jail:T77
+A77	Realis E939 Actual
+T78	Justice_Arrest-Jail 4885 4895	imprisoned
+E416	Justice_Arrest-Jail:T78
+A78	Realis E416 Actual
+T79	Personnel_End-Position 4991 4997	former
+E249	Personnel_End-Position:T79
+A79	Realis E249 Actual
+T80	Justice_Arrest-Jail 5010 5018	arrested
+E842	Justice_Arrest-Jail:T80
+A80	Realis E842 Actual
+T81	Justice_Charge-Indict 5056 5063	charges
+E62	Justice_Charge-Indict:T81
+A81	Realis E62 Actual
+T82	Contact_Meet 5106 5111	visit
+E577	Contact_Meet:T82
+A82	Realis E577 Actual
+T83	Contact_Broadcast 5203 5211	pleading
+E232	Contact_Broadcast:T83
+A83	Realis E232 Actual
+T84	Justice_Release-Parole 5220 5227	release
+E36	Justice_Release-Parole:T84
+A84	Realis E36 Other
+T85	Movement_Transport-Person 5347 5349	go
+E279	Movement_Transport-Person:T85
+A85	Realis E279 Other
+T86	Contact_Contact 5430 5436	letter
+E825	Contact_Contact:T86
+A86	Realis E825 Actual
+T87	Contact_Contact 650 654	said
+E378	Contact_Contact:T87
+A87	Realis E378 Generic
+T88	Contact_Contact 2118 2122	said
+E856	Contact_Contact:T88
+A88	Realis E856 Generic
+T89	Contact_Meet 920 927	session
+E546	Contact_Meet:T89
+A89	Realis E546 Other
+T90	Contact_Meet 2022 2030	Assembly
+E474	Contact_Meet:T90
+A90	Realis E474 Other
+T91	Contact_Meet 5565 5573	Assembly
+E471	Contact_Meet:T91
+A91	Realis E471 Actual
+T92	Contact_Contact 1349 1353	said
+E89	Contact_Contact:T92
+A92	Realis E89 Actual
+T93	Contact_Contact 2413 2417	said
+E2	Contact_Contact:T93
+A93	Realis E2 Actual
+T94	Contact_Contact 3269 3273	deny
+E704	Contact_Contact:T94
+A94	Realis E704 Generic
+T95	Contact_Contact 3322 3328	saying
+E230	Contact_Contact:T95
+A95	Realis E230 Generic
+T96	Contact_Broadcast 4513 4517	said
+E322	Contact_Broadcast:T96
+A96	Realis E322 Actual
+T97	Contact_Correspondence 4637 4642	asked
+E975	Contact_Correspondence:T97
+A97	Realis E975 Actual
+T98	Contact_Broadcast 5300 5307	calling
+E886	Contact_Broadcast:T98
+A98	Realis E886 Actual
+R1	Coreference Arg1:E255 Arg2:E56
+R2	Coreference Arg1:E56 Arg2:E687
+R3	Coreference Arg1:E687 Arg2:E697
+R4	Coreference Arg1:E697 Arg2:E852
+R5	Coreference Arg1:E852 Arg2:E354
+R6	Coreference Arg1:E354 Arg2:E130
+R7	Coreference Arg1:E130 Arg2:E16
+R8	Coreference Arg1:E16 Arg2:E710
+R9	Coreference Arg1:E710 Arg2:E186
+R10	Coreference Arg1:E731 Arg2:E730
+R11	Coreference Arg1:E730 Arg2:E28
+R12	Coreference Arg1:E28 Arg2:E382
+R13	Coreference Arg1:E382 Arg2:E691
+R14	Coreference Arg1:E691 Arg2:E622
+R15	Coreference Arg1:E622 Arg2:E509
+R16	Coreference Arg1:E509 Arg2:E990
+R17	Coreference Arg1:E782 Arg2:E291
+R18	Coreference Arg1:E291 Arg2:E314
+R19	Coreference Arg1:E314 Arg2:E592
+R20	Coreference Arg1:E592 Arg2:E491
+R21	Coreference Arg1:E491 Arg2:E71
+R22	Coreference Arg1:E289 Arg2:E634
+R23	Coreference Arg1:E634 Arg2:E750
+R24	Coreference Arg1:E750 Arg2:E913
+R25	Coreference Arg1:E913 Arg2:E225
+R26	Coreference Arg1:E225 Arg2:E272
+R27	Coreference Arg1:E272 Arg2:E445
+R28	Coreference Arg1:E624 Arg2:E795
+R29	Coreference Arg1:E795 Arg2:E45
+R30	Coreference Arg1:E513 Arg2:E35
+R31	Coreference Arg1:E35 Arg2:E699
+R32	Coreference Arg1:E699 Arg2:E958
+R33	Coreference Arg1:E736 Arg2:E11
+R34	Coreference Arg1:E444 Arg2:E786
+R35	Coreference Arg1:E992 Arg2:E68
+R36	Coreference Arg1:E68 Arg2:E735
+R37	Coreference Arg1:E147 Arg2:E76
+R38	Coreference Arg1:E982 Arg2:E963
+R39	Coreference Arg1:E549 Arg2:E904
+R40	Coreference Arg1:E391 Arg2:E110
+R41	Coreference Arg1:E378 Arg2:E856
+R42	Coreference Arg1:E546 Arg2:E474
+R43	Coreference Arg1:E474 Arg2:E471
+R44	Coreference Arg1:E704 Arg2:E230

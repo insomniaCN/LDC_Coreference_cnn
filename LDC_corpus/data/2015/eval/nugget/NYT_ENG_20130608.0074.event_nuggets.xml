@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea560000000000000027" doc_id="NYT_ENG_20130608.0074" source_type="newswire">
+  <event_mention id="em-104" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+    <trigger source="NYT_ENG_20130608.0074" offset="996" length="6">stolen</trigger>
+  </event_mention>
+  <event_mention id="em-180" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="2443" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-204" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="NYT_ENG_20130608.0074" offset="1217" length="5">built</trigger>
+  </event_mention>
+  <event_mention id="em-284" type="contact" subtype="meet" realis="generic" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="2190" length="8">meetings</trigger>
+  </event_mention>
+  <event_mention id="em-335" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="569" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-418" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130608.0074" offset="2694" length="6">flight</trigger>
+  </event_mention>
+  <event_mention id="em-486" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="214" length="8">MEETINGS</trigger>
+  </event_mention>
+  <event_mention id="em-505" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130608.0074" offset="479" length="7">arrived</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130608.0074" offset="1877" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-597" type="contact" subtype="meet" realis="generic" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="2054" length="8">meetings</trigger>
+  </event_mention>
+  <event_mention id="em-663" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130608.0074" offset="2110" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-671" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="779" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-675" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130608.0074" offset="1840" length="7">visited</trigger>
+  </event_mention>
+  <event_mention id="em-712" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130608.0074" offset="1371" length="10">statements</trigger>
+  </event_mention>
+  <event_mention id="em-771" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130608.0074" offset="2088" length="11">took office</trigger>
+  </event_mention>
+  <event_mention id="em-780" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130608.0074" offset="2123" length="9">departing</trigger>
+  </event_mention>
+  <event_mention id="em-838" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="2583" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-871" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130608.0074" offset="1931" length="12">negotiations</trigger>
+  </event_mention>
+  <event_mention id="em-887" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130608.0074" offset="1132" length="9">retreated</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

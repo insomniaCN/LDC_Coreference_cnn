@@ -1,0 +1,136 @@
+T1	Contact_Broadcast 5309 5313	said
+E503	Contact_Broadcast:T1
+A1	Realis E503 Actual
+T2	Justice_Sentence 426 435	sentences
+E655	Justice_Sentence:T2
+A2	Realis E655 Actual
+T3	Justice_Sentence 1185 1193	sentence
+E608	Justice_Sentence:T3
+A3	Realis E608 Actual
+T4	Justice_Trial-Hearing 488 494	trials
+E808	Justice_Trial-Hearing:T4
+A4	Realis E808 Other
+T5	Justice_Trial-Hearing 1917 1922	trial
+E995	Justice_Trial-Hearing:T5
+A5	Realis E995 Other
+T6	Justice_Trial-Hearing 2719 2724	trial
+E101	Justice_Trial-Hearing:T6
+A6	Realis E101 Other
+T7	Justice_Trial-Hearing 2819 2825	trials
+E802	Justice_Trial-Hearing:T7
+A7	Realis E802 Other
+T8	Justice_Sentence 3986 3994	sentence
+E257	Justice_Sentence:T8
+A8	Realis E257 Generic
+T9	Justice_Convict 720 731	convictions
+E940	Justice_Convict:T9
+A9	Realis E940 Actual
+T10	Justice_Convict 910 921	convictions
+E640	Justice_Convict:T10
+A10	Realis E640 Actual
+T11	Justice_Convict 1093 1104	convictions
+E729	Justice_Convict:T11
+A11	Realis E729 Actual
+T12	Justice_Arrest-Jail 1052 1064	incarcerated
+E727	Justice_Arrest-Jail:T12
+A12	Realis E727 Other
+T13	Justice_Arrest-Jail 1860 1872	imprisonment
+E488	Justice_Arrest-Jail:T13
+A13	Realis E488 Other
+T14	Justice_Release-Parole 1418 1425	release
+E523	Justice_Release-Parole:T14
+A14	Realis E523 Actual
+T15	Justice_Sentence 1590 1599	sentences
+E231	Justice_Sentence:T15
+A15	Realis E231 Actual
+T16	Justice_Appeal 1758 1764	appeal
+E926	Justice_Appeal:T16
+A16	Realis E926 Generic
+T17	Justice_Charge-Indict 2197 2204	charges
+E526	Justice_Charge-Indict:T17
+A17	Realis E526 Actual
+T18	Justice_Sentence 1720 1729	sentences
+E686	Justice_Sentence:T18
+A18	Realis E686 Generic
+T19	Justice_Convict 2857 2867	conviction
+E885	Justice_Convict:T19
+A19	Realis E885 Generic
+T20	Personnel_Nominate 3887 3896	appointed
+E905	Personnel_Nominate:T20
+A20	Realis E905 Actual
+T21	Justice_Trial-Hearing 4058 4066	hearings
+E529	Justice_Trial-Hearing:T21
+A21	Realis E529 Actual
+T22	Justice_Sentence 4279 4287	sentence
+E720	Justice_Sentence:T22
+A22	Realis E720 Generic
+T23	Transaction_Transfer-Ownership 4664 4674	distribute
+E709	Transaction_Transfer-Ownership:T23
+A23	Realis E709 Generic
+T24	Justice_Sentence 4683 4692	sentenced
+E483	Justice_Sentence:T24
+A24	Realis E483 Actual
+T25	Justice_Sentence 4805 4813	sentence
+E21	Justice_Sentence:T25
+A25	Realis E21 Actual
+T26	Justice_Arrest-Jail 4725 4731	prison
+E779	Justice_Arrest-Jail:T26
+A26	Realis E779 Generic
+T27	Justice_Appeal 4912 4921	Âappealed
+E480	Justice_Appeal:T27
+A27	Realis E480 Actual
+T28	Movement_Transport-Artifact 5010 5021	trafficking
+E407	Movement_Transport-Artifact:T28
+A28	Realis E407 Generic
+T29	Justice_Sentence 5076 5084	sentence
+E544	Justice_Sentence:T29
+A29	Realis E544 Actual
+T30	Justice_Appeal 5160 5168	appealed
+E541	Justice_Appeal:T30
+A30	Realis E541 Actual
+T31	Movement_Transport-Person 5181 5185	sent
+E199	Movement_Transport-Person:T31
+A31	Realis E199 Actual
+T32	Justice_Arrest-Jail 5196 5203	custody
+E899	Justice_Arrest-Jail:T32
+A32	Realis E899 Actual
+T33	Personnel_End-Position 759 765	former
+E350	Personnel_End-Position:T33
+A33	Realis E350 Actual
+T34	Justice_Release-Parole 868 872	free
+E403	Justice_Release-Parole:T34
+A34	Realis E403 Other
+T35	Contact_Broadcast 2381 2385	said
+E575	Contact_Broadcast:T35
+A35	Realis E575 Actual
+T36	Contact_Broadcast 2941 2945	said
+E786	Contact_Broadcast:T36
+A36	Realis E786 Actual
+T37	Contact_Broadcast 3208 3217	statement
+E509	Contact_Broadcast:T37
+A37	Realis E509 Actual
+T38	Contact_Broadcast 3392 3396	said
+E476	Contact_Broadcast:T38
+A38	Realis E476 Actual
+T39	Contact_Contact 3028 3036	sessions
+E977	Contact_Contact:T39
+A39	Realis E977 Actual
+T40	Contact_Contact 3948 3956	sessions
+E935	Contact_Contact:T40
+A40	Realis E935 Actual
+T41	Contact_Broadcast 4379 4383	said
+E53	Contact_Broadcast:T41
+A41	Realis E53 Actual
+T42	Contact_Broadcast 5230 5239	admitting
+E413	Contact_Broadcast:T42
+A42	Realis E413 Actual
+R1	Coreference Arg1:E655 Arg2:E608
+R2	Coreference Arg1:E808 Arg2:E995
+R3	Coreference Arg1:E995 Arg2:E101
+R4	Coreference Arg1:E101 Arg2:E802
+R5	Coreference Arg1:E940 Arg2:E640
+R6	Coreference Arg1:E640 Arg2:E729
+R7	Coreference Arg1:E727 Arg2:E488
+R8	Coreference Arg1:E483 Arg2:E21
+R9	Coreference Arg1:E786 Arg2:E509
+R10	Coreference Arg1:E977 Arg2:E935

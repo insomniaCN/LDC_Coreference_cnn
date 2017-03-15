@@ -1,0 +1,127 @@
+T1	Life_Die 206 218	assasination
+E1	Life_Die:T1 
+A1	Realis E1 Generic
+T2	Justice_Execute 251 260	execution
+E2	Justice_Execute:T2 
+A2	Realis E2 Actual
+T3	Life_Die 369 378	genocides
+E3	Life_Die:T3 
+A3	Realis E3 Other
+T4	Conflict_Attack 582 586	rape
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 608 615	torture
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Life_Die 620 626	murder
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Die 682 689	killing
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 1042 1051	invasions
+E8	Conflict_Attack:T8 
+A8	Realis E8 Generic
+T9	Life_Die 1083 1091	genocide
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1169 1175	killed
+E10	Life_Die:T10 
+A10	Realis E10 Other
+T11	Life_Die 1229 1233	dead
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 1487 1491	rape
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1513 1520	torture
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Life_Die 1525 1531	murder
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Life_Die 1587 1594	killing
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 1947 1956	invasions
+E16	Conflict_Attack:T16 
+A16	Realis E16 Generic
+T17	Life_Die 1988 1996	genocide
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Life_Die 2074 2080	killed
+E18	Life_Die:T18 
+A18	Realis E18 Other
+T19	Life_Die 2134 2138	dead
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Life_Die 2363 2371	murdered
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 2376 2381	raped
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Life_Die 2405 2414	genocides
+E22	Life_Die:T22 
+A22	Realis E22 Actual
+T25	Life_Die 3753 3761	murdered
+E25	Life_Die:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 3823 3827	rape
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 3866 3873	torture
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Life_Die 3915 3923	murdered
+E28	Life_Die:T28 
+A28	Realis E28 Actual
+T29	Conflict_Attack 3926 3931	raped
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 3936 3944	tortured
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 192 201	terorrism
+E31	Conflict_Attack:T31 
+A31	Realis E31 Generic
+A32	Questionable E3 Realis
+T32	Conflict_Attack 505 514	terrorism
+E32	Conflict_Attack:T32 
+A33	Realis E32 Generic
+T33	Conflict_Attack 955 964	terrorism
+E33	Conflict_Attack:T33 
+A34	Realis E33 Generic
+T34	Conflict_Attack 1860 1869	terrorism
+E34	Conflict_Attack:T34 
+A35	Realis E34 Generic
+T23	Life_Die 5135 5142	killing
+E23	Life_Die:T23 
+A23	Realis E23 Generic
+T24	Life_Die 5204 5212	killings
+E24	Life_Die:T24 
+A24	Realis E24 Generic
+T35	Life_Die 5478 5486	murdered
+E35	Life_Die:T35 
+A36	Realis E35 Actual
+T36	Conflict_Attack 5491 5496	raped
+E36	Conflict_Attack:T36 
+A37	Realis E36 Actual
+T37	Life_Die 5520 5529	genocides
+E37	Life_Die:T37 
+A38	Realis E37 Actual
+T38	Contact_Meet 5734 5744	conference
+E38	Contact_Meet:T38 
+A39	Realis E38 Actual
+T39	Life_Die 5851 5857	killed
+E39	Life_Die:T39 
+A40	Realis E39 Actual
+T40	Life_Die 6166 6172	killed
+E40	Life_Die:T40 
+A41	Realis E40 Actual
+T41	Life_Die 7151 7158	killing
+E41	Life_Die:T41 
+A42	Realis E41 Generic
+T42	Life_Die 7220 7228	killings
+E42	Life_Die:T42 
+A43	Realis E42 Generic

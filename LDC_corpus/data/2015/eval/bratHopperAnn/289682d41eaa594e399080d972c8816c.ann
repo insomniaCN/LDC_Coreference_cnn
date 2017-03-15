@@ -1,0 +1,23 @@
+T2	Personnel_End-Position 152 158	former
+E97	Personnel_End-Position:T2
+A2	Realis E97 Actual
+T2	Personnel_End-Position 152 158	former
+E390	Personnel_End-Position:T2
+A2	Realis E390 Actual
+T3	Justice_Sue 247 255	lawsuits
+E447	Justice_Sue:T3
+A3	Realis E447 Actual
+T4	Justice_Sue 758 766	lawsuits
+E239	Justice_Sue:T4
+A4	Realis E239 Actual
+T5	Business_Declare-Bankruptcy 459 469	bankruptcy
+E866	Business_Declare-Bankruptcy:T5
+A5	Realis E866 Generic
+T6	Transaction_Transfer-Money 796 800	loan
+E718	Transaction_Transfer-Money:T6
+A6	Realis E718 Actual
+T7	Transaction_Transfer-Money 964 968	loan
+E411	Transaction_Transfer-Money:T7
+A7	Realis E411 Actual
+R1	Coreference Arg1:E447 Arg2:E239
+R2	Coreference Arg1:E718 Arg2:E411

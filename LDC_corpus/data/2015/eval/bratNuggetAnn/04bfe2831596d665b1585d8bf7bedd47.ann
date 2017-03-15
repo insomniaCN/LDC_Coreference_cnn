@@ -1,0 +1,72 @@
+T1	Justice_Pardon 1426 1432	pardon
+E32	Justice_Pardon:T1
+A1	Realis E32 Generic
+T2	Justice_Charge-Indict 1649 1656	charged
+E73	Justice_Charge-Indict:T2
+A2	Realis E73 Actual
+T3	Justice_Execute 1536 1546	executions
+E187	Justice_Execute:T3
+A3	Realis E187 Generic
+T4	Justice_Pardon 1874 1883	amnesties
+E199	Justice_Pardon:T4
+A4	Realis E199 Actual
+T5	Contact_Broadcast 416 420	said
+E248	Contact_Broadcast:T5
+A5	Realis E248 Actual
+T6	Conflict_Attack 609 619	kidnapping
+E261	Conflict_Attack:T6
+A6	Realis E261 Actual
+T7	Contact_Broadcast 1290 1297	reports
+E289	Contact_Broadcast:T7
+A7	Realis E289 Actual
+T8	Conflict_Attack 1685 1695	kidnapping
+E290	Conflict_Attack:T8
+A8	Realis E290 Generic
+T9	Conflict_Attack 2034 2047	disappearance
+E308	Conflict_Attack:T9
+A9	Realis E308 Generic
+T10	Justice_Charge-Indict 482 489	charged
+E325	Justice_Charge-Indict:T10
+A10	Realis E325 Actual
+T11	Justice_Pardon 1805 1812	amnesty
+E328	Justice_Pardon:T11
+A11	Realis E328 Generic
+T12	Conflict_Attack 1509 1516	torture
+E344	Conflict_Attack:T12
+A12	Realis E344 Generic
+T13	Movement_Transport-Person 2051 2061	kidnapping
+E430	Movement_Transport-Person:T13
+A13	Realis E430 Generic
+T14	Movement_Transport-Person 1111 1116	taken
+E460	Movement_Transport-Person:T14
+A14	Realis E460 Other
+T15	Justice_Pardon 1391 1398	Amnesty
+E464	Justice_Pardon:T15
+A15	Realis E464 Generic
+T16	Justice_Arrest-Jail 1345 1349	held
+E598	Justice_Arrest-Jail:T16
+A16	Realis E598 Actual
+T17	Personnel_End-Position 509 516	retired
+E625	Personnel_End-Position:T17
+A17	Realis E625 Actual
+T18	Conflict_Attack 2051 2061	kidnapping
+E642	Conflict_Attack:T18
+A18	Realis E642 Generic
+T19	Life_Die 1536 1546	executions
+E688	Life_Die:T19
+A19	Realis E688 Generic
+T20	Movement_Transport-Person 1685 1695	kidnapping
+E774	Movement_Transport-Person:T20
+A20	Realis E774 Generic
+T21	Movement_Transport-Person 609 619	kidnapping
+E792	Movement_Transport-Person:T21
+A21	Realis E792 Actual
+T22	Conflict_Attack 1324 1332	tortured
+E839	Conflict_Attack:T22
+A22	Realis E839 Actual
+T23	Justice_Pardon 1970 1977	Amnesty
+E877	Justice_Pardon:T23
+A23	Realis E877 Generic
+T24	Justice_Arrest-Jail 997 1005	detained
+E999	Justice_Arrest-Jail:T24
+A24	Realis E999 Actual

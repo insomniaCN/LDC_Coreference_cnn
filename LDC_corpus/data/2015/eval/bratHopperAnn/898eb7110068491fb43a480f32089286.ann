@@ -1,0 +1,77 @@
+T1	Justice_Sue 297 304	lawsuit
+E171	Justice_Sue:T1
+A1	Realis E171 Actual
+T2	Justice_Sue 507 514	lawsuit
+E672	Justice_Sue:T2
+A2	Realis E672 Actual
+T3	Contact_Broadcast 383 392	statement
+E443	Contact_Broadcast:T3
+A3	Realis E443 Actual
+T4	Contact_Broadcast 1214 1223	statement
+E862	Contact_Broadcast:T4
+A4	Realis E862 Actual
+T5	Contact_Broadcast 1476 1485	statement
+E251	Contact_Broadcast:T5
+A5	Realis E251 Actual
+T6	Contact_Broadcast 1666 1675	statement
+E839	Contact_Broadcast:T6
+A6	Realis E839 Actual
+T7	Contact_Correspondence 607 616	contacted
+E750	Contact_Correspondence:T7
+A7	Realis E750 Actual
+T8	Contact_Correspondence 827 832	asked
+E877	Contact_Correspondence:T8
+A8	Realis E877 Actual
+T9	Contact_Correspondence 903 910	replied
+E450	Contact_Correspondence:T9
+A9	Realis E450 Actual
+T10	Movement_Transport-Person 697 705	vacation
+E513	Movement_Transport-Person:T10
+A10	Realis E513 Other
+T11	Contact_Meet 709 714	visit
+E646	Contact_Meet:T11
+A11	Realis E646 Other
+T12	Transaction_Transfer-Ownership 934 938	rent
+E128	Transaction_Transfer-Ownership:T12
+A12	Realis E128 Other
+T13	Contact_Correspondence 987 992	calls
+E39	Contact_Correspondence:T13
+A13	Realis E39 Actual
+T14	Contact_Contact 1050 1054	told
+E218	Contact_Contact:T14
+A14	Realis E218 Actual
+T15	Contact_Contact 1496 1505	complaint
+E844	Contact_Contact:T15
+A15	Realis E844 Actual
+T16	Transaction_Transfer-Money 1599 1606	damages
+E780	Transaction_Transfer-Money:T16
+A16	Realis E780 Other
+T17	Transaction_Transfer-Money 2623 2630	damages
+E996	Transaction_Transfer-Money:T17
+A17	Realis E996 Other
+T18	Transaction_Transfer-Money 1622 1626	fees
+E203	Transaction_Transfer-Money:T18
+A18	Realis E203 Other
+T19	Transaction_Transfer-Money 2646 2650	fees
+E891	Transaction_Transfer-Money:T19
+A19	Realis E891 Other
+T20	Business_End-Org 2159 2164	close
+E25	Business_End-Org:T20
+A20	Realis E25 Other
+T21	Transaction_Transfer-Ownership 2168 2172	sell
+E465	Transaction_Transfer-Ownership:T21
+A21	Realis E465 Other
+T22	Transaction_Transfer-Money 934 938	rent
+E365	Transaction_Transfer-Money:T22
+A22	Realis E365 Other
+T23	Transaction_Transfer-Money 2168 2172	sell
+E729	Transaction_Transfer-Money:T23
+A23	Realis E729 Other
+R1	Coreference Arg1:E171 Arg2:E672
+R2	Coreference Arg1:E443 Arg2:E862
+R3	Coreference Arg1:E862 Arg2:E251
+R4	Coreference Arg1:E251 Arg2:E839
+R5	Coreference Arg1:E750 Arg2:E877
+R6	Coreference Arg1:E877 Arg2:E450
+R7	Coreference Arg1:E780 Arg2:E996
+R8	Coreference Arg1:E203 Arg2:E891

@@ -1,0 +1,111 @@
+T1	Life_Die 129 142	Assassination
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 235 248	assassination
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 1135 1141	strike
+E3	Conflict_Attack:T3 
+A3	Realis E3 Other
+T4	Life_Die 1570 1578	murdered
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 1604 1615	opened fire
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Life_Die 1643 1650	killing
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Injure 1665 1673	wounding
+E7	Life_Injure:T7 
+A7	Realis E7 Actual
+T8	Life_Die 6487 6493	killed
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Life_Die 6645 6653	murdered
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Life_Die 6463 6467	dead
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Life_Die 6225 6233	murdered
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Life_Die 6053 6061	murdered
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Life_Die 5291 5304	assassination
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Personnel_End-Position 5467 5473	former
+E14	Personnel_End-Position:T14 
+A14	Realis E14 Actual
+T15	Life_Die 5515 5523	murdered
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Life_Die 5694 5706	assassinated
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Life_Die 5211 5224	Assassination
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Life_Die 4663 4671	murdered
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Life_Injure 3762 3765	hit
+E19	Life_Injure:T19 
+A19	Realis E19 Actual
+T20	Life_Injure 3466 3472	injury
+E20	Life_Injure:T20 
+A20	Realis E20 Actual
+T21	Life_Injure 3322 3328	injury
+E21	Life_Injure:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 3172 3176	bomb
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 323 329	attack
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Life_Injure 4079 4082	hit
+E24	Life_Injure:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 4232 4237	blast
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Life_Die 4867 4871	dead
+E26	Life_Die:T26 
+A26	Realis E26 Actual
+T27	Life_Die 4891 4897	killed
+E27	Life_Die:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 577 583	strike
+E28	Conflict_Attack:T28 
+A28	Realis E28 Generic
+T29	Conflict_Attack 3132 3137	blast
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 1404 1412	violence
+E30	Conflict_Attack:T30 
+A30	Realis E30 Generic
+T31	Life_Die 3254 3261	suicide
+E31	Life_Die:T31 
+A31	Realis E31 Generic
+T32	Conflict_Attack 3314 3319	blast
+E32	Conflict_Attack:T32 
+A32	Realis E32 Generic
+T33	Conflict_Attack 3773 3780	gunfire
+E33	Conflict_Attack:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 4090 4097	gunfire
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T35	Conflict_Attack 4257 4262	shots
+E35	Conflict_Attack:T35 
+A35	Realis E35 Actual
+T36	Contact_Communicate 4832 4836	told
+E36	Contact_Communicate:T36 
+A36	Realis E36 Actual
+T37	Contact_Communicate 6428 6432	told
+E37	Contact_Communicate:T37 
+A37	Realis E37 Actual

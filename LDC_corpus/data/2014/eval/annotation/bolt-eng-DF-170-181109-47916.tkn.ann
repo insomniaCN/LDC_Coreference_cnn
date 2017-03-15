@@ -1,0 +1,72 @@
+T1	Justice_Charge-Indict 69 76	charged
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 253 260	whipped
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 280 289	going out
+E3	Movement_Transport-Person:T3 
+T4	Movement_Transport-Person 394 405	broken into
+E4	Movement_Transport-Person:T4 
+A3	Realis E4 Actual
+T5	Conflict_Attack 502 508	lashed
+E5	Conflict_Attack:T5 
+A4	Realis E5 Actual
+T6	Conflict_Attack 434 438;450 454	held down
+E6	Conflict_Attack:T6 
+A5	Realis E6 Actual
+T7	Justice_Charge-Indict 666 673	charged
+E7	Justice_Charge-Indict:T7 
+A6	Realis E7 Actual
+T8	Conflict_Attack 694 701	lashing
+E8	Conflict_Attack:T8 
+A7	Realis E8 Actual
+T9	Conflict_Attack 2125 2131	beaten
+E9	Conflict_Attack:T9 
+A8	Realis E9 Actual
+T10	Life_Die 2187 2191	kill
+E10	Life_Die:T10 
+A9	Realis E10 Other
+T11	Contact_Meet 2418 2425	discuss
+E11	Contact_Meet:T11 
+A10	Realis E11 Actual
+T12	Life_Divorce 2458 2465	divorce
+E12	Life_Divorce:T12 
+A11	Realis E12 Other
+T13	Life_Divorce 2562 2569	divorce
+E13	Life_Divorce:T13 
+A12	Realis E13 Generic
+T14	Justice_Appeal 2648 2655	appeals
+E14	Justice_Appeal:T14 
+A13	Realis E14 Generic
+T15	Life_Divorce 2752 2759	divorce
+E15	Life_Divorce:T15 
+A14	Realis E15 Other
+T16	Contact_Meet 2719 2724	asked
+E16	Contact_Meet:T16 
+A15	Realis E16 Actual
+T17	Contact_Meet 2766 2773	replies
+E17	Contact_Meet:T17 
+A16	Realis E17 Actual
+T18	Life_Divorce 3230 3237	divorce
+E18	Life_Divorce:T18 
+A17	Realis E18 Generic
+T19	Life_Divorce 3380 3391	dissolution
+E19	Life_Divorce:T19 
+A18	Realis E19 Other
+T20	Life_Be-Born 4170 4174	born
+E20	Life_Be-Born:T20 
+A19	Realis E20 Actual
+T21	Life_Die 5955 5959	dead
+E21	Life_Die:T21 
+A20	Realis E21 Other
+T22	Conflict_Attack 97 104	lashing
+E22	Conflict_Attack:T22 
+A21	Realis E22 Actual
+T23	Life_Marry 2091 2100	marriages
+E23	Life_Marry:T23 
+A22	Realis E23 Generic
+T24	Personnel_End-Position 4135 4141	former
+E24	Personnel_End-Position:T24 
+A23	Realis E24 Actual
+A24	Realis E3 Actual

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000601" doc_id="bolt-eng-DF-199-193201-6644457" source_type="multi_post">
+<event_mention id="em-23" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="277" length="4">went</trigger>
+      </event_mention>
+<event_mention id="em-38" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="401" length="4">date</trigger>
+      </event_mention>
+<event_mention id="em-51" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="336" length="4">date</trigger>
+      </event_mention>
+<event_mention id="em-64" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="375" length="9">described</trigger>
+      </event_mention>
+<event_mention id="em-79" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="495" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-92" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="570" length="6">skiing</trigger>
+      </event_mention>
+<event_mention id="em-107" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="609" length="4">trip</trigger>
+      </event_mention>
+<event_mention id="em-120" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="723" length="3">met</trigger>
+      </event_mention>
+<event_mention id="em-135" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="740" length="6">outing</trigger>
+      </event_mention>
+<event_mention id="em-148" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="76" length="4">date</trigger>
+      </event_mention>
+<event_mention id="em-163" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="797" length="6">headed</trigger>
+      </event_mention>
+<event_mention id="em-176" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="840" length="7">driving</trigger>
+      </event_mention>
+<event_mention id="em-189" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="1059" length="9">suggested</trigger>
+      </event_mention>
+<event_mention id="em-204" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="1167" length="5">going</trigger>
+      </event_mention>
+<event_mention id="em-217" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="1203" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-232" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="1341" length="7">crawled</trigger>
+      </event_mention>
+<event_mention id="em-247" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="2218" length="8">answered</trigger>
+      </event_mention>
+<event_mention id="em-262" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="2238" length="8">concerns</trigger>
+      </event_mention>
+<event_mention id="em-275" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="2368" length="4">came</trigger>
+      </event_mention>
+<event_mention id="em-290" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="2992" length="4">date</trigger>
+      </event_mention>
+<event_mention id="em-303" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="3185" length="4">date</trigger>
+      </event_mention>
+<event_mention id="em-316" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="3548" length="4">date</trigger>
+      </event_mention>
+<event_mention id="em-329" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="3643" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-344" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="3777" length="4">went</trigger>
+      </event_mention>
+<event_mention id="em-359" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="3985" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-374" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="4078" length="7">mention</trigger>
+      </event_mention>
+<event_mention id="em-389" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="4096" length="5">dance</trigger>
+      </event_mention>
+<event_mention id="em-404" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-193201-6644457" offset="4130" length="5">moved</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976380000000000000026" doc_id="AFP_ENG_20100513.0269" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-68" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="317" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="93" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="461" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="540" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-120" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="850" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-133" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="895" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-146" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="1328" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-159" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="1440" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-172" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="1578" length="9">arresting</trigger>
+      </event_mention>
+      <event_mention id="em-185" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="1083" length="8">detained</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-198" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="682" length="10">embezzling</trigger>
+      </event_mention>
+      <event_mention id="em-211" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="237" length="13">siphoning off</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-224" type="justice" subtype="extradite" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="2495" length="11">extradition</trigger>
+      </event_mention>
+      <event_mention id="em-237" type="justice" subtype="extradite" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="1218" length="11">extradition</trigger>
+      </event_mention>
+      <event_mention id="em-250" type="justice" subtype="extradite" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="2708" length="11">extradition</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-263" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="966" length="16">money laundering</trigger>
+      </event_mention>
+      <event_mention id="em-276" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="753" length="16">money laundering</trigger>
+      </event_mention>
+      <event_mention id="em-289" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="291" length="16">money laundering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-302" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="203" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-315" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="226" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-328" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="669" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-341" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="1602" length="4">fled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-354" type="justice" subtype="acquit" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="1691" length="9">acquitted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-367" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="1731" length="6">charge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-380" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20100513.0269" offset="1887" length="10">bankrolled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-393" type="personnel" subtype="elect" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="1909" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-406" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="AFP_ENG_20100513.0269" offset="1962" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-419" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20100513.0269" offset="2110" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-432" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="2122" length="12">stolen money</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-38">
+      <event_mention id="em-445" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20100513.0269" offset="2437" length="13">interrogation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-40">
+      <event_mention id="em-458" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="2523" length="9">discussed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-42">
+      <event_mention id="em-471" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="2601" length="10">dispatched</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-44">
+      <event_mention id="em-484" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100513.0269" offset="2643" length="7">sending</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-46">
+      <event_mention id="em-497" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="2940" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-48">
+      <event_mention id="em-510" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="2038" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-50">
+      <event_mention id="em-523" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="2866" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-698" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="2000" length="11">ex-governor</trigger>
+      </event_mention>
+      <event_mention id="em-711" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="81" length="11">ex-governor</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-52">
+      <event_mention id="em-536" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="358" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-54">
+      <event_mention id="em-549" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20100513.0269" offset="832" length="9">confirmed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-56">
+      <event_mention id="em-562" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="1293" length="7">confirm</trigger>
+      </event_mention>
+      <event_mention id="em-670" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="1304" length="4">deny</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-58">
+      <event_mention id="em-575" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="1390" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-60">
+      <event_mention id="em-588" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20100513.0269" offset="1472" length="8">declared</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-601" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="1801" length="4">late</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-614" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="2355" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-627" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100513.0269" offset="2382" length="6">freeze</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-653">
+      <event_mention id="em-640" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="635" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-724" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="2541" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-737" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="2726" length="5">added</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-668">
+      <event_mention id="em-655" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="1030" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-696">
+      <event_mention id="em-683" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100513.0269" offset="1758" length="3">say</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-763">
+      <event_mention id="em-750" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20100513.0269" offset="2900" length="12">ex-president</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

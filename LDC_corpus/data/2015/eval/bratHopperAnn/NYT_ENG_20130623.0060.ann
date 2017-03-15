@@ -1,0 +1,129 @@
+T1	Conflict_Demonstrate 209 219	PROTESTERS
+E305	Conflict_Demonstrate:T1
+A1	Realis E305 Actual
+T2	Conflict_Demonstrate 673 683	protesters
+E175	Conflict_Demonstrate:T2
+A2	Realis E175 Actual
+T3	Conflict_Demonstrate 884 891	protest
+E912	Conflict_Demonstrate:T3
+A3	Realis E912 Actual
+T4	Conflict_Demonstrate 2047 2054	protest
+E882	Conflict_Demonstrate:T4
+A4	Realis E882 Actual
+T5	Conflict_Demonstrate 2292 2300	protests
+E301	Conflict_Demonstrate:T5
+A5	Realis E301 Actual
+T6	Conflict_Demonstrate 984 994	protesters
+E819	Conflict_Demonstrate:T6
+A6	Realis E819 Actual
+T7	Conflict_Demonstrate 1342 1352	protesters
+E730	Conflict_Demonstrate:T7
+A7	Realis E730 Actual
+T8	Conflict_Demonstrate 1498 1508	protesters
+E226	Conflict_Demonstrate:T8
+A8	Realis E226 Actual
+T9	Conflict_Demonstrate 1611 1621	protesters
+E395	Conflict_Demonstrate:T9
+A9	Realis E395 Actual
+T10	Conflict_Demonstrate 1677 1687	protesters
+E839	Conflict_Demonstrate:T10
+A10	Realis E839 Actual
+T11	Conflict_Demonstrate 2075 2088	Demonstrators
+E631	Conflict_Demonstrate:T11
+A11	Realis E631 Actual
+T12	Conflict_Attack 1485 1493	spraying
+E601	Conflict_Attack:T12
+A12	Realis E601 Actual
+T13	Conflict_Attack 189 196	CANNONS
+E453	Conflict_Attack:T13
+A13	Realis E453 Actual
+T14	Conflict_Attack 423 430	cannons
+E980	Conflict_Attack:T14
+A14	Realis E980 Actual
+T15	Contact_Meet 470 478	gathered
+E733	Contact_Meet:T15
+A15	Realis E733 Actual
+T16	Life_Die 528 534	killed
+E941	Life_Die:T16
+A16	Realis E941 Actual
+T17	Conflict_Demonstrate 573 581	protests
+E640	Conflict_Demonstrate:T17
+A17	Realis E640 Actual
+T18	Conflict_Demonstrate 2537 2545	protests
+E585	Conflict_Demonstrate:T18
+A18	Realis E585 Actual
+T19	Contact_Broadcast 691 700	statement
+E663	Contact_Broadcast:T19
+A19	Realis E663 Actual
+T20	Movement_Transport-Person 725 732	turning
+E831	Movement_Transport-Person:T20
+A20	Realis E831 Actual
+T21	Contact_Broadcast 1304 1310	warned
+E208	Contact_Broadcast:T21
+A21	Realis E208 Actual
+T22	Movement_Transport-Person 1452 1457	moved
+E11	Movement_Transport-Person:T22
+A22	Realis E11 Actual
+T23	Conflict_Attack 1593 1601	tear gas
+E436	Conflict_Attack:T23
+A23	Realis E436 Other
+T24	Conflict_Attack 2190 2198	tear gas
+E832	Conflict_Attack:T24
+A24	Realis E832 Other
+T25	Conflict_Attack 1666 1670	fire
+E391	Conflict_Attack:T25
+A25	Realis E391 Actual
+T26	Contact_Meet 1896 1900	said
+E347	Contact_Meet:T26
+A26	Realis E347 Actual
+T27	Transaction_Transfer-Ownership 1954 1958	hand
+E503	Transaction_Transfer-Ownership:T27
+A27	Realis E503 Other
+T28	Conflict_Attack 1991 1997	pushed
+E262	Conflict_Attack:T28
+A28	Realis E262 Actual
+T29	Contact_Meet 2029 2033	said
+E873	Contact_Meet:T29
+A29	Realis E873 Actual
+T30	Contact_Broadcast 2275 2282	claimed
+E607	Contact_Broadcast:T30
+A30	Realis E607 Actual
+T31	Conflict_Demonstrate 2663 2668	rally
+E505	Conflict_Demonstrate:T31
+A31	Realis E505 Actual
+T32	Movement_Transport-Person 434 441	scatter
+E157	Movement_Transport-Person:T32
+A32	Realis E157 Actual
+T33	Movement_Transport-Person 1364 1369	leave
+E905	Movement_Transport-Person:T33
+A33	Realis E905 Other
+T34	Movement_Transport-Person 1324 1332	disperse
+E526	Movement_Transport-Person:T34
+A34	Realis E526 Other
+T35	Movement_Transport-Person 1605 1610	force
+E147	Movement_Transport-Person:T35
+A35	Realis E147 Other
+T36	Movement_Transport-Person 1821 1826	clear
+E591	Movement_Transport-Person:T36
+A36	Realis E591 Other
+T37	Conflict_Attack 528 534	killed
+E572	Conflict_Attack:T37
+A37	Realis E572 Actual
+R1	Coreference Arg1:E305 Arg2:E175
+R2	Coreference Arg1:E175 Arg2:E912
+R3	Coreference Arg1:E912 Arg2:E819
+R4	Coreference Arg1:E819 Arg2:E730
+R5	Coreference Arg1:E730 Arg2:E226
+R6	Coreference Arg1:E226 Arg2:E395
+R7	Coreference Arg1:E395 Arg2:E839
+R8	Coreference Arg1:E839 Arg2:E882
+R9	Coreference Arg1:E882 Arg2:E631
+R10	Coreference Arg1:E631 Arg2:E301
+R11	Coreference Arg1:E453 Arg2:E980
+R12	Coreference Arg1:E980 Arg2:E601
+R13	Coreference Arg1:E640 Arg2:E585
+R14	Coreference Arg1:E436 Arg2:E832
+R15	Coreference Arg1:E157 Arg2:E526
+R16	Coreference Arg1:E526 Arg2:E905
+R17	Coreference Arg1:E905 Arg2:E147
+R18	Coreference Arg1:E147 Arg2:E591

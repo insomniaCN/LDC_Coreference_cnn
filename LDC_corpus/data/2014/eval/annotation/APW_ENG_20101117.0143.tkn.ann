@@ -1,0 +1,36 @@
+T1	Transaction_Transfer-Ownership 79 90	trafficking
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 99 106	arrives
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 216 227	trafficking
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 252 258	landed
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Justice_Extradite 307 317	extradited
+E5	Justice_Extradite:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 428 434	landed
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Justice_Extradite 582 593	extradition
+E7	Justice_Extradite:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 749 752	war
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Life_Die 847 852	Death
+E9	Life_Die:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Ownership 887 893	arming
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Generic
+T11	Justice_Arrest-Jail 971 979	arrested
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T12	Justice_Release-Parole 1136 1143	release
+E12	Justice_Release-Parole:T12 
+A12	Realis E12 Other

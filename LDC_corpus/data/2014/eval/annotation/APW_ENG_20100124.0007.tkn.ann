@@ -1,0 +1,45 @@
+T2	Contact_Communicate 226 232	phoned
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T4	Contact_Communicate 396 406	made calls
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T7	Contact_Communicate 596 601	spoke
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 635 642	discuss
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 655 666	phone calls
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T13	Personnel_End-Position 933 939	former
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Actual
+T19	Personnel_Elect 1669 1672	won
+E19	Personnel_Elect:T19 
+A19	Realis E19 Actual
+T20	Personnel_Elect 1699 1707	election
+E20	Personnel_Elect:T20 
+A20	Realis E20 Actual
+T21	Personnel_Elect 1789 1800	re-election
+E21	Personnel_Elect:T21 
+A21	Realis E21 Other
+T23	Contact_Communicate 1841 1852	discussions
+E23	Contact_Communicate:T23 
+A23	Realis E23 Actual
+T26	Personnel_Nominate 2155 2165	nomination
+E26	Personnel_Nominate:T26 
+A26	Realis E26 Actual
+T29	Transaction_Transfer-Money 2758 2766	bailouts
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Actual
+T30	Contact_Communicate 2938 2944	phoned
+E30	Contact_Communicate:T30 
+A30	Realis E30 Actual
+T31	Contact_Communicate 3024 3034	made calls
+E31	Contact_Communicate:T31 
+A31	Realis E31 Actual
+T1	Contact_Communicate 555 559	told
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual

@@ -1,0 +1,34 @@
+<DOC id= " NYT_ENG_20130602.0053 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130602 / 20130602,8c3fd5b548e15194e57 a13254daaa015 . xml " > 
+<HEADLINE> 
+U.S. LAWMAKERS VISIT MOSCOW FOR INSIGHTS INTO BOSTON BOMBING 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+MOSCOW - Members of a congressional delegation visiting Moscow to investigate the background of the Boston Marathon bombing suspects said Sunday that the attack might have been prevented by greater cooperation between the United States and Russia on intelligence issues and counterterrorism efforts .
+< / P> 
+<P> 
+But the lawmakers said they could not point to any specific misstep by the U.S. or Russia intelligence services , and they did not offer any new insights into what motivated the suspects , two brothers with family ties in Russia ’s North Caucasus , to commit the attack .
+< / P> 
+<P> 
+“ Yes , it could have been averted , ” said Rep. Dana Rohrabacher , R - Calif . , who led the delegation . “ Not just by one mistake by the United States or one mistake made over here in Russia , but instead by making sure that both countries were working together on a much higher level . ” 
+< / P> 
+<P> 
+The six - member delegation received a rare , high - level briefing at the headquarters of the Russian Federal Security Service , known as the FSB , in which they were told about the agency ’s efforts to warn the U.S. authorities about the older suspect , Tamerlan Tsarnaev , and his mother , Zubeidat Tsarnaeva , and the likelihood that they harbored extremist views .
+< / P> 
+<P> 
+The lawmakers praised the cooperation they received from Russian authorities but said that they had been unable to get an answer to a question about the circumstances of Tsarnaev ’s return to the United States after a six - month visit to the southern republic of Dagestan in the Caucasus last year .
+< / P> 
+<P> 
+They said Russian officials confirmed reports that Tsarnaev left Dagestan two days after an acquaintance , who was a member of a Muslim rebel group , was killed during a security operation . But the lawmakers said that the Russian authorities could not tell them when Tsarnaev had purchased his airline ticket or if he had left in a rush , fearing for his life .
+< / P> 
+<P> 
+Rohrabacher , speaking at a news conference at the U.S. Embassy in Moscow , said that he had no reason to conclude that the FBI or the Obama administration had mishandled the warnings from Russia . Rather , he said , the relationship with Russia in general should have been stronger .
+< / P> 
+<P> 
+Rep. Steve King , R - Iowa , said that the United States and Russia could be formidable partners in fighting terrorism .
+< / P> 
+<P> 
+“ If Americans and Russia can conquer space together , we can defeat radical Islam together , and that ’s why I came here , to advance that , ” he said .
+< / P> 
+< / TEXT> 
+< / DOC

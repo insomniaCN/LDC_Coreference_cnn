@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000652" doc_id="XIN_ENG_20090915.0127" source_type="newswire">
+<event_mention id="em-10" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20090915.0127" offset="70" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-23" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20090915.0127" offset="246" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-36" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="327" length="3">new</trigger>
+      </event_mention>
+<event_mention id="em-51" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="78" length="8">approves</trigger>
+      </event_mention>
+<event_mention id="em-64" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20090915.0127" offset="480" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-77" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="552" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-94" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="611" length="10">indictment</trigger>
+      </event_mention>
+<event_mention id="em-107" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="703" length="3">new</trigger>
+      </event_mention>
+<event_mention id="em-120" type="personnel" subtype="elect" realis="generic">
+        <trigger source="XIN_ENG_20090915.0127" offset="777" length="9">elections</trigger>
+      </event_mention>
+<event_mention id="em-135" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="808" length="6">became</trigger>
+      </event_mention>
+<event_mention id="em-150" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="869" length="12">stepped down</trigger>
+      </event_mention>
+<event_mention id="em-165" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="planned">
+        <trigger source="XIN_ENG_20090915.0127" offset="902" length="7">message</trigger>
+      </event_mention>
+<event_mention id="em-180" type="personnel" subtype="elect" realis="actual">
+        <trigger source="XIN_ENG_20090915.0127" offset="926" length="7">elected</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,18 @@
+T1	Personnel_End-Position 918 924	former
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Contact_Meet 1013 1020	meeting
+E2	Contact_Meet:T2 
+A2	Realis E2 Actual
+T4	Personnel_Start-Position 502 513	appointment
+E4	Personnel_Start-Position:T4 
+A4	Realis E4 Actual
+T3	Personnel_Start-Position 740 751	appointment
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Other
+T5	Personnel_Start-Position 1070 1081	appointment
+E5	Personnel_Start-Position:T5 
+A5	Realis E5 Other
+T6	Personnel_Start-Position 1122 1131	replacing
+E6	Personnel_Start-Position:T6 
+A6	Realis E6 Actual

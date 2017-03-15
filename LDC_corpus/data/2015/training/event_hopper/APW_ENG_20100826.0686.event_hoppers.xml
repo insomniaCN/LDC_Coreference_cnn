@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000555" doc_id="APW_ENG_20100826.0686" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="64" length="10">extradites</trigger>
+      </event_mention>
+      <event_mention id="em-126" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="308" length="10">extradited</trigger>
+      </event_mention>
+      <event_mention id="em-167" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="386" length="10">extradited</trigger>
+      </event_mention>
+      <event_mention id="em-281" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="772" length="11">extradition</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="64" length="10">extradites</trigger>
+      </event_mention>
+      <event_mention id="em-139" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="308" length="10">extradited</trigger>
+      </event_mention>
+      <event_mention id="em-180" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="386" length="10">extradited</trigger>
+      </event_mention>
+      <event_mention id="em-294" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="772" length="11">extradition</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="conflict" subtype="attack" realis="generic">
+        <trigger source="APW_ENG_20100826.0686" offset="75" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-113" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="300" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-268" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="718" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-350" type="conflict" subtype="attack" realis="generic">
+        <trigger source="APW_ENG_20100826.0686" offset="888" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="234" length="9">murdering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="245" length="6">raping</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-83" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="252" length="13">and torturing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-98" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="234" length="9">murdering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-152" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="349" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-206">
+      <event_mention id="em-193" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="426" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-221">
+      <event_mention id="em-208" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="452" length="7">robbery</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-236">
+      <event_mention id="em-223" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="464" length="7">assault</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-251">
+      <event_mention id="em-238" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="638" length="8">killings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-266">
+      <event_mention id="em-253" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20100826.0686" offset="638" length="8">killings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-333">
+      <event_mention id="em-320" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="850" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-348">
+      <event_mention id="em-335" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="877" length="7">robbery</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-376">
+      <event_mention id="em-363" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="922" length="6">jailed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-391">
+      <event_mention id="em-378" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100826.0686" offset="981" length="7">escaped</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

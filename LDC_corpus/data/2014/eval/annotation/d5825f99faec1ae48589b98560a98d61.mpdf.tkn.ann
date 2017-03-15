@@ -1,0 +1,69 @@
+T1	Justice_Arrest-Jail 534 542	arrested
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 486 494;498 502	bringing back
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 616 624	arrested
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 691 699	felonies
+E4	Justice_Convict:T4 
+A4	Realis E4 Actual
+T5	Justice_Convict 713 725	misdemeanors
+E5	Justice_Convict:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 907 912	steal
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Generic
+T7	Justice_Release-Parole 954 961	got out
+E7	Justice_Release-Parole:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 965 971	prison
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Arrest-Jail 997 1012	going to prison
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Actual
+T10	Justice_Release-Parole 1137 1143	parole
+E10	Justice_Release-Parole:T10 
+A10	Realis E10 Actual
+T11	Justice_Release-Parole 1209 1215	parole
+E11	Justice_Release-Parole:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 1232 1238	bought
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Justice_Release-Parole 1327 1333	parole
+E13	Justice_Release-Parole:T13 
+A13	Realis E13 Actual
+T14	Justice_Release-Parole 1344 1350	parole
+E14	Justice_Release-Parole:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 1381 1385	call
+E15	Contact_Communicate:T15 
+A15	Realis E15 Generic
+T16	Justice_Release-Parole 1506 1512	parole
+E16	Justice_Release-Parole:T16 
+A16	Realis E16 Actual
+T17	Justice_Arrest-Jail 1540 1544;1550 1559	sent to prison
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Other
+T18	Justice_Extradite 1581 1591	extradited
+E18	Justice_Extradite:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 1768 1773	leave
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Other
+T20	Movement_Transport-Person 1858 1864	travel
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Generic
+T21	Justice_Release-Parole 1905 1911	parole
+E21	Justice_Release-Parole:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1941 1947	travel
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Other
+T23	Movement_Transport-Person 353 363	taking off
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Generic

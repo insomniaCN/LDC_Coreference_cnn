@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa00000000000000150" doc_id="546f0a34afce7cee780e709895d11ce4" source_type="multi_post">
+  <event_mention id="em-3" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="467" length="7">ordered</trigger>
+  </event_mention>
+  <event_mention id="em-19" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="947" length="5">stole</trigger>
+  </event_mention>
+  <event_mention id="em-101" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="768" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-130" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="817" length="6">became</trigger>
+  </event_mention>
+  <event_mention id="em-226" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="171" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-275" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="885" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-480" type="justice" subtype="releaseparole" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="780" length="8">released</trigger>
+  </event_mention>
+  <event_mention id="em-518" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="387" length="10">embezzling</trigger>
+  </event_mention>
+  <event_mention id="em-543" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="976" length="6">letter</trigger>
+  </event_mention>
+  <event_mention id="em-585" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="376" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-709" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="960" length="9">donations</trigger>
+  </event_mention>
+  <event_mention id="em-725" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="1004" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-813" type="justice" subtype="sentence" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="166" length="4">gets</trigger>
+  </event_mention>
+  <event_mention id="em-881" type="justice" subtype="sentence" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="341" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-887" type="business" subtype="startorg" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="629" length="8">founding</trigger>
+  </event_mention>
+  <event_mention id="em-922" type="justice" subtype="sentence" realis="actual">
+    <trigger source="546f0a34afce7cee780e709895d11ce4" offset="526" length="8">sentence</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

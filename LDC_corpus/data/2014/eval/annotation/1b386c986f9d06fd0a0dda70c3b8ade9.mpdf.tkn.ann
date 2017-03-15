@@ -1,0 +1,369 @@
+T1	Justice_Sentence 205 211;220 228	handed sentence
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 241 250	sentences
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 291 297	prison
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Generic
+T4	Justice_Sentence 403 409;418 426	handed sentence
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 497 505	pressure
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 527 535	shoot up
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 556 562	arrest
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 579 586	trading
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Ownership 670 675	trade
+E9	Transaction_Transfer-Ownership:T9 
+A9	Realis E9 Actual
+T10	Justice_Extradite 695 705	extradited
+E10	Justice_Extradite:T10 
+A10	Realis E10 Actual
+T11	Justice_Trial-Hearing 710 715	tried
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 834 843	pressured
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual
+T13	Justice_Arrest-Jail 871 878	capture
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Actual
+T14	Justice_Extradite 883 892	extradite
+E14	Justice_Extradite:T14 
+A14	Realis E14 Actual
+T15	Justice_Arrest-Jail 924 932	arrested
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T16	Justice_Arrest-Jail 937 947	imprisoned
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 974 979	argue
+E17	Contact_Communicate:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Ownership 1031 1037	crimes
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Ownership 1069 1080	trafficking
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Actual
+T21	Justice_Trial-Hearing 1153 1158	tried
+E21	Justice_Trial-Hearing:T21 
+A21	Realis E21 Other
+T22	Contact_Communicate 1274 1278;1281 1286	make claim
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Justice_Arrest-Jail 1303 1311	arrested
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Generic
+T24	Justice_Arrest-Jail 1322 1332	imprisoned
+E24	Justice_Arrest-Jail:T24 
+A24	Realis E24 Generic
+T25	Justice_Arrest-Jail 1354 1362	arrested
+E25	Justice_Arrest-Jail:T25 
+A25	Realis E25 Actual
+T26	Justice_Extradite 1386 1396	extradited
+E26	Justice_Extradite:T26 
+A26	Realis E26 Actual
+T27	Contact_Communicate 1439 1450	cooperation
+E27	Contact_Communicate:T27 
+A27	Realis E27 Generic
+T28	Justice_Arrest-Jail 1473 1481	prisoner
+E28	Justice_Arrest-Jail:T28 
+A28	Realis E28 Generic
+T29	Justice_Arrest-Jail 1482 1490	arrested
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Generic
+T30	Contact_Communicate 1525 1528	ask
+E30	Contact_Communicate:T30 
+A30	Realis E30 Generic
+T31	Justice_Arrest-Jail 1537 1543	arrest
+E31	Justice_Arrest-Jail:T31 
+A31	Realis E31 Generic
+T32	Justice_Extradite 1570 1580	extradited
+E32	Justice_Extradite:T32 
+A32	Realis E32 Generic
+T33	Contact_Communicate 1809 1818	pressured
+E33	Contact_Communicate:T33 
+A33	Realis E33 Actual
+T34	Justice_Arrest-Jail 1846 1853	capture
+E34	Justice_Arrest-Jail:T34 
+A34	Realis E34 Actual
+T35	Justice_Extradite 1858 1867	extradite
+E35	Justice_Extradite:T35 
+A35	Realis E35 Actual
+T36	Justice_Arrest-Jail 1899 1907	arrested
+E36	Justice_Arrest-Jail:T36 
+A36	Realis E36 Actual
+T37	Justice_Arrest-Jail 1912 1922	imprisoned
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Actual
+T38	Justice_Arrest-Jail 2009 2018	arresting
+E38	Justice_Arrest-Jail:T38 
+A38	Realis E38 Generic
+T39	Contact_Communicate 2048 2058	pressuring
+E39	Contact_Communicate:T39 
+A39	Realis E39 Generic
+T40	Contact_Communicate 2083 2088	argue
+E40	Contact_Communicate:T40 
+A40	Realis E40 Other
+T41	Transaction_Transfer-Ownership 2140 2146	crimes
+E41	Transaction_Transfer-Ownership:T41 
+A41	Realis E41 Actual
+T42	Transaction_Transfer-Ownership 2178 2189	trafficking
+E42	Transaction_Transfer-Ownership:T42 
+A42	Realis E42 Actual
+T43	Transaction_Transfer-Ownership 2210 2215	deals
+E43	Transaction_Transfer-Ownership:T43 
+A43	Realis E43 Actual
+T44	Justice_Trial-Hearing 2262 2267	tried
+E44	Justice_Trial-Hearing:T44 
+A44	Realis E44 Other
+T45	Movement_Transport-Person 2300 2305	enter
+E45	Movement_Transport-Person:T45 
+A45	Realis E45 Other
+T46	Transaction_Transfer-Ownership 2343 2349	crimes
+E46	Transaction_Transfer-Ownership:T46 
+A46	Realis E46 Other
+T47	Contact_Communicate 2474 2478;2481 2486	make claim
+E47	Contact_Communicate:T47 
+A47	Realis E47 Actual
+T48	Justice_Arrest-Jail 2503 2511	arrested
+E48	Justice_Arrest-Jail:T48 
+A48	Realis E48 Generic
+T49	Justice_Arrest-Jail 2522 2532	imprisoned
+E49	Justice_Arrest-Jail:T49 
+A49	Realis E49 Generic
+T50	Justice_Arrest-Jail 2554 2562	arrested
+E50	Justice_Arrest-Jail:T50 
+A50	Realis E50 Actual
+T51	Justice_Extradite 2586 2596	extradited
+E51	Justice_Extradite:T51 
+A51	Realis E51 Actual
+T52	Justice_Trial-Hearing 2663 2668	tried
+E52	Justice_Trial-Hearing:T52 
+A52	Realis E52 Actual
+T53	Justice_Arrest-Jail 2686 2692	jailed
+E53	Justice_Arrest-Jail:T53 
+A53	Realis E53 Actual
+T57	Justice_Arrest-Jail 2860 2868	arrested
+E57	Justice_Arrest-Jail:T57 
+A57	Realis E57 Generic
+T58	Contact_Communicate 2903 2906	ask
+E58	Contact_Communicate:T58 
+A58	Realis E58 Generic
+T59	Justice_Arrest-Jail 2915 2921	arrest
+E59	Justice_Arrest-Jail:T59 
+A59	Realis E59 Generic
+T60	Justice_Extradite 2948 2958	extradited
+E60	Justice_Extradite:T60 
+A60	Realis E60 Generic
+T61	Justice_Arrest-Jail 2990 2999	abducting
+E61	Justice_Arrest-Jail:T61 
+A61	Realis E61 Generic
+T63	Movement_Transport-Person 3207 3212	enter
+E63	Movement_Transport-Person:T63 
+A63	Realis E63 Other
+T64	Movement_Transport-Person 3327 3335	entering
+E64	Movement_Transport-Person:T64 
+A64	Realis E64 Generic
+T65	Movement_Transport-Person 3509 3517	entering
+E65	Movement_Transport-Person:T65 
+A65	Realis E65 Generic
+T66	Transaction_Transfer-Ownership 3592 3600	shipping
+E66	Transaction_Transfer-Ownership:T66 
+A66	Realis E66 Generic
+T67	Contact_Communicate 3668 3676	pressure
+E67	Contact_Communicate:T67 
+A67	Realis E67 Generic
+T68	Conflict_Attack 3696 3704	shoot up
+E68	Conflict_Attack:T68 
+A68	Realis E68 Other
+T69	Justice_Arrest-Jail 3803 3814	rounding up
+E69	Justice_Arrest-Jail:T69 
+A69	Realis E69 Actual
+T70	Transaction_Transfer-Ownership 4177 4185	shipping
+E70	Transaction_Transfer-Ownership:T70 
+A70	Realis E70 Generic
+T71	Contact_Communicate 4193 4196	say
+E71	Contact_Communicate:T71 
+A71	Realis E71 Actual
+T72	Contact_Communicate 3608 3611	say
+E72	Contact_Communicate:T72 
+A72	Realis E72 Actual
+T73	Contact_Communicate 4253 4261	pressure
+E73	Contact_Communicate:T73 
+A73	Realis E73 Generic
+T74	Conflict_Attack 4281 4289	shoot up
+E74	Conflict_Attack:T74 
+A74	Realis E74 Other
+T75	Justice_Arrest-Jail 3732 3738	arrest
+E75	Justice_Arrest-Jail:T75 
+A75	Realis E75 Other
+T76	Justice_Arrest-Jail 4317 4323	arrest
+E76	Justice_Arrest-Jail:T76 
+A76	Realis E76 Other
+T77	Justice_Arrest-Jail 4388 4399	rounding up
+E77	Justice_Arrest-Jail:T77 
+A77	Realis E77 Generic
+T78	Transaction_Transfer-Ownership 4631 4638	smuggle
+E78	Transaction_Transfer-Ownership:T78 
+A78	Realis E78 Other
+T80	Transaction_Transfer-Ownership 4657 4666	smuggling
+E80	Transaction_Transfer-Ownership:T80 
+A80	Realis E80 Other
+T81	Personnel_Start-Position 4703 4712	employing
+E81	Personnel_Start-Position:T81 
+A81	Realis E81 Other
+T82	Transaction_Transfer-Ownership 4882 4889	smuggle
+E82	Transaction_Transfer-Ownership:T82 
+A82	Realis E82 Other
+T84	Transaction_Transfer-Ownership 4908 4917	smuggling
+E84	Transaction_Transfer-Ownership:T84 
+A84	Realis E84 Other
+T85	Personnel_Start-Position 4954 4963	employing
+E85	Personnel_Start-Position:T85 
+A85	Realis E85 Other
+T86	Transaction_Transfer-Ownership 4991 5000	Smuggling
+E86	Transaction_Transfer-Ownership:T86 
+A86	Realis E86 Generic
+T87	Transaction_Transfer-Ownership 5151 5155;5165 5168	ship aid
+E87	Transaction_Transfer-Ownership:T87 
+A87	Realis E87 Other
+T88	Contact_Communicate 5187 5193	demand
+E88	Contact_Communicate:T88 
+A88	Realis E88 Other
+T89	Conflict_Attack 5227 5236	gun fight
+E89	Conflict_Attack:T89 
+A89	Realis E89 Other
+T90	Justice_Arrest-Jail 5241 5247	arrest
+E90	Justice_Arrest-Jail:T90 
+A90	Realis E90 Other
+T91	Justice_Extradite 5255 5264	extradite
+E91	Justice_Extradite:T91 
+A91	Realis E91 Other
+T92	Justice_Arrest-Jail 5284 5290	prison
+E92	Justice_Arrest-Jail:T92 
+A92	Realis E92 Other
+T93	Transaction_Transfer-Ownership 5429 5438	smuggling
+E93	Transaction_Transfer-Ownership:T93 
+A93	Realis E93 Generic
+T94	Transaction_Transfer-Ownership 5394 5399	crime
+E94	Transaction_Transfer-Ownership:T94 
+A94	Realis E94 Generic
+T95	Justice_Charge-Indict 5409 5417	charging
+E95	Justice_Charge-Indict:T95 
+A95	Realis E95 Other
+T96	Transaction_Transfer-Ownership 5573 5582	Smuggling
+E96	Transaction_Transfer-Ownership:T96 
+A96	Realis E96 Generic
+T97	Transaction_Transfer-Ownership 5712 5722	smuggleing
+E97	Transaction_Transfer-Ownership:T97 
+A97	Realis E97 Generic
+T98	Transaction_Transfer-Ownership 5784 5788;5798 5801	ship aid
+E98	Transaction_Transfer-Ownership:T98 
+A98	Realis E98 Other
+T99	Contact_Communicate 5820 5826	demand
+E99	Contact_Communicate:T99 
+A99	Realis E99 Other
+T100	Conflict_Attack 5860 5869	gun fight
+E100	Conflict_Attack:T100 
+A100	Realis E100 Other
+T101	Justice_Arrest-Jail 5874 5880	arrest
+E101	Justice_Arrest-Jail:T101 
+A101	Realis E101 Other
+T102	Justice_Extradite 5888 5897	extradite
+E102	Justice_Extradite:T102 
+A102	Realis E102 Other
+T103	Justice_Arrest-Jail 5917 5923	prison
+E103	Justice_Arrest-Jail:T103 
+A103	Realis E103 Other
+T104	Contact_Communicate 6059 6068	agreement
+E104	Contact_Communicate:T104 
+A104	Realis E104 Actual
+T106	Justice_Charge-Indict 6229 6237	charging
+E106	Justice_Charge-Indict:T106 
+A106	Realis E106 Other
+T107	Transaction_Transfer-Ownership 6249 6258	smuggling
+E107	Transaction_Transfer-Ownership:T107 
+A107	Realis E107 Generic
+T108	Transaction_Transfer-Ownership 6362 6372	smuggleing
+E108	Transaction_Transfer-Ownership:T108 
+A108	Realis E108 Generic
+T109	Transaction_Transfer-Money 6430 6436	tariff
+E109	Transaction_Transfer-Money:T109 
+A109	Realis E109 Generic
+T110	Justice_Arrest-Jail 6505 6513	arrested
+E110	Justice_Arrest-Jail:T110 
+A110	Realis E110 Other
+T111	Justice_Extradite 6518 6528	extradited
+E111	Justice_Extradite:T111 
+A111	Realis E111 Other
+T112	Personnel_Start-Position 6575 6582	hireing
+E112	Personnel_Start-Position:T112 
+A112	Realis E112 Other
+T113	Transaction_Transfer-Ownership 6597 6604	smuggle
+E113	Transaction_Transfer-Ownership:T113 
+A113	Realis E113 Other
+T115	Transaction_Transfer-Ownership 7180 7190	smuggleing
+E115	Transaction_Transfer-Ownership:T115 
+A115	Realis E115 Generic
+T116	Transaction_Transfer-Money 7248 7254	tariff
+E116	Transaction_Transfer-Money:T116 
+A116	Realis E116 Generic
+T117	Justice_Trial-Hearing 7313 7322	persecute
+E117	Justice_Trial-Hearing:T117 
+A117	Realis E117 Generic
+T118	Justice_Arrest-Jail 7436 7444	arrested
+E118	Justice_Arrest-Jail:T118 
+A118	Realis E118 Other
+T119	Justice_Extradite 7449 7459	extradited
+E119	Justice_Extradite:T119 
+A119	Realis E119 Other
+T120	Personnel_Start-Position 7506 7513	hireing
+E120	Personnel_Start-Position:T120 
+A120	Realis E120 Other
+T121	Transaction_Transfer-Ownership 7528 7535	smuggle
+E121	Transaction_Transfer-Ownership:T121 
+A121	Realis E121 Other
+T122	Transaction_Transfer-Ownership 7668 7674	end up
+E122	Transaction_Transfer-Ownership:T122 
+A122	Realis E122 Generic
+T123	Justice_Extradite 7932 7943	extradition
+E123	Justice_Extradite:T123 
+A123	Realis E123 Other
+T124	Personnel_Start-Position 7949 7953	hire
+E124	Personnel_Start-Position:T124 
+A124	Realis E124 Other
+T125	Transaction_Transfer-Ownership 7972 7981	smugglers
+E125	Transaction_Transfer-Ownership:T125 
+A125	Realis E125 Other
+T126	Justice_Trial-Hearing 8167 8176	persecute
+E126	Justice_Trial-Hearing:T126 
+A126	Realis E126 Generic
+T127	Transaction_Transfer-Ownership 8366 8372	end up
+E127	Transaction_Transfer-Ownership:T127 
+A127	Realis E127 Generic
+T128	Movement_Transport-Person 8666 8671	enter
+E128	Movement_Transport-Person:T128 
+A128	Realis E128 Other
+T129	Transaction_Transfer-Ownership 8709 8715	crimes
+E129	Transaction_Transfer-Ownership:T129 
+A129	Realis E129 Generic
+T130	Conflict_Attack 7632 7638	attack
+E130	Conflict_Attack:T130 
+A130	Realis E130 Other
+T131	Contact_Communicate 7922 7928	demand
+E131	Contact_Communicate:T131 
+A131	Realis E131 Other
+T132	Conflict_Attack 8440 8446	attack
+E132	Conflict_Attack:T132 
+A132	Realis E132 Other

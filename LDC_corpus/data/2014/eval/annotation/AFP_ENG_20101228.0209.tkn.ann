@@ -1,0 +1,43 @@
+T1	Life_Die 83 88	kills
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 242 249	strikes
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Life_Die 250 256	killed
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T5	Conflict_Attack 471 477	strike
+E5	Conflict_Attack:T5 
+A6	Realis E5 Actual
+T6	Life_Die 507 513	killed
+E6	Life_Die:T6 
+A7	Realis E6 Actual
+T7	Conflict_Attack 666 673	strikes
+E7	Conflict_Attack:T7 
+A8	Realis E7 Actual
+T8	Life_Die 707 713	killed
+E8	Life_Die:T8 
+A9	Realis E8 Actual
+T9	Life_Die 831 837	killed
+E9	Life_Die:T9 
+A10	Realis E9 Actual
+T10	Conflict_Attack 853 858	fired
+E10	Conflict_Attack:T10 
+A11	Realis E10 Actual
+T11	Conflict_Attack 961 966	fired
+E11	Conflict_Attack:T11 
+A12	Realis E11 Actual
+T12	Conflict_Attack 1059 1065	struck
+E12	Conflict_Attack:T12 
+A13	Questionable E12 Mention
+A14	Realis E12 Actual
+T13	Conflict_Attack 1170 1177	strikes
+E13	Conflict_Attack:T13 
+A15	Realis E13 Actual
+T14	Life_Die 1186 1191	death
+E14	Life_Die:T14 
+A16	Realis E14 Actual
+T15	Conflict_Attack 69 82	missile salvo
+E15	Conflict_Attack:T15 
+A17	Realis E15 Actual

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000596" doc_id="bolt-eng-DF-199-192783-6864512" source_type="multi_post">
+<event_mention id="em-10" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="53" length="2">Ex</trigger>
+      </event_mention>
+<event_mention id="em-23" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="73" length="7">Charged</trigger>
+      </event_mention>
+<event_mention id="em-51" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="216" length="2">Ex</trigger>
+      </event_mention>
+<event_mention id="em-64" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="236" length="7">Charged</trigger>
+      </event_mention>
+<event_mention id="em-77" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="365" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-90" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="397" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-105" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="416" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-118" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="614" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-131" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="850" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-146" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="974" length="6">papers</trigger>
+      </event_mention>
+<event_mention id="em-161" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1026" length="10">assistance</trigger>
+      </event_mention>
+<event_mention id="em-176" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1198" length="4">trip</trigger>
+      </event_mention>
+<event_mention id="em-189" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1274" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-204" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1319" length="8">indicted</trigger>
+      </event_mention>
+<event_mention id="em-219" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1377" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-232" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1428" length="6">papers</trigger>
+      </event_mention>
+<event_mention id="em-245" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1460" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-258" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1498" length="9">affidavit</trigger>
+      </event_mention>
+<event_mention id="em-271" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1571" length="9">documents</trigger>
+      </event_mention>
+<event_mention id="em-284" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1647" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-299" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1687" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-312" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1827" length="7">acquire</trigger>
+      </event_mention>
+<event_mention id="em-327" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2131" length="14">transportation</trigger>
+      </event_mention>
+<event_mention id="em-340" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2177" length="4">trip</trigger>
+      </event_mention>
+<event_mention id="em-353" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2226" length="9">documents</trigger>
+      </event_mention>
+<event_mention id="em-366" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2381" length="9">interview</trigger>
+      </event_mention>
+<event_mention id="em-381" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2462" length="5">asked</trigger>
+      </event_mention>
+<event_mention id="em-396" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="1713" length="10">statements</trigger>
+      </event_mention>
+<event_mention id="em-411" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2020" length="4">lied</trigger>
+      </event_mention>
+<event_mention id="em-437" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2638" length="4">trip</trigger>
+      </event_mention>
+<event_mention id="em-452" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2776" length="10">accusation</trigger>
+      </event_mention>
+<event_mention id="em-467" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2800" length="6">papers</trigger>
+      </event_mention>
+<event_mention id="em-480" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2917" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-493" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="2993" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-506" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3023" length="5">calls</trigger>
+      </event_mention>
+<event_mention id="em-534" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3136" length="9">statement</trigger>
+      </event_mention>
+<event_mention id="em-549" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3168" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-562" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3355" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-575" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3544" length="7">details</trigger>
+      </event_mention>
+<event_mention id="em-588" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3570" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-601" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3594" length="2">it</trigger>
+      </event_mention>
+<event_mention id="em-614" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3656" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-627" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="3923" length="4">flee</trigger>
+      </event_mention>
+<event_mention id="em-642" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="4458" length="6">caught</trigger>
+      </event_mention>
+<event_mention id="em-657" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="4521" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-672" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="4736" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-685" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="4773" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-698" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="4949" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-713" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="5282" length="6">caught</trigger>
+      </event_mention>
+<event_mention id="em-726" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6864512" offset="5345" length="4">jail</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

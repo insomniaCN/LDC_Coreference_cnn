@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000626" doc_id="bolt-eng-DF-203-185938-411582" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="295" length="4">came</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="534" length="4">sent</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="557" length="3">say</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1359" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1751" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1380" length="7">charges</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1772" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1897" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-180" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="2456" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-275" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="3578" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1922" length="6">handed</trigger>
+      </event_mention>
+      <event_mention id="em-193" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="2481" length="6">handed</trigger>
+      </event_mention>
+      <event_mention id="em-288" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="3603" length="6">handed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-165" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="2124" length="4">gave</trigger>
+      </event_mention>
+      <event_mention id="em-219" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="2683" length="4">gave</trigger>
+      </event_mention>
+      <event_mention id="em-327" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="3805" length="4">gave</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-245">
+      <event_mention id="em-232" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="2839" length="9">statement</trigger>
+      </event_mention>
+      <event_mention id="em-314" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="3961" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-260">
+      <event_mention id="em-262" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="2934" length="5">drown</trigger>
+      </event_mention>
+      <event_mention id="em-355" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="4191" length="5">drown</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-353">
+      <event_mention id="em-340" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="4142" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-368" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="4255" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-394">
+      <event_mention id="em-381" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1323" length="9">reporting</trigger>
+      </event_mention>
+      <event_mention id="em-396" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411582" offset="1715" length="9">reporting</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

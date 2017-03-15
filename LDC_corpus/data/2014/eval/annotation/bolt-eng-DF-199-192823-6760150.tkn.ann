@@ -1,0 +1,50 @@
+T1	Movement_Transport-Person 226 231	drove
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 410 417	charged
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 517 521	flew
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 599 606	charged
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Movement_Transport-Person 841 845	trip
+E5	Movement_Transport-Person:T5 
+A5	Questionable E5 Mention
+A6	Realis E5 Actual
+T6	Contact_Communicate 904 908	told
+E6	Contact_Communicate:T6 
+A7	Realis E6 Actual
+T7	Justice_Arrest-Jail 1049 1055	arrest
+E7	Justice_Arrest-Jail:T7 
+A8	Realis E7 Actual
+A9	Questionable E7 Realis
+T8	Movement_Transport-Person 1294 1302	deported
+E8	Movement_Transport-Person:T8 
+A10	Realis E8 Generic
+T9	Contact_Meet 2721 2726	spoke
+E9	Contact_Meet:T9 
+A11	Realis E9 Actual
+T10	Contact_Meet 2758 2762	told
+E10	Contact_Meet:T10 
+A12	Realis E10 Actual
+T11	Movement_Transport-Person 2860 2863	get
+E11	Movement_Transport-Person:T11 
+A13	Realis E11 Generic
+T12	Contact_Meet 280 290	confronted
+E12	Contact_Meet:T12 
+A14	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 630 638	burglary
+E13	Transaction_Transfer-Ownership:T13 
+A15	Realis E13 Other
+T14	Conflict_Attack 644 651	battery
+E14	Conflict_Attack:T14 
+A16	Realis E14 Actual
+T15	Conflict_Attack 682 689	battery
+E15	Conflict_Attack:T15 
+A17	Realis E15 Actual
+T16	Contact_Communicate 1101 1107	letter
+E16	Contact_Communicate:T16 
+A18	Realis E16 Other

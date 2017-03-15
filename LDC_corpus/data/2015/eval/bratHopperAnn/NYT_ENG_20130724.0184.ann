@@ -1,0 +1,44 @@
+T1	Personnel_Nominate 189 195	PICKED
+E511	Personnel_Nominate:T1
+A1	Realis E511 Actual
+T2	Personnel_Nominate 428 437	nominated
+E68	Personnel_Nominate:T2
+A2	Realis E68 Actual
+T3	Personnel_Nominate 649 660	appointment
+E952	Personnel_Nominate:T3
+A3	Realis E952 Other
+T4	Personnel_Nominate 805 814	nominated
+E37	Personnel_Nominate:T4
+A4	Realis E37 Actual
+T5	Personnel_End-Position 1511 1517	former
+E307	Personnel_End-Position:T5
+A5	Realis E307 Actual
+T6	Personnel_End-Position 1474 1478	been
+E639	Personnel_End-Position:T6
+A6	Realis E639 Actual
+T8	Personnel_End-Position 1568 1574	former
+E800	Personnel_End-Position:T8
+A8	Realis E800 Actual
+T8	Personnel_End-Position 1568 1574	former
+E989	Personnel_End-Position:T8
+A8	Realis E989 Actual
+T9	Personnel_End-Position 1638 1644	former
+E6	Personnel_End-Position:T9
+A9	Realis E6 Actual
+T10	Personnel_End-Position 1820 1823	was
+E81	Personnel_End-Position:T10
+A10	Realis E81 Actual
+T11	Contact_Correspondence 1981 1986	phone
+E134	Contact_Correspondence:T11
+A11	Realis E134 Generic
+T12	Contact_Contact 1332 1336	said
+E462	Contact_Contact:T12
+A12	Realis E462 Actual
+T13	Contact_Contact 1691 1694	say
+E377	Contact_Contact:T13
+A13	Realis E377 Generic
+T14	Contact_Contact 1778 1782	said
+E396	Contact_Contact:T14
+A14	Realis E396 Actual
+R1	Coreference Arg1:E511 Arg2:E68
+R2	Coreference Arg1:E68 Arg2:E952

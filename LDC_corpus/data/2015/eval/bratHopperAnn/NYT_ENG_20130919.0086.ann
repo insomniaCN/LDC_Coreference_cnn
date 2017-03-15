@@ -1,0 +1,146 @@
+T1	Movement_Transport-Person 548 552	tour
+E466	Movement_Transport-Person:T1
+A1	Realis E466 Other
+T2	Movement_Transport-Person 426 430	tour
+E207	Movement_Transport-Person:T2
+A2	Realis E207 Other
+T3	Life_Marry 1395 1402	wedding
+E358	Life_Marry:T3
+A3	Realis E358 Actual
+T4	Life_Marry 1464 1472	marriage
+E69	Life_Marry:T4
+A4	Realis E69 Actual
+T5	Life_Divorce 1487 1494	divorce
+E999	Life_Divorce:T5
+A5	Realis E999 Other
+T6	Life_Divorce 1606 1614	divorced
+E654	Life_Divorce:T6
+A6	Realis E654 Actual
+T7	Life_Beborn 1523 1529	having
+E948	Life_Beborn:T7
+A7	Realis E948 Other
+T8	Contact_Contact 1584 1588	told
+E150	Contact_Contact:T8
+A8	Realis E150 Actual
+T9	Contact_Correspondence 1630 1637	message
+E340	Contact_Correspondence:T9
+A9	Realis E340 Actual
+T10	Contact_Contact 1648 1653	spoke
+E464	Contact_Contact:T10
+A10	Realis E464 Other
+T11	Movement_Transport-Person 1727 1737	thrown out
+E341	Movement_Transport-Person:T11
+A11	Realis E341 Actual
+T12	Movement_Transport-Person 2199 2209	kicked out
+E401	Movement_Transport-Person:T12
+A12	Realis E401 Actual
+T13	Contact_Broadcast 1811 1819	comments
+E143	Contact_Broadcast:T13
+A13	Realis E143 Actual
+T14	Conflict_Attack 1886 1889	War
+E438	Conflict_Attack:T14
+A14	Realis E438 Actual
+T15	Manufacture_Artifact 1975 1979	made
+E109	Manufacture_Artifact:T15
+A15	Realis E109 Actual
+T16	Conflict_Attack 2078 2085	killing
+E45	Conflict_Attack:T16
+A16	Realis E45 Generic
+T17	Life_Die 2078 2085	killing
+E88	Life_Die:T17
+A17	Realis E88 Generic
+T18	Contact_Broadcast 2233 2240	tweeted
+E59	Contact_Broadcast:T18
+A18	Realis E59 Actual
+T19	Personnel_End-Position 2527 2532	fired
+E701	Personnel_End-Position:T19
+A19	Realis E701 Actual
+T20	Personnel_End-Position 2688 2693	fired
+E927	Personnel_End-Position:T20
+A20	Realis E927 Actual
+T21	Contact_Broadcast 2663 2670	written
+E264	Contact_Broadcast:T21
+A21	Realis E264 Actual
+T22	Movement_Transport-Person 2700 2708	bringing
+E110	Movement_Transport-Person:T22
+A22	Realis E110 Actual
+T23	Transaction_Transfer-Ownership 2718 2724	dealer
+E236	Transaction_Transfer-Ownership:T23
+A23	Realis E236 Generic
+T24	Conflict_Attack 2786 2793	attacks
+E651	Conflict_Attack:T24
+A24	Realis E651 Actual
+T25	Movement_Transport-Person 2807 2811	came
+E211	Movement_Transport-Person:T25
+A25	Realis E211 Actual
+T26	Life_Die 3214 3219	death
+E181	Life_Die:T26
+A26	Realis E181 Generic
+T27	Movement_Transport-Person 3407 3411	tour
+E934	Movement_Transport-Person:T27
+A27	Realis E934 Generic
+T28	Contact_Contact 269 278	describes
+E679	Contact_Contact:T28
+A28	Realis E679 Generic
+T29	Contact_Contact 621 625	says
+E151	Contact_Contact:T29
+A29	Realis E151 Actual
+T30	Contact_Broadcast 1212 1218	gossip
+E977	Contact_Broadcast:T30
+A30	Realis E977 Actual
+T31	Contact_Contact 2173 2179	saying
+E538	Contact_Contact:T31
+A31	Realis E538 Actual
+T32	Contact_Broadcast 2157 2163	quoted
+E7	Contact_Broadcast:T32
+A32	Realis E7 Actual
+T33	Contact_Meet 2484 2489	party
+E883	Contact_Meet:T33
+A33	Realis E883 Actual
+T34	Contact_Broadcast 2951 2957	lauded
+E399	Contact_Broadcast:T34
+A34	Realis E399 Actual
+T35	Contact_Broadcast 3004 3008	said
+E635	Contact_Broadcast:T35
+A35	Realis E635 Actual
+T36	Contact_Broadcast 3136 3144	comments
+E900	Contact_Broadcast:T36
+A36	Realis E900 Actual
+T37	Contact_Broadcast 3117 3127	apologized
+E905	Contact_Broadcast:T37
+A37	Realis E905 Actual
+T38	Contact_Correspondence 3352 3359	invited
+E461	Contact_Correspondence:T38
+A38	Realis E461 Actual
+T39	Contact_Contact 3369 3373	talk
+E638	Contact_Contact:T39
+A39	Realis E638 Other
+T40	Contact_Meet 3604 3613	interview
+E695	Contact_Meet:T40
+A40	Realis E695 Actual
+T41	Contact_Meet 3873 3882	interview
+E598	Contact_Meet:T41
+A41	Realis E598 Actual
+T42	Contact_Meet 3550 3554	said
+E543	Contact_Meet:T42
+A42	Realis E543 Actual
+T43	Contact_Meet 3698 3702	said
+E254	Contact_Meet:T43
+A43	Realis E254 Actual
+T44	Contact_Meet 3740 3746	saying
+E265	Contact_Meet:T44
+A44	Realis E265 Actual
+T45	Contact_Broadcast 3892 3899	telling
+E185	Contact_Broadcast:T45
+A45	Realis E185 Actual
+R1	Coreference Arg1:E358 Arg2:E69
+R2	Coreference Arg1:E999 Arg2:E654
+R3	Coreference Arg1:E341 Arg2:E401
+R4	Coreference Arg1:E701 Arg2:E927
+R5	Coreference Arg1:E399 Arg2:E635
+R6	Coreference Arg1:E635 Arg2:E900
+R7	Coreference Arg1:E638 Arg2:E543
+R8	Coreference Arg1:E543 Arg2:E695
+R9	Coreference Arg1:E695 Arg2:E254
+R10	Coreference Arg1:E254 Arg2:E265
+R11	Coreference Arg1:E265 Arg2:E598

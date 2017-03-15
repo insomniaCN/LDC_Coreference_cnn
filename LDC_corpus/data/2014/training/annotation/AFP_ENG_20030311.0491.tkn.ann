@@ -1,0 +1,82 @@
+T1	Transaction_Transfer-Money 186 189	pay
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T2	Justice_Sue 224 229	suits
+E2	Justice_Sue:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 320 327	auction
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Generic
+T4	Transaction_Transfer-Money 382 385	pay
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Money 478 485	payment
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Justice_Sue 539 544	suits
+E6	Justice_Sue:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 562 570	auctions
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Actual
+T9	Transaction_Transfer-Money 739 742	pay
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Justice_Sue 973 979;989 994	pursue cases
+E10	Justice_Sue:T10 
+A10	Realis E10 Other
+T11	Justice_Sue 1020 1030	litigation
+E11	Justice_Sue:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 1048 1056	auctions
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 1229 1237	auctions
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Actual
+T14	Justice_Sue 1206 1212	claims
+E14	Justice_Sue:T14 
+A14	Realis E14 Actual
+T8	Transaction_Transfer-Money 678 688	settlement
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T15	Justice_Convict 1367 1376	convicted
+E15	Justice_Convict:T15 
+A15	Realis E15 Actual
+T16	Justice_Sentence 1546 1555	sentenced
+E16	Justice_Sentence:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Ownership 1832 1839	provide
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Money 2108 2114	funded
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Money 2122 2130	payments
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Other
+T20	Transaction_Transfer-Ownership 890 897	auction
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Generic
+T21	Entity 161 185	Sotheby 's , Christie 's
+T22	Entity 190 208	40 million dollars
+T24	Entity 386 404	40 million dollars
+T23	Entity 284 352;353 364	The world 's most powerful fine art auction houses , Sotheby 's and  Christie 's
+T26	Entity 576 597	between 1993 and 2000
+T27	Entity 598 610;611 624	outside the  United States
+T28	Entity 743 761	20 million dollars
+T29	Entity 701 716;717 728	Sotheby 's and  Christie 's
+T30	Entity 328 334	houses
+T31	Entity 311 319	fine art
+T32	Transaction_Transfer-Money 823 827	deal
+E21	Transaction_Transfer-Money:T32 
+A21	Realis E21 Actual
+T33	Justice_Sue 869 875	claims
+E22	Justice_Sue:T33 
+A22	Realis E22 Actual
+T34	Entity 848 868	British and Canadian
+T35	Entity 884 889;890 904	both  auction houses
+T25	Entity 546 556	by clients
+T36	Transaction_Transfer-Money 2053 2063	settlement
+E23	Transaction_Transfer-Money:T36 
+A23	Realis E23 Actual

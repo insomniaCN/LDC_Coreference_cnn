@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000625" doc_id="bolt-eng-DF-203-185938-411334" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="444" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="495" length="7">talking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="1525" length="5">drove</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="4057" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-83" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="4171" length="7">wedding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="4076" length="6">moving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-96" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="1562" length="2">go</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-111" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="1733" length="4">SAYS</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-126" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="1976" length="7">pick up</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-141" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="4286" length="2">go</trigger>
+      </event_mention>
+      <event_mention id="em-156" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="4354" length="4">come</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-169" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-203-185938-411334" offset="4444" length="9">showed up</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

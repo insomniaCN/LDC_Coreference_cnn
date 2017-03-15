@@ -1,0 +1,24 @@
+T1	Conflict_Attack 92 98	attack
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 238 246	attacked
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 410 418	attacked
+E3	Conflict_Attack:T3 
+A3	Questionable E3 Realis
+A4	Realis E3 Other
+T4	Conflict_Attack 700 708	attacked
+E4	Conflict_Attack:T4 
+A5	Realis E4 Generic
+A6	Questionable E4 Realis
+T5	Conflict_Attack 763 769	fought
+E5	Conflict_Attack:T5 
+A7	Questionable E5 Realis
+A8	Realis E5 Generic
+T6	Transaction_Transfer-Money 849 853;874 879	send funds
+E6	Transaction_Transfer-Money:T6 
+A9	Realis E6 Other
+T7	Movement_Transport-Person 721 730	kidnapped
+E7	Movement_Transport-Person:T7 
+A10	Realis E7 Generic

@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130823.0025" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130823/20130823,16c3b87ca97fe1eb64edf4e258a154c4.xml">
+<HEADLINE>
+SAN DIEGO MAYOR RESIGNS IN SEXUAL HARASSMENT SCANDAL
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+SAN DIEGO - Mayor Bob Filner resigned Friday under a barrage of sexual harassment complaints, offering an apology to his accusers while still denying the allegations and blaming his downfall on “a combination of awkwardness and hubris.”
+</P>
+<P>
+“I never intended to be a mayor who went out like this,” Filner said before a packed City Council chamber, drawing sporadic applause from some supporters in the audience.
+</P>
+<P>
+His announcement came after a closed-door meeting of the City Council in which members considered a deal struck late Wednesday that paved the way for the mayor’s resignation. He is to step down Aug. 30.
+</P>
+<P>
+“This is the toughest decision in my life,” said Filner, who devoted many of his comments to criticizing his political enemies and speaking of the vision he had for leading the city.
+</P>
+<P>
+The council’s decision came after dozens of people packed the chambers to voice their opinion on a deal whose details they had no way of knowing. Several residents supporting a recall effort urged council members to reject any deal that would give Filner money for his legal fees and damages. But others sought compassion for Filner, citing his years of championing civil rights and the environment.
+</P>
+<P>
+The resignation capped a tumultuous six weeks for San Diego. Since Filner’s top communication aide first went public with her complaints of sexual harassment last month, 17 more women came forward with accusations against him. The women who said they were harassed included a retired Navy rear admiral, a great-grandmother, a university dean and the former communications director, Irene McCormack Jackson, who filed a sexual harassment lawsuit against the mayor and the city.
+</P>
+<P>
+Filner eventually apologized for what he called disrespectful behavior, but maintained that he had not broken any laws and that he wanted an impartial review of his actions to clear his name. His lawyers filed papers in court to move the lawsuit against him to Imperial County, just east of San Diego. But calls for his resignation grew louder in recent weeks and organizers on Sunday started collecting signatures to force a recall election against him.
+</P>
+<P>
+Organizers of the recall effort said Friday that they had more than 20,000 signatures, about one-fifth of what would be needed to qualify for the ballot.
+</P>
+<P>
+Todd Gloria, the Democratic City Council president, who was part of the negotiations, will serve as acting mayor until a special election is held in the next 90 days.
+</P>
+</TEXT>
+</DOC>

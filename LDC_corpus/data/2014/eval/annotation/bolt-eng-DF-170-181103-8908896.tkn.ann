@@ -1,0 +1,194 @@
+T1	Transaction_Transfer-Money 216 220	wage
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Money 297 304	payment
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Money 578 582	wage
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Generic
+T4	Transaction_Transfer-Money 659 666	payment
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Generic
+T5	Transaction_Transfer-Money 882 886	wage
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 1003 1007;986 990	wage make
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Transaction_Transfer-Money 1280 1284	wage
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Money 1384 1388;1401 1405	make wage
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T9	Transaction_Transfer-Money 1822 1826	wage
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Transaction_Transfer-Money 1926 1930;1943 1947	make wage
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Other
+T11	Justice_Arrest-Jail 2463 2471	arrested
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Generic
+T12	Transaction_Transfer-Money 2520 2529	taxpayers
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic
+T13	Personnel_Start-Position 2530 2533;2538 2542	get jobs
+E13	Personnel_Start-Position:T13 
+A13	Realis E13 Generic
+T14	Movement_Transport-Person 2562 2570	deported
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Generic
+T15	Transaction_Transfer-Money 3102 3106	wage
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 3206 3210;3223 3227	make wage
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Money 3609 3613	wage
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic
+T18	Transaction_Transfer-Money 3690 3697	payment
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Money 4025 4029	wage
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Money 4106 4113	payment
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Generic
+T21	Transaction_Transfer-Money 4611 4615	wage
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Other
+T22	Transaction_Transfer-Money 4715 4719;4732 4736	make wage
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Other
+T23	Movement_Transport-Person 4933 4942	came over
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Generic
+T24	Movement_Transport-Person 5023 5032	came over
+E24	Movement_Transport-Person:T24 
+A24	Realis E24 Generic
+T25	Justice_Arrest-Jail 5150 5158	arrested
+E25	Justice_Arrest-Jail:T25 
+A25	Realis E25 Generic
+T26	Justice_Arrest-Jail 5163 5176	put in prison
+E26	Justice_Arrest-Jail:T26 
+A26	Realis E26 Generic
+T27	Movement_Transport-Person 5180 5188	deported
+E27	Movement_Transport-Person:T27 
+A27	Realis E27 Generic
+T28	Transaction_Transfer-Money 5529 5533	wage
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Other
+T29	Transaction_Transfer-Money 5633 5637;5650 5654	make wage
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Other
+T30	Justice_Arrest-Jail 6170 6178	arrested
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Generic
+T31	Personnel_Start-Position 6237 6240;6245 6249	get jobs
+E31	Personnel_Start-Position:T31 
+A31	Realis E31 Generic
+T32	Movement_Transport-Person 6269 6277	deported
+E32	Movement_Transport-Person:T32 
+A32	Realis E32 Generic
+T33	Transaction_Transfer-Money 6428 6432	wage
+E33	Transaction_Transfer-Money:T33 
+A33	Realis E33 Generic
+T34	Transaction_Transfer-Money 6626 6630	wage
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Generic
+T35	Transaction_Transfer-Money 6707 6714	payment
+E35	Transaction_Transfer-Money:T35 
+A35	Realis E35 Generic
+T36	Transaction_Transfer-Ownership 7580 7587	selling
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Actual
+T37	Transaction_Transfer-Money 7735 7739	wage
+E37	Transaction_Transfer-Money:T37 
+A37	Realis E37 Generic
+T38	Transaction_Transfer-Ownership 8022 8029	selling
+E38	Transaction_Transfer-Ownership:T38 
+A38	Questionable E38 Mention
+A39	Realis E38 Generic
+T39	Transaction_Transfer-Ownership 8908 8913	sales
+E39	Transaction_Transfer-Ownership:T39 
+A40	Realis E39 Generic
+T40	Personnel_Start-Position 9008 9013	hired
+E40	Personnel_Start-Position:T40 
+A41	Realis E40 Generic
+T41	Personnel_Start-Position 9571 9576	hired
+E41	Personnel_Start-Position:T41 
+A42	Realis E41 Generic
+T42	Personnel_Start-Position 10047 10052	hired
+E42	Personnel_Start-Position:T42 
+A43	Realis E42 Generic
+T43	Personnel_Start-Position 10100 10105	hired
+E43	Personnel_Start-Position:T43 
+A44	Realis E43 Generic
+T44	Transaction_Transfer-Money 10284 10288	wage
+E44	Transaction_Transfer-Money:T44 
+A45	Realis E44 Generic
+T45	Transaction_Transfer-Money 10365 10372	payment
+E45	Transaction_Transfer-Money:T45 
+A46	Realis E45 Generic
+T46	Movement_Transport-Person 10664 10679	Sneaking across
+E46	Movement_Transport-Person:T46 
+A47	Realis E46 Generic
+T47	Transaction_Transfer-Money 10765 10769	wage
+E47	Transaction_Transfer-Money:T47 
+A48	Realis E47 Generic
+T48	Personnel_Start-Position 10793 10797	hire
+E48	Personnel_Start-Position:T48 
+A49	Realis E48 Generic
+T49	Transaction_Transfer-Money 10833 10837	wage
+E49	Transaction_Transfer-Money:T49 
+A50	Realis E49 Generic
+T50	Transaction_Transfer-Money 10876 10880	wage
+E50	Transaction_Transfer-Money:T50 
+A51	Realis E50 Generic
+T51	Transaction_Transfer-Money 10993 10997	wage
+E51	Transaction_Transfer-Money:T51 
+A52	Realis E51 Generic
+T52	Transaction_Transfer-Money 11469 11473	wage
+E52	Transaction_Transfer-Money:T52 
+A53	Realis E52 Generic
+T53	Transaction_Transfer-Money 11573 11577;11590 11594	make wage
+E53	Transaction_Transfer-Money:T53 
+A54	Realis E53 Generic
+T54	Transaction_Transfer-Money 12167 12171	wage
+E54	Transaction_Transfer-Money:T54 
+A55	Realis E54 Generic
+T55	Transaction_Transfer-Money 12271 12275;12288 12292	make wage
+E55	Transaction_Transfer-Money:T55 
+A56	Realis E55 Generic
+T56	Transaction_Transfer-Money 12871 12875	wage
+E56	Transaction_Transfer-Money:T56 
+A57	Realis E56 Generic
+T57	Transaction_Transfer-Money 12952 12959	payment
+E57	Transaction_Transfer-Money:T57 
+A58	Realis E57 Generic
+T58	Movement_Transport-Person 13122 13129	entered
+E58	Movement_Transport-Person:T58 
+A59	Realis E58 Generic
+T59	Movement_Transport-Person 13214 13219	enter
+E59	Movement_Transport-Person:T59 
+A60	Realis E59 Generic
+T60	Transaction_Transfer-Money 13267 13270;13276 13283	pay recieve
+E60	Transaction_Transfer-Money:T60 
+A61	Realis E60 Generic
+T61	Movement_Transport-Person 13873 13877	Send
+E61	Movement_Transport-Person:T61 
+A62	Questionable E61 Mention
+A63	Realis E61 Generic
+T62	Conflict_Demonstrate 7858 7869	picket line
+E62	Conflict_Demonstrate:T62 
+A64	Realis E62 Generic
+T63	Justice_Arrest-Jail 11823 11832	in prison
+E63	Justice_Arrest-Jail:T63 
+A65	Realis E63 Other
+T64	Justice_Arrest-Jail 12521 12530	in prison
+E64	Justice_Arrest-Jail:T64 
+A66	Realis E64 Other

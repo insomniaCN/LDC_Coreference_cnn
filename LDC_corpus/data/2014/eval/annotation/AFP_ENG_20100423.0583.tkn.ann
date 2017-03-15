@@ -1,0 +1,42 @@
+T1	Movement_Transport-Person 95 100	leave
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 244 253	travelled
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 312 318	return
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Movement_Transport-Person 705 709	came
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Movement_Transport-Person 761 767	return
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Other
+T6	Movement_Transport-Person 976 985	travelled
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 1146 1151	leave
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Life_Die 1283 1289	killed
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Ownership 1729 1736;1747 1750	donated aid
+E9	Transaction_Transfer-Ownership:T9 
+A10	Realis E9 Actual
+T10	Conflict_Demonstrate 2053 2061	protests
+E10	Conflict_Demonstrate:T10 
+A11	Realis E10 Actual
+T11	Movement_Transport-Person 2343 2348	leave
+E11	Movement_Transport-Person:T11 
+A12	Realis E11 Other
+T12	Movement_Transport-Person 2577 2587	flood into
+E12	Movement_Transport-Person:T12 
+A13	Realis E12 Generic
+T13	Life_Die 1100 1106	killer
+E13	Life_Die:T13 
+A14	Realis E13 Generic
+T14	Transaction_Transfer-Money 1729 1742	donated money
+E14	Transaction_Transfer-Money:T14 
+A9	Realis E14 Actual

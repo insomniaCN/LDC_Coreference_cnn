@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589761f0000000000000006" doc_id="AFP_ENG_20091005.0318" source_type="newswire">
+<event_mention id="em-36" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="216" length="9">protested</trigger>
+      </event_mention>
+<event_mention id="em-49" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="67" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-62" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="402" length="13">demonstration</trigger>
+      </event_mention>
+<event_mention id="em-75" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="673" length="9">protested</trigger>
+      </event_mention>
+<event_mention id="em-88" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20091005.0318" offset="336" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-101" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20091005.0318" offset="556" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-114" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20091005.0318" offset="1175" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-127" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20091005.0318" offset="2308" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-140" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="2341" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-153" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="378" length="9">offensive</trigger>
+      </event_mention>
+<event_mention id="em-166" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="535" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-179" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="AFP_ENG_20091005.0318" offset="1186" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-192" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="1568" length="9">protested</trigger>
+      </event_mention>
+<event_mention id="em-205" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="2382" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-218" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091005.0318" offset="983" length="7">clashes</trigger>
+      </event_mention>
+<event_mention id="em-231" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20091005.0318" offset="1609" length="10">conference</trigger>
+      </event_mention>
+<event_mention id="em-244" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20091005.0318" offset="817" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-257" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20091005.0318" offset="1307" length="6">warned</trigger>
+      </event_mention>
+<event_mention id="em-270" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091005.0318" offset="1787" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-283" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091005.0318" offset="1989" length="8">demanded</trigger>
+      </event_mention>
+<event_mention id="em-296" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091005.0318" offset="2102" length="9">apologise</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,60 @@
+T1	Justice_Sentence 181 185;191 203	gets imprisonment
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 330 339	sentenced
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 394 404	conviction
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 513 518;532 538	found guilty
+E4	Justice_Convict:T4 
+A4	Realis E4 Actual
+T5	Conflict_Demonstrate 576 589	protest rally
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T6	Justice_Convict 642 661	verdict handed down
+E6	Justice_Convict:T6 
+A6	Realis E6 Actual
+T8	Justice_Charge-Indict 789 796	accused
+E8	Justice_Charge-Indict:T8 
+A7	Realis E8 Actual
+T9	Conflict_Attack 800 812	tearing down
+E9	Conflict_Attack:T9 
+A8	Realis E9 Actual
+T10	Conflict_Demonstrate 890 903	demonstration
+E10	Conflict_Demonstrate:T10 
+A9	Realis E10 Actual
+T11	Life_Die 930 947	committed suicide
+E11	Life_Die:T11 
+A10	Realis E11 Actual
+T12	Life_Die 1067 1071	shot
+E12	Life_Die:T12 
+A11	Realis E12 Actual
+T13	Justice_Convict 1144 1153	convicted
+E13	Justice_Convict:T13 
+A12	Realis E13 Actual
+T14	Justice_Charge-Indict 1216 1223	charged
+E14	Justice_Charge-Indict:T14 
+A13	Realis E14 Actual
+T15	Justice_Acquit 1457 1465	aquitted
+E15	Justice_Acquit:T15 
+A14	Realis E15 Actual
+T16	Contact_Communicate 1495 1503	uttering
+E16	Contact_Communicate:T16 
+A15	Realis E16 Other
+T18	Justice_Execute 1664 1672	executed
+E18	Justice_Execute:T18 
+A17	Realis E18 Generic
+T19	Conflict_Attack 1873 1878	feuds
+E19	Conflict_Attack:T19 
+A18	Realis E19 Generic
+T20	Conflict_Attack 1839 1848	persecute
+E20	Conflict_Attack:T20 
+A19	Realis E20 Generic
+T7	Justice_Fine 691 698;707 713	ordered to pay
+E7	Justice_Fine:T7 
+A20	Realis E7 Actual
+T17	Justice_Execute 1567 1586	punishable by death
+E17	Justice_Execute:T17 
+A16	Realis E17 Generic

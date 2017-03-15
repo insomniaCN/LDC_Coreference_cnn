@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea910000000000000117" doc_id="1e3b680db788df86635c1343c09d085b" source_type="multi_post">
+  <event_mention id="em-18" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1525" length="10">encouraged</trigger>
+  </event_mention>
+  <event_mention id="em-87" type="conflict" subtype="attack" realis="generic">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1406" length="9">terrorism</trigger>
+  </event_mention>
+  <event_mention id="em-112" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1376" length="9">providing</trigger>
+  </event_mention>
+  <event_mention id="em-149" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="734" length="10">indictment</trigger>
+  </event_mention>
+  <event_mention id="em-178" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1363" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-209" type="conflict" subtype="attack" realis="generic">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="648" length="6">fought</trigger>
+  </event_mention>
+  <event_mention id="em-241" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="942" length="8">returned</trigger>
+  </event_mention>
+  <event_mention id="em-262" type="conflict" subtype="attack" realis="other">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="931" length="5">jihad</trigger>
+  </event_mention>
+  <event_mention id="em-396" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="698" length="9">returning</trigger>
+  </event_mention>
+  <event_mention id="em-454" type="conflict" subtype="attack" realis="generic">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="600" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-471" type="conflict" subtype="attack" realis="generic">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1016" length="10">terrorists</trigger>
+  </event_mention>
+  <event_mention id="em-625" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="981" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-647" type="life" subtype="marry" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="370" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-679" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1455" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-693" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1279" length="10">indictment</trigger>
+  </event_mention>
+  <event_mention id="em-699" type="justice" subtype="convict" realis="other">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1420" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-704" type="conflict" subtype="attack" realis="generic">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1556" length="5">jihad</trigger>
+  </event_mention>
+  <event_mention id="em-739" type="conflict" subtype="attack" realis="generic">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="790" length="9">terrorist</trigger>
+  </event_mention>
+  <event_mention id="em-796" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="321" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-804" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="489" length="6">walked</trigger>
+  </event_mention>
+  <event_mention id="em-860" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1267" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-870" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1188" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-879" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1479" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-922" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="869" length="8">traveled</trigger>
+  </event_mention>
+  <event_mention id="em-956" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="1e3b680db788df86635c1343c09d085b" offset="1207" length="4">give</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

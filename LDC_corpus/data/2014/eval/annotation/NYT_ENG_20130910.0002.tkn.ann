@@ -1,0 +1,141 @@
+T1	Transaction_Transfer-Money 238 241	PAY
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Other
+T2	Personnel_End-Position 321 327	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Money 409 412	pay
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Other
+T4	Justice_Fine 246 251	FINES
+E4	Justice_Fine:T4 
+A4	Realis E4 Actual
+T5	Justice_Fine 488 493	fines
+E5	Justice_Fine:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 620 626	former
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Life_Die 732 745	assassination
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Justice_Convict 1079 1088	convicted
+E8	Justice_Convict:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 1092 1099	charges
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1248 1252	dead
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Justice_Convict 1270 1279	convicted
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T12	Justice_Sentence 1374 1383	sentenced
+E12	Justice_Sentence:T12 
+A12	Realis E12 Actual
+T13	Justice_Pardon 1449 1457	pardoned
+E13	Justice_Pardon:T13 
+A13	Realis E13 Actual
+T14	Justice_Release-Parole 1462 1467	freed
+E14	Justice_Release-Parole:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 1497 1500	pay
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T16	Justice_Fine 1596 1601	fined
+E16	Justice_Fine:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 1648 1652	paid
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Justice_Fine 1675 1679	fine
+E18	Justice_Fine:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Ownership 1908 1920	confiscating
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Other
+T20	Transaction_Transfer-Ownership 2101 2108	collect
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Generic
+T22	Transaction_Transfer-Ownership 2320 2332	confiscating
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Justice_Arrest-Jail 2425 2433	arrested
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Actual
+T24	Justice_Charge-Indict 2449 2456	charges
+E24	Justice_Charge-Indict:T24 
+A24	Realis E24 Actual
+T25	Personnel_End-Position 2507 2513	former
+E25	Personnel_End-Position:T25 
+A25	Realis E25 Actual
+T26	Justice_Charge-Indict 2580 2587	charges
+E26	Justice_Charge-Indict:T26 
+A26	Realis E26 Actual
+T27	Transaction_Transfer-Money 2899 2902	pay
+E27	Transaction_Transfer-Money:T27 
+A27	Realis E27 Other
+T28	Justice_Fine 2919 2923	fine
+E28	Justice_Fine:T28 
+A28	Realis E28 Actual
+T29	Transaction_Transfer-Ownership 2987 2991	sold
+E29	Transaction_Transfer-Ownership:T29 
+A29	Realis E29 Other
+T30	Transaction_Transfer-Money 3000 3003	pay
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Other
+T31	Justice_Fine 3008 3012	fine
+E31	Justice_Fine:T31 
+A31	Realis E31 Actual
+T32	Life_Die 3093 3096	die
+E32	Life_Die:T32 
+A32	Realis E32 Other
+T33	Justice_Fine 3391 3395	fine
+E33	Justice_Fine:T33 
+A33	Realis E33 Actual
+T34	Transaction_Transfer-Money 3436 3440	paid
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Actual
+T35	Justice_Fine 3449 3453	fine
+E35	Justice_Fine:T35 
+A35	Realis E35 Actual
+T36	Life_Divorce 3501 3509	divorced
+E36	Life_Divorce:T36 
+A36	Realis E36 Actual
+T37	Transaction_Transfer-Money 3532 3535	pay
+E37	Transaction_Transfer-Money:T37 
+A37	Realis E37 Actual
+T38	Justice_Fine 3604 3609	fines
+E38	Justice_Fine:T38 
+A38	Realis E38 Actual
+T39	Transaction_Transfer-Ownership 2835 2842	give up
+E39	Transaction_Transfer-Ownership:T39 
+A39	Realis E39 Other
+T40	Transaction_Transfer-Ownership 3293 3300	give up
+E40	Transaction_Transfer-Ownership:T40 
+A40	Realis E40 Other
+T41	Transaction_Transfer-Money 3370 3375	cover
+E41	Transaction_Transfer-Money:T41 
+A41	Realis E41 Other
+T42	Conflict_Attack 705 709	coup
+E42	Conflict_Attack:T42 
+A42	Realis E42 Actual
+T43	Personnel_Start-Position 936 945	succeeded
+E43	Personnel_Start-Position:T43 
+T44	Conflict_Attack 989 993	coup
+E44	Conflict_Attack:T44 
+A43	Realis E44 Actual
+T45	Conflict_Attack 1134 1138	coup
+E45	Conflict_Attack:T45 
+A44	Realis E45 Actual
+T46	Transaction_Transfer-Money 1283 1293;1299 1305	collecting bribes
+E46	Transaction_Transfer-Money:T46 
+A45	Realis E46 Actual
+T21	Transaction_Transfer-Money 2437 2440	tax
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Generic
+T47	Transaction_Transfer-Ownership 3187 3193;3211 3218	assets secured
+E47	Transaction_Transfer-Ownership:T47 
+A46	Realis E47 Actual
+A47	Realis E43 Actual

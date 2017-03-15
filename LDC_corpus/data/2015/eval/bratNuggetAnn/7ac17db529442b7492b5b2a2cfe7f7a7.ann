@@ -1,0 +1,39 @@
+T1	Personnel_End-Position 351 357	Former
+E109	Personnel_End-Position:T1
+A1	Realis E109 Actual
+T2	Movement_Transport-Person 869 880	extradition
+E110	Movement_Transport-Person:T2
+A2	Realis E110 Other
+T3	Contact_Meet 527 531	said
+E117	Contact_Meet:T3
+A3	Realis E117 Actual
+T4	Personnel_End-Position 704 707	was
+E163	Personnel_End-Position:T4
+A4	Realis E163 Actual
+T5	Justice_Charge-Indict 798 805	charges
+E232	Justice_Charge-Indict:T5
+A5	Realis E232 Actual
+T6	Transaction_Transfer-Money 785 797	embezzlement
+E240	Transaction_Transfer-Money:T6
+A6	Realis E240 Other
+T7	Justice_Charge-Indict 416 422	charge
+E308	Justice_Charge-Indict:T7
+A7	Realis E308 Actual
+T8	Personnel_Start-Position 704 707	was
+E440	Personnel_Start-Position:T8
+A8	Realis E440 Actual
+T9	Transaction_Transfer-Money 432 442	laundering
+E461	Transaction_Transfer-Money:T9
+A9	Realis E461 Generic
+T10	Transaction_Transfer-Money 653 662	embezzled
+E573	Transaction_Transfer-Money:T10
+A10	Realis E573 Actual
+T11	Transaction_Transfer-Money 596 606	laundering
+E596	Transaction_Transfer-Money:T11
+A11	Realis E596 Other
+T12	Justice_Extradite 869 880	extradition
+E622	Justice_Extradite:T12
+A12	Realis E622 Other
+T13	Justice_Acquit 770 777	cleared
+E716	Justice_Acquit:T13
+A13	Realis E716 Actual

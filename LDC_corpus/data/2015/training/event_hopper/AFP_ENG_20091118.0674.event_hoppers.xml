@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976240000000000000013" doc_id="AFP_ENG_20091118.0674" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-74" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="192" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-87" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="58" length="9">Convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-100" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="77" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-113" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="215" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-126" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="395" length="12">put to death</trigger>
+      </event_mention>
+      <event_mention id="em-139" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="743" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-152" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="1326" length="12">put to death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-165" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="592" length="6">lethal</trigger>
+      </event_mention>
+      <event_mention id="em-178" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1450" length="6">lethal</trigger>
+      </event_mention>
+      <event_mention id="em-191" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="341" length="3">die</trigger>
+      </event_mention>
+      <event_mention id="em-438" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="538" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-503" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1205" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-516" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1273" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-217" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="538" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-295" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="1042" length="5">Death</trigger>
+      </event_mention>
+      <event_mention id="em-386" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="77" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-399" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="215" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-412" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="395" length="12">put to death</trigger>
+      </event_mention>
+      <event_mention id="em-451" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="743" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-529" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="1326" length="12">put to death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-204" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="464" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-230" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="730" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-243" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="762" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-256" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="818" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-269" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="842" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-282" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="935" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-308" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1205" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-321" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1273" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-555" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="592" length="6">lethal</trigger>
+      </event_mention>
+      <event_mention id="em-568" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1450" length="6">lethal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-334" type="justice" subtype="sentence" realis="generic">
+        <trigger source="AFP_ENG_20091118.0674" offset="1279" length="7">penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-38">
+      <event_mention id="em-347" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="1438" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-40">
+      <event_mention id="em-360" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="AFP_ENG_20091118.0674" offset="901" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-42">
+      <event_mention id="em-373" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="1556" length="7">claimed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-50">
+      <event_mention id="em-425" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="464" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-58">
+      <event_mention id="em-477" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="818" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-60">
+      <event_mention id="em-464" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="762" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-490" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="935" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-68">
+      <event_mention id="em-542" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091118.0674" offset="1438" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

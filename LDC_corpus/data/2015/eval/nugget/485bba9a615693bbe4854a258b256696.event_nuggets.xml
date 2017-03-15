@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9e0000000000000145" doc_id="485bba9a615693bbe4854a258b256696" source_type="multi_post">
+  <event_mention id="em-10" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="3916" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-24" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1031" length="10">persuading</trigger>
+  </event_mention>
+  <event_mention id="em-217" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1217" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-231" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1724" length="6">citing</trigger>
+  </event_mention>
+  <event_mention id="em-334" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="2073" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-485" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1217" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-502" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1580" length="5">bring</trigger>
+  </event_mention>
+  <event_mention id="em-537" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1858" length="7">raising</trigger>
+  </event_mention>
+  <event_mention id="em-564" type="life" subtype="beborn" realis="generic">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="2398" length="4">have</trigger>
+  </event_mention>
+  <event_mention id="em-580" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="967" length="8">building</trigger>
+  </event_mention>
+  <event_mention id="em-597" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1875" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-641" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="3035" length="10">requesting</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="3049" length="5">build</trigger>
+  </event_mention>
+  <event_mention id="em-770" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="527" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-806" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="527" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-820" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="1875" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-989" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="485bba9a615693bbe4854a258b256696" offset="2620" length="4">trip</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

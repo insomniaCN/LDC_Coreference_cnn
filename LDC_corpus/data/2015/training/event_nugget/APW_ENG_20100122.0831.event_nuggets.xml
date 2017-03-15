@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976440000000000000040" doc_id="APW_ENG_20100122.0831" source_type="newswire">
+<event_mention id="em-48" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="98" length="10">sentencing</trigger>
+      </event_mention>
+<event_mention id="em-61" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="266" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-74" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="412" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-87" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="889" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-100" type="justice" subtype="sentence" realis="generic">
+        <trigger source="APW_ENG_20100122.0831" offset="1249" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-113" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1481" length="10">sentencing</trigger>
+      </event_mention>
+<event_mention id="em-126" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="1098" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-139" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="634" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-152" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1467" length="9">come back</trigger>
+      </event_mention>
+<event_mention id="em-165" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1589" length="9">come back</trigger>
+      </event_mention>
+<event_mention id="em-178" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="2053" length="4">fled</trigger>
+      </event_mention>
+<event_mention id="em-191" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="1046" length="4">fled</trigger>
+      </event_mention>
+<event_mention id="em-204" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1525" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-217" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1618" length="7">ordered</trigger>
+      </event_mention>
+<event_mention id="em-230" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="2151" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-243" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="1922" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-256" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="1765" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-269" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="697" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-282" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="442" length="6">served</trigger>
+      </event_mention>
+<event_mention id="em-295" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="APW_ENG_20100122.0831" offset="1513" length="11">time-served</trigger>
+      </event_mention>
+<event_mention id="em-308" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1640" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-321" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1387" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-334" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100122.0831" offset="1877" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-347" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100122.0831" offset="2099" length="7">promise</trigger>
+      </event_mention>
+<event_mention id="em-360" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="2135" length="6">served</trigger>
+      </event_mention>
+<event_mention id="em-373" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="1842" length="6">served</trigger>
+      </event_mention>
+<event_mention id="em-386" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="2197" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-399" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="204" length="4">hear</trigger>
+      </event_mention>
+<event_mention id="em-412" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="736" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-425" type="justice" subtype="appeal" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="1007" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-438" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="2011" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-451" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="715" length="11">transferred</trigger>
+      </event_mention>
+<event_mention id="em-464" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="2035" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-477" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100122.0831" offset="557" length="8">insisted</trigger>
+      </event_mention>
+<event_mention id="em-490" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100122.0831" offset="367" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-503" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100122.0831" offset="1200" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-516" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100122.0831" offset="1716" length="4">late</trigger>
+      </event_mention>
+<event_mention id="em-559" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100122.0831" offset="580" length="6">appear</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

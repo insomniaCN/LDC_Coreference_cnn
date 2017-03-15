@@ -1,0 +1,55 @@
+<DOC id="NYT_ENG_20130905.0123" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130905/20130905,7ca37e611df0bb9728be3d70407a82db.xml">
+<HEADLINE>
+Wynn, Boston told to end tiff
+</HEADLINE>
+<TEXT>
+<P>
+EDNOTES: (FOR USE BY NEW YORK TIMES NEWS SERVICE CLIENTS)
+</P>
+<P>
+Maps released by Wynn Resorts on Wednesday indicate that all of the company’s proposed Mystic River casino development lies within Everett, bolstering the company’s claim that the City of Boston is not a host community for the project and therefore cannot block it.
+</P>
+<P>
+But Mayor Thomas M. Menino’s administration was not ready to give up, saying the Charlestown neighborhood near the proposed development should get to vote on whether to accept the Wynn proposal.
+</P>
+<P>
+''It is easy to draw lines on a map and circumvent the boundaries of the city, but that doesn’t circumvent the impacts to the city,'' said Menino’s spokeswoman Dot Joyce. ''The city will continue to fight for the full protection of Charlestown and the people of Charlestown.''
+</P>
+<P>
+Menino and Wynn are in an ongoing dispute over whether part of Wynn’s proposed resort is in Boston. If it is, Boston could be designated a host community for the project under state law, giving the city broad power over the development, including the power to kill it. Boston’s claim rests with the odd shape of the city line, which darts across the Mystic River into the edge of the former Monsanto chemical site where Wynn intends to build.
+</P>
+<P>
+The state gambling commission brought the two sides together Wednesday to present their arguments at a public forum.
+</P>
+<P>
+After hearing both sides -- and seeing Wynn’s maps -- the panel gave the combatants until the end of the week to solve the dispute on their own, or the commission would solve it for them at a more formal hearing with witnesses, cross examinations, and documents entered into evidence.
+</P>
+<P>
+Commission members did not directly say Wednesday which side they believed to be right, but suggested the documents provided by Wynn should help solve the dispute.
+</P>
+<P>
+''It looks to me the facts are pretty clear,'' said commission chairman Stephen Crosby.
+</P>
+<P>
+Wynn is competing for the sole Greater Boston casino Âlicense with Suffolk Downs, the East Boston casino proposal Âfavored by Menino, and a Foxwoods project in Milford. The commission is expected to choose the winning applicant in early 2014.
+</P>
+<P>
+Wynn’s representatives, including former governor William F. Weld, a partner at Mintz Levin, argued that the City of Boston, while not a host community, probably qualifies as a surrounding community under the law.
+</P>
+<P>
+As a surrounding community, the city could negotiate with Wynn for compensation to address the effects of a casino, such as additional traffic on Boston streets. Surrounding communities, however, do not hold binding public votes on casino projects, nor can they block a casino development by refusing to negotiate or by asking for too much. Failed negotiations would be settled through arbitration.
+</P>
+<P>
+''There is nothing personal here,'' Weld said. ''We want the City of Boston to receive fair compensation for any impacts.''
+</P>
+<P>
+In presenting the city’s case, lawyers for Boston displayed Wynn’s own renderings of the project, which appear to show landscaping on a narrow triangle of land on the Boston side of the city line. The city also claimed Wynn created confusion over Boston’s status by refusing to provide project plans and documents the city had requested.
+</P>
+<P>
+Wynn’s representatives said artistic renderings should not be taken as formal plans.
+</P>
+<P>
+Lawyers representing the two sides swapped business cards after the hearing, which Crosby took as a positive sign they would be talking about a resolution, without further action from the commission.
+</P>
+</TEXT>
+</DOC>

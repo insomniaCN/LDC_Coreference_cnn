@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976220000000000000010" doc_id="AFP_ENG_20091102.0449" source_type="newswire">
+  <hoppers>
+    <hopper id="h-12">
+      <event_mention id="em-35" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20091102.0449" offset="318" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-48" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20091102.0449" offset="819" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-74" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20091102.0449" offset="1045" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-113" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="AFP_ENG_20091102.0449" offset="696" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-139" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091102.0449" offset="235" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-152" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091102.0449" offset="67" length="4">says</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091102.0449" offset="501" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-178" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091102.0449" offset="738" length="8">insisted</trigger>
+      </event_mention>
+      <event_mention id="em-191" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091102.0449" offset="987" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-230" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091102.0449" offset="511" length="6">letter</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-61" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="AFP_ENG_20091102.0449" offset="97" length="5">court</trigger>
+      </event_mention>
+      <event_mention id="em-204" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="AFP_ENG_20091102.0449" offset="428" length="10">conference</trigger>
+      </event_mention>
+      <event_mention id="em-217" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="AFP_ENG_20091102.0449" offset="275" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-243" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20091102.0449" offset="199" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

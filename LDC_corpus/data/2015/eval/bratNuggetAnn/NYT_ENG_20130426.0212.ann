@@ -1,0 +1,60 @@
+T1	Transaction_Transfer-Money 279 290	contributed
+E384	Transaction_Transfer-Money:T1
+A1	Realis E384 Actual
+T2	Movement_Transport-Person 1828 1833	visit
+E404	Movement_Transport-Person:T2
+A2	Realis E404 Actual
+T3	Business_Start-Org 396 403	founded
+E510	Business_Start-Org:T3
+A3	Realis E510 Actual
+T4	Transaction_Transfer-Money 1037 1045	financed
+E540	Transaction_Transfer-Money:T4
+A4	Realis E540 Actual
+T5	Transaction_Transfer-Ownership 1097 1104	provide
+E549	Transaction_Transfer-Ownership:T5
+A5	Realis E549 Other
+T6	Movement_Transport-Person 1782 1794	globetrotter
+E562	Movement_Transport-Person:T6
+A6	Realis E562 Actual
+T7	Transaction_Transfer-Money 2382 2386	left
+E579	Transaction_Transfer-Money:T7
+A7	Realis E579 Other
+T8	Transaction_Transfer-Money 563 570	donated
+E629	Transaction_Transfer-Money:T8
+A8	Realis E629 Actual
+T9	Contact_Meet 1873 1876	met
+E636	Contact_Meet:T9
+A9	Realis E636 Actual
+T10	Life_Die 493 498	death
+E659	Life_Die:T10
+A10	Realis E659 Actual
+T11	Life_Die 215 219	DIES
+E678	Life_Die:T11
+A11	Realis E678 Actual
+T12	Life_Die 2008 2012	died
+E686	Life_Die:T12
+A12	Realis E686 Actual
+T13	Life_Die 422 426	died
+E744	Life_Die:T13
+A13	Realis E744 Actual
+T14	Life_Marry 1970 1977	married
+E764	Life_Marry:T14
+A14	Realis E764 Actual
+T15	Transaction_Transfer-Money 1307 1313	giving
+E772	Transaction_Transfer-Money:T15
+A15	Realis E772 Actual
+T16	Contact_Contact 2328 2332	said
+E799	Contact_Contact:T16
+A16	Realis E799 Actual
+T17	Life_Beborn 1531 1535	born
+E811	Life_Beborn:T17
+A17	Realis E811 Actual
+T18	Movement_Transport-Person 1941 1943	to
+E850	Movement_Transport-Person:T18
+A18	Realis E850 Actual
+T19	Business_Start-Org 766 773	founded
+E860	Business_Start-Org:T19
+A19	Realis E860 Actual
+T20	Transaction_Transfer-Money 806 812	awards
+E919	Transaction_Transfer-Money:T20
+A20	Realis E919 Generic

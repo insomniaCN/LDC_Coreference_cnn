@@ -1,0 +1,138 @@
+T1	Justice_Convict 68 77	Convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Life_Die 107 111	dead
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 374 383	convicted
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Life_Die 415 420	death
+E4	Life_Die:T4 
+A4	Realis E4 Generic
+T5	Life_Die 438 442	died
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 537 541	died
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Justice_Trial-Hearing 627 632	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 773 780	retired
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 803 811	deported
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Justice_Trial-Hearing 839 844	trial
+E10	Justice_Trial-Hearing:T10 
+A10	Realis E10 Actual
+T11	Life_Die 2548 2553	death
+E11	Life_Die:T11 
+A11	Realis E11 Generic
+T12	Justice_Appeal 3181 3187	appeal
+E12	Justice_Appeal:T12 
+A12	Realis E12 Actual
+T13	Justice_Convict 3308 3317	convicted
+E13	Justice_Convict:T13 
+A13	Realis E13 Other
+T14	Life_Die 3342 3347	Dying
+E14	Life_Die:T14 
+A14	Realis E14 Generic
+T15	Justice_Appeal 3359 3366	appeals
+E15	Justice_Appeal:T15 
+A15	Realis E15 Generic
+T16	Justice_Convict 3395 3405	conviction
+E16	Justice_Convict:T16 
+A16	Realis E16 Other
+T17	Justice_Convict 3569 3578	convicted
+E17	Justice_Convict:T17 
+A17	Realis E17 Other
+T18	Justice_Appeal 3595 3601	appeal
+E18	Justice_Appeal:T18 
+A18	Realis E18 Other
+T19	Justice_Appeal 3668 3675	appeals
+E19	Justice_Appeal:T19 
+A19	Realis E19 Generic
+T20	Justice_Convict 4379 4388	convicted
+E20	Justice_Convict:T20 
+A20	Realis E20 Other
+T21	Justice_Convict 4456 4465	convicted
+E21	Justice_Convict:T21 
+A21	Realis E21 Actual
+T22	Justice_Convict 5577 5587	conviction
+E22	Justice_Convict:T22 
+A22	Realis E22 Actual
+T23	Life_Die 5863 5867	dead
+E23	Life_Die:T23 
+A23	Realis E23 Actual
+T24	Justice_Charge-Indict 6102 6114	prosecutions
+E24	Justice_Charge-Indict:T24 
+A24	Realis E24 Other
+T25	Life_Die 6284 6289;6294 6302	takes dirt nap
+E25	Life_Die:T25 
+A25	Realis E25 Generic
+T26	Life_Die 6498 6503;6508 6516	takes dirt nap
+E26	Life_Die:T26 
+A26	Realis E26 Generic
+T27	Life_Die 7180 7185	death
+E27	Life_Die:T27 
+A27	Realis E27 Generic
+T28	Life_Die 7464 7469	death
+E28	Life_Die:T28 
+A28	Realis E28 Generic
+T29	Justice_Arrest-Jail 8058 8066	captured
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Actual
+T30	Justice_Arrest-Jail 8206 8214	captured
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Generic
+T31	Justice_Arrest-Jail 8334 8342	captured
+E31	Justice_Arrest-Jail:T31 
+A31	Realis E31 Actual
+T32	Personnel_Start-Position 8357 8363	joined
+E32	Personnel_Start-Position:T32 
+A32	Realis E32 Actual
+T33	Personnel_Start-Position 8025 8032	drafted
+E33	Personnel_Start-Position:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 8383 8388	fight
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T35	Justice_Convict 9246 9256	conviction
+E35	Justice_Convict:T35 
+A35	Realis E35 Actual
+T36	Life_Die 9532 9536	dead
+E36	Life_Die:T36 
+A36	Realis E36 Actual
+T37	Personnel_Start-Position 9777 9784	drafted
+E37	Personnel_Start-Position:T37 
+A37	Realis E37 Actual
+T38	Justice_Arrest-Jail 9810 9818	captured
+E38	Justice_Arrest-Jail:T38 
+A38	Realis E38 Actual
+T39	Justice_Arrest-Jail 9958 9966	captured
+E39	Justice_Arrest-Jail:T39 
+A39	Realis E39 Generic
+T40	Justice_Arrest-Jail 10086 10094	captured
+E40	Justice_Arrest-Jail:T40 
+A40	Realis E40 Actual
+T41	Personnel_Start-Position 10109 10115	joined
+E41	Personnel_Start-Position:T41 
+A41	Realis E41 Actual
+T42	Conflict_Attack 10135 10140	fight
+E42	Conflict_Attack:T42 
+A42	Realis E42 Actual
+T43	Movement_Transport-Person 10186 10197	transferred
+E43	Movement_Transport-Person:T43 
+A43	Realis E43 Actual
+T44	Justice_Execute 10946 10951	death
+E44	Justice_Execute:T44 
+A44	Realis E44 Generic
+T45	Justice_Sentence 10952 10959	penalty
+E45	Justice_Sentence:T45 
+A45	Realis E45 Generic
+T46	Justice_Convict 11076 11085	convicted
+E46	Justice_Convict:T46 
+A46	Realis E46 Actual

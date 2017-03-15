@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab20000000000000184" doc_id="8add39a63b41c6140626f5a082e2c071" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-616" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="338" length="5">Repay</trigger>
+      </event_mention>
+      <event_mention id="em-855" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1533" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-96" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="357" length="4">Loan</trigger>
+      </event_mention>
+      <event_mention id="em-765" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="565" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-389" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="623" length="7">lending</trigger>
+      </event_mention>
+      <event_mention id="em-688" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="793" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-644" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1092" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-544" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1477" length="4">lent</trigger>
+      </event_mention>
+      <event_mention id="em-872" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1149" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-944" type="justice" subtype="sue" realis="actual">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="527" length="4">sued</trigger>
+      </event_mention>
+      <event_mention id="em-361" type="justice" subtype="sue" realis="actual">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="966" length="4">sued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-149" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="837" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-258" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="928" length="6">failed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-464" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="954" length="10">taken over</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-635" type="justice" subtype="sue" realis="actual">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1030" length="11">countersued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-245">
+      <event_mention id="em-214" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="592" length="6">argued</trigger>
+      </event_mention>
+      <event_mention id="em-759" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1403" length="6">argued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-260">
+      <event_mention id="em-600" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="837" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-288">
+      <event_mention id="em-420" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="1857" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-303">
+      <event_mention id="em-531" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="8add39a63b41c6140626f5a082e2c071" offset="2138" length="7">support</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

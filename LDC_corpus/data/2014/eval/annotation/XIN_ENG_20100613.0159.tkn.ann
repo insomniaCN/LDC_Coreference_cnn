@@ -1,0 +1,28 @@
+T1	Conflict_Attack 118 124	attack
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 253 264	fanning out
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 299 307	attacked
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 456 464	attacked
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Injure 509 517	injuring
+E5	Life_Injure:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 562 566	fled
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 588 599	opened fire
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 660 671	disappeared
+E8	Movement_Transport-Person:T8 
+A8	Questionable E8 Mention
+A9	Realis E8 Actual
+T9	Life_Injure 724 731	injured
+E9	Life_Injure:T9 
+A10	Realis E9 Actual

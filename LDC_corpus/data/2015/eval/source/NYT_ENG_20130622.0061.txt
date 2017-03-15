@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130622.0061" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130622/20130622,39c4552f6b0984e22f15e84a4f35bdeb.xml">
+<HEADLINE>
+SLURS AGAINST BLACK OFFICIAL IN ITALY SPUR DEBATE ON RACISM
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+ROME - When Cécile Kyenge accepted the post of minister of integration in Prime Minister Enrico Letta’s center-left government, she knew that as Italy’s first black national official she would be breaking new ground. What she may not have expected was the stream of racial slurs that have accompanied her first eight weeks in office.
+</P>
+<P>
+Death threats have been posted on Facebook, and in one case this month, a City Council member in Padua called for Kyenge to be raped so that she could “understand” what victims felt. The councilor, Dolores Valandro, who made the comment in a discussion about a woman said to have been raped by an African man, was subsequently expelled from her party, the anti-immigrant Northern League.
+</P>
+<P>
+The verbal attacks have been worrying enough that Kyenge, 48, who was born in the Democratic Republic of Congo and moved to Italy at 19, now travels with heightened security. She has so far chosen not to respond directly to her detractors but instead has praised the many who have spoken out in her support to underscore the need for Italians to strive for civility.
+</P>
+<P>
+“It’s up to the institutions, to the population, to give a response to these attacks,” Kyenge said in a recent interview in her stately office in central Rome.
+</P>
+<P>
+If discussion alone were the goal, then Kyenge’s appointment would have already succeeded. It has opened a national debate on the tension between the increasingly multicultural nature of Italian society and the undercurrent of racism that is increasingly difficult for Italians to ignore.
+</P>
+<P>
+Experts who track immigration issues say that more subtle and insidious forms of racism are pervasive in Italy as it struggles to come to terms with its rapidly changing demographics. In 2011, immigrants made up 7.5 percent of Italy’s population, more than double the percentage of just a decade before.
+</P>
+<P>
+That influx has combined with Italy’s long economic crisis in ways that have frequently confused or obfuscated the causes of the malaise, with immigrants serving as easy scapegoats.
+</P>
+<P>
+“Kyenge - the first black person, the first immigrant - became minister in a very difficult, tense moment,” said Ferruccio Pastore, director of the International and European Forum for Migration Research in Turin. “It will be a test of the maturity of the political system, of the civil maturity of Italians. It’s an important test.”
+</P>
+</TEXT>
+</DOC>

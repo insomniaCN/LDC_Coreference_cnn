@@ -1,0 +1,104 @@
+T3	Transaction_Transfer-Money 386 390;398 402	gave loan
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 414 418	paid
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 419 421	it
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+#1	AnnotatorNotes E5	anaphor for the loan
+T6	Business_End-Org 496 506	went under
+E6	Business_End-Org:T6 
+A6	Realis E6 Other
+T10	Business_End-Org 915 919	fold
+E10	Business_End-Org:T10 
+A10	Realis E10 Actual
+T12	Transaction_Transfer-Money 1269 1277	spending
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T15	Transaction_Transfer-Money 1535 1543	spending
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Generic
+T20	Transaction_Transfer-Money 2171 2179	spending
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Generic
+T25	Business_End-Org 2675 2679	fold
+E25	Business_End-Org:T25 
+A25	Realis E25 Actual
+T28	Transaction_Transfer-Money 3595 3603	spending
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Actual
+T29	Transaction_Transfer-Money 3544 3549	taxes
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Generic
+T30	Transaction_Transfer-Money 2207 2212	taxes
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Generic
+T31	Transaction_Transfer-Money 1571 1576	taxes
+E31	Transaction_Transfer-Money:T31 
+A31	Realis E31 Generic
+T32	Transaction_Transfer-Money 1218 1223	taxes
+E32	Transaction_Transfer-Money:T32 
+A32	Realis E32 Generic
+T33	Transaction_Transfer-Money 1497 1500	tax
+E33	Transaction_Transfer-Money:T33 
+A33	Realis E33 Generic
+T34	Transaction_Transfer-Money 2133 2136	tax
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Generic
+T37	Transaction_Transfer-Money 4298 4306	bailouts
+E37	Transaction_Transfer-Money:T37 
+A37	Realis E37 Actual
+T38	Transaction_Transfer-Money 4421 4425	cost
+E38	Transaction_Transfer-Money:T38 
+A38	Realis E38 Other
+T39	Transaction_Transfer-Money 4525 4532	payment
+E39	Transaction_Transfer-Money:T39 
+A39	Realis E39 Other
+T41	Transaction_Transfer-Money 4620 4628	spending
+E41	Transaction_Transfer-Money:T41 
+A41	Realis E41 Actual
+T42	Transaction_Transfer-Money 4696 4698	it
+E42	Transaction_Transfer-Money:T42 
+A42	Realis E42 Generic
+#2	AnnotatorNotes E42	anaphor for spending
+T43	Transaction_Transfer-Money 4748 4753	spend
+E43	Transaction_Transfer-Money:T43 
+A43	Realis E43 Actual
+T44	Transaction_Transfer-Money 4851 4859	spending
+E44	Transaction_Transfer-Money:T44 
+A44	Realis E44 Actual
+T45	Transaction_Transfer-Money 4911 4914	tax
+E45	Transaction_Transfer-Money:T45 
+A45	Realis E45 Generic
+T53	Transaction_Transfer-Money 5873 5876	tax
+E53	Transaction_Transfer-Money:T53 
+A53	Realis E53 Generic
+T55	Transaction_Transfer-Money 6110 6118	spending
+E55	Transaction_Transfer-Money:T55 
+A55	Realis E55 Other
+T56	Personnel_Start-Position 6159 6170	took office
+E56	Personnel_Start-Position:T56 
+A56	Realis E56 Actual
+T58	Transaction_Transfer-Money 6225 6227	it
+E58	Transaction_Transfer-Money:T58 
+A58	Realis E58 Other
+#3	AnnotatorNotes E58	anaphor for spending
+T59	Transaction_Transfer-Money 6254 6256	it
+E59	Transaction_Transfer-Money:T59 
+A59	Realis E59 Other
+#4	AnnotatorNotes E59	anaphor for spending
+T1	Transaction_Transfer-Money 1519 1524	taxes
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Money 2155 2160	taxes
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Generic
+A7	Questionable E12 Realis
+A8	Questionable E28 Realis
+A9	Questionable E41 Realis
+A11	Questionable E44 Realis
+A13	Questionable E55 Realis
+A14	Questionable E58 Realis
+A16	Questionable E59 Realis

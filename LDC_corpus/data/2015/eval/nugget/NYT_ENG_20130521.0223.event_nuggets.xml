@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea4f0000000000000017" doc_id="NYT_ENG_20130521.0223" source_type="newswire">
+  <event_mention id="em-8" type="life" subtype="die" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="312" length="8">genocide</trigger>
+  </event_mention>
+  <event_mention id="em-17" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="312" length="8">genocide</trigger>
+  </event_mention>
+  <event_mention id="em-25" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1024" length="6">guilty</trigger>
+  </event_mention>
+  <event_mention id="em-95" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="321" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-136" type="justice" subtype="acquit" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="2117" length="9">acquittal</trigger>
+  </event_mention>
+  <event_mention id="em-138" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1430" length="11">proceedings</trigger>
+  </event_mention>
+  <event_mention id="em-141" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1034" length="8">genocide</trigger>
+  </event_mention>
+  <event_mention id="em-144" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="910" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-146" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1682" length="9">massacres</trigger>
+  </event_mention>
+  <event_mention id="em-152" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="359" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-189" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="736" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-200" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="213" length="2">EX</trigger>
+  </event_mention>
+  <event_mention id="em-265" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="603" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-272" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="2165" length="10">rearrested</trigger>
+  </event_mention>
+  <event_mention id="em-306" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="336" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-312" type="life" subtype="die" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="1034" length="8">genocide</trigger>
+  </event_mention>
+  <event_mention id="em-353" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130521.0223" offset="2959" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-379" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="343" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-383" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1696" length="5">rapes</trigger>
+  </event_mention>
+  <event_mention id="em-461" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="791" length="11">transferred</trigger>
+  </event_mention>
+  <event_mention id="em-478" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1833" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-512" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1375" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-542" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1910" length="14">scorched-earth</trigger>
+  </event_mention>
+  <event_mention id="em-543" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130521.0223" offset="1466" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-546" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130521.0223" offset="1833" length="9">testimony</trigger>
+  </event_mention>
+  <event_mention id="em-553" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="2570" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-581" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1682" length="9">massacres</trigger>
+  </event_mention>
+  <event_mention id="em-593" type="justice" subtype="appeal" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="2231" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-660" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1174" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-727" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1287" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-753" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="420" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-754" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1717" length="12">displacement</trigger>
+  </event_mention>
+  <event_mention id="em-763" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="1108" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-770" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="199" length="10">CONVICTION</trigger>
+  </event_mention>
+  <event_mention id="em-806" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1083" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-828" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="894" length="6">return</trigger>
+  </event_mention>
+  <event_mention id="em-832" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1514" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-834" type="life" subtype="die" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="190" length="8">GENOCIDE</trigger>
+  </event_mention>
+  <event_mention id="em-847" type="justice" subtype="acquit" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="2045" length="9">acquitted</trigger>
+  </event_mention>
+  <event_mention id="em-867" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1601" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-873" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130521.0223" offset="190" length="8">GENOCIDE</trigger>
+  </event_mention>
+  <event_mention id="em-951" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130521.0223" offset="1696" length="5">rapes</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

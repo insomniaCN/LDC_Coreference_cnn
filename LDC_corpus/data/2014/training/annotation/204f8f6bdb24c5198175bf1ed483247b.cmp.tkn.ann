@@ -1,0 +1,177 @@
+T1	Justice_Charge-Indict 133 140	charged
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 192 199	walking
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 240 249	had words
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 467 476	caught up
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Movement_Transport-Person 496 503	walking
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 530 537	arguing
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 566 571	punch
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 587 593	pushed
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 626 633	punched
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Life_Injure 656 661	broke
+E10	Life_Injure:T10 
+A10	Realis E10 Actual
+T11	Movement_Transport-Person 733 739	chased
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 800 804	went
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Life_Injure 872 878	broken
+E13	Life_Injure:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 923 927;931 933	took in
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Actual
+T15	Contact_Meet 940 949	interview
+E15	Contact_Meet:T15 
+A15	Realis E15 Actual
+T16	Contact_Meet 960 971	interviewed
+E16	Contact_Meet:T16 
+A16	Realis E16 Actual
+T17	Contact_Meet 1014 1021	talking
+E17	Contact_Meet:T17 
+A17	Realis E17 Actual
+T18	Movement_Transport-Person 1124 1128	went
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 1274 1281	arrived
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 1330 1339	turned up
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual
+T21	Justice_Arrest-Jail 1379 1391	sent to jail
+E21	Justice_Arrest-Jail:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1423 1431	deported
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 1462 1464	it
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Life_Injure 1947 1953	broken
+E24	Life_Injure:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 1975 1981	attack
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Life_Injure 2051 2059	bruising
+E26	Life_Injure:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 2074 2078	spat
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Movement_Transport-Person 2097 2108	spilled out
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Actual
+T29	Life_Injure 1552 1558	broken
+E29	Life_Injure:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 1580 1586	attack
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 2217 2223	attack
+E31	Conflict_Attack:T31 
+A31	Realis E31 Other
+T32	Conflict_Attack 2708 2712	rape
+E32	Conflict_Attack:T32 
+A32	Realis E32 Other
+T33	Conflict_Attack 3015 3023	set upon
+E33	Conflict_Attack:T33 
+A33	Realis E33 Actual
+T34	Justice_Sentence 3226 3229	got
+E34	Justice_Sentence:T34 
+A34	Realis E34 Actual
+T35	Transaction_Transfer-Money 3250 3253	pay
+E35	Transaction_Transfer-Money:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 3327 3332	melee
+E36	Conflict_Attack:T36 
+A36	Realis E36 Generic
+T37	Conflict_Attack 3376 3385	assualted
+E37	Conflict_Attack:T37 
+A37	Realis E37 Generic
+T38	Justice_Charge-Indict 3416 3422	charge
+E38	Justice_Charge-Indict:T38 
+A38	Realis E38 Generic
+T39	Justice_Arrest-Jail 3713 3727	sent to prison
+E39	Justice_Arrest-Jail:T39 
+A39	Realis E39 Generic
+T40	Transaction_Transfer-Money 3748 3751	pay
+E40	Transaction_Transfer-Money:T40 
+A40	Realis E40 Generic
+T41	Transaction_Transfer-Money 3815 3818	pay
+E41	Transaction_Transfer-Money:T41 
+A41	Realis E41 Generic
+T42	Conflict_Attack 3975 3990	act of violence
+E42	Conflict_Attack:T42 
+A42	Realis E42 Generic
+T43	Conflict_Attack 4063 4065	it
+E43	Conflict_Attack:T43 
+A43	Realis E43 Other
+T44	Life_Injure 4085 4089	harm
+E44	Life_Injure:T44 
+A44	Realis E44 Other
+T45	Conflict_Attack 4154 4160	attack
+E45	Conflict_Attack:T45 
+A45	Realis E45 Actual
+T46	Life_Die 4180 4184	died
+E46	Life_Die:T46 
+A46	Realis E46 Other
+T47	Justice_Arrest-Jail 4197 4211	went to prison
+E47	Justice_Arrest-Jail:T47 
+A47	Realis E47 Actual
+T48	Conflict_Attack 4276 4278	it
+E48	Conflict_Attack:T48 
+A48	Realis E48 Other
+T49	Conflict_Attack 4310 4315	fight
+E49	Conflict_Attack:T49 
+A49	Realis E49 Generic
+T50	Movement_Transport-Person 4523 4533	thrown out
+E50	Movement_Transport-Person:T50 
+A50	Realis E50 Actual
+T51	Contact_Communicate 4588 4592	give
+E51	Contact_Communicate:T51 
+A51	Realis E51 Other
+T52	Contact_Communicate 4640 4644	give
+E52	Contact_Communicate:T52 
+A52	Realis E52 Other
+T53	Contact_Meet 4886 4898	mouthing off
+E53	Contact_Meet:T53 
+A53	Realis E53 Other
+T54	Contact_Meet 4979 4990	interviewed
+E54	Contact_Meet:T54 
+A54	Realis E54 Other
+T55	Contact_Meet 5022 5033	interviewed
+E55	Contact_Meet:T55 
+A55	Realis E55 Other
+T56	Contact_Communicate 888 896	reported
+E56	Contact_Communicate:T56 
+A56	Realis E56 Actual
+T57	Life_Injure 1656 1664	bruising
+E57	Life_Injure:T57 
+A57	Realis E57 Actual
+T58	Conflict_Attack 1679 1683	spat
+E58	Conflict_Attack:T58 
+A58	Realis E58 Actual
+T59	Movement_Transport-Person 1702 1713	spilled out
+E59	Movement_Transport-Person:T59 
+A59	Realis E59 Actual

@@ -1,0 +1,129 @@
+T1	Contact_Contact 203 211	DIALOGUE
+E82	Contact_Contact:T1
+A1	Realis E82 Other
+T2	Contact_Contact 358 366	dialogue
+E392	Contact_Contact:T2
+A2	Realis E392 Other
+T3	Contact_Meet 458 463	talks
+E824	Contact_Meet:T3
+A3	Realis E824 Other
+T4	Contact_Contact 789 794	talks
+E222	Contact_Contact:T4
+A4	Realis E222 Other
+T5	Contact_Contact 992 997	talks
+E203	Contact_Contact:T5
+A5	Realis E203 Other
+T6	Contact_Contact 1307 1311	them
+E120	Contact_Contact:T6
+A6	Realis E120 Other
+T7	Movement_Transport-Person 266 274	visiting
+E919	Movement_Transport-Person:T7
+A7	Realis E919 Actual
+T8	Contact_Contact 316 324	proposal
+E988	Contact_Contact:T8
+A8	Realis E988 Actual
+T9	Contact_Broadcast 391 399	reported
+E419	Contact_Broadcast:T9
+A9	Realis E419 Actual
+T10	Contact_Broadcast 515 523	reported
+E363	Contact_Broadcast:T10
+A10	Realis E363 Actual
+T11	Contact_Contact 501 509	comments
+E773	Contact_Contact:T11
+A11	Realis E773 Actual
+T12	Contact_Meet 565 568	met
+E776	Contact_Meet:T12
+A12	Realis E776 Actual
+T13	Movement_Transport-Artifact 820 827	removal
+E367	Movement_Transport-Artifact:T13
+A13	Realis E367 Other
+T14	Movement_Transport-Artifact 1010 1015	strip
+E932	Movement_Transport-Artifact:T14
+A14	Realis E932 Other
+T15	Contact_Meet 1080 1085	talks
+E141	Contact_Meet:T15
+A15	Realis E141 Actual
+T16	Contact_Broadcast 1440 1443	say
+E433	Contact_Broadcast:T16
+A16	Realis E433 Actual
+T17	Contact_Contact 2865 2868	say
+E690	Contact_Contact:T17
+A17	Realis E690 Actual
+T18	Contact_Contact 3087 3090	say
+E224	Contact_Contact:T18
+A18	Realis E224 Actual
+T19	Contact_Meet 1693 1698	visit
+E476	Contact_Meet:T19
+A19	Realis E476 Actual
+T20	Contact_Meet 3197 3202	visit
+E652	Contact_Meet:T20
+A20	Realis E652 Actual
+T21	Contact_Meet 3545 3550	visit
+E277	Contact_Meet:T21
+A21	Realis E277 Actual
+T22	Personnel_Start-Position 1736 1739	new
+E4	Personnel_Start-Position:T22
+A22	Realis E4 Actual
+T23	Contact_Meet 2036 2043	meeting
+E799	Contact_Meet:T23
+A23	Realis E799 Other
+T24	Contact_Meet 2138 2146	meetings
+E564	Contact_Meet:T24
+A24	Realis E564 Actual
+T25	Contact_Meet 2271 2274	met
+E121	Contact_Meet:T25
+A25	Realis E121 Actual
+T26	Movement_Transport-Person 2411 2418	visited
+E8	Movement_Transport-Person:T26
+A26	Realis E8 Actual
+T27	Contact_Broadcast 3228 3240	announcement
+E687	Contact_Broadcast:T27
+A27	Realis E687 Actual
+T28	Contact_Meet 3316 3320	meet
+E537	Contact_Meet:T28
+A28	Realis E537 Other
+T29	Contact_Contact 3536 3540	said
+E542	Contact_Contact:T29
+A29	Realis E542 Actual
+T30	Contact_Contact 178 182	SAYS
+E357	Contact_Contact:T30
+A30	Realis E357 Actual
+T31	Contact_Contact 281 285	said
+E754	Contact_Contact:T31
+A31	Realis E754 Actual
+T32	Contact_Broadcast 722 728	quoted
+E834	Contact_Broadcast:T32
+A32	Realis E834 Actual
+T33	Contact_Broadcast 1838 1844	quoted
+E934	Contact_Broadcast:T33
+A33	Realis E934 Actual
+T34	Contact_Broadcast 2013 2020	reports
+E414	Contact_Broadcast:T34
+A34	Realis E414 Other
+T35	Contact_Contact 2220 2233	interlocutors
+E890	Contact_Contact:T35
+A35	Realis E890 Generic
+T36	Contact_Broadcast 2401 2405	said
+E758	Contact_Broadcast:T36
+A36	Realis E758 Actual
+T37	Contact_Correspondence 2476 2482	advice
+E788	Contact_Correspondence:T37
+A37	Realis E788 Actual
+T38	Contact_Contact 3168 3172	said
+E132	Contact_Contact:T38
+A38	Realis E132 Actual
+T39	Contact_Contact 3594 3601	apology
+E282	Contact_Contact:T39
+A39	Realis E282 Generic
+R1	Coreference Arg1:E82 Arg2:E392
+R2	Coreference Arg1:E392 Arg2:E824
+R3	Coreference Arg1:E824 Arg2:E222
+R4	Coreference Arg1:E222 Arg2:E203
+R5	Coreference Arg1:E203 Arg2:E120
+R6	Coreference Arg1:E419 Arg2:E363
+R7	Coreference Arg1:E367 Arg2:E932
+R8	Coreference Arg1:E433 Arg2:E690
+R9	Coreference Arg1:E690 Arg2:E224
+R10	Coreference Arg1:E476 Arg2:E652
+R11	Coreference Arg1:E652 Arg2:E277
+R12	Coreference Arg1:E357 Arg2:E754

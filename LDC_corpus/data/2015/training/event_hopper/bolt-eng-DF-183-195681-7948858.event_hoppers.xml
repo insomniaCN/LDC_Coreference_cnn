@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000592" doc_id="bolt-eng-DF-183-195681-7948858" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="73" length="7">pension</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="224" length="7">pension</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="583" length="7">pension</trigger>
+      </event_mention>
+      <event_mention id="em-139" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="2092" length="7">pension</trigger>
+      </event_mention>
+      <event_mention id="em-182" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="2391" length="7">pension</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="509" length="8">salaries</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="justice" subtype="appeal" realis="other">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="628" length="8">appealed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="transaction" subtype="transfermoney" realis="other" ways="involuntaryforce">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="679" length="5">repay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-94" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="727" length="10">collecting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-109" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="952" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-124" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="1692" length="10">bankruptcy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-152" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="2128" length="7">funding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-167" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="2368" length="7">shifted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-195" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="2532" length="8">quitting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-210" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="2603" length="6">become</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-225" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-183-195681-7948858" offset="3110" length="7">retired</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

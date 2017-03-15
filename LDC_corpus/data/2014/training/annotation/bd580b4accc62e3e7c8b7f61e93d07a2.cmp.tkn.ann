@@ -1,0 +1,66 @@
+T1	Justice_Arrest-Jail 324 336	incarcerated
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Other
+T2	Conflict_Attack 410 418	tortured
+E2	Conflict_Attack:T2 
+A2	Realis E2 Other
+T3	Justice_Sentence 1091 1099	sentence
+E3	Justice_Sentence:T3 
+A4	Realis E3 Actual
+T4	Justice_Convict 1138 1147	convicted
+E4	Justice_Convict:T4 
+A5	Realis E4 Actual
+T5	Justice_Pardon 1159 1168	pardoning
+E5	Justice_Pardon:T5 
+A6	Realis E5 Other
+T6	Justice_Convict 1192 1202	conviction
+E6	Justice_Convict:T6 
+A7	Realis E6 Actual
+T7	Justice_Release-Parole 1678 1690	turned loose
+E7	Justice_Release-Parole:T7 
+A8	Realis E7 Generic
+T8	Justice_Acquit 1307 1312;1317 1321	clear name
+E8	Justice_Acquit:T8 
+A9	Realis E8 Other
+T9	Justice_Convict 1860 1869	convicted
+E9	Justice_Convict:T9 
+A10	Realis E9 Actual
+T10	Justice_Convict 2615 2624	convicted
+E10	Justice_Convict:T10 
+A11	Realis E10 Actual
+T11	Justice_Arrest-Jail 3099 3111	incarcerated
+E11	Justice_Arrest-Jail:T11 
+A12	Realis E11 Other
+T12	Justice_Convict 4412 4421	convicted
+E12	Justice_Convict:T12 
+A13	Realis E12 Actual
+T13	Justice_Sentence 4617 4625	sentence
+E13	Justice_Sentence:T13 
+A14	Realis E13 Actual
+T14	Justice_Sentence 4672 4680	sentence
+E14	Justice_Sentence:T14 
+A15	Realis E14 Actual
+T15	Justice_Sentence 4197 4205	sentence
+E15	Justice_Sentence:T15 
+A16	Realis E15 Actual
+T16	Justice_Release-Parole 1769 1776	excused
+E16	Justice_Release-Parole:T16 
+A3	Realis E16 Actual
+T17	Conflict_Attack 1799 1806	torture
+E17	Conflict_Attack:T17 
+A17	Realis E17 Other
+T18	Movement_Transport-Person 2092 2103	sequestered
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other
+T19	Conflict_Attack 2131 2139	tortured
+E19	Conflict_Attack:T19 
+A19	Realis E19 Other
+T20	Justice_Trial-Hearing 2370 2374	case
+E20	Justice_Trial-Hearing:T20 
+A20	Realis E20 Actual
+T21	Justice_Sentence 2400 2408	sentence
+E21	Justice_Sentence:T21 
+A21	Realis E21 Actual
+T22	Justice_Trial-Hearing 4167 4171	case
+E22	Justice_Trial-Hearing:T22 
+A22	Realis E22 Actual

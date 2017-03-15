@@ -1,0 +1,99 @@
+T1	Conflict_Demonstrate 137 144	protest
+E886	Conflict_Demonstrate:T1
+A1	Realis E886 Actual
+T2	Conflict_Demonstrate 307 316	protester
+E681	Conflict_Demonstrate:T2
+A2	Realis E681 Actual
+T3	Conflict_Demonstrate 396 403	protest
+E261	Conflict_Demonstrate:T3
+A3	Realis E261 Actual
+T4	Conflict_Demonstrate 548 557	protestor
+E888	Conflict_Demonstrate:T4
+A4	Realis E888 Actual
+T5	Conflict_Demonstrate 743 752	protester
+E861	Conflict_Demonstrate:T5
+A5	Realis E861 Actual
+T6	Conflict_Demonstrate 863 870	protest
+E209	Conflict_Demonstrate:T6
+A6	Realis E209 Actual
+T7	Conflict_Demonstrate 249 258	PROTESTER
+E500	Conflict_Demonstrate:T7
+A7	Realis E500 Actual
+T8	Conflict_Attack 425 432	attacks
+E484	Conflict_Attack:T8
+A8	Realis E484 Other
+T9	Conflict_Attack 576 582	Attack
+E278	Conflict_Attack:T9
+A9	Realis E278 Other
+T10	Conflict_Attack 932 939	assault
+E592	Conflict_Attack:T10
+A10	Realis E592 Other
+T11	Conflict_Attack 1396 1403	attacks
+E818	Conflict_Attack:T11
+A11	Realis E818 Other
+T12	Justice_Arrest-Jail 326 334	arrested
+E473	Justice_Arrest-Jail:T12
+A12	Realis E473 Actual
+T13	Justice_Arrest-Jail 665 673	arrested
+E384	Justice_Arrest-Jail:T13
+A13	Realis E384 Actual
+T14	Justice_Arrest-Jail 729 737	detained
+E749	Justice_Arrest-Jail:T14
+A14	Realis E749 Actual
+T15	Justice_Arrest-Jail 259 267	ARRESTED
+E726	Justice_Arrest-Jail:T15
+A15	Realis E726 Actual
+T16	Contact_Broadcast 765 769	said
+E118	Contact_Broadcast:T16
+A16	Realis E118 Actual
+T17	Conflict_Attack 303 306	war
+E419	Conflict_Attack:T17
+A17	Realis E419 Actual
+T18	Conflict_Attack 889 892	war
+E76	Conflict_Attack:T18
+A18	Realis E76 Actual
+T19	Conflict_Attack 1270 1273	war
+E501	Conflict_Attack:T19
+A19	Realis E501 Actual
+T20	Conflict_Attack 245 248	WAR
+E56	Conflict_Attack:T20
+A20	Realis E56 Actual
+T21	Conflict_Demonstrate 980 989	protestor
+E499	Conflict_Demonstrate:T21
+A21	Realis E499 Actual
+T22	Contact_Meet 1156 1164	gathered
+E325	Contact_Meet:T22
+A22	Realis E325 Actual
+T23	Life_Die 1253 1257	died
+E643	Life_Die:T23
+A23	Realis E643 Actual
+T24	Conflict_Demonstrate 1362 1375	demonstration
+E155	Conflict_Demonstrate:T24
+A24	Realis E155 Other
+T25	Movement_Transport-Person 1506 1513	proceed
+E400	Movement_Transport-Person:T25
+A25	Realis E400 Other
+T26	Movement_Transport-Person 453 461	climbing
+E584	Movement_Transport-Person:T26
+A26	Realis E584 Actual
+T27	Movement_Transport-Person 990 996	scaled
+E625	Movement_Transport-Person:T27
+A27	Realis E625 Actual
+T28	Life_Die 1212 1216	Dead
+E708	Life_Die:T28
+A28	Realis E708 Generic
+R1	Coreference Arg1:E886 Arg2:E500
+R2	Coreference Arg1:E500 Arg2:E681
+R3	Coreference Arg1:E681 Arg2:E261
+R4	Coreference Arg1:E261 Arg2:E888
+R5	Coreference Arg1:E888 Arg2:E861
+R6	Coreference Arg1:E861 Arg2:E209
+R7	Coreference Arg1:E484 Arg2:E278
+R8	Coreference Arg1:E278 Arg2:E592
+R9	Coreference Arg1:E592 Arg2:E818
+R10	Coreference Arg1:E726 Arg2:E473
+R11	Coreference Arg1:E473 Arg2:E384
+R12	Coreference Arg1:E384 Arg2:E749
+R13	Coreference Arg1:E56 Arg2:E419
+R14	Coreference Arg1:E419 Arg2:E76
+R15	Coreference Arg1:E76 Arg2:E501

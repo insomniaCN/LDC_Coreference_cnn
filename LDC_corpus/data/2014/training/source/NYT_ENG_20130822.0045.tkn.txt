@@ -1,0 +1,34 @@
+<DOC id= " NYT_ENG_20130822.0045 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130822 / 20130822,2 aee3 ac8e9f6f3d87bfab49f17c7cc7e . xml " > 
+<HEADLINE> 
+NASDAQ MARKET HALTS TRADING 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EDS : SUBS two grafs beginning “ At about 1 p.m. ... ” for third graf ; ADDS to end of graf beginning “ Traders were scrambling ... ” and ADDS two grafs after . ) ; 
+< / P> 
+<P> 
+NEW YORK - A problem at the Nasdaq stock market halted trading in all Nasdaq - listed stocks Thursday , including major names like Apple and Microsoft .
+< / P> 
+<P> 
+Nasdaq sent out an alert at 12:14 p.m. ET Thursday telling traders that it was “ halting trading in all ” stocks listed on the Nasdaq exchange “ until further notice . ” The exchange said the issue was a result of problems with the system on which trades are recorded . Trading was also halted on all Nasdaq options markets .
+< / P> 
+<P> 
+At about 1 p.m. , Nasdaq said in an alert : “ Nasdaq intends to re-open trading in all Tape C securities with a halt cross with a 5 - minute quote only period starting at a time to be determined . Nasdaq will not be canceling open orders on the book . Customers who wish to cancel their orders may do so and any customer who wishes to not participate in the re-opening should cancel their orders prior to the resumption of trading . ” 
+< / P> 
+<P> 
+The Securities and Exchange Commission said in a statement : “ We are monitoring the situation and are in close contact with the exchanges . ” 
+< / P> 
+<P> 
+Traders were scrambling to assess the impact of the outage in some of the most popular and widely traded stocks . At least some trading was able to go ahead on other trading platforms . Other public exchanges said that they were not accepting orders for Nasdaq stocks .
+< / P> 
+<P> 
+Jonathan Corpina , a stock trader at Meridian Equity Partners on the floor of the New York Stock Exchange , said he had many clients calling him “ looking for answers and explanations because they ca n’t get through to the Nasdaq on the phone . ” 
+< / P> 
+<P> 
+“ When something like this happens , it affects all markets , so clients now are waiting to see how long this plays out , ” Corpina said .
+< / P> 
+<P> 
+The outage appears to be one of the most significant technology problems to hit a trading world that has become accustomed to glitches . Earlier this week , Goldman Sachs sent out a barrage of erroneous options trade that briefly crippled the market .
+< / P> 
+< / TEXT> 
+< / DOC

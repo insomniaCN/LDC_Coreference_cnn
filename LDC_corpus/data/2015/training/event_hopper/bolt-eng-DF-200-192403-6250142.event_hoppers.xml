@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000603" doc_id="bolt-eng-DF-200-192403-6250142" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="119" length="8">abortion</trigger>
+      </event_mention>
+      <event_mention id="em-113" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="816" length="8">abortion</trigger>
+      </event_mention>
+      <event_mention id="em-126" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="840" length="8">abortion</trigger>
+      </event_mention>
+      <event_mention id="em-296" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="3340" length="8">abortion</trigger>
+      </event_mention>
+      <event_mention id="em-378" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="4414" length="8">abortion</trigger>
+      </event_mention>
+      <event_mention id="em-391" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="4438" length="8">abortion</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="213" length="6">seeing</trigger>
+      </event_mention>
+      <event_mention id="em-154" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1065" length="4">meet</trigger>
+      </event_mention>
+      <event_mention id="em-167" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1141" length="5">speak</trigger>
+      </event_mention>
+      <event_mention id="em-417" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="5305" length="5">meets</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="546" length="4">text</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="430" length="4">came</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="489" length="4">left</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-83" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="665" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-98" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="756" length="8">messaged</trigger>
+      </event_mention>
+      <event_mention id="em-309" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="3403" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-365" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="4354" length="8">messaged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-139" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1025" length="5">texts</trigger>
+      </event_mention>
+      <event_mention id="em-225" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1614" length="5">texts</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-180" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1281" length="4">went</trigger>
+      </event_mention>
+      <event_mention id="em-253" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1340" length="6">coming</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-195" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1300" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-210" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1466" length="6">texted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-251">
+      <event_mention id="em-238" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1692" length="4">text</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-279">
+      <event_mention id="em-266" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="1930" length="4">went</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-294">
+      <event_mention id="em-281" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="2181" length="7">discuss</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-335">
+      <event_mention id="em-322" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="3854" length="6">go out</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-350">
+      <event_mention id="em-337" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="3880" length="4">meet</trigger>
+      </event_mention>
+      <event_mention id="em-352" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="3994" length="4">meet</trigger>
+      </event_mention>
+      <event_mention id="em-404" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="4993" length="4">date</trigger>
+      </event_mention>
+      <event_mention id="em-445" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="5463" length="6">seeing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-443">
+      <event_mention id="em-430" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="5362" length="4">tell</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-471">
+      <event_mention id="em-458" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192403-6250142" offset="5760" length="7">holiday</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

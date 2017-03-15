@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976410000000000000037" doc_id="APW_ENG_20091106.0412" source_type="newswire">
+<event_mention id="em-18" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="APW_ENG_20091106.0412" offset="218" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-31" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="APW_ENG_20091106.0412" offset="71" length="9">nominates</trigger>
+      </event_mention>
+<event_mention id="em-44" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="APW_ENG_20091106.0412" offset="698" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-57" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20091106.0412" offset="843" length="9">dismissed</trigger>
+      </event_mention>
+<event_mention id="em-70" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20091106.0412" offset="572" length="7">used to</trigger>
+      </event_mention>
+<event_mention id="em-83" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20091106.0412" offset="351" length="4">said</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

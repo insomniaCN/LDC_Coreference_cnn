@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9e0000000000000146" doc_id="4991998c6810377da67cf4a0c9e7815b" source_type="multi_post">
+  <event_mention id="em-12" type="life" subtype="die" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1882" length="7">suicide</trigger>
+  </event_mention>
+  <event_mention id="em-49" type="justice" subtype="appeal" realis="generic">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1151" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-94" type="justice" subtype="appeal" realis="generic">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1969" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-116" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1074" length="12">construction</trigger>
+  </event_mention>
+  <event_mention id="em-147" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2533" length="4">pled</trigger>
+  </event_mention>
+  <event_mention id="em-158" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2067" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-193" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1739" length="6">charge</trigger>
+  </event_mention>
+  <event_mention id="em-235" type="conflict" subtype="attack" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1882" length="7">suicide</trigger>
+  </event_mention>
+  <event_mention id="em-320" type="justice" subtype="sentence" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2421" length="3">got</trigger>
+  </event_mention>
+  <event_mention id="em-323" type="justice" subtype="sentence" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2465" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-333" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="984" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-358" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="390" length="3">Tax</trigger>
+  </event_mention>
+  <event_mention id="em-388" type="justice" subtype="sentence" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="828" length="12">handing down</trigger>
+  </event_mention>
+  <event_mention id="em-401" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="927" length="9">detention</trigger>
+  </event_mention>
+  <event_mention id="em-421" type="justice" subtype="sentence" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1695" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-434" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="906" length="5">built</trigger>
+  </event_mention>
+  <event_mention id="em-497" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="759" length="9">kickbacks</trigger>
+  </event_mention>
+  <event_mention id="em-500" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2399" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-518" type="justice" subtype="trialhearing" realis="generic">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2504" length="4">plea</trigger>
+  </event_mention>
+  <event_mention id="em-594" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1564" length="11">trespassing</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="690" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-635" type="justice" subtype="sentence" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2366" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-665" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1254" length="9">detention</trigger>
+  </event_mention>
+  <event_mention id="em-685" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="849" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1478" length="7">mocking</trigger>
+  </event_mention>
+  <event_mention id="em-800" type="justice" subtype="sentence" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1425" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-804" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1219" length="9">committed</trigger>
+  </event_mention>
+  <event_mention id="em-841" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1521" length="6">taking</trigger>
+  </event_mention>
+  <event_mention id="em-859" type="justice" subtype="sentence" realis="other">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2556" length="10">sentencing</trigger>
+  </event_mention>
+  <event_mention id="em-880" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="2333" length="10">discussion</trigger>
+  </event_mention>
+  <event_mention id="em-995" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="4991998c6810377da67cf4a0c9e7815b" offset="1722" length="4">bars</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

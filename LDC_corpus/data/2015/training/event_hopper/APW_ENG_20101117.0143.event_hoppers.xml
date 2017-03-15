@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000561" doc_id="APW_ENG_20101117.0143" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="71" length="11">trafficking</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="197" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="91" length="7">arrives</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="233" length="6">landed</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="404" length="6">landed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="288" length="10">extradited</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="551" length="11">extradition</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20101117.0143" offset="367" length="5">tells</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-120" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="713" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-135" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20101117.0143" offset="806" length="5">Death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-150" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20101117.0143" offset="844" length="6">arming</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-165" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20101117.0143" offset="927" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-180" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20101117.0143" offset="1009" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-195" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20101117.0143" offset="1067" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-210" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="APW_ENG_20101117.0143" offset="1085" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-225" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20101117.0143" offset="1129" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

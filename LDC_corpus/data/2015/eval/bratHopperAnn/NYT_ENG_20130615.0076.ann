@@ -1,0 +1,85 @@
+T1	Justice_Release-Parole 198 205	RELEASE
+E139	Justice_Release-Parole:T1
+A1	Realis E139 Other
+T2	Justice_Release-Parole 680 688	set free
+E150	Justice_Release-Parole:T2
+A2	Realis E150 Other
+T3	Justice_Release-Parole 1001 1008	release
+E5	Justice_Release-Parole:T3
+A3	Realis E5 Other
+T4	Justice_Release-Parole 2242 2249	release
+E346	Justice_Release-Parole:T4
+A4	Realis E346 Other
+T5	Justice_Arrest-Jail 441 445	held
+E651	Justice_Arrest-Jail:T5
+A5	Realis E651 Actual
+T6	Justice_Arrest-Jail 788 794	jailed
+E229	Justice_Arrest-Jail:T6
+A6	Realis E229 Actual
+T7	Justice_Arrest-Jail 2723 2729	prison
+E874	Justice_Arrest-Jail:T7
+A7	Realis E874 Actual
+T8	Justice_Arrest-Jail 471 477	arrest
+E696	Justice_Arrest-Jail:T8
+A8	Realis E696 Actual
+T9	Justice_Arrest-Jail 2827 2833	arrest
+E239	Justice_Arrest-Jail:T9
+A9	Realis E239 Actual
+T10	Contact_Broadcast 892 900	demanded
+E464	Contact_Broadcast:T10
+A10	Realis E464 Actual
+T11	Justice_Sentence 913 922	sentenced
+E866	Justice_Sentence:T11
+A11	Realis E866 Other
+T12	Life_Die 1115 1119	died
+E168	Life_Die:T12
+A12	Realis E168 Actual
+T13	Personnel_Elect 1221 1228	elected
+E626	Personnel_Elect:T13
+A13	Realis E626 Actual
+T14	Personnel_Elect 2460 2468	election
+E982	Personnel_Elect:T14
+A14	Realis E982 Actual
+T15	Movement_Transport-Person 1597 1601	sent
+E233	Movement_Transport-Person:T15
+A15	Realis E233 Actual
+T16	Contact_Meet 1806 1819	sat down with
+E538	Contact_Meet:T16
+A16	Realis E538 Actual
+T17	Contact_Contact 1938 1942	said
+E264	Contact_Contact:T17
+A17	Realis E264 Actual
+T18	Movement_Transport-Person 2350 2358	visiting
+E381	Movement_Transport-Person:T18
+A18	Realis E381 Generic
+T19	Justice_Arrest-Jail 2613 2622	prisoners
+E88	Justice_Arrest-Jail:T19
+A19	Realis E88 Generic
+T20	Contact_Contact 2667 2676	confirmed
+E128	Contact_Contact:T20
+A20	Realis E128 Actual
+T21	Conflict_Attack 2708 2713	raped
+E992	Conflict_Attack:T21
+A21	Realis E992 Actual
+T22	Movement_Transport-Person 2812 2817	moved
+E31	Movement_Transport-Person:T22
+A22	Realis E31 Actual
+T23	Justice_Trial-Hearing 2863 2868	trial
+E896	Justice_Trial-Hearing:T23
+A23	Realis E896 Actual
+T24	Justice_Arrest-Jail 938 944	prison
+E163	Justice_Arrest-Jail:T24
+A24	Realis E163 Generic
+T25	Contact_Meet 1626 1637	shake hands
+E44	Contact_Meet:T25
+A25	Realis E44 Other
+T26	Life_Injure 2708 2713	raped
+E137	Life_Injure:T26
+A26	Realis E137 Actual
+R1	Coreference Arg1:E139 Arg2:E150
+R2	Coreference Arg1:E150 Arg2:E5
+R3	Coreference Arg1:E5 Arg2:E346
+R4	Coreference Arg1:E651 Arg2:E229
+R5	Coreference Arg1:E229 Arg2:E874
+R6	Coreference Arg1:E696 Arg2:E239
+R7	Coreference Arg1:E626 Arg2:E982

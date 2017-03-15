@@ -1,0 +1,48 @@
+T1	Life_Marry 448 458	remarriage
+E16	Life_Marry:T1
+A1	Realis E16 Actual
+T2	Life_Marry 1451 1460	remarried
+E31	Life_Marry:T2
+A2	Realis E31 Generic
+T3	Contact_Correspondence 1844 1849	share
+E60	Contact_Correspondence:T3
+A3	Realis E60 Other
+T4	Contact_Correspondence 220 230	discussion
+E158	Contact_Correspondence:T4
+A4	Realis E158 Generic
+T5	Life_Marry 1810 1819	remarried
+E189	Life_Marry:T5
+A5	Realis E189 Generic
+T6	Life_Divorce 499 507	divorced
+E259	Life_Divorce:T6
+A6	Realis E259 Actual
+T7	Life_Marry 1084 1092	marriage
+E346	Life_Marry:T7
+A7	Realis E346 Generic
+T8	Life_Divorce 630 638	divorced
+E450	Life_Divorce:T8
+A8	Realis E450 Actual
+T9	Life_Marry 828 836	marriage
+E461	Life_Marry:T9
+A9	Realis E461 Actual
+T10	Life_Divorce 402 410	divorced
+E699	Life_Divorce:T10
+A10	Realis E699 Generic
+T11	Life_Die 581 585	kill
+E752	Life_Die:T11
+A11	Realis E752 Other
+T12	Conflict_Attack 581 585	kill
+E772	Conflict_Attack:T12
+A12	Realis E772 Other
+T13	Life_Marry 245 255	remarriage
+E800	Life_Marry:T13
+A13	Realis E800 Generic
+T14	Life_Marry 512 521	remarried
+E850	Life_Marry:T14
+A14	Realis E850 Actual
+T15	Life_Marry 687 696	remarried
+E853	Life_Marry:T15
+A15	Realis E853 Actual
+T16	Life_Marry 415 424	remarried
+E856	Life_Marry:T16
+A16	Realis E856 Generic

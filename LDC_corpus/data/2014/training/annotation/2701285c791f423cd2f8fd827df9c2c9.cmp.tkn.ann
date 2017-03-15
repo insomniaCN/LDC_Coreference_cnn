@@ -1,0 +1,36 @@
+T1	Life_Die 242 255	assassination
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 653 657	kill
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Sue 605 612	lawsuit
+E3	Justice_Sue:T3 
+A3	Realis E3 Actual
+T4	Life_Die 979 992	assassination
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Justice_Sue 1053 1057	suit
+E5	Justice_Sue:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 1094 1100	charge
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Generic
+T7	Justice_Sue 1235 1239	suit
+E7	Justice_Sue:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 6095 6100	fired
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Other
+T9	Justice_Sue 6768 6772	sued
+E9	Justice_Sue:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1438 1447	murderers
+E10	Life_Die:T10 
+A10	Realis E10 Generic
+T11	Personnel_End-Position 6473 6478	fired
+E11	Personnel_End-Position:T11 
+A11	Realis E11 Other
+T12	Personnel_End-Position 6786 6795	dismissal
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual

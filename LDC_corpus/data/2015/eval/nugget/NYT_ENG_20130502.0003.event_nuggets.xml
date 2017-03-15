@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea460000000000000006" doc_id="NYT_ENG_20130502.0003" source_type="newswire">
+  <event_mention id="em-89" type="justice" subtype="pardon" realis="other">
+    <trigger source="NYT_ENG_20130502.0003" offset="1819" length="8">clemency</trigger>
+  </event_mention>
+  <event_mention id="em-99" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1004" length="7">injured</trigger>
+  </event_mention>
+  <event_mention id="em-141" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0003" offset="751" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-159" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="562" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-171" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0003" offset="1944" length="5">wrote</trigger>
+  </event_mention>
+  <event_mention id="em-178" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1623" length="6">blasts</trigger>
+  </event_mention>
+  <event_mention id="em-195" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="318" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-239" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="211" length="7">BEATING</trigger>
+  </event_mention>
+  <event_mention id="em-319" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1118" length="9">assaulted</trigger>
+  </event_mention>
+  <event_mention id="em-339" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0003" offset="1367" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-348" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="855" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-364" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0003" offset="391" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-366" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="600" length="8">bombings</trigger>
+  </event_mention>
+  <event_mention id="em-451" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1741" length="8">appealed</trigger>
+  </event_mention>
+  <event_mention id="em-503" type="justice" subtype="pardon" realis="other">
+    <trigger source="NYT_ENG_20130502.0003" offset="2007" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-559" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="335" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-571" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1251" length="8">injuries</trigger>
+  </event_mention>
+  <event_mention id="em-582" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="729" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-594" type="justice" subtype="execute" realis="generic">
+    <trigger source="NYT_ENG_20130502.0003" offset="278" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-598" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0003" offset="1403" length="6">spoken</trigger>
+  </event_mention>
+  <event_mention id="em-627" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1559" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-651" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1274" length="5">taken</trigger>
+  </event_mention>
+  <event_mention id="em-729" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="441" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-739" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0003" offset="1413" length="7">threats</trigger>
+  </event_mention>
+  <event_mention id="em-742" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1151" length="4">left</trigger>
+  </event_mention>
+  <event_mention id="em-826" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130502.0003" offset="1832" length="10">repatriate</trigger>
+  </event_mention>
+  <event_mention id="em-856" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="200" length="4">DIES</trigger>
+  </event_mention>
+  <event_mention id="em-869" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130502.0003" offset="989" length="10">repatriate</trigger>
+  </event_mention>
+  <event_mention id="em-918" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1635" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-947" type="justice" subtype="execute" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="1448" length="7">hanging</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130502.0003" offset="179" length="8">PRISONER</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

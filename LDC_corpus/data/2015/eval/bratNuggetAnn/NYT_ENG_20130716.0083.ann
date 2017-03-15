@@ -1,0 +1,141 @@
+T1	Contact_Contact 2574 2578	said
+E59	Contact_Contact:T1
+A1	Realis E59 Actual
+T2	Transaction_Transfer-Money 763 767	paid
+E65	Transaction_Transfer-Money:T2
+A2	Realis E65 Actual
+T3	Conflict_Attack 3114 3118	coup
+E66	Conflict_Attack:T3
+A3	Realis E66 Actual
+T4	Justice_Sentence 1231 1240	sentenced
+E76	Justice_Sentence:T4
+A4	Realis E76 Actual
+T5	Justice_Fine 492 497	fines
+E83	Justice_Fine:T5
+A5	Realis E83 Actual
+T6	Transaction_Transfer-Money 810 817	payment
+E85	Transaction_Transfer-Money:T6
+A6	Realis E85 Actual
+T7	Transaction_Transfer-Money 2172 2181	auctioned
+E98	Transaction_Transfer-Money:T7
+A7	Realis E98 Actual
+T8	Transaction_Transfer-Ownership 2172 2181	auctioned
+E110	Transaction_Transfer-Ownership:T8
+A8	Realis E110 Actual
+T9	Personnel_End-Position 3555 3563	replaced
+E138	Personnel_End-Position:T9
+A9	Realis E138 Actual
+T10	Personnel_Start-Position 3555 3563	replaced
+E161	Personnel_Start-Position:T10
+A10	Realis E161 Actual
+T11	Transaction_Transfer-Money 857 866	collected
+E187	Transaction_Transfer-Money:T11
+A11	Realis E187 Other
+T12	Justice_Fine 2793 2798	fines
+E190	Justice_Fine:T12
+A12	Realis E190 Generic
+T13	Personnel_End-Position 938 950	stepped down
+E209	Personnel_End-Position:T13
+A13	Realis E209 Actual
+T14	Justice_Sentence 1253 1260	penalty
+E257	Justice_Sentence:T14
+A14	Realis E257 Actual
+T15	Contact_Broadcast 2466 2474	reported
+E277	Contact_Broadcast:T15
+A15	Realis E277 Actual
+T16	Transaction_Transfer-Money 3602 3605	pay
+E344	Transaction_Transfer-Money:T16
+A16	Realis E344 Other
+T17	Justice_Execute 1244 1249	death
+E350	Justice_Execute:T17
+A17	Realis E350 Other
+T18	Personnel_End-Position 346 352	former
+E373	Personnel_End-Position:T18
+A18	Realis E373 Actual
+T19	Transaction_Transfer-Ownership 2057 2063	seized
+E392	Transaction_Transfer-Ownership:T19
+A19	Realis E392 Actual
+T20	Justice_Pardon 1315 1323	pardoned
+E434	Justice_Pardon:T20
+A20	Realis E434 Actual
+T21	Transaction_Transfer-Ownership 2110 2121	confiscated
+E468	Transaction_Transfer-Ownership:T21
+A21	Realis E468 Actual
+T22	Justice_Release-Parole 1328 1333	freed
+E511	Justice_Release-Parole:T22
+A22	Realis E511 Actual
+T23	Life_Die 1244 1249	death
+E533	Life_Die:T23
+A23	Realis E533 Generic
+T24	Conflict_Attack 1082 1086	coup
+E534	Conflict_Attack:T24
+A24	Realis E534 Actual
+T25	Transaction_Transfer-Money 2965 2972	collect
+E545	Transaction_Transfer-Money:T25
+A25	Realis E545 Other
+T26	Personnel_End-Position 414 416	ex
+E546	Personnel_End-Position:T26
+A26	Realis E546 Actual
+T27	Conflict_Attack 3215 3228	assassination
+E547	Conflict_Attack:T27
+A27	Realis E547 Actual
+T28	Transaction_Transfer-Money 644 655	accumulated
+E568	Transaction_Transfer-Money:T28
+A28	Realis E568 Actual
+T29	Transaction_Transfer-Money 2789 2792	pay
+E687	Transaction_Transfer-Money:T29
+A29	Realis E687 Generic
+T30	Contact_Contact 3349 3357	admitted
+E692	Contact_Contact:T30
+A30	Realis E692 Actual
+T31	Life_Die 3215 3228	assassination
+E710	Life_Die:T31
+A31	Realis E710 Actual
+T32	Justice_Convict 1026 1035	convicted
+E725	Justice_Convict:T32
+A32	Realis E725 Actual
+T33	Transaction_Transfer-Money 3441 3446	repay
+E758	Transaction_Transfer-Money:T33
+A33	Realis E758 Other
+T34	Personnel_Start-Position 1107 1112	power
+E770	Personnel_Start-Position:T34
+A34	Realis E770 Actual
+T35	Conflict_Attack 1133 1142	crackdown
+E781	Conflict_Attack:T35
+A35	Realis E781 Actual
+T36	Life_Die 1172 1176	dead
+E806	Life_Die:T36
+A36	Realis E806 Actual
+T37	Transaction_Transfer-Money 595 601	return
+E813	Transaction_Transfer-Money:T37
+A37	Realis E813 Other
+T38	Transaction_Transfer-Money 1382 1385	tax
+E832	Transaction_Transfer-Money:T38
+A38	Realis E832 Generic
+T39	Transaction_Transfer-Money 3371 3379	received
+E874	Transaction_Transfer-Money:T39
+A39	Realis E874 Actual
+T40	Conflict_Attack 3416 3420	coup
+E886	Conflict_Attack:T40
+A40	Realis E886 Actual
+T41	Contact_Broadcast 1926 1933	comment
+E905	Contact_Broadcast:T41
+A41	Realis E905 Other
+T42	Transaction_Transfer-Ownership 2728 2740	confiscating
+E907	Transaction_Transfer-Ownership:T42
+A42	Realis E907 Generic
+T43	Movement_Transport-Artifact 1492 1499	hauling
+E912	Movement_Transport-Artifact:T43
+A43	Realis E912 Actual
+T44	Justice_Arrest-Jail 1288 1300	imprisonment
+E924	Justice_Arrest-Jail:T44
+A44	Realis E924 Generic
+T45	Personnel_End-Position 3480 3486	Former
+E934	Personnel_End-Position:T45
+A45	Realis E934 Actual
+T46	Personnel_End-Position 197 203	FORMER
+E958	Personnel_End-Position:T46
+A46	Realis E958 Actual
+T47	Business_Start-Org 2494 2500	set up
+E979	Business_Start-Org:T47
+A47	Realis E979 Actual

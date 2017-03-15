@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000572" doc_id="bolt-eng-DF-170-181109-60453" source_type="multi_post">
+<event_mention id="em-23" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181109-60453" offset="3944" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-36" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-60453" offset="2396" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-51" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-170-181109-60453" offset="2742" length="7">elected</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

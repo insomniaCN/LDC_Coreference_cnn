@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea6f0000000000000064" doc_id="NYT_ENG_20130725.0244" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-546" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="186" length="6">losing</trigger>
+      </event_mention>
+      <event_mention id="em-529" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="324" length="10">laying off</trigger>
+      </event_mention>
+      <event_mention id="em-439" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="1294" length="6">layoff</trigger>
+      </event_mention>
+      <event_mention id="em-774" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="1434" length="4">lose</trigger>
+      </event_mention>
+      <event_mention id="em-201" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="1515" length="6">layoff</trigger>
+      </event_mention>
+      <event_mention id="em-271" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="1628" length="6">worked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-140" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="179" length="6">lender</trigger>
+      </event_mention>
+      <event_mention id="em-677" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="268" length="6">lender</trigger>
+      </event_mention>
+      <event_mention id="em-88" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1660" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-326" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1870" length="6">lender</trigger>
+      </event_mention>
+      <event_mention id="em-521" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2390" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-275" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="3158" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-755" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="3893" length="4">loan</trigger>
+      </event_mention>
+      <event_mention id="em-248" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4278" length="5">loans</trigger>
+      </event_mention>
+      <event_mention id="em-645" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2063" length="4">loan</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-665" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="526" length="9">interview</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-772" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="631" length="7">calling</trigger>
+      </event_mention>
+      <event_mention id="em-799" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="1969" length="6">called</trigger>
+      </event_mention>
+      <event_mention id="em-808" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="2206" length="13">telemarketers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-379" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="680" length="4">Call</trigger>
+      </event_mention>
+      <event_mention id="em-859" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="1930" length="4">Call</trigger>
+      </event_mention>
+      <event_mention id="em-176" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="2035" length="4">Call</trigger>
+      </event_mention>
+      <event_mention id="em-487" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="2816" length="4">Call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-883" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="NYT_ENG_20130725.0244" offset="922" length="7">layoffs</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-91" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="938" length="7">lenders</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-580" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1227" length="7">sellers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-885" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1227" length="7">sellers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-929" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1242" length="6">buyers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-573" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1242" length="6">buyers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-264">
+      <event_mention id="em-64" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1712" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-279">
+      <event_mention id="em-751" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1720" length="8">benefits</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-307">
+      <event_mention id="em-227" type="justice" subtype="fine" realis="actual">
+        <trigger source="NYT_ENG_20130725.0244" offset="1890" length="4">fine</trigger>
+      </event_mention>
+      <event_mention id="em-947" type="justice" subtype="fine" realis="actual">
+        <trigger source="NYT_ENG_20130725.0244" offset="1834" length="7">penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-374">
+      <event_mention id="em-982" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130725.0244" offset="2104" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-415">
+      <event_mention id="em-856" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2516" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-430">
+      <event_mention id="em-610" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2583" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-445">
+      <event_mention id="em-506" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130725.0244" offset="2693" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-473">
+      <event_mention id="em-592" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="2998" length="10">complaints</trigger>
+      </event_mention>
+      <event_mention id="em-876" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="3103" length="8">postings</trigger>
+      </event_mention>
+      <event_mention id="em-855" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="591" length="10">complaints</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-527">
+      <event_mention id="em-967" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="3306" length="6">talked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-542">
+      <event_mention id="em-585" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="3634" length="8">payments</trigger>
+      </event_mention>
+      <event_mention id="em-691" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="3691" length="7">payment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-583">
+      <event_mention id="em-468" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="4068" length="5">heard</trigger>
+      </event_mention>
+      <event_mention id="em-579" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="4141" length="4">chat</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-624">
+      <event_mention id="em-225" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4414" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-639">
+      <event_mention id="em-778" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4414" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-654">
+      <event_mention id="em-612" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130725.0244" offset="4580" length="6">retire</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-669">
+      <event_mention id="em-997" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4602" length="4">sale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-684">
+      <event_mention id="em-110" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4602" length="4">sale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-729">
+      <event_mention id="em-766" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="832" length="12">refinancings</trigger>
+      </event_mention>
+      <event_mention id="em-942" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2068" length="11">refinancing</trigger>
+      </event_mention>
+      <event_mention id="em-207" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4248" length="11">refinancers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-744">
+      <event_mention id="em-619" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="823" length="8">mortgage</trigger>
+      </event_mention>
+      <event_mention id="em-8" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1095" length="9">mortgages</trigger>
+      </event_mention>
+      <event_mention id="em-675" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="1141" length="8">mortgage</trigger>
+      </event_mention>
+      <event_mention id="em-814" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2295" length="9">mortgages</trigger>
+      </event_mention>
+      <event_mention id="em-398" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2468" length="9">mortgages</trigger>
+      </event_mention>
+      <event_mention id="em-640" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="2934" length="8">mortgage</trigger>
+      </event_mention>
+      <event_mention id="em-899" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4304" length="8">mortgage</trigger>
+      </event_mention>
+      <event_mention id="em-358" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="4614" length="8">mortgage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-798">
+      <event_mention id="em-250" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="1642" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-865">
+      <event_mention id="em-71" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="2201" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-932">
+      <event_mention id="em-406" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130725.0244" offset="3183" length="9">complaint</trigger>
+      </event_mention>
+      <event_mention id="em-46" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130725.0244" offset="3229" length="10">complaints</trigger>
+      </event_mention>
+      <event_mention id="em-3" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130725.0244" offset="3779" length="10">complaints</trigger>
+      </event_mention>
+      <event_mention id="em-226" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130725.0244" offset="3853" length="10">complaints</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-960">
+      <event_mention id="em-907" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="3339" length="10">complained</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-975">
+      <event_mention id="em-910" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="3463" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-990">
+      <event_mention id="em-86" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130725.0244" offset="3481" length="9">refinance</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1031">
+      <event_mention id="em-564" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130725.0244" offset="4168" length="7">Founded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1072">
+      <event_mention id="em-464" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130725.0244" offset="4561" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

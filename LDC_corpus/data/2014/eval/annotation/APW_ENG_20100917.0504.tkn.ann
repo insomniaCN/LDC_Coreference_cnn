@@ -1,0 +1,53 @@
+T1	Life_Divorce 108 115	divorce
+E1	Life_Divorce:T1 
+A1	Realis E1 Actual
+T2	Life_Divorce 274 281	divorce
+E2	Life_Divorce:T2 
+A2	Realis E2 Actual
+T3	Life_Divorce 352 359	divorce
+E3	Life_Divorce:T3 
+A3	Questionable E3 Realis
+A4	Realis E3 Actual
+T4	Life_Divorce 483 490	divorce
+E4	Life_Divorce:T4 
+A5	Realis E4 Actual
+T5	Justice_Trial-Hearing 555 560	trial
+E5	Justice_Trial-Hearing:T5 
+A6	Realis E5 Other
+T6	Life_Marry 735 743	marriage
+E6	Life_Marry:T6 
+A7	Realis E6 Actual
+T7	Life_Divorce 750 757;762 767	divorce filed
+E7	Life_Divorce:T7 
+A8	Realis E7 Actual
+T8	Life_Marry 1154 1161	married
+E8	Life_Marry:T8 
+A9	Realis E8 Actual
+T9	Justice_Sue 1232 1239	lawsuit
+E9	Justice_Sue:T9 
+A10	Realis E9 Actual
+T10	Life_Injure 1286 1293	injured
+E10	Life_Injure:T10 
+A11	Realis E10 Actual
+T11	Transaction_Transfer-Money 1222 1229	settled
+E11	Transaction_Transfer-Money:T11 
+A12	Questionable E11 Mention
+A13	Realis E11 Actual
+T12	Justice_Sue 1330 1335;1340 1347	filed lawsuit
+E12	Justice_Sue:T12 
+A14	Realis E12 Actual
+T13	Justice_Charge-Indict 1539 1546;1552 1557	charges filed
+E13	Justice_Charge-Indict:T13 
+A15	Realis E13 Other
+T14	Life_Divorce 1739 1746	divorce
+E14	Life_Divorce:T14 
+A16	Realis E14 Actual
+T15	Life_Divorce 655 662	ex-wife
+E15	Life_Divorce:T15 
+A17	Realis E15 Actual
+T16	Life_Marry 1915 1923	marriage
+E16	Life_Marry:T16 
+A18	Realis E16 Actual
+T17	Life_Divorce 1889 1896	breakup
+E17	Life_Divorce:T17 
+A19	Realis E17 Actual

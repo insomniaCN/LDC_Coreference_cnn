@@ -1,0 +1,51 @@
+T1	Transaction_Transfer-Money 2402 2406	bill
+E9	Transaction_Transfer-Money:T1
+A1	Realis E9 Generic
+T2	Business_Merge-Org 1739 1745	merger
+E44	Business_Merge-Org:T2
+A2	Realis E44 Actual
+T3	Transaction_Transfer-Money 1871 1875	loss
+E45	Transaction_Transfer-Money:T3
+A3	Realis E45 Actual
+T4	Transaction_Transfer-Money 1566 1570	sell
+E84	Transaction_Transfer-Money:T4
+A4	Realis E84 Generic
+T5	Contact_Broadcast 184 191	REPORTS
+E100	Contact_Broadcast:T5
+A5	Realis E100 Actual
+T6	Contact_Correspondence 2688 2696	messages
+E141	Contact_Correspondence:T6
+A6	Realis E141 Generic
+T7	Transaction_Transfer-Money 2073 2079	income
+E177	Transaction_Transfer-Money:T7
+A7	Realis E177 Actual
+T8	Contact_Broadcast 1305 1312	release
+E205	Contact_Broadcast:T8
+A8	Realis E205 Actual
+T9	Transaction_Transfer-Ownership 2309 2312	buy
+E214	Transaction_Transfer-Ownership:T9
+A9	Realis E214 Generic
+T10	Contact_Broadcast 2858 2862	said
+E331	Contact_Broadcast:T10
+A10	Realis E331 Actual
+T11	Transaction_Transfer-Money 1643 1653	lower-cost
+E365	Transaction_Transfer-Money:T11
+A11	Realis E365 Generic
+T12	Transaction_Transfer-Ownership 1566 1570	sell
+E376	Transaction_Transfer-Ownership:T12
+A12	Realis E376 Generic
+T13	Transaction_Transfer-Money 1998 2005	revenue
+E403	Transaction_Transfer-Money:T13
+A13	Realis E403 Actual
+T14	Transaction_Transfer-Money 2309 2312	buy
+E489	Transaction_Transfer-Money:T14
+A14	Realis E489 Generic
+T15	Transaction_Transfer-Money 1924 1930	profit
+E665	Transaction_Transfer-Money:T15
+A15	Realis E665 Actual
+T16	Transaction_Transfer-Money 2150 2157	revenue
+E913	Transaction_Transfer-Money:T16
+A16	Realis E913 Other
+T17	Transaction_Transfer-Money 1832 1839	costing
+E928	Transaction_Transfer-Money:T17
+A17	Realis E928 Actual

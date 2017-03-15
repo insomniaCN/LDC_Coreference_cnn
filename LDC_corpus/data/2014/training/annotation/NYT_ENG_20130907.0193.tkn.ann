@@ -1,0 +1,54 @@
+T1	Movement_Transport-Person 809 815	return
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Personnel_Start-Position 1445 1451	landed
+E2	Personnel_Start-Position:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 2018 2024;2027 2030	landed job
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T4	Personnel_Start-Position 2153 2156;2165 2168	got job
+E4	Personnel_Start-Position:T4 
+A4	Realis E4 Actual
+T5	Personnel_Start-Position 2208 2212;2223 2228	join staff
+E5	Personnel_Start-Position:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 2287 2293	coming
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 2358 2362	came
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 3028 3034	former
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Personnel_Start-Position 3352 3355;3364 3367	got job
+E9	Personnel_Start-Position:T9 
+A9	Realis E9 Actual
+T10	Life_Injure 1338 1343;1348 1358	broke collarbone
+E10	Life_Injure:T10 
+A10	Realis E10 Actual
+T11	Personnel_Start-Position 1496 1502	future
+E11	Personnel_Start-Position:T11 
+A11	Realis E11 Other
+T12	Transaction_Transfer-Money 1554 1560;1563 1574	earned scholarship
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 2248 2254	salary
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 3414 3421	came in
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Actual
+T15	Contact_Meet 3426 3437	interviewed
+E15	Contact_Meet:T15 
+A15	Realis E15 Actual
+T16	Personnel_Start-Position 3771 3773;3783 3788	be coach
+E16	Personnel_Start-Position:T16 
+A16	Realis E16 Other
+T17	Personnel_End-Position 3857 3860;3876 3881	was coach
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T18	Personnel_Start-Position 4818 4824;4832 4837	became coach
+E18	Personnel_Start-Position:T18 
+A18	Realis E18 Actual

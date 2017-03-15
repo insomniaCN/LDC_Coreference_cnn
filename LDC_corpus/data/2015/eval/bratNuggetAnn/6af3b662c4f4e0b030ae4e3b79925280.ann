@@ -1,0 +1,90 @@
+T1	Life_Die 193 199	hanged
+E6	Life_Die:T1
+A1	Realis E6 Actual
+T2	Conflict_Attack 227 235	stabbing
+E29	Conflict_Attack:T2
+A2	Realis E29 Actual
+T3	Life_Die 554 564	executions
+E91	Life_Die:T3
+A3	Realis E91 Generic
+T4	Justice_Execute 391 399	executed
+E112	Justice_Execute:T4
+A4	Realis E112 Actual
+T5	Movement_Transport-Person 2538 2546	cast out
+E240	Movement_Transport-Person:T5
+A5	Realis E240 Generic
+T6	Conflict_Attack 2115 2121	murder
+E275	Conflict_Attack:T6
+A6	Realis E275 Generic
+T7	Contact_Meet 785 790	spoke
+E280	Contact_Meet:T7
+A7	Realis E280 Actual
+T8	Justice_Execute 193 199	hanged
+E284	Justice_Execute:T8
+A8	Realis E284 Actual
+T9	Manufacture_Artifact 698 705	erected
+E287	Manufacture_Artifact:T9
+A9	Realis E287 Actual
+T10	Life_Die 2115 2121	murder
+E288	Life_Die:T10
+A10	Realis E288 Generic
+T11	Movement_Transport-Person 2591 2595	move
+E315	Movement_Transport-Person:T11
+A11	Realis E315 Generic
+T12	Life_Die 845 851	hanged
+E327	Life_Die:T12
+A12	Realis E327 Actual
+T13	Conflict_Attack 1971 1980	murderers
+E342	Conflict_Attack:T13
+A13	Realis E342 Generic
+T14	Life_Die 391 399	executed
+E389	Life_Die:T14
+A14	Realis E389 Actual
+T15	Justice_Convict 1961 1970	convicted
+E398	Justice_Convict:T15
+A15	Realis E398 Generic
+T16	Justice_Execute 920 932	executioners
+E432	Justice_Execute:T16
+A16	Realis E432 Generic
+T17	Movement_Transport-Person 2819 2827	cast out
+E437	Movement_Transport-Person:T17
+A17	Realis E437 Generic
+T18	Justice_Convict 214 223	convicted
+E454	Justice_Convict:T18
+A18	Realis E454 Actual
+T19	Contact_Contact 863 867	said
+E496	Contact_Contact:T19
+A19	Realis E496 Actual
+T20	Life_Die 1971 1980	murderers
+E515	Life_Die:T20
+A20	Realis E515 Generic
+T21	Justice_Execute 554 564	executions
+E546	Justice_Execute:T21
+A21	Realis E546 Generic
+T22	Contact_Broadcast 282 290	protests
+E556	Contact_Broadcast:T22
+A22	Realis E556 Actual
+T23	Contact_Broadcast 807 814	uttered
+E585	Contact_Broadcast:T23
+A23	Realis E585 Actual
+T24	Life_Beborn 3551 3555	born
+E657	Life_Beborn:T24
+A24	Realis E657 Generic
+T25	Movement_Transport-Person 667 675	escorted
+E676	Movement_Transport-Person:T25
+A25	Realis E676 Actual
+T26	Life_Die 239 244	death
+E696	Life_Die:T26
+A26	Realis E696 Actual
+T27	Justice_Execute 139 151	executioners
+E697	Justice_Execute:T27
+A27	Realis E697 Generic
+T28	Life_Beborn 4452 4456	born
+E741	Life_Beborn:T28
+A28	Realis E741 Generic
+T29	Justice_Execute 582 591	execution
+E887	Justice_Execute:T29
+A29	Realis E887 Actual
+T30	Life_Die 1669 1674	death
+E957	Life_Die:T30
+A30	Realis E957 Generic

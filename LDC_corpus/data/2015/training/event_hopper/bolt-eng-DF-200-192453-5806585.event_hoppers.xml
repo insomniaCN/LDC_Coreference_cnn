@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000613" doc_id="bolt-eng-DF-200-192453-5806585" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="1177" length="5">riots</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="1642" length="5">riots</trigger>
+      </event_mention>
+      <event_mention id="em-120" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="4349" length="5">riots</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="life" subtype="beborn" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="2746" length="4">born</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="life" subtype="beborn" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="3960" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="transaction" subtype="transaction" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="3045" length="7">looting</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="transaction" subtype="transaction" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="4259" length="7">looting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="3054" length="7">rioting</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-5806585" offset="4268" length="7">rioting</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,75 @@
+T1	Transaction_Transfer-Money 482 487	bribe
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T2	Life_Die 696 704	murdered
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 940 944	fire
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Other
+T4	Justice_Charge-Indict 1258 1265	CHARGED
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Other
+T5	Justice_Charge-Indict 1376 1383	CHARGED
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Other
+T7	Life_Die 1435 1441	murder
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Justice_Charge-Indict 1613 1620	charged
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Other
+T10	Transaction_Transfer-Money 2213 2220	robbery
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Other
+T11	Transaction_Transfer-Money 2164 2171	revenue
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Other
+T12	Justice_Sentence 2284 2293	sentences
+E12	Justice_Sentence:T12 
+A12	Realis E12 Generic
+T13	Transaction_Transfer-Money 2367 2376	donations
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Generic
+T14	Justice_Fine 2502 2506	fine
+E14	Justice_Fine:T14 
+A14	Realis E14 Other
+T15	Justice_Fine 2521 2526	fined
+E15	Justice_Fine:T15 
+A15	Realis E15 Actual
+T16	Justice_Fine 2539 2547;2567 2570	assessed fee
+E16	Justice_Fine:T16 
+A16	Realis E16 Other
+T17	Justice_Fine 2592 2595	fee
+E17	Justice_Fine:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Money 2644 2651	robbery
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Other
+T19	Justice_Charge-Indict 536 547	prosecution
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Other
+T20	Justice_Charge-Indict 837 847	prosecuted
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Other
+T21	Contact_Communicate 871 881	threatened
+E21	Contact_Communicate:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Money 964 968;973 980	lost pension
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Other
+T6	Justice_Fine 2099 2103	fine
+E6	Justice_Fine:T6 
+A6	Realis E6 Generic
+T9	Contact_Communicate 2447 2454	talking
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T23	Transaction_Transfer-Money 3427 3430	tax
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Generic
+T24	Transaction_Transfer-Money 3891 3897	income
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Transaction_Transfer-Money 4481 4484	tax
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Generic

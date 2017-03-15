@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea930000000000000121" doc_id="25b7359c0a0e8b7bd1cdb891c09265d1" source_type="multi_post">
+  <event_mention id="em-11" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="1563" length="4">pass</trigger>
+  </event_mention>
+  <event_mention id="em-42" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="839" length="7">Phoning</trigger>
+  </event_mention>
+  <event_mention id="em-66" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="622" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-273" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="489" length="8">received</trigger>
+  </event_mention>
+  <event_mention id="em-329" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="531" length="7">pension</trigger>
+  </event_mention>
+  <event_mention id="em-411" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="668" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-546" type="life" subtype="die" realis="actual">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="162" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-629" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="965" length="5">phone</trigger>
+  </event_mention>
+  <event_mention id="em-702" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="713" length="5">taken</trigger>
+  </event_mention>
+  <event_mention id="em-737" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="1167" length="6">giving</trigger>
+  </event_mention>
+  <event_mention id="em-818" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="584" length="7">pension</trigger>
+  </event_mention>
+  <event_mention id="em-840" type="movement" subtype="transportperson" realis="other">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="1136" length="5">going</trigger>
+  </event_mention>
+  <event_mention id="em-949" type="life" subtype="die" realis="actual">
+    <trigger source="25b7359c0a0e8b7bd1cdb891c09265d1" offset="1528" length="4">died</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

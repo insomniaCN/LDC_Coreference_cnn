@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000595" doc_id="bolt-eng-DF-199-192783-6861664" source_type="multi_post">
+<event_mention id="em-10" type="personnel" subtype="elect" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="955" length="9">incumbent</trigger>
+      </event_mention>
+<event_mention id="em-23" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1198" length="4">dead</trigger>
+      </event_mention>
+<event_mention id="em-38" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="557" length="3">win</trigger>
+      </event_mention>
+<event_mention id="em-53" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1072" length="4">that</trigger>
+      </event_mention>
+<event_mention id="em-66" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1438" length="4">that</trigger>
+      </event_mention>
+<event_mention id="em-79" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1582" length="4">says</trigger>
+      </event_mention>
+<event_mention id="em-94" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="923" length="4">race</trigger>
+      </event_mention>
+<event_mention id="em-109" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1647" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-124" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1733" length="8">spending</trigger>
+      </event_mention>
+<event_mention id="em-139" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1611" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-154" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="1802" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-167" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2117" length="8">elective</trigger>
+      </event_mention>
+<event_mention id="em-182" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2263" length="3">win</trigger>
+      </event_mention>
+<event_mention id="em-197" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2298" length="8">invasion</trigger>
+      </event_mention>
+<event_mention id="em-210" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2373" length="8">elective</trigger>
+      </event_mention>
+<event_mention id="em-223" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2661" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-238" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2730" length="11">Threatening</trigger>
+      </event_mention>
+<event_mention id="em-266" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="2994" length="3">win</trigger>
+      </event_mention>
+<event_mention id="em-279" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="3011" length="6">battle</trigger>
+      </event_mention>
+<event_mention id="em-294" type="life" subtype="injure" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="3037" length="6">damage</trigger>
+      </event_mention>
+<event_mention id="em-309" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="3108" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-322" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-199-192783-6861664" offset="3222" length="5">votes</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

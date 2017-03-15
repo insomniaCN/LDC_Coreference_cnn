@@ -1,0 +1,251 @@
+T1	Personnel_End-Position 186 192	losing
+E546	Personnel_End-Position:T1
+A1	Realis E546 Other
+T2	Personnel_End-Position 324 334	laying off
+E529	Personnel_End-Position:T2
+A2	Realis E529 Other
+T3	Personnel_End-Position 1294 1300	layoff
+E439	Personnel_End-Position:T3
+A3	Realis E439 Other
+T4	Personnel_End-Position 1434 1438	lose
+E774	Personnel_End-Position:T4
+A4	Realis E774 Other
+T5	Personnel_End-Position 1515 1521	layoff
+E201	Personnel_End-Position:T5
+A5	Realis E201 Other
+T6	Personnel_End-Position 1628 1634	worked
+E271	Personnel_End-Position:T6
+A6	Realis E271 Other
+T7	Transaction_Transfer-Money 179 185	lender
+E140	Transaction_Transfer-Money:T7
+A7	Realis E140 Generic
+T8	Transaction_Transfer-Money 268 274	lender
+E677	Transaction_Transfer-Money:T8
+A8	Realis E677 Generic
+T9	Transaction_Transfer-Money 1660 1664	loan
+E88	Transaction_Transfer-Money:T9
+A9	Realis E88 Generic
+T10	Transaction_Transfer-Money 1870 1876	lender
+E326	Transaction_Transfer-Money:T10
+A10	Realis E326 Generic
+T11	Transaction_Transfer-Money 2390 2394	loan
+E521	Transaction_Transfer-Money:T11
+A11	Realis E521 Generic
+T12	Transaction_Transfer-Money 3158 3162	loan
+E275	Transaction_Transfer-Money:T12
+A12	Realis E275 Generic
+T13	Transaction_Transfer-Money 3893 3897	loan
+E755	Transaction_Transfer-Money:T13
+A13	Realis E755 Generic
+T14	Transaction_Transfer-Money 4278 4283	loans
+E248	Transaction_Transfer-Money:T14
+A14	Realis E248 Generic
+T15	Transaction_Transfer-Money 2063 2067	loan
+E645	Transaction_Transfer-Money:T15
+A15	Realis E645 Generic
+T16	Contact_Contact 526 535	interview
+E665	Contact_Contact:T16
+A16	Realis E665 Actual
+T17	Contact_Correspondence 631 638	calling
+E772	Contact_Correspondence:T17
+A17	Realis E772 Actual
+T18	Contact_Correspondence 1969 1975	called
+E799	Contact_Correspondence:T18
+A18	Realis E799 Actual
+T19	Contact_Correspondence 2206 2219	telemarketers
+E808	Contact_Correspondence:T19
+A19	Realis E808 Actual
+T20	Contact_Correspondence 680 684	Call
+E379	Contact_Correspondence:T20
+A20	Realis E379 Generic
+T21	Contact_Correspondence 1930 1934	Call
+E859	Contact_Correspondence:T21
+A21	Realis E859 Generic
+T22	Contact_Correspondence 2035 2039	Call
+E176	Contact_Correspondence:T22
+A22	Realis E176 Generic
+T23	Contact_Correspondence 2816 2820	Call
+E487	Contact_Correspondence:T23
+A23	Realis E487 Generic
+T24	Personnel_End-Position 922 929	layoffs
+E883	Personnel_End-Position:T24
+A24	Realis E883 Generic
+T25	Transaction_Transfer-Money 938 945	lenders
+E91	Transaction_Transfer-Money:T25
+A25	Realis E91 Generic
+T26	Transaction_Transfer-Money 1227 1234	sellers
+E580	Transaction_Transfer-Money:T26
+A26	Realis E580 Generic
+T27	Transaction_Transfer-Ownership 1227 1234	sellers
+E885	Transaction_Transfer-Ownership:T27
+A27	Realis E885 Generic
+T28	Transaction_Transfer-Money 1242 1248	buyers
+E929	Transaction_Transfer-Money:T28
+A28	Realis E929 Generic
+T29	Transaction_Transfer-Ownership 1242 1248	buyers
+E573	Transaction_Transfer-Ownership:T29
+A29	Realis E573 Generic
+T30	Transaction_Transfer-Money 1712 1715	pay
+E64	Transaction_Transfer-Money:T30
+A30	Realis E64 Generic
+T31	Transaction_Transaction 1720 1728	benefits
+E751	Transaction_Transaction:T31
+A31	Realis E751 Generic
+T32	Justice_Fine 1890 1894	fine
+E227	Justice_Fine:T32
+A32	Realis E227 Actual
+T33	Justice_Fine 1834 1841	penalty
+E947	Justice_Fine:T33
+A33	Realis E947 Actual
+T34	Personnel_End-Position 2104 2110	former
+E982	Personnel_End-Position:T34
+A34	Realis E982 Actual
+T35	Transaction_Transfer-Money 2516 2524	payments
+E856	Transaction_Transfer-Money:T35
+A35	Realis E856 Generic
+T36	Transaction_Transfer-Money 2583 2586	pay
+E610	Transaction_Transfer-Money:T36
+A36	Realis E610 Generic
+T37	Justice_Charge-Indict 2693 2700	charges
+E506	Justice_Charge-Indict:T37
+A37	Realis E506 Actual
+T38	Contact_Contact 2998 3008	complaints
+E592	Contact_Contact:T38
+A38	Realis E592 Actual
+T39	Contact_Contact 3103 3111	postings
+E876	Contact_Contact:T39
+A39	Realis E876 Actual
+T40	Contact_Contact 591 601	complaints
+E855	Contact_Contact:T40
+A40	Realis E855 Actual
+T41	Contact_Contact 3306 3312	talked
+E967	Contact_Contact:T41
+A41	Realis E967 Actual
+T42	Transaction_Transfer-Money 3634 3642	payments
+E585	Transaction_Transfer-Money:T42
+A42	Realis E585 Actual
+T43	Transaction_Transfer-Money 3691 3698	payment
+E691	Transaction_Transfer-Money:T43
+A43	Realis E691 Actual
+T44	Contact_Correspondence 4068 4073	heard
+E468	Contact_Correspondence:T44
+A44	Realis E468 Other
+T45	Contact_Contact 4141 4145	chat
+E579	Contact_Contact:T45
+A45	Realis E579 Other
+T46	Transaction_Transfer-Ownership 4414 4420	bought
+E225	Transaction_Transfer-Ownership:T46
+A46	Realis E225 Actual
+T47	Transaction_Transfer-Money 4414 4420	bought
+E778	Transaction_Transfer-Money:T47
+A47	Realis E778 Actual
+T48	Personnel_End-Position 4580 4586	retire
+E612	Personnel_End-Position:T48
+A48	Realis E612 Other
+T49	Transaction_Transfer-Ownership 4602 4606	sale
+E997	Transaction_Transfer-Ownership:T49
+A49	Realis E997 Other
+T50	Transaction_Transfer-Money 4602 4606	sale
+E110	Transaction_Transfer-Money:T50
+A50	Realis E110 Other
+T51	Transaction_Transfer-Money 832 844	refinancings
+E766	Transaction_Transfer-Money:T51
+A51	Realis E766 Generic
+T52	Transaction_Transfer-Money 2068 2079	refinancing
+E942	Transaction_Transfer-Money:T52
+A52	Realis E942 Generic
+T53	Transaction_Transfer-Money 4248 4259	refinancers
+E207	Transaction_Transfer-Money:T53
+A53	Realis E207 Generic
+T54	Transaction_Transfer-Money 823 831	mortgage
+E619	Transaction_Transfer-Money:T54
+A54	Realis E619 Generic
+T55	Transaction_Transfer-Money 1095 1104	mortgages
+E8	Transaction_Transfer-Money:T55
+A55	Realis E8 Generic
+T56	Transaction_Transfer-Money 1141 1149	mortgage
+E675	Transaction_Transfer-Money:T56
+A56	Realis E675 Generic
+T57	Transaction_Transfer-Money 2295 2304	mortgages
+E814	Transaction_Transfer-Money:T57
+A57	Realis E814 Generic
+T58	Transaction_Transfer-Money 2468 2477	mortgages
+E398	Transaction_Transfer-Money:T58
+A58	Realis E398 Generic
+T59	Transaction_Transfer-Money 2934 2942	mortgage
+E640	Transaction_Transfer-Money:T59
+A59	Realis E640 Generic
+T60	Transaction_Transfer-Money 4304 4312	mortgage
+E899	Transaction_Transfer-Money:T60
+A60	Realis E899 Generic
+T61	Transaction_Transfer-Money 4614 4622	mortgage
+E358	Transaction_Transfer-Money:T61
+A61	Realis E358 Generic
+T62	Contact_Correspondence 1642 1646	call
+E250	Contact_Correspondence:T62
+A62	Realis E250 Generic
+T63	Contact_Contact 2201 2205	said
+E71	Contact_Contact:T63
+A63	Realis E71 Actual
+T64	Contact_Contact 3183 3192	complaint
+E406	Contact_Contact:T64
+A64	Realis E406 Other
+T65	Contact_Contact 3229 3239	complaints
+E46	Contact_Contact:T65
+A65	Realis E46 Other
+T66	Contact_Contact 3779 3789	complaints
+E3	Contact_Contact:T66
+A66	Realis E3 Other
+T67	Contact_Contact 3853 3863	complaints
+E226	Contact_Contact:T67
+A67	Realis E226 Other
+T68	Contact_Contact 3339 3349	complained
+E907	Contact_Contact:T68
+A68	Realis E907 Actual
+T69	Contact_Contact 3463 3467	said
+E910	Contact_Contact:T69
+A69	Realis E910 Actual
+T70	Transaction_Transfer-Money 3481 3490	refinance
+E86	Transaction_Transfer-Money:T70
+A70	Realis E86 Actual
+T71	Business_Start-Org 4168 4175	Founded
+E564	Business_Start-Org:T71
+A71	Realis E564 Actual
+T72	Contact_Contact 4561 4565	said
+E464	Contact_Contact:T72
+A72	Realis E464 Actual
+R1	Coreference Arg1:E546 Arg2:E529
+R2	Coreference Arg1:E529 Arg2:E439
+R3	Coreference Arg1:E439 Arg2:E774
+R4	Coreference Arg1:E774 Arg2:E201
+R5	Coreference Arg1:E201 Arg2:E271
+R6	Coreference Arg1:E140 Arg2:E677
+R7	Coreference Arg1:E677 Arg2:E88
+R8	Coreference Arg1:E88 Arg2:E326
+R9	Coreference Arg1:E326 Arg2:E645
+R10	Coreference Arg1:E645 Arg2:E521
+R11	Coreference Arg1:E521 Arg2:E275
+R12	Coreference Arg1:E275 Arg2:E755
+R13	Coreference Arg1:E755 Arg2:E248
+R14	Coreference Arg1:E772 Arg2:E799
+R15	Coreference Arg1:E799 Arg2:E808
+R16	Coreference Arg1:E379 Arg2:E859
+R17	Coreference Arg1:E859 Arg2:E176
+R18	Coreference Arg1:E176 Arg2:E487
+R19	Coreference Arg1:E947 Arg2:E227
+R20	Coreference Arg1:E855 Arg2:E592
+R21	Coreference Arg1:E592 Arg2:E876
+R22	Coreference Arg1:E585 Arg2:E691
+R23	Coreference Arg1:E468 Arg2:E579
+R24	Coreference Arg1:E766 Arg2:E942
+R25	Coreference Arg1:E942 Arg2:E207
+R26	Coreference Arg1:E619 Arg2:E8
+R27	Coreference Arg1:E8 Arg2:E675
+R28	Coreference Arg1:E675 Arg2:E814
+R29	Coreference Arg1:E814 Arg2:E398
+R30	Coreference Arg1:E398 Arg2:E640
+R31	Coreference Arg1:E640 Arg2:E899
+R32	Coreference Arg1:E899 Arg2:E358
+R33	Coreference Arg1:E406 Arg2:E46
+R34	Coreference Arg1:E46 Arg2:E3
+R35	Coreference Arg1:E3 Arg2:E226

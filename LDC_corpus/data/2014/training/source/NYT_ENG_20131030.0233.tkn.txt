@@ -1,0 +1,34 @@
+<DOC id= " NYT_ENG_20131030.0233 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20131030 / 20131030 , be519680272d176419fad39b393dc265 . xml " > 
+<HEADLINE> 
+IN DISPUTE OVER SONG , GAYE'S FAMILY COUNTERSUES 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+Robin Thicke ’s song “ Blurred Lines ” is one of the year ’s biggest hits , but behind the scenes the song is the focus of a bitter dispute that on Wednesday led to the family of Marvin Gaye filing a copyright lawsuit .
+< / P> 
+<P> 
+In August , Thicke and his two fellow songwriters , Pharrell Williams and Clifford Harris Jr . ( also known as the rapper T . I . ) , sued the family of Marvin Gaye in a pre-emptive strike , saying that they expected Gaye ’s children to claim that “ Blurred Lines ” copied Gaye ’s 1977 hit “ Got to Give It Up . ” 
+< / P> 
+<P> 
+The similarities between the songs - among them a smooth , retro beat and lots of falsetto - have been noted by critics , and Thicke has acknowledged “ Got to Give It Up ” as an inspiration . But “ being reminiscent of a ' sound ’ is not copyright infringement , ” the men said in their suit .
+< / P> 
+<P> 
+Two of Gaye ’s children , Frankie and Nona , have responded with a countersuit , filed in U.S. District Court in Los Angeles . The suit says not only that “ Blurred Lines ” infringes on their father ’s copyright , but also that another of Thicke ’s songs , “ Love After War , ” copies a Gaye song , “ After the Dance . ” 
+< / P> 
+<P> 
+According to the suit , which was first reported by The Hollywood Reporter , a musicologist , Judith Finell , studied “ Blurred Lines ” and “ Got to Give It Up ” and found “ a constellation of at least eight distinctive and important compositional elements ” between them .
+< / P> 
+<P> 
+Extending their case beyond copyright , the Gayes also sued Sony / ATV Music Publishing , which controls the EMI publishing catalog that includes Gaye ’s songs . The Gayes accuse Sony / ATV - which is also a publisher of Williams ’ work - of breach of contract and of fiduciary duty by taking sides against the family in the dispute and trying to intimidate them into dropping the case . Gaye died in 1984 .
+< / P> 
+<P> 
+According to the Gayes , Sony / ATV tried to convince them that their case was frivolous , and that the company ’s chairman - who was not named in the suit , but is Martin N . Bandier , a well - known music executive - told the family that they were “ killing the goose that laid the golden egg ” by pursuing the case .
+< / P> 
+<P> 
+Both suits seek unspecified damages .
+< / P> 
+< / TEXT> 
+< / DOC

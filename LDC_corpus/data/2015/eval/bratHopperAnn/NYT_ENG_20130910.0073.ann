@@ -1,0 +1,171 @@
+T1	Personnel_End-Position 182 184	EX
+E999	Personnel_End-Position:T1
+A1	Realis E999 Actual
+T2	Personnel_End-Position 420 426	former
+E940	Personnel_End-Position:T2
+A2	Realis E940 Actual
+T3	Personnel_End-Position 706 712	former
+E642	Personnel_End-Position:T3
+A3	Realis E642 Actual
+T4	Personnel_End-Position 1004 1013	succeeded
+E779	Personnel_End-Position:T4
+A4	Realis E779 Actual
+T5	Justice_Fine 218 223	FINES
+E370	Justice_Fine:T5
+A5	Realis E370 Actual
+T6	Justice_Fine 580 585	fines
+E131	Justice_Fine:T6
+A6	Realis E131 Actual
+T7	Justice_Fine 2118 2122	fine
+E618	Justice_Fine:T7
+A7	Realis E618 Actual
+T8	Justice_Fine 2206 2210	fine
+E52	Justice_Fine:T8
+A8	Realis E52 Actual
+T9	Justice_Fine 2571 2575	fine
+E756	Justice_Fine:T9
+A9	Realis E756 Actual
+T10	Transaction_Transfer-Money 210 213	PAY
+E227	Transaction_Transfer-Money:T10
+A10	Realis E227 Other
+T11	Transaction_Transfer-Money 504 507	pay
+E923	Transaction_Transfer-Money:T11
+A11	Realis E923 Other
+T12	Transaction_Transfer-Money 2099 2102	pay
+E68	Transaction_Transfer-Money:T12
+A12	Realis E68 Other
+T13	Transaction_Transfer-Money 2198 2201	pay
+E297	Transaction_Transfer-Money:T13
+A13	Realis E297 Actual
+T14	Transaction_Transfer-Money 2564 2570	unpaid
+E190	Transaction_Transfer-Money:T14
+A14	Realis E190 Other
+T15	Conflict_Attack 811 824	assassination
+E985	Conflict_Attack:T15
+A15	Realis E985 Actual
+T16	Life_Die 811 824	assassination
+E11	Life_Die:T16
+A16	Realis E11 Actual
+T17	Personnel_Start-Position 1004 1013	succeeded
+E590	Personnel_Start-Position:T17
+A17	Realis E590 Actual
+T18	Justice_Convict 1137 1146	convicted
+E926	Justice_Convict:T18
+A18	Realis E926 Actual
+T19	Justice_Charge-Indict 1150 1157	charges
+E767	Justice_Charge-Indict:T19
+A19	Realis E767 Actual
+T20	Conflict_Attack 1217 1226	crackdown
+E881	Conflict_Attack:T20
+A20	Realis E881 Actual
+T21	Conflict_Demonstrate 1246 1254	uprising
+E669	Conflict_Demonstrate:T21
+A21	Realis E669 Actual
+T22	Life_Die 1306 1310	dead
+E490	Life_Die:T22
+A22	Realis E490 Actual
+T23	Justice_Convict 1327 1336	convicted
+E719	Justice_Convict:T23
+A23	Realis E719 Actual
+T24	Transaction_Transaction 1340 1350	collecting
+E627	Transaction_Transaction:T24
+A24	Realis E627 Actual
+T25	Justice_Sentence 1425 1434	sentenced
+E778	Justice_Sentence:T25
+A25	Realis E778 Actual
+T26	Justice_Arrest-Jail 1446 1452	prison
+E844	Justice_Arrest-Jail:T26
+A26	Realis E844 Generic
+T27	Justice_Pardon 1499 1507	pardoned
+E698	Justice_Pardon:T27
+A27	Realis E698 Actual
+T28	Justice_Release-Parole 1512 1517	freed
+E906	Justice_Release-Parole:T28
+A28	Realis E906 Actual
+T29	Transaction_Transfer-Money 1685 1689	paid
+E753	Transaction_Transfer-Money:T29
+A29	Realis E753 Actual
+T30	Contact_Broadcast 1950 1959	statement
+E724	Contact_Broadcast:T30
+A30	Realis E724 Actual
+T31	Transaction_Transfer-Ownership 2036 2043	give up
+E306	Transaction_Transfer-Ownership:T31
+A31	Realis E306 Other
+T32	Transaction_Transfer-Ownership 2478 2485	give up
+E122	Transaction_Transfer-Ownership:T32
+A32	Realis E122 Other
+T33	Transaction_Transfer-Ownership 2185 2189	sold
+E801	Transaction_Transfer-Ownership:T33
+A33	Realis E801 Other
+T34	Life_Die 2290 2293	die
+E313	Life_Die:T34
+A34	Realis E313 Other
+T35	Contact_Broadcast 2350 2354	told
+E621	Contact_Broadcast:T35
+A35	Realis E621 Actual
+T36	Transaction_Transfer-Money 2610 2614	paid
+E693	Transaction_Transfer-Money:T36
+A36	Realis E693 Actual
+T37	Transaction_Transfer-Money 2704 2707	pay
+E37	Transaction_Transfer-Money:T37
+A37	Realis E37 Actual
+T38	Life_Divorce 2674 2682	divorced
+E676	Life_Divorce:T38
+A38	Realis E676 Actual
+T39	Conflict_Attack 784 788	coup
+E879	Conflict_Attack:T39
+A39	Realis E879 Actual
+T40	Conflict_Attack 1054 1058	coup
+E961	Conflict_Attack:T40
+A40	Realis E961 Actual
+T41	Conflict_Attack 1192 1196	coup
+E21	Conflict_Attack:T41
+A41	Realis E21 Actual
+T43	Transaction_Transfer-Money 1546 1549	pay
+E157	Transaction_Transfer-Money:T43
+A43	Realis E157 Other
+T43	Transaction_Transfer-Money 1546 1549	pay
+E902	Transaction_Transfer-Money:T43
+A43	Realis E902 Other
+T48	Justice_Fine 1639 1644	fined
+E664	Justice_Fine:T48
+A48	Realis E664 Actual
+T45	Justice_Fine 1712 1716	fine
+E498	Justice_Fine:T45
+A45	Realis E498 Actual
+T46	Justice_Fine 2623 2627	fine
+E44	Justice_Fine:T46
+A46	Realis E44 Actual
+T47	Justice_Fine 2773 2778	fines
+E740	Justice_Fine:T47
+A47	Realis E740 Actual
+T48	Justice_Fine 1639 1644	fined
+E560	Justice_Fine:T48
+A48	Realis E560 Actual
+T49	Transaction_Transfer-Money 2398 2405	secured
+E320	Transaction_Transfer-Money:T49
+A49	Realis E320 Actual
+T50	Contact_Contact 1812 1816	said
+E435	Contact_Contact:T50
+A50	Realis E435 Actual
+T51	Transaction_Transfer-Money 2185 2189	sold
+E470	Transaction_Transfer-Money:T51
+A51	Realis E470 Other
+R1	Coreference Arg1:E999 Arg2:E940
+R2	Coreference Arg1:E940 Arg2:E642
+R3	Coreference Arg1:E642 Arg2:E779
+R4	Coreference Arg1:E370 Arg2:E131
+R5	Coreference Arg1:E131 Arg2:E618
+R6	Coreference Arg1:E618 Arg2:E52
+R7	Coreference Arg1:E52 Arg2:E756
+R8	Coreference Arg1:E227 Arg2:E923
+R9	Coreference Arg1:E923 Arg2:E68
+R10	Coreference Arg1:E68 Arg2:E297
+R11	Coreference Arg1:E297 Arg2:E190
+R12	Coreference Arg1:E306 Arg2:E122
+R13	Coreference Arg1:E693 Arg2:E37
+R14	Coreference Arg1:E879 Arg2:E961
+R15	Coreference Arg1:E961 Arg2:E21
+R16	Coreference Arg1:E664 Arg2:E498
+R17	Coreference Arg1:E560 Arg2:E44
+R18	Coreference Arg1:E44 Arg2:E740

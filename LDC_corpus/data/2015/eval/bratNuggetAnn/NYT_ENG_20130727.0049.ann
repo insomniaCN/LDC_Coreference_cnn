@@ -1,0 +1,111 @@
+T1	Contact_Broadcast 1258 1264	saying
+E41	Contact_Broadcast:T1
+A1	Realis E41 Actual
+T2	Transaction_Transfer-Ownership 2443 2452	supplying
+E50	Transaction_Transfer-Ownership:T2
+A2	Realis E50 Generic
+T3	Contact_Meet 2343 2347	told
+E88	Contact_Meet:T3
+A3	Realis E88 Actual
+T4	Conflict_Attack 810 816	combat
+E158	Conflict_Attack:T4
+A4	Realis E158 Generic
+T5	Life_Die 1019 1028	execution
+E168	Life_Die:T5
+A5	Realis E168 Generic
+T6	Life_Die 527 535	executed
+E203	Life_Die:T6
+A6	Realis E203 Actual
+T7	Conflict_Attack 1776 1784	killings
+E216	Conflict_Attack:T7
+A7	Realis E216 Actual
+T8	Movement_Transport-Person 1607 1614	entered
+E288	Movement_Transport-Person:T8
+A8	Realis E288 Actual
+T9	Conflict_Attack 2311 2322	battlefield
+E312	Conflict_Attack:T9
+A9	Realis E312 Actual
+T10	Life_Die 187 196	EXECUTION
+E316	Life_Die:T10
+A10	Realis E316 Actual
+T11	Transaction_Transaction 2697 2700	aid
+E318	Transaction_Transaction:T11
+A11	Realis E318 Other
+T12	Personnel_Elect 2525 2532	elected
+E362	Personnel_Elect:T12
+A12	Realis E362 Actual
+T13	Conflict_Attack 527 535	executed
+E404	Conflict_Attack:T13
+A13	Realis E404 Actual
+T14	Life_Die 1817 1827	executions
+E437	Life_Die:T14
+A14	Realis E437 Generic
+T15	Conflict_Attack 1416 1423	killers
+E451	Conflict_Attack:T15
+A15	Realis E451 Actual
+T16	Conflict_Attack 430 436	killed
+E455	Conflict_Attack:T16
+A16	Realis E455 Actual
+T17	Conflict_Attack 1644 1652	battling
+E491	Conflict_Attack:T17
+A17	Realis E491 Actual
+T18	Contact_Broadcast 1238 1244	quoted
+E516	Contact_Broadcast:T18
+A18	Realis E516 Actual
+T19	Conflict_Attack 1697 1705	conflict
+E519	Conflict_Attack:T19
+A19	Realis E519 Actual
+T20	Life_Die 1776 1784	killings
+E524	Life_Die:T20
+A20	Realis E524 Actual
+T21	Conflict_Attack 821 829	violence
+E546	Conflict_Attack:T21
+A21	Realis E546 Generic
+T22	Contact_Broadcast 928 934	posted
+E584	Contact_Broadcast:T22
+A22	Realis E584 Actual
+T23	Contact_Meet 2625 2630	visit
+E588	Contact_Meet:T23
+A23	Realis E588 Actual
+T24	Conflict_Attack 1303 1307	shot
+E687	Conflict_Attack:T24
+A24	Realis E687 Actual
+T25	Conflict_Attack 455 461	battle
+E716	Conflict_Attack:T25
+A25	Realis E716 Actual
+T26	Business_Start-Org 1229 1236	founder
+E725	Business_Start-Org:T26
+A26	Realis E725 Actual
+T27	Contact_Meet 2121 2124	met
+E747	Contact_Meet:T27
+A27	Realis E747 Actual
+T28	Contact_Broadcast 785 792	reports
+E759	Contact_Broadcast:T28
+A28	Realis E759 Actual
+T29	Contact_Meet 2560 2563	met
+E794	Contact_Meet:T29
+A29	Realis E794 Actual
+T30	Conflict_Attack 1370 1375	taken
+E797	Conflict_Attack:T30
+A30	Realis E797 Actual
+T31	Life_Die 1416 1423	killers
+E808	Life_Die:T31
+A31	Realis E808 Actual
+T32	Conflict_Attack 187 196	EXECUTION
+E839	Conflict_Attack:T32
+A32	Realis E839 Actual
+T33	Conflict_Attack 1817 1827	executions
+E869	Conflict_Attack:T33
+A33	Realis E869 Generic
+T34	Justice_Arrest-Jail 1277 1282	taken
+E903	Justice_Arrest-Jail:T34
+A34	Realis E903 Actual
+T35	Justice_Execute 1019 1028	execution
+E918	Justice_Execute:T35
+A35	Realis E918 Generic
+T36	Life_Die 430 436	killed
+E956	Life_Die:T36
+A36	Realis E956 Actual
+T37	Contact_Contact 2367 2372	asked
+E968	Contact_Contact:T37
+A37	Realis E968 Actual

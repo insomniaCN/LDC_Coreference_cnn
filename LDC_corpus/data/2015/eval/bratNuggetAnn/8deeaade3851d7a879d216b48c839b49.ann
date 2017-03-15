@@ -1,0 +1,42 @@
+T1	Life_Marry 530 538	marriage
+E48	Life_Marry:T1
+A1	Realis E48 Generic
+T2	Conflict_Demonstrate 312 319	protest
+E68	Conflict_Demonstrate:T2
+A2	Realis E68 Actual
+T3	Conflict_Attack 2093 2098	smack
+E95	Conflict_Attack:T3
+A3	Realis E95 Other
+T4	Contact_Contact 786 790	said
+E128	Contact_Contact:T4
+A4	Realis E128 Actual
+T5	Conflict_Demonstrate 752 759	protest
+E320	Conflict_Demonstrate:T5
+A5	Realis E320 Actual
+T6	Life_Marry 189 197	marriage
+E323	Life_Marry:T6
+A6	Realis E323 Generic
+T7	Conflict_Demonstrate 1191 1198	protest
+E353	Conflict_Demonstrate:T7
+A7	Realis E353 Actual
+T8	Conflict_Demonstrate 1246 1253	protest
+E502	Conflict_Demonstrate:T8
+A8	Realis E502 Actual
+T9	Movement_Transport-Person 247 254	skipped
+E559	Movement_Transport-Person:T9
+A9	Realis E559 Actual
+T10	Conflict_Demonstrate 161 171	protesting
+E613	Conflict_Demonstrate:T10
+A10	Realis E613 Actual
+T11	Conflict_Demonstrate 852 862	protesting
+E643	Conflict_Demonstrate:T11
+A11	Realis E643 Other
+T12	Contact_Broadcast 505 512	chanted
+E889	Contact_Broadcast:T12
+A12	Realis E889 Actual
+T13	Contact_Contact 1088 1092	said
+E917	Contact_Contact:T13
+A13	Realis E917 Actual
+T14	Life_Marry 1154 1162	marriage
+E968	Life_Marry:T14
+A14	Realis E968 Generic

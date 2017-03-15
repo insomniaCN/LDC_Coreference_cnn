@@ -1,0 +1,62 @@
+T1	Justice_Execute 80 84	hang
+E1	Justice_Execute:T1 
+A1	Realis E1 Other
+T2	Life_Marry 99 106	wedding
+E2	Life_Marry:T2 
+A2	Realis E2 Actual
+T3	Justice_Sentence 243 252	sentenced
+E3	Justice_Sentence:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 292 300	shooting
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Die 284 291	fatally
+E5	Life_Die:T5 
+A5	Questionable E5 Mention
+A6	Realis E5 Actual
+T6	Life_Marry 322 329	wedding
+E6	Life_Marry:T6 
+A7	Questionable E6 Realis
+A8	Realis E6 Actual
+T7	Justice_Sentence 462 471	sentenced
+E7	Justice_Sentence:T7 
+A9	Realis E7 Actual
+T8	Conflict_Attack 533 541	shooting
+E8	Conflict_Attack:T8 
+A10	Realis E8 Actual
+T9	Life_Marry 574 581	married
+E9	Life_Marry:T9 
+A11	Realis E9 Actual
+T10	Conflict_Attack 629 640	opened fire
+E10	Conflict_Attack:T10 
+A12	Realis E10 Actual
+T11	Life_Marry 672 679	wedding
+E11	Life_Marry:T11 
+A13	Realis E11 Actual
+T12	Life_Marry 694 699	marry
+E12	Life_Marry:T12 
+A14	Realis E12 Generic
+T13	Justice_Sentence 786 795	sentenced
+E13	Justice_Sentence:T13 
+A15	Realis E13 Actual
+T14	Life_Injure 822 830	wounding
+E14	Life_Injure:T14 
+A16	Realis E14 Actual
+T15	Justice_Appeal 905 911	appeal
+E15	Justice_Appeal:T15 
+A17	Realis E15 Other
+T16	Conflict_Attack 107 115	shooting
+E16	Conflict_Attack:T16 
+A18	Realis E16 Actual
+T17	Justice_Execute 274 279	death
+E17	Justice_Execute:T17 
+A19	Realis E17 Other
+T18	Life_Die 502 507	death
+E18	Life_Die:T18 
+A20	Realis E18 Other
+T19	Justice_Execute 511 518	hanging
+E19	Justice_Execute:T19 
+A21	Realis E19 Other
+T20	Justice_Arrest-Jail 808 817	in prison
+E20	Justice_Arrest-Jail:T20 
+A22	Realis E20 Actual

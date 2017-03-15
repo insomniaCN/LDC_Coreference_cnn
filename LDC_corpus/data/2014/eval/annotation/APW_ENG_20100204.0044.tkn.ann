@@ -1,0 +1,48 @@
+T1	Transaction_Transfer-Money 66 78	Compensation
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Money 260 267	receive
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Money 432 444	compensation
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Other
+T4	Life_Die 578 583	death
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 639 646	receive
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 693 701	earnings
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Transaction_Transfer-Money 1150 1161	compensated
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Money 1173 1180;1186 1191	receive money
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T9	Transaction_Transfer-Money 1205 1213	received
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Transaction_Transfer-Money 1363 1374	compensated
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Other
+T11	Transaction_Transfer-Money 1636 1648	compensation
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Other
+T12	Transaction_Transfer-Money 1856 1864	payments
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Other
+T13	Justice_Trial-Hearing 1997 2004	hearing
+E13	Justice_Trial-Hearing:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 2044 2049	phone
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 2288 2293	phone
+E15	Contact_Communicate:T15 
+A15	Realis E15 Generic
+T16	Contact_Communicate 856 866	discussing
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual

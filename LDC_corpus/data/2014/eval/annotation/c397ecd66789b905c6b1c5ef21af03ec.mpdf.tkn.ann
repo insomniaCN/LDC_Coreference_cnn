@@ -1,0 +1,113 @@
+T3	Movement_Transport-Person 441 449	Encircle
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Personnel_End-Position 496 504	retirees
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 491 495	says
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Conflict_Demonstrate 665 670	march
+E6	Conflict_Demonstrate:T6 
+A6	Realis E6 Other
+T7	Conflict_Demonstrate 767 772	event
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Other
+T8	Conflict_Demonstrate 802 810	protests
+E8	Conflict_Demonstrate:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 910 916	income
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Actual
+T10	Personnel_End-Position 1088 1095	retired
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual
+T11	Conflict_Demonstrate 1444 1449	March
+E11	Conflict_Demonstrate:T11 
+A11	Realis E11 Other
+T12	Movement_Transport-Person 1450 1460	encircling
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Other
+T13	Personnel_End-Position 1536 1543	retired
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 1642 1647	March
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Other
+T15	Conflict_Demonstrate 1706 1714	Marchers
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Other
+T16	Movement_Transport-Person 1720 1727	proceed
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Other
+T17	Movement_Transport-Person 1791 1797	circle
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Other
+T18	Conflict_Demonstrate 1881 1889	Marchers
+E18	Conflict_Demonstrate:T18 
+A18	Realis E18 Other
+T19	Movement_Transport-Person 1900 1907	proceed
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Other
+T20	Conflict_Demonstrate 1930 1935	rally
+E20	Conflict_Demonstrate:T20 
+A20	Realis E20 Other
+T21	Contact_Communicate 2076 2080	said
+E21	Contact_Communicate:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Money 2143 2153	settlement
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Money 2270 2277	payment
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Generic
+T24	Personnel_End-Position 2306 2313	retired
+E24	Personnel_End-Position:T24 
+A24	Realis E24 Actual
+T25	Transaction_Transfer-Money 2345 2352	funding
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Other
+T26	Justice_Trial-Hearing 2417 2422	court
+E26	Justice_Trial-Hearing:T26 
+A26	Realis E26 Actual
+T27	Business_Start-Org 2582 2589	spinoff
+E27	Business_Start-Org:T27 
+A27	Realis E27 Actual
+T28	Business_Start-Org 2184 2191	created
+E28	Business_Start-Org:T28 
+A28	Realis E28 Actual
+T29	Business_Merge-Org 2733 2741	acquired
+E29	Business_Merge-Org:T29 
+A29	Realis E29 Actual
+T30	Business_Declare-Bankruptcy 2769 2779	bankruptcy
+E30	Business_Declare-Bankruptcy:T30 
+A30	Realis E30 Actual
+T31	Contact_Communicate 2845 2849	said
+E31	Contact_Communicate:T31 
+A31	Realis E31 Actual
+T32	Personnel_End-Position 3228 3236	retirees
+E32	Personnel_End-Position:T32 
+A32	Realis E32 Actual
+T33	Personnel_End-Position 3308 3315	retired
+E33	Personnel_End-Position:T33 
+A33	Realis E33 Actual
+T34	Justice_Sue 3334 3341	lawsuit
+E34	Justice_Sue:T34 
+A34	Realis E34 Actual
+T35	Personnel_End-Position 3425 3432	retired
+E35	Personnel_End-Position:T35 
+A35	Realis E35 Actual
+T36	Personnel_End-Position 3921 3930	kill jobs
+E36	Personnel_End-Position:T36 
+A36	Realis E36 Generic
+T37	Contact_Communicate 4046 4051	speak
+E37	Contact_Communicate:T37 
+A37	Realis E37 Other
+T1	Transaction_Transfer-Ownership 525 532;545 553	receive benefits
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Generic
+A2	Questionable E1 Subtype
+T2	Transaction_Transfer-Ownership 1037 1044;1075 1083	provide benefits
+E2	Transaction_Transfer-Ownership:T2 
+A38	Realis E2 Other
+A39	Questionable E2 Subtype

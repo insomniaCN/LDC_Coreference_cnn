@@ -1,0 +1,84 @@
+T1	Life_Die 74 80	Killed
+E1	Life_Die:T1 
+A1	Questionable E1 Realis
+A2	Realis E1 Actual
+T2	Life_Die 244 248	kill
+E2	Life_Die:T2 
+A3	Questionable E2 Realis
+A4	Realis E2 Other
+T3	Life_Die 424 427	off
+E3	Life_Die:T3 
+A5	Questionable E3 Realis
+A6	Realis E3 Other
+T4	Conflict_Attack 641 645	shot
+E4	Conflict_Attack:T4 
+A7	Realis E4 Actual
+T5	Life_Die 1109 1112	off
+E5	Life_Die:T5 
+A8	Questionable E5 Realis
+A9	Realis E5 Other
+T6	Life_Die 1418 1431	assassination
+E6	Life_Die:T6 
+A10	Realis E6 Generic
+T7	Life_Die 1628 1631	off
+E7	Life_Die:T7 
+A11	Realis E7 Other
+T8	Contact_Meet 1787 1795	meetings
+E8	Contact_Meet:T8 
+A12	Realis E8 Generic
+T9	Life_Die 2758 2764	murder
+E9	Life_Die:T9 
+A13	Realis E9 Actual
+T10	Life_Die 3077 3083	murder
+E10	Life_Die:T10 
+A14	Realis E10 Actual
+T11	Justice_Arrest-Jail 3190 3198	arrested
+E11	Justice_Arrest-Jail:T11 
+A15	Realis E11 Other
+T12	Transaction_Transfer-Money 3215 3224	inherited
+E12	Transaction_Transfer-Money:T12 
+A16	Realis E12 Other
+T13	Conflict_Attack 4310 4314	shot
+E13	Conflict_Attack:T13 
+A17	Realis E13 Other
+T14	Justice_Arrest-Jail 4514 4522	arrested
+E14	Justice_Arrest-Jail:T14 
+A18	Realis E14 Other
+T15	Transaction_Transfer-Money 4539 4548	inherited
+E15	Transaction_Transfer-Money:T15 
+A19	Realis E15 Other
+T16	Transaction_Transfer-Money 4772 4780	inherits
+E16	Transaction_Transfer-Money:T16 
+A20	Questionable E16 Realis
+A21	Realis E16 Generic
+T17	Transaction_Transfer-Money 4853 4864	inheritance
+E17	Transaction_Transfer-Money:T17 
+A22	Questionable E17 Realis
+A23	Realis E17 Generic
+T18	Justice_Arrest-Jail 4909 4915	arrest
+E18	Justice_Arrest-Jail:T18 
+A24	Realis E18 Generic
+T19	Life_Die 5786 5792	killed
+E19	Life_Die:T19 
+A25	Questionable E19 Realis
+A26	Realis E19 Actual
+T20	Life_Die 5852 5865	assassination
+E20	Life_Die:T20 
+A27	Questionable E20 Realis
+A28	Realis E20 Actual
+T21	Life_Die 6201 6206	Death
+E21	Life_Die:T21 
+A29	Realis E21 Generic
+T22	Life_Die 6207 6213	killed
+E22	Life_Die:T22 
+A30	Realis E22 Actual
+T23	Life_Die 6676 6680	kill
+E23	Life_Die:T23 
+A31	Questionable E23 Realis
+A32	Realis E23 Other
+T24	Life_Die 6909 6921	assassinated
+E24	Life_Die:T24 
+A33	Realis E24 Actual
+T25	Conflict_Attack 7041 7048	shooter
+E25	Conflict_Attack:T25 
+A34	Realis E25 Actual

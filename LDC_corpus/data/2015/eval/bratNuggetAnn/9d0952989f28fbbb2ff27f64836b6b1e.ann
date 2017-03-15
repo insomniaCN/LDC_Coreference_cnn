@@ -1,0 +1,48 @@
+T1	Transaction_Transfer-Money 1238 1243	loans
+E57	Transaction_Transfer-Money:T1
+A1	Realis E57 Generic
+T2	Transaction_Transfer-Money 511 519	mortgage
+E121	Transaction_Transfer-Money:T2
+A2	Realis E121 Generic
+T3	Transaction_Transfer-Money 1201 1209	Mortgage
+E179	Transaction_Transfer-Money:T3
+A3	Realis E179 Generic
+T4	Transaction_Transfer-Money 1255 1260	loans
+E197	Transaction_Transfer-Money:T4
+A4	Realis E197 Actual
+T5	Transaction_Transfer-Money 852 859	lending
+E222	Transaction_Transfer-Money:T5
+A5	Realis E222 Generic
+T6	Transaction_Transfer-Money 662 669	lending
+E225	Transaction_Transfer-Money:T6
+A6	Realis E225 Generic
+T7	Business_Declare-Bankruptcy 780 790	bankruptcy
+E249	Business_Declare-Bankruptcy:T7
+A7	Realis E249 Actual
+T8	Transaction_Transfer-Money 520 526	lender
+E269	Transaction_Transfer-Money:T8
+A8	Realis E269 Generic
+T9	Transaction_Transfer-Money 300 307	lending
+E294	Transaction_Transfer-Money:T9
+A9	Realis E294 Generic
+T10	Transaction_Transfer-Money 1274 1282	payments
+E470	Transaction_Transfer-Money:T10
+A10	Realis E470 Generic
+T11	Justice_Sue 265 269	suit
+E543	Justice_Sue:T11
+A11	Realis E543 Actual
+T12	Justice_Sue 434 441	lawsuit
+E580	Justice_Sue:T12
+A12	Realis E580 Actual
+T13	Transaction_Transfer-Ownership 868 880	foreclosures
+E715	Transaction_Transfer-Ownership:T13
+A13	Realis E715 Generic
+T14	Business_Declare-Bankruptcy 730 740	bankruptcy
+E781	Business_Declare-Bankruptcy:T14
+A14	Realis E781 Actual
+T15	Contact_Broadcast 911 916	wrote
+E933	Contact_Broadcast:T15
+A15	Realis E933 Actual
+T16	Transaction_Transfer-Money 1059 1066	lending
+E980	Transaction_Transfer-Money:T16
+A16	Realis E980 Generic

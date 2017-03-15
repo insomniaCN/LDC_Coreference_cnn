@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000577" doc_id="bolt-eng-DF-170-181122-8780882" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="97" length="7">Pardons</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="198" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="325" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="382" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="818" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-133" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="945" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-159" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1002" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-185" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1313" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-211" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1440" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-237" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1497" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-263" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1837" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-289" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1964" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-315" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2021" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-341" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2359" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-367" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2486" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-393" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2543" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="232" length="10">imprisoned</trigger>
+      </event_mention>
+      <event_mention id="em-120" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="852" length="10">imprisoned</trigger>
+      </event_mention>
+      <event_mention id="em-198" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1347" length="10">imprisoned</trigger>
+      </event_mention>
+      <event_mention id="em-276" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1871" length="10">imprisoned</trigger>
+      </event_mention>
+      <event_mention id="em-354" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2393" length="10">imprisoned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="351" length="8">donation</trigger>
+      </event_mention>
+      <event_mention id="em-146" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="971" length="8">donation</trigger>
+      </event_mention>
+      <event_mention id="em-224" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1466" length="8">donation</trigger>
+      </event_mention>
+      <event_mention id="em-302" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1990" length="8">donation</trigger>
+      </event_mention>
+      <event_mention id="em-380" type="transaction" subtype="transaction" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2512" length="8">donation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-92" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="465" length="4">trip</trigger>
+      </event_mention>
+      <event_mention id="em-172" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1085" length="4">trip</trigger>
+      </event_mention>
+      <event_mention id="em-250" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="1580" length="4">trip</trigger>
+      </event_mention>
+      <event_mention id="em-328" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2104" length="4">trip</trigger>
+      </event_mention>
+      <event_mention id="em-406" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2626" length="4">trip</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-432">
+      <event_mention id="em-419" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="2775" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-447">
+      <event_mention id="em-434" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3060" length="5">fined</trigger>
+      </event_mention>
+      <event_mention id="em-492" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3743" length="4">fine</trigger>
+      </event_mention>
+      <event_mention id="em-548" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4007" length="4">fine</trigger>
+      </event_mention>
+      <event_mention id="em-589" type="justice" subtype="fine" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4025" length="4">fine</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-462">
+      <event_mention id="em-449" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3185" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-464" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3345" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-505" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3850" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-490">
+      <event_mention id="em-477" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3524" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-531">
+      <event_mention id="em-518" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3884" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-546">
+      <event_mention id="em-533" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3923" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-574">
+      <event_mention id="em-561" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3736" length="4">paid</trigger>
+      </event_mention>
+      <event_mention id="em-576" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4016" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-615">
+      <event_mention id="em-602" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4252" length="4">went</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-630">
+      <event_mention id="em-617" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4385" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-707" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4958" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-856" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6132" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-999" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7426" length="8">pardoned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-645">
+      <event_mention id="em-632" type="justice" subtype="pardon" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4501" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-720" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5074" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-869" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6248" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-1053" type="justice" subtype="pardon" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7542" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-660">
+      <event_mention id="em-647" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4541" length="4">gave</trigger>
+      </event_mention>
+      <event_mention id="em-733" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5114" length="4">gave</trigger>
+      </event_mention>
+      <event_mention id="em-882" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6288" length="4">gave</trigger>
+      </event_mention>
+      <event_mention id="em-1066" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7582" length="4">gave</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-675">
+      <event_mention id="em-662" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4604" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-746" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5177" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-895" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6351" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-1079" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7645" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-690">
+      <event_mention id="em-677" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4614" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-759" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5187" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-908" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6361" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-1092" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7655" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-705">
+      <event_mention id="em-692" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4803" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-772" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5376" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-785" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5435" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-921" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6550" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-934" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6609" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-1105" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7844" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-1118" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7903" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-1213" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8828" length="4">talk</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-811">
+      <event_mention id="em-798" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5473" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-813" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5568" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-947" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6647" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-960" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6742" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-1131" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7941" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-1144" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8036" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-1226" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8866" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-1239" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8961" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-1522" type="justice" subtype="pardon" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="11465" length="8">pardoned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-839">
+      <event_mention id="em-826" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5693" length="7">bombing</trigger>
+      </event_mention>
+      <event_mention id="em-973" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6867" length="7">bombing</trigger>
+      </event_mention>
+      <event_mention id="em-1157" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8161" length="7">bombing</trigger>
+      </event_mention>
+      <event_mention id="em-1252" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9086" length="7">bombing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-854">
+      <event_mention id="em-986" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7181" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-1170" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8475" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-1265" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9400" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-1388" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10197" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1025">
+      <event_mention id="em-1012" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="7501" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-1027" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="6207" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-1040" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4460" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-1535" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="5033" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1196">
+      <event_mention id="em-1183" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8554" length="8">resigned</trigger>
+      </event_mention>
+      <event_mention id="em-1278" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9479" length="8">resigned</trigger>
+      </event_mention>
+      <event_mention id="em-1304" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9578" length="8">resigned</trigger>
+      </event_mention>
+      <event_mention id="em-1401" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10276" length="8">resigned</trigger>
+      </event_mention>
+      <event_mention id="em-1427" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10375" length="8">resigned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1211">
+      <event_mention id="em-1198" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="8572" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-1291" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9496" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-1414" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10293" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1330">
+      <event_mention id="em-1317" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9596" length="11">Impeachment</trigger>
+      </event_mention>
+      <event_mention id="em-1440" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10393" length="11">Impeachment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1345">
+      <event_mention id="em-1332" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9673" length="9">Impeached</trigger>
+      </event_mention>
+      <event_mention id="em-1453" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10470" length="9">Impeached</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1373">
+      <event_mention id="em-1360" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9874" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-1375" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="9950" length="6">charge</trigger>
+      </event_mention>
+      <event_mention id="em-1466" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10671" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-1479" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="10747" length="6">charge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1505">
+      <event_mention id="em-1492" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="11222" length="5">calls</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1520">
+      <event_mention id="em-1507" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="11327" length="9">impeached</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1600">
+      <event_mention id="em-1548" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3060" length="5">fined</trigger>
+      </event_mention>
+      <event_mention id="em-1561" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="3743" length="4">fine</trigger>
+      </event_mention>
+      <event_mention id="em-1574" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4007" length="4">fine</trigger>
+      </event_mention>
+      <event_mention id="em-1587" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8780882" offset="4025" length="4">fine</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

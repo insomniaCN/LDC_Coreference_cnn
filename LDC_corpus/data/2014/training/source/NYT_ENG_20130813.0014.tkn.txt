@@ -1,0 +1,31 @@
+<DOC id= " NYT_ENG_20130813.0014 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130813 / 20130813,0 a567602f4 a3223 a2bc07259918c8727 . xml " > 
+<HEADLINE> 
+U.S. SEEKS TO BLOCK AIRLINE MERGER 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+The Justice Department , along with the attorneys general of six states , filed a lawsuit Tuesday seeking to block the proposed merger of American Airlines and US Airways .
+< / P> 
+<P> 
+The $ 11 billion deal , announced in February , took American out of bankruptcy . It would create the nation ’s biggest airline , a company with the size and breadth to compete against United Airlines and Delta Air Lines , which have grown through mergers of their own in recent years and are currently the biggest domestic carriers .
+< / P> 
+<P> 
+But in the complaint filed Tuesday in U.S. District Court in the District of Columbia , the Justice Department said that the merger “ will leave three very similar legacy airlines - Delta , United and the new American - that past experience shows increasingly prefer tacit coordination over full - throated competition . ” 
+< / P> 
+<P> 
+The complaint goes on , “ By further reducing the number of legacy airlines and aligning the economic incentives of those that remain , the merger of US Airways and American would make it easier for the remaining airlines to cooperate , rather than compete , on price and service . ” 
+< / P> 
+<P> 
+US Airways stock was down 7 percent in trading after the suit was filed .
+< / P> 
+<P> 
+The lawsuit was filed on behalf of the attorneys general of Arizona , Florida , Tennessee , Texas , Pennsylvania and the District of Columbia .
+< / P> 
+<P> 
+The action is the latest in a series of prominent antitrust moves by the Obama administration Justice Department .
+< / P> 
+<P> 
+In January , the agency sought to block Anheuser - Busch InBev ’s $ 20.1 billion acquisition of Grupo Modelo , the Mexican maker of Corona beer ( that deal was later modified to win approval ) and in 2011 it thwarted AT & amp ; T ’s proposed $ 39 billion takeover of T - Mobile USA . ( Those companies abandoned the merger . ) 
+< / P> 
+< / TEXT> 
+< / DOC

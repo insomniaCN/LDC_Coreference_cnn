@@ -1,0 +1,161 @@
+T1	Movement_Transport-Person 174 178	fled
+E546	Movement_Transport-Person:T1
+A1	Realis E546 Actual
+T2	Life_Die 224 230	murder
+E586	Life_Die:T2
+A2	Realis E586 Actual
+T3	Life_Die 548 554	murder
+E10	Life_Die:T3
+A3	Realis E10 Actual
+T4	Life_Die 702 706	shot
+E879	Life_Die:T4
+A4	Realis E879 Actual
+T5	Life_Die 1145 1153	murderer
+E74	Life_Die:T5
+A5	Realis E74 Actual
+T6	Life_Die 2751 2759	murderer
+E780	Life_Die:T6
+A6	Realis E780 Actual
+T7	Conflict_Attack 224 230	murder
+E167	Conflict_Attack:T7
+A7	Realis E167 Actual
+T8	Conflict_Attack 548 554	murder
+E582	Conflict_Attack:T8
+A8	Realis E582 Actual
+T9	Conflict_Attack 702 706	shot
+E259	Conflict_Attack:T9
+A9	Realis E259 Actual
+T10	Conflict_Attack 1145 1153	murderer
+E180	Conflict_Attack:T10
+A10	Realis E180 Actual
+T11	Conflict_Attack 2751 2759	murderer
+E889	Conflict_Attack:T11
+A11	Realis E889 Actual
+T12	Justice_Convict 271 281	conviction
+E821	Justice_Convict:T12
+A12	Realis E821 Actual
+T13	Justice_Convict 862 871	convicted
+E273	Justice_Convict:T13
+A13	Realis E273 Actual
+T14	Justice_Convict 1084 1094	conviction
+E124	Justice_Convict:T14
+A14	Realis E124 Actual
+T15	Justice_Convict 1376 1383	Convict
+E175	Justice_Convict:T15
+A15	Realis E175 Actual
+T16	Justice_Convict 2690 2700	conviction
+E742	Justice_Convict:T16
+A16	Realis E742 Actual
+T17	Justice_Trial-Hearing 353 358	trial
+E19	Justice_Trial-Hearing:T17
+A17	Realis E19 Actual
+T18	Justice_Trial-Hearing 852 857	tried
+E887	Justice_Trial-Hearing:T18
+A18	Realis E887 Actual
+T19	Justice_Trial-Hearing 1179 1184	trial
+E333	Justice_Trial-Hearing:T19
+A19	Realis E333 Actual
+T20	Justice_Trial-Hearing 1413 1418	Trial
+E633	Justice_Trial-Hearing:T20
+A20	Realis E633 Actual
+T21	Justice_Trial-Hearing 2785 2790	trial
+E912	Justice_Trial-Hearing:T21
+A21	Realis E912 Actual
+T22	Life_Die 532 541	execution
+E698	Life_Die:T22
+A22	Realis E698 Generic
+T23	Movement_Transport-Person 875 885	kidnapping
+E682	Movement_Transport-Person:T23
+A23	Realis E682 Generic
+T24	Conflict_Attack 680 686	beaten
+E819	Conflict_Attack:T24
+A24	Realis E819 Actual
+T25	Life_Injure 680 686	beaten
+E740	Life_Injure:T25
+A25	Realis E740 Actual
+T26	Justice_Extradite 840 850	extradited
+E279	Justice_Extradite:T26
+A26	Realis E279 Actual
+T27	Justice_Sentence 944 953	sentenced
+E119	Justice_Sentence:T27
+A27	Realis E119 Actual
+T28	Justice_Arrest-Jail 973 979	prison
+E334	Justice_Arrest-Jail:T28
+A28	Realis E334 Generic
+T29	Justice_Appeal 1061 1068	Appeals
+E408	Justice_Appeal:T29
+A29	Realis E408 Generic
+T30	Justice_Appeal 2667 2674	Appeals
+E297	Justice_Appeal:T30
+A30	Realis E297 Generic
+T31	Justice_Appeal 303 312	appellate
+E779	Justice_Appeal:T31
+A31	Realis E779 Generic
+T32	Justice_Release-Parole 254 258	free
+E417	Justice_Release-Parole:T32
+A32	Realis E417 Actual
+T33	Justice_Release-Parole 1384 1389	Freed
+E16	Justice_Release-Parole:T33
+A33	Realis E16 Actual
+T34	Movement_Transport-Person 1488 1492	fled
+E707	Movement_Transport-Person:T34
+A34	Realis E707 Actual
+T35	Justice_Trial-Hearing 1839 1844	trial
+E272	Justice_Trial-Hearing:T35
+A35	Realis E272 Generic
+T36	Justice_Trial-Hearing 2139 2144	trial
+E602	Justice_Trial-Hearing:T36
+A36	Realis E602 Generic
+T37	Personnel_End-Position 2951 2955	fire
+E89	Personnel_End-Position:T37
+A37	Realis E89 Other
+T38	Justice_Release-Parole 2989 2993	free
+E212	Justice_Release-Parole:T38
+A38	Realis E212 Generic
+T39	Justice_Arrest-Jail 3007 3011	hold
+E807	Justice_Arrest-Jail:T39
+A39	Realis E807 Generic
+T40	Justice_Execute 532 541	execution
+E811	Justice_Execute:T40
+A40	Realis E811 Generic
+T41	Transaction_Transfer-Money 603 607	debt
+E699	Transaction_Transfer-Money:T41
+A41	Realis E699 Other
+T42	Life_Die 916 922	murder
+E69	Life_Die:T42
+A42	Realis E69 Generic
+T43	Conflict_Attack 916 922	murder
+E695	Conflict_Attack:T43
+A43	Realis E695 Generic
+T44	Movement_Transport-Person 840 850	extradited
+E182	Movement_Transport-Person:T44
+A44	Realis E182 Actual
+T45	Conflict_Attack 657 666	kidnapped
+E997	Conflict_Attack:T45
+A45	Realis E997 Actual
+T46	Conflict_Attack 875 885	kidnapping
+E660	Conflict_Attack:T46
+A46	Realis E660 Generic
+T47	Movement_Transport-Person 657 666	kidnapped
+E45	Movement_Transport-Person:T47
+A47	Realis E45 Actual
+R1	Coreference Arg1:E586 Arg2:E10
+R2	Coreference Arg1:E10 Arg2:E879
+R3	Coreference Arg1:E879 Arg2:E74
+R4	Coreference Arg1:E74 Arg2:E780
+R5	Coreference Arg1:E167 Arg2:E582
+R6	Coreference Arg1:E582 Arg2:E259
+R7	Coreference Arg1:E259 Arg2:E180
+R8	Coreference Arg1:E180 Arg2:E889
+R9	Coreference Arg1:E821 Arg2:E273
+R10	Coreference Arg1:E273 Arg2:E124
+R11	Coreference Arg1:E124 Arg2:E175
+R12	Coreference Arg1:E175 Arg2:E742
+R13	Coreference Arg1:E19 Arg2:E887
+R14	Coreference Arg1:E887 Arg2:E333
+R15	Coreference Arg1:E333 Arg2:E633
+R16	Coreference Arg1:E633 Arg2:E912
+R17	Coreference Arg1:E779 Arg2:E408
+R18	Coreference Arg1:E408 Arg2:E297
+R19	Coreference Arg1:E417 Arg2:E16
+R20	Coreference Arg1:E272 Arg2:E602

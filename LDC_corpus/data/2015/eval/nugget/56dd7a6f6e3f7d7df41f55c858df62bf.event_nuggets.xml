@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa10000000000000151" doc_id="56dd7a6f6e3f7d7df41f55c858df62bf" source_type="multi_post">
+  <event_mention id="em-51" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="576" length="4">cost</trigger>
+  </event_mention>
+  <event_mention id="em-55" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2613" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-134" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="475" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-160" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="1357" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-214" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="576" length="4">cost</trigger>
+  </event_mention>
+  <event_mention id="em-246" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="610" length="6">retail</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2772" length="7">sellers</trigger>
+  </event_mention>
+  <event_mention id="em-332" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2462" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-341" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="1650" length="7">prodcut</trigger>
+  </event_mention>
+  <event_mention id="em-346" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="244" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-367" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="610" length="6">retail</trigger>
+  </event_mention>
+  <event_mention id="em-384" type="manufacture" subtype="artifact" realis="other">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="592" length="7">produce</trigger>
+  </event_mention>
+  <event_mention id="em-420" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2226" length="5">check</trigger>
+  </event_mention>
+  <event_mention id="em-564" type="movement" subtype="transportartifact" realis="other">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="1366" length="4">take</trigger>
+  </event_mention>
+  <event_mention id="em-571" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="244" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-573" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="864" length="6">ripped</trigger>
+  </event_mention>
+  <event_mention id="em-634" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="1136" length="3">rip</trigger>
+  </event_mention>
+  <event_mention id="em-725" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2023" length="6">advise</trigger>
+  </event_mention>
+  <event_mention id="em-735" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2613" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-753" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="813" length="6">invest</trigger>
+  </event_mention>
+  <event_mention id="em-801" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="1136" length="3">rip</trigger>
+  </event_mention>
+  <event_mention id="em-811" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2462" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-828" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2129" length="5">costs</trigger>
+  </event_mention>
+  <event_mention id="em-831" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="2772" length="7">sellers</trigger>
+  </event_mention>
+  <event_mention id="em-842" type="transaction" subtype="transferownership" realis="generic" ways="involuntarynoforce">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="388" length="7">ripping</trigger>
+  </event_mention>
+  <event_mention id="em-864" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="195" length="10">inventions</trigger>
+  </event_mention>
+  <event_mention id="em-894" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="264" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-924" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="388" length="7">ripping</trigger>
+  </event_mention>
+  <event_mention id="em-941" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="864" length="6">ripped</trigger>
+  </event_mention>
+  <event_mention id="em-960" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="56dd7a6f6e3f7d7df41f55c858df62bf" offset="264" length="4">sell</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

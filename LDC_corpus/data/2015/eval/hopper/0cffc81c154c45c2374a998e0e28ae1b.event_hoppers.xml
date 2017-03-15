@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea8e0000000000000107" doc_id="0cffc81c154c45c2374a998e0e28ae1b" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-607" type="justice" subtype="sue" realis="actual">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="415" length="7">lawsuit</trigger>
+      </event_mention>
+      <event_mention id="em-437" type="justice" subtype="sue" realis="actual">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="585" length="4">suit</trigger>
+      </event_mention>
+      <event_mention id="em-887" type="justice" subtype="sue" realis="actual">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="852" length="4">suit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-191" type="life" subtype="injure" realis="generic">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="518" length="8">injuries</trigger>
+      </event_mention>
+      <event_mention id="em-979" type="life" subtype="injure" realis="generic">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="912" length="8">injuries</trigger>
+      </event_mention>
+      <event_mention id="em-949" type="life" subtype="injure" realis="generic">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="1037" length="7">traumas</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-211" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="630" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-840" type="life" subtype="injure" realis="generic">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="716" length="8">injuries</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-479" type="life" subtype="injure" realis="generic">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="729" length="11">concussions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-922" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="0cffc81c154c45c2374a998e0e28ae1b" offset="341" length="6">Former</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

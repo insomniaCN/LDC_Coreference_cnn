@@ -1,0 +1,63 @@
+T1	Personnel_End-Position 970 981	resignation
+E33	Personnel_End-Position:T1
+A1	Realis E33 Actual
+T2	Contact_Broadcast 692 696	said
+E54	Contact_Broadcast:T2
+A2	Realis E54 Actual
+T3	Transaction_Transfer-Money 1487 1491	fees
+E66	Transaction_Transfer-Money:T3
+A3	Realis E66 Other
+T4	Justice_Sue 2345 2352	lawsuit
+E78	Justice_Sue:T4
+A4	Realis E78 Actual
+T5	Contact_Meet 850 857	meeting
+E129	Contact_Meet:T5
+A5	Realis E129 Actual
+T6	Contact_Broadcast 1286 1291	voice
+E140	Contact_Broadcast:T6
+A6	Realis E140 Actual
+T7	Personnel_End-Position 1897 1904	retired
+E238	Personnel_End-Position:T7
+A7	Realis E238 Actual
+T8	Personnel_End-Position 2427 2438	resignation
+E378	Personnel_End-Position:T8
+A8	Realis E378 Other
+T9	Personnel_Start-Position 2825 2830	serve
+E393	Personnel_Start-Position:T9
+A9	Realis E393 Other
+T10	Personnel_End-Position 188 195	RESIGNS
+E448	Personnel_End-Position:T10
+A10	Realis E448 Actual
+T11	Justice_Sue 2058 2065	lawsuit
+E484	Justice_Sue:T11
+A11	Realis E484 Actual
+T12	Personnel_Elect 2863 2871	election
+E559	Personnel_Elect:T12
+A12	Realis E559 Other
+T13	Personnel_End-Position 411 419	resigned
+E573	Personnel_End-Position:T13
+A13	Realis E573 Actual
+T14	Transaction_Transfer-Money 1455 1459	give
+E614	Transaction_Transfer-Money:T14
+A14	Realis E614 Other
+T15	Contact_Broadcast 812 824	announcement
+E653	Contact_Broadcast:T15
+A15	Realis E653 Actual
+T16	Personnel_End-Position 664 672	went out
+E702	Personnel_End-Position:T16
+A16	Realis E702 Actual
+T17	Contact_Broadcast 1101 1109	comments
+E720	Contact_Broadcast:T17
+A17	Realis E720 Actual
+T18	Personnel_End-Position 1625 1636	resignation
+E802	Personnel_End-Position:T18
+A18	Realis E802 Actual
+T19	Personnel_Elect 2540 2548	election
+E843	Personnel_Elect:T19
+A19	Realis E843 Other
+T20	Personnel_End-Position 992 1001	step down
+E883	Personnel_End-Position:T20
+A20	Realis E883 Other
+T21	Personnel_End-Position 1971 1977	former
+E937	Personnel_End-Position:T21
+A21	Realis E937 Actual

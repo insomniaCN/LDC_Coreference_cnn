@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea520000000000000021" doc_id="NYT_ENG_20130524.0064" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-852" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="319" length="10">nominating</trigger>
+      </event_mention>
+      <event_mention id="em-347" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="502" length="6">choice</trigger>
+      </event_mention>
+      <event_mention id="em-129" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="717" length="10">nomination</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-764" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="440" length="6">attack</trigger>
+      </event_mention>
+      <event_mention id="em-469" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="889" length="6">attack</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-599" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="901" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-232" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130524.0064" offset="985" length="5">email</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-779" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130524.0064" offset="1027" length="8">warnings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-58" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130524.0064" offset="1039" length="9">terrorism</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-326" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130524.0064" offset="2006" length="8">withdraw</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-307" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="1471" length="9">nominated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-169">
+      <event_mention id="em-827" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130524.0064" offset="1604" length="7">leaving</trigger>
+      </event_mention>
+      <event_mention id="em-346" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130524.0064" offset="1574" length="9">replacing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-184">
+      <event_mention id="em-331" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130524.0064" offset="1636" length="6">become</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-199">
+      <event_mention id="em-647" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="1880" length="7">retired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-214">
+      <event_mention id="em-274" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130524.0064" offset="415" length="7">talking</trigger>
+      </event_mention>
+      <event_mention id="em-755" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130524.0064" offset="834" length="7">talking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-242">
+      <event_mention id="em-620" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130524.0064" offset="531" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-257">
+      <event_mention id="em-815" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130524.0064" offset="538" length="11">spokeswoman</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-311">
+      <event_mention id="em-6" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130524.0064" offset="1574" length="9">replacing</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

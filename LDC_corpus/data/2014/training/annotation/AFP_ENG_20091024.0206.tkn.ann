@@ -1,0 +1,51 @@
+T1	Justice_Sentence 189 195	orders
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 196 204	flogging
+E2	Conflict_Attack:T2 
+A2	Realis E2 Other
+T3	Justice_Sentence 336 345	sentenced
+E3	Justice_Sentence:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 375 382;386 392	receive lashes
+E4	Conflict_Attack:T4 
+A4	Realis E4 Other
+T7	Justice_Acquit 549 556;561 568	dropped charges
+E7	Justice_Acquit:T7 
+A7	Realis E7 Actual
+T9	Justice_Arrest-Jail 755 767	imprisonment
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Actual
+T11	Justice_Sentence 813 822	sentenced
+E11	Justice_Sentence:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 833 839	lashes
+E12	Conflict_Attack:T12 
+A12	Realis E12 Other
+T19	Justice_Sentence 1250 1260	sentencing
+E19	Justice_Sentence:T19 
+A19	Realis E19 Actual
+T20	Justice_Convict 1315 1324	convicted
+E20	Justice_Convict:T20 
+A20	Realis E20 Actual
+T21	Justice_Sentence 1352 1361	sentenced
+E21	Justice_Sentence:T21 
+A21	Realis E21 Actual
+T22	Justice_Arrest-Jail 1376 1383	in jail
+E22	Justice_Arrest-Jail:T22 
+A22	Realis E22 Other
+T23	Conflict_Attack 1394 1400	lashes
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T29	Justice_Sentence 1607 1612;1624 1629	given terms
+E29	Justice_Sentence:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 1638 1644	lashes
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Justice_Sentence 1702 1711	sentenced
+E31	Justice_Sentence:T31 
+A31	Realis E31 Actual
+T32	Justice_Arrest-Jail 1726 1733	in jail
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Other

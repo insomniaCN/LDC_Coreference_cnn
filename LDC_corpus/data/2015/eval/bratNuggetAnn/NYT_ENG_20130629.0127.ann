@@ -1,0 +1,114 @@
+T1	Movement_Transport-Artifact 1191 1199	shipment
+E114	Movement_Transport-Artifact:T1
+A1	Realis E114 Generic
+T2	Personnel_Elect 2125 2132	elected
+E123	Personnel_Elect:T2
+A2	Realis E123 Actual
+T3	Justice_Charge-Indict 1799 1807	indicted
+E129	Justice_Charge-Indict:T3
+A3	Realis E129 Actual
+T4	Transaction_Transfer-Money 1394 1400	spread
+E132	Transaction_Transfer-Money:T4
+A4	Realis E132 Actual
+T5	Justice_Arrest-Jail 1627 1633	caught
+E143	Justice_Arrest-Jail:T5
+A5	Realis E143 Actual
+T6	Contact_Contact 976 980	said
+E144	Contact_Contact:T6
+A6	Realis E144 Actual
+T7	Contact_Contact 2199 2203	said
+E150	Contact_Contact:T7
+A7	Realis E150 Actual
+T8	Personnel_End-Position 1588 1593	ended
+E168	Personnel_End-Position:T8
+A8	Realis E168 Actual
+T9	Justice_Sentence 434 443	sentenced
+E210	Justice_Sentence:T9
+A9	Realis E210 Actual
+T10	Transaction_Transfer-Money 226 232	BRIBES
+E243	Transaction_Transfer-Money:T10
+A10	Realis E243 Actual
+T11	Justice_Sentence 196 200	GETS
+E285	Justice_Sentence:T11
+A11	Realis E285 Actual
+T12	Justice_Arrest-Jail 1728 1738	imprisoned
+E319	Justice_Arrest-Jail:T12
+A12	Realis E319 Actual
+T13	Justice_Arrest-Jail 2451 2459	arrested
+E320	Justice_Arrest-Jail:T13
+A13	Realis E320 Actual
+T14	Personnel_End-Position 2412 2415	was
+E337	Personnel_End-Position:T14
+A14	Realis E337 Actual
+T15	Justice_Sentence 2064 2072	sentence
+E367	Justice_Sentence:T15
+A15	Realis E367 Actual
+T16	Transaction_Transfer-Money 1159 1167	exchange
+E375	Transaction_Transfer-Money:T16
+A16	Realis E375 Actual
+T17	Transaction_Transfer-Money 615 621	bribes
+E378	Transaction_Transfer-Money:T17
+A17	Realis E378 Actual
+T18	Personnel_End-Position 2535 2541	former
+E384	Personnel_End-Position:T18
+A18	Realis E384 Actual
+T19	Contact_Broadcast 1863 1867	said
+E414	Contact_Broadcast:T19
+A19	Realis E414 Actual
+T20	Movement_Transport-Person 1606 1617	disappeared
+E550	Movement_Transport-Person:T20
+A20	Realis E550 Actual
+T21	Personnel_End-Position 406 412	former
+E559	Personnel_End-Position:T21
+A21	Realis E559 Actual
+T22	Justice_Convict 1674 1683	convicted
+E591	Justice_Convict:T22
+A22	Realis E591 Actual
+T23	Movement_Transport-Person 1748 1758	extradited
+E630	Movement_Transport-Person:T23
+A23	Realis E630 Actual
+T24	Contact_Contact 1331 1335	said
+E691	Contact_Contact:T24
+A24	Realis E691 Actual
+T25	Justice_Extradite 1748 1758	extradited
+E713	Justice_Extradite:T25
+A25	Realis E713 Actual
+T26	Justice_Arrest-Jail 473 479	prison
+E715	Justice_Arrest-Jail:T26
+A26	Realis E715 Other
+T27	Movement_Transport-Artifact 642 646	move
+E716	Movement_Transport-Artifact:T27
+A27	Realis E716 Generic
+T28	Personnel_End-Position 2306 2312	former
+E720	Personnel_End-Position:T28
+A28	Realis E720 Generic
+T29	Transaction_Transfer-Money 2486 2496	embezzling
+E739	Transaction_Transfer-Money:T29
+A29	Realis E739 Other
+T30	Movement_Transport-Artifact 1247 1256	shipments
+E753	Movement_Transport-Artifact:T30
+A30	Realis E753 Generic
+T31	Movement_Transport-Artifact 1210 1221	Traffickers
+E764	Movement_Transport-Artifact:T31
+A31	Realis E764 Generic
+T32	Transaction_Transfer-Ownership 1940 1946	seized
+E794	Transaction_Transfer-Ownership:T32
+A32	Realis E794 Actual
+T33	Justice_Arrest-Jail 2178 2190	incarcerated
+E797	Justice_Arrest-Jail:T33
+A33	Realis E797 Other
+T34	Justice_Charge-Indict 548 554	charge
+E808	Justice_Charge-Indict:T34
+A34	Realis E808 Actual
+T35	Movement_Transport-Artifact 1235 1241	unload
+E861	Movement_Transport-Artifact:T35
+A35	Realis E861 Generic
+T36	Personnel_End-Position 172 178	FORMER
+E904	Personnel_End-Position:T36
+A36	Realis E904 Actual
+T37	Personnel_Start-Position 696 704	becoming
+E906	Personnel_Start-Position:T37
+A37	Realis E906 Actual
+T38	Movement_Transport-Artifact 1075 1084	transport
+E912	Movement_Transport-Artifact:T38
+A38	Realis E912 Generic

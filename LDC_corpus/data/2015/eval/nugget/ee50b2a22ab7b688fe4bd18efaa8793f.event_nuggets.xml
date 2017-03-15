@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab90000000000000200" doc_id="ee50b2a22ab7b688fe4bd18efaa8793f" source_type="multi_post">
+  <event_mention id="em-10" type="life" subtype="die" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="548" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-16" type="justice" subtype="releaseparole" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1384" length="5">Freed</trigger>
+  </event_mention>
+  <event_mention id="em-19" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="353" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-45" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="657" length="9">kidnapped</trigger>
+  </event_mention>
+  <event_mention id="em-69" type="life" subtype="die" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="916" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-74" type="life" subtype="die" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1145" length="8">murderer</trigger>
+  </event_mention>
+  <event_mention id="em-89" type="personnel" subtype="endposition" realis="other">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2951" length="4">fire</trigger>
+  </event_mention>
+  <event_mention id="em-119" type="justice" subtype="sentence" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="944" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-124" type="justice" subtype="convict" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1084" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-167" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="224" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-175" type="justice" subtype="convict" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1376" length="7">Convict</trigger>
+  </event_mention>
+  <event_mention id="em-180" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1145" length="8">murderer</trigger>
+  </event_mention>
+  <event_mention id="em-182" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="840" length="10">extradited</trigger>
+  </event_mention>
+  <event_mention id="em-212" type="justice" subtype="releaseparole" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2989" length="4">free</trigger>
+  </event_mention>
+  <event_mention id="em-259" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="702" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-272" type="justice" subtype="trialhearing" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1839" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-273" type="justice" subtype="convict" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="862" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-279" type="justice" subtype="extradite" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="840" length="10">extradited</trigger>
+  </event_mention>
+  <event_mention id="em-297" type="justice" subtype="appeal" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2667" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-333" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1179" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-334" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="973" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-408" type="justice" subtype="appeal" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1061" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-417" type="justice" subtype="releaseparole" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="254" length="4">free</trigger>
+  </event_mention>
+  <event_mention id="em-546" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="174" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-582" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="548" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-586" type="life" subtype="die" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="224" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-602" type="justice" subtype="trialhearing" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2139" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-633" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1413" length="5">Trial</trigger>
+  </event_mention>
+  <event_mention id="em-660" type="conflict" subtype="attack" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="875" length="10">kidnapping</trigger>
+  </event_mention>
+  <event_mention id="em-682" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="875" length="10">kidnapping</trigger>
+  </event_mention>
+  <event_mention id="em-695" type="conflict" subtype="attack" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="916" length="6">murder</trigger>
+  </event_mention>
+  <event_mention id="em-698" type="life" subtype="die" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="532" length="9">execution</trigger>
+  </event_mention>
+  <event_mention id="em-699" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="603" length="4">debt</trigger>
+  </event_mention>
+  <event_mention id="em-707" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="1488" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-740" type="life" subtype="injure" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="680" length="6">beaten</trigger>
+  </event_mention>
+  <event_mention id="em-742" type="justice" subtype="convict" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2690" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-779" type="justice" subtype="appeal" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="303" length="9">appellate</trigger>
+  </event_mention>
+  <event_mention id="em-780" type="life" subtype="die" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2751" length="8">murderer</trigger>
+  </event_mention>
+  <event_mention id="em-807" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="3007" length="4">hold</trigger>
+  </event_mention>
+  <event_mention id="em-811" type="justice" subtype="execute" realis="generic">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="532" length="9">execution</trigger>
+  </event_mention>
+  <event_mention id="em-819" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="680" length="6">beaten</trigger>
+  </event_mention>
+  <event_mention id="em-821" type="justice" subtype="convict" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="271" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-879" type="life" subtype="die" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="702" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-887" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="852" length="5">tried</trigger>
+  </event_mention>
+  <event_mention id="em-889" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2751" length="8">murderer</trigger>
+  </event_mention>
+  <event_mention id="em-912" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="2785" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-997" type="conflict" subtype="attack" realis="actual">
+    <trigger source="ee50b2a22ab7b688fe4bd18efaa8793f" offset="657" length="9">kidnapped</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

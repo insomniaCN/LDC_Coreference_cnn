@@ -1,0 +1,63 @@
+T1	Justice_Extradite 72 82	extradites
+E1	Justice_Extradite:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 83 86	war
+E2	Conflict_Attack:T2 
+A2	Realis E2 Generic
+T3	Life_Die 256 265	murdering
+E3	Life_Die:T3 
+A3	Realis E3 Other
+T4	Conflict_Attack 268 274	raping
+E4	Conflict_Attack:T4 
+A4	Realis E4 Other
+T5	Conflict_Attack 279 288	torturing
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 326 329	war
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Justice_Extradite 334 344	extradited
+E7	Justice_Extradite:T7 
+A7	Realis E7 Actual
+T8	Justice_Trial-Hearing 375 380	trial
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Other
+T9	Justice_Extradite 417 427	extradited
+E9	Justice_Extradite:T9 
+A9	Realis E9 Actual
+T10	Justice_Arrest-Jail 458 466	arrested
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Ownership 484 491	robbery
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 496 503	assault
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Life_Die 679 687	killings
+E13	Life_Die:T13 
+A13	Realis E13 Other
+T14	Conflict_Attack 718 726	fighting
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 760 763	war
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Justice_Extradite 820 831	extradition
+E16	Justice_Extradite:T16 
+A16	Realis E16 Actual
+T17	Justice_Charge-Indict 898 905	charges
+E17	Justice_Charge-Indict:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 925 932	robbery
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 936 939	war
+E19	Conflict_Attack:T19 
+A19	Realis E19 Generic
+T20	Justice_Arrest-Jail 975 981	jailed
+E20	Justice_Arrest-Jail:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 1034 1041	escaped
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Actual

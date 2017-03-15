@@ -1,0 +1,84 @@
+T1	Contact_Meet 192 200	question
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Life_Die 227 233	deaths
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 353 363	questioned
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 388 396	detained
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Life_Die 427 434	killing
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 515 525	questioned
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T7	Contact_Meet 544 554	questioned
+E7	Contact_Meet:T7 
+A7	Realis E7 Other
+T9	Justice_Charge-Indict 673 680	charged
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Other
+T10	Justice_Arrest-Jail 718 726	detained
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Actual
+T11	Life_Die 917 921	dead
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Justice_Arrest-Jail 961 967	arrest
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Actual
+T13	Justice_Extradite 1078 1088	extradited
+E13	Justice_Extradite:T13 
+A13	Realis E13 Actual
+T15	Justice_Charge-Indict 1127 1134	charges
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Actual
+T17	Life_Die 1226 1234	lifeless
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Contact_Communicate 1286 1291	asked
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T19	Contact_Communicate 1318 1322	call
+E19	Contact_Communicate:T19 
+A19	Realis E19 Other
+T20	Life_Die 1423 1428	death
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T22	Conflict_Attack 1504 1512	violence
+E22	Conflict_Attack:T22 
+A22	Realis E22 Other
+T23	Conflict_Attack 1566 1576	suffocated
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T25	Contact_Communicate 1660 1664;1667 1671	left note
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T31	Movement_Transport-Person 1859 1867	arriving
+E31	Movement_Transport-Person:T31 
+A31	Realis E31 Actual
+T32	Transaction_Transfer-Money 1879 1883	paid
+E32	Transaction_Transfer-Money:T32 
+A32	Realis E32 Actual
+T35	Justice_Arrest-Jail 2161 2169	arrested
+E35	Justice_Arrest-Jail:T35 
+A35	Realis E35 Actual
+T37	Conflict_Attack 2488 2492	rape
+E37	Conflict_Attack:T37 
+A37	Realis E37 Actual
+T38	Conflict_Attack 2574 2581	assault
+E38	Conflict_Attack:T38 
+A38	Realis E38 Actual
+T39	Conflict_Attack 2615 2619	rape
+E39	Conflict_Attack:T39 
+A39	Realis E39 Other
+T41	Justice_Arrest-Jail 2719 2727	remanded
+E41	Justice_Arrest-Jail:T41 
+A41	Realis E41 Actual
+T43	Movement_Transport-Person 2962 2969	visited
+E43	Movement_Transport-Person:T43 
+A43	Realis E43 Generic

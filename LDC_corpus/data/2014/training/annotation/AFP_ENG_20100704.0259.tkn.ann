@@ -1,0 +1,57 @@
+T1	Justice_Arrest-Jail 206 212	jailed
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 433 439	jailed
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 894 901	meeting
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 1171 1179	arrested
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 1184 1190	jailed
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 1417 1423	jailed
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 1505 1512	charges
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 1593 1600	arrests
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 1669 1676	charges
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 1959 1967	visiting
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Movement_Transport-Person 2016 2020	tour
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 2079 2087	visiting
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Justice_Arrest-Jail 1876 1883	jailing
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 735 743;749 756	received letters
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Contact_Meet 841 849	meetings
+E15	Contact_Meet:T15 
+A15	Realis E15 Actual
+T16	Personnel_Elect 987 996	elections
+E16	Personnel_Elect:T16 
+A16	Realis E16 Generic
+T17	Conflict_Attack 1526 1533	scuffle
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Movement_Transport-Person 2130 2133;2147 2149	due in
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other
+T19	Justice_Charge-Indict 1206 1213	charges
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Actual

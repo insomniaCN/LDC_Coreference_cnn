@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589763f0000000000000034" doc_id="APW_ENG_20090829.0063" source_type="newswire">
+<event_mention id="em-24" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="338" length="4">died</trigger>
+      </event_mention>
+<event_mention id="em-37" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="94" length="4">dies</trigger>
+      </event_mention>
+<event_mention id="em-50" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="483" length="4">died</trigger>
+      </event_mention>
+<event_mention id="em-63" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="761" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-76" type="business" subtype="startorg" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="942" length="7">founded</trigger>
+      </event_mention>
+<event_mention id="em-89" type="business" subtype="startorg" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="299" length="8">founding</trigger>
+      </event_mention>
+<event_mention id="em-102" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="836" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-115" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20090829.0063" offset="999" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-128" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="1159" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-141" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="1261" length="12">stepped down</trigger>
+      </event_mention>
+<event_mention id="em-154" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="1338" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-167" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20090829.0063" offset="412" length="9">statement</trigger>
+      </event_mention>
+<event_mention id="em-180" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="58" length="2">Ex</trigger>
+      </event_mention>
+<event_mention id="em-195" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20090829.0063" offset="272" length="6">making</trigger>
+      </event_mention>
+<event_mention id="em-210" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="663" length="4">loss</trigger>
+      </event_mention>
+<event_mention id="em-223" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="836" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-238" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="882" length="6">worked</trigger>
+      </event_mention>
+<event_mention id="em-253" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="882" length="6">worked</trigger>
+      </event_mention>
+<event_mention id="em-268" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20090829.0063" offset="882" length="6">worked</trigger>
+      </event_mention>
+<event_mention id="em-283" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20090829.0063" offset="1119" length="10">fundraiser</trigger>
+      </event_mention>
+<event_mention id="em-298" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20090829.0063" offset="1211" length="10">fundraiser</trigger>
+      </event_mention>
+<event_mention id="em-311" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20090829.0063" offset="1609" length="5">donor</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

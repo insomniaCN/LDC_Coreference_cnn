@@ -1,0 +1,63 @@
+T1	Contact_Meet 169 175	Summit
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Contact_Meet 197 204	discuss
+E2	Contact_Meet:T2 
+A2	Realis E2 Generic
+T3	Contact_Meet 340 346	Summit
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Contact_Meet 410 424	exchange views
+E4	Contact_Meet:T4 
+A4	Realis E4 Other
+T5	Contact_Meet 662 668	summit
+E5	Contact_Meet:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 710 717	discuss
+E6	Contact_Meet:T6 
+A6	Realis E6 Other
+T7	Contact_Meet 794 800	shared
+E7	Contact_Meet:T7 
+A7	Realis E7 Actual
+T8	Contact_Meet 863 872	discussed
+E8	Contact_Meet:T8 
+A8	Realis E8 Actual
+T9	Contact_Meet 1219 1225	summit
+E9	Contact_Meet:T9 
+A9	Realis E9 Actual
+T10	Business_Start-Org 1344 1355	Established
+E10	Business_Start-Org:T10 
+A10	Realis E10 Actual
+T11	Contact_Meet 1516 1522;1593 1597	Summit held
+E11	Contact_Meet:T11 
+A11	Realis E11 Actual
+T12	Contact_Meet 1797 1803	summit
+E12	Contact_Meet:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 157 166	Interview
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 589 593	said
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 615 624	interview
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 753 757	said
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 985 989	said
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T18	Contact_Meet 1015 1021	agreed
+E18	Contact_Meet:T18 
+A18	Realis E18 Actual
+T19	Contact_Communicate 1115 1119	said
+E19	Contact_Communicate:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 1147 1151	said
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual
+T21	Contact_Communicate 1238 1242	said
+E21	Contact_Communicate:T21 
+A21	Realis E21 Actual

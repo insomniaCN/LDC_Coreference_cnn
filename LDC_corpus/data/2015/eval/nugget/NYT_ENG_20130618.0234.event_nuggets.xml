@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea580000000000000031" doc_id="NYT_ENG_20130618.0234" source_type="newswire">
+  <event_mention id="em-13" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1404" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-114" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2274" length="9">kidnapped</trigger>
+  </event_mention>
+  <event_mention id="em-128" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1482" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-159" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130618.0234" offset="2568" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-174" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="266" length="10">kidnapping</trigger>
+  </event_mention>
+  <event_mention id="em-183" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1461" length="10">kidnapping</trigger>
+  </event_mention>
+  <event_mention id="em-216" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130618.0234" offset="1769" length="8">appeared</trigger>
+  </event_mention>
+  <event_mention id="em-219" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130618.0234" offset="2989" length="6">called</trigger>
+  </event_mention>
+  <event_mention id="em-220" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2608" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-288" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130618.0234" offset="4131" length="7">reached</trigger>
+  </event_mention>
+  <event_mention id="em-289" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130618.0234" offset="512" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-353" type="justice" subtype="extradite" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="3045" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-420" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2274" length="9">kidnapped</trigger>
+  </event_mention>
+  <event_mention id="em-422" type="justice" subtype="extradite" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1339" length="9">extradite</trigger>
+  </event_mention>
+  <event_mention id="em-444" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2769" length="7">custody</trigger>
+  </event_mention>
+  <event_mention id="em-447" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1461" length="10">kidnapping</trigger>
+  </event_mention>
+  <event_mention id="em-519" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="1383" length="6">jailed</trigger>
+  </event_mention>
+  <event_mention id="em-524" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1314" length="9">apprehend</trigger>
+  </event_mention>
+  <event_mention id="em-538" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="266" length="10">kidnapping</trigger>
+  </event_mention>
+  <event_mention id="em-630" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2353" length="5">bound</trigger>
+  </event_mention>
+  <event_mention id="em-661" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2846" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-723" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="591" length="8">arriving</trigger>
+  </event_mention>
+  <event_mention id="em-750" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="1339" length="9">extradite</trigger>
+  </event_mention>
+  <event_mention id="em-761" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130618.0234" offset="850" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-793" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="1224" length="7">arrival</trigger>
+  </event_mention>
+  <event_mention id="em-806" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130618.0234" offset="559" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-835" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130618.0234" offset="1693" length="7">remarks</trigger>
+  </event_mention>
+  <event_mention id="em-841" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="3011" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-871" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130618.0234" offset="2907" length="9">demanding</trigger>
+  </event_mention>
+  <event_mention id="em-905" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2865" length="9">showed up</trigger>
+  </event_mention>
+  <event_mention id="em-908" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="2591" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-938" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130618.0234" offset="304" length="10">absconding</trigger>
+  </event_mention>
+  <event_mention id="em-956" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="3045" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-967" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130618.0234" offset="1443" length="7">charges</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

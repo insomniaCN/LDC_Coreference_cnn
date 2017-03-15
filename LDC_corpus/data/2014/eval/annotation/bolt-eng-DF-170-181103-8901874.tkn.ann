@@ -1,0 +1,141 @@
+T1	Conflict_Attack 425 429	shot
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+A2	Questionable E1 Type
+T2	Personnel_Start-Position 777 785	becoming
+E2	Personnel_Start-Position:T2 
+A3	Realis E2 Actual
+T3	Conflict_Attack 887 895	shooting
+E3	Conflict_Attack:T3 
+A4	Realis E3 Actual
+T5	Transaction_Transfer-Money 2659 2671	expenditures
+E5	Transaction_Transfer-Money:T5 
+A7	Realis E5 Actual
+T7	Transaction_Transfer-Money 4053 4065	expenditures
+E7	Transaction_Transfer-Money:T7 
+A9	Realis E7 Actual
+T8	Life_Die 5238 5244	killed
+E8	Life_Die:T8 
+A10	Realis E8 Actual
+T9	Justice_Convict 7572 7581	convicted
+E9	Justice_Convict:T9 
+A11	Realis E9 Generic
+T10	Justice_Convict 7745 7754	convicted
+E10	Justice_Convict:T10 
+A12	Realis E10 Generic
+T11	Transaction_Transfer-Ownership 7603 7606	buy
+E11	Transaction_Transfer-Ownership:T11 
+A13	Realis E11 Generic
+T12	Transaction_Transfer-Ownership 7776 7779	buy
+E12	Transaction_Transfer-Ownership:T12 
+A14	Realis E12 Generic
+T13	Justice_Convict 7971 7980	convicted
+E13	Justice_Convict:T13 
+A15	Realis E13 Generic
+T14	Transaction_Transfer-Ownership 8002 8005	buy
+E14	Transaction_Transfer-Ownership:T14 
+A16	Realis E14 Generic
+T15	Justice_Convict 8070 8079	convicted
+E15	Justice_Convict:T15 
+A17	Realis E15 Generic
+T16	Justice_Convict 9739 9748	convicted
+E16	Justice_Convict:T16 
+A18	Realis E16 Generic
+T17	Justice_Convict 9836 9846	conviction
+E17	Justice_Convict:T17 
+A19	Realis E17 Generic
+T18	Justice_Convict 10019 10029	conviction
+E18	Justice_Convict:T18 
+A20	Realis E18 Generic
+T19	Justice_Convict 10139 10148	convicted
+E19	Justice_Convict:T19 
+A21	Realis E19 Generic
+T20	Justice_Convict 10590 10600	conviction
+E20	Justice_Convict:T20 
+A22	Realis E20 Generic
+T21	Justice_Convict 10710 10719	convicted
+E21	Justice_Convict:T21 
+A23	Realis E21 Generic
+T22	Justice_Convict 11681 11690	convicted
+E22	Justice_Convict:T22 
+A24	Realis E22 Generic
+T23	Justice_Convict 11778 11788	conviction
+E23	Justice_Convict:T23 
+A25	Realis E23 Generic
+T24	Justice_Charge-Indict 14501 14507	charge
+E24	Justice_Charge-Indict:T24 
+A26	Realis E24 Generic
+T25	Justice_Convict 14521 14531	conviction
+E25	Justice_Convict:T25 
+A27	Realis E25 Generic
+T26	Transaction_Transfer-Ownership 14564 14574	purchasing
+E26	Transaction_Transfer-Ownership:T26 
+A28	Realis E26 Generic
+T27	Justice_Convict 15265 15274	convicted
+E27	Justice_Convict:T27 
+A29	Realis E27 Generic
+T28	Transaction_Transfer-Ownership 15296 15299	buy
+E28	Transaction_Transfer-Ownership:T28 
+A30	Realis E28 Generic
+T29	Justice_Convict 15362 15372	conviction
+E29	Justice_Convict:T29 
+A31	Realis E29 Generic
+T30	Transaction_Transfer-Ownership 15623 15632	purchases
+E30	Transaction_Transfer-Ownership:T30 
+A32	Realis E30 Generic
+T31	Justice_Convict 15701 15710	convicted
+E31	Justice_Convict:T31 
+A33	Realis E31 Generic
+T32	Transaction_Transfer-Money 15990 15995;16002 16006	funds used
+E32	Transaction_Transfer-Money:T32 
+A34	Questionable E32 Mention
+A35	Realis E32 Actual
+T33	Life_Die 16143 16149	deaths
+E33	Life_Die:T33 
+A36	Realis E33 Actual
+T34	Justice_Charge-Indict 16253 16264	impeachment
+E34	Justice_Charge-Indict:T34 
+A37	Realis E34 Other
+T35	Transaction_Transfer-Money 16865 16870;16877 16881	funds used
+E35	Transaction_Transfer-Money:T35 
+A38	Questionable E35 Mention
+A39	Realis E35 Actual
+T36	Life_Die 17018 17024	deaths
+E36	Life_Die:T36 
+A40	Realis E36 Actual
+T37	Justice_Charge-Indict 17128 17139	impeachment
+E37	Justice_Charge-Indict:T37 
+A41	Realis E37 Other
+T38	Conflict_Attack 3150 3159	shootings
+E38	Conflict_Attack:T38 
+A42	Realis E38 Actual
+T39	Conflict_Attack 4544 4553	shootings
+E39	Conflict_Attack:T39 
+A43	Realis E39 Actual
+T40	Personnel_Elect 2460 2468	Election
+E40	Personnel_Elect:T40 
+A44	Realis E40 Generic
+T41	Personnel_Elect 2876 2884	election
+E41	Personnel_Elect:T41 
+A45	Realis E41 Actual
+T4	Personnel_Elect 3854 3862	Election
+E4	Personnel_Elect:T4 
+A5	Realis E4 Generic
+T6	Personnel_Elect 4270 4278	election
+E6	Personnel_Elect:T6 
+A6	Realis E6 Actual
+T42	Personnel_Start-Position 5477 5483;5492 5496	create jobs
+E42	Personnel_Start-Position:T42 
+A8	Realis E42 Generic
+T43	Transaction_Transfer-Ownership 9770 9773	buy
+E43	Transaction_Transfer-Ownership:T43 
+A46	Realis E43 Generic
+T44	Transaction_Transfer-Ownership 11712 11715	buy
+E44	Transaction_Transfer-Ownership:T44 
+A47	Realis E44 Generic
+T45	Justice_Charge-Indict 13607 13613	counts
+E45	Justice_Charge-Indict:T45 
+A48	Realis E45 Other
+T46	Justice_Charge-Indict 14153 14159	counts
+E46	Justice_Charge-Indict:T46 
+A49	Realis E46 Other

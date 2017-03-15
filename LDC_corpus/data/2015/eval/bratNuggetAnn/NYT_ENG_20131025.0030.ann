@@ -1,0 +1,144 @@
+T1	Contact_Contact 759 770	discussions
+E30	Contact_Contact:T1
+A1	Realis E30 Actual
+T2	Business_Merge-Org 3348 3352	made
+E41	Business_Merge-Org:T2
+A2	Realis E41 Generic
+T3	Personnel_End-Position 3207 3218	jumped ship
+E57	Personnel_End-Position:T3
+A3	Realis E57 Actual
+T4	Contact_Contact 349 354	talks
+E76	Contact_Contact:T4
+A4	Realis E76 Actual
+T5	Business_End-Org 2942 2951	collapsed
+E84	Business_End-Org:T5
+A5	Realis E84 Actual
+T6	Business_Merge-Org 206 212	MERGER
+E112	Business_Merge-Org:T6
+A6	Realis E112 Other
+T7	Transaction_Transaction 1049 1053	deal
+E121	Transaction_Transaction:T7
+A7	Realis E121 Other
+T8	Contact_Broadcast 1266 1274	reported
+E141	Contact_Broadcast:T8
+A8	Realis E141 Actual
+T9	Business_Merge-Org 2051 2064	joined forces
+E176	Business_Merge-Org:T9
+A9	Realis E176 Actual
+T10	Business_Merge-Org 3224 3230	merger
+E189	Business_Merge-Org:T10
+A10	Realis E189 Other
+T11	Business_Merge-Org 2604 2612	combined
+E228	Business_Merge-Org:T11
+A11	Realis E228 Generic
+T12	Business_Start-Org 3582 3589	started
+E246	Business_Start-Org:T12
+A12	Realis E246 Actual
+T13	Contact_Contact 3291 3297	talked
+E288	Contact_Contact:T13
+A13	Realis E288 Generic
+T14	Transaction_Transfer-Money 2582 2594	compensation
+E313	Transaction_Transfer-Money:T14
+A14	Realis E313 Generic
+T15	Business_Merge-Org 342 348	merger
+E347	Business_Merge-Org:T15
+A15	Realis E347 Other
+T16	Personnel_End-Position 3007 3017	defections
+E368	Personnel_End-Position:T16
+A16	Realis E368 Actual
+T17	Contact_Contact 2416 2421	talks
+E382	Contact_Contact:T17
+A17	Realis E382 Generic
+T18	Transaction_Transaction 2231 2235	deal
+E386	Transaction_Transaction:T18
+A18	Realis E386 Other
+T19	Transaction_Transaction 2545 2549	deal
+E397	Transaction_Transaction:T19
+A19	Realis E397 Generic
+T20	Business_Merge-Org 3121 3132	combination
+E403	Business_Merge-Org:T20
+A20	Realis E403 Other
+T21	Contact_Broadcast 903 912	statement
+E406	Contact_Broadcast:T21
+A21	Realis E406 Actual
+T22	Business_Merge-Org 2757 2763	merger
+E439	Business_Merge-Org:T22
+A22	Realis E439 Actual
+T23	Contact_Contact 921 926	talks
+E452	Contact_Contact:T23
+A23	Realis E452 Actual
+T24	Contact_Contact 523 534	discussions
+E555	Contact_Contact:T24
+A24	Realis E555 Actual
+T25	Transaction_Transaction 382 386	deal
+E568	Transaction_Transaction:T25
+A25	Realis E568 Other
+T26	Business_Merge-Org 1823 1830	mergers
+E611	Business_Merge-Org:T26
+A26	Realis E611 Actual
+T27	Business_Merge-Org 1695 1702	mergers
+E632	Business_Merge-Org:T27
+A27	Realis E632 Generic
+T28	Business_Merge-Org 2835 2841	merger
+E635	Business_Merge-Org:T28
+A28	Realis E635 Actual
+T29	Transaction_Transfer-Ownership 2190 2197	acquire
+E684	Transaction_Transfer-Ownership:T29
+A29	Realis E684 Other
+T30	Business_Merge-Org 430 441	combination
+E707	Business_Merge-Org:T30
+A30	Realis E707 Other
+T31	Contact_Contact 1029 1034	talks
+E710	Contact_Contact:T31
+A31	Realis E710 Actual
+T32	Contact_Contact 213 218	TALKS
+E723	Contact_Contact:T32
+A32	Realis E723 Actual
+T33	Personnel_End-Position 2488 2498	defections
+E742	Personnel_End-Position:T33
+A33	Realis E742 Generic
+T34	Transaction_Transaction 2641 2646	deals
+E764	Transaction_Transaction:T34
+A34	Realis E764 Generic
+T35	Contact_Contact 2181 2186	talks
+E774	Contact_Contact:T35
+A35	Realis E774 Actual
+T36	Business_Merge-Org 2311 2318	mergers
+E792	Business_Merge-Org:T36
+A36	Realis E792 Generic
+T37	Business_Merge-Org 1185 1191	merger
+E813	Business_Merge-Org:T37
+A37	Realis E813 Generic
+T38	Business_Merge-Org 2906 2914	combined
+E834	Business_Merge-Org:T38
+A38	Realis E834 Actual
+T39	Business_Merge-Org 2409 2415	merger
+E836	Business_Merge-Org:T39
+A39	Realis E836 Generic
+T40	Business_Merge-Org 1296 1303	Mergers
+E856	Business_Merge-Org:T40
+A40	Realis E856 Generic
+T41	Transaction_Transaction 3407 3411	deal
+E860	Transaction_Transaction:T41
+A41	Realis E860 Other
+T42	Business_Declare-Bankruptcy 2955 2965	bankruptcy
+E871	Business_Declare-Bankruptcy:T42
+A42	Realis E871 Actual
+T43	Contact_Contact 3231 3236	talks
+E879	Contact_Contact:T43
+A43	Realis E879 Actual
+T44	Business_Merge-Org 788 799	combination
+E892	Business_Merge-Org:T44
+A44	Realis E892 Other
+T45	Business_Merge-Org 1722 1733	combination
+E918	Business_Merge-Org:T45
+A45	Realis E918 Other
+T46	Contact_Contact 3395 3404	discussed
+E932	Contact_Contact:T46
+A46	Realis E932 Actual
+T47	Transaction_Transaction 3164 3168	deal
+E962	Transaction_Transaction:T47
+A47	Realis E962 Other
+T48	Business_Merge-Org 3672 3678	merger
+E993	Business_Merge-Org:T48
+A48	Realis E993 Other

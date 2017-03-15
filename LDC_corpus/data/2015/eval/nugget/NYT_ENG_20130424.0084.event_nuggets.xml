@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea440000000000000001" doc_id="NYT_ENG_20130424.0084" source_type="newswire">
+  <event_mention id="em-2" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="1684" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-22" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="512" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-72" type="justice" subtype="chargeindict" realis="other">
+    <trigger source="NYT_ENG_20130424.0084" offset="669" length="8">indicted</trigger>
+  </event_mention>
+  <event_mention id="em-112" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="198" length="7">ASSERTS</trigger>
+  </event_mention>
+  <event_mention id="em-166" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="2105" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-202" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="1390" length="6">posted</trigger>
+  </event_mention>
+  <event_mention id="em-205" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="219" length="5">TRIAL</trigger>
+  </event_mention>
+  <event_mention id="em-246" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="2351" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-314" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="519" length="8">streamed</trigger>
+  </event_mention>
+  <event_mention id="em-335" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="1084" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-373" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="1817" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-443" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="1129" length="10">statements</trigger>
+  </event_mention>
+  <event_mention id="em-479" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+    <trigger source="NYT_ENG_20130424.0084" offset="1830" length="10">embezzling</trigger>
+  </event_mention>
+  <event_mention id="em-520" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="893" length="7">request</trigger>
+  </event_mention>
+  <event_mention id="em-523" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="2682" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-596" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="756" length="2">It</trigger>
+  </event_mention>
+  <event_mention id="em-663" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="2400" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-704" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="433" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-745" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="1348" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-750" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="976" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-778" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="2503" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-780" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="420" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-813" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130424.0084" offset="1186" length="5">spoke</trigger>
+  </event_mention>
+  <event_mention id="em-840" type="justice" subtype="convict" realis="other">
+    <trigger source="NYT_ENG_20130424.0084" offset="484" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-841" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="350" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-897" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="1596" length="11">prosecution</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="709" length="2">it</trigger>
+  </event_mention>
+  <event_mention id="em-991" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130424.0084" offset="1036" length="8">appealed</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

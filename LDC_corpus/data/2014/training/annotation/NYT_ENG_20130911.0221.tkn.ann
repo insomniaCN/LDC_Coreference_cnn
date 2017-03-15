@@ -1,0 +1,111 @@
+T1	Justice_Execute 218 231	DEATH PENALTY
+E1	Justice_Execute:T1 
+A1	Realis E1 Other
+T2	Justice_Execute 339 352	death penalty
+E2	Justice_Execute:T2 
+A2	Realis E2 Other
+T3	Justice_Execute 558 572	death sentence
+E3	Justice_Execute:T3 
+A3	Realis E3 Other
+T4	Conflict_Attack 610 614	rape
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Die 619 625	murder
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Justice_Sentence 931 941	sentencing
+E6	Justice_Sentence:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 964 970	attack
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Justice_Convict 1037 1046	convicted
+E8	Justice_Convict:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 1058 1065	charges
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Justice_Execute 1198 1204	hanged
+E10	Justice_Execute:T10 
+A10	Realis E10 Other
+T11	Life_Die 1248 1252	died
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Life_Injure 1260 1268	injuries
+E12	Life_Injure:T12 
+A12	Realis E12 Actual
+T13	Life_Die 1385 1390	death
+E13	Life_Die:T13 
+A13	Realis E13 Other
+T14	Justice_Execute 1666 1674	executed
+E14	Justice_Execute:T14 
+A14	Realis E14 Other
+T15	Justice_Execute 1743 1749	hanged
+E15	Justice_Execute:T15 
+A15	Realis E15 Other
+T16	Movement_Transport-Person 1953 1962	returning
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Actual
+T18	Conflict_Attack 2158 2166	attacked
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Life_Injure 2178 2185;2206 2217	knocked unconscious
+E19	Life_Injure:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 2222 2226	took
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 2264 2269	raped
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Life_Die 2388 2392	died
+E22	Life_Die:T22 
+A22	Realis E22 Actual
+T23	Life_Injure 2416 2424	injuries
+E23	Life_Injure:T23 
+A23	Realis E23 Actual
+T24	Life_Die 2522 2528	hanged
+E24	Life_Die:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 2643 2648	abuse
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Justice_Sentence 2851 2860	sentenced
+E26	Justice_Sentence:T26 
+A26	Realis E26 Actual
+T27	Justice_Sentence 2933 2941	sentence
+E27	Justice_Sentence:T27 
+A27	Realis E27 Generic
+T28	Movement_Transport-Person 2319 2328;2333 2341	dumped on roadside
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Actual
+T29	Conflict_Attack 241 245	RAPE
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Justice_Sentence 1150 1158	sentence
+E30	Justice_Sentence:T30 
+A30	Realis E30 Other
+T31	Conflict_Demonstrate 1302 1309;1314 1321	flooded streets
+E31	Conflict_Demonstrate:T31 
+A31	Realis E31 Actual
+T32	Justice_Execute 1374 1378	hung
+E32	Justice_Execute:T32 
+A32	Realis E32 Other
+T33	Life_Die 1577 1582	dying
+E33	Life_Die:T33 
+A33	Realis E33 Actual
+T34	Life_Injure 1908 1914	burned
+E34	Life_Injure:T34 
+A34	Realis E34 Other
+T17	Life_Injure 2354 2362	bleeding
+E17	Life_Injure:T17 
+A17	Realis E17 Actual
+T35	Movement_Transport-Person 2476 2483	driving
+E35	Movement_Transport-Person:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 2512 2519	assault
+E36	Conflict_Attack:T36 
+A36	Realis E36 Actual
+T37	Life_Die 2738 2746	murdered
+E37	Life_Die:T37 
+A37	Realis E37 Actual

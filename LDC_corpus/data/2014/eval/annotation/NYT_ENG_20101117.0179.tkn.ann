@@ -1,0 +1,116 @@
+T1	Justice_Acquit 76 83	ACQUITS
+E1	Justice_Acquit:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 119 126	CHARGES
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Justice_Trial-Hearing 199 204	tried
+E3	Justice_Trial-Hearing:T3 
+A3	Realis E3 Actual
+T4	Justice_Acquit 230 239	acquitted
+E4	Justice_Acquit:T4 
+A4	Realis E4 Actual
+T5	Justice_Charge-Indict 283 290	charges
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 338 346	bombings
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Justice_Trial-Hearing 506 512	trying
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Generic
+T8	Justice_Trial-Hearing 648 654	trying
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Generic
+T9	Justice_Convict 731 740	convicted
+E9	Justice_Convict:T9 
+A9	Realis E9 Actual
+T10	Justice_Charge-Indict 749 754	count
+E10	Justice_Charge-Indict:T10 
+A10	Realis E10 Actual
+T11	Justice_Acquit 823 832	acquitted
+E11	Justice_Acquit:T11 
+A11	Realis E11 Actual
+T12	Justice_Charge-Indict 841 847	counts
+E12	Justice_Charge-Indict:T12 
+A12	Realis E12 Actual
+T13	Justice_Arrest-Jail 1032 1040	captured
+E13	Justice_Arrest-Jail:T13 
+A13	Questionable E13 Mention
+A14	Realis E13 Actual
+T14	Justice_Arrest-Jail 1070 1074	held
+E14	Justice_Arrest-Jail:T14 
+A15	Realis E14 Actual
+T15	Justice_Trial-Hearing 1248 1253	trial
+E15	Justice_Trial-Hearing:T15 
+A16	Realis E15 Other
+T16	Justice_Trial-Hearing 1283 1288	trial
+E16	Justice_Trial-Hearing:T16 
+A17	Questionable E16 Realis
+A18	Realis E16 Other
+T17	Justice_Convict 1391 1402	convictions
+E17	Justice_Convict:T17 
+A19	Realis E17 Generic
+T18	Contact_Communicate 1632 1645	interrogation
+E18	Contact_Communicate:T18 
+A20	Realis E18 Actual
+T19	Justice_Arrest-Jail 1666 1673	custody
+E19	Justice_Arrest-Jail:T19 
+A21	Realis E19 Actual
+T20	Conflict_Attack 1706 1714	tortured
+E20	Conflict_Attack:T20 
+A22	Realis E20 Other
+T21	Transaction_Transfer-Ownership 1794 1798	sold
+E21	Transaction_Transfer-Ownership:T21 
+A23	Realis E21 Other
+T22	Conflict_Attack 1844 1851	blow up
+E22	Conflict_Attack:T22 
+A24	Realis E22 Actual
+T23	Justice_Charge-Indict 2049 2055	counts
+E23	Justice_Charge-Indict:T23 
+A25	Realis E23 Actual
+T24	Justice_Charge-Indict 2083 2089	counts
+E24	Justice_Charge-Indict:T24 
+A26	Realis E24 Actual
+T25	Justice_Arrest-Jail 2184 2194	in custody
+E25	Justice_Arrest-Jail:T25 
+A27	Realis E25 Actual
+T26	Justice_Sentence 2205 2213	sentence
+E26	Justice_Sentence:T26 
+A28	Realis E26 Other
+T27	Justice_Acquit 2802 2811	acquitted
+E27	Justice_Acquit:T27 
+A29	Realis E27 Actual
+T28	Justice_Charge-Indict 2854 2860	counts
+E28	Justice_Charge-Indict:T28 
+A30	Realis E28 Actual
+T29	Justice_Acquit 2262 2269	verdict
+E29	Justice_Acquit:T29 
+A31	Realis E29 Actual
+T30	Justice_Acquit 2583 2590	verdict
+E30	Justice_Acquit:T30 
+A32	Realis E30 Actual
+T31	Life_Die 309 315	murder
+E31	Life_Die:T31 
+A33	Realis E31 Actual
+T32	Life_Die 889 893	kill
+E32	Life_Die:T32 
+A34	Realis E32 Actual
+T33	Conflict_Attack 911 922	use weapons
+E33	Conflict_Attack:T33 
+A35	Realis E33 Actual
+T34	Life_Die 2093 2099	murder
+E34	Life_Die:T34 
+A36	Realis E34 Actual
+T35	Justice_Arrest-Jail 2235 2244	in prison
+E35	Justice_Arrest-Jail:T35 
+A37	Realis E35 Actual
+T36	Contact_Communicate 2020 2025	asked
+E36	Contact_Communicate:T36 
+A38	Realis E36 Actual
+T37	Contact_Communicate 2120 2127	replied
+E37	Contact_Communicate:T37 
+A39	Realis E37 Actual
+T38	Justice_Acquit 2132 2142	Not guilty
+E38	Justice_Acquit:T38 
+A40	Realis E38 Actual

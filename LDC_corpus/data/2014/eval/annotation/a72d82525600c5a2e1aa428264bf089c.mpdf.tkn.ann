@@ -1,0 +1,30 @@
+T2	Life_Die 277 283	killed
+E2	Life_Die:T2 
+A2	Realis E2 Other
+T3	Contact_Communicate 320 327	telling
+E3	Contact_Communicate:T3 
+A3	Realis E3 Other
+T4	Life_Die 356 361	death
+E4	Life_Die:T4 
+A4	Realis E4 Other
+T6	Transaction_Transfer-Ownership 495 501	bought
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 730 736	combat
+E7	Conflict_Attack:T7 
+A7	Realis E7 Generic
+T8	Conflict_Attack 756 759	war
+E8	Conflict_Attack:T8 
+A8	Realis E8 Generic
+T9	Conflict_Attack 824 827	war
+E9	Conflict_Attack:T9 
+A9	Realis E9 Generic
+T10	Conflict_Attack 871 875	wars
+E10	Conflict_Attack:T10 
+A10	Realis E10 Generic
+T11	Contact_Communicate 991 995	tell
+E11	Contact_Communicate:T11 
+A11	Realis E11 Other
+T1	Movement_Transport-Person 422 426;442 446	take trip
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other

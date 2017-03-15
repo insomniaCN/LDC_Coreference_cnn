@@ -1,0 +1,117 @@
+T1	Conflict_Demonstrate 499 507	protests
+E776	Conflict_Demonstrate:T1
+A1	Realis E776 Other
+T2	Justice_Acquit 600 609	acquittal
+E636	Justice_Acquit:T2
+A2	Realis E636 Actual
+T3	Justice_Acquit 1435 1442	verdict
+E344	Justice_Acquit:T3
+A3	Realis E344 Actual
+T4	Conflict_Attack 637 645	shooting
+E406	Conflict_Attack:T4
+A4	Realis E406 Actual
+T5	Life_Die 646 651	death
+E748	Life_Die:T5
+A5	Realis E748 Actual
+T6	Conflict_Demonstrate 800 813	demonstration
+E940	Conflict_Demonstrate:T6
+A6	Realis E940 Actual
+T7	Conflict_Demonstrate 2096 2109	demonstration
+E56	Conflict_Demonstrate:T7
+A7	Realis E56 Actual
+T8	Movement_Transport-Person 773 783	broke away
+E36	Movement_Transport-Person:T8
+A8	Realis E36 Actual
+T9	Movement_Transport-Person 900 903	ran
+E292	Movement_Transport-Person:T9
+A9	Realis E292 Actual
+T10	Conflict_Demonstrate 889 899	Protesters
+E536	Conflict_Demonstrate:T10
+A10	Realis E536 Actual
+T11	Conflict_Attack 957 967	assaulting
+E538	Conflict_Attack:T11
+A11	Realis E538 Actual
+T12	Conflict_Attack 1489 1497	violence
+E38	Conflict_Attack:T12
+A12	Realis E38 Actual
+T13	Conflict_Attack 2132 2140	violence
+E897	Conflict_Attack:T13
+A13	Realis E897 Actual
+T14	Conflict_Demonstrate 2759 2765	unrest
+E569	Conflict_Demonstrate:T14
+A14	Realis E569 Actual
+T15	Conflict_Demonstrate 1113 1119	unrest
+E245	Conflict_Demonstrate:T15
+A15	Realis E245 Actual
+T16	Contact_Contact 1018 1026	reported
+E833	Contact_Contact:T16
+A16	Realis E833 Actual
+T17	Contact_Contact 1163 1167	said
+E745	Contact_Contact:T17
+A17	Realis E745 Actual
+T18	Movement_Transport-Person 1078 1087	descended
+E927	Movement_Transport-Person:T18
+A18	Realis E927 Actual
+T19	Justice_Arrest-Jail 1142 1150	arrested
+E848	Justice_Arrest-Jail:T19
+A19	Realis E848 Actual
+T20	Justice_Acquit 1224 1233	acquittal
+E463	Justice_Acquit:T20
+A20	Realis E463 Actual
+T21	Justice_Acquit 1637 1644	verdict
+E719	Justice_Acquit:T21
+A21	Realis E719 Actual
+T22	Conflict_Attack 1278 1285	beating
+E27	Conflict_Attack:T22
+A22	Realis E27 Actual
+T23	Life_Die 1309 1315	deadly
+E887	Life_Die:T23
+A23	Realis E887 Actual
+T24	Conflict_Demonstrate 1316 1321	riots
+E777	Conflict_Demonstrate:T24
+A24	Realis E777 Actual
+T25	Contact_Broadcast 1748 1758	conference
+E640	Contact_Broadcast:T25
+A25	Realis E640 Actual
+T26	Contact_Broadcast 2191 2195	said
+E920	Contact_Broadcast:T26
+A26	Realis E920 Actual
+T27	Personnel_Start-Position 2367 2376	appointed
+E397	Personnel_Start-Position:T27
+A27	Realis E397 Actual
+T28	Contact_Broadcast 2450 2456	speech
+E191	Contact_Broadcast:T28
+A28	Realis E191 Actual
+T29	Contact_Broadcast 2683 2687	said
+E399	Contact_Broadcast:T29
+A29	Realis E399 Actual
+T30	Conflict_Demonstrate 2829 2837	protests
+E786	Conflict_Demonstrate:T30
+A30	Realis E786 Actual
+T31	Conflict_Demonstrate 2916 2929	demonstrators
+E859	Conflict_Demonstrate:T31
+A31	Realis E859 Actual
+T32	Contact_Broadcast 172 176	CALL
+E847	Contact_Broadcast:T32
+A32	Realis E847 Actual
+T33	Conflict_Attack 984 994	ransacking
+E967	Conflict_Attack:T33
+A33	Realis E967 Actual
+T34	Contact_Contact 1383 1389	agreed
+E713	Contact_Contact:T34
+A34	Realis E713 Actual
+T35	Contact_Broadcast 1733 1737	said
+E788	Contact_Broadcast:T35
+A35	Realis E788 Actual
+T36	Contact_Contact 1980 1986	agreed
+E149	Contact_Contact:T36
+A36	Realis E149 Generic
+R1	Coreference Arg1:E636 Arg2:E344
+R2	Coreference Arg1:E940 Arg2:E56
+R3	Coreference Arg1:E36 Arg2:E292
+R4	Coreference Arg1:E538 Arg2:E38
+R5	Coreference Arg1:E38 Arg2:E897
+R6	Coreference Arg1:E245 Arg2:E569
+R7	Coreference Arg1:E833 Arg2:E745
+R8	Coreference Arg1:E463 Arg2:E719
+R9	Coreference Arg1:E191 Arg2:E399

@@ -1,0 +1,58 @@
+<DOC id= " NYT_ENG_20131101.0155 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20131101 / 20131101,8edfeb658735 ab982b8 a106b368feb55 . xml " > 
+<HEADLINE> 
+EDITORS CHARGED IN HACKING SCANDAL HAD AFFAIR , PROSECUTORS SAY 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+LONDON - A high - profile phone - hacking trial in Britain turned considerably seamier Thursday when the prosecution revealed in court that the two most senior editors of News of the World had an affair lasting more than six years - during the period at issue in the trial , and also while both of them married other people .
+< / P> 
+<P> 
+The two editors , Rebekah Brooks and Andy Coulson , are defendants in the case surrounding the British newspapers controlled by Rupert Murdoch ’s News Corp . empire , including News of the World , a weekly tabloid that the company shut down in 2011 after the hacking scandal broke .
+< / P> 
+<P> 
+Brooks was the editor of News of the World from 2000 to 2003 and then moved to its sister daily tabloid , The Sun ; Coulson was her deputy at the weekly and succeeded her as its editor , running the paper until 2007 .
+< / P> 
+<P> 
+Andrew Edis , a prosecutor in the case , said in open court that the two began their six - year affair in 1998 ; Coulson married in 2000 and Brooks married in 2002 . Coulson remains married ; Brooks was divorced in 2009 and then married her current husband , Charlie Brooks , who is also a defendant in the case .
+< / P> 
+<P> 
+The prosecutor said the Brooks - Coulson affair ended long before Coulson went to work for Prime Minister David Cameron after his election in 2010 .
+< / P> 
+<P> 
+The prosecutor ’s revelation made it legally permissible to publish reports of the affair , which had been widely discussed in private by journalists . Edis justified the revelation by saying that it demonstrated the closeness of the two , who are charged with overseeing a pattern of phone hacking and other illegal efforts to obtain details of the lives of prominent people .
+< / P> 
+<P> 
+The targets of the hacking ranged from politicians and socialites to Milly Dowler , a 13 - year - old who was abducted in 2002 and later found dead . The paper broke into her voicemail account while she was missing , to listen to messages left for her by her parents . The paper also hacked the phones of competing journalists .
+< / P> 
+<P> 
+“ Throughout the relevant period , what Mr. Coulson knew , Mrs. Brooks knew , too , ” Edis said . “ What Mrs. Brooks knew , Mr. Coulson knew , too . That ’s the point . ” 
+< / P> 
+<P> 
+He argued that none of the illegal acts undertaken by the paper ’s journalists or the freelancers it hired were likely to have been unknown to the top editors , and that they were unlikely to have kept such secrets from one another .
+< / P> 
+<P> 
+The relationship came to police attention when investigators found a letter addressed to Coulson at Brooks ’ home , written in February 2004 when Coulson was trying to end the affair .
+< / P> 
+<P> 
+“ The fact is you are my very best friend , I tell you everything , I confide in you , I seek your advice , I love you , care about you , worry about you , we laugh and cry together , ” the letter said , as Edis read it out in court . “ Without our relationship in my life , I am not sure I will cope . ” 
+< / P> 
+<P> 
+Edis asserted that he was not trying to embarrass the two defendants , to intrude into their private lives or to make a moral judgment .
+< / P> 
+<P> 
+“ Mrs. Brooks and Mr. Coulson are charged with conspiracy and , when people are charged with conspiracy , the first question a jury has to answer is , 'How well did they know each other ? How much did they trust each other ? ' ” he said . “ And the fact that they were in this relationship , which was a secret , means that they trusted each other quite a lot with at least that secret , and that ’s why we are telling you about it . ” 
+< / P> 
+<P> 
+The trial , involving a total of eight defendants , is expected to last many months . Brooks and Coulson are accused of conspiring with others to hack phones and of conspiring with others to commit misconduct in public office , a reference to payoffs made to the police and other officials . Rebekah Brooks also faces charges of conspiracy to pervert the course of justice . Her husband is accused of helping her to hide evidence .
+< / P> 
+<P> 
+All eight defendants deny the charges against them .
+< / P> 
+<P> 
+On Wednesday , Edis revealed that four other people had pleaded guilty to having hacked phone accounts on behalf of News of the World . He argued that the jury should consider those pleas as evidence of a conspiracy , and that senior editors must have been aware of the acts of underlings .
+< / P> 
+<P> 
+“ They must have known where these stories came from , or they never would have got in the paper , ” he said .
+< / P> 
+< / TEXT> 
+< / DOC

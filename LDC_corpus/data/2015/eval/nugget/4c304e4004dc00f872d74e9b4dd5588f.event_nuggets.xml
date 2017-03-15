@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa00000000000000148" doc_id="4c304e4004dc00f872d74e9b4dd5588f" source_type="multi_post">
+  <event_mention id="em-65" type="personnel" subtype="elect" realis="generic">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2230" length="9">elections</trigger>
+  </event_mention>
+  <event_mention id="em-107" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="916" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-113" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2315" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-161" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="466" length="7">payment</trigger>
+  </event_mention>
+  <event_mention id="em-179" type="justice" subtype="convict" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1820" length="10">conviction</trigger>
+  </event_mention>
+  <event_mention id="em-184" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2288" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-185" type="justice" subtype="pardon" realis="generic">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2207" length="7">amnesty</trigger>
+  </event_mention>
+  <event_mention id="em-187" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="586" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-227" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1832" length="6">Ousted</trigger>
+  </event_mention>
+  <event_mention id="em-356" type="personnel" subtype="elect" realis="other">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2272" length="4">vote</trigger>
+  </event_mention>
+  <event_mention id="em-409" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2459" length="5">cases</trigger>
+  </event_mention>
+  <event_mention id="em-442" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="784" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-512" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="419" length="5">rally</trigger>
+  </event_mention>
+  <event_mention id="em-559" type="justice" subtype="pardon" realis="other">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1688" length="7">amnesty</trigger>
+  </event_mention>
+  <event_mention id="em-645" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="916" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-679" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2183" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-698" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="784" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-699" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1404" length="9">protested</trigger>
+  </event_mention>
+  <event_mention id="em-713" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1783" length="7">serving</trigger>
+  </event_mention>
+  <event_mention id="em-773" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1137" length="9">converged</trigger>
+  </event_mention>
+  <event_mention id="em-840" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="586" length="6">buying</trigger>
+  </event_mention>
+  <event_mention id="em-844" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1194" length="8">payments</trigger>
+  </event_mention>
+  <event_mention id="em-848" type="conflict" subtype="attack" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1867" length="4">coup</trigger>
+  </event_mention>
+  <event_mention id="em-862" type="personnel" subtype="endposition" realis="other">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2514" length="7">deposed</trigger>
+  </event_mention>
+  <event_mention id="em-867" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="388" length="4">ride</trigger>
+  </event_mention>
+  <event_mention id="em-901" type="personnel" subtype="elect" realis="actual">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1576" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-919" type="movement" subtype="transportperson" realis="other">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="1753" length="6">return</trigger>
+  </event_mention>
+  <event_mention id="em-981" type="personnel" subtype="elect" realis="generic">
+    <trigger source="4c304e4004dc00f872d74e9b4dd5588f" offset="2398" length="9">elections</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

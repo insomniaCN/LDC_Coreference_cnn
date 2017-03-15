@@ -1,0 +1,48 @@
+T1	Contact_Meet 467 474	ordered
+E3	Contact_Meet:T1
+A1	Realis E3 Actual
+T2	Transaction_Transfer-Ownership 947 952	stole
+E19	Transaction_Transfer-Ownership:T2
+A2	Realis E19 Actual
+T3	Justice_Arrest-Jail 768 774	prison
+E101	Justice_Arrest-Jail:T3
+A3	Realis E101 Actual
+T4	Personnel_Start-Position 817 823	became
+E130	Personnel_Start-Position:T4
+A4	Realis E130 Actual
+T5	Justice_Arrest-Jail 171 177	prison
+E226	Justice_Arrest-Jail:T5
+A5	Realis E226 Other
+T6	Contact_Contact 885 888	say
+E275	Contact_Contact:T6
+A6	Realis E275 Actual
+T7	Justice_Release-Parole 780 788	released
+E480	Justice_Release-Parole:T7
+A7	Realis E480 Actual
+T8	Transaction_Transfer-Money 387 397	embezzling
+E518	Transaction_Transfer-Money:T8
+A8	Realis E518 Actual
+T9	Contact_Correspondence 976 982	letter
+E543	Contact_Correspondence:T9
+A9	Realis E543 Actual
+T10	Justice_Arrest-Jail 376 382	prison
+E585	Justice_Arrest-Jail:T10
+A10	Realis E585 Other
+T11	Transaction_Transfer-Ownership 960 969	donations
+E709	Transaction_Transfer-Ownership:T11
+A11	Realis E709 Actual
+T12	Contact_Contact 1004 1008	said
+E725	Contact_Contact:T12
+A12	Realis E725 Actual
+T13	Justice_Sentence 166 170	gets
+E813	Justice_Sentence:T13
+A13	Realis E813 Actual
+T14	Justice_Sentence 341 350	sentenced
+E881	Justice_Sentence:T14
+A14	Realis E881 Actual
+T15	Business_Start-Org 629 637	founding
+E887	Business_Start-Org:T15
+A15	Realis E887 Actual
+T16	Justice_Sentence 526 534	sentence
+E922	Justice_Sentence:T16
+A16	Realis E922 Actual

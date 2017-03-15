@@ -1,0 +1,28 @@
+<DOC id="NYT_ENG_20130524.0064" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130524/20130524,532690b5d35e93edc5da578db67c1c87.xml">
+<HEADLINE>
+OBAMA DEFIES CRITICS WITH STATE DEPARTMENT CHOICE
+</HEADLINE>
+<TEXT>
+<P>
+WASHINGTON - President Barack Obama defied Republican critics Thursday by nominating to a high-ranking State Department job an official involved in editing controversial talking points about the attack last year in Libya.
+</P>
+<P>
+Obama sent the Senate his choice of Victoria Nuland, a former spokeswoman for the State Department, as assistant secretary for European and Eurasian affairs. Nuland had long been in line for the position, but some had questioned whether the nomination would go forward after drafts of the talking points became public.
+</P>
+<P>
+Nuland suggested revisions to talking points prepared by the CIA after the terrorist attack that killed four Americans at the diplomatic post in Benghazi, Libya, on Sept. 11. In an email, she urged deleting mention of past warnings of terrorism in Libya because lawmakers could use that “to beat the State Department for not paying attention.”
+</P>
+<P>
+Her confirmation hearings may serve to revive the furor. But Nuland, a career Foreign Service officer, has strong ties on both sides of the aisle, having served as deputy national security adviser to Vice President Dick Cheney and ambassador to NATO under President George W. Bush.
+</P>
+<P>
+Obama on Thursday also nominated Douglas E. Lute, his adviser on Afghanistan and Pakistan, to be the next ambassador to NATO, replacing Ivo Daalder, who is leaving the post this summer to become president of the Chicago Council on Global Affairs.
+</P>
+<P>
+A career Army officer, Lute first went to work for Bush as his Iraq and Afghanistan war coordinator and stayed on under Obama, focused specifically on Afghanistan.
+</P>
+<P>
+He retired as a lieutenant general in 2010, remaining in the White House as a civilian and helping shape the president’s plan to withdraw combat forces by the end of 2014.
+</P>
+</TEXT>
+</DOC>

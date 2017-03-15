@@ -1,0 +1,42 @@
+T1	Life_Marry 387 394	wedding
+E1	Life_Marry:T1 
+A1	Realis E1 Actual
+T2	Life_Marry 862 869	wedding
+E2	Life_Marry:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 1022 1031	vacations
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Life_Marry 3825 3832	married
+E4	Life_Marry:T4 
+A4	Realis E4 Other
+T5	Life_Marry 4696 4703	married
+E5	Life_Marry:T5 
+A5	Realis E5 Other
+T6	Life_Marry 4843 4850	married
+E6	Life_Marry:T6 
+A6	Realis E6 Other
+T7	Movement_Transport-Person 5714 5722	vacation
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Life_Marry 5918 5925	married
+E8	Life_Marry:T8 
+A8	Realis E8 Other
+T9	Movement_Transport-Person 419 427	vacation
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Other
+T10	Movement_Transport-Person 968 976	vacation
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Other
+T11	Life_Be-Born 6048 6057	have kids
+E11	Life_Be-Born:T11 
+A11	Realis E11 Generic
+T12	Personnel_Start-Position 6263 6266;6279 6282	get job
+E12	Personnel_Start-Position:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 6575 6583	vacation
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Other
+T14	Movement_Transport-Person 6596 6600;6605 6609	take trip
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Other

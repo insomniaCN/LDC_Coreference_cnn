@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976480000000000000045" doc_id="APW_ENG_20100508.0084" source_type="newswire">
+<event_mention id="em-32" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="302" length="7">wedding</trigger>
+      </event_mention>
+<event_mention id="em-45" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="91" length="7">wedding</trigger>
+      </event_mention>
+<event_mention id="em-58" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="640" length="7">wedding</trigger>
+      </event_mention>
+<event_mention id="em-71" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="272" length="8">shooting</trigger>
+      </event_mention>
+<event_mention id="em-84" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="99" length="8">shooting</trigger>
+      </event_mention>
+<event_mention id="em-97" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="508" length="8">shooting</trigger>
+      </event_mention>
+<event_mention id="em-110" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="597" length="11">opened fire</trigger>
+      </event_mention>
+<event_mention id="em-123" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="223" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-136" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="437" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-149" type="justice" subtype="execute" realis="other">
+        <trigger source="APW_ENG_20100508.0084" offset="72" length="4">hang</trigger>
+      </event_mention>
+<event_mention id="em-162" type="justice" subtype="execute" realis="other">
+        <trigger source="APW_ENG_20100508.0084" offset="254" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-175" type="justice" subtype="execute" realis="other">
+        <trigger source="APW_ENG_20100508.0084" offset="477" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-201" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="264" length="7">fatally</trigger>
+      </event_mention>
+<event_mention id="em-214" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="543" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-227" type="life" subtype="marry" realis="other">
+        <trigger source="APW_ENG_20100508.0084" offset="662" length="5">marry</trigger>
+      </event_mention>
+<event_mention id="em-240" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="748" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-253" type="life" subtype="injure" realis="actual">
+        <trigger source="APW_ENG_20100508.0084" offset="784" length="8">wounding</trigger>
+      </event_mention>
+<event_mention id="em-266" type="justice" subtype="appeal" realis="other">
+        <trigger source="APW_ENG_20100508.0084" offset="866" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-279" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100508.0084" offset="387" length="8">reported</trigger>
+      </event_mention>
+<event_mention id="em-292" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100508.0084" offset="852" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-305" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="APW_ENG_20100508.0084" offset="773" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-320" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100508.0084" offset="918" length="7">reached</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

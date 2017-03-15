@@ -1,0 +1,51 @@
+T1	Business_Merge-Org 249 255	MERGER
+E1	Business_Merge-Org:T1 
+A1	Realis E1 Other
+T2	Justice_Sue 615 620;623 630	filed lawsuit
+E2	Justice_Sue:T2 
+A2	Realis E2 Actual
+T3	Business_Merge-Org 669 675	merger
+E3	Business_Merge-Org:T3 
+A3	Realis E3 Other
+T4	Business_Merge-Org 848 854	merger
+E4	Business_Merge-Org:T4 
+A4	Realis E4 Other
+T5	Business_Merge-Org 998 1005	mergers
+E5	Business_Merge-Org:T5 
+A5	Realis E5 Actual
+T6	Business_Merge-Org 1260 1266	merger
+E6	Business_Merge-Org:T6 
+A6	Realis E6 Generic
+T7	Business_Merge-Org 1285 1293	tie - up
+E7	Business_Merge-Org:T7 
+A7	Realis E7 Other
+T8	Business_Merge-Org 1385 1391	merged
+E8	Business_Merge-Org:T8 
+A8	Realis E8 Actual
+T9	Business_Merge-Org 1425 1431	merged
+E9	Business_Merge-Org:T9 
+A9	Realis E9 Actual
+T10	Business_Merge-Org 1465 1471	merged
+E10	Business_Merge-Org:T10 
+A10	Realis E10 Actual
+T11	Business_Merge-Org 1593 1606	consolidation
+E11	Business_Merge-Org:T11 
+A11	Realis E11 Generic
+T12	Justice_Sue 1940 1947;1952 1957	lawsuit filed
+E12	Justice_Sue:T12 
+A12	Realis E12 Actual
+T13	Business_Merge-Org 2169 2175	merger
+E13	Business_Merge-Org:T13 
+A13	Realis E13 Other
+T14	Business_Merge-Org 2369 2375	merger
+E14	Business_Merge-Org:T14 
+A14	Realis E14 Other
+T15	Business_Merge-Org 2668 2674	merger
+E15	Business_Merge-Org:T15 
+A15	Realis E15 Other
+T16	Business_Merge-Org 2861 2869;2885 2893	bringing together
+E16	Business_Merge-Org:T16 
+A16	Realis E16 Other
+T17	Business_Merge-Org 2957 2963	merger
+E17	Business_Merge-Org:T17 
+A17	Realis E17 Other

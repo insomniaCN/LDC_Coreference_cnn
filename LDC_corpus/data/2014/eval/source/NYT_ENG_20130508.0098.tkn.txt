@@ -1,0 +1,58 @@
+<DOC id= " NYT_ENG_20130508.0098 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130508 / 20130508,600e95 afe055b84d3b66ea461d0b78f8 . xml " > 
+<HEADLINE> 
+ENRON ’ S SKILLING STRIKES DEAL FOR SHORTER SENTENCE 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+Jeffrey K . Skilling , imprisoned for the last six years because of his role in the fraud that caused the collapse of Enron , has reached a deal that could reduce his sentence by more than a decade .
+< / P> 
+<P> 
+As part of the agreement with the Justice Department , the former chief executive of the energy giant will waive his rights to any further appeals . In addition , he has agreed to allow more than $ 40 million of assets that were seized from him to be distributed to victims of Enron ’s failure .
+< / P> 
+<P> 
+Employees lost their retirement savings and shareholders lost billions of dollars after the once highflying company slid into bankruptcy in 2001 .
+< / P> 
+<P> 
+Under federal prison rules , Skilling – who had been sentenced to 24 years and 4 months – could leave prison as soon as 2017 .
+< / P> 
+<P> 
+The agreement is still subject to approval by Judge Simeon T . Lake III of U.S. District Court in Houston , who oversaw Skilling ’s trial in 2006 . Though the judge has some discretion over the ultimate length of the sentence , either side can appeal if he goes outside the guidelines . A resentencing hearing has been scheduled for June 21 .
+< / P> 
+<P> 
+If approved , the pact would conclude Skilling ’s long legal battle with the government over his role in Enron ’s implosion . Convicted of fraud and conspiracy , the onetime Enron leader , who is now 59 , was the highest - ranking executive of the Houston - based company to serve a prison sentence .
+< / P> 
+<P> 
+Kenneth L . Lay , Enron ’s chairman , was also found guilty , but he died just over a month after the trial .
+< / P> 
+<P> 
+Andrew S . Fastow , the company ’s former chief financial officer , was released from prison in 2011 , having served about five years under the terms of a plea agreement .
+< / P> 
+<P> 
+“ The proposed agreement brings certainty and finality to a long painful process , ” Daniel M . Petrocelli , a lawyer for Skilling , said in a statement . “ Although the recommended sentence for Jeff would still be more than double any other Enron defendant , all of whom have long been out of prison , Jeff will at least have the chance to get back a meaningful part of his life . ” 
+< / P> 
+<P> 
+Peter Carr , a spokesman for the Justice Department , said in a statement that “ this agreement ensures that Skilling will be appropriately punished for his crimes and that victims will finally receive the restitution they deserve . ” 
+< / P> 
+<P> 
+The negotiations on the prison sentence followed a Supreme Court ruling in 2010 that questioned the use of the “ honest services ” law that helped convict Skilling , finding it unconstitutionally vague . A federal appeals court subsequently ruled that Skilling ’s conviction was not tainted by the use of the legal theory , concluding that there was “ overwhelming evidence ” that the executive had conspired to commit fraud .
+< / P> 
+<P> 
+But the appeals court also ruled that Skilling needed to have his sentence recalculated . The resentencing had been postponed while his appeal worked its way through the courts .
+< / P> 
+<P> 
+Skilling – a onetime McKinsey consultant who joined Enron in 1990 and then quickly climbed the ranks – transformed the company from a pipeline operator into a global energy - trading giant . But after accounting schemes that hid the company ’s debts and cash - flow problems came to light , he became a symbol of corporate wrongdoing . Several Enron subordinates testified at Skilling ’s trial that their former boss helped foster an environment that allowed fraud to bloom .
+< / P> 
+<P> 
+Enron led a wave of accounting scandals that emerged after the great Internet and telecommunications boom of the late 1990s fizzled . The crumbling of onetime titans led to thousands of lost jobs and a plunge in the stock market . In 2005 , Bernard J . Ebbers , the former chief executive of WorldCom , was sentenced to 25 years for an accounting fraud at his telecommunications company , while John J . Rigas of the cable company Adelphia Communications received a 15 - year sentence .
+< / P> 
+<P> 
+The collapses of Enron and WorldCom helped change the way government approached white - collar crime and prompted Congress to pass the Sarbanes - Oxley Act on corporate accountability .
+< / P> 
+<P> 
+Skilling , now also known as prisoner 29296 - 179 , first began serving his sentence at a prison in Waseca , Minn . He was subsequently moved to an institution in Littleton , Colo . , after the Minnesota facility was converted into a women ’s penitentiary .
+< / P> 
+<P> 
+As of Wednesday afternoon , the Federal Bureau of Prisons website projected his release on Feb . 21 , 2028 .
+< / P> 
+< / TEXT> 
+< / DOC> 

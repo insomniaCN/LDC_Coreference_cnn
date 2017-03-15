@@ -1,0 +1,28 @@
+<DOC id= " NYT_ENG_20130928.0039 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130928 / 20130928,2247 a4014c13e4f9dc924 aac4c164569 . xml " > 
+<HEADLINE> 
+$ 40 MILLION SETTLEMENT IN SUIT OVER COMPENSATION FOR COLLEGE ATHLETES 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EA Sports and Collegiate Licensing Co. are set to pay $ 40 million to settle their roles in a high - profile lawsuit seeking compensation for college athletes .
+< / P> 
+<P> 
+The parties in the case notified the U.S. District Court in Northern California on Thursday that they had come to an agreement , but the terms were not disclosed and needed the approval of the judge .
+< / P> 
+<P> 
+When asked Friday to confirm the $ 40 million settlement , Michael Hausfeld , a lawyer for the players , said the figure was accurate , but he added that it was not yet clear how the money would be divided .
+< / P> 
+<P> 
+“ We have to come up with a plan of distribution , and that ’s what we are working on now , ” Hausfeld said .
+< / P> 
+<P> 
+Representatives from EA Sports , which makes the college football video game series , and the Collegiate Licensing Co. , which handles rights licensing for many universities , declined to comment .
+< / P> 
+<P> 
+The settlement leaves the NCAA as the lone defendant in the suit , filed by former UCLA basketball player Ed O’Bannon more than four years ago . The case focuses on the rights of college athletes , how their likenesses should be used and whether they should be paid .
+< / P> 
+<P> 
+The NCAA , which declined to comment Thursday on the settlement because it had not seen the terms , has denied wrongdoing and indicated it planned to continue its defense .
+< / P> 
+< / TEXT> 
+< / DOC

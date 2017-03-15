@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130718.0075" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130718/20130718,331f59268941278ec0eb9bbfc4ec7186.xml">
+<HEADLINE>
+RUSSIAN COURT CONVICTS OPPOSITION LEADER
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+KIROV, Russia - Alexei A. Navalny, a lawyer who became Russia’s most resonant opposition voice by crusading against rampant public corruption, was found guilty Thursday of stealing money from a state-controlled timber company.
+</P>
+<P>
+He was sentenced to five years in prison - a punishment that immediately transformed Navalny, 37, who recently declared his candidacy for mayor of Moscow, from an opposition activist to a political dissident and prisoner. Navalny - who became an irritant to President Vladimir Putin by branding his United Russia political machine as the “party of swindlers and thieves,” - was the first to use the Internet and social media as his main weapon against the state.
+</P>
+<P>
+Navalny’s co-defendant, Pyotr Ofitserov, a businessman and acquaintance who worked with him on the timber project, was sentenced to four years in prison. The two men, who had been accused of embezzling nearly $500,000, were also each fined more than $15,000.
+</P>
+<P>
+Much of the judge’s findings was based on the testimony of a third man accused in the scheme, Vyacheslav Opalev, who pleaded guilty and worked with the prosecution. In his decision, Judge Sergei Blinov called his testimony trustworthy and reliable. But during the trial, Opalev at times gave contradictory evidence, and defense lawyers were not allowed to cross-examine him. In addition, Blinov barred the defense from calling 13 witnesses.
+</P>
+<P>
+The verdict quickly reverberated throughout the highest levels of Russian government and society and even sparked some calls for boycotts of the Moscow mayoral election and future national ballots. Alexei L. Kudrin, a close associate of Putin and former finance minister, described it on Twitter as “looking less like a punishment than an attempt to isolate him from social life and the electoral process.”
+</P>
+<P>
+The crime novelist Boris Akunin, who is also a political opposition leader, said the verdict showed there was little hope to change Russia by democratic means.
+</P>
+<P>
+“Lifetime deprivation of elections - this is what the verdict means not only for Navalny but for all who thought it was possible to change this system through elections,” Akunin wrote.
+</P>
+<P>
+As the five-year sentence was delivered, and the judge said that it could not be suspended but required actual jail time, some of Navalny’s supporters burst into tears. He was led away in handcuffs.
+</P>
+<P>
+In Moscow, even before the sentence was announced, supporters and the police began to gather at Manezh Square near the Kremlin where backers of Alexei Navalny had planned to hold an unsanctioned rally. More than 7,000 people had responded to an announcement of the event on Facebook to say that they would attend.
+</P>
+</TEXT>
+</DOC>

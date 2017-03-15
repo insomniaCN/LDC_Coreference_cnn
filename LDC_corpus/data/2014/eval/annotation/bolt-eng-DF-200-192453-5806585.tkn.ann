@@ -1,0 +1,37 @@
+T1	Conflict_Demonstrate 1291 1296	riots
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 1458 1466	violence
+E2	Conflict_Attack:T2 
+A2	Realis E2 Generic
+T3	Conflict_Demonstrate 1787 1792	riots
+E3	Conflict_Demonstrate:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 1954 1962	violence
+E4	Conflict_Attack:T4 
+A4	Realis E4 Generic
+T5	Life_Be-Born 2934 2938	born
+E5	Life_Be-Born:T5 
+A5	Realis E5 Generic
+T6	Conflict_Attack 3242 3249	looting
+E6	Conflict_Attack:T6 
+A6	Realis E6 Generic
+T7	Conflict_Demonstrate 3252 3259	rioting
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Generic
+T8	Life_Be-Born 4224 4228	born
+E8	Life_Be-Born:T8 
+A8	Realis E8 Generic
+T9	Conflict_Attack 4532 4539	looting
+E9	Conflict_Attack:T9 
+A9	Realis E9 Generic
+T10	Conflict_Demonstrate 4542 4549	rioting
+E10	Conflict_Demonstrate:T10 
+A10	Realis E10 Generic
+T11	Conflict_Demonstrate 4627 4632	riots
+E11	Conflict_Demonstrate:T11 
+A11	Realis E11 Generic
+T12	Transaction_Transfer-Ownership 5171 5179;5189 5192	benefits get
+E12	Transaction_Transfer-Ownership:T12 
+A12	Questionable E12 Mention
+A13	Realis E12 Actual

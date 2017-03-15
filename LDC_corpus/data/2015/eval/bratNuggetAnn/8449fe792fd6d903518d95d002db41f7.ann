@@ -1,0 +1,90 @@
+T1	Conflict_Demonstrate 2408 2418	protesters
+E4	Conflict_Demonstrate:T1
+A1	Realis E4 Generic
+T2	Transaction_Transfer-Money 1233 1237	fees
+E25	Transaction_Transfer-Money:T2
+A2	Realis E25 Generic
+T3	Contact_Broadcast 3471 3476	filed
+E43	Contact_Broadcast:T3
+A3	Realis E43 Actual
+T4	Contact_Meet 3979 3985	debate
+E76	Contact_Meet:T4
+A4	Realis E76 Generic
+T5	Conflict_Demonstrate 2382 2396	demonstrations
+E81	Conflict_Demonstrate:T5
+A5	Realis E81 Generic
+T6	Justice_Arrest-Jail 1928 1935	arrests
+E95	Justice_Arrest-Jail:T6
+A6	Realis E95 Generic
+T7	Personnel_Elect 3698 3702	vote
+E119	Personnel_Elect:T7
+A7	Realis E119 Generic
+T8	Justice_Sue 1856 1860	sued
+E193	Justice_Sue:T8
+A8	Realis E193 Actual
+T9	Justice_Sue 1610 1617	lawsuit
+E208	Justice_Sue:T9
+A9	Realis E208 Actual
+T10	Justice_Sue 1738 1742	sues
+E216	Justice_Sue:T10
+A10	Realis E216 Actual
+T11	Conflict_Demonstrate 2594 2608	demonstrations
+E228	Conflict_Demonstrate:T11
+A11	Realis E228 Generic
+T12	Transaction_Transfer-Money 1261 1267	donate
+E240	Transaction_Transfer-Money:T12
+A12	Realis E240 Other
+T13	Justice_Trial-Hearing 1141 1147	trials
+E245	Justice_Trial-Hearing:T13
+A13	Realis E245 Other
+T14	Conflict_Demonstrate 2144 2157	demonstrators
+E247	Conflict_Demonstrate:T14
+A14	Realis E247 Actual
+T15	Contact_Meet 2891 2896	forum
+E290	Contact_Meet:T15
+A15	Realis E290 Generic
+T16	Transaction_Transfer-Money 1219 1223	fees
+E302	Transaction_Transfer-Money:T16
+A16	Realis E302 Generic
+T17	Justice_Sue 2252 2256	suit
+E331	Justice_Sue:T17
+A17	Realis E331 Actual
+T18	Justice_Sue 185 189	suit
+E430	Justice_Sue:T18
+A18	Realis E430 Actual
+T19	Contact_Broadcast 2092 2102	complaints
+E556	Contact_Broadcast:T19
+A19	Realis E556 Actual
+T20	Justice_Arrest-Jail 2703 2710	arrests
+E558	Justice_Arrest-Jail:T20
+A20	Realis E558 Generic
+T21	Contact_Meet 467 477	sing along
+E696	Contact_Meet:T21
+A21	Realis E696 Actual
+T22	Justice_Fine 2401 2407	fining
+E732	Justice_Fine:T22
+A22	Realis E732 Generic
+T23	Justice_Fine 2689 2698	ticketing
+E743	Justice_Fine:T23
+A23	Realis E743 Generic
+T24	Conflict_Demonstrate 1992 2000	protests
+E756	Conflict_Demonstrate:T24
+A24	Realis E756 Actual
+T25	Justice_Sue 394 400	filing
+E815	Justice_Sue:T25
+A25	Realis E815 Actual
+T26	Contact_Meet 3419 3429	sing along
+E826	Contact_Meet:T26
+A26	Realis E826 Actual
+T27	Conflict_Demonstrate 1762 1769	protest
+E854	Conflict_Demonstrate:T27
+A27	Realis E854 Generic
+T28	Conflict_Demonstrate 1949 1956	protest
+E863	Conflict_Demonstrate:T28
+A28	Realis E863 Actual
+T29	Contact_Broadcast 2812 2821	statement
+E889	Contact_Broadcast:T29
+A29	Realis E889 Actual
+T30	Justice_Sue 2442 2449	lawsuit
+E982	Justice_Sue:T30
+A30	Realis E982 Actual

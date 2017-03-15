@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976260000000000000014" doc_id="AFP_ENG_20100107.0147" source_type="newswire">
+<event_mention id="em-14" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100107.0147" offset="185" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-27" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100107.0147" offset="65" length="7">deports</trigger>
+      </event_mention>
+<event_mention id="em-40" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100107.0147" offset="405" length="9">sent back</trigger>
+      </event_mention>
+<event_mention id="em-53" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100107.0147" offset="918" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-66" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20100107.0147" offset="443" length="11">deportation</trigger>
+      </event_mention>
+<event_mention id="em-79" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20100107.0147" offset="392" length="8">detained</trigger>
+      </event_mention>
+<event_mention id="em-92" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100107.0147" offset="1035" length="8">expelled</trigger>
+      </event_mention>
+<event_mention id="em-105" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100107.0147" offset="506" length="9">statement</trigger>
+      </event_mention>
+<event_mention id="em-120" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100107.0147" offset="748" length="9">statement</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

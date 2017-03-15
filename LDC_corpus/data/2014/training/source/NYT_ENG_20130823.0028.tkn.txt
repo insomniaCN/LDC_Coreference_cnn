@@ -1,0 +1,46 @@
+<DOC id= " NYT_ENG_20130823.0028 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130823 / 20130823,1 a6309c14ecceb4e6917f42c9f2ee9f7 . xml " > 
+<HEADLINE> 
+ROCKETS FIRED FROM LEBANON HIT ISRAEL 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+EDS : UPDATES with strike by Israeli warplanes . ) ; ( This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+JERUSALEM - Four rockets were fired toward northern Israel from southern Lebanon on Thursday for the first time in nearly two years , according to the Israeli military . The rocket fire set off sirens in the western Galilee and raised tensions in the region against the background of the conflict in Syria .
+< / P> 
+<P> 
+On Friday , Israeli warplanes hit a site south of Beirut in response to the rocket attack , according to The Associated Press .
+< / P> 
+<P> 
+The military said that Israeli planes targeted “ a terror site located between Beirut and Sidon , ” the news agency reported .
+< / P> 
+<P> 
+Ramez Mustafa , a Lebanon - based official with the Popular Front for the Liberation of Palestine , said the airstrike occurred at 4 a.m. and caused no casualties , the AP reported . He said the warplanes struck the coastal town of Naameh , 10 miles south of Beirut , where the Palestinian group operates .
+< / P> 
+<P> 
+The Israeli military said Thursday its Iron Dome missile defense system intercepted one of the rockets between the Israeli coastal towns of Acre and Nahariya . Two fell between buildings in Israeli villages , damaging property but causing no injuries . Another appeared to have fallen in an open area .
+< / P> 
+<P> 
+Capt. Eytan Buchman , a spokesman for the Israeli military , said Israel suspected that the rockets were launched from the village of Qlayleh near Tyre in southern Lebanon by what he described as “ global jihadist elements . ” 
+< / P> 
+<P> 
+“ We see this as an unprovoked attack on the Israeli home front , ” Buchman said .
+< / P> 
+<P> 
+Prime Minister Benjamin Netanyahu said in a televised statement that Israel was “ acting responsibly ” in the realms of defense and prevention and that Israel ’s policy was clear .
+< / P> 
+<P> 
+“ Anyone who hurts us , anyone who tries to hurt us should know that we will hurt them , ” he said .
+< / P> 
+<P> 
+The Lebanese army said in a statement that an “ unknown group ” fired the Katyusha rockets from an area south of Tyre . An army unit searched the area and found four wooden launching pads , the statement said , adding that the army was investigating to find the perpetrators .
+< / P> 
+<P> 
+Any indication that Hezbollah , the militant Shiite organization in Lebanon , was involved in the latest rocket fire would signal a more serious risk of an escalation of violence . Hezbollah fired thousands of rockets at Israel during a 34 - day war in 2006 that left more than 1,000 Lebanese and several dozen Israelis dead .
+< / P> 
+<P> 
+A fragile cease - fire has since prevailed between Israel and Hezbollah , which is backed by Iran and is now helping the Syrian government fight rebel forces .
+< / P> 
+< / TEXT> 
+< / DOC

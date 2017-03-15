@@ -1,0 +1,51 @@
+T1	Justice_Charge-Indict 1167 1174	charges
+E64	Justice_Charge-Indict:T1
+A1	Realis E64 Actual
+T2	Conflict_Demonstrate 461 469	protests
+E162	Conflict_Demonstrate:T2
+A2	Realis E162 Generic
+T3	Life_Die 578 584	killed
+E190	Life_Die:T3
+A3	Realis E190 Actual
+T4	Justice_Arrest-Jail 249 255	arrest
+E195	Justice_Arrest-Jail:T4
+A4	Realis E195 Actual
+T5	Conflict_Attack 475 479	raid
+E209	Conflict_Attack:T5
+A5	Realis E209 Actual
+T6	Conflict_Attack 284 288	raid
+E249	Conflict_Attack:T6
+A6	Realis E249 Actual
+T7	Justice_Arrest-Jail 385 393	arrested
+E372	Justice_Arrest-Jail:T7
+A7	Realis E372 Actual
+T8	Conflict_Demonstrate 708 718	protesters
+E415	Conflict_Demonstrate:T8
+A8	Realis E415 Actual
+T9	Conflict_Demonstrate 978 985	protest
+E446	Conflict_Demonstrate:T9
+A9	Realis E446 Generic
+T10	Conflict_Attack 1028 1037	firefight
+E494	Conflict_Attack:T10
+A10	Realis E494 Actual
+T11	Justice_Arrest-Jail 620 626	arrest
+E556	Justice_Arrest-Jail:T11
+A11	Realis E556 Actual
+T12	Conflict_Attack 1179 1188	terrorism
+E682	Conflict_Attack:T12
+A12	Realis E682 Generic
+T13	Conflict_Demonstrate 729 742	demonstrating
+E721	Conflict_Demonstrate:T13
+A13	Realis E721 Actual
+T14	Conflict_Attack 612 619	violent
+E866	Conflict_Attack:T14
+A14	Realis E866 Actual
+T15	Conflict_Attack 535 542	clashes
+E919	Conflict_Attack:T15
+A15	Realis E919 Actual
+T16	Contact_Contact 601 605	said
+E968	Contact_Contact:T16
+A16	Realis E968 Actual
+T17	Justice_Arrest-Jail 1150 1156	arrest
+E984	Justice_Arrest-Jail:T17
+A17	Realis E984 Other

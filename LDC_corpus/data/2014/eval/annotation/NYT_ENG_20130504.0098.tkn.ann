@@ -1,0 +1,147 @@
+T1	Life_Die 228 235	killing
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 314 321	charged
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Life_Die 342 348	murder
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 427 433	prison
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Other
+T5	Justice_Sentence 434 442	sentence
+E5	Justice_Sentence:T5 
+A5	Realis E5 Other
+T6	Justice_Arrest-Jail 802 810	arrested
+E6	Justice_Arrest-Jail:T6 
+T7	Justice_Charge-Indict 834 841	charged
+E7	Justice_Charge-Indict:T7 
+A6	Realis E7 Actual
+T8	Life_Die 847 853	murder
+E8	Life_Die:T8 
+A7	Realis E8 Actual
+T9	Conflict_Attack 903 906	rob
+E9	Conflict_Attack:T9 
+A8	Realis E9 Actual
+T10	Conflict_Attack 944 948	shot
+E10	Conflict_Attack:T10 
+A9	Realis E10 Actual
+T11	Life_Die 952 957	death
+E11	Life_Die:T11 
+A10	Realis E11 Actual
+T12	Justice_Charge-Indict 1047 1054	charged
+E12	Justice_Charge-Indict:T12 
+A11	Realis E12 Actual
+T13	Life_Die 1075 1081	murder
+E13	Life_Die:T13 
+A12	Realis E13 Actual
+T14	Justice_Sentence 1106 1115	sentences
+E14	Justice_Sentence:T14 
+A13	Realis E14 Other
+T15	Justice_Release-Parole 1124 1130	parole
+E15	Justice_Release-Parole:T15 
+A14	Realis E15 Other
+T16	Justice_Arrest-Jail 1387 1393	prison
+E16	Justice_Arrest-Jail:T16 
+A15	Realis E16 Other
+T17	Justice_Sentence 1394 1402	sentence
+E17	Justice_Sentence:T17 
+A16	Realis E17 Other
+T18	Justice_Arrest-Jail 1557 1563	prison
+E18	Justice_Arrest-Jail:T18 
+A17	Realis E18 Other
+T19	Justice_Sentence 1564 1572	sentence
+E19	Justice_Sentence:T19 
+A18	Realis E19 Other
+T20	Justice_Sentence 1729 1737	sentence
+E20	Justice_Sentence:T20 
+A19	Realis E20 Other
+T21	Justice_Arrest-Jail 1805 1811	prison
+E21	Justice_Arrest-Jail:T21 
+A20	Realis E21 Other
+T22	Justice_Sentence 1812 1820	sentence
+E22	Justice_Sentence:T22 
+A21	Realis E22 Other
+T23	Conflict_Attack 1998 2002	shot
+E23	Conflict_Attack:T23 
+A22	Realis E23 Actual
+T24	Justice_Convict 2117 2126	convicted
+E24	Justice_Convict:T24 
+A23	Realis E24 Generic
+T25	Life_Die 2130 2136	murder
+E25	Life_Die:T25 
+A24	Realis E25 Generic
+T26	Conflict_Attack 2193 2200	robbery
+E26	Conflict_Attack:T26 
+A25	Realis E26 Generic
+T27	Life_Die 2219 2225	killed
+E27	Life_Die:T27 
+A26	Realis E27 Generic
+T28	Justice_Trial-Hearing 2359 2364	trial
+E28	Justice_Trial-Hearing:T28 
+A27	Realis E28 Other
+T29	Justice_Trial-Hearing 2440 2445	trial
+E29	Justice_Trial-Hearing:T29 
+A28	Realis E29 Other
+T30	Justice_Trial-Hearing 2592 2597	trial
+E30	Justice_Trial-Hearing:T30 
+A29	Realis E30 Other
+T31	Contact_Meet 366 371	plead
+E31	Contact_Meet:T31 
+A30	Realis E31 Other
+T32	Justice_Convict 372 378	guilty
+E32	Justice_Convict:T32 
+A31	Realis E32 Other
+T33	Contact_Meet 471 475	said
+E33	Contact_Meet:T33 
+A32	Realis E33 Actual
+T34	Justice_Trial-Hearing 479 484	court
+E34	Justice_Trial-Hearing:T34 
+A33	Realis E34 Actual
+T35	Contact_Communicate 553 557	said
+E35	Contact_Communicate:T35 
+A34	Realis E35 Actual
+T36	Contact_Communicate 576 583	discuss
+E36	Contact_Communicate:T36 
+A35	Realis E36 Other
+T37	Contact_Communicate 878 882	said
+E37	Contact_Communicate:T37 
+A36	Realis E37 Actual
+T38	Contact_Meet 1204 1208	plea
+E38	Contact_Meet:T38 
+A37	Realis E38 Generic
+T39	Contact_Meet 1346 1351	plead
+E39	Contact_Meet:T39 
+A38	Realis E39 Other
+T40	Contact_Communicate 1485 1489	said
+E40	Contact_Communicate:T40 
+A39	Realis E40 Actual
+T41	Contact_Communicate 1578 1582	said
+E41	Contact_Communicate:T41 
+A40	Realis E41 Actual
+T42	Contact_Communicate 1629 1637	rejected
+E42	Contact_Communicate:T42 
+A41	Realis E42 Actual
+T43	Contact_Communicate 1772 1777	offer
+E43	Contact_Communicate:T43 
+A42	Realis E43 Actual
+T44	Contact_Communicate 1863 1872	discussed
+E44	Contact_Communicate:T44 
+A43	Realis E44 Actual
+T45	Contact_Meet 1873 1882	testimony
+E45	Contact_Meet:T45 
+A44	Realis E45 Actual
+T46	Contact_Meet 1915 1919	said
+E46	Contact_Meet:T46 
+A45	Realis E46 Actual
+T47	Contact_Communicate 2285 2294	according
+E47	Contact_Communicate:T47 
+A46	Realis E47 Actual
+T48	Contact_Communicate 2387 2398	discussions
+E48	Contact_Communicate:T48 
+A47	Realis E48 Actual
+T49	Contact_Meet 2406 2410	plea
+E49	Contact_Meet:T49 
+A48	Realis E49 Other
+A49	Realis E6 Actual

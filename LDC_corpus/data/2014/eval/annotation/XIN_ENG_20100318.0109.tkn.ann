@@ -1,0 +1,56 @@
+T1	Life_Die 79 82	die
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 86 89	war
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Life_Die 266 270;277 282	lost lives
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 290 293	war
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 513 520	attacks
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 538 543	raids
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 554 561	attacks
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 573 581	bombings
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 586 594	ambushes
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 658 665	attacks
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 684 692	bombings
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 734 741	attacks
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Justice_Arrest-Jail 810 818	arrested
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Actual
+T14	Life_Die 961 967	killed
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Life_Die 1057 1067	fatalities
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Life_Injure 1125 1132	wounded
+E16	Life_Injure:T16 
+A16	Realis E16 Actual
+T17	Life_Die 546 553	suicide
+E17	Life_Die:T17 
+A17	Questionable E17 Realis
+A18	Realis E17 Actual
+T18	Life_Die 650 657	suicide
+E18	Life_Die:T18 
+A19	Questionable E18 Realis
+A20	Realis E18 Actual

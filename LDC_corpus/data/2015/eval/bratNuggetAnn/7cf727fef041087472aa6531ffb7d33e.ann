@@ -1,0 +1,18 @@
+T1	Justice_Fine 207 212	fined
+E98	Justice_Fine:T1
+A1	Realis E98 Actual
+T2	Conflict_Attack 652 658	firing
+E167	Conflict_Attack:T2
+A2	Realis E167 Actual
+T3	Justice_Sentence 170 179	sentenced
+E183	Justice_Sentence:T3
+A3	Realis E183 Actual
+T4	Conflict_Attack 536 544	attacked
+E531	Conflict_Attack:T4
+A4	Realis E531 Actual
+T5	Conflict_Attack 613 618	swung
+E645	Conflict_Attack:T5
+A5	Realis E645 Actual
+T6	Conflict_Attack 323 331	attacked
+E791	Conflict_Attack:T6
+A6	Realis E791 Actual

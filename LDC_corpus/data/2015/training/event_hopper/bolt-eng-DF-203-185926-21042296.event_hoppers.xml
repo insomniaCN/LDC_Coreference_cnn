@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000616" doc_id="bolt-eng-DF-203-185926-21042296" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="360" length="11">moving back</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="554" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="587" length="5">fired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="661" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-83" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1053" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-66" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1093" length="5">leave</trigger>
+      </event_mention>
+      <event_mention id="em-111" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1263" length="4">left</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-96" type="contact" subtype="meet" realis="other" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1215" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-124" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1335" length="7">telling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-139" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1360" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-154" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="1842" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-169" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="2147" length="3">get</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-184" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="2274" length="5">punch</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-212">
+      <event_mention id="em-199" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="4453" length="7">driving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-227">
+      <event_mention id="em-214" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="4481" length="7">driving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-242">
+      <event_mention id="em-229" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="4563" length="8">get back</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-257">
+      <event_mention id="em-244" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="4587" length="5">drive</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-272">
+      <event_mention id="em-259" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-203-185926-21042296" offset="2294" length="4">quit</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

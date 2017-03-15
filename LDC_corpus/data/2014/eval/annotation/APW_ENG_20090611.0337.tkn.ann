@@ -1,0 +1,93 @@
+T1	Justice_Pardon 79 86	pardons
+E1	Justice_Pardon:T1 
+A1	Realis E1 Actual
+T2	Life_Die 104 110	murder
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Pardon 242 250	pardoned
+E3	Justice_Pardon:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 275 284	convicted
+E4	Justice_Convict:T4 
+A4	Realis E4 Actual
+T5	Life_Die 288 297	murdering
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 367 373	return
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Other
+T7	Justice_Convict 474 483	convicted
+E7	Justice_Convict:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 498 506;511 517	slitting throat
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Justice_Convict 606 618	found guilty
+E9	Justice_Convict:T9 
+A9	Realis E9 Actual
+T10	Life_Die 636 642	murder
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Justice_Execute 899 904	death
+E11	Justice_Execute:T11 
+A11	Realis E11 Actual
+T12	Justice_Sentence 905 913	sentence
+E12	Justice_Sentence:T12 
+A12	Realis E12 Actual
+T13	Justice_Pardon 962 970	pardoned
+E13	Justice_Pardon:T13 
+A13	Realis E13 Actual
+T14	Justice_Pardon 1046 1052	pardon
+E14	Justice_Pardon:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 1334 1341	heading
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Other
+T16	Justice_Sentence 1404 1413	sentenced
+E16	Justice_Sentence:T16 
+A16	Realis E16 Actual
+T17	Justice_Execute 1417 1422	death
+E17	Justice_Execute:T17 
+A17	Realis E17 Actual
+T18	Justice_Sentence 1474 1482	sentence
+E18	Justice_Sentence:T18 
+A18	Realis E18 Actual
+T19	Justice_Arrest-Jail 1491 1500	in prison
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Actual
+T20	Justice_Pardon 1507 1513	pardon
+E20	Justice_Pardon:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 1535 1540	leave
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1711 1719	traveled
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Justice_Execute 1778 1783	death
+E23	Justice_Execute:T23 
+A23	Realis E23 Generic
+T24	Life_Die 1796 1802	murder
+E24	Life_Die:T24 
+A24	Realis E24 Actual
+T25	Justice_Convict 1803 1813	conviction
+E25	Justice_Convict:T25 
+A25	Realis E25 Actual
+T26	Justice_Arrest-Jail 1840 1849	in prison
+E26	Justice_Arrest-Jail:T26 
+A26	Realis E26 Actual
+T27	Transaction_Transfer-Money 1974 1982	salaries
+E27	Transaction_Transfer-Money:T27 
+A27	Realis E27 Other
+T28	Conflict_Attack 1987 2001	physical abuse
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Transaction_Transfer-Money 2176 2180	sent
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Actual
+T30	Justice_Arrest-Jail 922 929	in jail
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Actual
+T31	Transaction_Transfer-Money 1960 1970	nonpayment
+E31	Transaction_Transfer-Money:T31 
+A31	Realis E31 Other

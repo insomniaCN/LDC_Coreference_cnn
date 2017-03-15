@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589763e0000000000000033" doc_id="APW_ENG_20090820.0822" source_type="newswire">
+<event_mention id="em-62" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20090820.0822" offset="507" length="7">assault</trigger>
+      </event_mention>
+<event_mention id="em-75" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20090820.0822" offset="333" length="7">beat up</trigger>
+      </event_mention>
+<event_mention id="em-88" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="525" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-101" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="317" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-114" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="472" length="8">indicted</trigger>
+      </event_mention>
+<event_mention id="em-127" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20090820.0822" offset="787" length="4">fare</trigger>
+      </event_mention>
+<event_mention id="em-140" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20090820.0822" offset="361" length="4">fare</trigger>
+      </event_mention>
+<event_mention id="em-153" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="APW_ENG_20090820.0822" offset="519" length="5">theft</trigger>
+      </event_mention>
+<event_mention id="em-166" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="APW_ENG_20090820.0822" offset="581" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-179" type="transaction" subtype="transferownership" realis="other" ways="involuntaryforce">
+        <trigger source="APW_ENG_20090820.0822" offset="605" length="7">robbery</trigger>
+      </event_mention>
+<event_mention id="em-192" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="661" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-205" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="APW_ENG_20090820.0822" offset="702" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-218" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="719" length="8">attacked</trigger>
+      </event_mention>
+<event_mention id="em-231" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="808" length="8">indicted</trigger>
+      </event_mention>
+<event_mention id="em-270" type="life" subtype="injure" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="891" length="7">bruises</trigger>
+      </event_mention>
+<event_mention id="em-283" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20090820.0822" offset="290" length="11">arraignment</trigger>
+      </event_mention>
+<event_mention id="em-296" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090820.0822" offset="391" length="10">appearance</trigger>
+      </event_mention>
+<event_mention id="em-311" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20090820.0822" offset="605" length="7">robbery</trigger>
+      </event_mention>
+<event_mention id="em-326" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20090820.0822" offset="829" length="7">charges</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

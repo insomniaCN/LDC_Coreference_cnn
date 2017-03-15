@@ -1,0 +1,9 @@
+T1	Life_Die 110 116	killed
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 122 129	wounded
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 147 153	attack
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual

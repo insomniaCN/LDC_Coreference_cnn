@@ -1,0 +1,66 @@
+T1	Personnel_Elect 805 812	elected
+E1	Personnel_Elect:T1 
+A1	Realis E1 Other
+T2	Personnel_Elect 1386 1393	elected
+E2	Personnel_Elect:T2 
+A2	Realis E2 Other
+T3	Movement_Transport-Person 1569 1577	bringing
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Movement_Transport-Person 1680 1689	returning
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Personnel_Elect 2164 2172	election
+E5	Personnel_Elect:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 6379 6385	attack
+E6	Conflict_Attack:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 6400 6412	use of force
+E7	Conflict_Attack:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 6805 6811	attack
+E8	Conflict_Attack:T8 
+A8	Realis E8 Other
+T9	Conflict_Attack 8091 8099	attacked
+E9	Conflict_Attack:T9 
+A9	Realis E9 Other
+T10	Personnel_Elect 8533 8540	elected
+E10	Personnel_Elect:T10 
+A10	Realis E10 Other
+T11	Movement_Transport-Person 8716 8724	bringing
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Other
+T12	Movement_Transport-Person 8827 8836	returning
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Personnel_End-Position 9203 9214	ex-military
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Generic
+T14	Conflict_Attack 9494 9497	war
+E14	Conflict_Attack:T14 
+A14	Realis E14 Other
+T15	Personnel_End-Position 10152 10163	ex-military
+E15	Personnel_End-Position:T15 
+A15	Realis E15 Generic
+T16	Personnel_End-Position 11674 11685	ex-military
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Generic
+T17	Conflict_Attack 12102 12105	War
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 13378 13381	buy
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Ownership 15155 15158	buy
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Money 16206 16214	pitch in
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Other
+T21	Conflict_Attack 11200 11204	kick
+E21	Conflict_Attack:T21 
+A21	Realis E21 Other
+T22	Personnel_End-Position 12824 12827	was
+E22	Personnel_End-Position:T22 
+A22	Realis E22 Actual

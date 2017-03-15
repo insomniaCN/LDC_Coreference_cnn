@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130629.0127" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130629/20130629,a07fc5ce0456d9fd01c35ee0efa2fd20.xml">
+<HEADLINE>
+FORMER MEXICAN GOVERNOR GETS 11 YEARS FOR TAKING DRUG BRIBES
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+MEXICO CITY - A former Mexican governor was sentenced Friday to nearly 11 years in prison in the United States after pleading guilty in New York to a federal charge of conspiring to launder millions of dollars in drug cartel bribes to allow cocaine to move freely through his state.
+</P>
+<P>
+Shortly after becoming the governor of Quintana Roo state - popular for its vacation resort Cancún - in 1993, Mario Villanueva Madrid, 65, made the kind of deal U.S. law-enforcement officials have suspected local officials of making more often than they are able to prove.
+</P>
+<P>
+Prosecutors said Villanueva had agreed to let the Juárez cartel, then one of the largest and most powerful, to transport cocaine from Colombia through Quintana Roo and on to the United States in exchange for up to $500,000 per shipment.
+</P>
+<P>
+Traffickers were free to unload drug shipments at a state government hangar of a local airport, Mexican authorities have said. Villanueva - nicknamed El Chueco, or “the Crooked One” - spread his capital through banks in the United States, Switzerland and the Bahamas.
+</P>
+<P>
+Mexican authorities first began investigating Villanueva while he was governor. Days before his term ended in 1999, he disappeared, but was caught two years later in Cancún, where he was convicted on organized crime and corruption offenses, imprisoned and then extradited in 2010 to the United States, which had indicted him in 2001.
+</P>
+<P>
+Federal prosecutors in Manhattan said he had more than $17 million in a number of U.S. accounts that had been seized, including one at Lehman Bros.
+</P>
+<P>
+Villanueva pleaded guilty to the federal count in August.
+</P>
+<P>
+“With his sentence today, Villanueva Madrid completes his descent from elected government official to corrupted official to incarcerated felon,” said Preet Bharara, the U.S. attorney in Manhattan.
+</P>
+<P>
+Villanueva is the latest in a growing list of former Mexican governors making headlines over corruption allegations. Andrés Granier, who until December was the governor of Tabasco state, was arrested this week on suspicion of embezzling millions of dollars in state funds. A former governor of Aguascalientes state, Luis Armando Reynoso Femat, is being investigated for malfeasance.
+</P>
+</TEXT>
+</DOC>

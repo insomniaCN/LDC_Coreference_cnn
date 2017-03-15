@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab30000000000000188" doc_id="90312ead3f1608a9c804a2c519d4d185" source_type="multi_post">
+  <event_mention id="em-5" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3993" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-23" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3247" length="6">asking</trigger>
+  </event_mention>
+  <event_mention id="em-90" type="justice" subtype="chargeindict" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3636" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-91" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3722" length="9">pre-trial</trigger>
+  </event_mention>
+  <event_mention id="em-98" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="2920" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-126" type="movement" subtype="transportperson" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="237" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-128" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="4713" length="6">posted</trigger>
+  </event_mention>
+  <event_mention id="em-145" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="821" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-154" type="conflict" subtype="attack" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3980" length="7">torture</trigger>
+  </event_mention>
+  <event_mention id="em-171" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3272" length="5">voice</trigger>
+  </event_mention>
+  <event_mention id="em-176" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="1128" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-180" type="justice" subtype="extradite" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="2920" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-197" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3494" length="7">writing</trigger>
+  </event_mention>
+  <event_mention id="em-206" type="movement" subtype="transportperson" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3411" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-215" type="justice" subtype="extradite" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="2530" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-333" type="justice" subtype="extradite" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="905" length="12">extraditions</trigger>
+  </event_mention>
+  <event_mention id="em-381" type="justice" subtype="extradite" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="237" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-432" type="movement" subtype="transportperson" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="612" length="4">hand</trigger>
+  </event_mention>
+  <event_mention id="em-470" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="905" length="12">extraditions</trigger>
+  </event_mention>
+  <event_mention id="em-476" type="movement" subtype="transportperson" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="1000" length="4">hand</trigger>
+  </event_mention>
+  <event_mention id="em-498" type="justice" subtype="extradite" realis="generic">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="821" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-547" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3732" length="9">detention</trigger>
+  </event_mention>
+  <event_mention id="em-617" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="2550" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-638" type="movement" subtype="transportperson" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="487" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-642" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3431" length="6">asking</trigger>
+  </event_mention>
+  <event_mention id="em-651" type="justice" subtype="extradite" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="487" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-736" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3456" length="5">voice</trigger>
+  </event_mention>
+  <event_mention id="em-784" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="454" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-788" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="669" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-810" type="movement" subtype="transportperson" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="2530" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-815" type="justice" subtype="extradite" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="612" length="4">hand</trigger>
+  </event_mention>
+  <event_mention id="em-903" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="2542" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-911" type="justice" subtype="extradite" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3411" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-928" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="3684" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-940" type="justice" subtype="extradite" realis="other">
+    <trigger source="90312ead3f1608a9c804a2c519d4d185" offset="1000" length="4">hand</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

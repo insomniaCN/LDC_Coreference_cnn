@@ -1,0 +1,66 @@
+T1	Personnel_End-Position 154 161	resigns
+E159	Personnel_End-Position:T1
+A1	Realis E159 Actual
+T2	Personnel_End-Position 333 341	resigned
+E128	Personnel_End-Position:T2
+A2	Realis E128 Actual
+T3	Personnel_End-Position 450 461	resignation
+E842	Personnel_End-Position:T3
+A3	Realis E842 Actual
+T4	Personnel_End-Position 654 663	departure
+E806	Personnel_End-Position:T4
+A4	Realis E806 Actual
+T5	Personnel_End-Position 738 744	former
+E867	Personnel_End-Position:T5
+A5	Realis E867 Actual
+T6	Personnel_End-Position 755 764	departure
+E372	Personnel_End-Position:T6
+A6	Realis E372 Actual
+T7	Transaction_Transfer-Money 167 179	embezzlement
+E958	Transaction_Transfer-Money:T7
+A7	Realis E958 Actual
+T8	Transaction_Transfer-Money 311 323	embezzlement
+E676	Transaction_Transfer-Money:T8
+A8	Realis E676 Actual
+T9	Transaction_Transfer-Money 987 995	siphoned
+E957	Transaction_Transfer-Money:T9
+A9	Realis E957 Actual
+T10	Transaction_Transfer-Money 1079 1088	embezzled
+E234	Transaction_Transfer-Money:T10
+A10	Realis E234 Actual
+T11	Contact_Broadcast 201 207	posted
+E230	Contact_Broadcast:T11
+A11	Realis E230 Actual
+T12	Contact_Broadcast 390 399	announced
+E848	Contact_Broadcast:T12
+A12	Realis E848 Actual
+T13	Contact_Broadcast 599 604	tweet
+E744	Contact_Broadcast:T13
+A13	Realis E744 Actual
+T14	Contact_Broadcast 900 909	published
+E856	Contact_Broadcast:T14
+A14	Realis E856 Actual
+T15	Justice_Convict 1149 1158	convicted
+E185	Justice_Convict:T15
+A15	Realis E185 Actual
+T16	Transaction_Transfer-Money 1248 1255	bonuses
+E293	Transaction_Transfer-Money:T16
+A16	Realis E293 Other
+T17	Transaction_Transfer-Money 1260 1264	paid
+E673	Transaction_Transfer-Money:T17
+A17	Realis E673 Other
+T18	Conflict_Attack 1290 1299	murdering
+E223	Conflict_Attack:T18
+A18	Realis E223 Other
+T19	Life_Die 1290 1299	murdering
+E692	Life_Die:T19
+A19	Realis E692 Other
+R1	Coreference Arg1:E159 Arg2:E128
+R2	Coreference Arg1:E128 Arg2:E842
+R3	Coreference Arg1:E842 Arg2:E806
+R4	Coreference Arg1:E806 Arg2:E867
+R5	Coreference Arg1:E867 Arg2:E372
+R6	Coreference Arg1:E958 Arg2:E676
+R7	Coreference Arg1:E676 Arg2:E957
+R8	Coreference Arg1:E957 Arg2:E234
+R9	Coreference Arg1:E848 Arg2:E744

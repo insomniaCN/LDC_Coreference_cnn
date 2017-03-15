@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea6c0000000000000060" doc_id="NYT_ENG_20130723.0097" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-503" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130723.0097" offset="5309" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-655" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="426" length="9">sentences</trigger>
+      </event_mention>
+      <event_mention id="em-608" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="1185" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-808" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="488" length="6">trials</trigger>
+      </event_mention>
+      <event_mention id="em-995" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="1917" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-101" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="2719" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-802" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="2819" length="6">trials</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-257" type="justice" subtype="sentence" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="3986" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-940" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="720" length="11">convictions</trigger>
+      </event_mention>
+      <event_mention id="em-640" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="910" length="11">convictions</trigger>
+      </event_mention>
+      <event_mention id="em-729" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="1093" length="11">convictions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-727" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="1052" length="12">incarcerated</trigger>
+      </event_mention>
+      <event_mention id="em-488" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="1860" length="12">imprisonment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-523" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="1418" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-231" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="1590" length="9">sentences</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-206">
+      <event_mention id="em-926" type="justice" subtype="appeal" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="1758" length="6">appeal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-273">
+      <event_mention id="em-526" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="2197" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-366">
+      <event_mention id="em-686" type="justice" subtype="sentence" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="1720" length="9">sentences</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-394">
+      <event_mention id="em-885" type="justice" subtype="convict" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="2857" length="10">conviction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-422">
+      <event_mention id="em-905" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="3887" length="9">appointed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-450">
+      <event_mention id="em-529" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="4058" length="8">hearings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-491">
+      <event_mention id="em-720" type="justice" subtype="sentence" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="4279" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-534">
+      <event_mention id="em-709" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130723.0097" offset="4664" length="10">distribute</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-549">
+      <event_mention id="em-483" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="4683" length="9">sentenced</trigger>
+      </event_mention>
+      <event_mention id="em-21" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="4805" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-564">
+      <event_mention id="em-779" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="4725" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-607">
+      <event_mention id="em-480" type="justice" subtype="appeal" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="4912" length="9">Âappealed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-637">
+      <event_mention id="em-407" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="NYT_ENG_20130723.0097" offset="5010" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-652">
+      <event_mention id="em-544" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="5076" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-667">
+      <event_mention id="em-541" type="justice" subtype="appeal" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="5160" length="8">appealed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-682">
+      <event_mention id="em-199" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="5181" length="4">sent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-697">
+      <event_mention id="em-899" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="5196" length="7">custody</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-712">
+      <event_mention id="em-350" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130723.0097" offset="759" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-727">
+      <event_mention id="em-403" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130723.0097" offset="868" length="4">free</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-742">
+      <event_mention id="em-575" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130723.0097" offset="2381" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-757">
+      <event_mention id="em-786" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130723.0097" offset="2941" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-509" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130723.0097" offset="3208" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-813">
+      <event_mention id="em-476" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130723.0097" offset="3392" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-815">
+      <event_mention id="em-977" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130723.0097" offset="3028" length="8">sessions</trigger>
+      </event_mention>
+      <event_mention id="em-935" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130723.0097" offset="3948" length="8">sessions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-856">
+      <event_mention id="em-53" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130723.0097" offset="4379" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-884">
+      <event_mention id="em-413" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130723.0097" offset="5230" length="9">admitting</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

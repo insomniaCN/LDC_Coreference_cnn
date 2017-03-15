@@ -1,0 +1,128 @@
+T1	Business_Declare-Bankruptcy 212 222	BANKRUPTCY
+E978	Business_Declare-Bankruptcy:T1
+A1	Realis E978 Actual
+T2	Business_Declare-Bankruptcy 456 466	bankruptcy
+E757	Business_Declare-Bankruptcy:T2
+A2	Realis E757 Actual
+T3	Business_Declare-Bankruptcy 778 786	bankrupt
+E24	Business_Declare-Bankruptcy:T3
+A3	Realis E24 Actual
+T4	Business_Declare-Bankruptcy 934 944	bankruptcy
+E745	Business_Declare-Bankruptcy:T4
+A4	Realis E745 Actual
+T5	Business_Declare-Bankruptcy 1025 1035	bankruptcy
+E607	Business_Declare-Bankruptcy:T5
+A5	Realis E607 Actual
+T6	Business_Declare-Bankruptcy 1118 1128	bankruptcy
+E938	Business_Declare-Bankruptcy:T6
+A6	Realis E938 Actual
+T7	Business_Declare-Bankruptcy 1449 1459	bankruptcy
+E244	Business_Declare-Bankruptcy:T7
+A7	Realis E244 Actual
+T8	Transaction_Transfer-Ownership 178 186	SPINOFFS
+E101	Transaction_Transfer-Ownership:T8
+A8	Realis E101 Other
+T9	Transaction_Transfer-Ownership 278 286	spin off
+E603	Transaction_Transfer-Ownership:T9
+A9	Realis E603 Other
+T10	Transaction_Transfer-Ownership 514 518	sell
+E186	Transaction_Transfer-Ownership:T10
+A10	Realis E186 Other
+T11	Transaction_Transfer-Ownership 735 739	sell
+E363	Transaction_Transfer-Ownership:T11
+A11	Realis E363 Other
+T12	Transaction_Transfer-Ownership 861 866	sales
+E946	Transaction_Transfer-Ownership:T12
+A12	Realis E946 Other
+T13	Transaction_Transfer-Ownership 1231 1237	divest
+E285	Transaction_Transfer-Ownership:T13
+A13	Realis E285 Other
+T14	Transaction_Transfer-Money 1719 1723	sale
+E45	Transaction_Transfer-Money:T14
+A14	Realis E45 Other
+T15	Transaction_Transfer-Money 1582 1586	sell
+E634	Transaction_Transfer-Money:T15
+A15	Realis E634 Other
+T36	Transaction_Transfer-Money 600 604	sell
+E481	Transaction_Transfer-Money:T36
+A36	Realis E481 Other
+T17	Contact_Broadcast 580 589	announced
+E656	Contact_Broadcast:T17
+A17	Realis E656 Actual
+T18	Contact_Broadcast 1208 1217	announced
+E906	Contact_Broadcast:T18
+A18	Realis E906 Actual
+T19	Contact_Broadcast 1403 1412	statement
+E310	Contact_Broadcast:T19
+A19	Realis E310 Actual
+T20	Transaction_Transfer-Ownership 1500 1507	selling
+E668	Transaction_Transfer-Ownership:T20
+A20	Realis E668 Actual
+T21	Transaction_Transfer-Ownership 1857 1864	selling
+E614	Transaction_Transfer-Ownership:T21
+A21	Realis E614 Actual
+T22	Transaction_Transfer-Ownership 1582 1586	sell
+E743	Transaction_Transfer-Ownership:T22
+A22	Realis E743 Actual
+T23	Transaction_Transfer-Ownership 1719 1723	sale
+E103	Transaction_Transfer-Ownership:T23
+A23	Realis E103 Actual
+T24	Transaction_Transfer-Money 1500 1507	selling
+E389	Transaction_Transfer-Money:T24
+A24	Realis E389 Actual
+T25	Transaction_Transfer-Money 1857 1864	selling
+E295	Transaction_Transfer-Money:T25
+A25	Realis E295 Actual
+T26	Contact_Contact 1890 1897	advised
+E414	Contact_Contact:T26
+A26	Realis E414 Actual
+T27	Contact_Contact 252 256	said
+E829	Contact_Contact:T27
+A27	Realis E829 Actual
+T28	Transaction_Transfer-Money 342 349	pension
+E50	Transaction_Transfer-Money:T28
+A28	Realis E50 Generic
+T29	Transaction_Transfer-Money 905 912	pension
+E257	Transaction_Transfer-Money:T29
+A29	Realis E257 Generic
+T30	Transaction_Transaction 1161 1172	transaction
+E477	Transaction_Transaction:T30
+A30	Realis E477 Other
+T31	Transaction_Transfer-Money 923 929	settle
+E65	Transaction_Transfer-Money:T31
+A31	Realis E65 Other
+T32	Transaction_Transfer-Money 1299 1305	settle
+E833	Transaction_Transfer-Money:T32
+A32	Realis E833 Other
+T33	Transaction_Transfer-Money 514 518	sell
+E702	Transaction_Transfer-Money:T33
+A33	Realis E702 Other
+T34	Transaction_Transfer-Money 735 739	sell
+E221	Transaction_Transfer-Money:T34
+A34	Realis E221 Other
+T35	Transaction_Transfer-Money 861 866	sales
+E469	Transaction_Transfer-Money:T35
+A35	Realis E469 Other
+T36	Transaction_Transfer-Money 600 604	sell
+E735	Transaction_Transfer-Money:T36
+A36	Realis E735 Other
+R1	Coreference Arg1:E978 Arg2:E757
+R2	Coreference Arg1:E757 Arg2:E24
+R3	Coreference Arg1:E24 Arg2:E745
+R4	Coreference Arg1:E745 Arg2:E607
+R5	Coreference Arg1:E607 Arg2:E938
+R6	Coreference Arg1:E938 Arg2:E244
+R7	Coreference Arg1:E101 Arg2:E603
+R8	Coreference Arg1:E603 Arg2:E186
+R9	Coreference Arg1:E186 Arg2:E363
+R10	Coreference Arg1:E363 Arg2:E946
+R11	Coreference Arg1:E946 Arg2:E285
+R12	Coreference Arg1:E634 Arg2:E45
+R13	Coreference Arg1:E656 Arg2:E906
+R14	Coreference Arg1:E668 Arg2:E614
+R15	Coreference Arg1:E743 Arg2:E103
+R16	Coreference Arg1:E389 Arg2:E295
+R17	Coreference Arg1:E50 Arg2:E257
+R18	Coreference Arg1:E65 Arg2:E833
+R19	Coreference Arg1:E702 Arg2:E221
+R20	Coreference Arg1:E221 Arg2:E469

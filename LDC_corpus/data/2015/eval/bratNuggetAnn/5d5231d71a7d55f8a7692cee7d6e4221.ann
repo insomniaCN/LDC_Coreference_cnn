@@ -1,0 +1,45 @@
+T1	Justice_Sentence 853 861	sentence
+E90	Justice_Sentence:T1
+A1	Realis E90 Other
+T2	Justice_Sentence 594 602	sentence
+E135	Justice_Sentence:T2
+A2	Realis E135 Actual
+T3	Contact_Meet 353 358	asked
+E268	Contact_Meet:T3
+A3	Realis E268 Actual
+T4	Contact_Broadcast 514 522	reported
+E343	Contact_Broadcast:T4
+A4	Realis E343 Actual
+T5	Justice_Sentence 1072 1080	sentence
+E369	Justice_Sentence:T5
+A5	Realis E369 Actual
+T6	Justice_Convict 234 240	guilty
+E372	Justice_Convict:T6
+A6	Realis E372 Actual
+T7	Justice_Charge-Indict 1596 1602	charge
+E384	Justice_Charge-Indict:T7
+A7	Realis E384 Other
+T8	Justice_Sentence 172 181	sentenced
+E389	Justice_Sentence:T8
+A8	Realis E389 Actual
+T9	Transaction_Transaction 287 296	extortion
+E493	Transaction_Transaction:T9
+A9	Realis E493 Actual
+T10	Justice_Arrest-Jail 197 203	prison
+E562	Justice_Arrest-Jail:T10
+A10	Realis E562 Other
+T11	Justice_Sentence 926 934	sentence
+E635	Justice_Sentence:T11
+A11	Realis E635 Other
+T12	Personnel_End-Position 405 413	resigned
+E742	Personnel_End-Position:T12
+A12	Realis E742 Actual
+T13	Personnel_End-Position 134 140	former
+E842	Personnel_End-Position:T13
+A13	Realis E842 Actual
+T14	Contact_Contact 765 769	said
+E870	Contact_Contact:T14
+A14	Realis E870 Actual
+T15	Transaction_Transfer-Money 301 304	tax
+E888	Transaction_Transfer-Money:T15
+A15	Realis E888 Generic

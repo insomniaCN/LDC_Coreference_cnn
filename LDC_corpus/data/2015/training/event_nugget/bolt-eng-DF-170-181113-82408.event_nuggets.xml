@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000575" doc_id="bolt-eng-DF-170-181113-82408" source_type="multi_post">
+<event_mention id="em-10" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="64" length="8">declares</trigger>
+      </event_mention>
+<event_mention id="em-23" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="251" length="5">filed</trigger>
+      </event_mention>
+<event_mention id="em-36" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="381" length="5">filed</trigger>
+      </event_mention>
+<event_mention id="em-49" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="411" length="10">bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-64" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="722" length="7">bailout</trigger>
+      </event_mention>
+<event_mention id="em-79" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="1071" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-94" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="1094" length="5">filed</trigger>
+      </event_mention>
+<event_mention id="em-107" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="1561" length="10">Bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-120" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="1900" length="10">bankruptsy</trigger>
+      </event_mention>
+<event_mention id="em-133" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="2059" length="3">Buy</trigger>
+      </event_mention>
+<event_mention id="em-148" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="2279" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-163" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="2316" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-178" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="2676" length="10">bankruptsy</trigger>
+      </event_mention>
+<event_mention id="em-191" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="2835" length="3">Buy</trigger>
+      </event_mention>
+<event_mention id="em-204" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3055" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-217" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3092" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-230" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3341" length="10">Bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-243" type="business" subtype="endorg" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3432" length="20">went out of business</trigger>
+      </event_mention>
+<event_mention id="em-258" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3506" length="3">got</trigger>
+      </event_mention>
+<event_mention id="em-273" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3740" length="10">bankruptsy</trigger>
+      </event_mention>
+<event_mention id="em-286" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="3899" length="3">Buy</trigger>
+      </event_mention>
+<event_mention id="em-299" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="4119" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-312" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="4156" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-325" type="business" subtype="endorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="4416" length="11">liquidation</trigger>
+      </event_mention>
+<event_mention id="em-340" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="4899" length="10">Bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-353" type="business" subtype="endorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5292" length="10">goes under</trigger>
+      </event_mention>
+<event_mention id="em-366" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5367" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-381" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5393" length="5">sells</trigger>
+      </event_mention>
+<event_mention id="em-396" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5412" length="5">sells</trigger>
+      </event_mention>
+<event_mention id="em-411" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5608" length="10">bankruptsy</trigger>
+      </event_mention>
+<event_mention id="em-424" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5767" length="3">Buy</trigger>
+      </event_mention>
+<event_mention id="em-437" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="5987" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-450" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="6024" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-463" type="business" subtype="endorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="7076" length="11">goes under,</trigger>
+      </event_mention>
+<event_mention id="em-476" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="7151" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-489" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="7177" length="5">sells</trigger>
+      </event_mention>
+<event_mention id="em-502" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="7196" length="5">sells</trigger>
+      </event_mention>
+<event_mention id="em-515" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="7485" length="10">Bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-530" type="business" subtype="declarebankruptcy" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="8305" length="10">Bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-543" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="8847" length="6">strike</trigger>
+      </event_mention>
+<event_mention id="em-558" type="business" subtype="endorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="8899" length="20">gone out of business</trigger>
+      </event_mention>
+<event_mention id="em-573" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="9503" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-588" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="9832" length="5">filed</trigger>
+      </event_mention>
+<event_mention id="em-601" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="9962" length="5">filed</trigger>
+      </event_mention>
+<event_mention id="em-614" type="business" subtype="declarebankruptcy" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="9992" length="10">bankruptcy</trigger>
+      </event_mention>
+<event_mention id="em-627" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="10233" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-642" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="10454" length="6">strike</trigger>
+      </event_mention>
+<event_mention id="em-655" type="business" subtype="endorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-82408" offset="10506" length="20">gone out of business</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

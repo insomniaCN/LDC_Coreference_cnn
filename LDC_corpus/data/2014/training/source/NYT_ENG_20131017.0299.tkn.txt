@@ -1,0 +1,22 @@
+<DOC id= " NYT_ENG_20131017.0299 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20131017 / 20131017 , fd069d31b7f30bd623d36e28f588 ab90 . xml " > 
+<HEADLINE> 
+FORMER HUNGARIAN OFFICIAL CHARGED WITH WAR CRIMES IN 1956 UPRISING 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+Prosecutors in Hungary charged a 92 - year - old former interior minister on Wednesday with war crimes related to his suppression of civilians during the Hungarian uprising against Soviet rule in 1956 .
+< / P> 
+<P> 
+Prosecutors in Budapest , the capital , said Bela Biszku had been on a committee of the Communist Party that ordered the shooting of civilians in Budapest and Salgotarjan , a town in northern Hungary , in November and December 1956 . Historians say many civilians were killed and arrested during the uprising . If convicted , Biszku could be sentenced to life in prison .
+< / P> 
+<P> 
+The charges , more than 20 years after the fall of communism in Eastern Europe , come as countries across the region are seeking a reckoning with the past . In September , Romanian prosecutors charged Alexandru Visinescu , commander of a communist - era prison , with genocide . He was the first Romanian to face that charge since dictator Nicolae Ceausescu , who was tried and executed in 1989 .
+< / P> 
+<P> 
+Biszku , who was Hungary ’s interior minister from 1957 to 1961 , was charged under a 2011 law , championed by the center - right government of Prime Minister Viktor Orban , that permits the prosecution of crimes committed during communist times . Orban rose to prominence in 1989 when , as an opposition leader , he called for the withdrawal of Soviet troops from Hungary , embodying the aspirations of the whole region .
+< / P> 
+<P> 
+The uprising by Hungarians in 1956 , though violently repressed , became a pivotal event that stirred the hearts and minds of people across Eastern and Central Europe and undermined communist regimes across the region .
+< / P> 
+< / TEXT> 
+< / DOC

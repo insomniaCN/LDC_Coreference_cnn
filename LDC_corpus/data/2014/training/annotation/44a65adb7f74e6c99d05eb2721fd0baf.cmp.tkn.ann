@@ -1,0 +1,55 @@
+T1	Movement_Transport-Person 215 219	ride
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T3	Conflict_Attack 352 358;363 367	bat to head
+E3	Conflict_Attack:T3 
+A3	Realis E3 Generic
+T4	Conflict_Demonstrate 455 462	protest
+E4	Conflict_Demonstrate:T4 
+A4	Realis E4 Actual
+T8	Movement_Transport-Person 1338 1347	came back
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T12	Conflict_Attack 1458 1468	Gulf War I
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 1648 1654	riding
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual
+T16	Contact_Communicate 1737 1742	asked
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T19	Movement_Transport-Person 1941 1947	coming
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Other
+T20	Justice_Sue 2363 2367	sued
+E20	Justice_Sue:T20 
+A20	Realis E20 Actual
+T21	Justice_Sue 2550 2553	sue
+E21	Justice_Sue:T21 
+A21	Realis E21 Generic
+T22	Justice_Sue 2770 2773	sue
+E22	Justice_Sue:T22 
+A22	Realis E22 Generic
+T25	Justice_Sue 2849 2852	sue
+E25	Justice_Sue:T25 
+A25	Realis E25 Generic
+T27	Justice_Sue 2974 2978	sued
+E27	Justice_Sue:T27 
+A27	Realis E27 Generic
+T28	Justice_Sue 3014 3021	lawsuit
+E28	Justice_Sue:T28 
+A28	Realis E28 Generic
+T29	Justice_Sue 3537 3540	sue
+E29	Justice_Sue:T29 
+A29	Realis E29 Generic
+T30	Justice_Sue 3595 3599	that
+E30	Justice_Sue:T30 
+A30	Realis E30 Generic
+#1	AnnotatorNotes E30	anaphor
+T34	Movement_Transport-Person 4652 4657	going
+E34	Movement_Transport-Person:T34 
+A34	Realis E34 Generic
+T36	Contact_Communicate 4731 4737;4752 4754	scream at
+E36	Contact_Communicate:T36 
+A36	Realis E36 Generic

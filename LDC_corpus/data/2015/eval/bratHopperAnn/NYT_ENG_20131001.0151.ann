@@ -1,0 +1,128 @@
+T1	Justice_Charge-Indict 351 359	indicted
+E777	Justice_Charge-Indict:T1
+A1	Realis E777 Actual
+T2	Justice_Charge-Indict 363 370	charges
+E59	Justice_Charge-Indict:T2
+A2	Realis E59 Actual
+T3	Justice_Charge-Indict 426 433	charges
+E286	Justice_Charge-Indict:T3
+A3	Realis E286 Actual
+T4	Justice_Charge-Indict 984 994	indictment
+E465	Justice_Charge-Indict:T4
+A4	Realis E465 Actual
+T5	Justice_Charge-Indict 1348 1358	indictment
+E425	Justice_Charge-Indict:T5
+A5	Realis E425 Actual
+T6	Personnel_Elect 602 611	elections
+E179	Personnel_Elect:T6
+A6	Realis E179 Other
+T7	Conflict_Attack 674 678	beat
+E570	Conflict_Attack:T7
+A7	Realis E570 Generic
+T8	Conflict_Attack 693 699	murder
+E159	Conflict_Attack:T8
+A8	Realis E159 Generic
+T9	Life_Die 693 699	murder
+E847	Life_Die:T9
+A9	Realis E847 Generic
+T10	Business_Start-Org 815 822	founded
+E124	Business_Start-Org:T10
+A10	Realis E124 Actual
+T11	Conflict_Demonstrate 936 943	rallies
+E544	Conflict_Demonstrate:T11
+A11	Realis E544 Generic
+T12	Movement_Transport-Person 1148 1152	fled
+E517	Movement_Transport-Person:T12
+A12	Realis E517 Actual
+T13	Personnel_End-Position 1182 1188	former
+E92	Personnel_End-Position:T13
+A13	Realis E92 Actual
+T14	Personnel_End-Position 1204 1210	ousted
+E761	Personnel_End-Position:T14
+A14	Realis E761 Actual
+T15	Justice_Arrest-Jail 1262 1270	arrested
+E789	Justice_Arrest-Jail:T15
+A15	Realis E789 Actual
+T16	Movement_Transport-Person 1284 1294	extradited
+E338	Movement_Transport-Person:T16
+A16	Realis E338 Actual
+T17	Justice_Extradite 1284 1294	extradited
+E105	Justice_Extradite:T17
+A17	Realis E105 Actual
+T18	Conflict_Attack 1403 1409	murder
+E529	Conflict_Attack:T18
+A18	Realis E529 Generic
+T19	Life_Die 1403 1409	murder
+E96	Life_Die:T19
+A19	Realis E96 Generic
+T20	Conflict_Attack 1414 1418	rape
+E178	Conflict_Attack:T20
+A20	Realis E178 Generic
+T21	Contact_Meet 1471 1474	met
+E879	Contact_Meet:T21
+A21	Realis E879 Generic
+T22	Conflict_Attack 1706 1709	war
+E482	Conflict_Attack:T22
+A22	Realis E482 Actual
+T23	Conflict_Attack 2396 2399	war
+E880	Conflict_Attack:T23
+A23	Realis E880 Actual
+T24	Life_Die 1735 1739	died
+E636	Life_Die:T24
+A24	Realis E636 Actual
+T25	Movement_Transport-Artifact 1969 1978	smuggling
+E813	Movement_Transport-Artifact:T25
+A25	Realis E813 Generic
+T26	Movement_Transport-Artifact 2318 2327	smuggling
+E77	Movement_Transport-Artifact:T26
+A26	Realis E77 Generic
+T27	Conflict_Attack 2564 2571	violent
+E700	Conflict_Attack:T27
+A27	Realis E700 Generic
+T28	Justice_Arrest-Jail 2613 2617	held
+E576	Justice_Arrest-Jail:T28
+A28	Realis E576 Actual
+T29	Justice_Extradite 2691 2698	release
+E799	Justice_Extradite:T29
+A29	Realis E799 Other
+T30	Contact_Broadcast 2738 2747	announced
+E591	Contact_Broadcast:T30
+A30	Realis E591 Actual
+T31	Movement_Transport-Person 2771 2778	sending
+E550	Movement_Transport-Person:T31
+A31	Realis E550 Other
+T32	Justice_Charge-Indict 2813 2823	indictment
+E555	Justice_Charge-Indict:T32
+A32	Realis E555 Actual
+T33	Justice_Trial-Hearing 2857 2860	try
+E499	Justice_Trial-Hearing:T33
+A33	Realis E499 Other
+T34	Justice_Trial-Hearing 2975 2980	trial
+E171	Justice_Trial-Hearing:T34
+A34	Realis E171 Other
+T35	Justice_Arrest-Jail 3256 3264	arrested
+E506	Justice_Arrest-Jail:T35
+A35	Realis E506 Other
+T36	Contact_Broadcast 468 472	said
+E432	Contact_Broadcast:T36
+A36	Realis E432 Actual
+T37	Conflict_Attack 1204 1210	ousted
+E999	Conflict_Attack:T37
+A37	Realis E999 Actual
+T38	Personnel_Start-Position 1564 1573	enlisting
+E337	Personnel_Start-Position:T38
+A38	Realis E337 Generic
+T39	Movement_Transport-Person 2691 2698	release
+E537	Movement_Transport-Person:T39
+A39	Realis E537 Other
+T40	Contact_Contact 2921 2925	said
+E707	Contact_Contact:T40
+A40	Realis E707 Actual
+T41	Contact_Contact 3330 3334	said
+E808	Contact_Contact:T41
+A41	Realis E808 Actual
+R1	Coreference Arg1:E777 Arg2:E59
+R2	Coreference Arg1:E286 Arg2:E465
+R3	Coreference Arg1:E465 Arg2:E425
+R4	Coreference Arg1:E92 Arg2:E761
+R5	Coreference Arg1:E482 Arg2:E880

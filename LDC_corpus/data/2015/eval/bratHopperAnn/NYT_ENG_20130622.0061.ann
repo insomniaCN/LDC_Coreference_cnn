@@ -1,0 +1,68 @@
+T1	Personnel_Start-Position 415 423	accepted
+E49	Personnel_Start-Position:T1
+A1	Realis E49 Actual
+T2	Personnel_Start-Position 2532 2538	became
+E229	Personnel_Start-Position:T2
+A2	Realis E229 Actual
+T3	Contact_Broadcast 756 762	posted
+E42	Contact_Broadcast:T3
+A3	Realis E42 Actual
+T4	Contact_Meet 835 841	called
+E555	Contact_Meet:T4
+A4	Realis E555 Actual
+T5	Conflict_Attack 859 864	raped
+E443	Conflict_Attack:T5
+A5	Realis E443 Other
+T6	Conflict_Attack 1017 1022	raped
+E359	Conflict_Attack:T6
+A6	Realis E359 Other
+T7	Personnel_End-Position 1059 1067	expelled
+E401	Personnel_End-Position:T7
+A7	Realis E401 Actual
+T8	Contact_Contact 1140 1147	attacks
+E872	Contact_Contact:T8
+A8	Realis E872 Generic
+T9	Contact_Contact 1582 1589	attacks
+E394	Contact_Contact:T9
+A9	Realis E394 Generic
+T10	Life_Beborn 1199 1203	born
+E408	Life_Beborn:T10
+A10	Realis E408 Actual
+T11	Movement_Transport-Person 1244 1249	moved
+E649	Movement_Transport-Person:T11
+A11	Realis E649 Actual
+T12	Movement_Transport-Person 1270 1277	travels
+E235	Movement_Transport-Person:T12
+A12	Realis E235 Generic
+T13	Contact_Contact 1333 1340	respond
+E961	Contact_Contact:T13
+A13	Realis E961 Other
+T14	Contact_Contact 1384 1391	praised
+E28	Contact_Contact:T14
+A14	Realis E28 Actual
+T15	Contact_Meet 1616 1625	interview
+E536	Contact_Meet:T15
+A15	Realis E536 Actual
+T16	Contact_Contact 2584 2588	said
+E451	Contact_Contact:T16
+A16	Realis E451 Actual
+T17	Life_Die 732 737	Death
+E146	Life_Die:T17
+A17	Realis E146 Generic
+T18	Life_Injure 859 864	raped
+E934	Life_Injure:T18
+A18	Realis E934 Other
+T19	Contact_Meet 974 984	discussion
+E378	Contact_Meet:T19
+A19	Realis E378 Actual
+T20	Life_Injure 1017 1022	raped
+E695	Life_Injure:T20
+A20	Realis E695 Other
+T21	Personnel_Nominate 1723 1734	appointment
+E294	Personnel_Nominate:T21
+A21	Realis E294 Actual
+T22	Movement_Transport-Person 2290 2296	influx
+E24	Movement_Transport-Person:T22
+A22	Realis E24 Actual
+R1	Coreference Arg1:E49 Arg2:E229
+R2	Coreference Arg1:E872 Arg2:E394

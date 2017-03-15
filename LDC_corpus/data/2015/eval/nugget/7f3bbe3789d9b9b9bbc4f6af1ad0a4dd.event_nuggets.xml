@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaae0000000000000177" doc_id="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" source_type="multi_post">
+  <event_mention id="em-3" type="life" subtype="die" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="340" length="8">executed</trigger>
+  </event_mention>
+  <event_mention id="em-9" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="415" length="8">requests</trigger>
+  </event_mention>
+  <event_mention id="em-50" type="life" subtype="die" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="842" length="6">killer</trigger>
+  </event_mention>
+  <event_mention id="em-141" type="life" subtype="die" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="571" length="9">execution</trigger>
+  </event_mention>
+  <event_mention id="em-199" type="justice" subtype="execute" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="340" length="8">executed</trigger>
+  </event_mention>
+  <event_mention id="em-223" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="308" length="6">killer</trigger>
+  </event_mention>
+  <event_mention id="em-238" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="504" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-250" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="185" length="5">asked</trigger>
+  </event_mention>
+  <event_mention id="em-304" type="life" subtype="die" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="526" length="8">executed</trigger>
+  </event_mention>
+  <event_mention id="em-415" type="justice" subtype="execute" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="571" length="9">execution</trigger>
+  </event_mention>
+  <event_mention id="em-457" type="life" subtype="die" realis="generic">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="889" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-493" type="justice" subtype="sentence" realis="generic">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="895" length="7">penalty</trigger>
+  </event_mention>
+  <event_mention id="em-583" type="justice" subtype="execute" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="526" length="8">executed</trigger>
+  </event_mention>
+  <event_mention id="em-631" type="justice" subtype="appeal" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="684" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-633" type="justice" subtype="execute" realis="generic">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="889" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-838" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="842" length="6">killer</trigger>
+  </event_mention>
+  <event_mention id="em-919" type="life" subtype="die" realis="actual">
+    <trigger source="7f3bbe3789d9b9b9bbc4f6af1ad0a4dd" offset="308" length="6">killer</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

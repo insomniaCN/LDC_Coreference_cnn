@@ -1,0 +1,159 @@
+T1	Contact_Contact 2502 2511	expressed
+E1	Contact_Contact:T1
+A1	Realis E1 Actual
+T2	Contact_Contact 572 576	said
+E15	Contact_Contact:T2
+A2	Realis E15 Actual
+T3	Contact_Contact 2108 2114	claims
+E40	Contact_Contact:T3
+A3	Realis E40 Generic
+T4	Conflict_Attack 3177 3184	killing
+E44	Conflict_Attack:T4
+A4	Realis E44 Actual
+T5	Personnel_Elect 1204 1212	election
+E54	Personnel_Elect:T5
+A5	Realis E54 Actual
+T6	Contact_Contact 592 602	consulting
+E61	Contact_Contact:T6
+A6	Realis E61 Actual
+T7	Personnel_Elect 618 623	elect
+E121	Personnel_Elect:T7
+A7	Realis E121 Actual
+T8	Personnel_Start-Position 3278 3281	put
+E168	Personnel_Start-Position:T8
+A8	Realis E168 Actual
+T9	Personnel_End-Position 2045 2050	fired
+E191	Personnel_End-Position:T9
+A9	Realis E191 Actual
+T10	Personnel_End-Position 2299 2304	fired
+E204	Personnel_End-Position:T10
+A10	Realis E204 Actual
+T11	Contact_Contact 3359 3370	allegations
+E267	Contact_Contact:T11
+A11	Realis E267 Generic
+T12	Justice_Arrest-Jail 3425 3433	detained
+E294	Justice_Arrest-Jail:T12
+A12	Realis E294 Generic
+T13	Conflict_Attack 3374 3381	beating
+E327	Conflict_Attack:T13
+A13	Realis E327 Other
+T14	Contact_Contact 2742 2751	explained
+E331	Contact_Contact:T14
+A14	Realis E331 Other
+T15	Contact_Contact 421 432	allegations
+E334	Contact_Contact:T15
+A15	Realis E334 Generic
+T16	Life_Die 440 445	death
+E336	Life_Die:T16
+A16	Realis E336 Generic
+T17	Justice_Acquit 3140 3149	acquitted
+E396	Justice_Acquit:T17
+A17	Realis E396 Actual
+T18	Personnel_End-Position 470 473	out
+E411	Personnel_End-Position:T18
+A18	Realis E411 Actual
+T19	Contact_Contact 2429 2433	said
+E443	Contact_Contact:T19
+A19	Realis E443 Actual
+T20	Personnel_Start-Position 2785 2793	incoming
+E445	Personnel_Start-Position:T20
+A20	Realis E445 Other
+T21	Contact_Contact 921 932	allegations
+E447	Contact_Contact:T21
+A21	Realis E447 Generic
+T22	Contact_Contact 1235 1241	argued
+E452	Contact_Contact:T22
+A22	Realis E452 Actual
+T23	Contact_Contact 2159 2170	accusations
+E453	Contact_Contact:T23
+A23	Realis E453 Generic
+T24	Life_Die 846 854	killings
+E454	Life_Die:T24
+A24	Realis E454 Generic
+T25	Contact_Contact 2062 2068	claims
+E500	Contact_Contact:T25
+A25	Realis E500 Generic
+T26	Contact_Contact 2357 2368	accusations
+E517	Contact_Contact:T26
+A26	Realis E517 Generic
+T27	Contact_Contact 1049 1056	praised
+E522	Contact_Contact:T27
+A27	Realis E522 Generic
+T28	Contact_Contact 2536 2549	consultations
+E567	Contact_Contact:T28
+A28	Realis E567 Actual
+T29	Life_Die 3072 3078	killed
+E575	Life_Die:T29
+A29	Realis E575 Generic
+T30	Personnel_End-Position 2144 2153	dismissed
+E585	Personnel_End-Position:T30
+A30	Realis E585 Actual
+T31	Personnel_End-Position 2458 2464	remove
+E633	Personnel_End-Position:T31
+A31	Realis E633 Other
+T32	Personnel_Nominate 968 973	named
+E635	Personnel_Nominate:T32
+A32	Realis E635 Actual
+T33	Life_Die 3383 3390	killing
+E654	Life_Die:T33
+A33	Realis E654 Other
+T34	Personnel_Start-Position 2599 2614	comes to office
+E687	Personnel_Start-Position:T34
+A34	Realis E687 Other
+T35	Personnel_End-Position 150 153	out
+E697	Personnel_End-Position:T35
+A35	Realis E697 Actual
+T36	Conflict_Attack 3072 3078	killed
+E701	Conflict_Attack:T36
+A36	Realis E701 Generic
+T37	Contact_Contact 3017 3028	accusations
+E727	Contact_Contact:T37
+A37	Realis E727 Generic
+T38	Life_Die 3177 3184	killing
+E741	Life_Die:T38
+A38	Realis E741 Actual
+T39	Conflict_Attack 846 854	killings
+E749	Conflict_Attack:T39
+A39	Realis E749 Generic
+T40	Personnel_End-Position 514 521	removed
+E760	Personnel_End-Position:T40
+A40	Realis E760 Actual
+T41	Conflict_Attack 367 374	violent
+E798	Conflict_Attack:T41
+A41	Realis E798 Generic
+T42	Personnel_Start-Position 652 657	takes
+E809	Personnel_Start-Position:T42
+A42	Realis E809 Other
+T43	Contact_Contact 2808 2814	voiced
+E812	Contact_Contact:T43
+A43	Realis E812 Actual
+T44	Personnel_End-Position 2524 2531	leaving
+E817	Personnel_End-Position:T44
+A44	Realis E817 Other
+T45	Life_Die 3165 3170	death
+E824	Life_Die:T45
+A45	Realis E824 Generic
+T46	Justice_Charge-Indict 2952 2959	charged
+E831	Justice_Charge-Indict:T46
+A46	Realis E831 Actual
+T47	Justice_Charge-Indict 817 824	charges
+E862	Justice_Charge-Indict:T47
+A47	Realis E862 Actual
+T48	Personnel_End-Position 1153 1159	firing
+E866	Personnel_End-Position:T48
+A48	Realis E866 Actual
+T49	Justice_Acquit 799 808	acquitted
+E869	Justice_Acquit:T49
+A49	Realis E869 Actual
+T50	Contact_Contact 946 956	questioned
+E884	Contact_Contact:T50
+A50	Realis E884 Generic
+T51	Conflict_Attack 3383 3390	killing
+E909	Conflict_Attack:T51
+A51	Realis E909 Other
+T52	Personnel_Elect 2565 2570	elect
+E928	Personnel_Elect:T52
+A52	Realis E928 Actual
+T53	Personnel_End-Position 2091 2096	fired
+E940	Personnel_End-Position:T53
+A53	Realis E940 Actual

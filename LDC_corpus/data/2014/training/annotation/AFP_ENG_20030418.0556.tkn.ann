@@ -1,0 +1,30 @@
+T1	Transaction_Transfer-Money 206 209	pay
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Money 381 384	pay
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Money 446 456	settlement
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 704 709	split
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Ownership 861 864	get
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Other
+T6	Life_Divorce 1247 1254	divorce
+E6	Life_Divorce:T6 
+A6	Realis E6 Actual
+T7	Life_Divorce 438 445	divorce
+E7	Life_Divorce:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Money 1498 1506	received
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+T9	Life_Divorce 1696 1703	divorce
+E9	Life_Divorce:T9 
+A9	Realis E9 Other
+T10	Life_Marry 1730 1738	marriage
+E10	Life_Marry:T10 
+A10	Realis E10 Actual

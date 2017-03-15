@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea490000000000000010" doc_id="NYT_ENG_20130509.0111" source_type="newswire">
+  <event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="2678" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-24" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="2464" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-29" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="550" length="11">discussions</trigger>
+  </event_mention>
+  <event_mention id="em-40" type="justice" subtype="fine" realis="generic">
+    <trigger source="NYT_ENG_20130509.0111" offset="735" length="5">fines</trigger>
+  </event_mention>
+  <event_mention id="em-92" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130509.0111" offset="792" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-97" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130509.0111" offset="1074" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-152" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130509.0111" offset="3440" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-158" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130509.0111" offset="4535" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-205" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130509.0111" offset="769" length="6">income</trigger>
+  </event_mention>
+  <event_mention id="em-238" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="2753" length="5">added</trigger>
+  </event_mention>
+  <event_mention id="em-334" type="life" subtype="beborn" realis="generic">
+    <trigger source="NYT_ENG_20130509.0111" offset="1477" length="4">have</trigger>
+  </event_mention>
+  <event_mention id="em-374" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="3164" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-383" type="justice" subtype="fine" realis="other">
+    <trigger source="NYT_ENG_20130509.0111" offset="698" length="5">fined</trigger>
+  </event_mention>
+  <event_mention id="em-465" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="2608" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-477" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130509.0111" offset="4091" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-479" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="1113" length="5">Calls</trigger>
+  </event_mention>
+  <event_mention id="em-547" type="justice" subtype="fine" realis="generic">
+    <trigger source="NYT_ENG_20130509.0111" offset="1339" length="5">fines</trigger>
+  </event_mention>
+  <event_mention id="em-554" type="life" subtype="beborn" realis="generic">
+    <trigger source="NYT_ENG_20130509.0111" offset="3341" length="9">birthrate</trigger>
+  </event_mention>
+  <event_mention id="em-632" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="4444" length="10">translator</trigger>
+  </event_mention>
+  <event_mention id="em-655" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="472" length="7">reports</trigger>
+  </event_mention>
+  <event_mention id="em-704" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="1550" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-732" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130509.0111" offset="3965" length="8">followed</trigger>
+  </event_mention>
+  <event_mention id="em-754" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="1028" length="9">confirmed</trigger>
+  </event_mention>
+  <event_mention id="em-783" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="2985" length="7">comment</trigger>
+  </event_mention>
+  <event_mention id="em-807" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="3096" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-855" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130509.0111" offset="446" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-915" type="justice" subtype="fine" realis="generic">
+    <trigger source="NYT_ENG_20130509.0111" offset="1510" length="7">penalty</trigger>
+  </event_mention>
+  <event_mention id="em-955" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130509.0111" offset="3699" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="life" subtype="divorce" realis="actual">
+    <trigger source="NYT_ENG_20130509.0111" offset="4166" length="8">divorced</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

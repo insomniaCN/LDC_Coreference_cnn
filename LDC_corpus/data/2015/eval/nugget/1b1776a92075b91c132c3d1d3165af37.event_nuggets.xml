@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea8f0000000000000112" doc_id="1b1776a92075b91c132c3d1d3165af37" source_type="multi_post">
+  <event_mention id="em-36" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1307" length="7">crossed</trigger>
+  </event_mention>
+  <event_mention id="em-40" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="529" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-56" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1720" length="7">present</trigger>
+  </event_mention>
+  <event_mention id="em-79" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="338" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-84" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1688" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-91" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="181" length="6">jailed</trigger>
+  </event_mention>
+  <event_mention id="em-93" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="212" length="8">straying</trigger>
+  </event_mention>
+  <event_mention id="em-193" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1191" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-337" type="movement" subtype="transportperson" realis="other">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1834" length="6">hiking</trigger>
+  </event_mention>
+  <event_mention id="em-399" type="movement" subtype="transportperson" realis="other">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="2096" length="4">hike</trigger>
+  </event_mention>
+  <event_mention id="em-401" type="life" subtype="marry" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1712" length="7">wedding</trigger>
+  </event_mention>
+  <event_mention id="em-415" type="life" subtype="marry" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="384" length="7">wedding</trigger>
+  </event_mention>
+  <event_mention id="em-466" type="life" subtype="marry" realis="other">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="266" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-471" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="762" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-491" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1846" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-538" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1688" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-611" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="876" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-706" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1084" length="9">captivity</trigger>
+  </event_mention>
+  <event_mention id="em-735" type="life" subtype="marry" realis="other">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="299" length="8">ceremony</trigger>
+  </event_mention>
+  <event_mention id="em-741" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="174" length="6">hikers</trigger>
+  </event_mention>
+  <event_mention id="em-779" type="life" subtype="marry" realis="other">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="951" length="7">wedding</trigger>
+  </event_mention>
+  <event_mention id="em-798" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="897" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-832" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1846" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-871" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="1b1776a92075b91c132c3d1d3165af37" offset="1233" length="8">arrested</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

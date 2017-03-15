@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa30000000000000154" doc_id="5bc94ac1a060163b02e199203f69755c" source_type="multi_post">
+  <event_mention id="em-4" type="justice" subtype="sentence" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2178" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-86" type="conflict" subtype="attack" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="733" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-95" type="justice" subtype="chargeindict" realis="generic">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2432" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-117" type="justice" subtype="sentence" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1541" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-138" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="724" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-145" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2271" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-146" type="conflict" subtype="attack" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="496" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-186" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1575" length="10">interviews</trigger>
+  </event_mention>
+  <event_mention id="em-236" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1811" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-270" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1080" length="7">pardons</trigger>
+  </event_mention>
+  <event_mention id="em-311" type="conflict" subtype="attack" realis="other">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2212" length="8">attacker</trigger>
+  </event_mention>
+  <event_mention id="em-333" type="conflict" subtype="attack" realis="generic">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2690" length="8">violence</trigger>
+  </event_mention>
+  <event_mention id="em-347" type="justice" subtype="releaseparole" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="312" length="4">free</trigger>
+  </event_mention>
+  <event_mention id="em-407" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1437" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-441" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2573" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-466" type="conflict" subtype="attack" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2920" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-488" type="movement" subtype="transportperson" realis="other">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="909" length="7">get out</trigger>
+  </event_mention>
+  <event_mention id="em-513" type="conflict" subtype="attack" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="755" length="5">raped</trigger>
+  </event_mention>
+  <event_mention id="em-543" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1800" length="8">pardoned</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="937" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-564" type="conflict" subtype="attack" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1107" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-598" type="conflict" subtype="attack" realis="other">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1929" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-604" type="movement" subtype="transportperson" realis="other">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2483" length="6">return</trigger>
+  </event_mention>
+  <event_mention id="em-624" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1970" length="4">word</trigger>
+  </event_mention>
+  <event_mention id="em-625" type="conflict" subtype="attack" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="212" length="4">rape</trigger>
+  </event_mention>
+  <event_mention id="em-627" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2893" length="7">pardons</trigger>
+  </event_mention>
+  <event_mention id="em-740" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2019" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-744" type="conflict" subtype="attack" realis="other">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1398" length="5">raped</trigger>
+  </event_mention>
+  <event_mention id="em-760" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1382" length="7">claimed</trigger>
+  </event_mention>
+  <event_mention id="em-824" type="justice" subtype="releaseparole" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="239" length="4">free</trigger>
+  </event_mention>
+  <event_mention id="em-854" type="justice" subtype="pardon" realis="actual">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="2510" length="6">pardon</trigger>
+  </event_mention>
+  <event_mention id="em-904" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1904" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-921" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="1484" length="5">going</trigger>
+  </event_mention>
+  <event_mention id="em-974" type="movement" subtype="transportperson" realis="other">
+    <trigger source="5bc94ac1a060163b02e199203f69755c" offset="247" length="2">go</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

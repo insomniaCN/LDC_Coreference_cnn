@@ -1,0 +1,147 @@
+T1	Justice_Charge-Indict 365 371	charge
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Justice_Extradite 394 405	extradition
+E2	Justice_Extradite:T2 
+A2	Realis E2 Other
+T3	Justice_Extradite 1002 1013	extradition
+E3	Justice_Extradite:T3 
+A3	Realis E3 Other
+T4	Justice_Charge-Indict 1028 1035	charges
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 1040 1047	selling
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Justice_Extradite 1183 1194	extradition
+E6	Justice_Extradite:T6 
+A6	Realis E6 Other
+T7	Justice_Charge-Indict 1231 1237	charge
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 1246 1258	distribution
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Justice_Extradite 1305 1316	extradition
+E9	Justice_Extradite:T9 
+A9	Realis E9 Other
+T10	Justice_Trial-Hearing 1317 1324	hearing
+E10	Justice_Trial-Hearing:T10 
+A10	Realis E10 Actual
+T11	Justice_Arrest-Jail 1754 1756;1772 1784	in penitentiary
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Other
+T12	Justice_Sentence 1871 1880	sentenced
+E12	Justice_Sentence:T12 
+A12	Realis E12 Other
+T13	Movement_Transport-Person 1940 1951	transferred
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Other
+T14	Justice_Arrest-Jail 2207 2214	in jail
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Other
+T15	Justice_Charge-Indict 2326 2333	charges
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Ownership 2338 2345	selling
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Actual
+T18	Justice_Extradite 2545 2556	extradition
+E18	Justice_Extradite:T18 
+A18	Realis E18 Other
+T20	Justice_Extradite 2737 2748	extradition
+E20	Justice_Extradite:T20 
+A20	Realis E20 Generic
+T21	Justice_Release-Parole 2937 2955	free out of prison
+E21	Justice_Release-Parole:T21 
+A21	Realis E21 Other
+T22	Justice_Arrest-Jail 3067 3074	in jail
+E22	Justice_Arrest-Jail:T22 
+A22	Realis E22 Other
+T23	Justice_Arrest-Jail 3194 3196;3212 3224	in penitentiary
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Other
+T24	Transaction_Transfer-Ownership 3388 3397	providing
+E24	Transaction_Transfer-Ownership:T24 
+A24	Realis E24 Actual
+T25	Contact_Meet 3593 3602	interview
+E25	Contact_Meet:T25 
+A25	Realis E25 Actual
+T26	Transaction_Transfer-Money 3718 3722	gave
+E26	Transaction_Transfer-Money:T26 
+A26	Realis E26 Actual
+T27	Justice_Sentence 3826 3836	sentencing
+E27	Justice_Sentence:T27 
+A27	Realis E27 Other
+T28	Personnel_Elect 3899 3908	elections
+E28	Personnel_Elect:T28 
+A28	Realis E28 Generic
+T29	Justice_Arrest-Jail 3997 3999;4011 4017	in prison
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Actual
+T30	Transaction_Transfer-Ownership 4022 4029	passing
+E30	Transaction_Transfer-Ownership:T30 
+A30	Realis E30 Actual
+T31	Justice_Arrest-Jail 4103 4105;4113 4119	in prison
+E31	Justice_Arrest-Jail:T31 
+A31	Realis E31 Other
+T32	Justice_Arrest-Jail 4150 4157	in jail
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Generic
+T33	Justice_Charge-Indict 4676 4686	prosecuted
+E33	Justice_Charge-Indict:T33 
+A33	Realis E33 Other
+T34	Justice_Arrest-Jail 4889 4899	go to jail
+E34	Justice_Arrest-Jail:T34 
+A34	Realis E34 Other
+T35	Justice_Extradite 5622 5631	extradite
+E35	Justice_Extradite:T35 
+A35	Realis E35 Other
+T36	Justice_Sentence 5700 5709	sentenced
+E36	Justice_Sentence:T36 
+A36	Realis E36 Other
+T37	Justice_Arrest-Jail 5725 5732	in jail
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Other
+T38	Transaction_Transfer-Ownership 5742 5749	selling
+E38	Transaction_Transfer-Ownership:T38 
+A38	Realis E38 Actual
+T39	Justice_Extradite 6125 6134	extradite
+E39	Justice_Extradite:T39 
+A39	Realis E39 Other
+T40	Justice_Sentence 6203 6212	sentenced
+E40	Justice_Sentence:T40 
+A40	Realis E40 Other
+T41	Justice_Arrest-Jail 6228 6235	in jail
+E41	Justice_Arrest-Jail:T41 
+A41	Realis E41 Other
+T42	Transaction_Transfer-Ownership 6245 6252	selling
+E42	Transaction_Transfer-Ownership:T42 
+A42	Realis E42 Actual
+T43	Justice_Charge-Indict 1533 1540	charges
+E43	Justice_Charge-Indict:T43 
+A43	Realis E43 Actual
+T44	Justice_Arrest-Jail 1479 1486	in jail
+E44	Justice_Arrest-Jail:T44 
+A44	Realis E44 Other
+T45	Justice_Charge-Indict 1495 1501	charge
+E45	Justice_Charge-Indict:T45 
+A45	Realis E45 Actual
+T46	Transaction_Transfer-Ownership 1625 1637	distribution
+E46	Transaction_Transfer-Ownership:T46 
+A46	Realis E46 Actual
+T47	Justice_Sentence 1671 1680	sentenced
+E47	Justice_Sentence:T47 
+A47	Realis E47 Other
+T48	Contact_Communicate 1723 1729	asking
+E48	Contact_Communicate:T48 
+A48	Realis E48 Other
+T49	Contact_Communicate 2054 2058	said
+E49	Contact_Communicate:T49 
+A49	Realis E49 Actual
+T17	Contact_Communicate 3569 3573	told
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T19	Justice_Arrest-Jail 5080 5082	it
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Other

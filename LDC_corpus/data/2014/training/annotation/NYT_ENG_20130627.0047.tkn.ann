@@ -1,0 +1,51 @@
+T1	Life_Injure 542 549	injured
+E1	Life_Injure:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 2271 2288	troublesome wrist
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 2598 2607	rejoining
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T5	Contact_Communicate 3049 3056	emailed
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 3100 3114	telephone call
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 3361 3365	call
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Money 4170 4173	owe
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T11	Contact_Meet 5513 5516	met
+E11	Contact_Meet:T11 
+A11	Realis E11 Actual
+T13	Life_Injure 6659 6666	injured
+E13	Life_Injure:T13 
+A13	Realis E13 Actual
+T15	Contact_Meet 771 777	talked
+E15	Contact_Meet:T15 
+A15	Realis E15 Actual
+T16	Contact_Meet 700 712	conversation
+E16	Contact_Meet:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 3038 3044	called
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T18	Contact_Communicate 3400 3403;3431 3443	had conversation
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T4	Contact_Meet 1037 1041	told
+E4	Contact_Meet:T4 
+A4	Realis E4 Actual
+T20	Contact_Meet 1244 1253	explained
+E20	Contact_Meet:T20 
+A20	Realis E20 Actual
+T21	Personnel_End-Position 4266 4276	retirement
+E21	Personnel_End-Position:T21 
+A21	Realis E21 Other
+T9	Contact_Communicate 6573 6577	told
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual

@@ -1,0 +1,67 @@
+<DOC id="NYT_ENG_20130725.0244" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130725/20130725,c70abeab1536c6474b55631d3a7281e9.xml">
+<HEADLINE>
+325 at lender losing jobs
+</HEADLINE>
+<TEXT>
+<P>
+Mortgage Investors Corp., the beleaguered home lender run by prominent civic activist Bill Edwards, is laying off about 325 employees at its St. Petersburg headquarters, roughly a third of its workforce.
+</P>
+<P>
+''We had to pull in our wings, (but) my plans are to stay in business,'' Edwards said in an interview Wednesday.
+</P>
+<P>
+The company has been hammered with complaints for misleading customers and calling millions of people on the federal Do Not Call list.
+</P>
+<P>
+But Edwards, 68, flatly rejected allegations of unsatisfied customers, blaming his woes solely on an industry-wide drop in mortgage refinancings amid higher interest rates. It’s the same issue, he said, that has triggered layoffs for top lenders including JPMorgan Chase and Bank of America.
+</P>
+<P>
+''My problem is there is no liquidity in the bond markets and without bonds, we can’t provide mortgages,'' he said. ''You just can’t create mortgage-backed securities. .?.?. I haven’t seen this in 20 years where there are all sellers and no buyers of bonds, but it is what it is.''
+</P>
+<P>
+A layoff notice filed with the state Wednesday indicated that about 380 workers at Mortgage Investors headquarters at 6090 Central Ave. would lose their jobs this week. Edwards said he over-calculated in the filing and the layoff count will be closer to 325, leaving the company with about 600 employees. Most of the affected employees worked in the call center or as loan processors. They will continue to receive full pay and benefits for 60 days.
+</P>
+<P>
+The news comes less than a month after the Federal Trade Commission levied a civil penalty of $7.5 million on the home lender, the largest fine ever for a violation of the Do Not Call rule.
+</P>
+<P>
+Mortgage Investors called more than 5.4 million phone numbers on the National Do Not Call Registry to pitch home loan refinancing services to current and former members of the U.S. military, according to the FTC.
+</P>
+<P>
+In initial findings, the FTC said telemarketers led service members to believe they could receive low-interest, fixed-rate mortgages at no cost, ''often quoting rates that they implied would last the duration of their loan.'' In reality, regulators said, the company offered only adjustable rate mortgages that left customers liable for higher payments with rising interest rates. It also required customers to pay closing costs.
+</P>
+<P>
+On Wednesday, Edwards said the company cooperated with the FTC, but he called the charges unfounded, alleging that the FTC ''wanted to use me as a poster child’' to mark the 10th anniversary of the Do Not Call registry.
+</P>
+<P>
+Mortgage Investors disputed in particular any allegations that it has deceived veterans about mortgage terms, he said. He also insisted that scores of online complaints about Mortgage Investors are not from ''real’' customers, dismissing them as anonymous online postings.
+</P>
+<P>
+''As far as misleading someone on a loan, I’ve never had one complaint,'' he said. ''I don’t have any real complaints from real customers sitting in my files.''
+</P>
+<P>
+The Times has talked to several homeowners who complained about deceptive and pressurizing tactics by Mortgage Investors. Among them: Don LaBarge, 73, of Brooksville, who said he agreed to refinance at a 2.5 percent rate with Mortgage Investors after being told the rate would be fixed for years.
+</P>
+<P>
+''Eight months after we were making payments, I got a bill from them,'' he said. ''Our house payment was going up $39. One full percent.''
+</P>
+<P>
+Edwards remained adamant that no complaints made their way to him. ''I can honestly say to you I’ve had no complaints from anyone who has gotten a loan from Mortgage Investors in almost 20 years. That’s all I can tell you,'' he reiterated.
+</P>
+<P>
+Asked about specific local cases such as LaBarge’s, he said: ''I haven’t heard from those people, but send them my way. I’d certainly be happy to chat with them.''
+</P>
+<P>
+Founded in 1938, Mortgage Investors has grown into one of the country’s biggest refinancers of veterans’ home loans. Beyond running the mortgage firm, Edwards also runs a music production company. He also runs the city-owned Mahaffey Theater and bought downtown St. Petersburg’s BayWalk complex with plans to revitalize it as the renamed Shops at St. Pete.
+</P>
+<P>
+Earlier this year, Edwards said he planned to retire and arranged a sale of the mortgage firm to Tampa-based HomeBancorp. But the deal fell apart.
+</P>
+<P>
+Today he’s focusing on staying in business. ''I had run this company for 20 years, and I took a couple of years off to do something fun,'' he said. ''So I’m back doing it now and paying attention to what’s going on.''
+</P>
+<P>
+Jeff Harrington can be reached at jharrington@tampabay.com or (727) 893-8242.
+</P>
+</TEXT>
+</DOC>

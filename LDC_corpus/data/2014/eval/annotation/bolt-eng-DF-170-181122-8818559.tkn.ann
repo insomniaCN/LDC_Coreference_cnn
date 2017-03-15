@@ -1,0 +1,118 @@
+T1	Justice_Release-Parole 361 369	released
+E1	Justice_Release-Parole:T1 
+A1	Realis E1 Other
+T2	Justice_Release-Parole 606 614	released
+E2	Justice_Release-Parole:T2 
+A2	Realis E2 Other
+T3	Justice_Arrest-Jail 675 686	prison term
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+#1	AnnotatorNotes E3	Words like "began" and "started" are usually prohibited in contexts like these, but I think it's appropriate as the full nugget.
+T4	Transaction_Transfer-Money 734 739;744 749	raise money
+E4	Transaction_Transfer-Money:T4 
+A5	Realis E4 Other
+T5	Justice_Convict 1095 1104	convicted
+E5	Justice_Convict:T5 
+A6	Realis E5 Actual
+T6	Justice_Convict 1197 1206	convicted
+E6	Justice_Convict:T6 
+A7	Realis E6 Actual
+T7	Justice_Charge-Indict 1235 1242	charges
+E7	Justice_Charge-Indict:T7 
+A8	Realis E7 Actual
+T8	Personnel_Elect 1495 1504	elections
+E8	Personnel_Elect:T8 
+A9	Realis E8 Actual
+T9	Justice_Charge-Indict 1589 1596	accused
+E9	Justice_Charge-Indict:T9 
+A10	Realis E9 Actual
+T10	Transaction_Transfer-Money 1600 1607	bilking
+E10	Transaction_Transfer-Money:T10 
+A11	Realis E10 Other
+T11	Justice_Convict 2805 2814	convicted
+E11	Justice_Convict:T11 
+A12	Realis E11 Generic
+T12	Justice_Convict 3150 3159	convicted
+E12	Justice_Convict:T12 
+A13	Realis E12 Generic
+T13	Justice_Convict 5507 5517	conviction
+E13	Justice_Convict:T13 
+A14	Realis E13 Generic
+T14	Justice_Convict 5720 5729	convicted
+E14	Justice_Convict:T14 
+A15	Realis E14 Generic
+T15	Justice_Convict 5792 5801	convicted
+E15	Justice_Convict:T15 
+A16	Realis E15 Generic
+T16	Justice_Convict 5822 5831	convicted
+E16	Justice_Convict:T16 
+A17	Realis E16 Generic
+T17	Justice_Release-Parole 5897 5905	set free
+E17	Justice_Release-Parole:T17 
+A18	Realis E17 Generic
+T18	Justice_Convict 9170 9180	conviction
+E18	Justice_Convict:T18 
+A19	Realis E18 Generic
+T19	Justice_Convict 9383 9392	convicted
+E19	Justice_Convict:T19 
+A20	Realis E19 Generic
+T20	Justice_Convict 9455 9464	convicted
+E20	Justice_Convict:T20 
+A21	Realis E20 Generic
+T21	Justice_Convict 9485 9494	convicted
+E21	Justice_Convict:T21 
+A22	Realis E21 Generic
+T22	Justice_Release-Parole 9560 9568	set free
+E22	Justice_Release-Parole:T22 
+A23	Realis E22 Generic
+T23	Justice_Convict 9806 9815	convicted
+E23	Justice_Convict:T23 
+A24	Realis E23 Generic
+T24	Personnel_Elect 9957 9964	elected
+E24	Personnel_Elect:T24 
+A25	Realis E24 Generic
+T25	Justice_Release-Parole 10281 10287	parole
+E25	Justice_Release-Parole:T25 
+A26	Realis E25 Generic
+T26	Personnel_End-Position 212 218	Former
+E26	Personnel_End-Position:T26 
+A27	Realis E26 Actual
+T27	Justice_Arrest-Jail 252 254;263 269	in prison
+E27	Justice_Arrest-Jail:T27 
+A28	Realis E27 Actual
+T28	Personnel_End-Position 1173 1179	former
+E28	Personnel_End-Position:T28 
+A4	Realis E28 Actual
+T29	Justice_Arrest-Jail 1286 1292	prison
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Actual
+T30	Justice_Arrest-Jail 2181 2185	jail
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Actual
+T31	Justice_Arrest-Jail 2583 2590	in jail
+E31	Justice_Arrest-Jail:T31 
+A31	Realis E31 Actual
+T32	Justice_Arrest-Jail 5854 5860	prison
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Generic
+T33	Justice_Arrest-Jail 6021 6027	prison
+E33	Justice_Arrest-Jail:T33 
+A33	Realis E33 Generic
+T34	Justice_Release-Parole 5847 5860	out of prison
+E34	Justice_Release-Parole:T34 
+A34	Realis E34 Generic
+T35	Justice_Release-Parole 6014 6027	out of prison
+E35	Justice_Release-Parole:T35 
+A35	Realis E35 Generic
+T36	Justice_Release-Parole 9510 9523	out of prison
+E36	Justice_Release-Parole:T36 
+A36	Realis E36 Generic
+T37	Justice_Arrest-Jail 9517 9523	prison
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Generic
+T38	Justice_Release-Parole 9679 9692	out of prison
+E38	Justice_Release-Parole:T38 
+A38	Realis E38 Generic
+T39	Justice_Arrest-Jail 9686 9692	prison
+E39	Justice_Arrest-Jail:T39 
+A39	Realis E39 Generic

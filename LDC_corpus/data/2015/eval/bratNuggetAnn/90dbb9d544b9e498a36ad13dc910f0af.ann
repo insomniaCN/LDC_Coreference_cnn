@@ -1,0 +1,54 @@
+T1	Conflict_Attack 1496 1502	killed
+E60	Conflict_Attack:T1
+A1	Realis E60 Other
+T2	Life_Die 1496 1502	killed
+E74	Life_Die:T2
+A2	Realis E74 Actual
+T3	Justice_Convict 1010 1021	convictions
+E140	Justice_Convict:T3
+A3	Realis E140 Actual
+T4	Justice_Pardon 583 589	pardon
+E283	Justice_Pardon:T4
+A4	Realis E283 Other
+T5	Contact_Broadcast 1212 1221	statement
+E351	Contact_Broadcast:T5
+A5	Realis E351 Actual
+T6	Justice_Pardon 752 758	pardon
+E363	Justice_Pardon:T6
+A6	Realis E363 Other
+T7	Life_Injure 318 327	castrated
+E425	Life_Injure:T7
+A7	Realis E425 Actual
+T8	Contact_Contact 1153 1165	applications
+E548	Contact_Contact:T8
+A8	Realis E548 Generic
+T9	Contact_Broadcast 893 900	reports
+E647	Contact_Broadcast:T9
+A9	Realis E647 Actual
+T10	Life_Die 369 376	suicide
+E719	Life_Die:T10
+A10	Realis E719 Actual
+T11	Life_Die 1305 1312	suicide
+E791	Life_Die:T11
+A11	Realis E791 Actual
+T12	Life_Die 1450 1452	it
+E806	Life_Die:T12
+A12	Realis E806 Actual
+T13	Conflict_Attack 236 239	War
+E834	Conflict_Attack:T13
+A13	Realis E834 Actual
+T14	Contact_Contact 880 891	application
+E837	Contact_Contact:T14
+A14	Realis E837 Generic
+T15	Justice_Pardon 258 264	pardon
+E853	Justice_Pardon:T15
+A15	Realis E853 Actual
+T16	Justice_Charge-Indict 677 684	charged
+E878	Justice_Charge-Indict:T16
+A16	Realis E878 Actual
+T17	Justice_Convict 600 609	convicted
+E933	Justice_Convict:T17
+A17	Realis E933 Actual
+T18	Justice_Convict 431 440	convicted
+E989	Justice_Convict:T18
+A18	Realis E989 Actual

@@ -1,0 +1,299 @@
+T1	Justice_Sentence 255 264	sentenced
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 369 375	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 536 540	left
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 855 871	report to prison
+E4	Justice_Arrest-Jail:T4 
+A4	Questionable E4 Mention
+A5	Realis E4 Other
+T5	Justice_Appeal 931 937	appeal
+E5	Justice_Appeal:T5 
+A6	Realis E5 Other
+T6	Justice_Arrest-Jail 1590 1593;1598 1608	Got in the can
+E6	Justice_Arrest-Jail:T6 
+A7	Realis E6 Actual
+T7	Justice_Arrest-Jail 1732 1737;1743 1747	serve time
+E7	Justice_Arrest-Jail:T7 
+A8	Realis E7 Other
+T8	Justice_Appeal 1797 1803;1807 1812	appeal filed
+E8	Justice_Appeal:T8 
+A9	Realis E8 Other
+T9	Justice_Pardon 1972 1981	pardoning
+E9	Justice_Pardon:T9 
+A10	Realis E9 Other
+T10	Justice_Arrest-Jail 2186 2189;2194 2198	pay time
+E10	Justice_Arrest-Jail:T10 
+A11	Realis E10 Generic
+T11	Justice_Pardon 2232 2236;2243 2249	give pardon
+E11	Justice_Pardon:T11 
+A12	Realis E11 Other
+T12	Justice_Arrest-Jail 2661 2664;2669 2673	pay time
+E12	Justice_Arrest-Jail:T12 
+A13	Realis E12 Generic
+T13	Justice_Pardon 2707 2711;2718 2724	give pardon
+E13	Justice_Pardon:T13 
+A14	Realis E13 Other
+T14	Justice_Pardon 3122 3128	pardon
+E14	Justice_Pardon:T14 
+A15	Realis E14 Other
+T15	Justice_Pardon 3415 3419;3426 3432	give pardon
+E15	Justice_Pardon:T15 
+A16	Realis E15 Other
+T16	Movement_Transport-Person 3813 3819;3822 3827	go for drive
+E16	Movement_Transport-Person:T16 
+A17	Realis E16 Actual
+T17	Life_Injure 3982 3989	blinded
+E17	Life_Injure:T17 
+A18	Realis E17 Actual
+T18	Life_Injure 4008 4021	chest crushed
+E18	Life_Injure:T18 
+A19	Realis E18 Actual
+T19	Justice_Release-Parole 4092 4101	probation
+E19	Justice_Release-Parole:T19 
+A20	Realis E19 Actual
+T20	Movement_Transport-Person 4194 4201	driving
+E20	Movement_Transport-Person:T20 
+A21	Realis E20 Other
+T21	Justice_Arrest-Jail 4220 4229;4251 4259	serve out sentence
+E21	Justice_Arrest-Jail:T21 
+A22	Realis E21 Other
+T22	Movement_Transport-Person 4477 4483;4486 4491	go for drive
+E22	Movement_Transport-Person:T22 
+A23	Realis E22 Actual
+T23	Life_Injure 4646 4653	blinded
+E23	Life_Injure:T23 
+A24	Realis E23 Actual
+T24	Life_Injure 4672 4685	chest crushed
+E24	Life_Injure:T24 
+A25	Realis E24 Actual
+T25	Justice_Release-Parole 4756 4765	probation
+E25	Justice_Release-Parole:T25 
+A26	Realis E25 Actual
+T26	Movement_Transport-Person 4858 4865	driving
+E26	Movement_Transport-Person:T26 
+A27	Realis E26 Other
+T27	Justice_Arrest-Jail 4884 4892;4915 4923	serve ou sentence
+E27	Justice_Arrest-Jail:T27 
+A28	Realis E27 Other
+T28	Justice_Sentence 4980 4990	sentencing
+E28	Justice_Sentence:T28 
+A29	Realis E28 Generic
+T29	Justice_Acquit 5054 5058;5070 5078	find innocent
+E29	Justice_Acquit:T29 
+A30	Realis E29 Generic
+T30	Justice_Convict 5054 5058;5082 5088	find guilty
+E30	Justice_Convict:T30 
+A31	Realis E30 Generic
+T31	Justice_Sentence 5101 5110	sentences
+E31	Justice_Sentence:T31 
+A32	Realis E31 Generic
+T32	Justice_Pardon 5221 5227	pardon
+E32	Justice_Pardon:T32 
+A33	Realis E32 Other
+T33	Justice_Pardon 5361 5367	pardon
+E33	Justice_Pardon:T33 
+A34	Realis E33 Other
+T34	Personnel_End-Position 5580 5592	leave office
+E34	Personnel_End-Position:T34 
+A35	Realis E34 Other
+T35	Personnel_End-Position 5843 5855	leave office
+E35	Personnel_End-Position:T35 
+A36	Realis E35 Other
+T36	Justice_Pardon 6297 6305	pardoned
+E36	Justice_Pardon:T36 
+A37	Realis E36 Other
+T37	Justice_Pardon 6331 6339	pardoned
+E37	Justice_Pardon:T37 
+A38	Realis E37 Other
+T38	Justice_Pardon 6619 6627	pardoned
+E38	Justice_Pardon:T38 
+A39	Realis E38 Other
+T39	Justice_Pardon 6653 6661	pardoned
+E39	Justice_Pardon:T39 
+A40	Realis E39 Other
+T40	Movement_Transport-Person 7077 7083;7086 7091	go for drive
+E40	Movement_Transport-Person:T40 
+A41	Realis E40 Actual
+T41	Life_Injure 7246 7253	blinded
+E41	Life_Injure:T41 
+A42	Realis E41 Actual
+T42	Life_Injure 7272 7285	chest crushed
+E42	Life_Injure:T42 
+A43	Realis E42 Actual
+T43	Justice_Release-Parole 7356 7365	probation
+E43	Justice_Release-Parole:T43 
+A44	Realis E43 Actual
+T44	Movement_Transport-Person 7458 7465	driving
+E44	Movement_Transport-Person:T44 
+A45	Realis E44 Other
+T45	Justice_Sentence 7484 7493;7515 7523	serve out sentence
+E45	Justice_Sentence:T45 
+A46	Realis E45 Other
+T46	Justice_Sentence 7580 7590	sentencing
+E46	Justice_Sentence:T46 
+A47	Realis E46 Generic
+T47	Justice_Acquit 7654 7658;7670 7678	find innocent
+E47	Justice_Acquit:T47 
+A48	Realis E47 Generic
+T48	Justice_Convict 7654 7658;7682 7688	find guilty
+E48	Justice_Convict:T48 
+A49	Realis E48 Generic
+T49	Justice_Sentence 7701 7710	sentences
+E49	Justice_Sentence:T49 
+A50	Realis E49 Generic
+T50	Justice_Sentence 7901 7911	sentencing
+E50	Justice_Sentence:T50 
+A51	Realis E50 Generic
+T51	Justice_Convict 7975 7979;8003 8009	find guilty
+E51	Justice_Convict:T51 
+A52	Realis E51 Generic
+T52	Justice_Acquit 7975 7979;7991 7999	find innocent
+E52	Justice_Acquit:T52 
+A53	Realis E52 Generic
+T53	Justice_Sentence 8022 8031	sentences
+E53	Justice_Sentence:T53 
+A54	Realis E53 Generic
+T54	Justice_Sentence 8380 8390	sentencing
+E54	Justice_Sentence:T54 
+A55	Realis E54 Generic
+T55	Justice_Convict 8454 8458;8482 8488	find guilty
+E55	Justice_Convict:T55 
+A56	Realis E55 Generic
+T56	Justice_Acquit 8454 8458;8470 8478	find innocent
+E56	Justice_Acquit:T56 
+A57	Realis E56 Generic
+T57	Justice_Sentence 8501 8510	sentences
+E57	Justice_Sentence:T57 
+A58	Realis E57 Generic
+T58	Justice_Sentence 8849 8859	sentencing
+E58	Justice_Sentence:T58 
+A59	Realis E58 Generic
+T59	Justice_Execute 8915 8928	death penalty
+E59	Justice_Execute:T59 
+A60	Realis E59 Generic
+T60	Justice_Trial-Hearing 8962 8967	trial
+E60	Justice_Trial-Hearing:T60 
+A61	Realis E60 Generic
+T61	Justice_Convict 8991 9006	determine guilt
+E61	Justice_Convict:T61 
+A62	Realis E61 Generic
+T62	Justice_Acquit 8991 9000;9010 9019	determine innocence
+E62	Justice_Acquit:T62 
+A63	Realis E62 Generic
+T63	Justice_Convict 9055 9067	found guilty
+E63	Justice_Convict:T63 
+A64	Realis E63 Generic
+T64	Justice_Sentence 9086 9094	sentence
+E64	Justice_Sentence:T64 
+A65	Realis E64 Generic
+T65	Justice_Sentence 9363 9373	sentencing
+E65	Justice_Sentence:T65 
+A66	Realis E65 Generic
+T66	Justice_Trial-Hearing 9374 9381	hearing
+E66	Justice_Trial-Hearing:T66 
+A67	Realis E66 Generic
+T67	Justice_Convict 9393 9404	convictions
+E67	Justice_Convict:T67 
+A68	Realis E67 Generic
+T68	Justice_Convict 9409 9420	convictions
+E68	Justice_Convict:T68 
+A69	Realis E68 Generic
+T69	Justice_Arrest-Jail 9438 9451	incarceration
+E69	Justice_Arrest-Jail:T69 
+A70	Realis E69 Generic
+T70	Justice_Trial-Hearing 9459 9466;9478 9482	hearing held
+E70	Justice_Trial-Hearing:T70 
+A71	Realis E70 Generic
+T71	Justice_Sentence 9636 9646	sentencing
+E71	Justice_Sentence:T71 
+A72	Realis E71 Generic
+T72	Justice_Sentence 9994 10004	sentencing
+E72	Justice_Sentence:T72 
+A73	Realis E72 Generic
+T73	Justice_Execute 10060 10073	death penalty
+E73	Justice_Execute:T73 
+A74	Realis E73 Generic
+T74	Justice_Trial-Hearing 10107 10112	trial
+E74	Justice_Trial-Hearing:T74 
+A75	Realis E74 Generic
+T75	Justice_Convict 10136 10151	determine guilt
+E75	Justice_Convict:T75 
+A76	Realis E75 Generic
+T76	Justice_Acquit 10136 10145;10155 10164	determine innocence
+E76	Justice_Acquit:T76 
+A77	Realis E76 Generic
+T77	Justice_Convict 10200 10212	found guilty
+E77	Justice_Convict:T77 
+A78	Realis E77 Generic
+T78	Justice_Sentence 10231 10239	sentence
+E78	Justice_Sentence:T78 
+A79	Realis E78 Generic
+T79	Justice_Arrest-Jail 10726 10731;10745 10758	serve jail sentence
+E79	Justice_Arrest-Jail:T79 
+A80	Realis E79 Other
+T80	Justice_Pardon 10763 10770;10773 10779	receive pardon
+E80	Justice_Pardon:T80 
+A81	Realis E80 Other
+T81	Justice_Arrest-Jail 11100 11105;11119 11132	serve jail sentence
+E81	Justice_Arrest-Jail:T81 
+A82	Realis E81 Other
+T82	Justice_Pardon 11137 11144;11147 11153	receive pardon
+E82	Justice_Pardon:T82 
+A83	Realis E82 Other
+T83	Justice_Appeal 11357 11364	appeals
+E83	Justice_Appeal:T83 
+A84	Realis E83 Other
+T84	Justice_Arrest-Jail 11283 11289	report
+E84	Justice_Arrest-Jail:T84 
+A85	Questionable E84 Mention
+A86	Realis E84 Other
+T85	Justice_Sentence 12014 12024	sentencing
+E85	Justice_Sentence:T85 
+A87	Realis E85 Generic
+T86	Justice_Execute 12080 12093	death penalty
+E86	Justice_Execute:T86 
+A88	Realis E86 Generic
+T87	Justice_Trial-Hearing 12139 12144	trial
+E87	Justice_Trial-Hearing:T87 
+A89	Realis E87 Generic
+T88	Justice_Convict 12168 12183	determine guilt
+E88	Justice_Convict:T88 
+A90	Realis E88 Generic
+T89	Justice_Acquit 12168 12177;12187 12196	determine innocence
+E89	Justice_Acquit:T89 
+A91	Realis E89 Generic
+T90	Justice_Convict 12232 12244	found guilty
+E90	Justice_Convict:T90 
+A92	Realis E90 Generic
+T91	Justice_Sentence 12263 12271	sentence
+E91	Justice_Sentence:T91 
+A93	Realis E91 Generic
+T92	Justice_Trial-Hearing 12369 12374	trial
+E92	Justice_Trial-Hearing:T92 
+A94	Realis E92 Generic
+T93	Justice_Convict 12395 12400;12415 12421	finds guilty
+E93	Justice_Convict:T93 
+A95	Realis E93 Generic
+T94	Justice_Acquit 12395 12400;12425 12433	finds innocent
+E94	Justice_Acquit:T94 
+A96	Realis E94 Generic
+T95	Justice_Pardon 12490 12494;12497 12503	give pardon
+E95	Justice_Pardon:T95 
+A97	Realis E95 Other
+T96	Justice_Pardon 12634 12640	pardon
+E96	Justice_Pardon:T96 
+A98	Realis E96 Other
+T97	Justice_Pardon 12774 12780	pardon
+E97	Justice_Pardon:T97 
+A99	Realis E97 Other
+T98	Justice_Pardon 12937 12943	pardon
+E98	Justice_Pardon:T98 
+A100	Realis E98 Other
+T99	Personnel_End-Position 12974 12987	out of office
+E99	Personnel_End-Position:T99 
+A101	Realis E99 Other

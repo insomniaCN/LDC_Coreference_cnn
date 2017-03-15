@@ -1,0 +1,50 @@
+T1	Personnel_End-Position 134 140	former
+E842	Personnel_End-Position:T1
+A1	Realis E842 Actual
+T2	Personnel_End-Position 405 413	resigned
+E742	Personnel_End-Position:T2
+A2	Realis E742 Actual
+T3	Justice_Sentence 172 181	sentenced
+E389	Justice_Sentence:T3
+A3	Realis E389 Actual
+T4	Justice_Sentence 594 602	sentence
+E135	Justice_Sentence:T4
+A4	Realis E135 Actual
+T5	Justice_Sentence 853 861	sentence
+E90	Justice_Sentence:T5
+A5	Realis E90 Other
+T6	Justice_Sentence 926 934	sentence
+E635	Justice_Sentence:T6
+A6	Realis E635 Other
+T7	Justice_Sentence 1072 1080	sentence
+E369	Justice_Sentence:T7
+A7	Realis E369 Actual
+T8	Justice_Arrest-Jail 197 203	prison
+E562	Justice_Arrest-Jail:T8
+A8	Realis E562 Other
+T9	Justice_Convict 234 240	guilty
+E372	Justice_Convict:T9
+A9	Realis E372 Actual
+T10	Transaction_Transfer-Money 301 304	tax
+E888	Transaction_Transfer-Money:T10
+A10	Realis E888 Generic
+T11	Contact_Meet 353 358	asked
+E268	Contact_Meet:T11
+A11	Realis E268 Actual
+T12	Contact_Broadcast 514 522	reported
+E343	Contact_Broadcast:T12
+A12	Realis E343 Actual
+T13	Contact_Contact 765 769	said
+E870	Contact_Contact:T13
+A13	Realis E870 Actual
+T14	Justice_Charge-Indict 1596 1602	charge
+E384	Justice_Charge-Indict:T14
+A14	Realis E384 Other
+T15	Transaction_Transaction 287 296	extortion
+E493	Transaction_Transaction:T15
+A15	Realis E493 Actual
+R1	Coreference Arg1:E842 Arg2:E742
+R2	Coreference Arg1:E389 Arg2:E135
+R3	Coreference Arg1:E135 Arg2:E90
+R4	Coreference Arg1:E90 Arg2:E635
+R5	Coreference Arg1:E635 Arg2:E369

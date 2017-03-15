@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000648" doc_id="WPB_ENG_20100917.0028" source_type="newswire">
+<event_mention id="em-10" type="life" subtype="divorce" realis="generic">
+        <trigger source="WPB_ENG_20100917.0028" offset="101" length="7">Divorce</trigger>
+      </event_mention>
+<event_mention id="em-23" type="life" subtype="divorce" realis="other">
+        <trigger source="WPB_ENG_20100917.0028" offset="232" length="5">marry</trigger>
+      </event_mention>
+<event_mention id="em-38" type="life" subtype="divorce" realis="other">
+        <trigger source="WPB_ENG_20100917.0028" offset="316" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-53" type="life" subtype="divorce" realis="generic">
+        <trigger source="WPB_ENG_20100917.0028" offset="514" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-66" type="life" subtype="die" realis="generic">
+        <trigger source="WPB_ENG_20100917.0028" offset="1125" length="7">suicide</trigger>
+      </event_mention>
+<event_mention id="em-81" type="life" subtype="divorce" realis="generic">
+        <trigger source="WPB_ENG_20100917.0028" offset="1325" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-94" type="life" subtype="divorce" realis="generic">
+        <trigger source="WPB_ENG_20100917.0028" offset="1493" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-107" type="life" subtype="marry" realis="actual">
+        <trigger source="WPB_ENG_20100917.0028" offset="1649" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-122" type="life" subtype="divorce" realis="actual">
+        <trigger source="WPB_ENG_20100917.0028" offset="1678" length="8">divorced</trigger>
+      </event_mention>
+<event_mention id="em-137" type="life" subtype="marry" realis="actual">
+        <trigger source="WPB_ENG_20100917.0028" offset="1769" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-152" type="life" subtype="divorce" realis="actual">
+        <trigger source="WPB_ENG_20100917.0028" offset="1885" length="8">divorced</trigger>
+      </event_mention>
+<event_mention id="em-167" type="life" subtype="divorce" realis="actual">
+        <trigger source="WPB_ENG_20100917.0028" offset="2026" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-182" type="life" subtype="divorce" realis="actual">
+        <trigger source="WPB_ENG_20100917.0028" offset="2362" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-197" type="life" subtype="divorce" realis="other">
+        <trigger source="WPB_ENG_20100917.0028" offset="2570" length="8">divorced</trigger>
+      </event_mention>
+<event_mention id="em-212" type="life" subtype="marry" realis="other">
+        <trigger source="WPB_ENG_20100917.0028" offset="2583" length="9">remarried</trigger>
+      </event_mention>
+<event_mention id="em-227" type="life" subtype="marry" realis="other">
+        <trigger source="WPB_ENG_20100917.0028" offset="2645" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-242" type="life" subtype="marry" realis="other">
+        <trigger source="WPB_ENG_20100917.0028" offset="2740" length="8">marriage</trigger>
+      </event_mention>
+<event_mention id="em-257" type="life" subtype="divorce" realis="generic">
+        <trigger source="WPB_ENG_20100917.0028" offset="2874" length="7">divorce</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

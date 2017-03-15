@@ -1,0 +1,29 @@
+<doc id="9d0952989f28fbbb2ff27f64836b6b1e">
+<headline> </headline>
+<post author="Eugene" datetime="2013-07-25T19:39:00" id="p1">
+Source: Reuters
+
+<a href="http://www.reuters.com/article/2013/07/25/us-morganstanley-aclu-lawsuit-idUSBRE96O1FY20130725">Judge approves suit tying Morgan Stanley to toxic lending in Detroit</a>
+
+By Bernard Vaughan
+NEW YORK | Thu Jul 25, 2013 6:11pm EDT
+
+(Reuters) - A federal judge on Thursday approved a lawsuit accusing Morgan Stanley of discrimination for encouraging a subprime mortgage lender to target black homeowners in Detroit.
+
+In the ruling, U.S. District Judge Harold Baer in New York made a connection between predatory lending in the run-up to the financial crisis in 2008 and Detroit's bankruptcy petition last week.
+
+"Detroit's recent bankruptcy filing only emphasizes the broader consequences of predatory lending and the foreclosures that inevitably result," Baer wrote in a 13-page opinion. "It is not difficult to conclude that Detroit's current predicament, at least in part, is an outgrowth of the predatory lending at issue here."
+
+The plaintiffs include five black homeowners in Detroit who accuse the bank of discrimination for giving New Century Mortgage Company incentives to issue loans, including loans with balloon payments, that were likely to fail.
+
+-snip-
+
+Read more: <a href="http://www.reuters.com/article/2013/07/25/us-morganstanley-aclu-lawsuit-idUSBRE96O1FY20130725">http://www.reuters.com/article/2013/07/25/us-morganstanley-aclu-lawsuit-idUSBRE96O1FY20130725</a>
+</post>
+<post author="Demeter" datetime="2013-07-25T20:19:00" id="p2">
+1. Finally!
+</post>
+<post author="mbperrin" datetime="2013-07-25T21:34:00" id="p3">
+2. Stay off small planes, judge. Great news!
+</post>
+</doc>

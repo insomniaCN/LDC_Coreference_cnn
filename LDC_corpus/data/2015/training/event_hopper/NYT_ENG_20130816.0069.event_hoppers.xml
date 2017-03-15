@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000646" doc_id="NYT_ENG_20130816.0069" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="202" length="3">WAR</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="450" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-342" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="1500" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-385" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="1824" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="232" length="4">DIES</trigger>
+      </event_mention>
+      <event_mention id="em-146" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="537" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-172" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="735" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-198" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="921" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-159" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130816.0069" offset="650" length="4">dine</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-118">
+      <event_mention id="em-185" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130816.0069" offset="833" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-224">
+      <event_mention id="em-211" type="life" subtype="beborn" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="935" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-239">
+      <event_mention id="em-226" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="1155" length="6">killer</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-254">
+      <event_mention id="em-241" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1370" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-269">
+      <event_mention id="em-256" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1383" length="8">genocide</trigger>
+      </event_mention>
+      <event_mention id="em-329" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1447" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-284">
+      <event_mention id="em-271" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1418" length="8">bombings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-299">
+      <event_mention id="em-301" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="NYT_ENG_20130816.0069" offset="1428" length="10">hijackings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-314">
+      <event_mention id="em-316" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1428" length="10">hijackings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-368">
+      <event_mention id="em-355" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1673" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-383">
+      <event_mention id="em-370" type="justice" subtype="execute" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1723" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-1591" type="justice" subtype="execute" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7508" length="8">executed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-411">
+      <event_mention id="em-398" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1835" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-1619" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7606" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-1645" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7679" length="4">case</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-426">
+      <event_mention id="em-413" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="1845" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-1632" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7655" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-441">
+      <event_mention id="em-428" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="2189" length="6">deaths</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-456">
+      <event_mention id="em-443" type="life" subtype="marry" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="2235" length="7">married</trigger>
+      </event_mention>
+      <event_mention id="em-1299" type="life" subtype="marry" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6248" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-458">
+      <event_mention id="em-460" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130816.0069" offset="2273" length="10">guillotine</trigger>
+      </event_mention>
+      <event_mention id="em-1312" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130816.0069" offset="5947" length="10">guillotine</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-473">
+      <event_mention id="em-475" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130816.0069" offset="2507" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-501">
+      <event_mention id="em-488" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130816.0069" offset="2642" length="4">talk</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-516">
+      <event_mention id="em-503" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="2747" length="7">postwar</trigger>
+      </event_mention>
+      <event_mention id="em-533" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3056" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-531">
+      <event_mention id="em-518" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="2912" length="8">bombings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-559">
+      <event_mention id="em-546" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3127" length="6">trials</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-574">
+      <event_mention id="em-561" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3175" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-589">
+      <event_mention id="em-576" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3190" length="6">trials</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-604">
+      <event_mention id="em-591" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3364" length="6">indict</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-619">
+      <event_mention id="em-606" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3579" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-634">
+      <event_mention id="em-621" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3592" length="7">attacks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-649">
+      <event_mention id="em-636" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3711" length="8">bombings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-664">
+      <event_mention id="em-651" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="3842" length="7">wartime</trigger>
+      </event_mention>
+      <event_mention id="em-741" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="4169" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-679">
+      <event_mention id="em-666" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3917" length="7">torture</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-694">
+      <event_mention id="em-681" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3926" length="9">execution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-709">
+      <event_mention id="em-696" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="3940" length="11">deportation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-724">
+      <event_mention id="em-711" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="3955" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-739">
+      <event_mention id="em-726" type="justice" subtype="extradite" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4110" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-767">
+      <event_mention id="em-754" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4202" length="6">walked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-782">
+      <event_mention id="em-769" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4180" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-904" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4690" length="4">case</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-797">
+      <event_mention id="em-784" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130816.0069" offset="4231" length="9">testimony</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-812">
+      <event_mention id="em-799" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4286" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-827">
+      <event_mention id="em-814" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130816.0069" offset="4451" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-842">
+      <event_mention id="em-829" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="4471" length="8">genocide</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-857">
+      <event_mention id="em-844" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4512" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-872">
+      <event_mention id="em-859" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4526" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-887">
+      <event_mention id="em-874" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4547" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-902">
+      <event_mention id="em-889" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4564" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-930">
+      <event_mention id="em-917" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130816.0069" offset="4716" length="13">confrontation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-945">
+      <event_mention id="em-932" type="life" subtype="beborn" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="4929" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-960">
+      <event_mention id="em-947" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5014" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-975">
+      <event_mention id="em-962" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5154" length="7">founder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-990">
+      <event_mention id="em-977" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5145" length="6">became</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1005">
+      <event_mention id="em-992" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5293" length="6">sailed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1020">
+      <event_mention id="em-1007" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5312" length="6">joined</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1035">
+      <event_mention id="em-1022" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5362" length="6">fought</trigger>
+      </event_mention>
+      <event_mention id="em-1037" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5398" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1063">
+      <event_mention id="em-1050" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5446" length="6">joined</trigger>
+      </event_mention>
+      <event_mention id="em-1065" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5485" length="6">became</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1091">
+      <event_mention id="em-1078" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5699" length="9">Returning</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1106">
+      <event_mention id="em-1093" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5722" length="6">became</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1121">
+      <event_mention id="em-1108" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130816.0069" offset="5791" length="8">fighters</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1136">
+      <event_mention id="em-1123" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5816" length="4">case</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1151">
+      <event_mention id="em-1138" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5843" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1166">
+      <event_mention id="em-1153" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5864" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1181">
+      <event_mention id="em-1168" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5896" length="7">bombing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1196">
+      <event_mention id="em-1183" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5908" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1211">
+      <event_mention id="em-1198" type="life" subtype="die" realis="other">
+        <trigger source="NYT_ENG_20130816.0069" offset="5921" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1239">
+      <event_mention id="em-1226" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130816.0069" offset="6009" length="11">questioning</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1254">
+      <event_mention id="em-1241" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="5993" length="8">tortured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1269">
+      <event_mention id="em-1256" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130816.0069" offset="6137" length="7">release</trigger>
+      </event_mention>
+      <event_mention id="em-1286" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6195" length="8">released</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1284">
+      <event_mention id="em-1271" type="justice" subtype="execute" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6150" length="9">execution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1338">
+      <event_mention id="em-1325" type="life" subtype="beborn" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6270" length="8">children</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1353">
+      <event_mention id="em-1340" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6318" length="7">founded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1368">
+      <event_mention id="em-1355" type="life" subtype="marry" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6764" length="4">wife</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1383">
+      <event_mention id="em-1370" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6915" length="8">captured</trigger>
+      </event_mention>
+      <event_mention id="em-1400" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7001" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1398">
+      <event_mention id="em-1385" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="6962" length="5">flown</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1426">
+      <event_mention id="em-1413" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7067" length="4">case</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1441">
+      <event_mention id="em-1428" type="life" subtype="beborn" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7129" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1456">
+      <event_mention id="em-1443" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7144" length="5">hired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1471">
+      <event_mention id="em-1458" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7169" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1486">
+      <event_mention id="em-1473" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7191" length="9">sentenced</trigger>
+      </event_mention>
+      <event_mention id="em-1503" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7236" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1501">
+      <event_mention id="em-1488" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7212" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1529">
+      <event_mention id="em-1516" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7270" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1544">
+      <event_mention id="em-1531" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7323" length="8">captured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1559">
+      <event_mention id="em-1546" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7362" length="5">hired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1574">
+      <event_mention id="em-1561" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7384" length="6">ousted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1589">
+      <event_mention id="em-1576" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7450" length="7">deposed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1617">
+      <event_mention id="em-1658" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7783" length="8">genocide</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1684">
+      <event_mention id="em-1671" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7870" length="11">stormed out</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1699">
+      <event_mention id="em-1686" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="7953" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1714">
+      <event_mention id="em-1701" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130816.0069" offset="8010" length="6">argued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1729">
+      <event_mention id="em-1716" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="8074" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1744">
+      <event_mention id="em-1731" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="8120" length="9">massacres</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1759">
+      <event_mention id="em-1746" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130816.0069" offset="8298" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

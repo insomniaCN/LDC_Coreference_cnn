@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab10000000000000182" doc_id="87ea0022aa52856ee217496100d05b3d" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-306" type="life" subtype="divorce" realis="actual">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="170" length="8">divorced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-360" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="183" length="5">moved</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-142" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="314" length="6">called</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-716" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="466" length="6">called</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-839" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="853" length="7">adviced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-174" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="864" length="5">email</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-912" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="238" length="9">employing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-141">
+      <event_mention id="em-40" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="778" length="3">Tax</trigger>
+      </event_mention>
+      <event_mention id="em-421" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="87ea0022aa52856ee217496100d05b3d" offset="335" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

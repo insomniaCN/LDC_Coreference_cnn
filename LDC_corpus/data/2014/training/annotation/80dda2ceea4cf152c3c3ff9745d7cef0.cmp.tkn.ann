@@ -1,0 +1,105 @@
+T1	Life_Die 184 189	death
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 710 714	coup
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 880 884	coup
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 1023 1031	removing
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 1246 1258	overthrowing
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Personnel_Elect 1276 1283	elected
+E6	Personnel_Elect:T6 
+A6	Realis E6 Actual
+T7	Personnel_Start-Position 1295 1305	installing
+E7	Personnel_Start-Position:T7 
+A7	Realis E7 Other
+T8	Personnel_Elect 1353 1360	elected
+E8	Personnel_Elect:T8 
+A8	Realis E8 Other
+T9	Contact_Communicate 1579 1585	answer
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Justice_Charge-Indict 1616 1627;1639 1646	bringing up charges
+E10	Justice_Charge-Indict:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 1838 1842	said
+E11	Contact_Communicate:T11 
+A11	Realis E11 Other
+T12	Justice_Trial-Hearing 1902 1907;1917 1923;1926 1931	bring before court
+E12	Justice_Trial-Hearing:T12 
+A12	Realis E12 Generic
+T13	Justice_Charge-Indict 1947 1954	charges
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Generic
+T14	Contact_Communicate 2600 2608	claiming
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Life_Die 2704 2717	assassination
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Life_Die 3553 3565	assassinated
+E16	Life_Die:T16 
+A16	Realis E16 Other
+T17	Life_Die 3608 3616	murdered
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Life_Die 3819 3823	dead
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Personnel_End-Position 3963 3970	Retired
+E19	Personnel_End-Position:T19 
+A19	Realis E19 Actual
+T20	Life_Die 4246 4259	assassination
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Life_Die 4309 4317	murdered
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 4331 4333	go
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Life_Die 4385 4392	suicide
+E23	Life_Die:T23 
+A23	Realis E23 Generic
+T24	Conflict_Attack 4487 4491	shot
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Life_Die 4516 4523	suicide
+E25	Life_Die:T25 
+A25	Realis E25 Generic
+T26	Conflict_Attack 4539 4546	bombing
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Life_Die 4810 4816	killed
+E27	Life_Die:T27 
+A27	Realis E27 Other
+T28	Life_Die 5004 5006	it
+E28	Life_Die:T28 
+A28	Realis E28 Actual
+T29	Life_Die 5859 5864	death
+E29	Life_Die:T29 
+A29	Realis E29 Actual
+T30	Contact_Communicate 6002 6009	talking
+E30	Contact_Communicate:T30 
+A30	Realis E30 Actual
+T31	Contact_Communicate 6255 6264	contacted
+E31	Contact_Communicate:T31 
+A31	Realis E31 Actual
+T32	Contact_Communicate 6305 6315	permission
+E32	Contact_Communicate:T32 
+A32	Realis E32 Other
+T33	Contact_Communicate 6364 6371	refused
+E33	Contact_Communicate:T33 
+A33	Realis E33 Actual
+T34	Contact_Communicate 6376 6383	request
+E34	Contact_Communicate:T34 
+A34	Realis E34 Actual
+T35	Life_Die 6493 6497	died
+E35	Life_Die:T35 
+A35	Realis E35 Actual

@@ -1,0 +1,134 @@
+T1	Personnel_End-Position 449 455	former
+E945	Personnel_End-Position:T1
+A1	Realis E945 Actual
+T2	Personnel_End-Position 2541 2547	former
+E13	Personnel_End-Position:T2
+A2	Realis E13 Actual
+T3	Conflict_Attack 513 519	murder
+E872	Conflict_Attack:T3
+A3	Realis E872 Actual
+T4	Conflict_Attack 1267 1275	killings
+E644	Conflict_Attack:T4
+A4	Realis E644 Actual
+T5	Life_Die 513 519	murder
+E836	Life_Die:T5
+A5	Realis E836 Actual
+T6	Life_Die 1267 1275	killings
+E68	Life_Die:T6
+A6	Realis E68 Actual
+T7	Justice_Charge-Indict 627 635	indicted
+E693	Justice_Charge-Indict:T7
+A7	Realis E693 Actual
+T8	Justice_Charge-Indict 1545 1555	indictment
+E545	Justice_Charge-Indict:T8
+A8	Realis E545 Actual
+T9	Justice_Extradite 668 679	extradition
+E974	Justice_Extradite:T9
+A9	Realis E974 Other
+T10	Justice_Extradite 809 820	extradition
+E437	Justice_Extradite:T10
+A10	Realis E437 Other
+T11	Movement_Transport-Person 668 679	extradition
+E272	Movement_Transport-Person:T11
+A11	Realis E272 Other
+T12	Movement_Transport-Person 809 820	extradition
+E215	Movement_Transport-Person:T12
+A12	Realis E215 Other
+T13	Movement_Transport-Person 987 991	haul
+E757	Movement_Transport-Person:T13
+A13	Realis E757 Other
+T14	Life_Die 1060 1064	died
+E616	Life_Die:T14
+A14	Realis E616 Actual
+T15	Life_Die 1084 1089	death
+E70	Life_Die:T15
+A15	Realis E70 Actual
+T16	Life_Die 1881 1886	death
+E461	Life_Die:T16
+A16	Realis E461 Actual
+T17	Life_Die 1950 1955	death
+E280	Life_Die:T17
+A17	Realis E280 Actual
+T18	Life_Die 2029 2031	it
+E199	Life_Die:T18
+A18	Realis E199 Actual
+T19	Life_Die 2057 2062	death
+E152	Life_Die:T19
+A19	Realis E152 Actual
+T20	Life_Die 2119 2123	died
+E301	Life_Die:T20
+A20	Realis E301 Actual
+T21	Life_Die 2276 2284	cremated
+E489	Life_Die:T21
+A21	Realis E489 Actual
+T22	Personnel_End-Position 1100 1106	former
+E717	Personnel_End-Position:T22
+A22	Realis E717 Actual
+T23	Justice_Arrest-Jail 1350 1357	custody
+E401	Justice_Arrest-Jail:T23
+A23	Realis E401 Actual
+T24	Conflict_Attack 1390 1394	coup
+E802	Conflict_Attack:T24
+A24	Realis E802 Actual
+T25	Justice_Trial-Hearing 1443 1447	case
+E164	Justice_Trial-Hearing:T25
+A25	Realis E164 Actual
+T26	Contact_Contact 1572 1576	told
+E892	Contact_Contact:T26
+A26	Realis E892 Actual
+T27	Contact_Contact 1678 1685	explain
+E941	Contact_Contact:T27
+A27	Realis E941 Other
+T28	Contact_Broadcast 1865 1873	informed
+E530	Contact_Broadcast:T28
+A28	Realis E530 Actual
+T29	Contact_Correspondence 1961 1970	telephone
+E624	Contact_Correspondence:T29
+A29	Realis E624 Actual
+T30	Movement_Transport-Artifact 2317 2322	taken
+E340	Movement_Transport-Artifact:T30
+A30	Realis E340 Actual
+T31	Conflict_Attack 2454 2460	murder
+E499	Conflict_Attack:T31
+A31	Realis E499 Actual
+T32	Life_Die 2454 2460	murder
+E384	Life_Die:T32
+A32	Realis E384 Actual
+T33	Contact_Contact 2474 2479	asked
+E223	Contact_Contact:T33
+A33	Realis E223 Actual
+T34	Transaction_Transfer-Money 2558 2565	pension
+E803	Transaction_Transfer-Money:T34
+A34	Realis E803 Generic
+T35	Contact_Broadcast 2599 2607	notified
+E885	Contact_Broadcast:T35
+A35	Realis E885 Other
+T36	Contact_Correspondence 1926 1935	confirmed
+E74	Contact_Correspondence:T36
+A36	Realis E74 Actual
+T37	Contact_Correspondence 654 663	requested
+E219	Contact_Correspondence:T37
+A37	Realis E219 Actual
+T38	Contact_Contact 1189 1199	unanswered
+E906	Contact_Contact:T38
+A38	Realis E906 Other
+T39	Contact_Contact 1776 1780	said
+E345	Contact_Contact:T39
+A39	Realis E345 Actual
+T40	Contact_Contact 2749 2753	said
+E400	Contact_Contact:T40
+A40	Realis E400 Actual
+R1	Coreference Arg1:E945 Arg2:E13
+R2	Coreference Arg1:E872 Arg2:E644
+R3	Coreference Arg1:E836 Arg2:E68
+R4	Coreference Arg1:E693 Arg2:E545
+R5	Coreference Arg1:E974 Arg2:E437
+R6	Coreference Arg1:E272 Arg2:E215
+R7	Coreference Arg1:E616 Arg2:E70
+R8	Coreference Arg1:E70 Arg2:E461
+R9	Coreference Arg1:E461 Arg2:E280
+R10	Coreference Arg1:E280 Arg2:E199
+R11	Coreference Arg1:E199 Arg2:E152
+R12	Coreference Arg1:E152 Arg2:E301
+R13	Coreference Arg1:E301 Arg2:E489
+R14	Coreference Arg1:E892 Arg2:E941

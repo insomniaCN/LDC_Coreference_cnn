@@ -1,0 +1,255 @@
+T1	Justice_Convict 227 234	CONVICT
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Justice_Release-Parole 243 249	PAROLE
+E2	Justice_Release-Parole:T2 
+A2	Realis E2 Other
+T3	Contact_Meet 321 328	dispute
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 404 415	shots fired
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Justice_Release-Parole 484 490	parole
+E5	Justice_Release-Parole:T5 
+A5	Realis E5 Generic
+T6	Justice_Release-Parole 661 667	parole
+E6	Justice_Release-Parole:T6 
+A6	Realis E6 Generic
+T7	Contact_Communicate 681 686	asked
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 719 726	replied
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 748 756	question
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 884 889	asked
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Life_Be-Born 1022 1026	born
+E11	Life_Be-Born:T11 
+A11	Realis E11 Actual
+T12	Justice_Release-Parole 1127 1133	parole
+E12	Justice_Release-Parole:T12 
+A12	Realis E12 Generic
+T13	Justice_Sentence 1187 1197	sentencing
+E13	Justice_Sentence:T13 
+A13	Realis E13 Actual
+T14	Justice_Arrest-Jail 1286 1295	prisoners
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Actual
+T15	Justice_Arrest-Jail 1361 1368	inmates
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T16	Justice_Arrest-Jail 1421 1427	prison
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Generic
+T17	Justice_Arrest-Jail 1483 1492	prisoners
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Actual
+T18	Contact_Communicate 1536 1540	said
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T19	Justice_Arrest-Jail 1597 1603	prison
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Generic
+T20	Justice_Arrest-Jail 1628 1638	doing life
+E20	Justice_Arrest-Jail:T20 
+A20	Realis E20 Actual
+T21	Justice_Release-Parole 1647 1653	parole
+E21	Justice_Release-Parole:T21 
+A21	Realis E21 Other
+T22	Contact_Meet 1686 1694	argument
+E22	Contact_Meet:T22 
+A22	Realis E22 Actual
+T23	Justice_Release-Parole 1867 1873	parole
+E23	Justice_Release-Parole:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 1885 1892	robbery
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Contact_Communicate 1918 1922	said
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 1975 1979	shot
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 2046 2057	shots fired
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Movement_Transport-Person 2065 2069	fled
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Actual
+T29	Justice_Arrest-Jail 2114 2122	arrested
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Actual
+T30	Justice_Charge-Indict 2129 2136	charges
+E30	Justice_Charge-Indict:T30 
+A30	Realis E30 Actual
+T31	Life_Die 2156 2162	murder
+E31	Life_Die:T31 
+A31	Realis E31 Other
+T32	Movement_Transport-Person 2167 2177	kidnapping
+E32	Movement_Transport-Person:T32 
+A32	Realis E32 Actual
+T33	Justice_Arrest-Jail 2195 2201	caught
+E33	Justice_Arrest-Jail:T33 
+A33	Realis E33 Actual
+T34	Movement_Transport-Person 2227 2233	escape
+E34	Movement_Transport-Person:T34 
+A34	Realis E34 Other
+T35	Contact_Communicate 2337 2341	said
+E35	Contact_Communicate:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 2364 2368	shot
+E36	Conflict_Attack:T36 
+A36	Realis E36 Actual
+T37	Transaction_Transfer-Ownership 2437 2442;2448 2454	given ticket
+E37	Transaction_Transfer-Ownership:T37 
+A37	Realis E37 Other
+T38	Contact_Meet 2469 2473;2479 2486	give warning
+E38	Contact_Meet:T38 
+A38	Realis E38 Actual
+T39	Contact_Communicate 2549 2557	repeated
+E39	Contact_Communicate:T39 
+A39	Realis E39 Actual
+T40	Justice_Sentence 2614 2622	sentence
+E40	Justice_Sentence:T40 
+A40	Realis E40 Other
+T41	Contact_Communicate 2604 2611	Offered
+E41	Contact_Communicate:T41 
+A41	Realis E41 Actual
+T42	Contact_Communicate 2651 2665	turned it down
+E42	Contact_Communicate:T42 
+A42	Realis E42 Actual
+T43	Justice_Charge-Indict 2703 2710	charges
+E43	Justice_Charge-Indict:T43 
+A43	Realis E43 Actual
+T44	Justice_Trial-Hearing 2714 2719	trial
+E44	Justice_Trial-Hearing:T44 
+A44	Realis E44 Actual
+T45	Life_Injure 2726 2733	wounded
+E45	Life_Injure:T45 
+A45	Realis E45 Actual
+T46	Contact_Meet 2803 2807;2811 2818	give account
+E46	Contact_Meet:T46 
+A46	Realis E46 Actual
+T47	Conflict_Attack 2826 2839	confrontation
+E47	Conflict_Attack:T47 
+A47	Realis E47 Actual
+T48	Movement_Transport-Person 2883 2890	arrived
+E48	Movement_Transport-Person:T48 
+A48	Realis E48 Actual
+T49	Justice_Arrest-Jail 2900 2906	prison
+E49	Justice_Arrest-Jail:T49 
+A49	Realis E49 Generic
+T50	Justice_Sentence 2926 2934	sentence
+E50	Justice_Sentence:T50 
+A50	Realis E50 Actual
+T51	Contact_Meet 3006 3011	talks
+E51	Contact_Meet:T51 
+A51	Realis E51 Actual
+T52	Justice_Arrest-Jail 3078 3084	prison
+E52	Justice_Arrest-Jail:T52 
+A52	Realis E52 Generic
+T53	Contact_Meet 3104 3108	said
+E53	Contact_Meet:T53 
+A53	Realis E53 Actual
+T54	Justice_Release-Parole 3116 3122	parole
+E54	Justice_Release-Parole:T54 
+A54	Realis E54 Other
+T55	Justice_Trial-Hearing 3123 3130	hearing
+E55	Justice_Trial-Hearing:T55 
+A55	Realis E55 Actual
+T56	Contact_Communicate 921 929	answered
+E56	Contact_Communicate:T56 
+A56	Realis E56 Actual
+T57	Contact_Communicate 792 796	said
+E57	Contact_Communicate:T57 
+A57	Realis E57 Actual
+T58	Contact_Communicate 3151 3155	said
+E58	Contact_Communicate:T58 
+A58	Realis E58 Actual
+T59	Movement_Transport-Person 3167 3171	came
+E59	Movement_Transport-Person:T59 
+A59	Realis E59 Actual
+T60	Justice_Arrest-Jail 3175 3181	prison
+E60	Justice_Arrest-Jail:T60 
+A60	Realis E60 Generic
+T61	Contact_Meet 3195 3205	being with
+E61	Contact_Meet:T61 
+A61	Realis E61 Other
+T62	Justice_Arrest-Jail 3288 3297	prisoners
+E62	Justice_Arrest-Jail:T62 
+A62	Realis E62 Actual
+T63	Justice_Arrest-Jail 3384 3390	prison
+E63	Justice_Arrest-Jail:T63 
+A63	Realis E63 Generic
+T64	Justice_Release-Parole 3491 3498	paroled
+E64	Justice_Release-Parole:T64 
+A64	Realis E64 Actual
+T65	Justice_Arrest-Jail 3499 3506	inmates
+E65	Justice_Arrest-Jail:T65 
+A65	Realis E65 Actual
+T66	Contact_Communicate 3561 3565	said
+E66	Contact_Communicate:T66 
+A66	Realis E66 Actual
+T67	Justice_Arrest-Jail 3591 3599	prisoner
+E67	Justice_Arrest-Jail:T67 
+A67	Realis E67 Actual
+T68	Justice_Arrest-Jail 3695 3704	prisoners
+E68	Justice_Arrest-Jail:T68 
+A68	Realis E68 Actual
+T69	Contact_Communicate 3796 3800	said
+E69	Contact_Communicate:T69 
+A69	Realis E69 Actual
+T70	Justice_Arrest-Jail 3844 3850	prison
+E70	Justice_Arrest-Jail:T70 
+A70	Realis E70 Generic
+T71	Justice_Release-Parole 3985 3991	parole
+E71	Justice_Release-Parole:T71 
+A71	Realis E71 Other
+T72	Justice_Release-Parole 4066 4073	release
+E72	Justice_Release-Parole:T72 
+A72	Realis E72 Other
+T73	Contact_Communicate 4126 4130	said
+E73	Contact_Communicate:T73 
+A73	Realis E73 Actual
+T74	Conflict_Attack 4151 4159	violence
+E74	Conflict_Attack:T74 
+A74	Realis E74 Generic
+T75	Justice_Release-Parole 4202 4216	letting him go
+E75	Justice_Release-Parole:T75 
+A75	Realis E75 Other
+T76	Contact_Communicate 4291 4297	saying
+E76	Contact_Communicate:T76 
+A76	Realis E76 Actual
+T77	Justice_Release-Parole 4459 4465	parole
+E77	Justice_Release-Parole:T77 
+A77	Realis E77 Other
+T78	Justice_Release-Parole 4752 4758	parole
+E78	Justice_Release-Parole:T78 
+A78	Realis E78 Other
+T79	Life_Die 4815 4818	die
+E79	Life_Die:T79 
+A79	Realis E79 Other
+T80	Contact_Communicate 4833 4837	said
+E80	Contact_Communicate:T80 
+A80	Realis E80 Actual
+T81	Life_Injure 4624 4633	suffering
+E81	Life_Injure:T81 
+A81	Realis E81 Actual
+T82	Justice_Trial-Hearing 4900 4907	hearing
+E82	Justice_Trial-Hearing:T82 
+A82	Realis E82 Actual
+T83	Contact_Meet 4940 4949	repeating
+E83	Contact_Meet:T83 
+A83	Realis E83 Actual
+T84	Contact_Meet 4950 4959	questions
+E84	Contact_Meet:T84 
+A84	Realis E84 Actual
+T85	Contact_Communicate 5030 5034	said
+E85	Contact_Communicate:T85 
+A85	Realis E85 Actual

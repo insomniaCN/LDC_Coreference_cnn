@@ -1,0 +1,183 @@
+T1	Contact_Broadcast 2163 2174	confessions
+E5	Contact_Broadcast:T1
+A1	Realis E5 Generic
+T2	Conflict_Attack 2720 2728	bombings
+E67	Conflict_Attack:T2
+A2	Realis E67 Actual
+T3	Justice_Execute 2378 2386	executed
+E72	Justice_Execute:T3
+A3	Realis E72 Generic
+T4	Life_Die 757 762	death
+E84	Life_Die:T4
+A4	Realis E84 Generic
+T5	Life_Die 1696 1704	executed
+E90	Life_Die:T5
+A5	Realis E90 Actual
+T6	Justice_Sentence 763 770	penalty
+E92	Justice_Sentence:T6
+A6	Realis E92 Generic
+T7	Contact_Contact 1819 1826	contact
+E93	Contact_Contact:T7
+A7	Realis E93 Other
+T8	Justice_Execute 1649 1659	executions
+E106	Justice_Execute:T8
+A8	Realis E106 Actual
+T9	Contact_Broadcast 832 841	statement
+E114	Contact_Broadcast:T9
+A9	Realis E114 Actual
+T10	Life_Die 1327 1335	executed
+E119	Life_Die:T10
+A10	Realis E119 Actual
+T11	Justice_Execute 210 220	EXECUTIONS
+E165	Justice_Execute:T11
+A11	Realis E165 Actual
+T12	Justice_Execute 1696 1704	executed
+E173	Justice_Execute:T12
+A12	Realis E173 Actual
+T13	Life_Die 1950 1960	executions
+E174	Life_Die:T13
+A13	Realis E174 Generic
+T14	Conflict_Attack 623 631	violence
+E185	Conflict_Attack:T14
+A14	Realis E185 Generic
+T15	Justice_Execute 1228 1233	Death
+E206	Justice_Execute:T15
+A15	Realis E206 Generic
+T16	Life_Die 1175 1185	executions
+E240	Life_Die:T16
+A16	Realis E240 Actual
+T17	Life_Die 1228 1233	Death
+E246	Life_Die:T17
+A17	Realis E246 Generic
+T18	Justice_Execute 757 762	death
+E258	Justice_Execute:T18
+A18	Realis E258 Generic
+T19	Justice_Arrest-Jail 480 489	prisoners
+E287	Justice_Arrest-Jail:T19
+A19	Realis E287 Actual
+T20	Life_Die 1649 1659	executions
+E298	Life_Die:T20
+A20	Realis E298 Actual
+T21	Conflict_Attack 2654 2664	casualties
+E329	Conflict_Attack:T21
+A21	Realis E329 Actual
+T22	Justice_Execute 956 966	executions
+E381	Justice_Execute:T22
+A22	Realis E381 Actual
+T23	Life_Die 210 220	EXECUTIONS
+E387	Life_Die:T23
+A23	Realis E387 Actual
+T24	Justice_Sentence 1980 1989	sentences
+E415	Justice_Sentence:T24
+A24	Realis E415 Actual
+T25	Conflict_Attack 2579 2588	terrorism
+E418	Conflict_Attack:T25
+A25	Realis E418 Generic
+T26	Justice_Sentence 2553 2560	penalty
+E419	Justice_Sentence:T26
+A26	Realis E419 Generic
+T27	Contact_Contact 2073 2076	say
+E433	Contact_Contact:T27
+A27	Realis E433 Actual
+T28	Life_Die 2547 2552	death
+E547	Life_Die:T28
+A28	Realis E547 Generic
+T29	Justice_Execute 536 546	executions
+E554	Justice_Execute:T29
+A29	Realis E554 Generic
+T30	Life_Die 2025 2030	death
+E569	Life_Die:T30
+A30	Realis E569 Generic
+T31	Life_Die 464 473	execution
+E619	Life_Die:T31
+A31	Realis E619 Actual
+T32	Life_Die 1622 1627	death
+E623	Life_Die:T32
+A32	Realis E623 Generic
+T33	Justice_Sentence 1234 1241	Penalty
+E644	Justice_Sentence:T33
+A33	Realis E644 Generic
+T34	Life_Die 536 546	executions
+E665	Life_Die:T34
+A34	Realis E665 Generic
+T35	Contact_Broadcast 1784 1792	reported
+E669	Contact_Broadcast:T35
+A35	Realis E669 Actual
+T36	Justice_Execute 1622 1627	death
+E691	Justice_Execute:T36
+A36	Realis E691 Generic
+T37	Life_Die 2378 2386	executed
+E695	Life_Die:T37
+A37	Realis E695 Generic
+T38	Justice_Execute 1950 1960	executions
+E696	Justice_Execute:T38
+A38	Realis E696 Generic
+T39	Justice_Execute 2025 2030	death
+E715	Justice_Execute:T39
+A39	Realis E715 Generic
+T40	Life_Die 956 966	executions
+E732	Life_Die:T40
+A40	Realis E732 Actual
+T41	Conflict_Attack 1369 1378	terrorist
+E743	Conflict_Attack:T41
+A41	Realis E743 Generic
+T42	Life_Die 1387 1394	killing
+E745	Life_Die:T42
+A42	Realis E745 Actual
+T43	Life_Die 792 802	executions
+E753	Life_Die:T43
+A43	Realis E753 Actual
+T44	Justice_Convict 1355 1364	convicted
+E785	Justice_Convict:T44
+A44	Realis E785 Actual
+T45	Justice_Trial-Hearing 2253 2258	trial
+E794	Justice_Trial-Hearing:T45
+A45	Realis E794 Generic
+T46	Justice_Arrest-Jail 2003 2012	prisoners
+E817	Justice_Arrest-Jail:T46
+A46	Realis E817 Actual
+T47	Justice_Execute 1327 1335	executed
+E819	Justice_Execute:T47
+A47	Realis E819 Actual
+T48	Life_Die 2488 2493	death
+E866	Life_Die:T48
+A48	Realis E866 Generic
+T49	Justice_Trial-Hearing 1078 1084	trials
+E874	Justice_Trial-Hearing:T49
+A49	Realis E874 Generic
+T50	Justice_Arrest-Jail 1336 1345	prisoners
+E882	Justice_Arrest-Jail:T50
+A50	Realis E882 Actual
+T51	Justice_Execute 464 473	execution
+E891	Justice_Execute:T51
+A51	Realis E891 Actual
+T52	Contact_Broadcast 1123 1127	told
+E899	Contact_Broadcast:T52
+A52	Realis E899 Actual
+T53	Conflict_Attack 2192 2199	torture
+E904	Conflict_Attack:T53
+A53	Realis E904 Generic
+T54	Justice_Execute 2488 2493	death
+E906	Justice_Execute:T54
+A54	Realis E906 Generic
+T55	Justice_Arrest-Jail 2364 2373	prisoners
+E914	Justice_Arrest-Jail:T55
+A55	Realis E914 Actual
+T56	Justice_Sentence 2494 2501	penalty
+E927	Justice_Sentence:T56
+A56	Realis E927 Generic
+T57	Justice_Execute 1175 1185	executions
+E936	Justice_Execute:T57
+A57	Realis E936 Actual
+T58	Justice_Execute 2547 2552	death
+E940	Justice_Execute:T58
+A58	Realis E940 Generic
+T59	Conflict_Attack 1387 1394	killing
+E946	Conflict_Attack:T59
+A59	Realis E946 Actual
+T60	Justice_Sentence 1628 1635	penalty
+E960	Justice_Sentence:T60
+A60	Realis E960 Generic
+T61	Justice_Execute 792 802	executions
+E969	Justice_Execute:T61
+A61	Realis E969 Actual

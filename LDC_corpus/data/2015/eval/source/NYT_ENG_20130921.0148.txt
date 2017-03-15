@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130921.0148" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130921/20130921,8ecbea268e99095fb7c78be4f19bd71b.xml">
+<HEADLINE>
+BLACKBERRY CO-FOUNDER IS SAID TO CONSIDER BID FOR COMPANY
+</HEADLINE>
+<TEXT>
+<P>
+With: BLACKBERRY-CUTS);
+</P>
+<P>
+Mike Lazaridis, the co-founder of BlackBerry who stepped down as co-chief executive in 2011, has reached out to private equity firms about a possible bid for the troubled company.
+</P>
+<P>
+Lazaridis has separately approached the Blackstone Group and the Carlyle Group about making an offer, according to people familiar with the matter. These people cautioned, however, that the talks were preliminary and might not lead to any bids.
+</P>
+<P>
+The potential of any effort to take BlackBerry private was muddied further Friday, as shares in the company tanked after the company announced quarterly revenue far below analysts’ expectations. BlackBerry shares listed in the United States plunged 17.1 percent to $8.73.
+</P>
+<P>
+Lazaridis could not be reached for comment. Blackstone and Carlyle declined to comment.
+</P>
+<P>
+The Wall Street Journal reported news of the talks late Friday.
+</P>
+<P>
+Private equity firms have been considering a bid for BlackBerry for more than a year, people familiar with the matter said. But as late as 18 months ago, buyout specialists evaluating the company saw few viable options for turning the slumping company around.
+</P>
+<P>
+Lazaridis, who co-founded BlackBerry with a friend in 1985, remains one of the company’s largest individual shareholders, and his stake would be helpful in any effort to take the company private.
+</P>
+<P>
+Last year, Lazaridis and his partner, Jim Balsillie, stepped down as co-chief executives, ceding control to Thorsten Heins. The two men, who had run the company for decades, had come under pressure from disgruntled shareholders as BlackBerry continued to lose market share to rivals including the iPhone and phones using Google’s Android software.
+</P>
+<P>
+Speaking at the time of his departure last year, Lazaridis said, “In every successful company that’s developed by founders, there comes a time when it enters a new phase of growth and it’s time for the founders to pass the baton to new management.”
+</P>
+</TEXT>
+</DOC>

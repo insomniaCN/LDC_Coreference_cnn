@@ -1,0 +1,79 @@
+T1	Justice_Trial-Hearing 503 509	trials
+E840	Justice_Trial-Hearing:T1
+A1	Realis E840 Actual
+T2	Justice_Trial-Hearing 1467 1473	trials
+E569	Justice_Trial-Hearing:T2
+A2	Realis E569 Actual
+T3	Life_Die 792 803	exterminate
+E404	Life_Die:T3
+A3	Realis E404 Other
+T4	Transaction_Transfer-Ownership 858 865	plunder
+E957	Transaction_Transfer-Ownership:T4
+A4	Realis E957 Generic
+T5	Contact_Contact 883 887	said
+E252	Contact_Contact:T5
+A5	Realis E252 Actual
+T6	Contact_Contact 1010 1014	said
+E682	Contact_Contact:T6
+A6	Realis E682 Actual
+T7	Transaction_Transfer-Ownership 1127 1133	stolen
+E801	Transaction_Transfer-Ownership:T7
+A7	Realis E801 Generic
+T8	Justice_Execute 1499 1505	hanged
+E35	Justice_Execute:T8
+A8	Realis E35 Actual
+T9	Life_Die 1499 1505	hanged
+E410	Life_Die:T9
+A9	Realis E410 Actual
+T10	Movement_Transport-Artifact 1742 1746	took
+E306	Movement_Transport-Artifact:T10
+A10	Realis E306 Actual
+T11	Life_Die 1858 1862	died
+E68	Life_Die:T11
+A11	Realis E68 Actual
+T12	Contact_Contact 1893 1903	negotiated
+E350	Contact_Contact:T12
+A12	Realis E350 Actual
+T13	Transaction_Transfer-Ownership 1928 1935	collect
+E597	Transaction_Transfer-Ownership:T13
+A13	Realis E597 Other
+T14	Transaction_Transfer-Ownership 2051 2059	transfer
+E874	Transaction_Transfer-Ownership:T14
+A14	Realis E874 Other
+T15	Transaction_Transfer-Ownership 2089 2098	picked up
+E191	Transaction_Transfer-Ownership:T15
+A15	Realis E191 Actual
+T16	Contact_Contact 1948 1952	said
+E153	Contact_Contact:T16
+A16	Realis E153 Actual
+T17	Transaction_Transfer-Ownership 2374 2385	turned over
+E999	Transaction_Transfer-Ownership:T17
+A17	Realis E999 Actual
+T18	Transaction_Transfer-Ownership 2528 2534	turned
+E744	Transaction_Transfer-Ownership:T18
+A18	Realis E744 Actual
+T19	Contact_Contact 2641 2648	comment
+E763	Contact_Contact:T19
+A19	Realis E763 Other
+T20	Contact_Contact 2678 2682	said
+E910	Contact_Contact:T20
+A20	Realis E910 Actual
+T21	Transaction_Transaction 2716 2726	forfeiture
+E312	Transaction_Transaction:T21
+A21	Realis E312 Generic
+T22	Transaction_Transfer-Ownership 2769 2780	turned over
+E178	Transaction_Transfer-Ownership:T22
+A22	Realis E178 Other
+T23	Conflict_Attack 792 803	exterminate
+E669	Conflict_Attack:T23
+A23	Realis E669 Other
+T24	Movement_Transport-Person 1055 1066	Immigration
+E324	Movement_Transport-Person:T24
+A24	Realis E324 Generic
+T25	Contact_Broadcast 1678 1687	lecturing
+E432	Contact_Broadcast:T25
+A25	Realis E432 Generic
+R1	Coreference Arg1:E840 Arg2:E569
+R2	Coreference Arg1:E597 Arg2:E874
+R3	Coreference Arg1:E874 Arg2:E191
+R4	Coreference Arg1:E763 Arg2:E910

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea970000000000000127" doc_id="2e80a2ebd8b0e22510e65a4533701352" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-36">
+      <event_mention id="em-865" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="348" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-454" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="693" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-723" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="969" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-684" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="1062" length="9">dismissed</trigger>
+      </event_mention>
+      <event_mention id="em-167" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="1325" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-251" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="514" length="10">complaints</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-447" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="680" length="8">notified</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-738" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="932" length="5">wrote</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-561" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="1167" length="5">exile</trigger>
+      </event_mention>
+      <event_mention id="em-990" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="1318" length="6">exiled</trigger>
+      </event_mention>
+      <event_mention id="em-101" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="270" length="6">exiled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-739" type="justice" subtype="convict" realis="actual">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="1219" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-38" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="2e80a2ebd8b0e22510e65a4533701352" offset="1253" length="7">leaking</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,28 @@
+<DOC id="NYT_ENG_20130724.0184" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130724/20130724,a0f0f782db60d3f7d2b7a3cba8c6f372.xml">
+<HEADLINE>
+CAROLINE KENNEDY PICKED TO BE AMBASSADOR TO JAPAN
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+WASHINGTON - President Barack Obama on Wednesday nominated Caroline Kennedy to be ambassador to Japan, moving to give a scion of America’s most enduring political dynasty a diplomatic post that has often gone to political heavyweights.
+</P>
+<P>
+In naming Kennedy, whose appointment had been rumored for months, Obama is keeping with a long tradition of rewarding important campaign supporters with plum embassies. He recently nominated major fundraisers to be envoys in London and Berlin.
+</P>
+<P>
+But Kennedy’s value to Obama has been less about money than mystique. As the daughter of President John F. Kennedy, her imprimatur on his candidacy in 2008 - along with that of her uncle Sen. Edward M. Kennedy of Massachusetts - elevated him at a key moment against his better-known rival, Hillary Rodham Clinton.
+</P>
+<P>
+Kennedy, 55, a lawyer, author and director of numerous nonprofit organizations, has no special expertise in Japan. But some experts said her lack of knowledge was outweighed by her connections to the Oval Office.
+</P>
+<P>
+She shares that with other marquee figures who have been ambassadors to Tokyo, including former Vice President Walter F. Mondale; Howard Baker, a former senator and White House chief of staff; and Thomas S. Foley, a former speaker of the House.
+</P>
+<P>
+“For those who say she doesn’t know a lot about Japan, I say 'sure,' but neither did Walter Mondale,” said Kurt M. Campbell, a Japan expert who was assistant secretary of state for East Asian affairs. “What you really want in an ambassador is someone who can get the president of the United States on the phone.”
+</P>
+</TEXT>
+</DOC>

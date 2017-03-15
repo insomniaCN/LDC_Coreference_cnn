@@ -1,0 +1,384 @@
+T1	Justice_Pardon 112 119	Pardons
+E1	Justice_Pardon:T1 
+A1	Realis E1 Actual
+T2	Justice_Pardon 229 237	pardoned
+E2	Justice_Pardon:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 241 249	convicts
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 263 273	imprisoned
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Justice_Pardon 359 367	pardoned
+E5	Justice_Pardon:T5 
+A5	Realis E5 Actual
+T6	Justice_Pardon 416 422	pardon
+E6	Justice_Pardon:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 500 504	trip
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Personnel_End-Position 691 694;705 712	NOT ANYMORE
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Justice_Pardon 896 904	pardoned
+E9	Justice_Pardon:T9 
+A9	Realis E9 Actual
+T10	Justice_Convict 908 916	convicts
+E10	Justice_Convict:T10 
+A10	Realis E10 Actual
+T11	Justice_Arrest-Jail 930 940	imprisoned
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Money 385 393	donation
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T13	Justice_Pardon 1026 1034	pardoned
+E13	Justice_Pardon:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Money 1052 1060	donation
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Actual
+T15	Justice_Pardon 1083 1089	pardon
+E15	Justice_Pardon:T15 
+A15	Realis E15 Actual
+T16	Movement_Transport-Person 1167 1171	trip
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Other
+T17	Justice_Pardon 1423 1431	pardoned
+E17	Justice_Pardon:T17 
+A17	Realis E17 Actual
+T18	Justice_Convict 1435 1443	convicts
+E18	Justice_Convict:T18 
+A18	Realis E18 Actual
+T19	Justice_Arrest-Jail 1457 1467	imprisoned
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Actual
+T20	Justice_Pardon 1553 1561	pardoned
+E20	Justice_Pardon:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Money 1579 1587	donation
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Actual
+T22	Justice_Pardon 1610 1616	pardon
+E22	Justice_Pardon:T22 
+A22	Realis E22 Actual
+T23	Movement_Transport-Person 1694 1698	trip
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Other
+T24	Justice_Pardon 1976 1984	pardoned
+E24	Justice_Pardon:T24 
+A24	Realis E24 Actual
+T25	Justice_Convict 1988 1996	convicts
+E25	Justice_Convict:T25 
+A25	Realis E25 Actual
+T26	Justice_Arrest-Jail 2010 2020	imprisoned
+E26	Justice_Arrest-Jail:T26 
+A26	Realis E26 Actual
+T27	Justice_Pardon 2106 2114	pardoned
+E27	Justice_Pardon:T27 
+A27	Realis E27 Actual
+T28	Transaction_Transfer-Money 2132 2140	donation
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Actual
+T29	Justice_Pardon 2163 2169	pardon
+E29	Justice_Pardon:T29 
+A29	Realis E29 Actual
+T30	Movement_Transport-Person 2247 2251	trip
+E30	Movement_Transport-Person:T30 
+A30	Realis E30 Other
+T31	Justice_Pardon 2538 2546	pardoned
+E31	Justice_Pardon:T31 
+T32	Justice_Convict 2550 2558	convicts
+E32	Justice_Convict:T32 
+A31	Realis E32 Actual
+T33	Justice_Arrest-Jail 2572 2582	imprisoned
+E33	Justice_Arrest-Jail:T33 
+A32	Realis E33 Actual
+T34	Justice_Pardon 2668 2676	pardoned
+E34	Justice_Pardon:T34 
+A33	Realis E34 Actual
+T35	Transaction_Transfer-Money 2694 2702	donation
+E35	Transaction_Transfer-Money:T35 
+A34	Realis E35 Actual
+T36	Justice_Pardon 2725 2731	pardon
+E36	Justice_Pardon:T36 
+A35	Realis E36 Actual
+T37	Movement_Transport-Person 2809 2813	trip
+E37	Movement_Transport-Person:T37 
+A36	Realis E37 Other
+T38	Justice_Convict 2972 2981	convicted
+E38	Justice_Convict:T38 
+A37	Realis E38 Actual
+T39	Movement_Transport-Person 2991 2998	driving
+E39	Movement_Transport-Person:T39 
+A38	Realis E39 Generic
+T40	Movement_Transport-Person 3143 3150	driving
+E40	Movement_Transport-Person:T40 
+A39	Realis E40 Actual
+T41	Justice_Fine 3270 3275	fined
+E41	Justice_Fine:T41 
+A40	Realis E41 Actual
+T42	Justice_Arrest-Jail 3399 3405	arrest
+E42	Justice_Arrest-Jail:T42 
+A41	Realis E42 Actual
+T43	Justice_Arrest-Jail 3563 3569	arrest
+E43	Justice_Arrest-Jail:T43 
+A42	Realis E43 Actual
+T44	Personnel_Elect 3750 3758	election
+E44	Personnel_Elect:T44 
+A43	Realis E44 Generic
+T45	Justice_Fine 3970 3974;3977 3981	paid fine
+E45	Justice_Fine:T45 
+A44	Realis E45 Actual
+T46	Justice_Arrest-Jail 4086 4092	arrest
+E46	Justice_Arrest-Jail:T46 
+A45	Realis E46 Actual
+T47	Contact_Meet 4164 4168	told
+E47	Contact_Meet:T47 
+A46	Realis E47 Actual
+T48	Contact_Meet 4231 4235	said
+E48	Contact_Meet:T48 
+A47	Realis E48 Actual
+T49	Justice_Fine 4263 4267;4272 4276	paid fine
+E49	Justice_Fine:T49 
+A48	Realis E49 Actual
+T50	Justice_Trial-Hearing 4339 4355	legal proceeding
+E50	Justice_Trial-Hearing:T50 
+A49	Realis E50 Other
+T51	Movement_Transport-Person 4519 4523	went
+E51	Movement_Transport-Person:T51 
+A50	Realis E51 Actual
+T52	Justice_Pardon 4674 4682	pardoned
+E52	Justice_Pardon:T52 
+A51	Realis E52 Actual
+T53	Justice_Pardon 4791 4797	pardon
+E53	Justice_Pardon:T53 
+A52	Realis E53 Actual
+T54	Transaction_Transfer-Money 4833 4837	gave
+E54	Transaction_Transfer-Money:T54 
+A53	Realis E54 Actual
+T55	Justice_Pardon 4899 4905	pardon
+E55	Justice_Pardon:T55 
+A54	Realis E55 Actual
+T56	Justice_Convict 4909 4918	convicted
+E56	Justice_Convict:T56 
+A55	Realis E56 Actual
+T57	Justice_Arrest-Jail 4930 4937;4943 4948	serving terms
+E57	Justice_Arrest-Jail:T57 
+A56	Realis E57 Actual
+T58	Justice_Sentence 4938 4942	life
+E58	Justice_Sentence:T58 
+A57	Realis E58 Actual
+T59	Justice_Pardon 5279 5287	pardoned
+E59	Justice_Pardon:T59 
+A58	Realis E59 Actual
+T60	Justice_Pardon 5396 5402	pardon
+E60	Justice_Pardon:T60 
+A59	Realis E60 Actual
+T61	Transaction_Transfer-Money 5438 5442	gave
+E61	Transaction_Transfer-Money:T61 
+A60	Realis E61 Actual
+T62	Justice_Pardon 5504 5510	pardon
+E62	Justice_Pardon:T62 
+A61	Realis E62 Actual
+T63	Justice_Convict 5514 5523	convicted
+E63	Justice_Convict:T63 
+A62	Realis E63 Actual
+T64	Justice_Arrest-Jail 5535 5542;5548 5553	serving terms
+E64	Justice_Arrest-Jail:T64 
+A63	Realis E64 Actual
+T65	Justice_Sentence 5543 5547	life
+E65	Justice_Sentence:T65 
+A64	Realis E65 Actual
+T66	Justice_Pardon 5812 5820	pardoned
+E66	Justice_Pardon:T66 
+A65	Realis E66 Actual
+T67	Justice_Pardon 5908 5916	pardoned
+E67	Justice_Pardon:T67 
+A66	Realis E67 Actual
+T68	Conflict_Attack 6042 6049	bombing
+E68	Conflict_Attack:T68 
+A67	Realis E68 Actual
+T69	Personnel_Elect 6241 6249	election
+E69	Personnel_Elect:T69 
+A68	Realis E69 Generic
+T70	Justice_Pardon 6509 6517	pardoned
+E70	Justice_Pardon:T70 
+A69	Realis E70 Actual
+T71	Justice_Pardon 6626 6632	pardon
+E71	Justice_Pardon:T71 
+A70	Realis E71 Actual
+T72	Transaction_Transfer-Money 6668 6672	gave
+E72	Transaction_Transfer-Money:T72 
+A71	Realis E72 Actual
+T73	Justice_Pardon 6734 6740	pardon
+E73	Justice_Pardon:T73 
+A72	Realis E73 Actual
+T74	Justice_Convict 6744 6753	convicted
+E74	Justice_Convict:T74 
+A73	Realis E74 Actual
+T75	Justice_Arrest-Jail 6765 6772;6778 6783	serving terms
+E75	Justice_Arrest-Jail:T75 
+A74	Realis E75 Actual
+T76	Justice_Sentence 6773 6777	life
+E76	Justice_Sentence:T76 
+A75	Realis E76 Actual
+T77	Justice_Pardon 7042 7050	pardoned
+E77	Justice_Pardon:T77 
+A76	Realis E77 Actual
+T78	Justice_Pardon 7138 7146	pardoned
+E78	Justice_Pardon:T78 
+A77	Realis E78 Actual
+T79	Conflict_Attack 7272 7279	bombing
+E79	Conflict_Attack:T79 
+A78	Realis E79 Actual
+T80	Personnel_Elect 7471 7479	election
+E80	Personnel_Elect:T80 
+A79	Realis E80 Generic
+T81	Justice_Charge-Indict 7592 7599	charged
+E81	Justice_Charge-Indict:T81 
+A80	Realis E81 Other
+T82	Justice_Pardon 7869 7877	pardoned
+E82	Justice_Pardon:T82 
+A81	Realis E82 Actual
+T83	Justice_Pardon 7986 7992	pardon
+E83	Justice_Pardon:T83 
+A82	Realis E83 Actual
+T84	Transaction_Transfer-Money 8028 8032	gave
+E84	Transaction_Transfer-Money:T84 
+A83	Realis E84 Actual
+T85	Justice_Pardon 8094 8100	pardon
+E85	Justice_Pardon:T85 
+A84	Realis E85 Actual
+T86	Justice_Convict 8104 8113	convicted
+E86	Justice_Convict:T86 
+A85	Realis E86 Actual
+T87	Justice_Arrest-Jail 8125 8132;8138 8143	serving terms
+E87	Justice_Arrest-Jail:T87 
+A86	Realis E87 Actual
+T88	Justice_Sentence 8133 8137	life
+E88	Justice_Sentence:T88 
+A87	Realis E88 Actual
+T89	Justice_Pardon 8402 8410	pardoned
+E89	Justice_Pardon:T89 
+A88	Realis E89 Actual
+T90	Justice_Pardon 8498 8506	pardoned
+E90	Justice_Pardon:T90 
+A89	Realis E90 Actual
+T91	Conflict_Attack 8632 8639	bombing
+E91	Conflict_Attack:T91 
+A90	Realis E91 Actual
+T92	Personnel_Elect 8831 8839	election
+E92	Personnel_Elect:T92 
+A91	Realis E92 Generic
+T93	Justice_Charge-Indict 8952 8959	charged
+E93	Justice_Charge-Indict:T93 
+A92	Realis E93 Other
+T94	Personnel_End-Position 9038 9046	resigned
+E94	Personnel_End-Position:T94 
+A93	Realis E94 Actual
+T95	Justice_Trial-Hearing 9056 9061	trial
+E95	Justice_Trial-Hearing:T95 
+A94	Realis E95 Other
+T96	Justice_Pardon 9385 9393	pardoned
+E96	Justice_Pardon:T96 
+A95	Realis E96 Actual
+T97	Justice_Pardon 9481 9489	pardoned
+E97	Justice_Pardon:T97 
+A96	Realis E97 Actual
+T98	Conflict_Attack 9615 9622	bombing
+E98	Conflict_Attack:T98 
+A97	Realis E98 Actual
+T99	Personnel_Elect 9814 9822	election
+E99	Personnel_Elect:T99 
+A98	Realis E99 Generic
+T100	Justice_Charge-Indict 9935 9942	charged
+E100	Justice_Charge-Indict:T100 
+A99	Realis E100 Other
+T101	Personnel_End-Position 10021 10029	resigned
+E101	Personnel_End-Position:T101 
+A100	Realis E101 Actual
+T102	Justice_Trial-Hearing 10038 10043	trial
+E102	Justice_Trial-Hearing:T102 
+A101	Realis E102 Other
+T103	Personnel_End-Position 10125 10133	resigned
+E103	Personnel_End-Position:T103 
+A102	Realis E103 Actual
+T104	Justice_Charge-Indict 10143 10154	Impeachment
+E104	Justice_Charge-Indict:T104 
+A103	Realis E104 Other
+T105	Justice_Charge-Indict 10222 10231	Impeached
+E105	Justice_Charge-Indict:T105 
+A104	Realis E105 Generic
+T106	Justice_Convict 10330 10338	Convicts
+E106	Justice_Convict:T106 
+A105	Realis E106 Generic
+T107	Personnel_End-Position 10375 10381	remove
+E107	Personnel_End-Position:T107 
+A106	Realis E107 Generic
+T108	Justice_Charge-Indict 10503 10509	charge
+E108	Justice_Charge-Indict:T108 
+A107	Realis E108 Other
+T109	Justice_Charge-Indict 10782 10789	charged
+E109	Justice_Charge-Indict:T109 
+A108	Realis E109 Other
+T110	Personnel_End-Position 10868 10876	resigned
+E110	Personnel_End-Position:T110 
+A109	Realis E110 Actual
+T111	Personnel_End-Position 10972 10980	resigned
+E111	Personnel_End-Position:T111 
+A110	Realis E111 Actual
+T112	Justice_Charge-Indict 10990 11001	Impeachment
+E112	Justice_Charge-Indict:T112 
+A111	Realis E112 Other
+T113	Justice_Charge-Indict 11069 11078	Impeached
+E113	Justice_Charge-Indict:T113 
+A112	Realis E113 Generic
+T114	Personnel_End-Position 11222 11228	remove
+E114	Personnel_End-Position:T114 
+A113	Realis E114 Generic
+T115	Justice_Convict 11177 11185	Convicts
+E115	Justice_Convict:T115 
+A114	Realis E115 Generic
+T116	Justice_Charge-Indict 11273 11280	charged
+E116	Justice_Charge-Indict:T116 
+A115	Realis E116 Other
+T117	Justice_Charge-Indict 10426 10433	charged
+E117	Justice_Charge-Indict:T117 
+A116	Realis E117 Other
+T118	Justice_Charge-Indict 11350 11356	charge
+E118	Justice_Charge-Indict:T118 
+A117	Realis E118 Other
+T119	Personnel_End-Position 11617 11621	quit
+E119	Personnel_End-Position:T119 
+A118	Realis E119 Actual
+T120	Contact_Communicate 11815 11821;11838 11843	making calls
+E120	Contact_Communicate:T120 
+A119	Realis E120 Actual
+T121	Contact_Communicate 11844 11851	telling
+E121	Contact_Communicate:T121 
+A120	Realis E121 Actual
+T122	Justice_Charge-Indict 11945 11954	impeached
+E122	Justice_Charge-Indict:T122 
+A121	Realis E122 Other
+T123	Justice_Pardon 12087 12095	pardoned
+E123	Justice_Pardon:T123 
+A122	Realis E123 Actual
+T124	Life_Divorce 4825 4832	ex-wife
+E124	Life_Divorce:T124 
+A123	Realis E124 Actual
+T125	Life_Divorce 5430 5437	ex-wife
+E125	Life_Divorce:T125 
+A124	Realis E125 Actual
+T126	Life_Divorce 6660 6667	ex-wife
+E126	Life_Divorce:T126 
+A125	Realis E126 Actual
+T127	Life_Divorce 8020 8027	ex-wife
+E127	Life_Divorce:T127 
+A126	Realis E127 Actual
+T128	Personnel_Elect 11806 11814	election
+E128	Personnel_Elect:T128 
+A127	Realis E128 Actual
+A128	Realis E31 Actual

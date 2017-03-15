@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976280000000000000018" doc_id="AFP_ENG_20100428.0342" source_type="newswire">
+<event_mention id="em-38" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="75" length="4">dead</trigger>
+      </event_mention>
+<event_mention id="em-51" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="219" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-64" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="446" length="4">died</trigger>
+      </event_mention>
+<event_mention id="em-77" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="255" length="4">fire</trigger>
+      </event_mention>
+<event_mention id="em-90" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="70" length="4">shot</trigger>
+      </event_mention>
+<event_mention id="em-103" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="424" length="4">shot</trigger>
+      </event_mention>
+<event_mention id="em-116" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="1121" length="5">shots</trigger>
+      </event_mention>
+<event_mention id="em-129" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="282" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-142" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="95" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-155" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="793" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-168" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="1138" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-181" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="1011" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-194" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="893" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-207" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="378" length="5">taken</trigger>
+      </event_mention>
+<event_mention id="em-220" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="465" length="7">arrival</trigger>
+      </event_mention>
+<event_mention id="em-233" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="718" length="7">hurling</trigger>
+      </event_mention>
+<event_mention id="em-246" type="life" subtype="injure" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="1243" length="7">wounded</trigger>
+      </event_mention>
+<event_mention id="em-259" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="AFP_ENG_20100428.0342" offset="1274" length="14">demonstrations</trigger>
+      </event_mention>
+<event_mention id="em-272" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20100428.0342" offset="1366" length="7">attacks</trigger>
+      </event_mention>
+<event_mention id="em-285" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100428.0342" offset="342" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-298" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100428.0342" offset="595" length="7">comment</trigger>
+      </event_mention>
+<event_mention id="em-311" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100428.0342" offset="656" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-324" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100428.0342" offset="1091" length="7">insists</trigger>
+      </event_mention>
+<event_mention id="em-337" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100428.0342" offset="1312" length="4">says</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

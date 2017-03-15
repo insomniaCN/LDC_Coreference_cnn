@@ -1,0 +1,73 @@
+T1	Justice_Execute 71 79	executes
+E1	Justice_Execute:T1 
+A1	Realis E1 Actual
+T2	Justice_Execute 222 230	executed
+E2	Justice_Execute:T2 
+A2	Realis E2 Actual
+T3	Life_Die 233 239	killer
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Justice_Execute 368 378	executions
+E4	Justice_Execute:T4 
+A4	Realis E4 Generic
+T5	Life_Die 449 453	dead
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Justice_Appeal 678 684	appeal
+E6	Justice_Appeal:T6 
+A6	Realis E6 Actual
+T7	Life_Die 784 788	kill
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Life_Die 904 907	die
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Justice_Execute 1018 1031	death penalty
+E9	Justice_Execute:T9 
+A9	Realis E9 Generic
+T11	Life_Die 1167 1172	death
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Justice_Execute 1359 1368	execution
+E12	Justice_Execute:T12 
+A12	Realis E12 Generic
+T13	Justice_Execute 1963 1970	execute
+E13	Justice_Execute:T13 
+A13	Realis E13 Actual
+T14	Justice_Trial-Hearing 2229 2236	hearing
+E14	Justice_Trial-Hearing:T14 
+A14	Realis E14 Other
+T15	Justice_Sue 2448 2455	lawsuit
+E15	Justice_Sue:T15 
+A15	Realis E15 Actual
+T16	Justice_Execute 2755 2764	execution
+E16	Justice_Execute:T16 
+A16	Realis E16 Other
+T17	Justice_Execute 3158 3167	execution
+E17	Justice_Execute:T17 
+A17	Realis E17 Other
+T18	Justice_Execute 3314 3323	execution
+E18	Justice_Execute:T18 
+A18	Realis E18 Actual
+T19	Justice_Appeal 3337 3343	appeal
+E19	Justice_Appeal:T19 
+A19	Realis E19 Actual
+T20	Justice_Execute 3396 3409	death penalty
+E20	Justice_Execute:T20 
+A20	Realis E20 Generic
+T23	Life_Die 3638 3644	killed
+E23	Life_Die:T23 
+A23	Realis E23 Actual
+T24	Movement_Transport-Person 3712 3717	drive
+E24	Movement_Transport-Person:T24 
+A24	Realis E24 Other
+T25	Life_Die 3804 3809	dying
+E25	Life_Die:T25 
+A25	Realis E25 Actual
+T26	Justice_Release-Parole 3933 3940	paroled
+E26	Justice_Release-Parole:T26 
+A26	Realis E26 Other
+T27	Justice_Execute 251 261;282 298	performing lethal injection
+E27	Justice_Execute:T27 
+A27	Realis E27 Actual
+A10	Questionable E16 Realis

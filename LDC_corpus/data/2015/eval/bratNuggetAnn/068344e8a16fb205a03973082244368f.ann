@@ -1,0 +1,102 @@
+T1	Conflict_Attack 439 444	abuse
+E91	Conflict_Attack:T1
+A1	Realis E91 Other
+T2	Life_Divorce 1725 1727	ex
+E98	Life_Divorce:T2
+A2	Realis E98 Actual
+T3	Contact_Contact 4635 4642	contact
+E103	Contact_Contact:T3
+A3	Realis E103 Generic
+T4	Movement_Transport-Person 1068 1073	moved
+E129	Movement_Transport-Person:T4
+A4	Realis E129 Actual
+T5	Life_Divorce 833 840	divorce
+E137	Life_Divorce:T5
+A5	Realis E137 Other
+T6	Life_Divorce 2785 2792	divorce
+E153	Life_Divorce:T6
+A6	Realis E153 Actual
+T7	Life_Marry 3449 3456	married
+E233	Life_Marry:T7
+A7	Realis E233 Actual
+T8	Contact_Contact 2051 2058	telling
+E241	Contact_Contact:T8
+A8	Realis E241 Generic
+T9	Life_Divorce 2625 2632	divorce
+E301	Life_Divorce:T9
+A9	Realis E301 Actual
+T10	Life_Divorce 1966 1973	divorce
+E326	Life_Divorce:T10
+A10	Realis E326 Generic
+T11	Life_Marry 4798 4805	married
+E327	Life_Marry:T11
+A11	Realis E327 Actual
+T12	Contact_Correspondence 746 750	call
+E363	Contact_Correspondence:T12
+A12	Realis E363 Actual
+T13	Life_Marry 1083 1090	married
+E408	Life_Marry:T13
+A13	Realis E408 Actual
+T14	Contact_Correspondence 259 264	posts
+E435	Contact_Correspondence:T14
+A14	Realis E435 Generic
+T15	Life_Marry 2828 2836	marriage
+E450	Life_Marry:T15
+A15	Realis E450 Actual
+T16	Contact_Correspondence 3632 3637	phone
+E462	Contact_Correspondence:T16
+A16	Realis E462 Generic
+T17	Life_Marry 1656 1664	marriage
+E473	Life_Marry:T17
+A17	Realis E473 Actual
+T18	Life_Marry 1623 1633	re-married
+E521	Life_Marry:T18
+A18	Realis E521 Actual
+T19	Life_Marry 3988 3995	married
+E553	Life_Marry:T19
+A19	Realis E553 Actual
+T20	Life_Divorce 1890 1897	divorce
+E583	Life_Divorce:T20
+A20	Realis E583 Generic
+T21	Life_Divorce 1044 1051	divorce
+E642	Life_Divorce:T21
+A21	Realis E642 Actual
+T22	Life_Marry 3036 3044	marriage
+E657	Life_Marry:T22
+A22	Realis E657 Actual
+T23	Life_Divorce 1583 1590	divorce
+E680	Life_Divorce:T23
+A23	Realis E680 Other
+T24	Contact_Contact 3286 3293	contact
+E685	Contact_Contact:T24
+A24	Realis E685 Generic
+T25	Contact_Correspondence 3835 3839	post
+E696	Contact_Correspondence:T25
+A25	Realis E696 Actual
+T26	Contact_Contact 852 861	confessed
+E708	Contact_Contact:T26
+A26	Realis E708 Actual
+T27	Life_Marry 4146 4153	married
+E751	Life_Marry:T27
+A27	Realis E751 Actual
+T28	Life_Marry 4857 4864	married
+E758	Life_Marry:T28
+A28	Realis E758 Other
+T29	Contact_Meet 3592 3595	see
+E779	Contact_Meet:T29
+A29	Realis E779 Other
+T30	Life_Marry 2070 2078	marriage
+E870	Life_Marry:T30
+A30	Realis E870 Actual
+T31	Life_Divorce 1796 1798	ex
+E905	Life_Divorce:T31
+A31	Realis E905 Actual
+T32	Life_Divorce 1254 1256	ex
+E954	Life_Divorce:T32
+A32	Realis E954 Actual
+T33	Life_Divorce 1755 1763	divorced
+E969	Life_Divorce:T33
+A33	Realis E969 Other
+T34	Life_Divorce 389 396	divorce
+E985	Life_Divorce:T34
+A34	Realis E985 Other

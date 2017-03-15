@@ -1,0 +1,42 @@
+T1	Conflict_Attack 200 206	attack
+E804	Conflict_Attack:T1
+A1	Realis E804 Actual
+T2	Conflict_Attack 872 878	attack
+E221	Conflict_Attack:T2
+A2	Realis E221 Actual
+T3	Conflict_Attack 224 230	mobbed
+E749	Conflict_Attack:T3
+A3	Realis E749 Actual
+T4	Conflict_Attack 576 584	attacked
+E155	Conflict_Attack:T4
+A4	Realis E155 Actual
+T5	Conflict_Attack 622 627	threw
+E186	Conflict_Attack:T5
+A5	Realis E186 Actual
+T6	Conflict_Demonstrate 255 268	demonstrators
+E651	Conflict_Demonstrate:T6
+A6	Realis E651 Actual
+T7	Conflict_Attack 461 468	attacks
+E103	Conflict_Attack:T7
+A7	Realis E103 Generic
+T8	Contact_Contact 667 671	said
+E720	Contact_Contact:T8
+A8	Realis E720 Actual
+T9	Movement_Transport-Person 786 790	went
+E225	Movement_Transport-Person:T9
+A9	Realis E225 Actual
+T10	Contact_Contact 1650 1654	said
+E315	Contact_Contact:T10
+A10	Realis E315 Actual
+T11	Contact_Broadcast 953 961	graffiti
+E591	Contact_Broadcast:T11
+A11	Realis E591 Actual
+T12	Conflict_Attack 1014 1020	alight
+E985	Conflict_Attack:T12
+A12	Realis E985 Actual
+T13	Personnel_End-Position 1398 1404	former
+E381	Personnel_End-Position:T13
+A13	Realis E381 Actual
+R1	Coreference Arg1:E804 Arg2:E221
+R2	Coreference Arg1:E749 Arg2:E155
+R3	Coreference Arg1:E155 Arg2:E186

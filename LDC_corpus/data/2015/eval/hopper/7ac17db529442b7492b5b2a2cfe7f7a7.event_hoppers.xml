@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaad0000000000000172" doc_id="7ac17db529442b7492b5b2a2cfe7f7a7" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-109" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="351" length="6">Former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-308" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="416" length="6">charge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-461" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="432" length="10">laundering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-117" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="527" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-596" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="596" length="10">laundering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-573" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="653" length="9">embezzled</trigger>
+      </event_mention>
+      <event_mention id="em-240" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="785" length="12">embezzlement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-716" type="justice" subtype="acquit" realis="actual">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="770" length="7">cleared</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-232" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="798" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-622" type="justice" subtype="extradite" realis="other">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="869" length="11">extradition</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-110" type="movement" subtype="transportperson" realis="other">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="869" length="11">extradition</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-440" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="704" length="3">was</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-212">
+      <event_mention id="em-163" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="7ac17db529442b7492b5b2a2cfe7f7a7" offset="704" length="3">was</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

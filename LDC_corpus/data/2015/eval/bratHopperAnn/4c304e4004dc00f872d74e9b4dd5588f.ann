@@ -1,0 +1,89 @@
+T1	Movement_Transport-Person 388 392	ride
+E867	Movement_Transport-Person:T1
+A1	Realis E867 Actual
+T2	Conflict_Demonstrate 419 424	rally
+E512	Conflict_Demonstrate:T2
+A2	Realis E512 Actual
+T3	Transaction_Transfer-Money 466 473	payment
+E161	Transaction_Transfer-Money:T3
+A3	Realis E161 Other
+T4	Transaction_Transfer-Money 1194 1202	payments
+E844	Transaction_Transfer-Money:T4
+A4	Realis E844 Other
+T5	Transaction_Transfer-Ownership 586 592	buying
+E840	Transaction_Transfer-Ownership:T5
+A5	Realis E840 Generic
+T6	Transaction_Transfer-Ownership 784 790	buying
+E442	Transaction_Transfer-Ownership:T6
+A6	Realis E442 Generic
+T7	Transaction_Transfer-Ownership 916 922	buying
+E107	Transaction_Transfer-Ownership:T7
+A7	Realis E107 Generic
+T8	Transaction_Transfer-Money 586 592	buying
+E187	Transaction_Transfer-Money:T8
+A8	Realis E187 Generic
+T9	Transaction_Transfer-Money 784 790	buying
+E698	Transaction_Transfer-Money:T9
+A9	Realis E698 Generic
+T10	Transaction_Transfer-Money 916 922	buying
+E645	Transaction_Transfer-Money:T10
+A10	Realis E645 Generic
+T11	Contact_Meet 1137 1146	converged
+E773	Contact_Meet:T11
+A11	Realis E773 Actual
+T12	Conflict_Demonstrate 1404 1413	protested
+E699	Conflict_Demonstrate:T12
+A12	Realis E699 Actual
+T13	Personnel_Elect 1576 1584	election
+E901	Personnel_Elect:T13
+A13	Realis E901 Actual
+T14	Justice_Pardon 1688 1695	amnesty
+E559	Justice_Pardon:T14
+A14	Realis E559 Other
+T15	Movement_Transport-Person 1753 1759	return
+E919	Movement_Transport-Person:T15
+A15	Realis E919 Other
+T16	Justice_Arrest-Jail 1783 1790	serving
+E713	Justice_Arrest-Jail:T16
+A16	Realis E713 Other
+T17	Justice_Convict 1820 1830	conviction
+E179	Justice_Convict:T17
+A17	Realis E179 Actual
+T18	Personnel_End-Position 1832 1838	Ousted
+E227	Personnel_End-Position:T18
+A18	Realis E227 Actual
+T19	Conflict_Demonstrate 2183 2191	protests
+E679	Conflict_Demonstrate:T19
+A19	Realis E679 Actual
+T20	Justice_Pardon 2207 2214	amnesty
+E185	Justice_Pardon:T20
+A20	Realis E185 Generic
+T21	Personnel_Elect 2230 2239	elections
+E65	Personnel_Elect:T21
+A21	Realis E65 Generic
+T22	Personnel_Elect 2272 2276	vote
+E356	Personnel_Elect:T22
+A22	Realis E356 Other
+T23	Contact_Contact 2288 2297	announced
+E184	Contact_Contact:T23
+A23	Realis E184 Other
+T24	Conflict_Demonstrate 2315 2325	protesters
+E113	Conflict_Demonstrate:T24
+A24	Realis E113 Actual
+T25	Personnel_Elect 2398 2407	elections
+E981	Personnel_Elect:T25
+A25	Realis E981 Generic
+T26	Justice_Trial-Hearing 2459 2464	cases
+E409	Justice_Trial-Hearing:T26
+A26	Realis E409 Actual
+T27	Personnel_End-Position 2514 2521	deposed
+E862	Personnel_End-Position:T27
+A27	Realis E862 Other
+T28	Conflict_Attack 1867 1871	coup
+E848	Conflict_Attack:T28
+A28	Realis E848 Actual
+R1	Coreference Arg1:E161 Arg2:E844
+R2	Coreference Arg1:E840 Arg2:E442
+R3	Coreference Arg1:E442 Arg2:E107
+R4	Coreference Arg1:E187 Arg2:E698
+R5	Coreference Arg1:E698 Arg2:E645

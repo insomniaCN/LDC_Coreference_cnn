@@ -1,0 +1,70 @@
+<DOC id="NYT_ENG_20130503.0232" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130503/20130503,efcaacd65eb48eb6fe08e947194f07f5.xml">
+<HEADLINE>
+Local frack ban is upheld
+</HEADLINE>
+<TEXT>
+<P>
+ALBANY – In another setback for proponents of the natural gas drilling technique known as hydrofracking, a state appellate court affirmed the right of local governments to ban the process within their borders.
+</P>
+<P>
+In a 4-0 decision Thursday, the Appellate Division of state Supreme Court’s Third Department rejected an appeal from Norse Energy Corporation, which had stepped into the plaintiff’s role in a lawsuit initially brought by Anschutz Exploration Corp. against the Town of Dryden’s fracking ban.
+</P>
+<P>
+When the ban was passed in August 2011, Anschutz had approximately 22,000 acres of land in the Tompkins County community under lease for potential drilling. Norse, a Norwegian company that subsequently acquired many of the leases, entered bankruptcy court in December.
+</P>
+<P>
+New York has not made a final decision on fracking despite a regulatory process that has lasted more than four years.
+</P>
+<P>
+Gov. Andrew Cuomo is awaiting the final construction of the Department of Environmental Conservation’s regulatory framework for the process. A key chapter of the massive document is awaiting review by the Department of Health.
+</P>
+<P>
+The technique, used in Pennsylvania, Texas and many other states, involves the injection of high volumes of water and a small amount of chemicals to break up gas-bearing shale deposits. The drilling industry insists the process is safe, but opposition to fracking has virtually eclipsed every other environmental issue in New York in recent years.
+</P>
+<P>
+The plaintiffs in the Dryden case argued the ban violates the state’s regulatory supremacy under the Oil, Gas and Solution Mining Law. Thursday’s decision affirmed a February 2012 decision in state Supreme Court that rejected the industry’s argument.
+</P>
+<P>
+''We find nothing in the language, statutory scheme or legislative history of the (Mining Law) statute indicating an intention to usurp the authority traditionally delegated to municipalities to establish permissible and prohibited uses of land within their jurisdictions,'' wrote Appellate Division Presiding Justice Karen Peters.
+</P>
+<P>
+The mid-level appeals court decision held ''that the OGSML does not pre-empt ... a municipality’s power to enact a local zoning ordinance banning all activities related to the exploration for, and the production or storage of, natural gas and petroleum within its borders.''
+</P>
+<P>
+Justices Leslie Stein, Edward Spain and Elizabeth Garry concurred. The same decision informed the court’s rejection of an appeal from a landowner who opposed a ban in Middlefield, Otsego County.
+</P>
+<P>
+According to the website FrackTracker, there are 55 municipal bans against fracking in New York state – including those in Albany and Guilderland – and 105 moratoriums. Activists believe many of the moratoriums could harden into bans now that communities won’t have to face the costly prospect of defending themselves in court.
+</P>
+<P>
+''We’re obviously disappointed with the decision,'' said Albany attorney Thomas West, who represented Norse in the Dryden appeal. He noted that since the decision isn’t a reversal of a lower court decision and absent at least two dissenting justices, it’s highly unlikely the state’s highest court, the Court of Appeals, will agree to hear the case. Nevertheless, he said the plaintiffs plan to ask the Albany-based court to take the case.
+</P>
+<P>
+''It’s another nail in the coffin for drilling in New York,'' West said, adding that energy companies aren’t going to plunge resources into securing drilling rights on land that can be swept out from under them by ''a 3-2 town board vote.''
+</P>
+<P>
+Anti-fracking groups were elated. ''This decision shows that our democracy in New York state still works and in this David and Goliath battle we can win,'' said a statement from Kelly Branigan of Middlefield Neighbors and New Yorkers Against Fracking.
+</P>
+<P>
+But James Pardo, a New York City attorney who has represented the oil and gas industry, said the decision could potentially have the effect of smoothing fracking’s path in New York.
+</P>
+<P>
+Pardo noted Cuomo, who will make the ultimate decision on whether the state will allow the process, has reportedly explored a pilot program that would let communities decide if they want to welcome fracking.
+</P>
+<P>
+The appellate court’s decision, which in effect imposes that home-rule mechanism statewide, provides ''the ultimate out for him,'' Pardo said. ''Now he can say ... 'If you don’t want it going on in your community, amend your zoning ordinance.'''
+</P>
+<P>
+For drilling companies, he said the ruling ''will take the fight local. ... It will force operators to get down in the weeds in these communities’' and make their case for development.
+</P>
+<P>
+Environmentalists who believe fracking is inherently unsafe say only a statewide ban will suffice.
+</P>
+<P>
+''The kind of environmental degradation that occurs with fracking knows no boundaries on a map,'' said Seth Gladstone of Food &amp; Water Watch.
+</P>
+<P>
+cseiler(at)timesunion.com - 518-454-5619 - Twitter: (at)CaseySeiler
+</P>
+</TEXT>
+</DOC>

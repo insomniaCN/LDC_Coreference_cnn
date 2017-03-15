@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea620000000000000044" doc_id="NYT_ENG_20130708.0038" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-52" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="201" length="6">CHARGE</trigger>
+      </event_mention>
+      <event_mention id="em-917" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="431" length="8">charging</trigger>
+      </event_mention>
+      <event_mention id="em-884" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="1596" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-395" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="1977" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-876" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="208" length="2">EX</trigger>
+      </event_mention>
+      <event_mention id="em-398" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="308" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-471" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="733" length="6">resign</trigger>
+      </event_mention>
+      <event_mention id="em-103" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="3044" length="7">replace</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-61" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="268" length="5">asked</trigger>
+      </event_mention>
+      <event_mention id="em-264" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="406" length="7">request</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-142" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="397" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-140" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="NYT_ENG_20130708.0038" offset="533" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-189" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="780" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-682" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="1016" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-687" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="630" length="13">came to power</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-777" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="910" length="8">ordering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-793" type="life" subtype="divorce" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="983" length="9">divorcing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-251">
+      <event_mention id="em-631" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="1184" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-279">
+      <event_mention id="em-957" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="1401" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-93" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="1614" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-294" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="1624" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-333">
+      <event_mention id="em-402" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="1940" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-765" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="2189" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-387">
+      <event_mention id="em-934" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="2279" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-402">
+      <event_mention id="em-446" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="NYT_ENG_20130708.0038" offset="2331" length="6">resign</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-417">
+      <event_mention id="em-723" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="2503" length="7">awarded</trigger>
+      </event_mention>
+      <event_mention id="em-208" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="1060" length="5">posts</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-432">
+      <event_mention id="em-391" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130708.0038" offset="2380" length="8">offering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-488">
+      <event_mention id="em-694" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130708.0038" offset="2795" length="7">discuss</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-503">
+      <event_mention id="em-900" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130708.0038" offset="2902" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-518">
+      <event_mention id="em-455" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="2983" length="9">appointed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-533">
+      <event_mention id="em-890" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130708.0038" offset="3016" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-548">
+      <event_mention id="em-755" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130708.0038" offset="3044" length="7">replace</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-615">
+      <event_mention id="em-182" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130708.0038" offset="2706" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

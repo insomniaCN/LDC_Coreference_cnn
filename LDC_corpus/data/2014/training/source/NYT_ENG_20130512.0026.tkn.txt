@@ -1,0 +1,70 @@
+<DOC id= " NYT_ENG_20130512.0026 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130512 / 20130512,22c39e6148372340db61c7052502993b . xml " > 
+<HEADLINE> 
+
+< / HEADLINE> 
+<TEXT> 
+<P> 
+CRITICS FAULT VISA EXEMPTION FOR ISRAEL By Bob Egelko , c . 2013 San Francisco Chronicle 
+< / P> 
+<P> 
+San Francisco -- The United States allows inhabitants of 37 countries to enter the United States without a visa , as long as they extend the same privilege to U.S. citizens . Sen. Barbara Boxer is proposing to add Israel to that list -- but without requiring equal treatment for Americans traveling to Israel .
+< / P> 
+<P> 
+Instead , the legislation the California Democrat has introduced would exempt Israeli visitors from visa requirements as long as the U.S. government certifies that Israel “ has made every reasonable effort , without jeopardizing the security of the state of Israel , ” to admit Americans without a visa .
+< / P> 
+<P> 
+What that means , according to critics of the Israeli government , is that Israel can continue to exclude Americans who are either Arab or Muslim , or who belong to groups that oppose Israeli policies . Requiring a visa for visitors allows the government to bar them from entering , or to limit their activities or the length of their stay .
+< / P> 
+<P> 
+The legislation “ would codify into American law discrimination against American citizens , ” said Sydney Levy of Jewish Voice for Peace , a group that opposes Israeli occupation of the West Bank and Gaza .
+< / P> 
+<P> 
+The Council on American - Islamic Relations , a Muslim advocacy group , said the bill would give a U.S. seal of approval to “ Israel ’s well - documented ethnic and religious profiling . ” 
+< / P> 
+<P> 
+As the organization noted , the U.S. State Department has officially advised travelers that U.S. citizens “ of Arab or Muslim origin have experienced significant difficulties in entering or exiting Israel or the West Bank . ” 
+< / P> 
+<P> 
+The advisory on the department ’s website also notes that Americans seeking to enter Israel , the West Bank or Gaza “ have been subjected to prolonged questioning and have been denied access to consular officers , lawyers and family members . ” 
+< / P> 
+<P> 
+Boxer , in a statement to The Chronicle last week , said the criticism of Israel ’s practices and of her legislation was unfounded .
+< / P> 
+<P> 
+“ Every country in the world retains the right to deny entry to individuals based on national security concerns -- including the United States , ” she said .
+< / P> 
+<P> 
+The senator said her bill would not endorse any discriminatory policies , but instead “ would give the United States leverage to ensure that Israel welcomes Americans into their country . ” 
+< / P> 
+<P> 
+The bill , S . 462 , was introduced in March by Boxer and Sen. Roy Blunt , R - Mo . , and has 25 other co-sponsors and the support of the powerful American Israel Public Affairs Committee . Titled the U.S. - Israel Strategic Partnership Act , it includes a proposed increase in the U.S. weapons stockpile in Israel and an exemption for Israel from some export licensing requirements .
+< / P> 
+<P> 
+The visa waiver provision would add Israel to the 37 nations -- most of Europe , along with Japan , South Korea , Australia , New Zealand and several other Asian countries -- whose citizens can enter the United States with only a passport and stay for up to 90 days . Similar legislation was introduced in the House last year by Rep. Brad Sherman , D - Calif .
+< / P> 
+<P> 
+The main purpose , Boxer ’s office said , is “ increasing visits between our two countries , boosting tourism and strengthening the economies of both countries . ” 
+< / P> 
+<P> 
+But Jewish Voice for Peace cites the case of a woman who said she learned from personal experience that not all tourists are welcome in Israel .
+< / P> 
+<P> 
+Sandra Tamari , a U.S. - born citizen of Palestinian descent , a Quaker and a member of the Palestine Solidarity Committee in St. Louis , said she went with an interfaith group of about 30 people to visit the West Bank in May 2012 .
+< / P> 
+<P> 
+She said Israeli authorities pulled her aside at the airport in Tel Aviv , asked her about her family and her background , then jailed her overnight and put her on a plane back to the United States .
+< / P> 
+<P> 
+While in custody , she said , she telephoned the U.S. embassy . Tamari said the person who took her call asked her immediately if she was Jewish , and , when she said she was n’t , replied , “ Then there ’s nothing I can do to help you . ” 
+< / P> 
+<P> 
+Tamari said the State Department later told her she must have misunderstood the embassy official .
+< / P> 
+<P> 
+Department spokesman Mark Toner , asked about the incident at a June 2012 press briefing , said , “ We would never deny assistance to any American citizen , regardless of their religious or ethnic background . ” 
+< / P> 
+<P> 
+Regardless of current U.S. policies , Tamari said in an interview last week , Boxer ’s bill would change U.S. law and “ create a second - class citizenship category for Arab Americans , for Palestinian Americans , for Muslim Americans . ” 
+< / P> 
+< / TEXT> 
+< / DOC

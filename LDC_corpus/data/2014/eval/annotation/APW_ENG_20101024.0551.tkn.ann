@@ -1,0 +1,21 @@
+T1	Personnel_Elect 75 81	elects
+E1	Personnel_Elect:T1 
+A1	Realis E1 Actual
+T2	Personnel_Elect 289 296	elected
+E2	Personnel_Elect:T2 
+A2	Realis E2 Actual
+T3	Life_Be-Born 455 459	born
+E3	Life_Be-Born:T3 
+A3	Realis E3 Actual
+T4	Personnel_Elect 503 510	elected
+E4	Personnel_Elect:T4 
+A4	Realis E4 Actual
+T5	Personnel_Elect 687 690;700 708	won election
+E5	Personnel_Elect:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 891 901	previously
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Personnel_Elect 966 970	vote
+E7	Personnel_Elect:T7 
+A7	Realis E7 Actual

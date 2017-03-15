@@ -1,0 +1,88 @@
+T1	Conflict_Demonstrate 175 184	protester
+E549	Conflict_Demonstrate:T1
+A1	Realis E549 Actual
+T2	Conflict_Demonstrate 301 314	demonstration
+E425	Conflict_Demonstrate:T2
+A2	Realis E425 Actual
+T3	Justice_Convict 237 246	convicted
+E154	Justice_Convict:T3
+A3	Realis E154 Actual
+T4	Justice_Convict 2312 2317	guilt
+E161	Justice_Convict:T4
+A4	Realis E161 Actual
+T5	Conflict_Attack 250 260	assaulting
+E335	Conflict_Attack:T5
+A5	Realis E335 Actual
+T6	Conflict_Attack 650 655	elbow
+E688	Conflict_Attack:T6
+A6	Realis E688 Actual
+T7	Justice_Arrest-Jail 384 390	prison
+E177	Justice_Arrest-Jail:T7
+A7	Realis E177 Other
+T8	Justice_Arrest-Jail 469 475	prison
+E998	Justice_Arrest-Jail:T8
+A8	Realis E998 Other
+T9	Justice_Arrest-Jail 991 1002	incarcerate
+E698	Justice_Arrest-Jail:T9
+A9	Realis E698 Other
+T10	Justice_Arrest-Jail 2134 2138	jail
+E557	Justice_Arrest-Jail:T10
+A10	Realis E557 Other
+T11	Conflict_Attack 589 596	grabbed
+E445	Conflict_Attack:T11
+A11	Realis E445 Other
+T12	Contact_Correspondence 758 764	letter
+E71	Contact_Correspondence:T12
+A12	Realis E71 Actual
+T13	Contact_Correspondence 919 925	letter
+E739	Contact_Correspondence:T13
+A13	Realis E739 Actual
+T14	Justice_Sentence 860 868	sentence
+E490	Justice_Sentence:T14
+A14	Realis E490 Other
+T15	Justice_Sentence 1116 1126	sentencing
+E823	Justice_Sentence:T15
+A15	Realis E823 Other
+T16	Justice_Arrest-Jail 1055 1067	incarcerated
+E473	Justice_Arrest-Jail:T16
+A16	Realis E473 Actual
+T17	Justice_Trial-Hearing 1127 1134	hearing
+E371	Justice_Trial-Hearing:T17
+A17	Realis E371 Other
+T18	Contact_Contact 1174 1179	asked
+E820	Contact_Contact:T18
+A18	Realis E820 Actual
+T19	Contact_Contact 1234 1241	refused
+E751	Contact_Contact:T19
+A19	Realis E751 Actual
+T20	Justice_Trial-Hearing 1248 1255	hearing
+E364	Justice_Trial-Hearing:T20
+A20	Realis E364 Actual
+T21	Justice_Appeal 1297 1306	appellate
+E76	Justice_Appeal:T21
+A21	Realis E76 Generic
+T22	Contact_Contact 1485 1489	says
+E900	Contact_Contact:T22
+A22	Realis E900 Actual
+T23	Justice_Arrest-Jail 2016 2022	arrest
+E49	Justice_Arrest-Jail:T23
+A23	Realis E49 Other
+T24	Justice_Arrest-Jail 2027 2035	imprison
+E250	Justice_Arrest-Jail:T24
+A24	Realis E250 Other
+T25	Contact_Meet 1351 1358	request
+E981	Contact_Meet:T25
+A25	Realis E981 Actual
+T26	Contact_Meet 1278 1286	appeared
+E39	Contact_Meet:T26
+A26	Realis E39 Actual
+R1	Coreference Arg1:E549 Arg2:E425
+R2	Coreference Arg1:E154 Arg2:E161
+R3	Coreference Arg1:E335 Arg2:E688
+R4	Coreference Arg1:E177 Arg2:E998
+R5	Coreference Arg1:E998 Arg2:E698
+R6	Coreference Arg1:E698 Arg2:E557
+R7	Coreference Arg1:E71 Arg2:E739
+R8	Coreference Arg1:E490 Arg2:E823
+R9	Coreference Arg1:E820 Arg2:E751
+R10	Coreference Arg1:E39 Arg2:E981

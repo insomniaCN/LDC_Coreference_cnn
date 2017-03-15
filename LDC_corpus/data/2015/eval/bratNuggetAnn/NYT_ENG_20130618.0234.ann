@@ -1,0 +1,102 @@
+T1	Justice_Trial-Hearing 1404 1409	trial
+E13	Justice_Trial-Hearing:T1
+A1	Realis E13 Other
+T2	Conflict_Attack 2274 2283	kidnapped
+E114	Conflict_Attack:T2
+A2	Realis E114 Actual
+T3	Conflict_Attack 1482 1487	abuse
+E128	Conflict_Attack:T3
+A3	Realis E128 Other
+T4	Contact_Contact 2568 2572	said
+E159	Contact_Contact:T4
+A4	Realis E159 Actual
+T5	Conflict_Attack 266 276	kidnapping
+E174	Conflict_Attack:T5
+A5	Realis E174 Other
+T6	Movement_Transport-Person 1461 1471	kidnapping
+E183	Movement_Transport-Person:T6
+A6	Realis E183 Other
+T7	Contact_Meet 1769 1777	appeared
+E216	Contact_Meet:T7
+A7	Realis E216 Actual
+T8	Contact_Correspondence 2989 2995	called
+E219	Contact_Correspondence:T8
+A8	Realis E219 Actual
+T9	Justice_Charge-Indict 2608 2615	charges
+E220	Justice_Charge-Indict:T9
+A9	Realis E220 Actual
+T10	Contact_Correspondence 4131 4138	reached
+E288	Contact_Correspondence:T10
+A10	Realis E288 Other
+T11	Contact_Contact 512 516	said
+E289	Contact_Contact:T11
+A11	Realis E289 Actual
+T12	Justice_Extradite 3045 3056	extradition
+E353	Justice_Extradite:T12
+A12	Realis E353 Actual
+T13	Movement_Transport-Person 2274 2283	kidnapped
+E420	Movement_Transport-Person:T13
+A13	Realis E420 Actual
+T14	Justice_Extradite 1339 1348	extradite
+E422	Justice_Extradite:T14
+A14	Realis E422 Other
+T15	Justice_Arrest-Jail 2769 2776	custody
+E444	Justice_Arrest-Jail:T15
+A15	Realis E444 Actual
+T16	Conflict_Attack 1461 1471	kidnapping
+E447	Conflict_Attack:T16
+A16	Realis E447 Other
+T17	Justice_Arrest-Jail 1383 1389	jailed
+E519	Justice_Arrest-Jail:T17
+A17	Realis E519 Actual
+T18	Justice_Arrest-Jail 1314 1323	apprehend
+E524	Justice_Arrest-Jail:T18
+A18	Realis E524 Other
+T19	Movement_Transport-Person 266 276	kidnapping
+E538	Movement_Transport-Person:T19
+A19	Realis E538 Other
+T20	Conflict_Attack 2353 2358	bound
+E630	Conflict_Attack:T20
+A20	Realis E630 Actual
+T21	Justice_Arrest-Jail 2846 2852	arrest
+E661	Justice_Arrest-Jail:T21
+A21	Realis E661 Actual
+T22	Movement_Transport-Person 591 599	arriving
+E723	Movement_Transport-Person:T22
+A22	Realis E723 Actual
+T23	Movement_Transport-Person 1339 1348	extradite
+E750	Movement_Transport-Person:T23
+A23	Realis E750 Other
+T24	Contact_Meet 850 853	met
+E761	Contact_Meet:T24
+A24	Realis E761 Actual
+T25	Movement_Transport-Person 1224 1231	arrival
+E793	Movement_Transport-Person:T25
+A25	Realis E793 Actual
+T26	Contact_Meet 559 562	met
+E806	Contact_Meet:T26
+A26	Realis E806 Actual
+T27	Contact_Contact 1693 1700	remarks
+E835	Contact_Contact:T27
+A27	Realis E835 Actual
+T28	Movement_Transport-Person 3011 3015	fled
+E841	Movement_Transport-Person:T28
+A28	Realis E841 Actual
+T29	Contact_Meet 2907 2916	demanding
+E871	Contact_Meet:T29
+A29	Realis E871 Actual
+T30	Movement_Transport-Person 2865 2874	showed up
+E905	Movement_Transport-Person:T30
+A30	Realis E905 Actual
+T31	Justice_Arrest-Jail 2591 2599	arrested
+E908	Justice_Arrest-Jail:T31
+A31	Realis E908 Actual
+T32	Movement_Transport-Person 304 314	absconding
+E938	Movement_Transport-Person:T32
+A32	Realis E938 Other
+T33	Movement_Transport-Person 3045 3056	extradition
+E956	Movement_Transport-Person:T33
+A33	Realis E956 Actual
+T34	Justice_Charge-Indict 1443 1450	charges
+E967	Justice_Charge-Indict:T34
+A34	Realis E967 Actual

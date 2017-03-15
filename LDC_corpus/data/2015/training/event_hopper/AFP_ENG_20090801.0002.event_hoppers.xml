@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976360000000000000023" doc_id="AFP_ENG_20090801.0002" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-38" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="313" length="7">bombing</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="115" length="7">bombing</trigger>
+      </event_mention>
+      <event_mention id="em-64" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="859" length="6">attack</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-77" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="350" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-90" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="108" length="6">deadly</trigger>
+      </event_mention>
+      <event_mention id="em-103" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="842" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-116" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="683" length="8">traveled</trigger>
+      </event_mention>
+      <event_mention id="em-129" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="236" length="8">traveled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-142" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="73" length="7">holiday</trigger>
+      </event_mention>
+      <event_mention id="em-155" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="792" length="7">holiday</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-168" type="business" subtype="endorg" realis="other">
+        <trigger source="AFP_ENG_20090801.0002" offset="464" length="7">destroy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-194" type="conflict" subtype="attack" realis="other">
+        <trigger source="AFP_ENG_20090801.0002" offset="580" length="5">fight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-207" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="948" length="8">exploded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-220" type="life" subtype="injure" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="1030" length="8">injuring</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-233" type="life" subtype="die" realis="other">
+        <trigger source="AFP_ENG_20090801.0002" offset="1190" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-246" type="conflict" subtype="attack" realis="other">
+        <trigger source="AFP_ENG_20090801.0002" offset="1228" length="5">shoot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-259" type="conflict" subtype="attack" realis="other">
+        <trigger source="AFP_ENG_20090801.0002" offset="1319" length="7">blow up</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-272" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="1433" length="6">deaths</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-285" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090801.0002" offset="1117" length="7">attacks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-298" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="AFP_ENG_20090801.0002" offset="414" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-311" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="AFP_ENG_20090801.0002" offset="604" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-324" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="AFP_ENG_20090801.0002" offset="448" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

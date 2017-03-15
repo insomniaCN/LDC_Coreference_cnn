@@ -1,0 +1,272 @@
+T1	Personnel_End-Position 383 390	retired
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Justice_Extradite 465 475	extradited
+E2	Justice_Extradite:T2 
+A2	Realis E2 Other
+T3	Justice_Charge-Indict 505 512	charges
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 531 539	exported
+E4	Transaction_Transfer-Ownership:T4 
+A5	Realis E4 Other
+T5	Movement_Transport-Person 623 631	escorted
+E5	Movement_Transport-Person:T5 
+A6	Realis E5 Other
+T6	Justice_Extradite 881 891	extradited
+E6	Justice_Extradite:T6 
+A7	Realis E6 Other
+A8	Questionable E6 Realis
+T7	Justice_Trial-Hearing 1084 1093;1104 1109	tested in court
+E7	Justice_Trial-Hearing:T7 
+A9	Questionable E7 Mention
+A10	Realis E7 Generic
+T8	Movement_Transport-Person 1165 1172	arrived
+E8	Movement_Transport-Person:T8 
+A11	Realis E8 Actual
+T9	Movement_Transport-Person 1335 1342	walking
+E9	Movement_Transport-Person:T9 
+A12	Realis E9 Other
+T10	Justice_Extradite 1386 1395	extradite
+E10	Justice_Extradite:T10 
+A13	Realis E10 Other
+T11	Movement_Transport-Person 1473 1478	going
+E11	Movement_Transport-Person:T11 
+A14	Realis E11 Other
+T12	Justice_Extradite 1837 1847	extradited
+E12	Justice_Extradite:T12 
+A15	Realis E12 Other
+T13	Justice_Charge-Indict 2191 2198	accused
+E13	Justice_Charge-Indict:T13 
+A16	Realis E13 Actual
+T14	Justice_Extradite 2387 2398	extradition
+E14	Justice_Extradite:T14 
+A17	Realis E14 Generic
+T15	Justice_Extradite 2508 2518	extradited
+E15	Justice_Extradite:T15 
+A18	Realis E15 Generic
+T16	Justice_Charge-Indict 2743 2750	charged
+E16	Justice_Charge-Indict:T16 
+A19	Questionable E16 Realis
+A20	Realis E16 Actual
+T17	Justice_Arrest-Jail 2796 2806	imprisoned
+E17	Justice_Arrest-Jail:T17 
+A21	Realis E17 Other
+T18	Transaction_Transfer-Ownership 2976 2986	purchasing
+E18	Transaction_Transfer-Ownership:T18 
+A22	Realis E18 Other
+T19	Transaction_Transfer-Ownership 3029 3035	supply
+E19	Transaction_Transfer-Ownership:T19 
+A23	Realis E19 Other
+T20	Justice_Extradite 3067 3077	extradited
+E20	Justice_Extradite:T20 
+A24	Realis E20 Other
+T21	Justice_Extradite 3939 3948	extradite
+E21	Justice_Extradite:T21 
+A25	Realis E21 Generic
+T22	Justice_Arrest-Jail 4170 4184	been in prison
+E22	Justice_Arrest-Jail:T22 
+A26	Realis E22 Actual
+T23	Justice_Charge-Indict 4207 4213	charge
+E23	Justice_Charge-Indict:T23 
+A27	Realis E23 Other
+T24	Justice_Extradite 4715 4725	extradited
+E24	Justice_Extradite:T24 
+A28	Questionable E24 Realis
+A29	Realis E24 Other
+T25	Justice_Charge-Indict 4867 4874	accused
+E25	Justice_Charge-Indict:T25 
+A30	Realis E25 Actual
+T26	Justice_Extradite 5063 5074	extradition
+E26	Justice_Extradite:T26 
+A31	Realis E26 Generic
+T27	Justice_Extradite 5184 5194	extradited
+E27	Justice_Extradite:T27 
+A32	Realis E27 Generic
+T28	Justice_Charge-Indict 5419 5426	charged
+E28	Justice_Charge-Indict:T28 
+A33	Questionable E28 Realis
+A34	Realis E28 Actual
+T29	Justice_Arrest-Jail 5472 5482	imprisoned
+E29	Justice_Arrest-Jail:T29 
+A35	Realis E29 Other
+T30	Transaction_Transfer-Ownership 5652 5662	purchasing
+E30	Transaction_Transfer-Ownership:T30 
+A36	Realis E30 Other
+T31	Transaction_Transfer-Ownership 5705 5711	supply
+E31	Transaction_Transfer-Ownership:T31 
+A37	Realis E31 Other
+T32	Justice_Extradite 5743 5753	extradited
+E32	Justice_Extradite:T32 
+A38	Realis E32 Other
+T33	Justice_Trial-Hearing 6040 6049;6058 6064	tested in courts
+E33	Justice_Trial-Hearing:T33 
+A39	Questionable E33 Mention
+A40	Realis E33 Other
+T34	Justice_Extradite 6089 6100	extradition
+E34	Justice_Extradite:T34 
+A41	Realis E34 Other
+T35	Justice_Extradite 6132 6143	extradition
+E35	Justice_Extradite:T35 
+A42	Realis E35 Other
+T36	Justice_Trial-Hearing 6342 6347	tried
+E36	Justice_Trial-Hearing:T36 
+A43	Realis E36 Other
+T37	Justice_Trial-Hearing 6619 6628;6637 6643	tested in courts
+E37	Justice_Trial-Hearing:T37 
+A44	Questionable E37 Mention
+A45	Realis E37 Other
+T38	Justice_Extradite 6668 6679	extradition
+E38	Justice_Extradite:T38 
+A46	Realis E38 Other
+T39	Justice_Extradite 6711 6722	extradition
+E39	Justice_Extradite:T39 
+A47	Realis E39 Other
+T40	Justice_Trial-Hearing 6921 6926	tried
+E40	Justice_Trial-Hearing:T40 
+A48	Realis E40 Other
+T41	Life_Die 7192 7200	murdered
+E41	Life_Die:T41 
+A49	Realis E41 Other
+T42	Justice_Trial-Hearing 7283 7288	tried
+E42	Justice_Trial-Hearing:T42 
+A50	Realis E42 Other
+T43	Personnel_Start-Position 7349 7354	hired
+E43	Personnel_Start-Position:T43 
+A51	Questionable E43 Realis
+A52	Realis E43 Other
+T44	Life_Die 7382 7386	kill
+E44	Life_Die:T44 
+A53	Realis E44 Generic
+T45	Justice_Charge-Indict 7432 7438	charge
+E45	Justice_Charge-Indict:T45 
+A54	Realis E45 Other
+T46	Movement_Transport-Person 7487 7495	deported
+E46	Movement_Transport-Person:T46 
+A55	Realis E46 Generic
+T47	Life_Die 7850 7858	murdered
+E47	Life_Die:T47 
+A56	Realis E47 Other
+T48	Justice_Trial-Hearing 7941 7946	tried
+E48	Justice_Trial-Hearing:T48 
+A57	Realis E48 Other
+T49	Personnel_Start-Position 8007 8012	hired
+E49	Personnel_Start-Position:T49 
+A58	Realis E49 Other
+T50	Life_Die 8040 8044	kill
+E50	Life_Die:T50 
+A59	Realis E50 Generic
+T51	Justice_Charge-Indict 8090 8096	charge
+E51	Justice_Charge-Indict:T51 
+A60	Realis E51 Other
+T52	Movement_Transport-Person 8145 8153	deported
+E52	Movement_Transport-Person:T52 
+A61	Realis E52 Generic
+T53	Life_Die 8298 8304	killed
+E53	Life_Die:T53 
+A62	Realis E53 Other
+T54	Justice_Trial-Hearing 8379 8390	stand trial
+E54	Justice_Trial-Hearing:T54 
+A63	Realis E54 Other
+T55	Movement_Transport-Person 8445 8453	deported
+E55	Movement_Transport-Person:T55 
+A64	Realis E55 Other
+T56	Movement_Transport-Person 8659 8666	leaving
+E56	Movement_Transport-Person:T56 
+A65	Realis E56 Other
+T57	Justice_Trial-Hearing 8853 8862;8871 8877	tested in courts
+E57	Justice_Trial-Hearing:T57 
+A66	Realis E57 Other
+T58	Justice_Extradite 8902 8913	extradition
+E58	Justice_Extradite:T58 
+A67	Realis E58 Other
+T59	Justice_Extradite 8945 8956	extradition
+E59	Justice_Extradite:T59 
+A68	Realis E59 Other
+T60	Justice_Trial-Hearing 9155 9160	tried
+E60	Justice_Trial-Hearing:T60 
+A69	Realis E60 Other
+T61	Justice_Trial-Hearing 9550 9553	try
+E61	Justice_Trial-Hearing:T61 
+A70	Realis E61 Other
+T62	Justice_Trial-Hearing 9731 9736	tried
+E62	Justice_Trial-Hearing:T62 
+A71	Realis E62 Other
+T63	Personnel_End-Position 9938 9945	retired
+E63	Personnel_End-Position:T63 
+A72	Realis E63 Actual
+T64	Transaction_Transfer-Ownership 9963 9967	sold
+E64	Transaction_Transfer-Ownership:T64 
+A73	Realis E64 Actual
+T65	Transaction_Transfer-Ownership 9992 9996	sell
+E65	Transaction_Transfer-Ownership:T65 
+A74	Realis E65 Other
+T66	Conflict_Attack 10030 10033	war
+E66	Conflict_Attack:T66 
+A75	Realis E66 Generic
+T67	Transaction_Transfer-Ownership 10051 10055	sell
+E67	Transaction_Transfer-Ownership:T67 
+A76	Realis E67 Other
+T68	Justice_Arrest-Jail 10223 10231	arrested
+E68	Justice_Arrest-Jail:T68 
+A77	Realis E68 Actual
+T69	Justice_Extradite 10306 10317	extradition
+E69	Justice_Extradite:T69 
+A78	Questionable E69 Realis
+A79	Realis E69 Generic
+T70	Movement_Transport-Person 10374 10378	send
+E70	Movement_Transport-Person:T70 
+A80	Realis E70 Generic
+T71	Movement_Transport-Person 10514 10520	deport
+E71	Movement_Transport-Person:T71 
+A81	Realis E71 Generic
+T72	Movement_Transport-Person 10551 10555	walk
+E72	Movement_Transport-Person:T72 
+A82	Realis E72 Generic
+T73	Justice_Extradite 10757 10766	extradite
+E73	Justice_Extradite:T73 
+A83	Realis E73 Generic
+A84	Questionable E73 Realis
+T74	Transaction_Transfer-Ownership 10799 10806	selling
+E74	Transaction_Transfer-Ownership:T74 
+A85	Questionable E74 Realis
+A86	Realis E74 Other
+T75	Justice_Extradite 11069 11080	extradition
+E75	Justice_Extradite:T75 
+A87	Realis E75 Generic
+T76	Transaction_Transfer-Ownership 11239 11246	exports
+E76	Transaction_Transfer-Ownership:T76 
+A88	Realis E76 Actual
+T77	Transaction_Transfer-Ownership 11363 11369	export
+E77	Transaction_Transfer-Ownership:T77 
+A89	Realis E77 Generic
+T78	Transaction_Transfer-Ownership 11574 11580	export
+E78	Transaction_Transfer-Ownership:T78 
+A90	Realis E78 Generic
+T79	Justice_Extradite 12042 12051	extradite
+E79	Justice_Extradite:T79 
+A91	Realis E79 Generic
+T80	Justice_Extradite 12219 12230	extradition
+E80	Justice_Extradite:T80 
+A92	Realis E80 Generic
+T81	Justice_Extradite 13036 13047	extradition
+E81	Justice_Extradite:T81 
+A93	Realis E81 Generic
+T82	Justice_Trial-Hearing 13509 13514	trial
+E82	Justice_Trial-Hearing:T82 
+A94	Realis E82 Other
+T83	Justice_Arrest-Jail 113 126	Snatched Away
+E83	Justice_Arrest-Jail:T83 
+A95	Realis E83 Actual
+T84	Justice_Arrest-Jail 420 431	handed over
+E84	Justice_Arrest-Jail:T84 
+A96	Realis E84 Actual
+T85	Justice_Arrest-Jail 1041 1052	handed over
+E85	Justice_Arrest-Jail:T85 
+A4	Realis E85 Generic
+T86	Transaction_Transfer-Ownership 11670 11674	send
+E86	Transaction_Transfer-Ownership:T86 
+A97	Realis E86 Other
+T87	Transaction_Transfer-Money 13666 13672	made $
+E87	Transaction_Transfer-Money:T87 
+A98	Realis E87 Actual

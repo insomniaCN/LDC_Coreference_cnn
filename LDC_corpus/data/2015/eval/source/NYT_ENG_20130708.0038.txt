@@ -1,0 +1,43 @@
+<DOC id="NYT_ENG_20130708.0038" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130708/20130708,32ff90585d4e7b06bf54df5d7bb6387d.xml">
+<HEADLINE>
+CZECH PROSECUTORS PREPARE TO CHARGE EX-PREMIER
+</HEADLINE>
+<TEXT>
+<P>
+PARIS - Czech prosecutors asked the Parliament on Monday to strip former Prime Minister Petr Necas of immunity from prosecution. Law enforcement officials said the request was a prelude to charging Necas with corruption.
+</P>
+<P>
+Necas would be the highest-level official to face corruption charges in the country since the fall of communism. A bookish, churchgoing father of four, Necas came to power in 2010 promising to clean up a culture of cronyism and corruption, but he was forced to resign last month after his chief of staff was charged with bribery and abuse of office.
+</P>
+<P>
+The chief of staff - Jana Nagyova, a close confidante of Necas - is accused of ordering the secret services to spy on Necas’ estranged wife, whom he is divorcing. Nagyova has also been charged with offering bribes in the form of posts at state-owned companies to three members of Parliament who opposed a government austerity plan.
+</P>
+<P>
+Prosecutors said they were examining whether Necas had links to the bribery scheme, which some analysts and supporters of Necas have dismissed as the routine trading of political favors rather than a criminal act.
+</P>
+<P>
+Necas said Monday that no agreement had been made with the three lawmakers, and that, in any case, political agreements could not be considered crimes.
+</P>
+<P>
+“It is not clear to me what I should be charged with,” he said in a statement. “So far, all the information we have shows that this whole case is about criminalizing political decisions. I refuse this approach. I find it unacceptable and I shall not accept it. I am ready to defend myself.”
+</P>
+<P>
+Jindrich Sidlo, a commentator for Hospodarske Noviny, a leading economic newspaper, said on Monday that going ahead with charges in the case would turn Czech politics upside down.
+</P>
+<P>
+“If this political deal is bribery, then this would be the end of politics in the Czech Republic as we have known it for the past 20 years,” he said by telephone from Prague.
+</P>
+<P>
+But Ivo Istvan, the chief prosecutor in the case, said that using a state job to entice a lawmaker to resign did constitute bribery, no different than offering a briefcase full of money.
+</P>
+<P>
+“If a member of Parliament does not act in the public interest in order to be awarded a state job, we can speak about political corruption,” Istvan said. “We need to ask if Parliament is a place where parliamentarians vote according to their conscience or according to what it can buy them.”
+</P>
+<P>
+The parliamentary committee that deals with immunity is scheduled to discuss the case July 17, with a vote by the full Parliament expected to take place in September. Analysts said it was difficult to predict the outcome.
+</P>
+<P>
+President Milos Zeman has appointed Jiri Rusnok, a leftist former finance minister, to replace Necas. Zeman is expected to approve Rusnok’s Cabinet on Wednesday, with a vote of confidence in Parliament to follow within 30 days.
+</P>
+</TEXT>
+</DOC>

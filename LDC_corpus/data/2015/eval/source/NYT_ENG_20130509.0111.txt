@@ -1,0 +1,52 @@
+<DOC id="NYT_ENG_20130509.0111" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130509/20130509,4be6b8063a3aabdec705335b5b916a57.xml">
+<HEADLINE>
+FAMILY PLANNING OFFICIALS INVESTIGATE CHINESE FILM DIRECTOR
+</HEADLINE>
+<TEXT>
+<P>
+Sue-Lin Wong contributed research.
+</P>
+<P>
+BEIJING – China’s most celebrated film director, Zhang Yimou, is being investigated for a potential violation of family planning laws, an official said Thursday, confirming reports in state news media.
+</P>
+<P>
+Family planning officials are examining discussions on the Internet that say Zhang has fathered up to seven children with four women. If he is found to have violated the laws, he could be fined nearly $27 million because the fines are based on the offender’s income, according to a report in the online edition of People’s Daily, the official mouthpiece of the Communist Party.
+</P>
+<P>
+An official in a propaganda office attached to the family planning committee of Jiangsu province, near Shanghai on the east coast, confirmed the substance of the People’s Daily report, which was published Wednesday. Calls to the family planning committee of Wuxi, the city where Chen Ting, Zhang’s second wife, is registered as a resident, went unanswered Thursday.
+</P>
+<P>
+Family planning laws generally restrict families to one child, and fines are levied for additional children. There are numerous exceptions, though: Many rural families and ethnic minorities are allowed to have more than one child without penalty. Xinhua, the state news agency, said Thursday that the local family planning committee would release the results of its investigation into Zhang soon.
+</P>
+<P>
+Zhang’s most recent feature film was “The Flowers of War” starring Christian Bale; China entered it into the Oscar contest for best foreign film of 2011. Early in his career, Zhang made a string of films that became popular on the international film festival circuit and in foreign art theaters, including “Red Sorghum,” “Raise the Red Lantern” and “To Live,” adaptations of well-known literary works. He achieved commercial success with “Hero,” a martial arts film, and was commissioned by Communist Party leaders to direct the opening ceremony of the 2008 Olympics in Beijing.
+</P>
+<P>
+Zhang, 61, is a member of the Chinese People’s Political Consultative Conference, a sort of honorary legislature whose seats are often distributed by the party as political rewards. Zhang’s critics say he has changed over the years from a director with an uncompromising vision to one who bows to the whims of party officials.
+</P>
+<P>
+In an interview in Beijing with The New York Times published in 2012, Zhang said censorship “can’t be changed, and it will be there in the future.” He added: “Foreigners think that because I did the opening ceremony of the Olympics, I have certain privileges, but in fact it’s not like that at all. In front of censorship, everyone is equal.”
+</P>
+<P>
+Zhang could not be reached for comment Thursday.
+</P>
+<P>
+There has been a recent push by scholars to end the one-child policy, which critics say has led to forced abortions and sterilizations. Some economists say that China will face a dwindling pool of young workers in the coming years, and that it no longer makes sense to continue the policy. Furthermore, for economic reasons, the birthrate is falling across China, especially in urban areas.
+</P>
+<P>
+There is no reliable public report that gives the exact number of children Zhang has with Chen, an actress.
+</P>
+<P>
+The recent surge of interest among Chinese Internet users in Zhang’s children appeared to have begun Monday, when Southern Entertainment Weekly published an article that said the couple had two sons and a daughter. That assertion has not been independently confirmed and the article did not name the sources of the information.
+</P>
+<P>
+The reporter and a photographer camped outside Zhang’s many homes in Beijing, and the photographer followed a car of his to the airport and witnessed what appeared to be some family members emerging from the car, the article said.
+</P>
+<P>
+Zhang has a daughter with his first wife, Xiao Hua, whom he divorced around the time he was in a relationship with Gong Li, who starred in Zhang’s early films and became China’s best-known actress. The daughter, Zhang Mo, is about 30 and studied filmmaking at New York University. She has worked as a film editor for her father and was a translator for Bale on the set of “The Flowers of War.”
+</P>
+<P>
+The People’s Daily report said there was speculation that Zhang may have three other children with two other women, but it did not give their identities.
+</P>
+</TEXT>
+</DOC>

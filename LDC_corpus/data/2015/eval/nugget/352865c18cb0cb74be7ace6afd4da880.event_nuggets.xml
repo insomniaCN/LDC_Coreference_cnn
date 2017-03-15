@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8f3120000000000000002" doc_id="352865c18cb0cb74be7ace6afd4da880" source_type="multi_post">
+  <event_mention id="em-76" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="463" length="7">arrived</trigger>
+  </event_mention>
+  <event_mention id="em-110" type="personnel" subtype="startposition" realis="other">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="484" length="7">take up</trigger>
+  </event_mention>
+  <event_mention id="em-157" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="132" length="3">New</trigger>
+  </event_mention>
+  <event_mention id="em-293" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="1087" length="5">named</trigger>
+  </event_mention>
+  <event_mention id="em-370" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="788" length="9">appointed</trigger>
+  </event_mention>
+  <event_mention id="em-383" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="997" length="9">appointed</trigger>
+  </event_mention>
+  <event_mention id="em-404" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="942" length="8">sworn in</trigger>
+  </event_mention>
+  <event_mention id="em-491" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="620" length="8">received</trigger>
+  </event_mention>
+  <event_mention id="em-550" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="585" length="6">stated</trigger>
+  </event_mention>
+  <event_mention id="em-560" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="162" length="7">arrives</trigger>
+  </event_mention>
+  <event_mention id="em-865" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="862" length="9">nominated</trigger>
+  </event_mention>
+  <event_mention id="em-897" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="341" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-939" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="352865c18cb0cb74be7ace6afd4da880" offset="763" length="8">ceremony</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab20000000000000185" doc_id="8c38f47cb7ce7b5b2e0a8b3454ca84fe" source_type="multi_post">
+  <event_mention id="em-89" type="life" subtype="marry" realis="other">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="629" length="7">Wedding</trigger>
+  </event_mention>
+  <event_mention id="em-163" type="life" subtype="marry" realis="other">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="1518" length="5">marry</trigger>
+  </event_mention>
+  <event_mention id="em-172" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="583" length="5">Tweet</trigger>
+  </event_mention>
+  <event_mention id="em-271" type="life" subtype="marry" realis="actual">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="361" length="7">Married</trigger>
+  </event_mention>
+  <event_mention id="em-380" type="life" subtype="marry" realis="actual">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="460" length="6">maried</trigger>
+  </event_mention>
+  <event_mention id="em-476" type="life" subtype="marry" realis="actual">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="836" length="3">wed</trigger>
+  </event_mention>
+  <event_mention id="em-680" type="life" subtype="marry" realis="other">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="731" length="7">wedding</trigger>
+  </event_mention>
+  <event_mention id="em-890" type="life" subtype="marry" realis="other">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="1486" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-902" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="446" length="7">Tweeted</trigger>
+  </event_mention>
+  <event_mention id="em-966" type="life" subtype="marry" realis="actual">
+    <trigger source="8c38f47cb7ce7b5b2e0a8b3454ca84fe" offset="388" length="13">tied the knot</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

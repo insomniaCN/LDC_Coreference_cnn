@@ -1,0 +1,121 @@
+T1	Personnel_Nominate 343 353	nomination
+E525	Personnel_Nominate:T1
+A1	Realis E525 Actual
+T2	Contact_Contact 543 553	interviews
+E28	Contact_Contact:T2
+A2	Realis E28 Actual
+T3	Contact_Contact 178 185	ACCUSES
+E314	Contact_Contact:T3
+A3	Realis E314 Actual
+T4	Contact_Contact 377 387	criticized
+E998	Contact_Contact:T4
+A4	Realis E998 Actual
+T5	Contact_Contact 436 444	accusing
+E106	Contact_Contact:T5
+A5	Realis E106 Actual
+T6	Contact_Contact 1329 1336	remarks
+E113	Contact_Contact:T6
+A6	Realis E113 Actual
+T7	Transaction_Transfer-Money 585 593	spending
+E853	Transaction_Transfer-Money:T7
+A7	Realis E853 Generic
+T8	Transaction_Transfer-Money 621 626	taxes
+E925	Transaction_Transfer-Money:T8
+A8	Realis E925 Generic
+T9	Transaction_Transfer-Money 2415 2420	taxes
+E484	Transaction_Transfer-Money:T9
+A9	Realis E484 Generic
+T10	Transaction_Transfer-Money 2588 2593	taxes
+E11	Transaction_Transfer-Money:T10
+A10	Realis E11 Generic
+T11	Personnel_End-Position 722 733	predecessor
+E500	Personnel_End-Position:T11
+A11	Realis E500 Actual
+T12	Personnel_Nominate 1595 1605	nomination
+E897	Personnel_Nominate:T12
+A12	Realis E897 Other
+T13	Conflict_Demonstrate 1614 1619	rally
+E149	Conflict_Demonstrate:T13
+A13	Realis E149 Actual
+T14	Transaction_Transfer-Money 2429 2436	earners
+E668	Transaction_Transfer-Money:T14
+A14	Realis E668 Generic
+T15	Transaction_Transfer-Money 2440 2443	pay
+E505	Transaction_Transfer-Money:T15
+A15	Realis E505 Other
+T16	Movement_Transport-Person 2748 2755	visited
+E792	Movement_Transport-Person:T16
+A16	Realis E792 Actual
+T17	Life_Die 2767 2773	burial
+E92	Life_Die:T17
+A17	Realis E92 Actual
+T18	Life_Die 2960 2966	burial
+E542	Life_Die:T18
+A18	Realis E542 Actual
+T19	Movement_Transport-Person 2895 2902	entered
+E885	Movement_Transport-Person:T19
+A19	Realis E885 Actual
+T20	Contact_Contact 3004 3013	addressed
+E921	Contact_Contact:T20
+A20	Realis E921 Actual
+T21	Contact_Meet 3034 3039	asked
+E501	Contact_Meet:T21
+A21	Realis E501 Actual
+T22	Transaction_Transfer-Ownership 3049 3057	received
+E785	Transaction_Transfer-Ownership:T22
+A22	Realis E785 Actual
+T23	Movement_Transport-Artifact 3189 3196	brought
+E689	Movement_Transport-Artifact:T23
+A23	Realis E689 Actual
+T24	Contact_Contact 919 928	interview
+E297	Contact_Contact:T24
+A24	Realis E297 Actual
+T25	Contact_Contact 933 937	said
+E104	Contact_Contact:T25
+A25	Realis E104 Actual
+T26	Contact_Contact 1754 1764	interviews
+E534	Contact_Contact:T26
+A26	Realis E534 Actual
+T27	Contact_Broadcast 1769 1781	acknowledged
+E540	Contact_Broadcast:T27
+A27	Realis E540 Actual
+T28	Contact_Broadcast 1839 1844	spoke
+E150	Contact_Broadcast:T28
+A28	Realis E150 Actual
+T29	Contact_Broadcast 1959 1965	saying
+E165	Contact_Broadcast:T29
+A29	Realis E165 Actual
+T30	Contact_Broadcast 2151 2155	said
+E994	Contact_Broadcast:T30
+A30	Realis E994 Actual
+T31	Contact_Broadcast 2515 2519	said
+E282	Contact_Broadcast:T31
+A31	Realis E282 Actual
+T32	Contact_Broadcast 2611 2615	said
+E774	Contact_Broadcast:T32
+A32	Realis E774 Actual
+T33	Contact_Broadcast 2658 2662	said
+E996	Contact_Broadcast:T33
+A33	Realis E996 Actual
+T34	Contact_Contact 3362 3371	interview
+E8	Contact_Contact:T34
+A34	Realis E8 Actual
+T35	Contact_Contact 3388 3391	say
+E90	Contact_Contact:T35
+A35	Realis E90 Actual
+R1	Coreference Arg1:E314 Arg2:E998
+R2	Coreference Arg1:E998 Arg2:E106
+R3	Coreference Arg1:E106 Arg2:E28
+R4	Coreference Arg1:E28 Arg2:E113
+R5	Coreference Arg1:E925 Arg2:E484
+R6	Coreference Arg1:E484 Arg2:E11
+R7	Coreference Arg1:E92 Arg2:E542
+R8	Coreference Arg1:E297 Arg2:E104
+R9	Coreference Arg1:E534 Arg2:E540
+R10	Coreference Arg1:E540 Arg2:E150
+R11	Coreference Arg1:E150 Arg2:E165
+R12	Coreference Arg1:E165 Arg2:E994
+R13	Coreference Arg1:E994 Arg2:E282
+R14	Coreference Arg1:E282 Arg2:E774
+R15	Coreference Arg1:E774 Arg2:E996
+R16	Coreference Arg1:E8 Arg2:E90

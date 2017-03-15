@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000644" doc_id="NYT_ENG_20130628.0102" source_type="newswire">
+<event_mention id="em-10" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="513" length="8">purchase</trigger>
+      </event_mention>
+<event_mention id="em-23" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="724" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-68" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="816" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-81" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="816" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-94" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="889" length="6">guilty</trigger>
+      </event_mention>
+<event_mention id="em-109" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="899" length="9">diverting</trigger>
+      </event_mention>
+<event_mention id="em-124" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="1052" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-139" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="1249" length="6">taking</trigger>
+      </event_mention>
+<event_mention id="em-154" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="1370" length="5">taxes</trigger>
+      </event_mention>
+<event_mention id="em-169" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="1510" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-197" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="1541" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-212" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="1570" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-227" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="1597" length="16">money laundering</trigger>
+      </event_mention>
+<event_mention id="em-242" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="1615" length="7">bribery</trigger>
+      </event_mention>
+<event_mention id="em-257" type="transaction" subtype="transferownership" realis="generic" ways="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="1629" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-272" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="1642" length="10">kidnapping</trigger>
+      </event_mention>
+<event_mention id="em-287" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="1657" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-302" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="1657" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-317" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="1745" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-332" type="justice" subtype="convict" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="1902" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-347" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="1941" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-362" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="2025" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-375" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="2036" length="6">trials</trigger>
+      </event_mention>
+<event_mention id="em-390" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="2171" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-403" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="2190" length="9">siphoning</trigger>
+      </event_mention>
+<event_mention id="em-418" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="2304" length="10">kidnapping</trigger>
+      </event_mention>
+<event_mention id="em-433" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="2434" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-448" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="2485" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-476" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="2911" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-491" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="2716" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-504" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="3157" length="7">clashed</trigger>
+      </event_mention>
+<event_mention id="em-517" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="3006" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-532" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="3692" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-547" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="4040" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-562" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="4085" length="6">guilty</trigger>
+      </event_mention>
+<event_mention id="em-577" type="transaction" subtype="transaction" realis="actual" ways="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="4103" length="12">embezzlement</trigger>
+      </event_mention>
+<event_mention id="em-592" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="4143" length="8">imprison</trigger>
+      </event_mention>
+<event_mention id="em-607" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="4305" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-622" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="4329" length="5">visit</trigger>
+      </event_mention>
+<event_mention id="em-637" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="4416" length="7">protest</trigger>
+      </event_mention>
+<event_mention id="em-652" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130628.0102" offset="4547" length="8">stealing</trigger>
+      </event_mention>
+<event_mention id="em-667" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130628.0102" offset="4600" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-682" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5008" length="4">shot</trigger>
+      </event_mention>
+<event_mention id="em-697" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5013" length="4">dead</trigger>
+      </event_mention>
+<event_mention id="em-712" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="5074" length="12">imprisonment</trigger>
+      </event_mention>
+<event_mention id="em-727" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5098" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-740" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5247" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-755" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5287" length="9">impeached</trigger>
+      </event_mention>
+<event_mention id="em-770" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5325" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-785" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5422" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-800" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5560" length="7">accused</trigger>
+      </event_mention>
+<event_mention id="em-815" type="justice" subtype="convict" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="5679" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-830" type="justice" subtype="sentence" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="5693" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-845" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="5747" length="4">lose</trigger>
+      </event_mention>
+<event_mention id="em-860" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5807" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-875" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5860" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-890" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="5895" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-905" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="5994" length="6">guilty</trigger>
+      </event_mention>
+<event_mention id="em-920" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="6024" length="9">expulsion</trigger>
+      </event_mention>
+<event_mention id="em-935" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="6122" length="8">unseated</trigger>
+      </event_mention>
+<event_mention id="em-948" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6194" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-963" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6246" length="9">sentences</trigger>
+      </event_mention>
+<event_mention id="em-978" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="6331" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-993" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="5938" length="6">buying</trigger>
+      </event_mention>
+<event_mention id="em-1008" type="personnel" subtype="endposition" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="6476" length="7">removed</trigger>
+      </event_mention>
+<event_mention id="em-1023" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="6577" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-1038" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6827" length="6">guilty</trigger>
+      </event_mention>
+<event_mention id="em-1053" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6858" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-1068" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6858" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-1083" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6921" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-1096" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6921" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-1109" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="6984" length="4">take</trigger>
+      </event_mention>
+<event_mention id="em-1124" type="justice" subtype="appeal" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="7014" length="7">appeals</trigger>
+      </event_mention>
+<event_mention id="em-1139" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="7082" length="7">paroled</trigger>
+      </event_mention>
+<event_mention id="em-1154" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="7095" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-1169" type="life" subtype="die" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="7287" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-1184" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="7356" length="8">throwing</trigger>
+      </event_mention>
+<event_mention id="em-1199" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="7394" length="12">dismembering</trigger>
+      </event_mention>
+<event_mention id="em-1214" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="7442" length="3">won</trigger>
+      </event_mention>
+<event_mention id="em-1229" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="7501" length="8">stripped</trigger>
+      </event_mention>
+<event_mention id="em-1244" type="justice" subtype="convict" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="7523" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-1259" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="7545" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-1274" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="7582" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-1289" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="7672" length="8">salaries</trigger>
+      </event_mention>
+<event_mention id="em-1304" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="7720" length="8">stipends</trigger>
+      </event_mention>
+<event_mention id="em-1319" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="8069" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-1334" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="8552" length="10">protesters</trigger>
+      </event_mention>
+<event_mention id="em-1349" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="NYT_ENG_20130628.0102" offset="8969" length="8">protests</trigger>
+      </event_mention>
+<event_mention id="em-1362" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="9002" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-1377" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130628.0102" offset="9068" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-1392" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130628.0102" offset="9322" length="4">oust</trigger>
+      </event_mention>
+<event_mention id="em-1407" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130628.0102" offset="9365" length="8">returned</trigger>
+      </event_mention>
+<event_mention id="em-1422" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130628.0102" offset="9631" length="4">said</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

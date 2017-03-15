@@ -1,0 +1,60 @@
+T1	Life_Die 659 667	murdered
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 903 907	fire
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Other
+T3	Justice_Charge-Indict 1221 1228	CHARGED
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Other
+T4	Justice_Charge-Indict 1339 1346	CHARGED
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Other
+T5	Life_Die 1352 1358	murder
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 1398 1404	murder
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 1576 1583	charged
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Generic
+T8	Justice_Sentence 2247 2256	sentences
+E8	Justice_Sentence:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Ownership 2330 2339	donations
+E9	Transaction_Transfer-Ownership:T9 
+A9	Realis E9 Generic
+T10	Justice_Fine 2393 2396;2399 2405	got ticket
+E10	Justice_Fine:T10 
+A10	Realis E10 Actual
+T11	Justice_Fine 2465 2469	fine
+E11	Justice_Fine:T11 
+A11	Realis E11 Generic
+T12	Justice_Fine 2484 2489	fined
+E12	Justice_Fine:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 445 450	bribe
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Actual
+T14	Justice_Charge-Indict 499 510	prosecution
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Other
+T15	Justice_Charge-Indict 800 810	prosecuted
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 936 943	pension
+E16	Transaction_Transfer-Money:T16 
+A16	Questionable E16 Realis
+A17	Realis E16 Other
+#1	AnnotatorNotes E16	A pension is paid after retirement, hence "other" realis
+T17	Justice_Fine 2062 2066	fine
+E17	Justice_Fine:T17 
+A18	Realis E17 Generic
+T18	Transaction_Transfer-Money 2127 2134	revenue
+E18	Transaction_Transfer-Money:T18 
+A19	Realis E18 Generic
+A20	Questionable E10 Mention
+T19	Contact_Communicate 2410 2417	talking
+E19	Contact_Communicate:T19 
+A21	Realis E19 Actual

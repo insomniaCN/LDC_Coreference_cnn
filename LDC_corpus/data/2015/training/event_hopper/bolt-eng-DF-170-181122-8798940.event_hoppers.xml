@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000582" doc_id="bolt-eng-DF-170-181122-8798940" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="74" length="6">funded</trigger>
+      </event_mention>
+      <event_mention id="em-68" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="833" length="6">funded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="245" length="7">arrived</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="351" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="558" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-81" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="894" length="6">funded</trigger>
+      </event_mention>
+      <event_mention id="em-96" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="1225" length="6">funded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-152" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="2225" length="7">lawsuit</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="7641" length="7">lawsuit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-178" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="7926" length="10">complaints</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-204">
+      <event_mention id="em-191" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="8046" length="6">letter</trigger>
+      </event_mention>
+      <event_mention id="em-206" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="8104" length="6">letter</trigger>
+      </event_mention>
+      <event_mention id="em-234" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="8608" length="6">letter</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-232">
+      <event_mention id="em-219" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="8293" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-286">
+      <event_mention id="em-273" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="10559" length="18">and transportation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-301">
+      <event_mention id="em-288" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="10661" length="13">conversations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-316">
+      <event_mention id="em-303" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="10762" length="8">complain</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-331">
+      <event_mention id="em-318" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="10860" length="5">write</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-346">
+      <event_mention id="em-333" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="10893" length="3">say</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-361">
+      <event_mention id="em-348" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="11237" length="7">emailed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-376">
+      <event_mention id="em-363" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8798940" offset="11386" length="7">emailed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

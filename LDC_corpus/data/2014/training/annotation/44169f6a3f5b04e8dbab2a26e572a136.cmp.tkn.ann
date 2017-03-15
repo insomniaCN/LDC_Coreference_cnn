@@ -1,0 +1,105 @@
+T1	Life_Die 259 263	died
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 584 589	moved
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Money 621 629	received
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Actual
+T4	Life_Die 811 816	death
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Life_Die 837 842	death
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 2155 2166	passed away
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Die 2723 2729	passed
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Life_Divorce 4050 4058	divorced
+E8	Life_Divorce:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 879 884	given
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 972 978	gather
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Ownership 1913 1921	received
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 4954 4963	inherited
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 3939 3946	inherit
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Money 3372 3376	took
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 3426 3431	moved
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Money 3258 3261;3283 3288	get money
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Other
+T17	Personnel_End-Position 554 568	made redundant
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T18	Contact_Communicate 1017 1025	in touch
+E18	Contact_Communicate:T18 
+A18	Questionable E18 Mention
+A19	Realis E18 Actual
+T19	Contact_Communicate 1089 1101	got in touch
+E19	Contact_Communicate:T19 
+A20	Realis E19 Actual
+T20	Contact_Communicate 1135 1139	tell
+E20	Contact_Communicate:T20 
+A21	Realis E20 Other
+T21	Contact_Communicate 1195 1199	tell
+E21	Contact_Communicate:T21 
+A22	Realis E21 Actual
+T22	Contact_Communicate 1283 1287	told
+E22	Contact_Communicate:T22 
+A23	Realis E22 Actual
+T23	Contact_Communicate 1555 1563;1572 1578	received emails
+E23	Contact_Communicate:T23 
+A24	Realis E23 Actual
+T24	Contact_Communicate 1668 1675;1683 1687	contact made
+E24	Contact_Communicate:T24 
+A25	Realis E24 Actual
+T25	Contact_Communicate 1712 1719	replies
+E25	Contact_Communicate:T25 
+A26	Realis E25 Actual
+T26	Contact_Communicate 1727 1733;1742 1746	emails sent
+E26	Contact_Communicate:T26 
+A27	Realis E26 Actual
+T27	Contact_Communicate 2477 2480	ask
+E27	Contact_Communicate:T27 
+A28	Realis E27 Other
+T28	Contact_Communicate 2500 2507;2510 2518	receive response
+E28	Contact_Communicate:T28 
+A29	Realis E28 Other
+T29	Transaction_Transfer-Money 2745 2749;2757 2765	give mortgage
+E29	Transaction_Transfer-Money:T29 
+A30	Questionable E29 Mention
+A31	Realis E29 Actual
+T30	Transaction_Transfer-Money 2808 2816	salaries
+E30	Transaction_Transfer-Money:T30 
+A32	Realis E30 Actual
+T31	Transaction_Transfer-Money 3025 3029	wage
+E31	Transaction_Transfer-Money:T31 
+A33	Questionable E31 Mention
+A34	Realis E31 Generic
+T32	Transaction_Transfer-Money 3392 3403	remortgaged
+E32	Transaction_Transfer-Money:T32 
+A35	Realis E32 Actual
+T33	Contact_Communicate 3477 3485	in touch
+E33	Contact_Communicate:T33 
+A36	Realis E33 Other
+T34	Transaction_Transfer-Money 4000 4007	pension
+E34	Transaction_Transfer-Money:T34 
+A37	Realis E34 Actual

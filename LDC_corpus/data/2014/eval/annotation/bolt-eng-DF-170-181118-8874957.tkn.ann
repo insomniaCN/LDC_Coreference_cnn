@@ -1,0 +1,249 @@
+T1	Personnel_End-Position 372 379	retired
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 592 602	discharged
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Life_Injure 739 746	injured
+E3	Life_Injure:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 823 830;840 848	receive benefits
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Money 1060 1068	recieves
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 1177 1184	retired
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 1426 1429	pay
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Generic
+T8	Life_Die 1930 1937	killers
+E8	Life_Die:T8 
+A8	Realis E8 Generic
+T9	Conflict_Attack 975 981	combat
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 1478 1484	combat
+E10	Conflict_Attack:T10 
+A10	Realis E10 Other
+T11	Conflict_Attack 1966 1972	combat
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Money 2411 2418;2431 2436	suck up check
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic
+T13	Life_Be-Born 2439 2443;2452 2455	have kid
+E13	Life_Be-Born:T13 
+A13	Realis E13 Generic
+T14	Movement_Transport-Person 2465 2470	go to
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Generic
+T15	Transaction_Transfer-Ownership 2487 2492	steal
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Generic
+T16	Transaction_Transfer-Money 2533 2536	PAY
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Ownership 2550 2554	take
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Generic
+T18	Life_Injure 3017 3024	injured
+E18	Life_Injure:T18 
+A18	Realis E18 Actual
+T19	Personnel_End-Position 3415 3422	retiree
+E19	Personnel_End-Position:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Money 3474 3479;3482 3489	earns pension
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Generic
+T21	Transaction_Transfer-Money 3604 3608;3619 3624	draw check
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Generic
+T22	Personnel_End-Position 3765 3771	retire
+E22	Personnel_End-Position:T22 
+A22	Realis E22 Actual
+T23	Personnel_End-Position 4605 4613	released
+E23	Personnel_End-Position:T23 
+A23	Realis E23 Actual
+T24	Personnel_End-Position 5237 5247	discharged
+E24	Personnel_End-Position:T24 
+A24	Realis E24 Actual
+T25	Life_Injure 5384 5391	injured
+E25	Life_Injure:T25 
+A25	Realis E25 Actual
+T26	Transaction_Transfer-Money 5468 5475	receive
+E26	Transaction_Transfer-Money:T26 
+A26	Realis E26 Other
+T27	Conflict_Attack 5620 5626	combat
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Transaction_Transfer-Money 5705 5713	recieves
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Actual
+T29	Personnel_End-Position 5822 5829	retired
+E29	Personnel_End-Position:T29 
+A29	Realis E29 Actual
+T30	Contact_Meet 1297 1301	tell
+E30	Contact_Meet:T30 
+A30	Realis E30 Other
+T31	Contact_Meet 5942 5946	tell
+E31	Contact_Meet:T31 
+A31	Realis E31 Other
+T32	Transaction_Transfer-Money 6071 6074	pay
+E32	Transaction_Transfer-Money:T32 
+A32	Realis E32 Actual
+T33	Life_Injure 6343 6350;6356 6360	damaged knee
+E33	Life_Injure:T33 
+A33	Realis E33 Other
+T34	Personnel_End-Position 6504 6511	retired
+E34	Personnel_End-Position:T34 
+A34	Realis E34 Generic
+T35	Life_Injure 6920 6927	injured
+E35	Life_Injure:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 7378 7384	combat
+E36	Conflict_Attack:T36 
+A36	Realis E36 Generic
+T37	Personnel_End-Position 7429 7436	retiree
+E37	Personnel_End-Position:T37 
+A37	Realis E37 Generic
+T38	Transaction_Transfer-Money 7488 7493;7496 7503	earns pension
+E38	Transaction_Transfer-Money:T38 
+A38	Realis E38 Generic
+T39	Transaction_Transfer-Money 7618 7622;7633 7638	draw check
+E39	Transaction_Transfer-Money:T39 
+A39	Realis E39 Generic
+T40	Personnel_End-Position 7779 7785	retire
+E40	Personnel_End-Position:T40 
+A40	Realis E40 Actual
+T41	Transaction_Transfer-Money 7975 7981	reward
+E41	Transaction_Transfer-Money:T41 
+A41	Realis E41 Generic
+T42	Transaction_Transfer-Money 8128 8140	compensation
+E42	Transaction_Transfer-Money:T42 
+A42	Realis E42 Generic
+T43	Conflict_Attack 8569 8575	combat
+E43	Conflict_Attack:T43 
+A43	Realis E43 Generic
+T44	Personnel_End-Position 8620 8627	retiree
+E44	Personnel_End-Position:T44 
+A44	Realis E44 Generic
+T45	Transaction_Transfer-Money 8679 8684;8687 8694	earns pension
+E45	Transaction_Transfer-Money:T45 
+A45	Realis E45 Generic
+T46	Transaction_Transfer-Money 8809 8813;8824 8829	draw check
+E46	Transaction_Transfer-Money:T46 
+A46	Realis E46 Generic
+T47	Personnel_End-Position 8970 8976	retire
+E47	Personnel_End-Position:T47 
+A47	Realis E47 Actual
+T48	Transaction_Transfer-Money 9166 9172	reward
+E48	Transaction_Transfer-Money:T48 
+A48	Realis E48 Generic
+T49	Transaction_Transfer-Money 9319 9331	compensation
+E49	Transaction_Transfer-Money:T49 
+A49	Realis E49 Generic
+T50	Conflict_Attack 9986 9992	combat
+E50	Conflict_Attack:T50 
+A50	Realis E50 Generic
+T51	Personnel_End-Position 10037 10044	retiree
+E51	Personnel_End-Position:T51 
+A51	Realis E51 Generic
+T52	Transaction_Transfer-Money 10096 10101;10104 10111	earns pension
+E52	Transaction_Transfer-Money:T52 
+A52	Realis E52 Generic
+T53	Transaction_Transfer-Money 10226 10230;10241 10246	draw check
+E53	Transaction_Transfer-Money:T53 
+A53	Realis E53 Generic
+T54	Transaction_Transfer-Money 10583 10589	reward
+E54	Transaction_Transfer-Money:T54 
+A54	Realis E54 Generic
+T55	Transaction_Transfer-Money 10736 10748	compensation
+E55	Transaction_Transfer-Money:T55 
+A55	Realis E55 Generic
+T56	Conflict_Attack 11371 11375	shot
+E56	Conflict_Attack:T56 
+A56	Realis E56 Actual
+T57	Life_Injure 11408 11413	split
+E57	Life_Injure:T57 
+A57	Realis E57 Actual
+T58	Life_Injure 11210 11222	shin splints
+E58	Life_Injure:T58 
+A58	Realis E58 Actual
+T59	Life_Injure 11234 11243	fractures
+E59	Life_Injure:T59 
+A59	Realis E59 Actual
+T60	Contact_Meet 11648 11652	told
+E60	Contact_Meet:T60 
+A60	Realis E60 Actual
+T61	Movement_Transport-Person 11839 11843	lift
+E61	Movement_Transport-Person:T61 
+A61	Realis E61 Other
+T62	Business_End-Org 12381 12387	closed
+E62	Business_End-Org:T62 
+A62	Realis E62 Actual
+T63	Transaction_Transfer-Ownership 12410 12413	buy
+E63	Transaction_Transfer-Ownership:T63 
+A63	Realis E63 Actual
+T64	Transaction_Transfer-Money 12604 12608	paid
+E64	Transaction_Transfer-Money:T64 
+A64	Realis E64 Other
+T65	Transaction_Transfer-Money 4027 4032;4038 4043	write check
+E65	Transaction_Transfer-Money:T65 
+A65	Realis E65 Generic
+T66	Transaction_Transfer-Money 12962 12967;12973 12978	write check
+E66	Transaction_Transfer-Money:T66 
+A66	Realis E66 Generic
+T67	Conflict_Attack 13054 13058	fire
+E67	Conflict_Attack:T67 
+A67	Realis E67 Generic
+T68	Life_Injure 13332 13344	shin splints
+E68	Life_Injure:T68 
+A68	Realis E68 Actual
+T69	Life_Injure 13356 13365	fractures
+E69	Life_Injure:T69 
+A69	Realis E69 Actual
+T70	Conflict_Attack 13493 13497	shot
+E70	Conflict_Attack:T70 
+A70	Realis E70 Actual
+T71	Life_Injure 13530 13535	split
+E71	Life_Injure:T71 
+A71	Realis E71 Actual
+T72	Contact_Meet 13770 13774	told
+E72	Contact_Meet:T72 
+A72	Realis E72 Actual
+T73	Business_End-Org 14503 14509	closed
+E73	Business_End-Org:T73 
+A73	Realis E73 Actual
+T74	Transaction_Transfer-Money 12320 12321;12333 12342	$ vaporized
+E74	Transaction_Transfer-Money:T74 
+A74	Realis E74 Actual
+T75	Transaction_Transfer-Money 14442 14443;14455 14464	$ vaporized
+E75	Transaction_Transfer-Money:T75 
+A75	Realis E75 Actual
+T76	Transaction_Transfer-Ownership 14532 14535	buy
+E76	Transaction_Transfer-Ownership:T76 
+A76	Realis E76 Actual
+T77	Transaction_Transfer-Money 14726 14730	paid
+E77	Transaction_Transfer-Money:T77 
+A77	Realis E77 Other
+T78	Movement_Transport-Person 2638 2643	drive
+E78	Movement_Transport-Person:T78 
+A78	Realis E78 Generic
+T79	Life_Die 3141 3146	death
+E79	Life_Die:T79 
+A79	Realis E79 Generic
+T80	Conflict_Attack 3364 3370	combat
+E80	Conflict_Attack:T80 
+A80	Realis E80 Generic
+T81	Transaction_Transfer-Money 4227 4233	income
+E81	Transaction_Transfer-Money:T81 
+A81	Realis E81 Generic
+T82	Transaction_Transfer-Money 4335 4339	take
+E82	Transaction_Transfer-Money:T82 
+A82	Realis E82 Generic
+T83	Personnel_End-Position 5017 5024	retired
+E83	Personnel_End-Position:T83 
+A83	Realis E83 Actual

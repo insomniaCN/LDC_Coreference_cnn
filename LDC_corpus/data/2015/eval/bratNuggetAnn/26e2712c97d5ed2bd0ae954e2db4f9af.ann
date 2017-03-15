@@ -1,0 +1,108 @@
+T1	Contact_Meet 323 332	presented
+E53	Contact_Meet:T1
+A1	Realis E53 Actual
+T2	Movement_Transport-Person 1477 1482	doing
+E61	Movement_Transport-Person:T2
+A2	Realis E61 Other
+T3	Movement_Transport-Person 2994 2999	doing
+E174	Movement_Transport-Person:T3
+A3	Realis E174 Other
+T4	Movement_Transport-Person 1350 1355	doing
+E193	Movement_Transport-Person:T4
+A4	Realis E193 Other
+T5	Movement_Transport-Person 2433 2439	driver
+E244	Movement_Transport-Person:T5
+A5	Realis E244 Actual
+T6	Transaction_Transfer-Money 1167 1170	pay
+E249	Transaction_Transfer-Money:T6
+A6	Realis E249 Generic
+T7	Movement_Transport-Artifact 2401 2407	arrive
+E272	Movement_Transport-Artifact:T7
+A7	Realis E272 Actual
+T8	Justice_Fine 2268 2272	fine
+E303	Justice_Fine:T8
+A8	Realis E303 Actual
+T9	Contact_Contact 2035 2039	tell
+E308	Contact_Contact:T9
+A9	Realis E308 Other
+T10	Contact_Contact 2934 2938	told
+E322	Contact_Contact:T10
+A10	Realis E322 Generic
+T11	Justice_Fine 299 303	fine
+E346	Justice_Fine:T11
+A11	Realis E346 Actual
+T12	Contact_Broadcast 1859 1865	letter
+E377	Contact_Broadcast:T12
+A12	Realis E377 Generic
+T13	Transaction_Transfer-Ownership 397 405	returned
+E397	Transaction_Transfer-Ownership:T13
+A13	Realis E397 Actual
+T14	Contact_Contact 443 448	heard
+E435	Contact_Contact:T14
+A14	Realis E435 Other
+T15	Transaction_Transfer-Money 290 294	paid
+E441	Transaction_Transfer-Money:T15
+A15	Realis E441 Actual
+T16	Movement_Transport-Person 1794 1798	pull
+E471	Movement_Transport-Person:T16
+A16	Realis E471 Generic
+T17	Movement_Transport-Artifact 1866 1870	come
+E473	Movement_Transport-Artifact:T17
+A17	Realis E473 Generic
+T18	Movement_Transport-Person 2415 2425	overtaking
+E529	Movement_Transport-Person:T18
+A18	Realis E529 Actual
+T19	Justice_Fine 926 930	fine
+E549	Justice_Fine:T19
+A19	Realis E549 Actual
+T20	Movement_Transport-Person 2377 2385	speeding
+E563	Movement_Transport-Person:T20
+A20	Realis E563 Actual
+T21	Justice_Fine 3031 3037	ticket
+E699	Justice_Fine:T21
+A21	Realis E699 Other
+T22	Movement_Transport-Artifact 554 561	arrived
+E734	Movement_Transport-Artifact:T22
+A22	Realis E734 Actual
+T23	Movement_Transport-Person 2707 2714	driving
+E736	Movement_Transport-Person:T23
+A23	Realis E736 Generic
+T24	Transaction_Transfer-Money 917 921	paid
+E804	Transaction_Transfer-Money:T24
+A24	Realis E804 Actual
+T25	Contact_Meet 243 247	told
+E818	Contact_Meet:T25
+A25	Realis E818 Actual
+T26	Movement_Transport-Artifact 751 755	sent
+E842	Movement_Transport-Artifact:T26
+A26	Realis E842 Generic
+T27	Contact_Broadcast 2394 2400	letter
+E858	Contact_Broadcast:T27
+A27	Realis E858 Actual
+T28	Justice_Fine 228 232	fine
+E875	Justice_Fine:T28
+A28	Realis E875 Actual
+T29	Justice_Fine 1442 1446	fine
+E906	Justice_Fine:T29
+A29	Realis E906 Generic
+T30	Justice_Appeal 3405 3411	appeal
+E932	Justice_Appeal:T30
+A30	Realis E932 Other
+T31	Justice_Appeal 3933 3939	appeal
+E949	Justice_Appeal:T31
+A31	Realis E949 Other
+T32	Contact_Meet 1794 1798	pull
+E953	Contact_Meet:T32
+A32	Realis E953 Generic
+T33	Transaction_Transfer-Ownership 789 793	hand
+E961	Transaction_Transfer-Ownership:T33
+A33	Realis E961 Generic
+T34	Movement_Transport-Person 1332 1337	doing
+E976	Movement_Transport-Person:T34
+A34	Realis E976 Actual
+T35	Movement_Transport-Person 197 204	driving
+E994	Movement_Transport-Person:T35
+A35	Realis E994 Actual
+T36	Movement_Transport-Person 2558 2563	doing
+E995	Movement_Transport-Person:T36
+A36	Realis E995 Actual

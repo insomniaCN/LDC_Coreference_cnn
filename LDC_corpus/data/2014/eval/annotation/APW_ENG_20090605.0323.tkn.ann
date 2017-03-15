@@ -1,0 +1,48 @@
+T1	Personnel_Start-Position 98 107	appointed
+E1	Personnel_Start-Position:T1 
+A1	Realis E1 Actual
+T2	Personnel_Start-Position 261 270	appointed
+E2	Personnel_Start-Position:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 281 288	replace
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Other
+T4	Personnel_End-Position 314 322	resigned
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Personnel_Start-Position 518 524	become
+E5	Personnel_Start-Position:T5 
+A5	Realis E5 Other
+T8	Personnel_End-Position 1151 1155	quit
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 1162 1167	fired
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Generic
+T10	Personnel_End-Position 1175 1184	departure
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual
+T11	Personnel_End-Position 1386 1394	resigned
+E11	Personnel_End-Position:T11 
+A11	Realis E11 Actual
+T12	Contact_Meet 1516 1519	met
+E12	Contact_Meet:T12 
+A12	Realis E12 Actual
+T13	Contact_Meet 1698 1707	discussed
+E13	Contact_Meet:T13 
+A13	Realis E13 Actual
+T14	Personnel_End-Position 1768 1779	resignation
+E14	Personnel_End-Position:T14 
+A14	Realis E14 Actual
+T15	Personnel_End-Position 1915 1921	resign
+E15	Personnel_End-Position:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Ownership 2150 2158	received
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Actual
+T17	Personnel_End-Position 595 599	quit
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T18	Contact_Meet 697 703	summit
+E18	Contact_Meet:T18 
+A18	Realis E18 Actual

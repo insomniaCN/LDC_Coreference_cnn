@@ -1,0 +1,30 @@
+T1	Life_Injure 537 543	injury
+E173	Life_Injure:T1
+A1	Realis E173 Actual
+T2	Life_Injure 744 751	injured
+E890	Life_Injure:T2
+A2	Realis E890 Actual
+T3	Justice_Appeal 604 610	appeal
+E963	Justice_Appeal:T3
+A3	Realis E963 Actual
+T4	Justice_Appeal 1134 1140	appeal
+E436	Justice_Appeal:T4
+A4	Realis E436 Actual
+T5	Justice_Appeal 472 478	appeal
+E847	Justice_Appeal:T5
+A5	Realis E847 Actual
+T6	Transaction_Transaction 693 705	compensation
+E525	Transaction_Transaction:T6
+A6	Realis E525 Generic
+T7	Movement_Transport-Artifact 850 861	dropped off
+E152	Movement_Transport-Artifact:T7
+A7	Realis E152 Actual
+T8	Movement_Transport-Person 896 902	riding
+E202	Movement_Transport-Person:T8
+A8	Realis E202 Actual
+T9	Transaction_Transaction 1078 1086	benefits
+E315	Transaction_Transaction:T9
+A9	Realis E315 Other
+R1	Coreference Arg1:E173 Arg2:E890
+R2	Coreference Arg1:E847 Arg2:E963
+R3	Coreference Arg1:E963 Arg2:E436

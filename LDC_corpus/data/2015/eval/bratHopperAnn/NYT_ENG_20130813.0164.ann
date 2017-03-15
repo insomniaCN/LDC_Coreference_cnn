@@ -1,0 +1,63 @@
+T1	Manufacture_Artifact 506 511	built
+E844	Manufacture_Artifact:T1
+A1	Realis E844 Actual
+T2	Manufacture_Artifact 569 580	Constructed
+E660	Manufacture_Artifact:T2
+A2	Realis E660 Actual
+T3	Manufacture_Artifact 1189 1197	creating
+E370	Manufacture_Artifact:T3
+A3	Realis E370 Actual
+T4	Manufacture_Artifact 1319 1331	construction
+E88	Manufacture_Artifact:T4
+A4	Realis E88 Actual
+T5	Manufacture_Artifact 2413 2425	construction
+E7	Manufacture_Artifact:T5
+A5	Realis E7 Actual
+T6	Manufacture_Artifact 2710 2721	constructed
+E770	Manufacture_Artifact:T6
+A6	Realis E770 Actual
+T7	Transaction_Transfer-Money 1399 1403	sold
+E19	Transaction_Transfer-Money:T7
+A7	Realis E19 Actual
+T8	Movement_Transport-Person 1425 1430	moved
+E42	Movement_Transport-Person:T8
+A8	Realis E42 Actual
+T9	Conflict_Attack 1474 1480	beaten
+E85	Conflict_Attack:T9
+A9	Realis E85 Actual
+T10	Contact_Meet 1493 1503	confronted
+E704	Contact_Meet:T10
+A10	Realis E704 Actual
+T11	Contact_Broadcast 2109 2113	said
+E665	Contact_Broadcast:T11
+A11	Realis E665 Actual
+T12	Movement_Transport-Person 2264 2274	dispatched
+E441	Movement_Transport-Person:T12
+A12	Realis E441 Actual
+T13	Transaction_Transfer-Money 1551 1555	cost
+E255	Transaction_Transfer-Money:T13
+A13	Realis E255 Other
+T14	Transaction_Transfer-Money 1792 1799	amassed
+E969	Transaction_Transfer-Money:T14
+A14	Realis E969 Actual
+T15	Contact_Broadcast 2436 2441	issue
+E623	Contact_Broadcast:T15
+A15	Realis E623 Other
+T16	Contact_Broadcast 2597 2603	notice
+E974	Contact_Broadcast:T16
+A16	Realis E974 Actual
+T17	Contact_Contact 2496 2500	told
+E234	Contact_Contact:T17
+A17	Realis E234 Actual
+T18	Contact_Contact 2777 2786	interview
+E763	Contact_Contact:T18
+A18	Realis E763 Actual
+T19	Transaction_Transfer-Ownership 1399 1403	sold
+E908	Transaction_Transfer-Ownership:T19
+A19	Realis E908 Actual
+R1	Coreference Arg1:E844 Arg2:E660
+R2	Coreference Arg1:E660 Arg2:E370
+R3	Coreference Arg1:E370 Arg2:E88
+R4	Coreference Arg1:E88 Arg2:E7
+R5	Coreference Arg1:E7 Arg2:E770
+R6	Coreference Arg1:E623 Arg2:E974

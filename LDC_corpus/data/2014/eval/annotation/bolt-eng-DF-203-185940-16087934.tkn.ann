@@ -1,0 +1,78 @@
+T1	Business_Declare-Bankruptcy 214 226	bankruptcies
+E1	Business_Declare-Bankruptcy:T1 
+A1	Realis E1 Actual
+T2	Business_Declare-Bankruptcy 272 284	bankruptcies
+E2	Business_Declare-Bankruptcy:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Money 608 614	paying
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Generic
+T4	Business_Declare-Bankruptcy 645 655	bankruptcy
+E4	Business_Declare-Bankruptcy:T4 
+A4	Realis E4 Other
+T5	Business_Declare-Bankruptcy 1134 1144	bankruptcy
+E5	Business_Declare-Bankruptcy:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Money 1177 1180	pay
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Transaction_Transfer-Ownership 1274 1282	purchase
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Money 1374 1377	pay
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Ownership 1393 1399	borrow
+E9	Transaction_Transfer-Ownership:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Money 1419 1422	pay
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Generic
+T11	Business_Declare-Bankruptcy 1814 1824	bankruptcy
+E11	Business_Declare-Bankruptcy:T11 
+A11	Realis E11 Generic
+T12	Business_Declare-Bankruptcy 1846 1856	bankruptcy
+E12	Business_Declare-Bankruptcy:T12 
+A12	Realis E12 Generic
+T13	Business_Declare-Bankruptcy 1912 1922	bankruptcy
+E13	Business_Declare-Bankruptcy:T13 
+A13	Realis E13 Generic
+T14	Business_Declare-Bankruptcy 1954 1964	bankruptcy
+E14	Business_Declare-Bankruptcy:T14 
+A14	Realis E14 Generic
+T15	Business_Declare-Bankruptcy 2014 2024	bankruptcy
+E15	Business_Declare-Bankruptcy:T15 
+A15	Realis E15 Generic
+T16	Transaction_Transfer-Money 2150 2153	pay
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 2705 2713	payments
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic
+T18	Contact_Communicate 2877 2884	talking
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T19	Business_Declare-Bankruptcy 2334 2349	file bankruptcy
+E19	Business_Declare-Bankruptcy:T19 
+A19	Realis E19 Generic
+T20	Contact_Communicate 4388 4393	spoke
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual
+T21	Business_Declare-Bankruptcy 5065 5081	filed bankruptcy
+E21	Business_Declare-Bankruptcy:T21 
+A21	Realis E21 Generic
+T22	Transaction_Transfer-Money 5230 5233	pay
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Generic
+T23	Business_Declare-Bankruptcy 5922 5938	files bankruptcy
+E23	Business_Declare-Bankruptcy:T23 
+A23	Realis E23 Actual
+T24	Transaction_Transfer-Money 3024 3028	paid
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Contact_Communicate 783 787;792 797	post posts
+E25	Contact_Communicate:T25 
+A25	Realis E25 Other
+T26	Transaction_Transfer-Money 4824 4832	spending
+E26	Transaction_Transfer-Money:T26 
+A26	Realis E26 Generic

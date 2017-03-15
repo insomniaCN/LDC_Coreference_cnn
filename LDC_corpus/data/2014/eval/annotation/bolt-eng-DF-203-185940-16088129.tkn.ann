@@ -1,0 +1,72 @@
+T1	Movement_Transport-Person 209 217	got home
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T3	Contact_Communicate 354 360	spoken
+E3	Contact_Communicate:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Ownership 414 421	deliver
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Ownership 599 605	bought
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 647 651	sent
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Other
+T7	Contact_Communicate 720 727	message
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 759 765	called
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 832 836	come
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Other
+T10	Contact_Communicate 874 878	call
+E10	Contact_Communicate:T10 
+A10	Realis E10 Other
+T11	Contact_Communicate 858 862	said
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 954 958	call
+E12	Contact_Communicate:T12 
+A12	Realis E12 Other
+T13	Transaction_Transfer-Ownership 1280 1286	giving
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Ownership 1540 1544	give
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Ownership 1621 1625	send
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Ownership 1763 1772	redeliver
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Ownership 2475 2484	delivered
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 2675 2682	deliver
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Ownership 2889 2895	bought
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Actual
+T20	Transaction_Transfer-Ownership 3177 3183	bought
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Actual
+T2	Contact_Communicate 785 794	explained
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T21	Transaction_Transfer-Ownership 837 841;850 852	pick up
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Other
+T22	Transaction_Transfer-Ownership 1516 1520;1524 1526	pick up
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Other
+T23	Transaction_Transfer-Ownership 2641 2648	pick up
+E23	Transaction_Transfer-Ownership:T23 
+A23	Realis E23 Other
+T24	Transaction_Transfer-Ownership 1749 1753	take
+E24	Transaction_Transfer-Ownership:T24 
+A24	Realis E24 Other

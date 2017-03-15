@@ -1,0 +1,43 @@
+T1	Justice_Convict 66 75	Convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Justice_Release-Parole 95 102	release
+E2	Justice_Release-Parole:T2 
+A2	Realis E2 Other
+T3	Justice_Convict 213 222	convicted
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 248 255	blow up
+E4	Conflict_Attack:T4 
+A4	Questionable E4 Realis
+A5	Realis E4 Other
+T5	Justice_Release-Parole 315 322	release
+E5	Justice_Release-Parole:T5 
+A6	Realis E5 Other
+T6	Justice_Convict 368 377	convicted
+E6	Justice_Convict:T6 
+A7	Realis E6 Actual
+T7	Movement_Transport-Person 455 464	traveling
+E7	Movement_Transport-Person:T7 
+T8	Movement_Transport-Person 557 565	departed
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Justice_Sentence 593 602	sentenced
+E9	Justice_Sentence:T9 
+A9	Realis E9 Actual
+T10	Justice_Sentence 654 662	sentence
+E10	Justice_Sentence:T10 
+A10	Realis E10 Actual
+T11	Justice_Release-Parole 717 723	parole
+E11	Justice_Release-Parole:T11 
+A11	Realis E11 Other
+T12	Justice_Release-Parole 799 805	Parole
+E12	Justice_Release-Parole:T12 
+A12	Realis E12 Generic
+T13	Justice_Release-Parole 828 836	released
+E13	Justice_Release-Parole:T13 
+A13	Realis E13 Other
+T14	Justice_Trial-Hearing 856 863	hearing
+E14	Justice_Trial-Hearing:T14 
+A14	Realis E14 Actual
+A15	Realis E7 Actual

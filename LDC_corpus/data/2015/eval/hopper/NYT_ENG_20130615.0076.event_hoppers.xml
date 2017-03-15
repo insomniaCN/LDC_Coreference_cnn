@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea570000000000000030" doc_id="NYT_ENG_20130615.0076" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-139" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130615.0076" offset="198" length="7">RELEASE</trigger>
+      </event_mention>
+      <event_mention id="em-150" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130615.0076" offset="680" length="8">set free</trigger>
+      </event_mention>
+      <event_mention id="em-5" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130615.0076" offset="1001" length="7">release</trigger>
+      </event_mention>
+      <event_mention id="em-346" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="NYT_ENG_20130615.0076" offset="2242" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-651" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="441" length="4">held</trigger>
+      </event_mention>
+      <event_mention id="em-229" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="788" length="6">jailed</trigger>
+      </event_mention>
+      <event_mention id="em-874" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2723" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-696" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="471" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-239" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2827" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-464" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130615.0076" offset="892" length="8">demanded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-866" type="justice" subtype="sentence" realis="other">
+        <trigger source="NYT_ENG_20130615.0076" offset="913" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-168" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="1115" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-626" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="1221" length="7">elected</trigger>
+      </event_mention>
+      <event_mention id="em-982" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2460" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-193">
+      <event_mention id="em-233" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="1597" length="4">sent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-208">
+      <event_mention id="em-538" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130615.0076" offset="1806" length="13">sat down with</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-264" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130615.0076" offset="1938" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-266">
+      <event_mention id="em-381" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130615.0076" offset="2350" length="8">visiting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-294">
+      <event_mention id="em-88" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="NYT_ENG_20130615.0076" offset="2613" length="9">prisoners</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-309">
+      <event_mention id="em-128" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130615.0076" offset="2667" length="9">confirmed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-324">
+      <event_mention id="em-992" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2708" length="5">raped</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-352">
+      <event_mention id="em-31" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2812" length="5">moved</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-380">
+      <event_mention id="em-896" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2863" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-382">
+      <event_mention id="em-163" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="NYT_ENG_20130615.0076" offset="938" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-397">
+      <event_mention id="em-44" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130615.0076" offset="1626" length="11">shake hands</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-412">
+      <event_mention id="em-137" type="life" subtype="injure" realis="actual">
+        <trigger source="NYT_ENG_20130615.0076" offset="2708" length="5">raped</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

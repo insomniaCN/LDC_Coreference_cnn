@@ -1,0 +1,39 @@
+T1	Movement_Transport-Person 463 470	arrived
+E76	Movement_Transport-Person:T1
+A1	Realis E76 Actual
+T2	Personnel_Start-Position 484 491	take up
+E110	Personnel_Start-Position:T2
+A2	Realis E110 Other
+T3	Personnel_Start-Position 132 135	New
+E157	Personnel_Start-Position:T3
+A3	Realis E157 Actual
+T4	Personnel_Start-Position 1087 1092	named
+E293	Personnel_Start-Position:T4
+A4	Realis E293 Actual
+T5	Personnel_Start-Position 788 797	appointed
+E370	Personnel_Start-Position:T5
+A5	Realis E370 Actual
+T6	Personnel_Start-Position 997 1006	appointed
+E383	Personnel_Start-Position:T6
+A6	Realis E383 Actual
+T7	Personnel_Start-Position 942 950	sworn in
+E404	Personnel_Start-Position:T7
+A7	Realis E404 Actual
+T8	Contact_Meet 620 628	received
+E491	Contact_Meet:T8
+A8	Realis E491 Actual
+T9	Contact_Broadcast 585 591	stated
+E550	Contact_Broadcast:T9
+A9	Realis E550 Actual
+T10	Movement_Transport-Person 162 169	arrives
+E560	Movement_Transport-Person:T10
+A10	Realis E560 Actual
+T11	Personnel_Nominate 862 871	nominated
+E865	Personnel_Nominate:T11
+A11	Realis E865 Actual
+T12	Personnel_End-Position 341 347	former
+E897	Personnel_End-Position:T12
+A12	Realis E897 Actual
+T13	Contact_Meet 763 771	ceremony
+E939	Contact_Meet:T13
+A13	Realis E939 Actual

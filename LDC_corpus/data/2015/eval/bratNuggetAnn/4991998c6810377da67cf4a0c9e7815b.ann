@@ -1,0 +1,93 @@
+T1	Life_Die 1882 1889	suicide
+E12	Life_Die:T1
+A1	Realis E12 Actual
+T2	Justice_Appeal 1151 1158	appeals
+E49	Justice_Appeal:T2
+A2	Realis E49 Generic
+T3	Justice_Appeal 1969 1976	appeals
+E94	Justice_Appeal:T3
+A3	Realis E94 Generic
+T4	Manufacture_Artifact 1074 1086	construction
+E116	Manufacture_Artifact:T4
+A4	Realis E116 Actual
+T5	Justice_Trial-Hearing 2533 2537	pled
+E147	Justice_Trial-Hearing:T5
+A5	Realis E147 Actual
+T6	Contact_Meet 2067 2070	met
+E158	Contact_Meet:T6
+A6	Realis E158 Actual
+T7	Justice_Charge-Indict 1739 1745	charge
+E193	Justice_Charge-Indict:T7
+A7	Realis E193 Actual
+T8	Conflict_Attack 1882 1889	suicide
+E235	Conflict_Attack:T8
+A8	Realis E235 Actual
+T9	Justice_Sentence 2421 2424	got
+E320	Justice_Sentence:T9
+A9	Realis E320 Actual
+T10	Justice_Sentence 2465 2473	sentence
+E323	Justice_Sentence:T10
+A10	Realis E323 Actual
+T11	Transaction_Transfer-Money 984 988	paid
+E333	Transaction_Transfer-Money:T11
+A11	Realis E333 Actual
+T12	Transaction_Transfer-Money 390 393	Tax
+E358	Transaction_Transfer-Money:T12
+A12	Realis E358 Generic
+T13	Justice_Sentence 828 840	handing down
+E388	Justice_Sentence:T13
+A13	Realis E388 Actual
+T14	Justice_Arrest-Jail 927 936	detention
+E401	Justice_Arrest-Jail:T14
+A14	Realis E401 Generic
+T15	Justice_Sentence 1695 1704	sentenced
+E421	Justice_Sentence:T15
+A15	Realis E421 Actual
+T16	Manufacture_Artifact 906 911	built
+E434	Manufacture_Artifact:T16
+A16	Realis E434 Actual
+T17	Transaction_Transfer-Money 759 768	kickbacks
+E497	Transaction_Transfer-Money:T17
+A17	Realis E497 Actual
+T18	Justice_Arrest-Jail 2399 2405	prison
+E500	Justice_Arrest-Jail:T18
+A18	Realis E500 Other
+T19	Justice_Trial-Hearing 2504 2508	plea
+E518	Justice_Trial-Hearing:T19
+A19	Realis E518 Generic
+T20	Movement_Transport-Person 1564 1575	trespassing
+E594	Movement_Transport-Person:T20
+A20	Realis E594 Actual
+T21	Justice_Charge-Indict 690 697	charged
+E613	Justice_Charge-Indict:T21
+A21	Realis E613 Actual
+T22	Justice_Sentence 2366 2375	sentenced
+E635	Justice_Sentence:T22
+A22	Realis E635 Actual
+T23	Justice_Arrest-Jail 1254 1263	detention
+E665	Justice_Arrest-Jail:T23
+A23	Realis E665 Generic
+T24	Justice_Arrest-Jail 849 855	prison
+E685	Justice_Arrest-Jail:T24
+A24	Realis E685 Generic
+T25	Contact_Broadcast 1478 1485	mocking
+E691	Contact_Broadcast:T25
+A25	Realis E691 Actual
+T26	Justice_Sentence 1425 1434	sentenced
+E800	Justice_Sentence:T26
+A26	Realis E800 Actual
+T27	Justice_Arrest-Jail 1219 1228	committed
+E804	Justice_Arrest-Jail:T27
+A27	Realis E804 Actual
+T28	Transaction_Transfer-Money 1521 1527	taking
+E841	Transaction_Transfer-Money:T28
+A28	Realis E841 Actual
+T29	Justice_Sentence 2556 2566	sentencing
+E859	Justice_Sentence:T29
+A29	Realis E859 Other
+T30	Contact_Meet 2333 2343	discussion
+E880	Contact_Meet:T30
+A30	Realis E880 Actual
+T31	Justice_Arrest-Jail 1722 1726	bars
+E995	Justice_Arrest-Jail:T31
+A31	Realis E995 Other

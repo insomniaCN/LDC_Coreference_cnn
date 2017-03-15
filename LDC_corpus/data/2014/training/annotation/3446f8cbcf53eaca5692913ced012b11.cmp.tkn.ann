@@ -1,0 +1,54 @@
+T1	Conflict_Attack 1089 1098	bloodbath
+E1	Conflict_Attack:T1 
+A1	Realis E1 Generic
+T2	Conflict_Attack 1104 1107	war
+E2	Conflict_Attack:T2 
+A2	Realis E2 Generic
+T3	Conflict_Attack 2373 2381	violence
+E3	Conflict_Attack:T3 
+A3	Realis E3 Generic
+T4	Conflict_Attack 2386 2396	aggression
+E4	Conflict_Attack:T4 
+A4	Realis E4 Generic
+T5	Movement_Transport-Person 3214 3225	immigration
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Generic
+T6	Conflict_Attack 4151 4159	violence
+E6	Conflict_Attack:T6 
+A6	Realis E6 Generic
+T7	Conflict_Attack 4164 4174	aggression
+E7	Conflict_Attack:T7 
+A7	Realis E7 Generic
+T8	Contact_Communicate 4361 4365	said
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 4694 4700	attack
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 4831 4838	attacks
+E10	Conflict_Attack:T10 
+A10	Realis E10 Generic
+T11	Movement_Transport-Person 5079 5090	immigration
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 5658 5665	attacks
+E12	Conflict_Attack:T12 
+A12	Realis E12 Other
+T13	Conflict_Attack 5762 5769	stabbed
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Life_Die 5773 5778	death
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Contact_Meet 6255 6259	told
+E15	Contact_Meet:T15 
+A15	Realis E15 Actual
+T16	Personnel_End-Position 6331 6337	resign
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Other
+T17	Personnel_End-Position 6379 6386	leaving
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T18	Personnel_Start-Position 6424 6429	hired
+E18	Personnel_Start-Position:T18 
+A18	Realis E18 Actual

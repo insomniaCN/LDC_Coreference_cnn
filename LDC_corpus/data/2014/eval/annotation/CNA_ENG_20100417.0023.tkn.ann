@@ -1,0 +1,46 @@
+T1	Movement_Transport-Person 283 289	travel
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Generic
+T2	Movement_Transport-Person 800 806	travel
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Generic
+T3	Life_Marry 1115 1121	wedded
+E3	Life_Marry:T3 
+A3	Realis E3 Generic
+T4	Personnel_End-Position 1090 1097	retired
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Generic
+T5	Transaction_Transfer-Money 1477 1485	payments
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 1571 1574	pay
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Movement_Transport-Person 455 462	flights
+E7	Movement_Transport-Person:T7 
+A7	Questionable E7 Realis
+A8	Realis E7 Generic
+T8	Movement_Transport-Person 698 702	tour
+E8	Movement_Transport-Person:T8 
+A9	Realis E8 Generic
+T9	Movement_Transport-Person 1170 1176	travel
+E9	Movement_Transport-Person:T9 
+A10	Realis E9 Generic
+T10	Movement_Transport-Person 847 853	travel
+E10	Movement_Transport-Person:T10 
+A11	Realis E10 Generic
+T11	Movement_Transport-Person 865 870	tours
+E11	Movement_Transport-Person:T11 
+A12	Realis E11 Generic
+T12	Movement_Transport-Person 978 982	tour
+E12	Movement_Transport-Person:T12 
+A13	Realis E12 Generic
+T13	Movement_Transport-Person 1371 1377	Travel
+E13	Movement_Transport-Person:T13 
+A14	Realis E13 Generic
+T14	Movement_Transport-Person 1440 1444	tour
+E14	Movement_Transport-Person:T14 
+A15	Realis E14 Generic
+T15	Movement_Transport-Person 1753 1759	travel
+E15	Movement_Transport-Person:T15 
+A16	Realis E15 Generic

@@ -1,0 +1,93 @@
+T1	Justice_Sentence 182 191	sentenced
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 210 216	prison
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Generic
+T3	Justice_Charge-Indict 279 287	indicted
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 321 327	charge
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 331 345	move $ 190,000
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 359 368	donations
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 468 485	turned himself in
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 541 547	arrest
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Other
+T9	Justice_Release-Parole 576 584	released
+E9	Justice_Release-Parole:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 591 598;610 614	posting bond
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Justice_Convict 651 663	found guilty
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Money 721 731	laundering
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 763 773	laundering
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Other
+T14	Justice_Sentence 796 805	sentenced
+E14	Justice_Sentence:T14 
+A14	Realis E14 Actual
+T16	Justice_Release-Parole 844 853	probation
+E16	Justice_Release-Parole:T16 
+A16	Realis E16 Other
+T17	Contact_Communicate 904 908	said
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T18	Justice_Appeal 922 928	appeal
+E18	Justice_Appeal:T18 
+A18	Realis E18 Other
+T19	Justice_Convict 933 944	convictions
+E19	Justice_Convict:T19 
+A19	Realis E19 Actual
+T20	Justice_Convict 952 961	convicted
+E20	Justice_Convict:T20 
+A20	Realis E20 Actual
+T21	Justice_Sentence 1099 1107	sentence
+E21	Justice_Sentence:T21 
+A21	Realis E21 Other
+T22	Justice_Release-Parole 1120 1129	probation
+E22	Justice_Release-Parole:T22 
+A22	Realis E22 Other
+T23	Justice_Release-Parole 1134 1140	parole
+E23	Justice_Release-Parole:T23 
+A23	Realis E23 Other
+T24	Justice_Release-Parole 1178 1181	out
+E24	Justice_Release-Parole:T24 
+A24	Realis E24 Actual
+T25	Transaction_Transfer-Money 1185 1189	bail
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Actual
+T26	Justice_Appeal 1202 1208	appeal
+E26	Justice_Appeal:T26 
+A26	Realis E26 Other
+T27	Justice_Charge-Indict 1477 1485	indicted
+E27	Justice_Charge-Indict:T27 
+A27	Realis E27 Generic
+T28	Justice_Trial-Hearing 1488 1493	tried
+E28	Justice_Trial-Hearing:T28 
+A28	Realis E28 Generic
+T29	Justice_Convict 1496 1505	convicted
+E29	Justice_Convict:T29 
+A29	Realis E29 Generic
+T30	Justice_Arrest-Jail 1508 1518	imprisoned
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Generic
+T31	Justice_Release-Parole 1523 1531	released
+E31	Justice_Release-Parole:T31 
+A31	Realis E31 Generic
+T32	Justice_Charge-Indict 1563 1573	indictment
+E32	Justice_Charge-Indict:T32 
+A32	Realis E32 Actual

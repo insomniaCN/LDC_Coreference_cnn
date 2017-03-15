@@ -1,0 +1,132 @@
+T1	Justice_Execute 178 181;191 199	put to death
+E1	Justice_Execute:T1 
+A1	Realis E1 Actual
+T2	Justice_Execute 318 321;331 339	put to death
+E2	Justice_Execute:T2 
+A2	Realis E2 Actual
+T3	Justice_Sentence 602 620	capitol punishment
+E3	Justice_Sentence:T3 
+A3	Realis E3 Generic
+T4	Justice_Trial-Hearing 772 784	went to jury
+E4	Justice_Trial-Hearing:T4 
+A4	Realis E4 Actual
+T5	Justice_Appeal 808 815	appeals
+E5	Justice_Appeal:T5 
+A5	Realis E5 Actual
+T6	Justice_Execute 1457 1460;1477 1485	put to death
+E6	Justice_Execute:T6 
+A6	Realis E6 Actual
+T7	Justice_Execute 1689 1699	executions
+E7	Justice_Execute:T7 
+A7	Realis E7 Actual
+T8	Justice_Execute 1749 1758	execution
+E8	Justice_Execute:T8 
+A8	Realis E8 Actual
+T9	Justice_Convict 1782 1791	convicted
+E9	Justice_Convict:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1795 1802	killing
+E10	Life_Die:T10 
+T11	Conflict_Demonstrate 1817 1825	Protests
+E11	Conflict_Demonstrate:T11 
+A10	Realis E11 Actual
+T12	Justice_Execute 1853 1862	execution
+E12	Justice_Execute:T12 
+A11	Realis E12 Actual
+T13	Life_Die 1882 1888	killed
+E13	Life_Die:T13 
+A12	Realis E13 Actual
+T14	Conflict_Demonstrate 1909 1917	protests
+E14	Conflict_Demonstrate:T14 
+A13	Realis E14 Actual
+T15	Justice_Execute 2020 2028	executed
+E15	Justice_Execute:T15 
+A14	Realis E15 Actual
+T16	Justice_Execute 2083 2091	executed
+E16	Justice_Execute:T16 
+A15	Realis E16 Actual
+T17	Justice_Execute 2335 2343	executed
+E17	Justice_Execute:T17 
+A16	Realis E17 Actual
+T18	Justice_Execute 2398 2406	executed
+E18	Justice_Execute:T18 
+A17	Realis E18 Actual
+T19	Justice_Execute 2524 2532	executed
+E19	Justice_Execute:T19 
+A18	Realis E19 Actual
+T20	Justice_Convict 2545 2554	convicted
+E20	Justice_Convict:T20 
+A19	Realis E20 Actual
+T21	Contact_Meet 2600 2604	told
+E21	Contact_Meet:T21 
+A20	Realis E21 Actual
+T22	Justice_Execute 2874 2882	executed
+E22	Justice_Execute:T22 
+A21	Realis E22 Actual
+T23	Justice_Convict 2895 2904	convicted
+E23	Justice_Convict:T23 
+A22	Realis E23 Actual
+T25	Justice_Charge-Indict 3859 3867	charging
+E25	Justice_Charge-Indict:T25 
+A24	Realis E25 Other
+T27	Justice_Execute 4097 4110	death penalty
+E27	Justice_Execute:T27 
+A26	Realis E27 Generic
+T28	Justice_Charge-Indict 4462 4470	charging
+E28	Justice_Charge-Indict:T28 
+A27	Realis E28 Other
+T29	Life_Die 5083 5090	killing
+E29	Life_Die:T29 
+A28	Realis E29 Actual
+T30	Life_Die 5397 5404	killing
+E30	Life_Die:T30 
+A29	Realis E30 Actual
+T31	Justice_Execute 6134 6142	executed
+E31	Justice_Execute:T31 
+A30	Realis E31 Actual
+T32	Justice_Convict 6228 6238	conviction
+E32	Justice_Convict:T32 
+A31	Realis E32 Actual
+T33	Conflict_Attack 6243 6251	shooting
+E33	Conflict_Attack:T33 
+A32	Realis E33 Actual
+T34	Life_Die 6417 6423	murder
+E34	Life_Die:T34 
+A33	Realis E34 Generic
+T35	Life_Die 6436 6444	murdered
+E35	Life_Die:T35 
+A34	Realis E35 Generic
+T36	Justice_Execute 6660 6670	executions
+E36	Justice_Execute:T36 
+A35	Realis E36 Actual
+T37	Justice_Execute 6720 6729	execution
+E37	Justice_Execute:T37 
+A36	Realis E37 Actual
+T38	Justice_Convict 6753 6762	convicted
+E38	Justice_Convict:T38 
+A37	Realis E38 Actual
+T39	Life_Die 6766 6773	killing
+E39	Life_Die:T39 
+A38	Realis E39 Actual
+T40	Justice_Execute 6824 6833	execution
+E40	Justice_Execute:T40 
+A39	Realis E40 Actual
+T41	Life_Die 6853 6859	killed
+E41	Life_Die:T41 
+A40	Realis E41 Actual
+T42	Conflict_Demonstrate 6788 6796	Protests
+E42	Conflict_Demonstrate:T42 
+A41	Realis E42 Actual
+T43	Conflict_Demonstrate 6880 6888	protests
+E43	Conflict_Demonstrate:T43 
+A42	Realis E43 Actual
+T44	Life_Die 7332 7336	died
+E44	Life_Die:T44 
+A43	Realis E44 Actual
+T46	Life_Die 7700 7706	killed
+E46	Life_Die:T46 
+A45	Realis E46 Actual
+T47	Life_Die 7879 7884	death
+E47	Life_Die:T47 
+A46	Realis E47 Actual
+A47	Realis E10 Actual

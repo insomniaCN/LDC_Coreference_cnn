@@ -1,0 +1,126 @@
+T1	Life_Die 312 320	genocide
+E8	Life_Die:T1
+A1	Realis E8 Other
+T2	Conflict_Attack 312 320	genocide
+E17	Conflict_Attack:T2
+A2	Realis E17 Other
+T3	Justice_Convict 1024 1030	guilty
+E25	Justice_Convict:T3
+A3	Realis E25 Actual
+T4	Justice_Convict 321 331	conviction
+E95	Justice_Convict:T4
+A4	Realis E95 Actual
+T5	Justice_Acquit 2117 2126	acquittal
+E136	Justice_Acquit:T5
+A5	Realis E136 Actual
+T6	Justice_Trial-Hearing 1430 1441	proceedings
+E138	Justice_Trial-Hearing:T6
+A6	Realis E138 Actual
+T7	Conflict_Attack 1034 1042	genocide
+E141	Conflict_Attack:T7
+A7	Realis E141 Actual
+T8	Justice_Arrest-Jail 910 916	arrest
+E144	Justice_Arrest-Jail:T8
+A8	Realis E144 Other
+T9	Life_Die 1682 1691	massacres
+E146	Life_Die:T9
+A9	Realis E146 Actual
+T10	Personnel_End-Position 359 365	former
+E152	Personnel_End-Position:T10
+A10	Realis E152 Actual
+T11	Justice_Arrest-Jail 736 742	prison
+E189	Justice_Arrest-Jail:T11
+A11	Realis E189 Actual
+T12	Personnel_End-Position 213 215	EX
+E200	Personnel_End-Position:T12
+A12	Realis E200 Actual
+T13	Justice_Convict 603 613	conviction
+E265	Justice_Convict:T13
+A13	Realis E265 Actual
+T14	Justice_Arrest-Jail 2165 2175	rearrested
+E272	Justice_Arrest-Jail:T14
+A14	Realis E272 Other
+T15	Justice_Arrest-Jail 336 342	prison
+E306	Justice_Arrest-Jail:T15
+A15	Realis E306 Other
+T16	Life_Die 1034 1042	genocide
+E312	Life_Die:T16
+A16	Realis E312 Other
+T17	Contact_Broadcast 2959 2963	said
+E353	Contact_Broadcast:T17
+A17	Realis E353 Actual
+T18	Justice_Sentence 343 351	sentence
+E379	Justice_Sentence:T18
+A18	Realis E379 Actual
+T19	Conflict_Attack 1696 1701	rapes
+E383	Conflict_Attack:T19
+A19	Realis E383 Actual
+T20	Movement_Transport-Person 791 802	transferred
+E461	Movement_Transport-Person:T20
+A20	Realis E461 Actual
+T21	Justice_Trial-Hearing 1833 1842	testimony
+E478	Justice_Trial-Hearing:T21
+A21	Realis E478 Actual
+T22	Justice_Trial-Hearing 1375 1380	trial
+E512	Justice_Trial-Hearing:T22
+A22	Realis E512 Actual
+T23	Conflict_Attack 1910 1924	scorched-earth
+E542	Conflict_Attack:T23
+A23	Realis E542 Actual
+T24	Contact_Broadcast 1466 1470	said
+E543	Contact_Broadcast:T24
+A24	Realis E543 Actual
+T25	Contact_Meet 1833 1842	testimony
+E546	Contact_Meet:T25
+A25	Realis E546 Actual
+T26	Justice_Trial-Hearing 2570 2575	trial
+E553	Justice_Trial-Hearing:T26
+A26	Realis E553 Actual
+T27	Conflict_Attack 1682 1691	massacres
+E581	Conflict_Attack:T27
+A27	Realis E581 Actual
+T28	Justice_Appeal 2231 2237	appeal
+E593	Justice_Appeal:T28
+A28	Realis E593 Other
+T29	Justice_Trial-Hearing 1174 1179	trial
+E660	Justice_Trial-Hearing:T29
+A29	Realis E660 Actual
+T30	Justice_Trial-Hearing 1287 1292	trial
+E727	Justice_Trial-Hearing:T30
+A30	Realis E727 Actual
+T31	Justice_Trial-Hearing 420 425	trial
+E753	Justice_Trial-Hearing:T31
+A31	Realis E753 Actual
+T32	Movement_Transport-Person 1717 1729	displacement
+E754	Movement_Transport-Person:T32
+A32	Realis E754 Actual
+T33	Justice_Arrest-Jail 1108 1114	prison
+E763	Justice_Arrest-Jail:T33
+A33	Realis E763 Other
+T34	Justice_Convict 199 209	CONVICTION
+E770	Justice_Convict:T34
+A34	Realis E770 Actual
+T35	Justice_Sentence 1083 1092	sentenced
+E806	Justice_Sentence:T35
+A35	Realis E806 Actual
+T36	Movement_Transport-Person 894 900	return
+E828	Movement_Transport-Person:T36
+A36	Realis E828 Other
+T37	Justice_Trial-Hearing 1514 1519	trial
+E832	Justice_Trial-Hearing:T37
+A37	Realis E832 Actual
+T38	Life_Die 190 198	GENOCIDE
+E834	Life_Die:T38
+A38	Realis E834 Other
+T39	Justice_Acquit 2045 2054	acquitted
+E847	Justice_Acquit:T39
+A39	Realis E847 Actual
+T40	Personnel_End-Position 1601 1607	former
+E867	Personnel_End-Position:T40
+A40	Realis E867 Actual
+T41	Conflict_Attack 190 198	GENOCIDE
+E873	Conflict_Attack:T41
+A41	Realis E873 Other
+T42	Life_Injure 1696 1701	rapes
+E951	Life_Injure:T42
+A42	Realis E951 Actual

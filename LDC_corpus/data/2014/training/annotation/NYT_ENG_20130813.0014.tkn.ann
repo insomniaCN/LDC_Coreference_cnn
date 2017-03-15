@@ -1,0 +1,40 @@
+T1	Business_Merge-Org 230 236	MERGER
+E1	Business_Merge-Org:T1 
+A1	Realis E1 Other
+T2	Justice_Sue 340 345;348 355	filed lawsuit
+E2	Justice_Sue:T2 
+A2	Realis E2 Actual
+T3	Business_Merge-Org 394 400	merger
+E3	Business_Merge-Org:T3 
+A3	Realis E3 Other
+T4	Business_Declare-Bankruptcy 521 531	bankruptcy
+E4	Business_Declare-Bankruptcy:T4 
+A4	Realis E4 Actual
+T5	Business_Merge-Org 700 707	mergers
+E5	Business_Merge-Org:T5 
+A5	Realis E5 Actual
+T7	Business_Merge-Org 925 931	merger
+E7	Business_Merge-Org:T7 
+A7	Realis E7 Other
+T9	Business_Merge-Org 1277 1283	merger
+E9	Business_Merge-Org:T9 
+A9	Realis E9 Other
+T10	Justice_Sue 1492 1496;1501 1506	suit filed
+E10	Justice_Sue:T10 
+A10	Realis E10 Actual
+T11	Justice_Sue 1526 1533;1538 1543	lawsuit filed
+E11	Justice_Sue:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 1888 1899	acquisition
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Business_Merge-Org 2062 2070	takeover
+E13	Business_Merge-Org:T13 
+A13	Realis E13 Other
+T14	Business_Merge-Org 2123 2129	merger
+E14	Business_Merge-Org:T14 
+A14	Realis E14 Other
+T15	Business_Start-Org 543 549;572 579	create airline
+E15	Business_Start-Org:T15 
+A15	Realis E15 Other
+A6	Questionable E12 Mention

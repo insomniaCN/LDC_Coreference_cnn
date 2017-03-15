@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea8c0000000000000104" doc_id="0b1fb6f98f791866033e5a310abc4efe" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-262" type="personnel" subtype="elect" realis="generic">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="171" length="9">elections</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-134" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="360" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-30" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="450" length="9">rebellion</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-29" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="465" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-789" type="life" subtype="die" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="571" length="4">late</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-433" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="588" length="3">won</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-796" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="606" length="5">races</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-655" type="conflict" subtype="attack" realis="generic">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="782" length="8">Violence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-141">
+      <event_mention id="em-16" type="conflict" subtype="attack" realis="other">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="861" length="4">coup</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-156">
+      <event_mention id="em-78" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="891" length="7">deposed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-171">
+      <event_mention id="em-407" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="940" length="8">uprising</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-186">
+      <event_mention id="em-969" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1059" length="3">won</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-201">
+      <event_mention id="em-510" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1134" length="8">election</trigger>
+      </event_mention>
+      <event_mention id="em-630" type="personnel" subtype="elect" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1215" length="8">election</trigger>
+      </event_mention>
+      <event_mention id="em-311" type="personnel" subtype="elect" realis="other">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1423" length="8">election</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-216">
+      <event_mention id="em-660" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1190" length="6">buying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-231">
+      <event_mention id="em-381" type="conflict" subtype="attack" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1228" length="8">violence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-272">
+      <event_mention id="em-845" type="conflict" subtype="attack" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1432" length="7">murders</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-287">
+      <event_mention id="em-234" type="life" subtype="die" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1432" length="7">murders</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-315">
+      <event_mention id="em-39" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1089" length="9">candidate</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-330">
+      <event_mention id="em-861" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="1500" length="10">candidates</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-345">
+      <event_mention id="em-160" type="conflict" subtype="attack" realis="other">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="2469" length="4">coup</trigger>
+      </event_mention>
+      <event_mention id="em-398" type="conflict" subtype="attack" realis="other">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="2764" length="4">coup</trigger>
+      </event_mention>
+      <event_mention id="em-992" type="conflict" subtype="attack" realis="other">
+        <trigger source="0b1fb6f98f791866033e5a310abc4efe" offset="2819" length="4">coup</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

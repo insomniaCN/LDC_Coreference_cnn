@@ -1,0 +1,60 @@
+T1	Conflict_Attack 90 97	Stabbed
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 102 108	Killed
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 112 117	Brawl
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Die 391 397	killed
+E4	Life_Die:T4 
+A4	Realis E4 Other
+T5	Conflict_Attack 973 977	beat
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 1028 1035	stabbed
+E6	Conflict_Attack:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 1244 1248	beat
+E7	Conflict_Attack:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 1581 1589	stabbing
+E8	Conflict_Attack:T8 
+A8	Realis E8 Other
+T9	Life_Die 2524 2535	decapitated
+E9	Life_Die:T9 
+A9	Realis E9 Other
+T10	Life_Die 2712 2718	killed
+E10	Life_Die:T10 
+A10	Realis E10 Other
+T11	Conflict_Attack 2853 2860	stabbed
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 2882 2890	punching
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 2914 2921	run out
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 3218 3222;3230 3232	beat up
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 3257 3264	stabbed
+E15	Conflict_Attack:T15 
+A15	Realis E15 Other
+T16	Life_Die 3390 3395	death
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Justice_Arrest-Jail 3507 3514	in jail
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Other
+T18	Life_Die 3519 3525	murder
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Justice_Release-Parole 4198 4204	parole
+E19	Justice_Release-Parole:T19 
+A19	Realis E19 Other
+T20	Justice_Sentence 4181 4189	get life
+E20	Justice_Sentence:T20 
+A20	Realis E20 Other

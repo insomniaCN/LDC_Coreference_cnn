@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000614" doc_id="bolt-eng-DF-201-185516-356700" source_type="multi_post">
+<event_mention id="em-10" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="60" length="6">Killed</trigger>
+      </event_mention>
+<event_mention id="em-23" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="213" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-36" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="579" length="4">shot</trigger>
+      </event_mention>
+<event_mention id="em-51" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="1020" length="3">off</trigger>
+      </event_mention>
+<event_mention id="em-64" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="1303" length="13">assassination</trigger>
+      </event_mention>
+<event_mention id="em-79" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="1509" length="3">off</trigger>
+      </event_mention>
+<event_mention id="em-105" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="2243" length="8">murdered</trigger>
+      </event_mention>
+<event_mention id="em-118" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="2549" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-131" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="2839" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-144" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="2942" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-159" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="2955" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-174" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="2967" length="9">inherited</trigger>
+      </event_mention>
+<event_mention id="em-189" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="3985" length="4">shot</trigger>
+      </event_mention>
+<event_mention id="em-204" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4163" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-217" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4176" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-230" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4188" length="9">inherited</trigger>
+      </event_mention>
+<event_mention id="em-243" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4412" length="8">inherits</trigger>
+      </event_mention>
+<event_mention id="em-258" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4492" length="11">inheritance</trigger>
+      </event_mention>
+<event_mention id="em-273" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4545" length="6">arrest</trigger>
+      </event_mention>
+<event_mention id="em-288" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="4803" length="8">murdered</trigger>
+      </event_mention>
+<event_mention id="em-301" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="5343" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-314" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="5405" length="13">assassination</trigger>
+      </event_mention>
+<event_mention id="em-327" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="5739" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-340" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="5733" length="5">Death</trigger>
+      </event_mention>
+<event_mention id="em-355" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="6172" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-368" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="6399" length="12">assassinated</trigger>
+      </event_mention>
+<event_mention id="em-381" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="6529" length="7">shooter</trigger>
+      </event_mention>
+<event_mention id="em-396" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="390" length="3">off</trigger>
+      </event_mention>
+<event_mention id="em-409" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-201-185516-356700" offset="1659" length="8">meetings</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

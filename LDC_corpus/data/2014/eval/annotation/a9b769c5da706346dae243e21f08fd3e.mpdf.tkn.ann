@@ -1,0 +1,119 @@
+T1	Personnel_End-Position 359 364	fired
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T3	Personnel_Start-Position 436 444	replaced
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 492 498	combat
+E4	Conflict_Attack:T4 
+A4	Realis E4 Generic
+T5	Contact_Communicate 540 546	saying
+E5	Contact_Communicate:T5 
+A5	Realis E5 Other
+T6	Personnel_Nominate 678 687	nominated
+E6	Personnel_Nominate:T6 
+A6	Realis E6 Actual
+T7	Personnel_Nominate 789 798	nominated
+E7	Personnel_Nominate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 837 841	told
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Personnel_Start-Position 894 901	replace
+E9	Personnel_Start-Position:T9 
+A9	Realis E9 Other
+T10	Personnel_Nominate 1077 1086	nominated
+E10	Personnel_Nominate:T10 
+A10	Realis E10 Actual
+T13	Personnel_Nominate 1847 1857	nomination
+E13	Personnel_Nominate:T13 
+A13	Realis E13 Actual
+T15	Personnel_Nominate 1998 2007	nominated
+E15	Personnel_Nominate:T15 
+A15	Realis E15 Actual
+T16	Personnel_Nominate 2336 2345	Nominates
+E16	Personnel_Nominate:T16 
+A16	Realis E16 Actual
+T17	Personnel_End-Position 3025 3030	fired
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T19	Conflict_Attack 414 420	combat
+E19	Conflict_Attack:T19 
+A19	Realis E19 Generic
+T20	Conflict_Attack 3080 3086	combat
+E20	Conflict_Attack:T20 
+A20	Realis E20 Generic
+T21	Personnel_Start-Position 3102 3110	replaced
+E21	Personnel_Start-Position:T21 
+A21	Realis E21 Actual
+T22	Contact_Communicate 3206 3212	saying
+E22	Contact_Communicate:T22 
+A22	Realis E22 Other
+T23	Personnel_Nominate 3344 3353	nominated
+E23	Personnel_Nominate:T23 
+A23	Realis E23 Actual
+T24	Personnel_Nominate 3455 3464	nominated
+E24	Personnel_Nominate:T24 
+A24	Realis E24 Actual
+T25	Contact_Communicate 3503 3507	told
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Personnel_Start-Position 3560 3567	replace
+E26	Personnel_Start-Position:T26 
+A26	Realis E26 Other
+T27	Personnel_Nominate 3743 3752	nominated
+E27	Personnel_Nominate:T27 
+A27	Realis E27 Actual
+T30	Personnel_Nominate 4515 4525	nomination
+E30	Personnel_Nominate:T30 
+A30	Realis E30 Actual
+T31	Personnel_Start-Position 4580 4585	place
+E31	Personnel_Start-Position:T31 
+A31	Realis E31 Generic
+T32	Personnel_Nominate 4666 4675	nominated
+E32	Personnel_Nominate:T32 
+A32	Realis E32 Actual
+T33	Personnel_Nominate 5005 5014	Nominates
+E33	Personnel_Nominate:T33 
+A33	Realis E33 Actual
+T34	Personnel_Start-Position 6484 6488	hire
+E34	Personnel_Start-Position:T34 
+A34	Realis E34 Actual
+T38	Contact_Communicate 7417 7420	say
+E38	Contact_Communicate:T38 
+A38	Realis E38 Other
+T39	Contact_Communicate 6170 6173	say
+E39	Contact_Communicate:T39 
+A39	Realis E39 Other
+T40	Personnel_Nominate 7674 7683	appointed
+E40	Personnel_Nominate:T40 
+A40	Realis E40 Actual
+T41	Personnel_Nominate 8088 8094	picked
+E41	Personnel_Nominate:T41 
+A41	Realis E41 Actual
+T42	Personnel_Start-Position 8341 8345	hire
+E42	Personnel_Start-Position:T42 
+A42	Realis E42 Actual
+T46	Personnel_Nominate 8857 8866	nominated
+E46	Personnel_Nominate:T46 
+A46	Realis E46 Actual
+T47	Personnel_End-Position 8913 8920;8925 8933	vacated position
+E47	Personnel_End-Position:T47 
+A47	Realis E47 Actual
+A2	Questionable E21 Mention
+A11	Questionable E31 Mention
+T2	Personnel_End-Position 6710 6723;6728 6732	pushed out of door
+E2	Personnel_End-Position:T2 
+A12	Realis E2 Actual
+T11	Personnel_Start-Position 7764 7769	began
+E11	Personnel_Start-Position:T11 
+A14	Realis E11 Actual
+T12	Personnel_End-Position 8567 8580;8585 8589	pushed out of door
+E12	Personnel_End-Position:T12 
+A18	Realis E12 Actual
+T14	Personnel_End-Position 8389 8400	weeding out
+E14	Personnel_End-Position:T14 
+A28	Realis E14 Actual
+T18	Personnel_End-Position 6532 6543	weeding out
+E18	Personnel_End-Position:T18 
+A29	Realis E18 Actual

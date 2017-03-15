@@ -1,0 +1,112 @@
+T1	Justice_Execute 151 159	Executed
+E243	Justice_Execute:T1
+A1	Realis E243 Actual
+T2	Justice_Execute 178 184	Hanged
+E926	Justice_Execute:T2
+A2	Realis E926 Actual
+T3	Justice_Execute 286 294	executed
+E417	Justice_Execute:T3
+A3	Realis E417 Actual
+T4	Justice_Execute 430 438	executed
+E87	Justice_Execute:T4
+A4	Realis E87 Actual
+T5	Justice_Execute 499 505	hanged
+E688	Justice_Execute:T5
+A5	Realis E688 Actual
+T6	Justice_Execute 574 582	Executed
+E947	Justice_Execute:T6
+A6	Realis E947 Actual
+T7	Justice_Execute 601 607	Hanged
+E437	Justice_Execute:T7
+A7	Realis E437 Actual
+T8	Justice_Execute 1354 1363	Execution
+E337	Justice_Execute:T8
+A8	Realis E337 Other
+T9	Justice_Execute 1521 1530	Execution
+E875	Justice_Execute:T9
+A9	Realis E875 Other
+T10	Justice_Execute 2611 2619	Executed
+E836	Justice_Execute:T10
+A10	Realis E836 Actual
+T11	Justice_Execute 2638 2644	Hanged
+E917	Justice_Execute:T11
+A11	Realis E917 Actual
+T12	Life_Die 151 159	Executed
+E147	Life_Die:T12
+A12	Realis E147 Actual
+T13	Life_Die 178 184	Hanged
+E818	Life_Die:T13
+A13	Realis E818 Actual
+T14	Life_Die 286 294	executed
+E490	Life_Die:T14
+A14	Realis E490 Actual
+T15	Life_Die 430 438	executed
+E966	Life_Die:T15
+A15	Realis E966 Actual
+T16	Life_Die 499 505	hanged
+E233	Life_Die:T16
+A16	Realis E233 Actual
+T17	Life_Die 574 582	Executed
+E177	Life_Die:T17
+A17	Realis E177 Actual
+T18	Life_Die 601 607	Hanged
+E374	Life_Die:T18
+A18	Realis E374 Actual
+T19	Life_Die 824 829	death
+E168	Life_Die:T19
+A19	Realis E168 Other
+T20	Life_Die 1354 1363	Execution
+E44	Life_Die:T20
+A20	Realis E44 Other
+T21	Life_Die 1521 1530	Execution
+E73	Life_Die:T21
+A21	Realis E73 Other
+T22	Life_Die 2611 2619	Executed
+E664	Life_Die:T22
+A22	Realis E664 Actual
+T23	Life_Die 2638 2644	Hanged
+E510	Life_Die:T23
+A23	Realis E510 Actual
+T24	Life_Die 2697 2701	gone
+E310	Life_Die:T24
+A24	Realis E310 Actual
+T25	Justice_Arrest-Jail 344 354	imprisoned
+E512	Justice_Arrest-Jail:T25
+A25	Realis E512 Actual
+T26	Justice_Convict 365 371	guilty
+E383	Justice_Convict:T26
+A26	Realis E383 Actual
+T27	Justice_Release-Parole 879 886	release
+E447	Justice_Release-Parole:T27
+A27	Realis E447 Other
+T28	Life_Marry 2411 2419	Marriage
+E72	Life_Marry:T28
+A28	Realis E72 Generic
+T29	Contact_Broadcast 772 776	says
+E13	Contact_Broadcast:T29
+A29	Realis E13 Actual
+T30	Contact_Broadcast 813 819	report
+E723	Contact_Broadcast:T30
+A30	Realis E723 Actual
+R1	Coreference Arg1:E243 Arg2:E926
+R2	Coreference Arg1:E926 Arg2:E417
+R3	Coreference Arg1:E417 Arg2:E87
+R4	Coreference Arg1:E87 Arg2:E688
+R5	Coreference Arg1:E688 Arg2:E947
+R6	Coreference Arg1:E947 Arg2:E437
+R7	Coreference Arg1:E437 Arg2:E337
+R8	Coreference Arg1:E337 Arg2:E875
+R9	Coreference Arg1:E875 Arg2:E836
+R10	Coreference Arg1:E836 Arg2:E917
+R11	Coreference Arg1:E147 Arg2:E818
+R12	Coreference Arg1:E818 Arg2:E490
+R13	Coreference Arg1:E490 Arg2:E966
+R14	Coreference Arg1:E966 Arg2:E233
+R15	Coreference Arg1:E233 Arg2:E177
+R16	Coreference Arg1:E177 Arg2:E374
+R17	Coreference Arg1:E374 Arg2:E168
+R18	Coreference Arg1:E168 Arg2:E44
+R19	Coreference Arg1:E44 Arg2:E73
+R20	Coreference Arg1:E73 Arg2:E664
+R21	Coreference Arg1:E664 Arg2:E510
+R22	Coreference Arg1:E510 Arg2:E310

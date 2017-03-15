@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000651" doc_id="XIN_ENG_20090707.0358" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="188" length="4">Riot</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="367" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="XIN_ENG_20090707.0358" offset="461" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="788" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-135" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="995" length="4">riot</trigger>
+      </event_mention>
+      <event_mention id="em-148" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="1010" length="7">Rioters</trigger>
+      </event_mention>
+      <event_mention id="em-204" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="1219" length="4">riot</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="390" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="952" length="4">dead</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="530" length="10">patrolling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-92" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="848" length="8">violence</trigger>
+      </event_mention>
+      <event_mention id="em-161" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="1018" length="6">burned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-120" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="980" length="7">injured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-187">
+      <event_mention id="em-174" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20090707.0358" offset="1105" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-202">
+      <event_mention id="em-189" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="XIN_ENG_20090707.0358" offset="1170" length="8">detained</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

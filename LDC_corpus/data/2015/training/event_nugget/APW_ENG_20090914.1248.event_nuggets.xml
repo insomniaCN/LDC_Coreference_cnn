@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976400000000000000035" doc_id="APW_ENG_20090914.1248" source_type="newswire">
+<event_mention id="em-18" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090914.1248" offset="308" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-31" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090914.1248" offset="82" length="4">meet</trigger>
+      </event_mention>
+<event_mention id="em-44" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20090914.1248" offset="512" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-57" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20090914.1248" offset="408" length="4">sued</trigger>
+      </event_mention>
+<event_mention id="em-70" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090914.1248" offset="798" length="3">met</trigger>
+      </event_mention>
+<event_mention id="em-83" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20090914.1248" offset="880" length="4">sued</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

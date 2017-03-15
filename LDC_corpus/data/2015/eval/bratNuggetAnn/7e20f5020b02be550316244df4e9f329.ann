@@ -1,0 +1,36 @@
+T1	Contact_Broadcast 343 352	announced
+E19	Contact_Broadcast:T1
+A1	Realis E19 Actual
+T2	Contact_Broadcast 445 452	Tweeted
+E107	Contact_Broadcast:T2
+A2	Realis E107 Actual
+T3	Life_Divorce 980 988	divorced
+E448	Life_Divorce:T3
+A3	Realis E448 Actual
+T4	Life_Marry 678 685	wedding
+E477	Life_Marry:T4
+A4	Realis E477 Actual
+T5	Life_Divorce 161 168	divorce
+E541	Life_Divorce:T5
+A5	Realis E541 Actual
+T6	Life_Marry 960 967	married
+E672	Life_Marry:T6
+A6	Realis E672 Actual
+T7	Contact_Broadcast 249 257	announce
+E679	Contact_Broadcast:T7
+A7	Realis E679 Actual
+T8	Personnel_End-Position 309 315	former
+E700	Personnel_End-Position:T8
+A8	Realis E700 Actual
+T9	Life_Marry 602 609	married
+E741	Life_Marry:T9
+A9	Realis E741 Actual
+T10	Life_Divorce 1263 1270	divorce
+E772	Life_Divorce:T10
+A10	Realis E772 Actual
+T11	Life_Marry 646 654	ceremony
+E991	Life_Marry:T11
+A11	Realis E991 Actual
+T12	Contact_Contact 664 671	calling
+E999	Contact_Contact:T12
+A12	Realis E999 Actual

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000590" doc_id="bolt-eng-DF-170-181130-95269" source_type="multi_post">
+<event_mention id="em-10" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="51" length="4">Send</trigger>
+      </event_mention>
+<event_mention id="em-23" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="167" length="4">send</trigger>
+      </event_mention>
+<event_mention id="em-38" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="213" length="4">send</trigger>
+      </event_mention>
+<event_mention id="em-53" type="life" subtype="injure" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="293" length="4">hurt</trigger>
+      </event_mention>
+<event_mention id="em-68" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="369" length="3">run</trigger>
+      </event_mention>
+<event_mention id="em-83" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="410" length="5">Sends</trigger>
+      </event_mention>
+<event_mention id="em-98" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="566" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-113" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="579" length="4">fled</trigger>
+      </event_mention>
+<event_mention id="em-128" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="629" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-143" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="682" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-156" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="698" length="7">sending</trigger>
+      </event_mention>
+<event_mention id="em-169" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="893" length="8">deployed</trigger>
+      </event_mention>
+<event_mention id="em-182" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1009" length="8">resigned</trigger>
+      </event_mention>
+<event_mention id="em-195" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1053" length="5">exile</trigger>
+      </event_mention>
+<event_mention id="em-208" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1168" length="6">arrive</trigger>
+      </event_mention>
+<event_mention id="em-221" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1300" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-236" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1311" length="10">deployment</trigger>
+      </event_mention>
+<event_mention id="em-249" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1437" length="5">talks</trigger>
+      </event_mention>
+<event_mention id="em-264" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1566" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-279" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1619" length="10">deployment</trigger>
+      </event_mention>
+<event_mention id="em-307" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="1773" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-320" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="2004" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-335" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="2009" length="5">talks</trigger>
+      </event_mention>
+<event_mention id="em-363" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="2282" length="4">meet</trigger>
+      </event_mention>
+<event_mention id="em-376" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="2608" length="7">whipped</trigger>
+      </event_mention>
+<event_mention id="em-391" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="2087" length="7">meeting</trigger>
+      </event_mention>
+<event_mention id="em-404" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="2720" length="8">fighting</trigger>
+      </event_mention>
+<event_mention id="em-419" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="3749" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-434" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="4606" length="6">battle</trigger>
+      </event_mention>
+<event_mention id="em-447" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181130-95269" offset="4777" length="6">battle</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

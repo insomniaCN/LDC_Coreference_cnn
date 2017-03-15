@@ -1,0 +1,108 @@
+T1	Business_Declare-Bankruptcy 778 786	bankrupt
+E24	Business_Declare-Bankruptcy:T1
+A1	Realis E24 Actual
+T2	Transaction_Transfer-Money 1719 1723	sale
+E45	Transaction_Transfer-Money:T2
+A2	Realis E45 Other
+T3	Transaction_Transfer-Money 342 349	pension
+E50	Transaction_Transfer-Money:T3
+A3	Realis E50 Generic
+T4	Transaction_Transfer-Money 923 929	settle
+E65	Transaction_Transfer-Money:T4
+A4	Realis E65 Other
+T5	Transaction_Transfer-Ownership 178 186	SPINOFFS
+E101	Transaction_Transfer-Ownership:T5
+A5	Realis E101 Other
+T6	Transaction_Transfer-Ownership 1719 1723	sale
+E103	Transaction_Transfer-Ownership:T6
+A6	Realis E103 Actual
+T7	Transaction_Transfer-Ownership 514 518	sell
+E186	Transaction_Transfer-Ownership:T7
+A7	Realis E186 Other
+T8	Transaction_Transfer-Money 735 739	sell
+E221	Transaction_Transfer-Money:T8
+A8	Realis E221 Other
+T9	Business_Declare-Bankruptcy 1449 1459	bankruptcy
+E244	Business_Declare-Bankruptcy:T9
+A9	Realis E244 Actual
+T10	Transaction_Transfer-Money 905 912	pension
+E257	Transaction_Transfer-Money:T10
+A10	Realis E257 Generic
+T11	Transaction_Transfer-Ownership 1231 1237	divest
+E285	Transaction_Transfer-Ownership:T11
+A11	Realis E285 Other
+T12	Transaction_Transfer-Money 1857 1864	selling
+E295	Transaction_Transfer-Money:T12
+A12	Realis E295 Actual
+T13	Contact_Broadcast 1403 1412	statement
+E310	Contact_Broadcast:T13
+A13	Realis E310 Actual
+T14	Transaction_Transfer-Ownership 735 739	sell
+E363	Transaction_Transfer-Ownership:T14
+A14	Realis E363 Other
+T15	Transaction_Transfer-Money 1500 1507	selling
+E389	Transaction_Transfer-Money:T15
+A15	Realis E389 Actual
+T16	Contact_Contact 1890 1897	advised
+E414	Contact_Contact:T16
+A16	Realis E414 Actual
+T17	Transaction_Transfer-Money 861 866	sales
+E469	Transaction_Transfer-Money:T17
+A17	Realis E469 Other
+T18	Transaction_Transaction 1161 1172	transaction
+E477	Transaction_Transaction:T18
+A18	Realis E477 Other
+T27	Transaction_Transfer-Money 600 604	sell
+E481	Transaction_Transfer-Money:T27
+A27	Realis E481 Other
+T20	Transaction_Transfer-Ownership 278 286	spin off
+E603	Transaction_Transfer-Ownership:T20
+A20	Realis E603 Other
+T21	Business_Declare-Bankruptcy 1025 1035	bankruptcy
+E607	Business_Declare-Bankruptcy:T21
+A21	Realis E607 Actual
+T22	Transaction_Transfer-Ownership 1857 1864	selling
+E614	Transaction_Transfer-Ownership:T22
+A22	Realis E614 Actual
+T23	Transaction_Transfer-Money 1582 1586	sell
+E634	Transaction_Transfer-Money:T23
+A23	Realis E634 Other
+T24	Contact_Broadcast 580 589	announced
+E656	Contact_Broadcast:T24
+A24	Realis E656 Actual
+T25	Transaction_Transfer-Ownership 1500 1507	selling
+E668	Transaction_Transfer-Ownership:T25
+A25	Realis E668 Actual
+T26	Transaction_Transfer-Money 514 518	sell
+E702	Transaction_Transfer-Money:T26
+A26	Realis E702 Other
+T27	Transaction_Transfer-Money 600 604	sell
+E735	Transaction_Transfer-Money:T27
+A27	Realis E735 Other
+T28	Transaction_Transfer-Ownership 1582 1586	sell
+E743	Transaction_Transfer-Ownership:T28
+A28	Realis E743 Actual
+T29	Business_Declare-Bankruptcy 934 944	bankruptcy
+E745	Business_Declare-Bankruptcy:T29
+A29	Realis E745 Actual
+T30	Business_Declare-Bankruptcy 456 466	bankruptcy
+E757	Business_Declare-Bankruptcy:T30
+A30	Realis E757 Actual
+T31	Contact_Contact 252 256	said
+E829	Contact_Contact:T31
+A31	Realis E829 Actual
+T32	Transaction_Transfer-Money 1299 1305	settle
+E833	Transaction_Transfer-Money:T32
+A32	Realis E833 Other
+T33	Contact_Broadcast 1208 1217	announced
+E906	Contact_Broadcast:T33
+A33	Realis E906 Actual
+T34	Business_Declare-Bankruptcy 1118 1128	bankruptcy
+E938	Business_Declare-Bankruptcy:T34
+A34	Realis E938 Actual
+T35	Transaction_Transfer-Ownership 861 866	sales
+E946	Transaction_Transfer-Ownership:T35
+A35	Realis E946 Other
+T36	Business_Declare-Bankruptcy 212 222	BANKRUPTCY
+E978	Business_Declare-Bankruptcy:T36
+A36	Realis E978 Actual

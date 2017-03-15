@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589761e0000000000000003" doc_id="AFP_ENG_20090827.0649" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-32" type="personnel" subtype="elect" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="248" length="7">elected</trigger>
+      </event_mention>
+      <event_mention id="em-45" type="personnel" subtype="elect" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="62" length="5">picks</trigger>
+      </event_mention>
+      <event_mention id="em-58" type="personnel" subtype="elect" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="330" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-71" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="788" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-84" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="735" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-97" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="272" length="3">new</trigger>
+      </event_mention>
+      <event_mention id="em-110" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="68" length="3">new</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-123" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="378" length="4">lost</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-136" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="858" length="11">passed away</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-149" type="business" subtype="startorg" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="1167" length="7">created</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-162" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="1226" length="8">returned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-175" type="business" subtype="startorg" realis="other">
+        <trigger source="AFP_ENG_20090827.0649" offset="1467" length="6">create</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-188" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="AFP_ENG_20090827.0649" offset="659" length="9">replacing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-201" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090827.0649" offset="92" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-214" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20090827.0649" offset="528" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-227" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090827.0649" offset="634" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-253">
+      <event_mention id="em-240" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090827.0649" offset="1417" length="8">disputes</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

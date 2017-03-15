@@ -1,0 +1,43 @@
+T1	Life_Divorce 66 73	Divorce
+E1	Life_Divorce:T1 
+A1	Realis E1 Actual
+T2	Life_Marry 95 98	wed
+E2	Life_Marry:T2 
+A2	Realis E2 Other
+T3	Life_Marry 243 250	wedding
+E3	Life_Marry:T3 
+A3	Realis E3 Other
+T4	Life_Divorce 395 403	divorced
+E4	Life_Divorce:T4 
+A4	Realis E4 Actual
+T5	Life_Marry 489 497	nuptials
+E5	Life_Marry:T5 
+A5	Realis E5 Actual
+T6	Life_Marry 581 588	married
+E6	Life_Marry:T6 
+A6	Realis E6 Other
+A7	Questionable E6 Realis
+T7	Life_Divorce 680 687	Divorce
+E7	Life_Divorce:T7 
+A8	Questionable E7 Realis
+A9	Realis E7 Generic
+T8	Life_Marry 954 961	married
+E8	Life_Marry:T8 
+A10	Questionable E8 Realis
+A11	Realis E8 Other
+T9	Life_Marry 1034 1041	married
+E9	Life_Marry:T9 
+A12	Realis E9 Other
+T10	Life_Marry 1151 1158	wedding
+E10	Life_Marry:T10 
+A13	Realis E10 Generic
+T11	Contact_Communicate 1263 1267	quiz
+E11	Contact_Communicate:T11 
+A14	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 1293 1303	confiscate
+E12	Transaction_Transfer-Ownership:T12 
+A15	Questionable E12 Mention
+A16	Realis E12 Actual
+T13	Contact_Meet 766 776	conference
+E13	Contact_Meet:T13 
+A17	Realis E13 Actual

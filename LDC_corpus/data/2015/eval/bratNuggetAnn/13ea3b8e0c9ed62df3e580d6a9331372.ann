@@ -1,0 +1,18 @@
+T1	Contact_Contact 443 446	say
+E206	Contact_Contact:T1
+A1	Realis E206 Generic
+T2	Movement_Transport-Artifact 522 529	brought
+E520	Movement_Transport-Artifact:T2
+A2	Realis E520 Actual
+T3	Movement_Transport-Person 399 403	left
+E595	Movement_Transport-Person:T3
+A3	Realis E595 Actual
+T4	Movement_Transport-Artifact 782 787	bring
+E738	Movement_Transport-Artifact:T4
+A4	Realis E738 Other
+T5	Contact_Contact 962 968	talked
+E804	Contact_Contact:T5
+A5	Realis E804 Actual
+T6	Contact_Meet 617 623	discus
+E896	Contact_Meet:T6
+A6	Realis E896 Actual

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa90000000000000164" doc_id="732a067397aa06535c6c3716f38a27c7" source_type="multi_post">
+  <event_mention id="em-18" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="519" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-99" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="3175" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-273" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="841" length="4">date</trigger>
+  </event_mention>
+  <event_mention id="em-297" type="contact" subtype="contact" realis="generic" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="2104" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-321" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="3542" length="4">went</trigger>
+  </event_mention>
+  <event_mention id="em-323" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="3849" length="6">asking</trigger>
+  </event_mention>
+  <event_mention id="em-370" type="life" subtype="marry" realis="actual">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="3766" length="7">hitched</trigger>
+  </event_mention>
+  <event_mention id="em-436" type="contact" subtype="contact" realis="generic" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="2700" length="7">talking</trigger>
+  </event_mention>
+  <event_mention id="em-472" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="1440" length="4">date</trigger>
+  </event_mention>
+  <event_mention id="em-553" type="life" subtype="divorce" realis="actual">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="560" length="8">divorced</trigger>
+  </event_mention>
+  <event_mention id="em-557" type="life" subtype="marry" realis="other">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="2721" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="3486" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-640" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="743" length="3">job</trigger>
+  </event_mention>
+  <event_mention id="em-715" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="2639" length="4">date</trigger>
+  </event_mention>
+  <event_mention id="em-836" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="765" length="4">rent</trigger>
+  </event_mention>
+  <event_mention id="em-856" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="453" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-863" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="687" length="4">came</trigger>
+  </event_mention>
+  <event_mention id="em-907" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="1456" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-945" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="732a067397aa06535c6c3716f38a27c7" offset="247" length="6">dating</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

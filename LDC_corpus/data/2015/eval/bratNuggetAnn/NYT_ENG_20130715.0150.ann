@@ -1,0 +1,93 @@
+T1	Contact_Broadcast 883 891	demanded
+E61	Contact_Broadcast:T1
+A1	Realis E61 Actual
+T2	Justice_Arrest-Jail 1508 1519	confinement
+E97	Justice_Arrest-Jail:T2
+A2	Realis E97 Generic
+T3	Justice_Arrest-Jail 1747 1753	prison
+E109	Justice_Arrest-Jail:T3
+A3	Realis E109 Generic
+T4	Justice_Release-Parole 2765 2772	release
+E126	Justice_Release-Parole:T4
+A4	Realis E126 Other
+T5	Justice_Arrest-Jail 206 213	PRISONS
+E161	Justice_Arrest-Jail:T5
+A5	Realis E161 Generic
+T6	Justice_Arrest-Jail 1037 1044	prisons
+E184	Justice_Arrest-Jail:T6
+A6	Realis E184 Generic
+T7	Justice_Arrest-Jail 1932 1941	prisoners
+E204	Justice_Arrest-Jail:T7
+A7	Realis E204 Generic
+T8	Justice_Appeal 2637 2645	appealed
+E218	Justice_Appeal:T8
+A8	Realis E218 Actual
+T9	Justice_Arrest-Jail 552 558	prison
+E225	Justice_Arrest-Jail:T9
+A9	Realis E225 Generic
+T10	Contact_Contact 2515 2525	threatened
+E227	Contact_Contact:T10
+A10	Realis E227 Actual
+T11	Justice_Release-Parole 896 903	release
+E251	Justice_Release-Parole:T11
+A11	Realis E251 Other
+T12	Justice_Arrest-Jail 2403 2410	prisons
+E260	Justice_Arrest-Jail:T12
+A12	Realis E260 Generic
+T13	Justice_Arrest-Jail 666 672	prison
+E268	Justice_Arrest-Jail:T13
+A13	Realis E268 Generic
+T14	Justice_Arrest-Jail 804 815	confinement
+E274	Justice_Arrest-Jail:T14
+A14	Realis E274 Generic
+T15	Justice_Sue 1486 1493	lawsuit
+E281	Justice_Sue:T15
+A15	Realis E281 Actual
+T16	Contact_Contact 1942 1945	say
+E313	Contact_Contact:T16
+A16	Realis E313 Actual
+T17	Justice_Arrest-Jail 921 928	inmates
+E386	Justice_Arrest-Jail:T17
+A17	Realis E386 Actual
+T18	Contact_Broadcast 1076 1082	called
+E429	Contact_Broadcast:T18
+A18	Realis E429 Actual
+T19	Contact_Contact 1381 1385	said
+E462	Contact_Contact:T19
+A19	Realis E462 Actual
+T20	Contact_Broadcast 532 541	declaring
+E468	Contact_Broadcast:T20
+A20	Realis E468 Actual
+T21	Movement_Transport-Person 937 945	transfer
+E554	Movement_Transport-Person:T21
+A21	Realis E554 Other
+T22	Contact_Contact 1841 1844	say
+E582	Contact_Contact:T22
+A22	Realis E582 Actual
+T23	Justice_Arrest-Jail 1255 1264	prisoners
+E587	Justice_Arrest-Jail:T23
+A23	Realis E587 Generic
+T24	Conflict_Demonstrate 751 757	strike
+E592	Conflict_Demonstrate:T24
+A24	Realis E592 Actual
+T25	Justice_Arrest-Jail 1151 1155	bars
+E595	Justice_Arrest-Jail:T25
+A25	Realis E595 Actual
+T26	Justice_Arrest-Jail 2609 2618	prisoners
+E615	Justice_Arrest-Jail:T26
+A26	Realis E615 Actual
+T27	Contact_Contact 2313 2321	declared
+E653	Contact_Contact:T27
+A27	Realis E653 Actual
+T28	Justice_Arrest-Jail 2776 2785	prisoners
+E662	Justice_Arrest-Jail:T28
+A28	Realis E662 Actual
+T29	Justice_Release-Parole 2601 2608	release
+E713	Justice_Release-Parole:T29
+A29	Realis E713 Other
+T30	Life_Die 995 1001	deadly
+E755	Life_Die:T30
+A30	Realis E755 Generic
+T31	Conflict_Demonstrate 832 835	its
+E812	Conflict_Demonstrate:T31
+A31	Realis E812 Actual

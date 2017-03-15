@@ -1,0 +1,129 @@
+T1	Justice_Release-Parole 205 212	RELEASE
+E344	Justice_Release-Parole:T1
+A1	Realis E344 Other
+T2	Justice_Release-Parole 440 447	release
+E139	Justice_Release-Parole:T2
+A2	Realis E139 Other
+T3	Justice_Release-Parole 1098 1105	release
+E60	Justice_Release-Parole:T3
+A3	Realis E60 Other
+T4	Justice_Release-Parole 1782 1789	release
+E92	Justice_Release-Parole:T4
+A4	Realis E92 Other
+T5	Justice_Release-Parole 1806 1811	freed
+E403	Justice_Release-Parole:T5
+A5	Realis E403 Other
+T6	Justice_Release-Parole 1928 1936	released
+E703	Justice_Release-Parole:T6
+A6	Realis E703 Other
+T7	Contact_Broadcast 199 204	ORDER
+E151	Contact_Broadcast:T7
+A7	Realis E151 Other
+T8	Contact_Broadcast 428 435	ordered
+E317	Contact_Broadcast:T8
+A8	Realis E317 Actual
+T9	Contact_Broadcast 1770 1777	ordered
+E56	Contact_Broadcast:T9
+A9	Realis E56 Actual
+T10	Personnel_End-Position 451 457	former
+E520	Personnel_End-Position:T10
+A10	Realis E520 Actual
+T11	Personnel_End-Position 539 545	ouster
+E221	Personnel_End-Position:T11
+A11	Realis E221 Actual
+T12	Personnel_End-Position 1674 1680	ouster
+E814	Personnel_End-Position:T12
+A12	Realis E814 Actual
+T13	Justice_Arrest-Jail 496 504	detained
+E760	Justice_Arrest-Jail:T13
+A13	Realis E760 Actual
+T14	Justice_Arrest-Jail 700 709	detention
+E720	Justice_Arrest-Jail:T14
+A14	Realis E720 Other
+T15	Justice_Charge-Indict 521 528	charges
+E669	Justice_Charge-Indict:T15
+A15	Realis E669 Actual
+T16	Personnel_End-Position 860 867	deposed
+E379	Personnel_End-Position:T16
+A16	Realis E379 Actual
+T17	Conflict_Attack 967 976	crackdown
+E433	Conflict_Attack:T17
+A17	Realis E433 Actual
+T18	Life_Die 1031 1037	killed
+E269	Life_Die:T18
+A18	Realis E269 Actual
+T19	Life_Die 1294 1300	killed
+E145	Life_Die:T19
+A19	Realis E145 Actual
+T20	Life_Die 1385 1391	killed
+E349	Life_Die:T20
+A20	Realis E349 Actual
+T21	Life_Die 2297 2302	death
+E365	Life_Die:T21
+A21	Realis E365 Actual
+T22	Conflict_Attack 1426 1432	attack
+E375	Conflict_Attack:T22
+A22	Realis E375 Actual
+T23	Conflict_Attack 1974 1980	ambush
+E860	Conflict_Attack:T23
+A23	Realis E860 Actual
+T24	Conflict_Attack 2095 2104	attackers
+E698	Conflict_Attack:T24
+A24	Realis E698 Actual
+T25	Conflict_Attack 2151 2157	firing
+E902	Conflict_Attack:T25
+A25	Realis E902 Other
+T26	Justice_Execute 1294 1300	killed
+E385	Justice_Execute:T26
+A26	Realis E385 Actual
+T27	Justice_Arrest-Jail 1321 1328	custody
+E585	Justice_Arrest-Jail:T27
+A27	Realis E585 Actual
+T28	Justice_Trial-Hearing 1589 1596	retrial
+E262	Justice_Trial-Hearing:T28
+A28	Realis E262 Other
+T29	Justice_Charge-Indict 1600 1607	charges
+E925	Justice_Charge-Indict:T29
+A29	Realis E925 Actual
+T30	Life_Die 1629 1635	murder
+E887	Life_Die:T30
+A30	Realis E887 Actual
+T31	Conflict_Attack 1629 1635	murder
+E462	Conflict_Attack:T31
+A31	Realis E462 Actual
+T32	Conflict_Demonstrate 1639 1649	protesters
+E335	Conflict_Demonstrate:T32
+A32	Realis E335 Actual
+T33	Contact_Broadcast 1753 1757	said
+E917	Contact_Broadcast:T33
+A33	Realis E917 Actual
+T34	Life_Injure 2073 2080	wounded
+E87	Life_Injure:T34
+A34	Realis E87 Actual
+T35	Contact_Meet 2431 2435	meet
+E695	Contact_Meet:T35
+A35	Realis E695 Other
+T36	Contact_Contact 2630 2639	interview
+E255	Contact_Contact:T36
+A36	Realis E255 Actual
+T37	Conflict_Attack 1031 1037	killed
+E692	Conflict_Attack:T37
+A37	Realis E692 Actual
+T38	Contact_Contact 2853 2861	dialogue
+E179	Contact_Contact:T38
+A38	Realis E179 Generic
+R1	Coreference Arg1:E344 Arg2:E139
+R2	Coreference Arg1:E139 Arg2:E60
+R3	Coreference Arg1:E60 Arg2:E92
+R4	Coreference Arg1:E92 Arg2:E403
+R5	Coreference Arg1:E403 Arg2:E703
+R6	Coreference Arg1:E151 Arg2:E317
+R7	Coreference Arg1:E317 Arg2:E56
+R8	Coreference Arg1:E520 Arg2:E221
+R9	Coreference Arg1:E221 Arg2:E814
+R10	Coreference Arg1:E760 Arg2:E720
+R11	Coreference Arg1:E269 Arg2:E145
+R12	Coreference Arg1:E349 Arg2:E365
+R13	Coreference Arg1:E375 Arg2:E860
+R14	Coreference Arg1:E860 Arg2:E698
+R15	Coreference Arg1:E698 Arg2:E902

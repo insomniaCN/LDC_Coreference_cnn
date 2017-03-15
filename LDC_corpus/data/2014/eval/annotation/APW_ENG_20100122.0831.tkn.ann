@@ -1,0 +1,90 @@
+T1	Justice_Sentence 106 116	sentencing
+E1	Justice_Sentence:T1 
+A1	Realis E1 Other
+T2	Justice_Sentence 285 294	sentenced
+E2	Justice_Sentence:T2 
+A2	Realis E2 Other
+T3	Justice_Sentence 443 452	sentenced
+E3	Justice_Sentence:T3 
+A3	Realis E3 Other
+T4	Justice_Arrest-Jail 468 479	time served
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Other
+A5	Questionable E4 Realis
+T5	Justice_Arrest-Jail 676 684	arrested
+E5	Justice_Arrest-Jail:T5 
+A6	Realis E5 Actual
+T6	Justice_Arrest-Jail 705 710;729 731;740 744	spent in jail
+E6	Justice_Arrest-Jail:T6 
+A7	Realis E6 Actual
+T7	Justice_Arrest-Jail 779 785	arrest
+E7	Justice_Arrest-Jail:T7 
+A8	Realis E7 Actual
+T8	Justice_Sentence 939 948	sentenced
+E8	Justice_Sentence:T8 
+A9	Realis E8 Other
+T9	Justice_Appeal 1063 1069	appeal
+E9	Justice_Appeal:T9 
+A10	Realis E9 Other
+T10	Movement_Transport-Person 1107 1111	fled
+E10	Movement_Transport-Person:T10 
+A11	Realis E10 Actual
+T11	Justice_Arrest-Jail 1159 1165	arrest
+E11	Justice_Arrest-Jail:T11 
+A12	Realis E11 Actual
+T12	Justice_Sentence 1320 1329	sentenced
+E12	Justice_Sentence:T12 
+A13	Realis E12 Generic
+T13	Justice_Arrest-Jail 1434 1439;1457 1466	serve in prison
+E13	Justice_Arrest-Jail:T13 
+A14	Realis E13 Other
+T14	Movement_Transport-Person 1546 1555	come back
+E14	Movement_Transport-Person:T14 
+A15	Realis E14 Other
+T15	Justice_Sentence 1560 1570	sentencing
+E15	Justice_Sentence:T15 
+A16	Realis E15 Other
+T16	Justice_Arrest-Jail 1593 1606	time - served
+E16	Justice_Arrest-Jail:T16 
+A17	Realis E16 Generic
+T17	Justice_Sentence 1583 1590;1607 1615	imposes sentence
+E17	Justice_Sentence:T17 
+A18	Realis E17 Other
+T18	Movement_Transport-Person 1676 1685	come back
+E18	Movement_Transport-Person:T18 
+A19	Realis E18 Actual
+T19	Justice_Arrest-Jail 1718 1720;1726 1735	go to prison
+E19	Justice_Arrest-Jail:T19 
+A20	Realis E19 Other
+T20	Justice_Sentence 1863 1872	sentenced
+E20	Justice_Sentence:T20 
+A21	Realis E20 Actual
+T21	Justice_Sentence 1940 1946	served
+E21	Justice_Sentence:T21 
+A22	Realis E21 Actual
+T22	Justice_Sentence 2022 2030	sentence
+E22	Justice_Sentence:T22 
+A23	Questionable E22 Realis
+A24	Realis E22 Actual
+T23	Justice_Sentence 2111 2119	sentence
+E23	Justice_Sentence:T23 
+A25	Realis E23 Actual
+T24	Movement_Transport-Person 2154 2158	fled
+E24	Movement_Transport-Person:T24 
+A26	Realis E24 Actual
+T25	Justice_Sentence 2258 2266	sentence
+E25	Justice_Sentence:T25 
+A27	Questionable E25 Realis
+A28	Realis E25 Actual
+T26	Justice_Trial-Hearing 2305 2312	hearing
+E26	Justice_Trial-Hearing:T26 
+A29	Realis E26 Other
+T27	Movement_Transport-Person 758 769	transferred
+E27	Movement_Transport-Person:T27 
+A30	Realis E27 Actual
+T28	Justice_Trial-Hearing 2135 2142	hearing
+E28	Justice_Trial-Hearing:T28 
+A31	Realis E28 Other
+T29	Contact_Communicate 2279 2284	asked
+E29	Contact_Communicate:T29 
+A32	Realis E29 Actual

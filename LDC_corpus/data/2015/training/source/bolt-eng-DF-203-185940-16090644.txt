@@ -1,0 +1,22 @@
+<doc id="bolt-eng-DF-203-185940-16090644">
+<headline>
+SAHM moving 401K from old job
+</headline>
+<post author="HHD3" datetime="2012-03-15T15:09:00" id="p1">
+I'm a SAHM and my old company has urged me to move my 401k by the end of the month due to their merger. Where to put it and get the least amount of tax consequences? Roll it into my Roth IRA?
+ETA: I realize this is likely MM 101 :)
+</post>
+<post author="6fsn" datetime="2012-03-15T15:19:00" id="p2">
+I did a rollover IRA with the same company that managed the 401k (T Rowe Price). No tax implications.
+</post>
+<post author="volenti" datetime="2012-03-15T15:22:00" id="p3">
+Unless it's a Roth 401k (unlikely), roll it over to a traditional IRA. That will have the least tax consequences.
+</post>
+<post author="KarBear" datetime="2012-03-15T15:27:00" id="p4">
+When I was laid off, I already had a Roth IRA, so I contacted them about it and rolled it over into an IRA with the same company.
+</post>
+<post author="chardonnay..." datetime="2012-03-15T15:56:00" id="p5">
+I rolled mine over into a traditional IRA at the same place I have my Roth (USAA). You can roll it over into a Roth but you will pay taxes on it. The benefit to that is that you will not pay taxes on distributions when you reach retirement. If you roll it over into a traditional IRA, you won't pay taxes now but you will be taxed on distributions in the future.
+The most beneficial option depends on your current tax rate. If you are in a lower tax bracket now and expect that you will be in a higher tax bracket at retirement age, it would be best to pay taxes now on the rollover so that you will not be taxed on your distributions in the future, and the opposite is true if you are in a higher tax bracket now and expect to be in a lower one in the future.
+</post>
+</doc>

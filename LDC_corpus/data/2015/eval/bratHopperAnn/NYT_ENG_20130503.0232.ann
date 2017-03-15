@@ -1,0 +1,69 @@
+T1	Justice_Appeal 545 551	appeal
+E160	Justice_Appeal:T1
+A1	Realis E160 Actual
+T2	Justice_Appeal 3286 3292	appeal
+E360	Justice_Appeal:T2
+A2	Realis E360 Actual
+T3	Justice_Trial-Hearing 3499 3503	hear
+E319	Justice_Trial-Hearing:T3
+A3	Realis E319 Actual
+T4	Transaction_Transfer-Ownership 942 950	acquired
+E101	Transaction_Transfer-Ownership:T4
+A4	Realis E101 Actual
+T5	Business_Declare-Bankruptcy 979 989	bankruptcy
+E277	Business_Declare-Bankruptcy:T5
+A5	Realis E277 Actual
+T6	Contact_Broadcast 2273 2278	wrote
+E829	Contact_Broadcast:T6
+A6	Realis E829 Actual
+T7	Justice_Appeal 2745 2751	appeal
+E866	Justice_Appeal:T7
+A7	Realis E866 Actual
+T8	Justice_Sue 3124 3133	defending
+E405	Justice_Sue:T8
+A8	Realis E405 Other
+T9	Contact_Broadcast 3216 3220	said
+E122	Contact_Broadcast:T9
+A9	Realis E122 Actual
+T10	Contact_Correspondence 3559 3562	ask
+E611	Contact_Correspondence:T10
+A10	Realis E611 Other
+T11	Contact_Broadcast 4019 4023	said
+E381	Contact_Broadcast:T11
+A11	Realis E381 Actual
+T12	Contact_Contact 4212 4216	said
+E35	Contact_Contact:T12
+A12	Realis E35 Actual
+T13	Transaction_Transfer-Money 867 872	lease
+E478	Transaction_Transfer-Money:T13
+A13	Realis E478 Actual
+T14	Justice_Sue 632 639	lawsuit
+E166	Justice_Sue:T14
+A14	Realis E166 Actual
+T15	Justice_Appeal 3476 3483	Appeals
+E104	Justice_Appeal:T15
+A15	Realis E104 Generic
+T16	Justice_Appeal 4536 4545	appellate
+E354	Justice_Appeal:T16
+A16	Realis E354 Generic
+T17	Justice_Appeal 2279 2288	Appellate
+E791	Justice_Appeal:T17
+A17	Realis E791 Generic
+T18	Justice_Appeal 2353 2360	appeals
+E545	Justice_Appeal:T18
+A18	Realis E545 Generic
+T19	Justice_Appeal 472 481	Appellate
+E984	Justice_Appeal:T19
+A19	Realis E984 Generic
+T20	Justice_Appeal 334 343	appellate
+E429	Justice_Appeal:T20
+A20	Realis E429 Generic
+T21	Contact_Contact 5187 5191	said
+E526	Contact_Contact:T21
+A21	Realis E526 Actual
+R1	Coreference Arg1:E160 Arg2:E360
+R2	Coreference Arg1:E429 Arg2:E984
+R3	Coreference Arg1:E984 Arg2:E791
+R4	Coreference Arg1:E791 Arg2:E545
+R5	Coreference Arg1:E545 Arg2:E104
+R6	Coreference Arg1:E104 Arg2:E354

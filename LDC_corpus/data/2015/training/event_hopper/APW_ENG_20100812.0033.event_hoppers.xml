@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000554" doc_id="APW_ENG_20100812.0033" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="64" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="211" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-137" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="467" length="6">guilty</trigger>
+      </event_mention>
+      <event_mention id="em-191" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="778" length="6">guilty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-322" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100812.0033" offset="1366" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="306" length="5">reach</trigger>
+      </event_mention>
+      <event_mention id="em-309" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="655" length="7">smuggle</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="389" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-94" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="389" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="448" length="7">charges</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="632" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-163">
+      <event_mention id="em-150" type="justice" subtype="sentence" realis="other">
+        <trigger source="APW_ENG_20100812.0033" offset="555" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-217">
+      <event_mention id="em-204" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20100812.0033" offset="949" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-232">
+      <event_mention id="em-219" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="APW_ENG_20100812.0033" offset="973" length="4">ship</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-247">
+      <event_mention id="em-234" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="1170" length="10">is serving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-262">
+      <event_mention id="em-249" type="justice" subtype="extradite" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="1230" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-277">
+      <event_mention id="em-264" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="1230" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-292">
+      <event_mention id="em-279" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="1286" length="9">smuggling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-307">
+      <event_mention id="em-294" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20100812.0033" offset="1064" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-348">
+      <event_mention id="em-335" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20100812.0033" offset="1400" length="4">fled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-363">
+      <event_mention id="em-350" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20100812.0033" offset="1427" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

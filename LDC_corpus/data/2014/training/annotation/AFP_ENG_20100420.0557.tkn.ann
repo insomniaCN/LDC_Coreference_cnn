@@ -1,0 +1,12 @@
+T1	Life_Die 215 219	dies
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 390 394	died
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T4	Personnel_Start-Position 818 825	joining
+E4	Personnel_Start-Position:T4 
+A4	Realis E4 Actual
+T6	Conflict_Attack 1000 1004	wars
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976400000000000000036" doc_id="APW_ENG_20091028.0874" source_type="newswire">
+<event_mention id="em-50" type="justice" subtype="sue" realis="other">
+        <trigger source="APW_ENG_20091028.0874" offset="401" length="3">sue</trigger>
+      </event_mention>
+<event_mention id="em-63" type="justice" subtype="sue" realis="other">
+        <trigger source="APW_ENG_20091028.0874" offset="286" length="3">sue</trigger>
+      </event_mention>
+<event_mention id="em-76" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="343" length="4">pays</trigger>
+      </event_mention>
+<event_mention id="em-89" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="96" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-102" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="408" length="7">collect</trigger>
+      </event_mention>
+<event_mention id="em-115" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="1025" length="5">given</trigger>
+      </event_mention>
+<event_mention id="em-128" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="1108" length="3">get</trigger>
+      </event_mention>
+<event_mention id="em-141" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="APW_ENG_20091028.0874" offset="220" length="9">defrauded</trigger>
+      </event_mention>
+<event_mention id="em-154" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20091028.0874" offset="454" length="5">wrote</trigger>
+      </event_mention>
+<event_mention id="em-167" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20091028.0874" offset="502" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-180" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="556" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-193" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="APW_ENG_20091028.0874" offset="612" length="7">telling</trigger>
+      </event_mention>
+<event_mention id="em-206" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="669" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-219" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="705" length="7">cashing</trigger>
+      </event_mention>
+<event_mention id="em-232" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="803" length="11">transferred</trigger>
+      </event_mention>
+<event_mention id="em-245" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="APW_ENG_20091028.0874" offset="857" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-258" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="870" length="8">claiming</trigger>
+      </event_mention>
+<event_mention id="em-271" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20091028.0874" offset="1170" length="4">meet</trigger>
+      </event_mention>
+<event_mention id="em-284" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="1365" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-297" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="944" length="9">recovered</trigger>
+      </event_mention>
+<event_mention id="em-310" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20091028.0874" offset="206" length="6">claims</trigger>
+      </event_mention>
+<event_mention id="em-323" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20091028.0874" offset="1001" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-336" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20091028.0874" offset="1124" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-349" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20091028.0874" offset="1153" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-362" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20091028.0874" offset="1262" length="7">comment</trigger>
+      </event_mention>
+<event_mention id="em-375" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="556" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-388" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="1365" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-401" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20091028.0874" offset="669" length="6">bought</trigger>
+      </event_mention>
+<event_mention id="em-416" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20091028.0874" offset="734" length="11">disappeared</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

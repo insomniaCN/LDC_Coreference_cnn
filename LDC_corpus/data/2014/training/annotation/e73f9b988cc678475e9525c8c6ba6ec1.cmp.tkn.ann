@@ -1,0 +1,30 @@
+T1	Justice_Fine 917 922	fined
+E1	Justice_Fine:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 1541 1547	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 2692 2699	married
+E3	Life_Marry:T3 
+A3	Realis E3 Actual
+T4	Life_Divorce 2825 2833	divorced
+E4	Life_Divorce:T4 
+A4	Realis E4 Actual
+T5	Life_Marry 2889 2896	married
+E5	Life_Marry:T5 
+A5	Realis E5 Actual
+T6	Life_Marry 3099 3106	married
+E6	Life_Marry:T6 
+A6	Realis E6 Actual
+T7	Justice_Fine 4855 4860	fined
+E7	Justice_Fine:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 1021 1025;1030 1033	left job
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 4959 4963;4968 4971	left job
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Personnel_End-Position 3347 3353	Former
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual

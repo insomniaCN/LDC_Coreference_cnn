@@ -1,0 +1,57 @@
+T1	Transaction_Transfer-Ownership 71 79	TAKEOVER
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Other
+T2	Business_Declare-Bankruptcy 313 321	bankrupt
+E2	Business_Declare-Bankruptcy:T2 
+A2	Realis E2 Actual
+T3	Business_Merge-Org 642 649	Merging
+E3	Business_Merge-Org:T3 
+A3	Realis E3 Other
+T4	Contact_Communicate 805 811	letter
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 890 894	said
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Business_Declare-Bankruptcy 957 967	bankruptcy
+E6	Business_Declare-Bankruptcy:T6 
+A6	Realis E6 Actual
+T7	Business_Declare-Bankruptcy 1267 1277	Chapter 11
+E7	Business_Declare-Bankruptcy:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 1343 1347	said
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Business_Merge-Org 1365 1371	merger
+E9	Business_Merge-Org:T9 
+A9	Realis E9 Other
+T10	Business_Declare-Bankruptcy 1457 1467	Chapter 11
+E10	Business_Declare-Bankruptcy:T10 
+A10	Realis E10 Actual
+T11	Business_Start-Org 1475 1480	Begun
+E11	Business_Start-Org:T11 
+A11	Realis E11 Actual
+T12	Business_Declare-Bankruptcy 1671 1682	run aground
+E12	Business_Declare-Bankruptcy:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 1715 1724	acquiring
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Ownership 1965 1977	acquisitions
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T15	Business_Declare-Bankruptcy 2293 2303	bankruptcy
+E15	Business_Declare-Bankruptcy:T15 
+A15	Realis E15 Actual
+T16	Business_Declare-Bankruptcy 2523 2533	Chapter 11
+E16	Business_Declare-Bankruptcy:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 2537 2543	paying
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Money 2698 2701	pay
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Ownership 2745 2755	distribute
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Other

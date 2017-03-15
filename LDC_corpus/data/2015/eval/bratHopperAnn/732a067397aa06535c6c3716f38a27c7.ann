@@ -1,0 +1,58 @@
+T1	Contact_Meet 247 253	dating
+E945	Contact_Meet:T1
+A1	Realis E945 Generic
+T2	Contact_Contact 453 457	said
+E856	Contact_Contact:T2
+A2	Realis E856 Actual
+T3	Contact_Meet 519 522	met
+E18	Contact_Meet:T3
+A3	Realis E18 Actual
+T4	Life_Divorce 560 568	divorced
+E553	Life_Divorce:T4
+A4	Realis E553 Actual
+T5	Contact_Contact 687 691	came
+E863	Contact_Contact:T5
+A5	Realis E863 Actual
+T6	Personnel_Start-Position 743 746	job
+E640	Personnel_Start-Position:T6
+A6	Realis E640 Actual
+T7	Transaction_Transfer-Money 765 769	rent
+E836	Transaction_Transfer-Money:T7
+A7	Realis E836 Generic
+T8	Contact_Meet 841 845	date
+E273	Contact_Meet:T8
+A8	Realis E273 Actual
+T9	Contact_Meet 1440 1444	date
+E472	Contact_Meet:T9
+A9	Realis E472 Actual
+T10	Contact_Meet 1456 1463	meeting
+E907	Contact_Meet:T10
+A10	Realis E907 Other
+T11	Contact_Contact 2104 2107	say
+E297	Contact_Contact:T11
+A11	Realis E297 Generic
+T12	Life_Marry 2721 2729	marriage
+E557	Life_Marry:T12
+A12	Realis E557 Other
+T13	Contact_Meet 2639 2643	date
+E715	Contact_Meet:T13
+A13	Realis E715 Other
+T14	Contact_Meet 3175 3182	meeting
+E99	Contact_Meet:T14
+A14	Realis E99 Generic
+T15	Contact_Meet 3486 3489	met
+E613	Contact_Meet:T15
+A15	Realis E613 Actual
+T16	Movement_Transport-Person 3542 3546	went
+E321	Movement_Transport-Person:T16
+A16	Realis E321 Actual
+T17	Life_Marry 3766 3773	hitched
+E370	Life_Marry:T17
+A17	Realis E370 Actual
+T18	Contact_Correspondence 3849 3855	asking
+E323	Contact_Correspondence:T18
+A18	Realis E323 Actual
+T19	Contact_Contact 2700 2707	talking
+E436	Contact_Contact:T19
+A19	Realis E436 Generic
+R1	Coreference Arg1:E273 Arg2:E472

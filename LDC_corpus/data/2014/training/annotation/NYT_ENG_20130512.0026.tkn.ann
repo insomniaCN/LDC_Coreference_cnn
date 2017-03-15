@@ -1,0 +1,57 @@
+T1	Movement_Transport-Person 404 409	enter
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Generic
+T2	Movement_Transport-Person 620 629	traveling
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Generic
+T3	Movement_Transport-Person 1245 1253	entering
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Generic
+T4	Movement_Transport-Person 1929 1937	entering
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Generic
+T5	Movement_Transport-Person 1941 1948	exiting
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Generic
+T6	Movement_Transport-Person 2070 2075	enter
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Other
+T7	Movement_Transport-Person 2451 2456	entry
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Generic
+T8	Movement_Transport-Person 3363 3368	enter
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Generic
+T9	Movement_Transport-Person 4026 4030	went
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 4078 4083	visit
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Justice_Arrest-Jail 4253 4259	jailed
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 4278 4281;4286 4288;4291 4296	put on plane
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 4372 4382	telephoned
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Contact_Communicate 4429 4433;4438 4442	took call
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 4443 4448	asked
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 4500 4504	said
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 4519 4526	replied
+E17	Contact_Communicate:T17 
+A17	Realis E17 Actual
+T18	Movement_Transport-Person 927 932	admit
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other
+T19	Movement_Transport-Person 2734 2738	into
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Generic

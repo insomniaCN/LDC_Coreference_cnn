@@ -1,0 +1,243 @@
+T1	Conflict_Attack 545 556	Strikes Hit
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 602 613	Strikes Hit
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 850 869	launched airstrikes
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 910 916	attack
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 983 989	struck
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 1108 1116	jets hit
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 1139 1146	bombing
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 1225 1234	airstrike
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 1439 1443	raid
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 1513 1520	sending
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 1776 1784	fighting
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 1843 1848;1861 1869	fired missiles
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 2028 2037	shipments
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Generic
+T14	Transaction_Transfer-Ownership 2279 2287	supplied
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Ownership 2407 2416	unloading
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Ownership 2494 2501	selling
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Other
+T17	Conflict_Attack 2614 2620	strike
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 2944 2961	dropped munitions
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 3601 3604	war
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 3894 3897	war
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 4522 4532	air strike
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 4763 4769	attack
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 5221 5227	attack
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 5267 5273	attack
+E24	Conflict_Attack:T24 
+A24	Realis E24 Other
+T25	Conflict_Attack 5331 5337	strike
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 5621 5631	air strike
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 5880 5890	air strike
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 6741 6747	strike
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Conflict_Attack 8069 8072	War
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Personnel_Elect 9097 9105	election
+E30	Personnel_Elect:T30 
+A30	Realis E30 Generic
+T31	Conflict_Attack 9994 10000	strike
+E31	Conflict_Attack:T31 
+A31	Realis E31 Actual
+T32	Conflict_Attack 10045 10051	strike
+E32	Conflict_Attack:T32 
+A32	Realis E32 Actual
+T33	Conflict_Attack 10180 10186	bombed
+E33	Conflict_Attack:T33 
+A33	Realis E33 Actual
+T34	Transaction_Transfer-Ownership 10277 10286	supplying
+E34	Transaction_Transfer-Ownership:T34 
+A34	Realis E34 Other
+T35	Conflict_Attack 10460 10466	attack
+E35	Conflict_Attack:T35 
+A35	Realis E35 Actual
+T36	Transaction_Transfer-Ownership 10546 10553	acquire
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Other
+T37	Conflict_Attack 10832 10836	raid
+E37	Conflict_Attack:T37 
+A37	Realis E37 Actual
+T38	Conflict_Attack 11198 11205	bombers
+E38	Conflict_Attack:T38 
+A38	Realis E38 Actual
+T39	Conflict_Attack 11363 11369	attack
+E39	Conflict_Attack:T39 
+A39	Realis E39 Actual
+T40	Conflict_Attack 11709 11720	air strikes
+E40	Conflict_Attack:T40 
+A40	Realis E40 Actual
+T41	Conflict_Attack 11833 11837	raid
+E41	Conflict_Attack:T41 
+A41	Realis E41 Actual
+T42	Transaction_Transfer-Ownership 12093 12102	receiving
+E42	Transaction_Transfer-Ownership:T42 
+A42	Realis E42 Other
+T43	Conflict_Attack 12722 12732	air strike
+E43	Conflict_Attack:T43 
+A43	Realis E43 Actual
+T44	Conflict_Attack 13143 13154	opened fire
+E44	Conflict_Attack:T44 
+A44	Realis E44 Actual
+T45	Conflict_Attack 13216 13222	bombed
+E45	Conflict_Attack:T45 
+A45	Realis E45 Actual
+T46	Conflict_Attack 13358 13361	war
+E46	Conflict_Attack:T46 
+A46	Realis E46 Other
+T47	Conflict_Attack 14635 14638	war
+E47	Conflict_Attack:T47 
+A47	Realis E47 Other
+T48	Conflict_Attack 14984 14994	air strike
+E48	Conflict_Attack:T48 
+A48	Realis E48 Actual
+T49	Conflict_Attack 15625 15633	air raid
+E49	Conflict_Attack:T49 
+A49	Realis E49 Actual
+T50	Conflict_Attack 15669 15675	attack
+E50	Conflict_Attack:T50 
+A50	Realis E50 Actual
+T51	Conflict_Attack 15892 15898	attack
+E51	Conflict_Attack:T51 
+A51	Realis E51 Actual
+T52	Life_Die 15906 15919	assassination
+E52	Life_Die:T52 
+A52	Realis E52 Generic
+T53	Conflict_Attack 16410 16420	air strike
+E53	Conflict_Attack:T53 
+A53	Realis E53 Actual
+T54	Conflict_Attack 16739 16742	war
+E54	Conflict_Attack:T54 
+A54	Realis E54 Actual
+T55	Conflict_Attack 17475 17479	raid
+E55	Conflict_Attack:T55 
+A55	Realis E55 Actual
+T56	Transaction_Transfer-Ownership 17769 17778	receiving
+E56	Transaction_Transfer-Ownership:T56 
+A56	Realis E56 Other
+T57	Transaction_Transfer-Ownership 17912 17920	transfer
+E57	Transaction_Transfer-Ownership:T57 
+A57	Realis E57 Other
+T58	Transaction_Transfer-Ownership 18161 18169	shipping
+E58	Transaction_Transfer-Ownership:T58 
+A58	Realis E58 Other
+T59	Conflict_Attack 18585 18591	strike
+E59	Conflict_Attack:T59 
+A59	Realis E59 Generic
+T60	Conflict_Attack 18750 18756	bombed
+E60	Conflict_Attack:T60 
+A60	Realis E60 Other
+T61	Conflict_Attack 19228 19235	hitting
+E61	Conflict_Attack:T61 
+A61	Realis E61 Other
+T62	Conflict_Attack 19389 19395	strike
+E62	Conflict_Attack:T62 
+A62	Realis E62 Other
+T63	Conflict_Attack 19652 19658	strike
+E63	Conflict_Attack:T63 
+A63	Realis E63 Actual
+T64	Conflict_Attack 19751 19757	bombed
+E64	Conflict_Attack:T64 
+A64	Realis E64 Actual
+T65	Transaction_Transfer-Ownership 19848 19857	supplying
+E65	Transaction_Transfer-Ownership:T65 
+A65	Realis E65 Other
+T66	Conflict_Demonstrate 1176 1183	protest
+E66	Conflict_Demonstrate:T66 
+A66	Realis E66 Actual
+T67	Transaction_Transfer-Ownership 1706 1718	runs through
+E67	Transaction_Transfer-Ownership:T67 
+A67	Realis E67 Actual
+T68	Contact_Communicate 2805 2822	letter circulated
+E68	Contact_Communicate:T68 
+A68	Realis E68 Actual
+T69	Conflict_Demonstrate 3031 3038	protest
+E69	Conflict_Demonstrate:T69 
+A69	Realis E69 Actual
+T70	Conflict_Attack 3302 3312	airstrikes
+E70	Conflict_Attack:T70 
+A70	Realis E70 Actual
+T71	Contact_Communicate 3981 3986	talks
+E71	Contact_Communicate:T71 
+A71	Realis E71 Actual
+T72	Personnel_End-Position 5927 5933	former
+E72	Personnel_End-Position:T72 
+A72	Realis E72 Actual
+T73	Contact_Communicate 7932 7937	talks
+E73	Contact_Communicate:T73 
+A73	Realis E73 Other
+T74	Conflict_Attack 8817 8824	attacks
+E74	Conflict_Attack:T74 
+A74	Realis E74 Actual
+T75	Conflict_Attack 13736 13742	attack
+E75	Conflict_Attack:T75 
+A75	Realis E75 Actual
+T76	Justice_Arrest-Jail 14180 14189	jail time
+E76	Justice_Arrest-Jail:T76 
+A76	Realis E76 Other
+T77	Transaction_Transfer-Ownership 15844 15852	transfer
+E77	Transaction_Transfer-Ownership:T77 
+A77	Realis E77 Actual
+T78	Personnel_End-Position 16207 16213	former
+E78	Personnel_End-Position:T78 
+A78	Realis E78 Actual
+T79	Contact_Communicate 16464 16468	told
+E79	Contact_Communicate:T79 
+A79	Realis E79 Actual
+T80	Personnel_End-Position 17060 17066	former
+E80	Personnel_End-Position:T80 
+A80	Realis E80 Actual
+T81	Contact_Communicate 17983 17988	talks
+E81	Contact_Communicate:T81 
+A81	Realis E81 Actual

@@ -1,0 +1,30 @@
+T1	Transaction_Transfer-Money 985 990	grant
+E28	Transaction_Transfer-Money:T1
+A1	Realis E28 Other
+T2	Transaction_Transfer-Money 590 601	reimbursing
+E32	Transaction_Transfer-Money:T2
+A2	Realis E32 Other
+T3	Justice_Sue 1577 1586	complaint
+E85	Justice_Sue:T3
+A3	Realis E85 Actual
+T4	Justice_Sue 1311 1320	complaint
+E315	Justice_Sue:T4
+A4	Realis E315 Actual
+T5	Contact_Broadcast 1211 1220	announced
+E363	Contact_Broadcast:T5
+A5	Realis E363 Actual
+T6	Transaction_Transfer-Money 1535 1542	funding
+E441	Transaction_Transfer-Money:T6
+A6	Realis E441 Other
+T7	Transaction_Transfer-Money 1612 1624	contribution
+E472	Transaction_Transfer-Money:T7
+A7	Realis E472 Other
+T8	Personnel_End-Position 1333 1339	former
+E485	Personnel_End-Position:T8
+A8	Realis E485 Actual
+T9	Justice_Sue 509 513	suit
+E729	Justice_Sue:T9
+A9	Realis E729 Actual
+T10	Justice_Sue 228 235	lawsuit
+E766	Justice_Sue:T10
+A10	Realis E766 Actual

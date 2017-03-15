@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab80000000000000198" doc_id="9db8cc63191822da03c24870dd9b1b17" source_type="multi_post">
+  <event_mention id="em-28" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1233" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-29" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1014" length="8">released</trigger>
+  </event_mention>
+  <event_mention id="em-54" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1485" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-55" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2331" length="8">requests</trigger>
+  </event_mention>
+  <event_mention id="em-73" type="movement" subtype="transportperson" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1495" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-79" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="594" length="8">requests</trigger>
+  </event_mention>
+  <event_mention id="em-126" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1137" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-131" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1317" length="7">insists</trigger>
+  </event_mention>
+  <event_mention id="em-143" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1074" length="7">request</trigger>
+  </event_mention>
+  <event_mention id="em-170" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="407" length="8">captured</trigger>
+  </event_mention>
+  <event_mention id="em-188" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1549" length="6">Former</trigger>
+  </event_mention>
+  <event_mention id="em-198" type="justice" subtype="extradite" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="718" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-230" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="704" length="9">requested</trigger>
+  </event_mention>
+  <event_mention id="em-303" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2100" length="5">deals</trigger>
+  </event_mention>
+  <event_mention id="em-306" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2018" length="9">travelled</trigger>
+  </event_mention>
+  <event_mention id="em-308" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="983" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-320" type="justice" subtype="extradite" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="635" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-340" type="justice" subtype="extradite" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2372" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-417" type="justice" subtype="extradite" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1495" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-516" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2146" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-564" type="movement" subtype="transportperson" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1062" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-579" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1403" length="7">request</trigger>
+  </event_mention>
+  <event_mention id="em-594" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1970" length="7">arrived</trigger>
+  </event_mention>
+  <event_mention id="em-660" type="movement" subtype="transportperson" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="635" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-684" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1089" length="7">entered</trigger>
+  </event_mention>
+  <event_mention id="em-686" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1387" length="8">notified</trigger>
+  </event_mention>
+  <event_mention id="em-725" type="movement" subtype="transportperson" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="718" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-779" type="justice" subtype="extradite" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1062" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-804" type="movement" subtype="transportperson" realis="other">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2372" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-805" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="777" length="8">detained</trigger>
+  </event_mention>
+  <event_mention id="em-826" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2223" length="8">provided</trigger>
+  </event_mention>
+  <event_mention id="em-830" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1732" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-893" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1205" length="10">travelling</trigger>
+  </event_mention>
+  <event_mention id="em-915" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="2160" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-943" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1893" length="5">moved</trigger>
+  </event_mention>
+  <event_mention id="em-947" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="9db8cc63191822da03c24870dd9b1b17" offset="1831" length="4">said</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,51 @@
+T1	Contact_Broadcast 964 973	statement
+E15	Contact_Broadcast:T1
+A1	Realis E15 Actual
+T2	Conflict_Attack 287 293	attack
+E63	Conflict_Attack:T2
+A2	Realis E63 Actual
+T3	Conflict_Demonstrate 813 818	rally
+E114	Conflict_Demonstrate:T3
+A3	Realis E114 Actual
+T4	Justice_Arrest-Jail 363 371	detained
+E138	Justice_Arrest-Jail:T4
+A4	Realis E138 Actual
+T5	Conflict_Attack 450 458	attacked
+E146	Conflict_Attack:T5
+A5	Realis E146 Actual
+T6	Movement_Transport-Person 895 905	approached
+E169	Movement_Transport-Person:T6
+A6	Realis E169 Actual
+T7	Justice_Appeal 611 617	appeal
+E222	Justice_Appeal:T7
+A7	Realis E222 Actual
+T8	Justice_Arrest-Jail 263 269	detain
+E254	Justice_Arrest-Jail:T8
+A8	Realis E254 Actual
+T9	Contact_Broadcast 870 878	chanting
+E266	Contact_Broadcast:T9
+A9	Realis E266 Actual
+T10	Justice_Charge-Indict 1016 1023	charged
+E388	Justice_Charge-Indict:T10
+A10	Realis E388 Actual
+T11	Conflict_Attack 506 514	smashing
+E514	Conflict_Attack:T11
+A11	Realis E514 Actual
+T12	Movement_Transport-Person 824 831	marched
+E573	Movement_Transport-Person:T12
+A12	Realis E573 Actual
+T13	Conflict_Demonstrate 858 868	protesters
+E588	Conflict_Demonstrate:T13
+A13	Realis E588 Actual
+T14	Transaction_Transfer-Ownership 640 646	return
+E697	Transaction_Transfer-Ownership:T14
+A14	Realis E697 Other
+T15	Contact_Meet 563 571	gathered
+E711	Contact_Meet:T15
+A15	Realis E711 Actual
+T16	Contact_Contact 1002 1006	said
+E836	Contact_Contact:T16
+A16	Realis E836 Actual
+T17	Transaction_Transfer-Ownership 700 710	taken over
+E856	Transaction_Transfer-Ownership:T17
+A17	Realis E856 Actual

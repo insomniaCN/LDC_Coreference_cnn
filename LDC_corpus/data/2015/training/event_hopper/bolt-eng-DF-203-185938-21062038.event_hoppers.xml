@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000622" doc_id="bolt-eng-DF-203-185938-21062038" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="79" length="4">meet</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="284" length="3">met</trigger>
+      </event_mention>
+      <event_mention id="em-135" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="1753" length="4">meet</trigger>
+      </event_mention>
+      <event_mention id="em-161" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="1974" length="4">meet</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="108" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="316" length="7">WEDDING</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="403" length="7">married</trigger>
+      </event_mention>
+      <event_mention id="em-92" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="454" length="7">wedding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="330" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-118">
+      <event_mention id="em-105" type="life" subtype="divorce" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="888" length="5">split</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-120" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="1333" length="9">marriages</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-187">
+      <event_mention id="em-189" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="3042" length="9">broadcast</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-215">
+      <event_mention id="em-202" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="3868" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-230">
+      <event_mention id="em-217" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-21062038" offset="3894" length="7">visited</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

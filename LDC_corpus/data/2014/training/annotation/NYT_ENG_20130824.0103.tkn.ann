@@ -1,0 +1,77 @@
+T1	Justice_Trial-Hearing 490 495	trial
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 593 599	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 826 830	fled
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 986 994	poisoned
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Die 1097 1103	murder
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 1133 1140;1160 1168	serving sentence
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T8	Justice_Trial-Hearing 1357 1362	trial
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Actual
+T9	Life_Die 1740 1746	killed
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 1798 1802	fled
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 1986 1994	poisoned
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Life_Die 2129 2137	murdered
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Justice_Charge-Indict 2167 2174	charged
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Actual
+T14	Justice_Charge-Indict 2311 2318	charged
+E14	Justice_Charge-Indict:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 2324 2337	taking bribes
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Money 2342 2352	embezzling
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Actual
+T17	Justice_Trial-Hearing 2451 2456	trial
+E17	Justice_Trial-Hearing:T17 
+A17	Realis E17 Actual
+T18	Justice_Charge-Indict 2562 2569	charges
+E18	Justice_Charge-Indict:T18 
+A18	Realis E18 Actual
+T19	Life_Die 2653 2659	murder
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Justice_Convict 2691 2700	convicted
+E20	Justice_Convict:T20 
+A20	Realis E20 Actual
+T21	Justice_Execute 2744 2758	death sentence
+E21	Justice_Execute:T21 
+A21	Realis E21 Actual
+T22	Justice_Trial-Hearing 263 268	TRIAL
+E22	Justice_Trial-Hearing:T22 
+A22	Realis E22 Actual
+T23	Movement_Transport-Person 619 625	flight
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T7	Movement_Transport-Person 1448 1454	flight
+E7	Movement_Transport-Person:T7 
+T24	Contact_Communicate 1933 1942	confessed
+E24	Contact_Communicate:T24 
+A7	Realis E24 Actual
+T25	Contact_Communicate 2103 2107	told
+E25	Contact_Communicate:T25 
+A24	Realis E25 Actual
+T26	Personnel_End-Position 2592 2601	dismissed
+E26	Personnel_End-Position:T26 
+A25	Realis E26 Actual

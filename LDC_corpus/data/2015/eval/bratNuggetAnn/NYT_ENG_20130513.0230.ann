@@ -1,0 +1,138 @@
+T1	Contact_Contact 2495 2503	admitted
+E7	Contact_Contact:T1
+A1	Realis E7 Actual
+T2	Justice_Charge-Indict 2339 2346	charged
+E12	Justice_Charge-Indict:T2
+A2	Realis E12 Actual
+T3	Justice_Appeal 1551 1557	appeal
+E26	Justice_Appeal:T3
+A3	Realis E26 Actual
+T4	Transaction_Transfer-Ownership 984 991	trading
+E37	Transaction_Transfer-Ownership:T4
+A4	Realis E37 Actual
+T5	Personnel_End-Position 172 174	EX
+E56	Personnel_End-Position:T5
+A5	Realis E56 Actual
+T6	Justice_Convict 952 958	guilty
+E59	Justice_Convict:T6
+A6	Realis E59 Actual
+T7	Justice_Arrest-Jail 1276 1283	Prisons
+E60	Justice_Arrest-Jail:T7
+A7	Realis E60 Generic
+T8	Justice_Convict 1969 1978	convicted
+E83	Justice_Convict:T8
+A8	Realis E83 Actual
+T9	Transaction_Transfer-Money 1148 1151	pay
+E85	Transaction_Transfer-Money:T9
+A9	Realis E85 Other
+T10	Personnel_End-Position 1622 1628	former
+E106	Personnel_End-Position:T10
+A10	Realis E106 Actual
+T11	Justice_Convict 1427 1437	conviction
+E158	Justice_Convict:T11
+A11	Realis E158 Actual
+T12	Transaction_Transfer-Money 1192 1200	obtained
+E172	Transaction_Transfer-Money:T12
+A12	Realis E172 Actual
+T13	Justice_Fine 1165 1169	fine
+E174	Justice_Fine:T13
+A13	Realis E174 Actual
+T14	Business_Start-Org 869 876	founder
+E177	Business_Start-Org:T14
+A14	Realis E177 Actual
+T15	Contact_Broadcast 504 508	said
+E226	Contact_Broadcast:T15
+A15	Realis E226 Actual
+T16	Justice_Trial-Hearing 1955 1960	trial
+E259	Justice_Trial-Hearing:T16
+A16	Realis E259 Actual
+T17	Transaction_Transfer-Ownership 828 835	trading
+E261	Transaction_Transfer-Ownership:T17
+A17	Realis E261 Generic
+T18	Contact_Broadcast 616 620	said
+E285	Contact_Broadcast:T18
+A18	Realis E285 Actual
+T19	Justice_Sentence 847 856	sentenced
+E297	Justice_Sentence:T19
+A19	Realis E297 Actual
+T20	Transaction_Transfer-Money 447 450	tax
+E304	Transaction_Transfer-Money:T20
+A20	Realis E304 Generic
+T21	Transaction_Transfer-Ownership 1830 1837	trading
+E347	Transaction_Transfer-Ownership:T21
+A21	Realis E347 Actual
+T22	Transaction_Transfer-Money 426 432	income
+E372	Transaction_Transfer-Money:T22
+A22	Realis E372 Generic
+T23	Justice_Charge-Indict 2587 2595	indicted
+E391	Justice_Charge-Indict:T23
+A23	Realis E391 Actual
+T24	Justice_Trial-Hearing 2131 2143	prosecutions
+E470	Justice_Trial-Hearing:T24
+A24	Realis E470 Generic
+T25	Personnel_End-Position 288 294	former
+E488	Personnel_End-Position:T25
+A25	Realis E488 Actual
+T26	Justice_Trial-Hearing 2650 2655	trial
+E515	Justice_Trial-Hearing:T26
+A26	Realis E515 Other
+T27	Transaction_Transfer-Money 1819 1826	profits
+E544	Transaction_Transfer-Money:T27
+A27	Realis E544 Actual
+T28	Justice_Charge-Indict 2616 2623	charges
+E561	Justice_Charge-Indict:T28
+A28	Realis E561 Actual
+T29	Justice_Sentence 270 280	sentencing
+E568	Justice_Sentence:T29
+A29	Realis E568 Actual
+T30	Justice_Appeal 1413 1422	appealing
+E596	Justice_Appeal:T30
+A30	Realis E596 Actual
+T31	Justice_Arrest-Jail 922 928	prison
+E642	Justice_Arrest-Jail:T31
+A31	Realis E642 Other
+T32	Justice_Trial-Hearing 1581 1586	tried
+E652	Justice_Trial-Hearing:T32
+A32	Realis E652 Actual
+T33	Transaction_Transfer-Ownership 2123 2130	trading
+E673	Transaction_Transfer-Ownership:T33
+A33	Realis E673 Generic
+T34	Justice_Sentence 742 751	sentences
+E680	Justice_Sentence:T34
+A34	Realis E680 Actual
+T35	Transaction_Transfer-Ownership 2406 2413	trading
+E685	Transaction_Transfer-Ownership:T35
+A35	Realis E685 Actual
+T36	Personnel_End-Position 2454 2460	former
+E692	Personnel_End-Position:T36
+A36	Realis E692 Actual
+T37	Justice_Charge-Indict 1697 1704	accused
+E740	Justice_Charge-Indict:T37
+A37	Realis E740 Actual
+T38	Transaction_Transfer-Ownership 652 659	trading
+E770	Transaction_Transfer-Ownership:T38
+A38	Realis E770 Actual
+T39	Justice_Sentence 2029 2038	sentenced
+E843	Justice_Sentence:T39
+A39	Realis E843 Actual
+T40	Contact_Contact 1244 1250	report
+E873	Contact_Contact:T40
+A40	Realis E873 Actual
+T41	Contact_Broadcast 1114 1121	address
+E884	Contact_Broadcast:T41
+A41	Realis E884 Other
+T42	Contact_Broadcast 1073 1077	said
+E891	Contact_Broadcast:T42
+A42	Realis E891 Actual
+T43	Transaction_Transfer-Money 1174 1181	forfeit
+E906	Transaction_Transfer-Money:T43
+A43	Realis E906 Other
+T44	Justice_Sentence 710 721	handed down
+E935	Justice_Sentence:T44
+A44	Realis E935 Actual
+T45	Justice_Sentence 194 203	SENTENCED
+E972	Justice_Sentence:T45
+A45	Realis E972 Actual
+T46	Justice_Arrest-Jail 2064 2070	prison
+E974	Justice_Arrest-Jail:T46
+A46	Realis E974 Other

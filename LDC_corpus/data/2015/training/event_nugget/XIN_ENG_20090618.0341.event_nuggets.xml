@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000650" doc_id="XIN_ENG_20090618.0341" source_type="newswire">
+<event_mention id="em-23" type="justice" subtype="sentence" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="356" length="5">terms</trigger>
+      </event_mention>
+<event_mention id="em-36" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20090618.0341" offset="442" length="9">confirmed</trigger>
+      </event_mention>
+<event_mention id="em-51" type="justice" subtype="sentence" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="481" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-66" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="584" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-81" type="justice" subtype="fine" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="593" length="5">fined</trigger>
+      </event_mention>
+<event_mention id="em-96" type="justice" subtype="sentence" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="725" length="9">sentences</trigger>
+      </event_mention>
+<event_mention id="em-111" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="758" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-126" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="1121" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-141" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20090618.0341" offset="1429" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-156" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20090618.0341" offset="1555" length="6">profit</trigger>
+      </event_mention>
+<event_mention id="em-171" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20090618.0341" offset="1627" length="11">distributed</trigger>
+      </event_mention>
+<event_mention id="em-184" type="justice" subtype="convict" realis="actual">
+        <trigger source="XIN_ENG_20090618.0341" offset="1792" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-199" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20090618.0341" offset="1839" length="4">sold</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

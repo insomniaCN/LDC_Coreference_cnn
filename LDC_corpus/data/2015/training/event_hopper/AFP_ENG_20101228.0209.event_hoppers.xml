@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589763d0000000000000031" doc_id="AFP_ENG_20101228.0209" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-32" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="225" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-45" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="75" length="5">kills</trigger>
+      </event_mention>
+      <event_mention id="em-58" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="1111" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-71" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="217" length="7">strikes</trigger>
+      </event_mention>
+      <event_mention id="em-84" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="61" length="13">missile salvo</trigger>
+      </event_mention>
+      <event_mention id="em-97" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="1095" length="7">strikes</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-136" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="661" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-149" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="778" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-162" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="436" length="6">strike</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-175" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="471" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-188" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="620" length="7">strikes</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-201" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="800" length="5">fired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-214" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="899" length="5">fired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-227" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101228.0209" offset="992" length="6">struck</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-240" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20101228.0209" offset="377" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-253" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20101228.0209" offset="862" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

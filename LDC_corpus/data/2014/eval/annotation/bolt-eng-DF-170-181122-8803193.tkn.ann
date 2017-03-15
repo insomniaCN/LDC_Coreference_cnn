@@ -1,0 +1,432 @@
+T1	Life_Injure 115 123	wounding
+E1	Life_Injure:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 518 527	sentenced
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 573 581	shooting
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Justice_Sentence 735 744	sentenced
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Justice_Trial-Hearing 872 877	trial
+E5	Justice_Trial-Hearing:T5 
+A5	Realis E5 Other
+T6	Justice_Convict 1029 1038	convicted
+E6	Justice_Convict:T6 
+A6	Realis E6 Actual
+T7	Justice_Trial-Hearing 1099 1104	trial
+E7	Justice_Trial-Hearing:T7 
+A7	Realis E7 Actual
+T8	Justice_Charge-Indict 1108 1115	charges
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T10	Contact_Communicate 1423 1430	request
+E10	Contact_Communicate:T10 
+A11	Realis E10 Actual
+T11	Movement_Transport-Person 1612 1625	headed toward
+E11	Movement_Transport-Person:T11 
+A12	Realis E11 Actual
+T12	Movement_Transport-Person 1698 1705	pursuit
+E12	Movement_Transport-Person:T12 
+A13	Questionable E12 Mention
+A14	Realis E12 Actual
+T13	Movement_Transport-Person 1851 1861	converging
+E13	Movement_Transport-Person:T13 
+A15	Realis E13 Actual
+T14	Movement_Transport-Person 1948 1954	outrun
+E14	Movement_Transport-Person:T14 
+A16	Questionable E14 Realis
+A17	Realis E14 Other
+T15	Movement_Transport-Person 2054 2061	running
+E15	Movement_Transport-Person:T15 
+A18	Realis E15 Actual
+T16	Movement_Transport-Person 2089 2096	reached
+E16	Movement_Transport-Person:T16 
+A19	Realis E16 Actual
+T17	Contact_Meet 2134 2137	met
+E17	Contact_Meet:T17 
+A20	Realis E17 Actual
+T18	Movement_Transport-Person 2196 2204	get back
+E18	Movement_Transport-Person:T18 
+A21	Realis E18 Actual
+T19	Contact_Meet 2228 2234	yelled
+E19	Contact_Meet:T19 
+A22	Realis E19 Actual
+T20	Movement_Transport-Person 2298 2305	running
+E20	Movement_Transport-Person:T20 
+A23	Realis E20 Actual
+T21	Movement_Transport-Person 2383 2390	crossed
+E21	Movement_Transport-Person:T21 
+A24	Realis E21 Actual
+T22	Movement_Transport-Person 2445 2453	crossing
+E22	Movement_Transport-Person:T22 
+A25	Realis E22 Actual
+T23	Conflict_Attack 2473 2478;2485 2490	shots fired
+E23	Conflict_Attack:T23 
+A26	Realis E23 Actual
+T24	Movement_Transport-Person 2559 2566	running
+E24	Movement_Transport-Person:T24 
+A27	Realis E24 Actual
+T25	Conflict_Attack 2697 2701	shot
+E25	Conflict_Attack:T25 
+A28	Realis E25 Actual
+T26	Life_Injure 2748 2751	hit
+E26	Life_Injure:T26 
+A29	Questionable E26 Realis
+A30	Realis E26 Other
+T27	Movement_Transport-Person 2770 2777	running
+E27	Movement_Transport-Person:T27 
+A31	Realis E27 Actual
+T28	Movement_Transport-Person 2853 2859	jumped
+E28	Movement_Transport-Person:T28 
+A32	Realis E28 Actual
+T29	Life_Injure 2939 2942	hit
+E29	Life_Injure:T29 
+A33	Questionable E29 Realis
+A34	Realis E29 Other
+T30	Contact_Communicate 2983 2988	calls
+E30	Contact_Communicate:T30 
+A35	Realis E30 Actual
+T31	Movement_Transport-Person 3005 3012	brought
+E31	Movement_Transport-Person:T31 
+A36	Realis E31 Actual
+T32	Conflict_Attack 3214 3219;3224 3230	fired weapon
+E32	Conflict_Attack:T32 
+A37	Realis E32 Actual
+T33	Conflict_Attack 3262 3267;3273 3278	shots fired
+E33	Conflict_Attack:T33 
+A38	Realis E33 Actual
+T34	Life_Injure 3325 3332	injured
+E34	Life_Injure:T34 
+A39	Realis E34 Generic
+T35	Life_Injure 3336 3340	hurt
+E35	Life_Injure:T35 
+A40	Realis E35 Generic
+T36	Contact_Communicate 3696 3704;3707 3711	received call
+E36	Contact_Communicate:T36 
+A41	Realis E36 Actual
+T37	Contact_Communicate 3793 3801;3804 3808	received call
+E37	Contact_Communicate:T37 
+A42	Realis E37 Actual
+T38	Life_Injure 3885 3892	wounded
+E38	Life_Injure:T38 
+A43	Realis E38 Actual
+T39	Contact_Communicate 3955 3959	call
+E39	Contact_Communicate:T39 
+A44	Realis E39 Actual
+T40	Contact_Communicate 3936 3947	followed up
+E40	Contact_Communicate:T40 
+A45	Realis E40 Actual
+T41	Justice_Charge-Indict 4070 4083	filed charges
+E41	Justice_Charge-Indict:T41 
+A46	Realis E41 Actual
+T42	Transaction_Transfer-Money 4148 4154	paying
+E42	Transaction_Transfer-Money:T42 
+A47	Realis E42 Actual
+T43	Justice_Trial-Hearing 4210 4215	trial
+E43	Justice_Trial-Hearing:T43 
+A48	Realis E43 Actual
+T44	Conflict_Attack 4439 4444	shoot
+E44	Conflict_Attack:T44 
+A49	Realis E44 Generic
+T45	Movement_Transport-Person 4468 4475	fleeing
+E45	Movement_Transport-Person:T45 
+A50	Realis E45 Generic
+T46	Movement_Transport-Person 4815 4821	pursue
+E46	Movement_Transport-Person:T46 
+A51	Realis E46 Generic
+T47	Movement_Transport-Person 4822 4829	fleeing
+E47	Movement_Transport-Person:T47 
+A52	Realis E47 Generic
+T48	Movement_Transport-Person 4870 4876	pursue
+E48	Movement_Transport-Person:T48 
+A53	Realis E48 Generic
+T49	Justice_Convict 5286 5300	guilty verdict
+E49	Justice_Convict:T49 
+A54	Realis E49 Actual
+T50	Justice_Convict 5303 5313	Conviction
+E50	Justice_Convict:T50 
+A55	Realis E50 Generic
+T51	Justice_Sentence 5402 5410	sentence
+E51	Justice_Sentence:T51 
+A56	Realis E51 Generic
+T52	Justice_Charge-Indict 5423 5429	counts
+E52	Justice_Charge-Indict:T52 
+A57	Questionable E52 Realis
+A58	Realis E52 Actual
+T53	Justice_Arrest-Jail 5520 5532	apprehending
+E53	Justice_Arrest-Jail:T53 
+A59	Realis E53 Generic
+T54	Movement_Transport-Person 5588 5594	pursue
+E54	Movement_Transport-Person:T54 
+A60	Questionable E54 Realis
+A61	Realis E54 Other
+T55	Movement_Transport-Person 5595 5602	fleeing
+E55	Movement_Transport-Person:T55 
+A62	Realis E55 Generic
+T56	Movement_Transport-Person 5747 5752	flees
+E56	Movement_Transport-Person:T56 
+A63	Realis E56 Generic
+T57	Conflict_Attack 5932 5937;5943 5948	shots fired
+E57	Conflict_Attack:T57 
+A64	Questionable E57 Realis
+A65	Realis E57 Actual
+T58	Conflict_Attack 6009 6019;6026 6033	discharged weapons
+E58	Conflict_Attack:T58 
+A66	Realis E58 Actual
+T60	Conflict_Attack 6175 6184;6190 6197	discharge firearm
+E60	Conflict_Attack:T60 
+A68	Realis E60 Generic
+T61	Justice_Charge-Indict 6896 6903	charges
+E61	Justice_Charge-Indict:T61 
+A69	Realis E61 Actual
+T62	Justice_Pardon 7168 7174	Pardon
+E62	Justice_Pardon:T62 
+A70	Realis E62 Other
+T63	Justice_Pardon 7398 7404	Pardon
+E63	Justice_Pardon:T63 
+A71	Realis E63 Other
+T64	Justice_Pardon 7587 7593	pardon
+E64	Justice_Pardon:T64 
+A72	Realis E64 Generic
+T65	Justice_Sentence 7670 7679	sentenced
+E65	Justice_Sentence:T65 
+A73	Realis E65 Actual
+T66	Justice_Trial-Hearing 7807 7812	trial
+E66	Justice_Trial-Hearing:T66 
+A74	Realis E66 Other
+T67	Justice_Appeal 7947 7955	appealed
+E67	Justice_Appeal:T67 
+A75	Realis E67 Other
+T69	Justice_Charge-Indict 8052 8061	impeached
+E69	Justice_Charge-Indict:T69 
+A78	Realis E69 Generic
+T70	Justice_Appeal 8404 8411	appeals
+E70	Justice_Appeal:T70 
+A79	Questionable E70 Realis
+A80	Realis E70 Other
+T71	Justice_Arrest-Jail 8447 8451;8461 8467	goto prison
+E71	Justice_Arrest-Jail:T71 
+A81	Realis E71 Other
+T72	Justice_Pardon 9018 9024	pardon
+E72	Justice_Pardon:T72 
+A82	Realis E72 Generic
+T73	Justice_Appeal 9041 9049	appealed
+E73	Justice_Appeal:T73 
+A83	Realis E73 Other
+T75	Justice_Charge-Indict 9146 9155	impeached
+E75	Justice_Charge-Indict:T75 
+A85	Realis E75 Generic
+T76	Personnel_Nominate 9172 9181	Appointed
+E76	Personnel_Nominate:T76 
+A86	Realis E76 Actual
+T77	Personnel_Nominate 9325 9334	Appointed
+E77	Personnel_Nominate:T77 
+A87	Realis E77 Actual
+T78	Conflict_Attack 9640 9645	shoot
+E78	Conflict_Attack:T78 
+A88	Realis E78 Generic
+T79	Conflict_Attack 9830 9835	shoot
+E79	Conflict_Attack:T79 
+A89	Realis E79 Generic
+T80	Life_Die 10383 10390	killing
+E80	Life_Die:T80 
+A90	Questionable E80 Realis
+A91	Realis E80 Other
+T81	Justice_Charge-Indict 10428 10441	press charges
+E81	Justice_Charge-Indict:T81 
+A92	Realis E81 Generic
+T82	Transaction_Transfer-Money 11134 11138	fund
+E82	Transaction_Transfer-Money:T82 
+A93	Questionable E82 Realis
+A94	Realis E82 Other
+T83	Justice_Appeal 11261 11268	appeals
+E83	Justice_Appeal:T83 
+A95	Realis E83 Generic
+T84	Movement_Transport-Person 11349 11355	deport
+E84	Movement_Transport-Person:T84 
+A96	Realis E84 Generic
+T85	Life_Die 11774 11781	killing
+E85	Life_Die:T85 
+A97	Realis E85 Other
+T86	Justice_Charge-Indict 11819 11832	press charges
+E86	Justice_Charge-Indict:T86 
+A98	Realis E86 Generic
+T87	Justice_Convict 11867 11874	convict
+E87	Justice_Convict:T87 
+A99	Realis E87 Generic
+T88	Justice_Pardon 12097 12103	Pardon
+E88	Justice_Pardon:T88 
+A100	Realis E88 Other
+T89	Justice_Pardon 12241 12247	Pardon
+E89	Justice_Pardon:T89 
+A101	Realis E89 Other
+T90	Contact_Communicate 12336 12347	phone calls
+E90	Contact_Communicate:T90 
+A102	Realis E90 Other
+T91	Contact_Communicate 12296 12304;12321 12333	inundate with letters
+E91	Contact_Communicate:T91 
+A103	Realis E91 Other
+T92	Transaction_Transfer-Money 12879 12883	fund
+E92	Transaction_Transfer-Money:T92 
+A104	Realis E92 Other
+T93	Justice_Appeal 13006 13013	appeals
+E93	Justice_Appeal:T93 
+A105	Realis E93 Generic
+T94	Movement_Transport-Person 13094 13100	deport
+E94	Movement_Transport-Person:T94 
+A106	Realis E94 Generic
+T95	Life_Injure 13430 13444	knee - capping
+E95	Life_Injure:T95 
+A107	Realis E95 Other
+T96	Life_Injure 13714 13728	knee - capping
+E96	Life_Injure:T96 
+A108	Realis E96 Other
+T97	Life_Injure 14142 14152	amputation
+E97	Life_Injure:T97 
+A109	Questionable E97 Realis
+A110	Realis E97 Generic
+T98	Life_Injure 14324 14338	knee - capping
+E98	Life_Injure:T98 
+A111	Realis E98 Other
+T99	Justice_Appeal 15226 15233	appeals
+E99	Justice_Appeal:T99 
+A112	Realis E99 Other
+T100	Justice_Arrest-Jail 15269 15273;15283 15289	goto prison
+E100	Justice_Arrest-Jail:T100 
+A113	Realis E100 Other
+T101	Justice_Sentence 15342 15345	get
+E101	Justice_Sentence:T101 
+A114	Questionable E101 Mention
+A115	Realis E101 Actual
+T102	Justice_Sentence 15384 15388	gets
+E102	Justice_Sentence:T102 
+A116	Questionable E102 Mention
+A117	Realis E102 Actual
+T103	Justice_Sentence 15734 15737	get
+E103	Justice_Sentence:T103 
+A118	Realis E103 Actual
+T104	Justice_Sentence 15776 15780	gets
+E104	Justice_Sentence:T104 
+A119	Realis E104 Actual
+T105	Justice_Sentence 16094 16099;16107 16115	given sentence
+E105	Justice_Sentence:T105 
+A120	Realis E105 Other
+A121	Questionable E105 Realis
+T106	Justice_Sentence 16164 16174	sentencing
+E106	Justice_Sentence:T106 
+A122	Realis E106 Actual
+T107	Justice_Trial-Hearing 16490 16495	tried
+E107	Justice_Trial-Hearing:T107 
+A123	Realis E107 Other
+T108	Justice_Appeal 16801 16809	appealed
+E108	Justice_Appeal:T108 
+A124	Realis E108 Other
+T109	Justice_Trial-Hearing 17171 17176	tried
+E109	Justice_Trial-Hearing:T109 
+A125	Realis E109 Other
+T110	Justice_Appeal 17482 17490	appealed
+E110	Justice_Appeal:T110 
+A126	Realis E110 Other
+T111	Justice_Pardon 17554 17560	pardon
+E111	Justice_Pardon:T111 
+A127	Realis E111 Other
+T112	Justice_Pardon 17762 17768	pardon
+E112	Justice_Pardon:T112 
+A128	Realis E112 Other
+T113	Justice_Pardon 17824 17830	Pardon
+E113	Justice_Pardon:T113 
+A129	Realis E113 Other
+T115	Justice_Pardon 17981 17989	pardoned
+E115	Justice_Pardon:T115 
+A131	Realis E115 Actual
+T116	Justice_Pardon 18051 18060	pardoning
+E116	Justice_Pardon:T116 
+A132	Questionable E116 Realis
+A133	Realis E116 Generic
+T117	Justice_Pardon 18209 18215	Pardon
+E117	Justice_Pardon:T117 
+A134	Realis E117 Other
+T119	Justice_Pardon 18365 18371	pardon
+E119	Justice_Pardon:T119 
+A136	Realis E119 Other
+T120	Life_Injure 18747 18761	knee - capping
+E120	Life_Injure:T120 
+A137	Realis E120 Other
+T121	Life_Be-Born 18945 18949	born
+E121	Life_Be-Born:T121 
+A138	Realis E121 Generic
+T122	Justice_Arrest-Jail 101 110	in Prison
+E122	Justice_Arrest-Jail:T122 
+A139	Realis E122 Other
+T123	Justice_Arrest-Jail 531 543	prison terms
+E123	Justice_Arrest-Jail:T123 
+T124	Movement_Transport-Person 631 635	fled
+E124	Movement_Transport-Person:T124 
+A140	Realis E124 Actual
+T125	Justice_Arrest-Jail 777 786	in prison
+E125	Justice_Arrest-Jail:T125 
+A141	Realis E125 Other
+T126	Life_Injure 1142 1148	injury
+E126	Life_Injure:T126 
+A142	Realis E126 Actual
+T127	Conflict_Attack 1151 1158	assault
+E127	Conflict_Attack:T127 
+A143	Realis E127 Actual
+T128	Conflict_Attack 1182 1191;1197 1204	discharge firearm
+E128	Conflict_Attack:T128 
+A144	Realis E128 Actual
+T9	Movement_Transport-Person 2031 2041	jumped out
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T129	Contact_Communicate 3851 3858	telling
+E129	Contact_Communicate:T129 
+A10	Realis E129 Actual
+T130	Justice_Arrest-Jail 5811 5816	catch
+E130	Justice_Arrest-Jail:T130 
+A145	Realis E130 Generic
+T59	Justice_Arrest-Jail 7712 7721	in prison
+E59	Justice_Arrest-Jail:T59 
+A67	Realis E59 Actual
+T68	Justice_Arrest-Jail 8971 8980	in prison
+E68	Justice_Arrest-Jail:T68 
+A76	Realis E68 Generic
+T74	Life_Die 10412 10416	Dead
+E74	Life_Die:T74 
+A77	Realis E74 Generic
+T131	Life_Die 11803 11807	Dead
+E131	Life_Die:T131 
+A84	Realis E131 Generic
+T132	Justice_Arrest-Jail 11626 11633	in jail
+E132	Justice_Arrest-Jail:T132 
+A146	Realis E132 Other
+T133	Justice_Arrest-Jail 13371 13378	in jail
+E133	Justice_Arrest-Jail:T133 
+A147	Realis E133 Other
+T134	Movement_Transport-Person 13462 13470	dropping
+E134	Movement_Transport-Person:T134 
+A148	Realis E134 Other
+T135	Movement_Transport-Person 13746 13754	dropping
+E135	Movement_Transport-Person:T135 
+A149	Realis E135 Other
+T136	Movement_Transport-Person 14356 14364	dropping
+E136	Movement_Transport-Person:T136 
+A150	Realis E136 Other
+T137	Justice_Arrest-Jail 15496 15506	imprisoned
+E137	Justice_Arrest-Jail:T137 
+A151	Realis E137 Actual
+T138	Justice_Arrest-Jail 15888 15898	imprisoned
+E138	Justice_Arrest-Jail:T138 
+A152	Realis E138 Actual
+T139	Movement_Transport-Person 16577 16581	into
+E139	Movement_Transport-Person:T139 
+A153	Realis E139 Generic
+T140	Movement_Transport-Person 17258 17262	into
+E140	Movement_Transport-Person:T140 
+A154	Realis E140 Generic
+T114	Movement_Transport-Person 18779 18787	dropping
+E114	Movement_Transport-Person:T114 
+A130	Realis E114 Other
+A135	Realis E123 Actual

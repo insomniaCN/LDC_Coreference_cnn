@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="558976230000000000000012" doc_id="AFP_ENG_20091109.0326" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-54" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="225" length="9">sentenced</trigger>
+      </event_mention>
+      <event_mention id="em-67" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="79" length="8">sentence</trigger>
+      </event_mention>
+      <event_mention id="em-80" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="537" length="6">ruling</trigger>
+      </event_mention>
+      <event_mention id="em-93" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="865" length="8">sentence</trigger>
+      </event_mention>
+      <event_mention id="em-106" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="944" length="6">ruling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-119" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="280" length="9">smuggling</trigger>
+      </event_mention>
+      <event_mention id="em-132" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="105" length="9">smuggling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-145" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="569" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-158" type="justice" subtype="appeal" realis="other">
+        <trigger source="AFP_ENG_20091109.0326" offset="807" length="6">appeal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-171" type="justice" subtype="execute" realis="other">
+        <trigger source="AFP_ENG_20091109.0326" offset="963" length="13">death penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-184" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1051" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-197" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1076" length="6">hanged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-210" type="justice" subtype="chargeindict" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1121" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-223" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="1022" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-236" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="1022" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-249" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1022" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-262" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1051" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-275" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1076" length="6">hanged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-288" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="1109" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-301" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="1109" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-38">
+      <event_mention id="em-314" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="1109" length="11">trafficking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-40">
+      <event_mention id="em-327" type="justice" subtype="sentence" realis="other">
+        <trigger source="AFP_ENG_20091109.0326" offset="969" length="7">penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-42">
+      <event_mention id="em-340" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="105" length="9">smuggling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-44">
+      <event_mention id="em-353" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="105" length="9">smuggling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-46">
+      <event_mention id="em-366" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20091109.0326" offset="280" length="9">smuggling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-48">
+      <event_mention id="em-379" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="280" length="9">smuggling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-50">
+      <event_mention id="em-392" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20091109.0326" offset="325" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-52">
+      <event_mention id="em-405" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091109.0326" offset="419" length="8">informed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-431">
+      <event_mention id="em-448" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20091109.0326" offset="963" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-446">
+      <event_mention id="em-418" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20091109.0326" offset="246" length="6">prison</trigger>
+      </event_mention>
+      <event_mention id="em-433" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20091109.0326" offset="714" length="6">prison</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

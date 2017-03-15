@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130521.0223" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130521/20130521,dc0c094f057d305de75b4d850c16e0ec.xml">
+<HEADLINE>
+RULING THROWS OUT GENOCIDE CONVICTION OF EX-DICTATOR
+</HEADLINE>
+<TEXT>
+<P>
+MEXICO CITY – Guatemala’s highest court on Monday threw out the genocide conviction and prison sentence of the former dictator Gen. Efrain Rios Montt, ruling to rewind the trial to its final days.
+</P>
+<P>
+The decision by Guatemala’s Constitutional Court is a dramatic legal victory for Rios Montt, 86, and a blow to human rights advocates who called his conviction a sign that Guatemala’s courts would no longer allow impunity for the country’s powerful.
+</P>
+<P>
+Rios Montt was sent to prison immediately after the verdict on May 10 but was transferred to a military hospital three days later for medical tests. The decision means that he will return to house arrest, where he had been held since the case against him began in January 2012. A three-panel tribunal found him guilty of genocide and crimes against humanity, and he was sentenced to 80 years in prison.
+</P>
+<P>
+But Monday’s ruling did not throw out the entire trial. Instead, it rolled back the proceedings to April 19, when a complex decision by a pretrial judge sent the trial into disarray. The Constitutional Court issued several confusing rulings that the trial judges interpreted to allow them to continue the proceedings.
+</P>
+<P>
+Legal experts said it was unlikely that the final days of the trial would be repeated because that would amount to a form of double jeopardy for the former dictator.
+</P>
+<P>
+Rios Montt was found to be responsible for a series of massacres and rapes and the forced displacement of the Maya-Ixil ethnic group during his 17-month rule in 1982 and 1983. During a month of prosecution testimony, the court heard wrenching descriptions by survivors of the army’s scorched-earth policy through the hamlets of the Mayan highlands.
+</P>
+<P>
+His co-defendant, Gen. Jose Mauricio Rodriguez Sanchez, was acquitted. The constitutional court’s ruling effectively throws out his acquittal, and it is unclear whether he will be rearrested.
+</P>
+<P>
+The attorney general’s office is expected to appeal the court’s 3-2 ruling on Tuesday.
+</P>
+<P>
+Although the verdict was celebrated by international human rights organizations, it was controversial in Guatemala. The Constitutional Court was the target of a lobbying campaign by opponents of the verdict as it considered several defense injunctions it had failed to rule on during the trial.
+</P>
+<P>
+Perhaps the most important campaign was by Guatemala’s powerful business federation, known as Cacif for the initials of its Spanish name. Representing the country’s deeply conservative oligarchy, Cacif urged the court to overturn the verdict. The court “has the power in its hands to contribute to the governability and assure an effective rule of law,” the business group said.
+</P>
+</TEXT>
+</DOC>

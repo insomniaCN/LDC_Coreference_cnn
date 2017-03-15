@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000631" doc_id="bolt-eng-DF-203-185940-21049635" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="219" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-68" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="522" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-109" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="586" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="680" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-301" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1543" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-355" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1906" length="7">wedding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="344" length="4">talk</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="349" length="3">see</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="463" length="8">received</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-94" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="559" length="7">make it</trigger>
+      </event_mention>
+      <event_mention id="em-152" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="653" length="7">make it</trigger>
+      </event_mention>
+      <event_mention id="em-340" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1882" length="9">attending</trigger>
+      </event_mention>
+      <event_mention id="em-368" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1983" length="2">go</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="599" length="2">go</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="632" length="4">give</trigger>
+      </event_mention>
+      <event_mention id="em-206" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="756" length="4">give</trigger>
+      </event_mention>
+      <event_mention id="em-327" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1836" length="4">give</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-178" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="694" length="7">receive</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-284">
+      <event_mention id="em-271" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1471" length="9">delivered</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-299">
+      <event_mention id="em-286" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1506" length="5">bring</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-353">
+      <event_mention id="em-258" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1394" length="7">wedding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-394">
+      <event_mention id="em-219" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="865" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-232" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1029" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-245" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1208" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-314" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="1684" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-381" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="2109" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-396" type="life" subtype="marry" realis="generic">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="2177" length="7">wedding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-409">
+      <event_mention id="em-81" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="463" length="8">received</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-411">
+      <event_mention id="em-193" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-21049635" offset="694" length="7">receive</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

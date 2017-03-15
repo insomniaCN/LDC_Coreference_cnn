@@ -1,0 +1,130 @@
+T1	Justice_Extradite 132 143	extradition
+E915	Justice_Extradite:T1
+A1	Realis E915 Actual
+T2	Justice_Extradite 743 753	extradited
+E108	Justice_Extradite:T2
+A2	Realis E108 Actual
+T3	Justice_Extradite 1027 1037	extradited
+E73	Justice_Extradite:T3
+A3	Realis E73 Other
+T4	Movement_Transport-Person 132 143	extradition
+E760	Movement_Transport-Person:T4
+A4	Realis E760 Actual
+T5	Movement_Transport-Person 743 753	extradited
+E602	Movement_Transport-Person:T5
+A5	Realis E602 Actual
+T6	Movement_Transport-Person 1027 1037	extradited
+E66	Movement_Transport-Person:T6
+A6	Realis E66 Other
+T7	Movement_Transport-Person 2814 2822	returned
+E754	Movement_Transport-Person:T7
+A7	Realis E754 Actual
+T8	Movement_Transport-Artifact 173 183	trafficker
+E55	Movement_Transport-Artifact:T8
+A8	Realis E55 Other
+T9	Justice_Arrest-Jail 320 327	capture
+E248	Justice_Arrest-Jail:T9
+A9	Realis E248 Actual
+T10	Justice_Arrest-Jail 2011 2018	capture
+E690	Justice_Arrest-Jail:T10
+A10	Realis E690 Actual
+T11	Justice_Arrest-Jail 2756 2762	caught
+E306	Justice_Arrest-Jail:T11
+A11	Realis E306 Actual
+T12	Contact_Broadcast 1429 1435	claims
+E572	Contact_Broadcast:T12
+A12	Realis E572 Actual
+T13	Contact_Broadcast 395 401	leaked
+E332	Contact_Broadcast:T13
+A13	Realis E332 Actual
+T14	Contact_Broadcast 471 477	leaked
+E68	Contact_Broadcast:T14
+A14	Realis E68 Actual
+T15	Contact_Broadcast 3134 3140	cables
+E45	Contact_Broadcast:T15
+A15	Realis E45 Actual
+T16	Contact_Broadcast 3617 3623	cables
+E532	Contact_Broadcast:T16
+A16	Realis E532 Actual
+T17	Contact_Contact 591 603	negotiations
+E581	Contact_Contact:T17
+A17	Realis E581 Other
+T18	Justice_Extradite 823 834	extradition
+E415	Justice_Extradite:T18
+A18	Realis E415 Other
+T19	Movement_Transport-Person 823 834	extradition
+E110	Movement_Transport-Person:T19
+A19	Realis E110 Other
+T20	Justice_Arrest-Jail 906 914	detained
+E205	Justice_Arrest-Jail:T20
+A20	Realis E205 Actual
+T21	Contact_Contact 944 954	interviews
+E902	Contact_Contact:T21
+A21	Realis E902 Generic
+T22	Movement_Transport-Artifact 1489 1500	trafficking
+E612	Movement_Transport-Artifact:T22
+A22	Realis E612 Other
+T23	Movement_Transport-Artifact 1784 1793	smuggling
+E590	Movement_Transport-Artifact:T23
+A23	Realis E590 Actual
+T24	Movement_Transport-Artifact 2326 2337	trafficking
+E129	Movement_Transport-Artifact:T24
+A24	Realis E129 Other
+T25	Justice_Arrest-Jail 1861 1869	detained
+E907	Justice_Arrest-Jail:T25
+A25	Realis E907 Actual
+T26	Justice_Arrest-Jail 2365 2374	detaining
+E582	Justice_Arrest-Jail:T26
+A26	Realis E582 Actual
+T27	Movement_Transport-Person 2725 2729	fled
+E920	Movement_Transport-Person:T27
+A27	Realis E920 Actual
+T28	Justice_Charge-Indict 2404 2411	charges
+E525	Justice_Charge-Indict:T28
+A28	Realis E525 Actual
+T29	Justice_Charge-Indict 2842 2849	charged
+E918	Justice_Charge-Indict:T29
+A29	Realis E918 Other
+T30	Justice_Trial-Hearing 2854 2859	tried
+E24	Justice_Trial-Hearing:T30
+A30	Realis E24 Other
+T31	Contact_Broadcast 3093 3099	report
+E72	Contact_Broadcast:T31
+A31	Realis E72 Actual
+T32	Contact_Broadcast 418 425	reports
+E420	Contact_Broadcast:T32
+A32	Realis E420 Actual
+T33	Contact_Contact 835 842	request
+E278	Contact_Contact:T33
+A33	Realis E278 Actual
+T34	Contact_Broadcast 1587 1596	asserting
+E11	Contact_Broadcast:T34
+A34	Realis E11 Actual
+T35	Contact_Broadcast 2489 2495	saying
+E196	Contact_Broadcast:T35
+A35	Realis E196 Other
+T36	Contact_Broadcast 1699 1706	stating
+E767	Contact_Broadcast:T36
+A36	Realis E767 Actual
+T37	Transaction_Transfer-Ownership 2676 2681	trade
+E794	Transaction_Transfer-Ownership:T37
+A37	Realis E794 Actual
+T38	Contact_Broadcast 3114 3120	report
+E370	Contact_Broadcast:T38
+A38	Realis E370 Actual
+T39	Contact_Broadcast 3335 3341	assert
+E805	Contact_Broadcast:T39
+A39	Realis E805 Generic
+R1	Coreference Arg1:E915 Arg2:E108
+R2	Coreference Arg1:E108 Arg2:E73
+R3	Coreference Arg1:E760 Arg2:E602
+R4	Coreference Arg1:E602 Arg2:E66
+R5	Coreference Arg1:E66 Arg2:E754
+R6	Coreference Arg1:E248 Arg2:E690
+R7	Coreference Arg1:E690 Arg2:E306
+R8	Coreference Arg1:E332 Arg2:E68
+R9	Coreference Arg1:E68 Arg2:E45
+R10	Coreference Arg1:E45 Arg2:E532
+R11	Coreference Arg1:E612 Arg2:E590
+R12	Coreference Arg1:E590 Arg2:E129
+R13	Coreference Arg1:E907 Arg2:E582

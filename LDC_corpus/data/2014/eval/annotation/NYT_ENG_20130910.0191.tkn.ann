@@ -1,0 +1,153 @@
+T1	Personnel_End-Position 391 397	former
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Money 480 483	pay
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Actual
+T3	Justice_Fine 559 564	fines
+E3	Justice_Fine:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 870 876	former
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Personnel_Start-Position 936 949	came to power
+E5	Personnel_Start-Position:T5 
+T6	Conflict_Attack 955 959	coup
+E6	Conflict_Attack:T6 
+A5	Realis E6 Actual
+T7	Life_Die 978 991	assassination
+E7	Life_Die:T7 
+A6	Realis E7 Actual
+T8	Conflict_Attack 1227 1231	coup
+E8	Conflict_Attack:T8 
+A7	Realis E8 Actual
+T9	Justice_Convict 1317 1326	convicted
+E9	Justice_Convict:T9 
+A8	Realis E9 Actual
+T10	Conflict_Attack 1361 1365	coup
+E10	Conflict_Attack:T10 
+A9	Realis E10 Actual
+T11	Conflict_Attack 1386 1395	crackdown
+E11	Conflict_Attack:T11 
+A10	Realis E11 Actual
+T12	Conflict_Attack 1415 1423	uprising
+E12	Conflict_Attack:T12 
+A11	Realis E12 Actual
+T13	Life_Die 1475 1479	dead
+E13	Life_Die:T13 
+A12	Realis E13 Actual
+T14	Justice_Convict 1497 1506	convicted
+E14	Justice_Convict:T14 
+A13	Realis E14 Actual
+T16	Transaction_Transfer-Money 1510 1520;1526 1532	collecting bribes
+E16	Transaction_Transfer-Money:T16 
+A15	Realis E16 Actual
+T17	Justice_Sentence 1601 1610	sentenced
+E17	Justice_Sentence:T17 
+A16	Realis E17 Actual
+T18	Justice_Arrest-Jail 1619 1628	in prison
+E18	Justice_Arrest-Jail:T18 
+A17	Realis E18 Other
+T19	Justice_Pardon 1676 1684	pardoned
+E19	Justice_Pardon:T19 
+A18	Realis E19 Actual
+T20	Justice_Release-Parole 1689 1694	freed
+E20	Justice_Release-Parole:T20 
+A19	Realis E20 Actual
+T21	Transaction_Transfer-Money 1724 1727	pay
+E21	Transaction_Transfer-Money:T21 
+A20	Realis E21 Other
+T22	Justice_Fine 1823 1828	fined
+E22	Justice_Fine:T22 
+A21	Realis E22 Actual
+T23	Transaction_Transfer-Money 1860 1864	paid
+E23	Transaction_Transfer-Money:T23 
+A22	Realis E23 Actual
+T24	Justice_Fine 1887 1891	fine
+E24	Justice_Fine:T24 
+A23	Realis E24 Actual
+T25	Transaction_Transfer-Ownership 2082 2094	confiscating
+E25	Transaction_Transfer-Ownership:T25 
+A24	Realis E25 Other
+T26	Transaction_Transfer-Ownership 2238 2245	collect
+E26	Transaction_Transfer-Ownership:T26 
+A25	Realis E26 Other
+T27	Conflict_Attack 2403 2409	raided
+E27	Conflict_Attack:T27 
+A26	Realis E27 Actual
+T28	Transaction_Transfer-Ownership 2459 2471	confiscating
+E28	Transaction_Transfer-Ownership:T28 
+A27	Realis E28 Actual
+T29	Justice_Arrest-Jail 2564 2572	arrested
+E29	Justice_Arrest-Jail:T29 
+A28	Realis E29 Actual
+T30	Justice_Charge-Indict 2588 2595	charges
+E30	Justice_Charge-Indict:T30 
+A29	Realis E30 Actual
+T31	Personnel_End-Position 2646 2652	former
+E31	Personnel_End-Position:T31 
+A30	Realis E31 Actual
+T32	Justice_Charge-Indict 2715 2722	charges
+E32	Justice_Charge-Indict:T32 
+A31	Realis E32 Actual
+T33	Transaction_Transfer-Ownership 2800 2807	give up
+E33	Transaction_Transfer-Ownership:T33 
+A32	Realis E33 Other
+T34	Transaction_Transfer-Money 2862 2865	pay
+E34	Transaction_Transfer-Money:T34 
+A33	Realis E34 Other
+T35	Justice_Fine 2882 2886	fine
+E35	Justice_Fine:T35 
+A34	Realis E35 Actual
+T36	Transaction_Transfer-Ownership 2950 2954	sold
+E36	Transaction_Transfer-Ownership:T36 
+A35	Realis E36 Other
+T37	Transaction_Transfer-Ownership 3176 3183	secured
+E37	Transaction_Transfer-Ownership:T37 
+A36	Realis E37 Actual
+T38	Transaction_Transfer-Ownership 3269 3276	give up
+E38	Transaction_Transfer-Ownership:T38 
+A37	Realis E38 Other
+T39	Transaction_Transfer-Money 3337 3342	cover
+E39	Transaction_Transfer-Money:T39 
+A38	Realis E39 Other
+T40	Justice_Fine 3358 3362	fine
+E40	Justice_Fine:T40 
+A39	Realis E40 Actual
+T41	Transaction_Transfer-Money 3382 3390	paid off
+E41	Transaction_Transfer-Money:T41 
+A40	Realis E41 Actual
+T42	Justice_Fine 3395 3399	fine
+E42	Justice_Fine:T42 
+A41	Realis E42 Actual
+T43	Transaction_Transfer-Money 3489 3492	pay
+E43	Transaction_Transfer-Money:T43 
+A42	Realis E43 Actual
+T15	Transaction_Transfer-Money 241 244	PAY
+E15	Transaction_Transfer-Money:T15 
+A14	Realis E15 Other
+T44	Justice_Fine 249 254	FINES
+E44	Justice_Fine:T44 
+A43	Realis E44 Actual
+T45	Contact_Communicate 650 654	said
+E45	Contact_Communicate:T45 
+A44	Realis E45 Actual
+T46	Transaction_Transfer-Money 2963 2966	pay
+E46	Transaction_Transfer-Money:T46 
+A45	Realis E46 Other
+T47	Justice_Fine 2971 2975	fine
+E47	Justice_Fine:T47 
+A46	Realis E47 Actual
+T48	Contact_Communicate 2990 2995	asked
+E48	Contact_Communicate:T48 
+A47	Realis E48 Actual
+T49	Life_Die 3058 3061	die
+E49	Life_Die:T49 
+A48	Realis E49 Other
+T50	Contact_Communicate 3128 3132	told
+E50	Contact_Communicate:T50 
+A49	Realis E50 Actual
+T51	Life_Divorce 3458 3466	divorced
+E51	Life_Divorce:T51 
+A50	Realis E51 Actual
+A51	Realis E5 Actual

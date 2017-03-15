@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea920000000000000119" doc_id="2208c8d876633fc18968ada64e972118" source_type="multi_post">
+  <event_mention id="em-24" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="643" length="7">Liberez</trigger>
+  </event_mention>
+  <event_mention id="em-36" type="life" subtype="marry" realis="generic">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="180" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-84" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="152" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-160" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="329" length="7">landing</trigger>
+  </event_mention>
+  <event_mention id="em-163" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="839" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-260" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="998" length="6">caught</trigger>
+  </event_mention>
+  <event_mention id="em-273" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="505" length="12">disembarking</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="1775" length="8">landings</trigger>
+  </event_mention>
+  <event_mention id="em-308" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="494" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-309" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="195" length="7">landing</trigger>
+  </event_mention>
+  <event_mention id="em-322" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="203" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-343" type="life" subtype="marry" realis="generic">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="921" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-345" type="business" subtype="startorg" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="230" length="6">formed</trigger>
+  </event_mention>
+  <event_mention id="em-407" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="439" length="6">posted</trigger>
+  </event_mention>
+  <event_mention id="em-459" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="819" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-488" type="life" subtype="marry" realis="generic">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="402" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-549" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="930" length="13">demonstration</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="life" subtype="marry" realis="generic">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="278" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-662" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="694" length="6">jailed</trigger>
+  </event_mention>
+  <event_mention id="em-688" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="949" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-690" type="life" subtype="marry" realis="generic">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="746" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-800" type="conflict" subtype="demonstrate" realis="generic">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="676" length="9">protester</trigger>
+  </event_mention>
+  <event_mention id="em-871" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="1617" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-894" type="conflict" subtype="demonstrate" realis="other">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="240" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-949" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="971" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-978" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="2208c8d876633fc18968ada64e972118" offset="730" length="7">protest</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

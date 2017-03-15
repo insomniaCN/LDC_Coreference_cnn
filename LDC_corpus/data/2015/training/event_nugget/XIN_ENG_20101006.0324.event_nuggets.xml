@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000659" doc_id="XIN_ENG_20101006.0324" source_type="newswire">
+<event_mention id="em-10" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="67" length="4">buys</trigger>
+      </event_mention>
+<event_mention id="em-23" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="XIN_ENG_20101006.0324" offset="218" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-38" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="240" length="9">purchased</trigger>
+      </event_mention>
+<event_mention id="em-51" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="349" length="7">acquire</trigger>
+      </event_mention>
+<event_mention id="em-79" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="691" length="4">cost</trigger>
+      </event_mention>
+<event_mention id="em-94" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="550" length="12">acquisitions</trigger>
+      </event_mention>
+<event_mention id="em-107" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20101006.0324" offset="767" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-122" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="818" length="11">acquisition</trigger>
+      </event_mention>
+<event_mention id="em-135" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="886" length="9">purchased</trigger>
+      </event_mention>
+<event_mention id="em-150" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="1310" length="6">income</trigger>
+      </event_mention>
+<event_mention id="em-165" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="XIN_ENG_20101006.0324" offset="1544" length="6">income</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

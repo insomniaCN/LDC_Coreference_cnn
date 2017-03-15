@@ -1,0 +1,79 @@
+T1	Life_Die 84 88	Body
+E1	Life_Die:T1 
+A1	Questionable E1 Mention
+A2	Realis E1 Actual
+T2	Life_Die 240 244	body
+E2	Life_Die:T2 
+A3	Questionable E2 Mention
+A4	Realis E2 Actual
+T3	Transaction_Transfer-Money 305 308;321 328	won dollars
+E3	Transaction_Transfer-Money:T3 
+A5	Realis E3 Actual
+T4	Life_Die 451 458	remains
+E4	Life_Die:T4 
+A6	Realis E4 Actual
+T5	Life_Die 534 539	death
+E5	Life_Die:T5 
+A7	Realis E5 Actual
+T6	Life_Die 590 594	body
+E6	Life_Die:T6 
+A8	Realis E6 Actual
+T7	Life_Die 719 727	homicide
+E7	Life_Die:T7 
+A9	Realis E7 Actual
+T8	Transaction_Transfer-Money 844 847;858 865	won jackpot
+E8	Transaction_Transfer-Money:T8 
+A10	Realis E8 Actual
+T9	Transaction_Transfer-Money 898 905	payment
+E9	Transaction_Transfer-Money:T9 
+A11	Realis E9 Actual
+T10	Life_Die 948 955	remains
+E10	Life_Die:T10 
+A12	Realis E10 Actual
+T11	Transaction_Transfer-Money 1390 1401	transferred
+E11	Transaction_Transfer-Money:T11 
+A13	Realis E11 Actual
+T12	Transaction_Transfer-Money 1494 1498	gift
+E12	Transaction_Transfer-Money:T12 
+A14	Realis E12 Actual
+T13	Justice_Arrest-Jail 1562 1569	arrests
+E13	Justice_Arrest-Jail:T13 
+A15	Realis E13 Actual
+T14	Justice_Arrest-Jail 1574 1580	prison
+E14	Justice_Arrest-Jail:T14 
+A16	Realis E14 Actual
+T15	Transaction_Transfer-Money 1652 1660	winnings
+E15	Transaction_Transfer-Money:T15 
+A17	Realis E15 Actual
+T16	Transaction_Transfer-Ownership 1664 1667	buy
+E16	Transaction_Transfer-Ownership:T16 
+A18	Realis E16 Actual
+T17	Justice_Sue 1838 1842	sued
+E19	Justice_Sue:T17 
+A23	Realis E19 Actual
+T18	Transaction_Transfer-Ownership 1881 1889	stealing
+E20	Transaction_Transfer-Ownership:T18 
+A24	Realis E20 Other
+T19	Transaction_Transfer-Money 1894 1901	winning
+E21	Transaction_Transfer-Money:T19 
+A25	Realis E21 Actual
+T20	Justice_Trial-Hearing 1946 1951	ruled
+E22	Justice_Trial-Hearing:T20 
+T21	Transaction_Transfer-Ownership 2131 2137	bought
+E23	Transaction_Transfer-Ownership:T21 
+A26	Realis E23 Actual
+T22	Transaction_Transfer-Ownership 2344 2350	bought
+E24	Transaction_Transfer-Ownership:T22 
+A27	Realis E24 Actual
+T23	Justice_Charge-Indict 1128 1135	charged
+E25	Justice_Charge-Indict:T23 
+A28	Realis E25 Other
+T24	Movement_Transport-Person 1257 1263	return
+E26	Movement_Transport-Person:T24 
+A29	Realis E26 Other
+T25	Conflict_Attack 1601 1608	battery
+E27	Conflict_Attack:T25 
+A30	Realis E27 Actual
+T26	Transaction_Transfer-Money 1617 1623	paying
+E28	Transaction_Transfer-Money:T26 
+A31	Realis E28 Other

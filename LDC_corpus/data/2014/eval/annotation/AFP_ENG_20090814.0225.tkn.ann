@@ -1,0 +1,66 @@
+T1	Contact_Meet 78 84	visits
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Contact_Meet 246 253	visited
+E2	Contact_Meet:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 319 323	held
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 334 341	charges
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Contact_Meet 396 405	explained
+E5	Contact_Meet:T5 
+A6	Realis E5 Actual
+T6	Justice_Release-Parole 479 486	release
+E6	Justice_Release-Parole:T6 
+A7	Realis E6 Other
+T7	Contact_Meet 547 552	visit
+E7	Contact_Meet:T7 
+A8	Realis E7 Actual
+T8	Movement_Transport-Person 594 598	trip
+E8	Movement_Transport-Person:T8 
+A9	Questionable E8 Type
+A10	Realis E8 Actual
+T9	Contact_Meet 617 620	see
+E9	Contact_Meet:T9 
+A11	Realis E9 Actual
+T10	Justice_Trial-Hearing 676 681	tried
+E10	Justice_Trial-Hearing:T10 
+A12	Realis E10 Actual
+T11	Justice_Charge-Indict 695 702	charges
+E11	Justice_Charge-Indict:T11 
+A13	Realis E11 Actual
+T12	Personnel_Elect 725 733	election
+E12	Personnel_Elect:T12 
+A14	Realis E12 Actual
+T13	Conflict_Demonstrate 734 742	protests
+E13	Conflict_Demonstrate:T13 
+A15	Realis E13 Actual
+T14	Contact_Meet 833 836	met
+E14	Contact_Meet:T14 
+A16	Realis E14 Actual
+T15	Contact_Meet 888 895	meeting
+E15	Contact_Meet:T15 
+A17	Realis E15 Actual
+T16	Justice_Release-Parole 963 970	release
+E16	Justice_Release-Parole:T16 
+A18	Realis E16 Other
+T17	Justice_Trial-Hearing 1091 1096	trial
+E17	Justice_Trial-Hearing:T17 
+A19	Realis E17 Actual
+T18	Justice_Charge-Indict 1120 1127	accused
+E18	Justice_Charge-Indict:T18 
+A20	Realis E18 Actual
+T19	Conflict_Demonstrate 1271 1278	protest
+E19	Conflict_Demonstrate:T19 
+A21	Realis E19 Other
+T20	Contact_Communicate 1283 1290	emailed
+E20	Contact_Communicate:T20 
+A22	Realis E20 Other
+A23	Questionable E19 Realis
+A24	Questionable E20 Realis
+T21	Justice_Release-Parole 1344 1351	release
+E21	Justice_Release-Parole:T21 
+A25	Realis E21 Actual

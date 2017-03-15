@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea790000000000000080" doc_id="NYT_ENG_20130823.0025" source_type="newswire">
+  <event_mention id="em-33" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="970" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-54" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130823.0025" offset="692" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-66" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130823.0025" offset="1487" length="4">fees</trigger>
+  </event_mention>
+  <event_mention id="em-78" type="justice" subtype="sue" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="2345" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-129" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130823.0025" offset="850" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-140" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130823.0025" offset="1286" length="5">voice</trigger>
+  </event_mention>
+  <event_mention id="em-238" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="1897" length="7">retired</trigger>
+  </event_mention>
+  <event_mention id="em-378" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130823.0025" offset="2427" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-393" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130823.0025" offset="2825" length="5">serve</trigger>
+  </event_mention>
+  <event_mention id="em-448" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="188" length="7">RESIGNS</trigger>
+  </event_mention>
+  <event_mention id="em-484" type="justice" subtype="sue" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="2058" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-559" type="personnel" subtype="elect" realis="other">
+    <trigger source="NYT_ENG_20130823.0025" offset="2863" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-573" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="411" length="8">resigned</trigger>
+  </event_mention>
+  <event_mention id="em-614" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130823.0025" offset="1455" length="4">give</trigger>
+  </event_mention>
+  <event_mention id="em-653" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130823.0025" offset="812" length="12">announcement</trigger>
+  </event_mention>
+  <event_mention id="em-702" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="664" length="8">went out</trigger>
+  </event_mention>
+  <event_mention id="em-720" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130823.0025" offset="1101" length="8">comments</trigger>
+  </event_mention>
+  <event_mention id="em-802" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="1625" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-843" type="personnel" subtype="elect" realis="other">
+    <trigger source="NYT_ENG_20130823.0025" offset="2540" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-883" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130823.0025" offset="992" length="9">step down</trigger>
+  </event_mention>
+  <event_mention id="em-937" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130823.0025" offset="1971" length="6">former</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

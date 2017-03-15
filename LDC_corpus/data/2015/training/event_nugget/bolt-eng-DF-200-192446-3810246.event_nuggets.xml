@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000607" doc_id="bolt-eng-DF-200-192446-3810246" source_type="multi_post">
+<event_mention id="em-10" type="justice" subtype="execute" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="363" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-23" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="584" length="7">paroled</trigger>
+      </event_mention>
+<event_mention id="em-38" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="53" length="13">Death Penalty</trigger>
+      </event_mention>
+<event_mention id="em-53" type="justice" subtype="execute" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="53" length="13">Death Penalty</trigger>
+      </event_mention>
+<event_mention id="em-66" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="823" length="13">death penalty</trigger>
+      </event_mention>
+<event_mention id="em-79" type="justice" subtype="execute" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="823" length="13">death penalty</trigger>
+      </event_mention>
+<event_mention id="em-92" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="979" length="13">death penalty</trigger>
+      </event_mention>
+<event_mention id="em-107" type="justice" subtype="execute" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="979" length="13">death penalty</trigger>
+      </event_mention>
+<event_mention id="em-120" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="1289" length="6">Murder</trigger>
+      </event_mention>
+<event_mention id="em-135" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="1299" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-148" type="justice" subtype="sentence" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="1632" length="9">sentences</trigger>
+      </event_mention>
+<event_mention id="em-163" type="justice" subtype="releaseparole" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="1677" length="8">released</trigger>
+      </event_mention>
+<event_mention id="em-178" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="326" length="7">rapists</trigger>
+      </event_mention>
+<event_mention id="em-193" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="343" length="9">murderers</trigger>
+      </event_mention>
+<event_mention id="em-208" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="869" length="4">rape</trigger>
+      </event_mention>
+<event_mention id="em-221" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="874" length="6">murder</trigger>
+      </event_mention>
+<event_mention id="em-234" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="1164" length="6">killer</trigger>
+      </event_mention>
+<event_mention id="em-247" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3810246" offset="1254" length="6">murder</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

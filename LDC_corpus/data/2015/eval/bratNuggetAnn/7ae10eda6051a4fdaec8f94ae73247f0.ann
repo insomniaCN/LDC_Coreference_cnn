@@ -1,0 +1,18 @@
+T1	Life_Marry 200 205	marry
+E26	Life_Marry:T1
+A1	Realis E26 Other
+T2	Life_Marry 983 991	marriage
+E47	Life_Marry:T2
+A2	Realis E47 Other
+T3	Justice_Sue 156 161	suing
+E511	Justice_Sue:T3
+A3	Realis E511 Actual
+T4	Life_Marry 1211 1219	marriage
+E748	Life_Marry:T4
+A4	Realis E748 Other
+T5	Life_Marry 692 699	married
+E941	Life_Marry:T5
+A5	Realis E941 Other
+T6	Contact_Broadcast 559 569	conference
+E949	Contact_Broadcast:T6
+A6	Realis E949 Actual

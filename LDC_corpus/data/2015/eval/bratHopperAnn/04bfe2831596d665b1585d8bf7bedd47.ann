@@ -1,0 +1,80 @@
+T1	Contact_Broadcast 416 420	said
+E248	Contact_Broadcast:T1
+A1	Realis E248 Actual
+T2	Justice_Charge-Indict 482 489	charged
+E325	Justice_Charge-Indict:T2
+A2	Realis E325 Actual
+T3	Justice_Charge-Indict 1649 1656	charged
+E73	Justice_Charge-Indict:T3
+A3	Realis E73 Actual
+T4	Personnel_End-Position 509 516	retired
+E625	Personnel_End-Position:T4
+A4	Realis E625 Actual
+T5	Movement_Transport-Person 609 619	kidnapping
+E792	Movement_Transport-Person:T5
+A5	Realis E792 Actual
+T6	Movement_Transport-Person 1111 1116	taken
+E460	Movement_Transport-Person:T6
+A6	Realis E460 Other
+T7	Conflict_Attack 609 619	kidnapping
+E261	Conflict_Attack:T7
+A7	Realis E261 Actual
+T8	Justice_Arrest-Jail 997 1005	detained
+E999	Justice_Arrest-Jail:T8
+A8	Realis E999 Actual
+T9	Justice_Arrest-Jail 1345 1349	held
+E598	Justice_Arrest-Jail:T9
+A9	Realis E598 Actual
+T10	Contact_Broadcast 1290 1297	reports
+E289	Contact_Broadcast:T10
+A10	Realis E289 Actual
+T11	Conflict_Attack 1324 1332	tortured
+E839	Conflict_Attack:T11
+A11	Realis E839 Actual
+T12	Justice_Pardon 1426 1432	pardon
+E32	Justice_Pardon:T12
+A12	Realis E32 Generic
+T13	Justice_Pardon 1805 1812	amnesty
+E328	Justice_Pardon:T13
+A13	Realis E328 Generic
+T14	Justice_Pardon 1391 1398	Amnesty
+E464	Justice_Pardon:T14
+A14	Realis E464 Generic
+T15	Justice_Pardon 1970 1977	Amnesty
+E877	Justice_Pardon:T15
+A15	Realis E877 Generic
+T16	Conflict_Attack 1509 1516	torture
+E344	Conflict_Attack:T16
+A16	Realis E344 Generic
+T17	Justice_Execute 1536 1546	executions
+E187	Justice_Execute:T17
+A17	Realis E187 Generic
+T18	Justice_Pardon 1874 1883	amnesties
+E199	Justice_Pardon:T18
+A18	Realis E199 Actual
+T19	Conflict_Attack 2034 2047	disappearance
+E308	Conflict_Attack:T19
+A19	Realis E308 Generic
+T20	Life_Die 1536 1546	executions
+E688	Life_Die:T20
+A20	Realis E688 Generic
+T21	Conflict_Attack 1685 1695	kidnapping
+E290	Conflict_Attack:T21
+A21	Realis E290 Generic
+T22	Conflict_Attack 2051 2061	kidnapping
+E642	Conflict_Attack:T22
+A22	Realis E642 Generic
+T23	Movement_Transport-Person 1685 1695	kidnapping
+E774	Movement_Transport-Person:T23
+A23	Realis E774 Generic
+T24	Movement_Transport-Person 2051 2061	kidnapping
+E430	Movement_Transport-Person:T24
+A24	Realis E430 Generic
+R1	Coreference Arg1:E325 Arg2:E73
+R2	Coreference Arg1:E792 Arg2:E460
+R3	Coreference Arg1:E999 Arg2:E598
+R4	Coreference Arg1:E464 Arg2:E32
+R5	Coreference Arg1:E32 Arg2:E328
+R6	Coreference Arg1:E328 Arg2:E877
+R7	Coreference Arg1:E290 Arg2:E642
+R8	Coreference Arg1:E774 Arg2:E430

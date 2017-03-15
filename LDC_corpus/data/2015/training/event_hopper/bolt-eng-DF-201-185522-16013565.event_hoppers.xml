@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000615" doc_id="bolt-eng-DF-201-185522-16013565" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="54" length="9">Convicted</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="339" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-262" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3110" length="10">conviction</trigger>
+      </event_mention>
+      <event_mention id="em-275" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3273" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-340" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="4094" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-353" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="5145" length="10">conviction</trigger>
+      </event_mention>
+      <event_mention id="em-405" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="8580" length="10">conviction</trigger>
+      </event_mention>
+      <event_mention id="em-489" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="10330" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="93" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="402" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="496" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-234" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3058" length="5">Dying</trigger>
+      </event_mention>
+      <event_mention id="em-418" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="8859" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-502" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="5424" length="4">dead</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="380" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-206" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="2340" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-366" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="6626" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-379" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="6888" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="449" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="586" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="794" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="729" length="7">retired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="justice" subtype="extradite" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="758" length="8">deported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-178" type="justice" subtype="execute" realis="generic">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="2279" length="9">execution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-232">
+      <event_mention id="em-219" type="justice" subtype="convict" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3027" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-327" type="justice" subtype="convict" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="4023" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-260">
+      <event_mention id="em-288" type="justice" subtype="appeal" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3298" length="6">appeal</trigger>
+      </event_mention>
+      <event_mention id="em-301" type="justice" subtype="appeal" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3367" length="7">appeals</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-444">
+      <event_mention id="em-431" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="9470" length="11">transferred</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-459">
+      <event_mention id="em-446" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="10039" length="8">supplied</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-474">
+      <event_mention id="em-461" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="10202" length="13">death penalty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-515">
+      <event_mention id="em-247" type="justice" subtype="appeal" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="3075" length="7">appeals</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-517">
+      <event_mention id="em-152" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="758" length="8">deported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-519">
+      <event_mention id="em-193" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="2279" length="9">execution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-521">
+      <event_mention id="em-476" type="justice" subtype="execute" realis="other">
+        <trigger source="bolt-eng-DF-201-185522-16013565" offset="10202" length="13">death penalty</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

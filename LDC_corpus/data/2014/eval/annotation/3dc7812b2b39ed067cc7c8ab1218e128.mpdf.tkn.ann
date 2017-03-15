@@ -1,0 +1,54 @@
+T1	Contact_Communicate 258 265	explain
+E1	Contact_Communicate:T1 
+A1	Realis E1 Other
+T2	Contact_Meet 377 386	interview
+E2	Contact_Meet:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 446 456	conviction
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Justice_Convict 473 482	convicted
+E4	Justice_Convict:T4 
+A4	Realis E4 Other
+T5	Justice_Convict 525 537	found guilty
+E5	Justice_Convict:T5 
+A5	Realis E5 Actual
+T6	Justice_Appeal 564 572	appealed
+E6	Justice_Appeal:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 776 779	say
+E7	Contact_Communicate:T7 
+A7	Realis E7 Other
+T8	Personnel_End-Position 1202 1213	ex-employer
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Justice_Convict 1274 1285	convictions
+E9	Justice_Convict:T9 
+A9	Realis E9 Generic
+T10	Justice_Convict 1347 1358	convictions
+E10	Justice_Convict:T10 
+A10	Realis E10 Generic
+T11	Contact_Communicate 1424 1428	said
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Justice_Convict 1440 1450	conviction
+E12	Justice_Convict:T12 
+A12	Realis E12 Actual
+T13	Justice_Acquit 1585 1593	acquited
+E13	Justice_Acquit:T13 
+A13	Realis E13 Actual
+T14	Justice_Acquit 1183 1193	overturned
+E14	Justice_Acquit:T14 
+A14	Realis E14 Actual
+T16	Justice_Convict 1892 1904	found Guilty
+E16	Justice_Convict:T16 
+A16	Realis E16 Actual
+T17	Justice_Convict 2124 2133	convicted
+E17	Justice_Convict:T17 
+A17	Realis E17 Actual
+T18	Justice_Acquit 2138 2148	overturned
+E18	Justice_Acquit:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 366 370	went
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual

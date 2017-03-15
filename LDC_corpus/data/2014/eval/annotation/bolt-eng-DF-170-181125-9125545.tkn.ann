@@ -1,0 +1,405 @@
+T1	Life_Die 96 104	massacre
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 241 249	massacre
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Life_Die 433 440	killing
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T5	Life_Die 744 748	died
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T9	Conflict_Attack 888 895	attacks
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T11	Conflict_Attack 1057 1063	attack
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 1091 1101	explosions
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T14	Conflict_Attack 1354 1359	bombs
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Life_Die 1360 1366	killed
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Life_Injure 1383 1390	wounded
+E16	Life_Injure:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Ownership 1423 1429	handed
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Actual
+T24	Life_Injure 2120 2124;2135 2138	lost leg
+E24	Life_Injure:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 2146 2155	explosion
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T27	Conflict_Attack 2309 2315	attack
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T29	Life_Die 2395 2401	killed
+E29	Life_Die:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 2426 2432	attack
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 2443 2451	conflict
+E31	Conflict_Attack:T31 
+A31	Realis E31 Actual
+T32	Conflict_Attack 2537 2545	bombings
+E32	Conflict_Attack:T32 
+A32	Realis E32 Generic
+T33	Movement_Transport-Person 2548 2559	kidnappings
+E33	Movement_Transport-Person:T33 
+A33	Realis E33 Generic
+T34	Life_Die 2562 2568	deadly
+E34	Life_Die:T34 
+A34	Realis E34 Generic
+T37	Life_Die 2715 2720	dying
+E37	Life_Die:T37 
+A37	Realis E37 Generic
+T38	Movement_Transport-Person 2744 2751	invaded
+E38	Movement_Transport-Person:T38 
+A38	Realis E38 Actual
+T39	Conflict_Attack 2833 2843	explosions
+E39	Conflict_Attack:T39 
+A39	Realis E39 Actual
+T40	Life_Die 2973 2979	killed
+E40	Life_Die:T40 
+A40	Realis E40 Actual
+T42	Transaction_Transfer-Ownership 3052 3058	bought
+E42	Transaction_Transfer-Ownership:T42 
+A42	Realis E42 Actual
+T43	Transaction_Transfer-Ownership 3105 3108	buy
+E43	Transaction_Transfer-Ownership:T43 
+A43	Realis E43 Actual
+T49	Transaction_Transfer-Ownership 3407 3415	offering
+E49	Transaction_Transfer-Ownership:T49 
+A49	Realis E49 Other
+T51	Contact_Communicate 3555 3561	asking
+E51	Contact_Communicate:T51 
+A51	Realis E51 Generic
+T52	Transaction_Transfer-Ownership 3589 3597	handouts
+E52	Transaction_Transfer-Ownership:T52 
+A52	Realis E52 Generic
+T53	Life_Die 3837 3843	killed
+E53	Life_Die:T53 
+A53	Realis E53 Actual
+T54	Conflict_Attack 3851 3860	explosion
+E54	Conflict_Attack:T54 
+A54	Realis E54 Actual
+T56	Transaction_Transfer-Ownership 3918 3923	sells
+E56	Transaction_Transfer-Ownership:T56 
+A56	Realis E56 Actual
+T58	Life_Die 4001 4013	scythed down
+E58	Life_Die:T58 
+A58	Realis E58 Actual
+T60	Life_Die 4134 4137	die
+E60	Life_Die:T60 
+A60	Realis E60 Other
+T63	Conflict_Attack 4569 4574	crime
+E63	Conflict_Attack:T63 
+A63	Realis E63 Actual
+T66	Conflict_Attack 4853 4860	bombing
+E66	Conflict_Attack:T66 
+A66	Realis E66 Actual
+T69	Transaction_Transfer-Ownership 5348 5353	throw
+E69	Transaction_Transfer-Ownership:T69 
+A69	Realis E69 Generic
+T70	Life_Die 5601 5609	massacre
+E70	Life_Die:T70 
+A70	Realis E70 Actual
+T72	Life_Die 5793 5800	killing
+E72	Life_Die:T72 
+A72	Realis E72 Actual
+T75	Life_Die 6190 6198	massacre
+E75	Life_Die:T75 
+A75	Realis E75 Generic
+T76	Life_Die 6219 6226	killing
+E76	Life_Die:T76 
+A76	Realis E76 Generic
+T77	Life_Injure 6284 6291	injured
+E77	Life_Injure:T77 
+A77	Realis E77 Actual
+T78	Conflict_Attack 6325 6331	attack
+E78	Conflict_Attack:T78 
+A78	Realis E78 Actual
+T79	Life_Die 6486 6492	deaths
+E79	Life_Die:T79 
+A79	Realis E79 Actual
+T81	Life_Die 6757 6765	massacre
+E81	Life_Die:T81 
+A81	Realis E81 Actual
+T83	Life_Die 6949 6956	killing
+E83	Life_Die:T83 
+A83	Realis E83 Actual
+T88	Movement_Transport-Person 7510 7515	drive
+E88	Movement_Transport-Person:T88 
+A88	Realis E88 Generic
+T89	Conflict_Attack 7516 7524	carbombs
+E89	Conflict_Attack:T89 
+A89	Realis E89 Generic
+T90	Life_Die 7732 7740	massacre
+E90	Life_Die:T90 
+A90	Realis E90 Actual
+T92	Life_Die 7924 7931	killing
+E92	Life_Die:T92 
+A92	Realis E92 Actual
+T104	Transaction_Transfer-Ownership 9365 9372	handing
+E104	Transaction_Transfer-Ownership:T104 
+A104	Realis E104 Actual
+T105	Conflict_Attack 9428 9432;9438 9440	blew up
+E105	Conflict_Attack:T105 
+A105	Realis E105 Actual
+T106	Transaction_Transfer-Ownership 9846 9853	handing
+E106	Transaction_Transfer-Ownership:T106 
+A106	Realis E106 Actual
+T107	Conflict_Attack 9909 9913;9919 9921	blew up
+E107	Conflict_Attack:T107 
+A107	Realis E107 Actual
+T112	Contact_Meet 10522 10531	gathering
+E112	Contact_Meet:T112 
+A112	Realis E112 Actual
+T113	Transaction_Transfer-Ownership 10571 10578	handing
+E113	Transaction_Transfer-Ownership:T113 
+A113	Realis E113 Actual
+T114	Contact_Meet 10634 10642	shouting
+E114	Contact_Meet:T114 
+A114	Realis E114 Actual
+T115	Contact_Meet 10663 10669	gather
+E115	Contact_Meet:T115 
+A115	Realis E115 Other
+T117	Contact_Meet 10729 10739	surrounded
+E117	Contact_Meet:T117 
+A117	Realis E117 Actual
+T118	Contact_Meet 10818 10822	said
+E118	Contact_Meet:T118 
+A118	Realis E118 Actual
+T119	Contact_Communicate 10920 10926	called
+E119	Contact_Communicate:T119 
+A119	Realis E119 Actual
+T120	Transaction_Transfer-Ownership 11068 11073	throw
+E120	Transaction_Transfer-Ownership:T120 
+A120	Realis E120 Actual
+T121	Movement_Transport-Person 11132 11137	drove
+E121	Movement_Transport-Person:T121 
+A121	Realis E121 Actual
+T122	Life_Injure 11163 11171	ran over
+E122	Life_Injure:T122 
+A122	Realis E122 Actual
+T123	Conflict_Attack 11210 11218	exploded
+E123	Conflict_Attack:T123 
+A123	Realis E123 Actual
+T124	Life_Die 11219 11226	killing
+E124	Life_Die:T124 
+A124	Realis E124 Actual
+T127	Life_Die 11782 11786	kill
+E127	Life_Die:T127 
+A127	Realis E127 Other
+T128	Conflict_Attack 11559 11570	such crimes
+E128	Conflict_Attack:T128 
+A128	Realis E128 Generic
+T129	Conflict_Attack 11716 11724	fighting
+E129	Conflict_Attack:T129 
+A129	Realis E129 Actual
+T131	Conflict_Attack 12070 12081	such crimes
+E131	Conflict_Attack:T131 
+A131	Realis E131 Generic
+T132	Conflict_Attack 12115 12121	others
+E132	Conflict_Attack:T132 
+A132	Realis E132 Generic
+T136	Conflict_Attack 12326 12329	war
+E136	Conflict_Attack:T136 
+A136	Realis E136 Actual
+T142	Transaction_Transfer-Ownership 13323 13330	handing
+E142	Transaction_Transfer-Ownership:T142 
+A142	Realis E142 Actual
+T143	Conflict_Attack 13386 13390;13396 13398	blew up
+E143	Conflict_Attack:T143 
+A143	Realis E143 Actual
+T145	Life_Injure 14170 14178	injuries
+E145	Life_Injure:T145 
+A145	Realis E145 Actual
+T146	Life_Injure 14228 14236	injuring
+E146	Life_Injure:T146 
+A146	Realis E146 Other
+T147	Life_Injure 14268 14275	injured
+E147	Life_Injure:T147 
+A147	Realis E147 Generic
+T149	Life_Injure 14358 14370	running over
+E149	Life_Injure:T149 
+A149	Realis E149 Other
+T150	Movement_Transport-Person 14400 14408	evacuate
+E150	Movement_Transport-Person:T150 
+A150	Realis E150 Other
+T151	Conflict_Attack 14495 14499	bomb
+E151	Conflict_Attack:T151 
+A151	Realis E151 Actual
+T152	Movement_Transport-Person 14659 14664	drive
+E152	Movement_Transport-Person:T152 
+A152	Realis E152 Other
+T153	Conflict_Attack 14742 14746	bomb
+E153	Conflict_Attack:T153 
+A153	Realis E153 Actual
+T154	Life_Injure 15059 15067	injuries
+E154	Life_Injure:T154 
+A154	Realis E154 Actual
+T155	Life_Injure 15117 15125	injuring
+E155	Life_Injure:T155 
+A155	Realis E155 Other
+T156	Life_Injure 15157 15164	injured
+E156	Life_Injure:T156 
+A156	Realis E156 Generic
+T158	Life_Injure 15247 15259	running over
+E158	Life_Injure:T158 
+A158	Realis E158 Other
+T159	Movement_Transport-Person 15289 15297	evacuate
+E159	Movement_Transport-Person:T159 
+A159	Realis E159 Other
+T160	Conflict_Attack 15384 15388	bomb
+E160	Conflict_Attack:T160 
+A160	Realis E160 Actual
+T161	Movement_Transport-Person 15548 15553	drive
+E161	Movement_Transport-Person:T161 
+A161	Realis E161 Generic
+T162	Conflict_Attack 15631 15635	bomb
+E162	Conflict_Attack:T162 
+A162	Realis E162 Actual
+T174	Personnel_End-Position 17301 17307	former
+E174	Personnel_End-Position:T174 
+A174	Realis E174 Generic
+T175	Life_Die 17547 17555	massacre
+E175	Life_Die:T175 
+A175	Realis E175 Actual
+T177	Life_Die 17739 17746	killing
+E177	Life_Die:T177 
+A177	Realis E177 Actual
+T181	Life_Die 18292 18296	kill
+E181	Life_Die:T181 
+A181	Realis E181 Generic
+T182	Life_Die 18579 18591	head cut off
+E182	Life_Die:T182 
+A182	Realis E182 Other
+T188	Movement_Transport-Person 19029 19037	went out
+E188	Movement_Transport-Person:T188 
+A188	Realis E188 Actual
+T189	Contact_Meet 19071 19080	gathering
+E189	Contact_Meet:T189 
+A189	Realis E189 Actual
+T190	Transaction_Transfer-Ownership 19120 19127	handing
+E190	Transaction_Transfer-Ownership:T190 
+A190	Realis E190 Actual
+T191	Contact_Meet 19183 19191	shouting
+E191	Contact_Meet:T191 
+A191	Realis E191 Actual
+T192	Contact_Meet 19212 19218	gather
+E192	Contact_Meet:T192 
+A192	Realis E192 Actual
+T193	Contact_Meet 19278 19288	surrounded
+E193	Contact_Meet:T193 
+A193	Realis E193 Actual
+T195	Contact_Meet 19367 19371	said
+E195	Contact_Meet:T195 
+T197	Contact_Meet 19469 19475	called
+E197	Contact_Meet:T197 
+A196	Realis E197 Actual
+T198	Movement_Transport-Person 19486 19496	get inside
+E198	Movement_Transport-Person:T198 
+A197	Realis E198 Other
+T199	Movement_Transport-Person 19540 19544	went
+E199	Movement_Transport-Person:T199 
+A198	Realis E199 Actual
+T200	Transaction_Transfer-Ownership 19564 19567	get
+E200	Transaction_Transfer-Ownership:T200 
+A199	Realis E200 Other
+T201	Transaction_Transfer-Ownership 19617 19622	throw
+E201	Transaction_Transfer-Ownership:T201 
+A200	Realis E201 Actual
+T202	Contact_Meet 19311 19315	said
+E202	Contact_Meet:T202 
+A201	Realis E202 Actual
+T203	Movement_Transport-Person 19681 19686	drove
+E203	Movement_Transport-Person:T203 
+A202	Realis E203 Actual
+T204	Life_Injure 19712 19720	ran over
+E204	Life_Injure:T204 
+A203	Realis E204 Actual
+T205	Conflict_Attack 19759 19767	exploded
+E205	Conflict_Attack:T205 
+A204	Realis E205 Actual
+T206	Life_Die 19768 19775	killing
+E206	Life_Die:T206 
+A205	Realis E206 Actual
+T208	Life_Die 19818 19823	death
+E208	Life_Die:T208 
+A207	Realis E208 Actual
+T209	Conflict_Attack 19913 19918	crime
+E209	Conflict_Attack:T209 
+A208	Realis E209 Actual
+T211	Movement_Transport-Person 10480 10488	went out
+E211	Movement_Transport-Person:T211 
+A210	Realis E211 Actual
+T214	Movement_Transport-Person 10937 10947	get inside
+E214	Movement_Transport-Person:T214 
+A213	Realis E214 Other
+T215	Movement_Transport-Person 10991 10995	went
+E215	Movement_Transport-Person:T215 
+A214	Realis E215 Actual
+T216	Transaction_Transfer-Ownership 11015 11018	get
+E216	Transaction_Transfer-Ownership:T216 
+A215	Realis E216 Actual
+T218	Life_Die 11269 11274	death
+E218	Life_Die:T218 
+A217	Realis E218 Actual
+T219	Conflict_Attack 11364 11369	crime
+E219	Conflict_Attack:T219 
+A218	Realis E219 Actual
+T221	Life_Die 20031 20035	kill
+E221	Life_Die:T221 
+A220	Realis E221 Generic
+T222	Transaction_Transfer-Ownership 20079 20090	passing out
+E222	Transaction_Transfer-Ownership:T222 
+A221	Realis E222 Generic
+T223	Life_Die 20264 20273	murderous
+E223	Life_Die:T223 
+A222	Realis E223 Generic
+T225	Conflict_Attack 20537 20548	such crimes
+E225	Conflict_Attack:T225 
+A224	Realis E225 Generic
+T226	Conflict_Attack 20694 20702	fighting
+E226	Conflict_Attack:T226 
+A225	Realis E226 Actual
+T227	Life_Die 20760 20764	kill
+E227	Life_Die:T227 
+A226	Realis E227 Other
+T229	Life_Die 20880 20884	kill
+E229	Life_Die:T229 
+A228	Realis E229 Generic
+T230	Movement_Transport-Person 21169 21171	go
+E230	Movement_Transport-Person:T230 
+A229	Realis E230 Other
+T232	Life_Die 21247 21256	sacrifice
+E232	Life_Die:T232 
+A231	Realis E232 Other
+T233	Conflict_Attack 21328 21332;21342 21348	used weapon
+E233	Conflict_Attack:T233 
+A232	Realis E233 Actual
+T234	Life_Die 21381 21388	killing
+E234	Life_Die:T234 
+A233	Realis E234 Actual
+T4	Conflict_Attack 764 772	bombings
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T6	Conflict_Attack 2569 2579	crossfires
+E6	Conflict_Attack:T6 
+A6	Realis E6 Generic
+T7	Movement_Transport-Person 5294 5300	deploy
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Contact_Meet 10762 10766	said
+E8	Contact_Meet:T8 
+A8	Realis E8 Actual
+A10	Realis E195 Actual

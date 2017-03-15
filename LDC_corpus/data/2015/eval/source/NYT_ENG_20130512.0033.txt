@@ -1,0 +1,64 @@
+<DOC id="NYT_ENG_20130512.0033" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130512/20130512,2ccf9e7d0bca9a9567bdab35b514a3ee.xml">
+<HEADLINE>
+MINISTER ’ S PAST CAUSES TURMOIL IN NEW JERSEY
+</HEADLINE>
+<TEXT>
+<P>
+COLTS NECK, N.J. – With 10 children kneeling around the altar for their first communion and the pews at St. Mary’s Church packed with families gathered for Mother’s Day, there was little sign Sunday of the turmoil that has struck the parish, and threatens the Archdiocese of Newark.
+</P>
+<P>
+Just two weeks earlier, the parishioners learned that a minister working with their church’s youth groups had been barred from being around children unsupervised – a restriction he accepted to avoid retrial on a sex abuse charge.
+</P>
+<P>
+“I think everyone was just shocked; there’s no other way to put it,” Darren Barreiro, a father of three girls, said as he left Mass on Sunday.
+</P>
+<P>
+The priest, Michael Fugee, was convicted in 2003 of criminal sexual conduct stemming from allegations that he had groped a boy’s crotch during several wrestling horseplay encounters when he was associate pastor at St. Elizabeth Church in Wyckoff.
+</P>
+<P>
+Three years later, an appellate court overturned the conviction, in part because the judge allowed jurors to hear a statement Fugee made to the police saying he was attracted to males, according to The Star-Ledger of Newark.
+</P>
+<P>
+Rather than begin another trial, Fugee and the Bergen County prosecutor’s office signed an agreement that he would enter sex-offender treatment and have no unsupervised contact with children as part of his church duties.
+</P>
+<P>
+The 2007 agreement was also signed by the Archdiocese of Newark, which was required to ensure that Fugee was not assigned any tasks that would put him in a position to have unsupervised contact with children, including involvement with youth groups, attending youth retreats or hearing confessions of children.
+</P>
+<P>
+Fugee’s name came up again in 2009, when he was appointed chaplain at St. Michael’s Medical Center in Newark, a position the Newark Archdiocese said did not put him in contact with children because the hospital did not have a pediatric unit. But after inquiries, he was removed from that post.
+</P>
+<P>
+Late last year, the Newark archbishop, John J. Myers, assigned Fugee to become co-director of the Office of Continuing Education and Ongoing Formation of Priests, which caused critics of how the church has handled sex abuse issues among its clergy to call for Myers to step down.
+</P>
+<P>
+That criticism escalated after The Star-Ledger published an article on April 28 revealing that Fugee had been working with youth groups at St. Mary’s, which falls under the jurisdiction of the Trenton Archdiocese. The article said the priest had attended weekend youth retreats, traveled with the church’s youth group to Canada, and heard confessions from minors behind closed doors.
+</P>
+<P>
+On Wednesday, Steve Sweeney, president of the New Jersey Senate, released a statement calling the accusations “deeply disturbing.”
+</P>
+<P>
+“Those who are put in a position of trust, whether it be through elected office, as a coach, or as a person of faith, must be held to a higher standard,” the statement said. “And when we are talking about children, that need to trust those in charge leaves absolutely no margin for error. Archbishop Myers must step down now.”
+</P>
+<P>
+Myers was unaware of Fugee’s work in Colts Neck until the archdiocese was asked about it by a Star-Ledger reporter, his spokesman, James Goodness, said Sunday.
+</P>
+<P>
+When he learned of the work, Myers moved to suspend Fugee, who voluntarily left the ministry May 2, Goodness said. The archbishop, who will return this week from a previously scheduled trip to Poland, plans to speak publicly about the issue soon after, Goodness said.
+</P>
+<P>
+The Diocese of Trenton also said it was unaware of Fugee’s involvement with the Colts Neck church until it was contacted by a reporter. The archdiocese said the parish’s two youth group ministers, Michael and Amy Lenehan, had improperly invited Fugee to participate in the youth program without approval from the diocese or the church’s pastor, the Rev. Thomas J. Triggs.
+</P>
+<P>
+During Masses on the weekend of May 4 and 5, a statement from the Trenton bishop, David M. O’Connell, was read to parishioners in Colts Neck, saying the “troubling events” made clear that a change in leadership was in the best interest of everyone involved. The statement said the Lenehans had resigned and that Triggs was being reassigned.
+</P>
+<P>
+“There are few things in life as important as protecting our children and young people,” O’Connell said in the statement, adding that he prayed “that this community of faith will move forward together, that any anger or hurt will subside and that the Lord will bless our efforts to serve one another in his name.”
+</P>
+<P>
+A note tucked into the program for Mass on Sunday announced that the Rev. Jeffrey Lee, the pastor of Our Lady of Angels Church in Trenton, would be the church’s new pastor.
+</P>
+<P>
+In services Sunday, Lee made no mention of the recent troubles.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000627" doc_id="bolt-eng-DF-203-185940-16087934" source_type="multi_post">
+<event_mention id="em-23" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="342" length="9">overspend</trigger>
+      </event_mention>
+<event_mention id="em-36" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="570" length="6">paying</trigger>
+      </event_mention>
+<event_mention id="em-51" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="1097" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-66" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="1192" length="8">purchase</trigger>
+      </event_mention>
+<event_mention id="em-81" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="1288" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-109" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="1332" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-124" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="2047" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-137" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="2575" length="8">payments</trigger>
+      </event_mention>
+<event_mention id="em-152" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="2743" length="7">talking</trigger>
+      </event_mention>
+<event_mention id="em-167" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="2887" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-182" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="3451" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-197" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="3837" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-210" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="4552" length="8">spending</trigger>
+      </event_mention>
+<event_mention id="em-225" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="4935" length="3">pay</trigger>
+      </event_mention>
+<event_mention id="em-240" type="contact" subtype="contact" realis="generic" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185940-16087934" offset="5203" length="5">talks</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

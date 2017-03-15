@@ -1,0 +1,97 @@
+T1	Conflict_Attack 138 141	war
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 277 281	lost
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 307 310	war
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 386 390	shot
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Life_Die 413 418	Dying
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 604 610	martyr
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 699 705	Rising
+E7	Conflict_Attack:T7 
+A7	Questionable E7 Subtype
+A8	Realis E7 Actual
+T8	Life_Die 715 723	executed
+E8	Life_Die:T8 
+A9	Realis E8 Actual
+T9	Life_Die 786 796	executions
+E9	Life_Die:T9 
+A10	Realis E9 Generic
+T10	Conflict_Attack 835 843	fighting
+E10	Conflict_Attack:T10 
+A11	Realis E10 Actual
+T11	Conflict_Attack 879 883	shot
+E11	Conflict_Attack:T11 
+A12	Realis E11 Actual
+T12	Conflict_Attack 1169 1172	war
+E12	Conflict_Attack:T12 
+A13	Realis E12 Actual
+T13	Conflict_Attack 1276 1281	fight
+E13	Conflict_Attack:T13 
+A14	Realis E13 Actual
+T14	Conflict_Attack 1338 1344	fought
+E14	Conflict_Attack:T14 
+A15	Realis E14 Actual
+T15	Conflict_Attack 1355 1361	rising
+E15	Conflict_Attack:T15 
+A16	Realis E15 Actual
+T16	Conflict_Attack 1391 1397	fought
+E16	Conflict_Attack:T16 
+A17	Realis E16 Actual
+T17	Conflict_Attack 1434 1437	war
+E17	Conflict_Attack:T17 
+A18	Realis E17 Actual
+T18	Life_Die 2029 2035	killed
+E18	Life_Die:T18 
+A19	Realis E18 Actual
+T19	Movement_Transport-Person 2036 2041	going
+E19	Movement_Transport-Person:T19 
+A20	Realis E19 Actual
+T20	Contact_Meet 2058 2062	talk
+E20	Contact_Meet:T20 
+A21	Realis E20 Actual
+T21	Conflict_Attack 3856 3859	war
+E21	Conflict_Attack:T21 
+A22	Realis E21 Actual
+T22	Life_Die 4351 4356	deing
+E22	Life_Die:T22 
+A23	Realis E22 Actual
+T23	Conflict_Attack 4640 4646;4655 4659	turned guns
+E23	Conflict_Attack:T23 
+A24	Realis E23 Actual
+T24	Life_Die 5103 5108	death
+E24	Life_Die:T24 
+A25	Realis E24 Actual
+T25	Justice_Execute 5204 5214	executions
+E25	Justice_Execute:T25 
+A26	Realis E25 Generic
+T26	Life_Die 5295 5300	death
+E26	Life_Die:T26 
+A27	Realis E26 Actual
+T27	Conflict_Attack 402 410	uprising
+E27	Conflict_Attack:T27 
+A28	Realis E27 Actual
+T28	Life_Injure 827 834	injured
+E28	Life_Injure:T28 
+A29	Realis E28 Actual
+T29	Movement_Transport-Person 3048 3051	out
+E29	Movement_Transport-Person:T29 
+A30	Realis E29 Other
+T30	Movement_Transport-Person 3676 3679	out
+E30	Movement_Transport-Person:T30 
+A31	Realis E30 Other
+T31	Movement_Transport-Person 3967 3970	out
+E31	Movement_Transport-Person:T31 
+A32	Realis E31 Other
+T32	Life_Die 5157 5163	demise
+E32	Life_Die:T32 
+A33	Realis E32 Actual

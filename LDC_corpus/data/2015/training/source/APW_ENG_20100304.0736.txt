@@ -1,0 +1,22 @@
+<DOC id="APW_ENG_20100304.0736" type="story" >
+<HEADLINE>
+Nigeria: Militants claim attack on Agip pipeline
+</HEADLINE>
+<DATELINE>
+LAGOS, Nigeria 2010-03-04 14:02:35 UTC
+</DATELINE>
+<TEXT>
+<P>
+A militant group says it attacked an oil facility in the Niger Delta run by the Italian firm Agip.
+</P>
+<P>
+A statement sent to reporters from the Joint Revolutionary Council claims militants attacked the Agip facility early Wednesday morning. The militants said the facility linked several tank farms to an oil field operated by the firm.
+</P>
+<P>
+Officials with Rome-based Agip could not be immediately reached for comment.
+</P>
+<P>
+Militants in the Niger Delta have attacked pipelines, kidnapped petroleum company employees and fought government troops since January 2006. They demand that the federal government send more oil-industry funds to Nigeria's southern region, which remains poor despite five decades of oil production.
+</P>
+</TEXT>
+</DOC>

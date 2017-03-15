@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea900000000000000115" doc_id="1cd85eb4faa671d780f0b2fa29efb234" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-204" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="435" length="8">reported</trigger>
+      </event_mention>
+      <event_mention id="em-754" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="811" length="6">report</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-466" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="494" length="12">test-driving</trigger>
+      </event_mention>
+      <event_mention id="em-847" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="623" length="4">trip</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-742" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="697" length="6">riding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-539" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="788" length="8">tweeting</trigger>
+      </event_mention>
+      <event_mention id="em-592" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="766" length="10">fired back</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-357" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="911" length="6">detour</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-150" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1152" length="6">detour</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-573" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1189" length="8">declared</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-616" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1224" length="3">aid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-490" type="manufacture" subtype="artifact" realis="other">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1236" length="3">put</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-169">
+      <event_mention id="em-2" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1312" length="8">invested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-184">
+      <event_mention id="em-310" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1341" length="6">grants</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-199">
+      <event_mention id="em-732" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1360" length="5">loans</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-214">
+      <event_mention id="em-791" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1407" length="3">tax</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-229">
+      <event_mention id="em-95" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1425" length="6">buyers</trigger>
+      </event_mention>
+      <event_mention id="em-387" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1448" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-244">
+      <event_mention id="em-913" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1425" length="6">buyers</trigger>
+      </event_mention>
+      <event_mention id="em-782" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1448" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-298">
+      <event_mention id="em-935" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="1968" length="9">symposium</trigger>
+      </event_mention>
+      <event_mention id="em-440" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="4269" length="11">symposiums</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-326">
+      <event_mention id="em-137" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="2529" length="4">loan</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-354">
+      <event_mention id="em-958" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="2601" length="5">sales</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-369">
+      <event_mention id="em-193" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="2601" length="5">sales</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-384">
+      <event_mention id="em-631" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="2896" length="7">factory</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-399">
+      <event_mention id="em-317" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="2926" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-414">
+      <event_mention id="em-824" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="2957" length="8">taxpayer</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-429">
+      <event_mention id="em-481" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="3001" length="5">maker</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-444">
+      <event_mention id="em-745" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="3038" length="6">funded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-459">
+      <event_mention id="em-644" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="3065" length="6">makers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-474">
+      <event_mention id="em-907" type="business" subtype="declarebankruptcy" realis="actual">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="3082" length="8">bankrupt</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-502">
+      <event_mention id="em-41" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="5170" length="6">passed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-517">
+      <event_mention id="em-640" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="217" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-558">
+      <event_mention id="em-423" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="3320" length="4">sang</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-573">
+      <event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="3924" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-588">
+      <event_mention id="em-953" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="4171" length="5">costs</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-603">
+      <event_mention id="em-106" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="1cd85eb4faa671d780f0b2fa29efb234" offset="4528" length="8">remarked</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

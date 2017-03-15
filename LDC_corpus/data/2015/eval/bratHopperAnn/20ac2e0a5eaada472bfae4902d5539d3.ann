@@ -1,0 +1,80 @@
+T1	Contact_Meet 644 649	hosts
+E821	Contact_Meet:T1
+A1	Realis E821 Other
+T2	Movement_Transport-Person 947 956	departure
+E74	Movement_Transport-Person:T2
+A2	Realis E74 Other
+T3	Justice_Appeal 1020 1026	appeal
+E574	Justice_Appeal:T3
+A3	Realis E574 Other
+T4	Justice_Sentence 1283 1292	sentenced
+E764	Justice_Sentence:T4
+A4	Realis E764 Actual
+T5	Justice_Arrest-Jail 1311 1317	prison
+E889	Justice_Arrest-Jail:T5
+A5	Realis E889 Other
+T6	Justice_Sue 1346 1353	lawsuit
+E8	Justice_Sue:T6
+A6	Realis E8 Actual
+T7	Justice_Sue 1523 1530	lawsuit
+E579	Justice_Sue:T7
+A7	Realis E579 Actual
+T8	Justice_Fine 1419 1424	fined
+E371	Justice_Fine:T8
+A8	Realis E371 Actual
+T9	Conflict_Demonstrate 1659 1667	uprising
+E233	Conflict_Demonstrate:T9
+A9	Realis E233 Actual
+T10	Justice_Trial-Hearing 1834 1841	hearing
+E534	Justice_Trial-Hearing:T10
+A10	Realis E534 Actual
+T11	Personnel_Start-Position 1868 1879	appointment
+E292	Personnel_Start-Position:T11
+A11	Realis E292 Actual
+T12	Justice_Sue 2120 2125	suits
+E290	Justice_Sue:T12
+A12	Realis E290 Generic
+T13	Justice_Trial-Hearing 2162 2170	hearings
+E215	Justice_Trial-Hearing:T13
+A13	Realis E215 Generic
+T14	Contact_Broadcast 2185 2191	tweets
+E680	Contact_Broadcast:T14
+A14	Realis E680 Generic
+T15	Contact_Broadcast 2216 2225	announced
+E463	Contact_Broadcast:T15
+A15	Realis E463 Generic
+T16	Justice_Sentence 2281 2290	sentenced
+E435	Justice_Sentence:T16
+A16	Realis E435 Actual
+T17	Justice_Arrest-Jail 2310 2314	jail
+E495	Justice_Arrest-Jail:T17
+A17	Realis E495 Other
+T18	Transaction_Transfer-Money 2508 2514	demand
+E557	Transaction_Transfer-Money:T18
+A18	Realis E557 Other
+T19	Transaction_Transaction 2611 2620	contracts
+E637	Transaction_Transaction:T19
+A19	Realis E637 Generic
+T20	Conflict_Attack 4884 4887	War
+E285	Conflict_Attack:T20
+A20	Realis E285 Generic
+T21	Conflict_Attack 5332 5338	murder
+E725	Conflict_Attack:T21
+A21	Realis E725 Other
+T22	Life_Die 5332 5338	murder
+E883	Life_Die:T22
+A22	Realis E883 Other
+T23	Conflict_Attack 5521 5527	murder
+E663	Conflict_Attack:T23
+A23	Realis E663 Other
+T24	Life_Die 5521 5527	murder
+E742	Life_Die:T24
+A24	Realis E742 Other
+T25	Business_End-Org 1148 1158	destroying
+E633	Business_End-Org:T25
+A25	Realis E633 Other
+T26	Business_End-Org 1470 1478	shutdown
+E951	Business_End-Org:T26
+A26	Realis E951 Other
+R1	Coreference Arg1:E8 Arg2:E579
+R2	Coreference Arg1:E633 Arg2:E951

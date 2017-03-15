@@ -1,0 +1,60 @@
+T1	Justice_Trial-Hearing 109 114	court
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Other
+T2	Justice_Trial-Hearing 299 304	court
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Other
+T3	Conflict_Attack 352 359	beat up
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 380 384	fare
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Generic
+T5	Contact_Meet 416 426	appearance
+E5	Contact_Meet:T5 
+A5	Realis E5 Other
+T8	Justice_Charge-Indict 497 505	indicted
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 532 539	assault
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 544 549	theft
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Justice_Charge-Indict 550 557	charges
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Actual
+T12	Justice_Charge-Indict 607 613	charge
+E12	Justice_Charge-Indict:T12 
+A12	Realis E12 Other
+T13	Transaction_Transfer-Ownership 633 640	robbery
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Other
+T14	Justice_Arrest-Jail 696 704	arrested
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Actual
+T15	Contact_Communicate 738 742	told
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 755 763	attacked
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T18	Transaction_Transfer-Money 824 828	fare
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Actual
+T19	Justice_Charge-Indict 846 854	indicted
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Actual
+T20	Justice_Charge-Indict 867 874	charges
+E20	Justice_Charge-Indict:T20 
+A20	Realis E20 Actual
+T21	Justice_Trial-Hearing 894 899	court
+E21	Justice_Trial-Hearing:T21 
+A21	Realis E21 Other
+T6	Justice_Charge-Indict 336 343	charges
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T7	Life_Injure 934 941	bruises
+E7	Life_Injure:T7 
+A7	Realis E7 Actual

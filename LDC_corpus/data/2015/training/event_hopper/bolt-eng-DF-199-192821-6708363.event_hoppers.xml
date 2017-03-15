@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000597" doc_id="bolt-eng-DF-199-192821-6708363" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="69" length="6">chases</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="194" length="3">Sue</trigger>
+      </event_mention>
+      <event_mention id="em-68" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="326" length="3">sue</trigger>
+      </event_mention>
+      <event_mention id="em-109" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="634" length="4">This</trigger>
+      </event_mention>
+      <event_mention id="em-206" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1439" length="3">sue</trigger>
+      </event_mention>
+      <event_mention id="em-247" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1962" length="7">lawsuit</trigger>
+      </event_mention>
+      <event_mention id="em-260" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2009" length="3">sue</trigger>
+      </event_mention>
+      <event_mention id="em-273" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="568" length="4">case</trigger>
+      </event_mention>
+      <event_mention id="em-286" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2134" length="4">case</trigger>
+      </event_mention>
+      <event_mention id="em-299" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2171" length="4">case</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="217" length="7">Plunder</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="352" length="10">plundering</trigger>
+      </event_mention>
+      <event_mention id="em-150" type="transaction" subtype="transferownership" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1015" length="9">plundered</trigger>
+      </event_mention>
+      <event_mention id="em-312" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2356" length="9">plundered</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="292" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-137" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="794" length="9">interview</trigger>
+      </event_mention>
+      <event_mention id="em-193" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1298" length="9">assertion</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-94" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="380" length="6">Exodus</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="745" length="4">debt</trigger>
+      </event_mention>
+      <event_mention id="em-178" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1264" length="12">compensation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-176">
+      <event_mention id="em-163" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1137" length="3">say</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-219" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1501" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-245">
+      <event_mention id="em-232" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="1596" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-338">
+      <event_mention id="em-325" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2467" length="4">sued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-353">
+      <event_mention id="em-340" type="transaction" subtype="transferownership" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2539" length="4">owed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-368">
+      <event_mention id="em-355" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2654" length="11">counter sue</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-383">
+      <event_mention id="em-370" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2673" length="12">imprisonment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-398">
+      <event_mention id="em-385" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="2829" length="8">throwing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-413">
+      <event_mention id="em-400" type="justice" subtype="sue" realis="generic">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3197" length="4">case</trigger>
+      </event_mention>
+      <event_mention id="em-415" type="justice" subtype="sue" realis="actual">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3265" length="4">sued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-441">
+      <event_mention id="em-428" type="justice" subtype="sue" realis="actual">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3291" length="11">countersued</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-456">
+      <event_mention id="em-443" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3061" length="4">sent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-471">
+      <event_mention id="em-458" type="transaction" subtype="transferownership" realis="generic" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3307" length="7">payment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-486">
+      <event_mention id="em-473" type="transaction" subtype="transfermoney" realis="other" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3787" length="12">compensation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-501">
+      <event_mention id="em-488" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3808" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-503" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3836" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-529">
+      <event_mention id="em-516" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="3878" length="5">worth</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-544">
+      <event_mention id="em-531" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4000" length="3">sue</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-559">
+      <event_mention id="em-546" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4044" length="3">sue</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-574">
+      <event_mention id="em-561" type="life" subtype="beborn" realis="generic">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4115" length="4">life</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-589">
+      <event_mention id="em-576" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4317" length="10">commentary</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-604">
+      <event_mention id="em-591" type="justice" subtype="sue" realis="other">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4397" length="4">sued</trigger>
+      </event_mention>
+      <event_mention id="em-606" type="justice" subtype="sue" realis="generic">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4335" length="7">lawsuit</trigger>
+      </event_mention>
+      <event_mention id="em-619" type="justice" subtype="sue" realis="generic">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4539" length="8">lawsuits</trigger>
+      </event_mention>
+      <event_mention id="em-647" type="justice" subtype="sue" realis="generic">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4849" length="8">lawsuits</trigger>
+      </event_mention>
+      <event_mention id="em-660" type="justice" subtype="sue" realis="generic">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4971" length="8">lawsuits</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-645">
+      <event_mention id="em-632" type="contact" subtype="contact" realis="other" audience="canttell" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192821-6708363" offset="4737" length="5">email</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

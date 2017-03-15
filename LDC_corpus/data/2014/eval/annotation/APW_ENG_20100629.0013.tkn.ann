@@ -1,0 +1,48 @@
+T1	Life_Die 94 98	dies
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 223 229	former
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Life_Die 305 309	died
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Life_Die 361 365	died
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Business_Merge-Org 1533 1539	merged
+E5	Business_Merge-Org:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1569 1575	bought
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 2054 2064	made money
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Generic
+T8	Life_Be-Born 2907 2911	born
+E8	Life_Be-Born:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 2953 2958	moved
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Business_Start-Org 3099 3106	founded
+E10	Business_Start-Org:T10 
+A10	Realis E10 Actual
+T11	Personnel_Start-Position 4033 4042	took over
+E11	Personnel_Start-Position:T11 
+A11	Realis E11 Actual
+T12	Business_Declare-Bankruptcy 1037 1047	bankruptcy
+E12	Business_Declare-Bankruptcy:T12 
+A12	Realis E12 Other
+T13	Transaction_Transfer-Ownership 2171 2174	buy
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Generic
+T14	Transaction_Transfer-Ownership 2201 2204	buy
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T15	Contact_Communicate 3411 3418	telling
+E15	Contact_Communicate:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 3621 3630	interview
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual

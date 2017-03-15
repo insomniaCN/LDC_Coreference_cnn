@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589761b0000000000000002" doc_id="AFP_ENG_20090818.0072" source_type="newswire">
+<event_mention id="em-82" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="259" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-95" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="88" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-108" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1167" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-121" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3598" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-134" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="690" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-147" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="274" length="10">conviction</trigger>
+      </event_mention>
+<event_mention id="em-160" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1182" length="10">conviction</trigger>
+      </event_mention>
+<event_mention id="em-173" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="939" length="9">serve out</trigger>
+      </event_mention>
+<event_mention id="em-186" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="787" length="14">remain in jail</trigger>
+      </event_mention>
+<event_mention id="em-199" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="3386" length="16">stay behind bars</trigger>
+      </event_mention>
+<event_mention id="em-212" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="478" length="6">jailed</trigger>
+      </event_mention>
+<event_mention id="em-225" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="969" length="7">serving</trigger>
+      </event_mention>
+<event_mention id="em-238" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20090818.0072" offset="1538" length="8">transfer</trigger>
+      </event_mention>
+<event_mention id="em-251" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20090818.0072" offset="2209" length="8">transfer</trigger>
+      </event_mention>
+<event_mention id="em-264" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="517" length="6">moving</trigger>
+      </event_mention>
+<event_mention id="em-277" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="1074" length="6">return</trigger>
+      </event_mention>
+<event_mention id="em-290" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="1511" length="4">sent</trigger>
+      </event_mention>
+<event_mention id="em-303" type="movement" subtype="transportperson" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="2177" length="12">repatriation</trigger>
+      </event_mention>
+<event_mention id="em-316" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2104" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-329" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2261" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-342" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1640" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-355" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="2323" length="7">release</trigger>
+      </event_mention>
+<event_mention id="em-368" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="546" length="7">freeing</trigger>
+      </event_mention>
+<event_mention id="em-381" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="2459" length="5">freed</trigger>
+      </event_mention>
+<event_mention id="em-394" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="3648" length="7">release</trigger>
+      </event_mention>
+<event_mention id="em-407" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2661" length="9">sentenced</trigger>
+      </event_mention>
+<event_mention id="em-420" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2123" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-433" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1694" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-446" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3703" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-459" type="justice" subtype="appeal" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3903" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-472" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3748" length="7">bombing</trigger>
+      </event_mention>
+<event_mention id="em-485" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="709" length="10">blowing up</trigger>
+      </event_mention>
+<event_mention id="em-498" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3967" length="7">bombing</trigger>
+      </event_mention>
+<event_mention id="em-511" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="376" length="4">free</trigger>
+      </event_mention>
+<event_mention id="em-524" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="489" length="7">killing</trigger>
+      </event_mention>
+<event_mention id="em-537" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="586" length="7">keeping</trigger>
+      </event_mention>
+<event_mention id="em-550" type="life" subtype="die" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="1421" length="3">die</trigger>
+      </event_mention>
+<event_mention id="em-563" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1795" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-576" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2001" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-589" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2523" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-602" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090818.0072" offset="2562" length="3">met</trigger>
+      </event_mention>
+<event_mention id="em-615" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="2602" length="13">grant freedom</trigger>
+      </event_mention>
+<event_mention id="em-628" type="justice" subtype="sentence" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3517" length="8">sentence</trigger>
+      </event_mention>
+<event_mention id="em-641" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="3955" length="4">died</trigger>
+      </event_mention>
+<event_mention id="em-654" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090818.0072" offset="2581" length="9">discussed</trigger>
+      </event_mention>
+<event_mention id="em-667" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20090818.0072" offset="3304" length="6">called</trigger>
+      </event_mention>
+<event_mention id="em-680" type="life" subtype="die" realis="other">
+        <trigger source="AFP_ENG_20090818.0072" offset="191" length="5">Dying</trigger>
+      </event_mention>
+<event_mention id="em-693" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090818.0072" offset="645" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-706" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20090818.0072" offset="855" length="10">enunciated</trigger>
+      </event_mention>
+<event_mention id="em-719" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="AFP_ENG_20090818.0072" offset="1138" length="5">ruled</trigger>
+      </event_mention>
+<event_mention id="em-732" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1219" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-745" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20090818.0072" offset="1278" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-758" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1278" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-771" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="1138" length="5">ruled</trigger>
+      </event_mention>
+<event_mention id="em-784" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="AFP_ENG_20090818.0072" offset="2027" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-797" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090818.0072" offset="2747" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-810" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090818.0072" offset="3103" length="8">insisted</trigger>
+      </event_mention>
+<event_mention id="em-823" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20090818.0072" offset="3912" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-836" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="2838" length="8">received</trigger>
+      </event_mention>
+<event_mention id="em-849" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20090818.0072" offset="489" length="7">killing</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

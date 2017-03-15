@@ -1,0 +1,81 @@
+T2	Transaction_Transfer-Ownership 426 429	buy
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Ownership 520 523	get
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Other
+T4	Contact_Communicate 538 543	asked
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Movement_Transport-Person 580 584	went
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 609 613	said
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T9	Life_Die 1232 1236	dead
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1334 1340	deaths
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 1279 1283	cost
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Life_Die 1384 1388	lost
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T20	Conflict_Attack 2007 2013	bombed
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T25	Contact_Communicate 2302 2306	told
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Contact_Communicate 2402 2412	interviews
+E26	Contact_Communicate:T26 
+A26	Realis E26 Actual
+T28	Personnel_Start-Position 2565 2574	took over
+E28	Personnel_Start-Position:T28 
+A28	Realis E28 Actual
+T32	Personnel_Nominate 3059 3068	nominated
+E32	Personnel_Nominate:T32 
+A32	Realis E32 Actual
+T33	Contact_Communicate 3276 3280	memo
+E33	Contact_Communicate:T33 
+A33	Realis E33 Generic
+T35	Contact_Meet 3941 3948	debater
+E35	Contact_Meet:T35 
+A35	Realis E35 Generic
+T36	Contact_Meet 4017 4023	debate
+E36	Contact_Meet:T36 
+A36	Realis E36 Other
+T41	Contact_Meet 4879 4886	debater
+E41	Contact_Meet:T41 
+A41	Realis E41 Generic
+T42	Contact_Meet 4955 4961	debate
+E42	Contact_Meet:T42 
+A42	Realis E42 Other
+T43	Transaction_Transfer-Money 4998 5006	spending
+E43	Transaction_Transfer-Money:T43 
+A43	Realis E43 Actual
+T45	Transaction_Transfer-Money 4060 4068	spending
+E45	Transaction_Transfer-Money:T45 
+A45	Realis E45 Actual
+T51	Conflict_Attack 786 789	use
+E51	Conflict_Attack:T51 
+A51	Realis E51 Other
+T53	Conflict_Attack 2712 2715	war
+E53	Conflict_Attack:T53 
+A53	Realis E53 Actual
+T54	Conflict_Attack 3108 3111	war
+E54	Conflict_Attack:T54 
+A54	Realis E54 Actual
+T55	Conflict_Attack 3179 3181	it
+E55	Conflict_Attack:T55 
+A55	Realis E55 Actual
+T56	Conflict_Attack 3262 3265	War
+E56	Conflict_Attack:T56 
+A56	Realis E56 Generic
+T1	Personnel_Start-Position 2538 2541;2544 2553	get promotion
+E1	Personnel_Start-Position:T1 
+A1	Realis E1 Other

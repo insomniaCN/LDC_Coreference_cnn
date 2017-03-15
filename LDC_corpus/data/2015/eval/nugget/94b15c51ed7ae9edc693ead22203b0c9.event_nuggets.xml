@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab40000000000000191" doc_id="94b15c51ed7ae9edc693ead22203b0c9" source_type="multi_post">
+  <event_mention id="em-39" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1278" length="8">appeared</trigger>
+  </event_mention>
+  <event_mention id="em-49" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="2016" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-71" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="758" length="6">letter</trigger>
+  </event_mention>
+  <event_mention id="em-76" type="justice" subtype="appeal" realis="generic">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1297" length="9">appellate</trigger>
+  </event_mention>
+  <event_mention id="em-154" type="justice" subtype="convict" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="237" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-161" type="justice" subtype="convict" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="2312" length="5">guilt</trigger>
+  </event_mention>
+  <event_mention id="em-177" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="384" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-250" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="2027" length="8">imprison</trigger>
+  </event_mention>
+  <event_mention id="em-335" type="conflict" subtype="attack" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="250" length="10">assaulting</trigger>
+  </event_mention>
+  <event_mention id="em-364" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1248" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-371" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1127" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-425" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="301" length="13">demonstration</trigger>
+  </event_mention>
+  <event_mention id="em-445" type="conflict" subtype="attack" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="589" length="7">grabbed</trigger>
+  </event_mention>
+  <event_mention id="em-473" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1055" length="12">incarcerated</trigger>
+  </event_mention>
+  <event_mention id="em-490" type="justice" subtype="sentence" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="860" length="8">sentence</trigger>
+  </event_mention>
+  <event_mention id="em-549" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="175" length="9">protester</trigger>
+  </event_mention>
+  <event_mention id="em-557" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="2134" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-688" type="conflict" subtype="attack" realis="actual">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="650" length="5">elbow</trigger>
+  </event_mention>
+  <event_mention id="em-698" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="991" length="11">incarcerate</trigger>
+  </event_mention>
+  <event_mention id="em-739" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="919" length="6">letter</trigger>
+  </event_mention>
+  <event_mention id="em-751" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1234" length="7">refused</trigger>
+  </event_mention>
+  <event_mention id="em-820" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1174" length="5">asked</trigger>
+  </event_mention>
+  <event_mention id="em-823" type="justice" subtype="sentence" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1116" length="10">sentencing</trigger>
+  </event_mention>
+  <event_mention id="em-900" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1485" length="4">says</trigger>
+  </event_mention>
+  <event_mention id="em-981" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="1351" length="7">request</trigger>
+  </event_mention>
+  <event_mention id="em-998" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="94b15c51ed7ae9edc693ead22203b0c9" offset="469" length="6">prison</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

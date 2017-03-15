@@ -1,0 +1,36 @@
+T1	Business_Start-Org 780 787	opening
+E15	Business_Start-Org:T1
+A1	Realis E15 Other
+T2	Transaction_Transfer-Money 164 170	Bribes
+E26	Transaction_Transfer-Money:T2
+A2	Realis E26 Actual
+T3	Transaction_Transfer-Money 574 582	accepted
+E87	Transaction_Transfer-Money:T3
+A3	Realis E87 Actual
+T4	Justice_Charge-Indict 423 430	charges
+E254	Justice_Charge-Indict:T4
+A4	Realis E254 Actual
+T5	Transaction_Transfer-Money 415 422	bribery
+E278	Transaction_Transfer-Money:T5
+A5	Realis E278 Generic
+T6	Business_Start-Org 197 201	Open
+E390	Business_Start-Org:T6
+A6	Realis E390 Other
+T7	Justice_Arrest-Jail 853 861	arrested
+E404	Justice_Arrest-Jail:T7
+A7	Realis E404 Actual
+T8	Transaction_Transfer-Money 610 616	bribes
+E416	Transaction_Transfer-Money:T8
+A8	Realis E416 Actual
+T9	Transaction_Transfer-Money 726 734	accepted
+E445	Transaction_Transfer-Money:T9
+A9	Realis E445 Actual
+T10	Contact_Contact 712 721	requested
+E653	Contact_Contact:T10
+A10	Realis E653 Actual
+T11	Justice_Arrest-Jail 272 280	arrested
+E735	Justice_Arrest-Jail:T11
+A11	Realis E735 Actual
+T12	Transaction_Transfer-Money 740 748	payments
+E950	Transaction_Transfer-Money:T12
+A12	Realis E950 Actual

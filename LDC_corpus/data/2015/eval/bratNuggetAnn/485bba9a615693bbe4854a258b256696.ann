@@ -1,0 +1,51 @@
+T1	Manufacture_Artifact 3916 3920	made
+E10	Manufacture_Artifact:T1
+A1	Realis E10 Actual
+T2	Contact_Contact 1031 1041	persuading
+E24	Contact_Contact:T2
+A2	Realis E24 Actual
+T3	Transaction_Transfer-Ownership 1217 1224	selling
+E217	Transaction_Transfer-Ownership:T3
+A3	Realis E217 Other
+T4	Contact_Contact 1724 1730	citing
+E231	Contact_Contact:T4
+A4	Realis E231 Generic
+T5	Contact_Contact 2073 2076	say
+E334	Contact_Contact:T5
+A5	Realis E334 Generic
+T6	Transaction_Transfer-Money 1217 1224	selling
+E485	Transaction_Transfer-Money:T6
+A6	Realis E485 Other
+T7	Transaction_Transfer-Money 1580 1585	bring
+E502	Transaction_Transfer-Money:T7
+A7	Realis E502 Other
+T8	Transaction_Transfer-Money 1858 1865	raising
+E537	Transaction_Transfer-Money:T8
+A8	Realis E537 Generic
+T9	Life_Beborn 2398 2402	have
+E564	Life_Beborn:T9
+A9	Realis E564 Generic
+T10	Manufacture_Artifact 967 975	building
+E580	Manufacture_Artifact:T10
+A10	Realis E580 Actual
+T11	Transaction_Transfer-Money 1875 1882	selling
+E597	Transaction_Transfer-Money:T11
+A11	Realis E597 Generic
+T12	Contact_Contact 3035 3045	requesting
+E641	Contact_Contact:T12
+A12	Realis E641 Actual
+T13	Manufacture_Artifact 3049 3054	build
+E691	Manufacture_Artifact:T13
+A13	Realis E691 Other
+T14	Transaction_Transfer-Money 527 534	selling
+E770	Transaction_Transfer-Money:T14
+A14	Realis E770 Other
+T15	Transaction_Transfer-Ownership 527 534	selling
+E806	Transaction_Transfer-Ownership:T15
+A15	Realis E806 Other
+T16	Transaction_Transfer-Ownership 1875 1882	selling
+E820	Transaction_Transfer-Ownership:T16
+A16	Realis E820 Generic
+T17	Movement_Transport-Person 2620 2624	trip
+E989	Movement_Transport-Person:T17
+A17	Realis E989 Actual

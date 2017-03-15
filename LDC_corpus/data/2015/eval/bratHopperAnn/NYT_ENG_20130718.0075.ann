@@ -1,0 +1,124 @@
+T1	Justice_Convict 186 194	CONVICTS
+E591	Justice_Convict:T1
+A1	Realis E591 Actual
+T2	Justice_Convict 523 529	guilty
+E49	Justice_Convict:T2
+A2	Realis E49 Actual
+T3	Transaction_Transfer-Money 542 550	stealing
+E780	Transaction_Transfer-Money:T3
+A3	Realis E780 Actual
+T4	Justice_Sentence 613 622	sentenced
+E341	Justice_Sentence:T4
+A4	Realis E341 Actual
+T5	Justice_Sentence 2592 2600	sentence
+E770	Justice_Sentence:T5
+A5	Realis E770 Actual
+T6	Justice_Sentence 2810 2818	sentence
+E376	Justice_Sentence:T6
+A6	Realis E376 Actual
+T7	Justice_Arrest-Jail 640 646	prison
+E333	Justice_Arrest-Jail:T7
+A7	Realis E333 Generic
+T8	Justice_Arrest-Jail 2686 2690	jail
+E798	Justice_Arrest-Jail:T8
+A8	Realis E798 Generic
+T9	Justice_Sentence 1197 1206	sentenced
+E991	Justice_Sentence:T9
+A9	Realis E991 Actual
+T10	Justice_Arrest-Jail 1224 1230	prison
+E885	Justice_Arrest-Jail:T10
+A10	Realis E885 Generic
+T11	Transaction_Transfer-Money 1269 1279	embezzling
+E15	Transaction_Transfer-Money:T11
+A11	Realis E15 Other
+T12	Justice_Fine 1312 1317	fined
+E211	Justice_Fine:T12
+A12	Realis E211 Actual
+T13	Justice_Trial-Hearing 1610 1615	trial
+E598	Justice_Trial-Hearing:T13
+A13	Realis E598 Actual
+T14	Justice_Trial-Hearing 1392 1401	testimony
+E697	Justice_Trial-Hearing:T14
+A14	Realis E697 Actual
+T15	Justice_Trial-Hearing 1559 1568	testimony
+E70	Justice_Trial-Hearing:T15
+A15	Realis E70 Actual
+T16	Personnel_End-Position 2043 2049	former
+E970	Personnel_End-Position:T16
+A16	Realis E970 Actual
+T17	Contact_Broadcast 1548 1554	called
+E544	Contact_Broadcast:T17
+A17	Realis E544 Actual
+T18	Contact_Broadcast 1633 1637	gave
+E387	Contact_Broadcast:T18
+A18	Realis E387 Actual
+T19	Contact_Broadcast 2068 2077	described
+E425	Contact_Broadcast:T19
+A19	Realis E425 Actual
+T20	Contact_Contact 2288 2292	said
+E338	Contact_Contact:T20
+A20	Realis E338 Actual
+T21	Contact_Broadcast 2559 2564	wrote
+E488	Contact_Broadcast:T21
+A21	Realis E488 Actual
+T22	Personnel_Elect 1956 1964	election
+E965	Personnel_Elect:T22
+A22	Realis E965 Other
+T23	Personnel_Elect 1985 1992	ballots
+E481	Personnel_Elect:T23
+A23	Realis E481 Other
+T24	Personnel_Elect 2183 2192	electoral
+E940	Personnel_Elect:T24
+A24	Realis E940 Generic
+T25	Personnel_Elect 2406 2415	elections
+E313	Personnel_Elect:T25
+A25	Realis E313 Generic
+T26	Personnel_Elect 2540 2549	elections
+E220	Personnel_Elect:T26
+A26	Realis E220 Generic
+T27	Movement_Transport-Person 2751 2759	led away
+E235	Movement_Transport-Person:T27
+A27	Realis E235 Actual
+T28	Conflict_Demonstrate 2978 2983	rally
+E997	Conflict_Demonstrate:T28
+A28	Realis E997 Other
+T29	Contact_Broadcast 3069 3072	say
+E101	Contact_Broadcast:T29
+A29	Realis E101 Actual
+T30	Contact_Broadcast 717 725	declared
+E536	Contact_Broadcast:T30
+A30	Realis E536 Actual
+T31	Justice_Arrest-Jail 818 826	prisoner
+E234	Justice_Arrest-Jail:T31
+A31	Realis E234 Actual
+T32	Contact_Meet 1702 1715	cross-examine
+E930	Contact_Meet:T32
+A32	Realis E930 Other
+T33	Contact_Meet 1392 1401	testimony
+E108	Contact_Meet:T33
+A33	Realis E108 Actual
+T34	Contact_Meet 1559 1568	testimony
+E683	Contact_Meet:T34
+A34	Realis E683 Actual
+T35	Contact_Meet 1765 1772	calling
+E907	Contact_Meet:T35
+A35	Realis E907 Other
+T36	Contact_Meet 2869 2875	gather
+E314	Contact_Meet:T36
+A36	Realis E314 Actual
+T37	Contact_Broadcast 3028 3040	announcement
+E254	Contact_Broadcast:T37
+A37	Realis E254 Actual
+T38	Contact_Meet 3089 3095	attend
+E257	Contact_Meet:T38
+A38	Realis E257 Other
+R1	Coreference Arg1:E591 Arg2:E49
+R2	Coreference Arg1:E341 Arg2:E770
+R3	Coreference Arg1:E770 Arg2:E376
+R4	Coreference Arg1:E333 Arg2:E798
+R5	Coreference Arg1:E697 Arg2:E70
+R6	Coreference Arg1:E70 Arg2:E598
+R7	Coreference Arg1:E338 Arg2:E488
+R8	Coreference Arg1:E940 Arg2:E313
+R9	Coreference Arg1:E313 Arg2:E220
+R10	Coreference Arg1:E108 Arg2:E683

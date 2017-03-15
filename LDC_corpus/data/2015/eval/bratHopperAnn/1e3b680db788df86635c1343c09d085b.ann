@@ -1,0 +1,83 @@
+T1	Life_Marry 370 377	married
+E647	Life_Marry:T1
+A1	Realis E647 Actual
+T2	Movement_Transport-Person 489 495	walked
+E804	Movement_Transport-Person:T2
+A2	Realis E804 Actual
+T3	Conflict_Attack 600 609	terrorist
+E454	Conflict_Attack:T3
+A3	Realis E454 Generic
+T4	Conflict_Attack 790 799	terrorist
+E739	Conflict_Attack:T4
+A4	Realis E739 Generic
+T5	Conflict_Attack 1016 1026	terrorists
+E471	Conflict_Attack:T5
+A5	Realis E471 Generic
+T6	Conflict_Attack 1406 1415	terrorism
+E87	Conflict_Attack:T6
+A6	Realis E87 Generic
+T7	Conflict_Attack 648 654	fought
+E209	Conflict_Attack:T7
+A7	Realis E209 Generic
+T8	Movement_Transport-Person 698 707	returning
+E396	Movement_Transport-Person:T8
+A8	Realis E396 Actual
+T9	Justice_Charge-Indict 734 744	indictment
+E149	Justice_Charge-Indict:T9
+A9	Realis E149 Actual
+T10	Justice_Charge-Indict 981 988	charges
+E625	Justice_Charge-Indict:T10
+A10	Realis E625 Actual
+T11	Justice_Charge-Indict 1279 1289	indictment
+E693	Justice_Charge-Indict:T11
+A11	Realis E693 Actual
+T12	Justice_Charge-Indict 1363 1370	charged
+E178	Justice_Charge-Indict:T12
+A12	Realis E178 Actual
+T13	Justice_Charge-Indict 1479 1486	charged
+E879	Justice_Charge-Indict:T13
+A13	Realis E879 Actual
+T14	Movement_Transport-Person 869 877	traveled
+E922	Movement_Transport-Person:T14
+A14	Realis E922 Actual
+T15	Conflict_Attack 931 936	jihad
+E262	Conflict_Attack:T15
+A15	Realis E262 Other
+T16	Movement_Transport-Person 942 950	returned
+E241	Movement_Transport-Person:T16
+A16	Realis E241 Actual
+T17	Contact_Broadcast 1267 1274	release
+E860	Contact_Broadcast:T17
+A17	Realis E860 Actual
+T18	Transaction_Transaction 1376 1385	providing
+E112	Transaction_Transaction:T18
+A18	Realis E112 Actual
+T19	Justice_Convict 1420 1429	convicted
+E699	Justice_Convict:T19
+A19	Realis E699 Other
+T20	Justice_Arrest-Jail 1455 1461	prison
+E679	Justice_Arrest-Jail:T20
+A20	Realis E679 Other
+T21	Conflict_Attack 1556 1561	jihad
+E704	Conflict_Attack:T21
+A21	Realis E704 Generic
+T22	Contact_Contact 321 325	said
+E796	Contact_Contact:T22
+A22	Realis E796 Actual
+T23	Contact_Contact 1188 1192	said
+E870	Contact_Contact:T23
+A23	Realis E870 Actual
+T24	Contact_Contact 1207 1211	give
+E956	Contact_Contact:T24
+A24	Realis E956 Actual
+T25	Contact_Contact 1525 1535	encouraged
+E18	Contact_Contact:T25
+A25	Realis E18 Generic
+R1	Coreference Arg1:E454 Arg2:E739
+R2	Coreference Arg1:E739 Arg2:E471
+R3	Coreference Arg1:E471 Arg2:E87
+R4	Coreference Arg1:E149 Arg2:E625
+R5	Coreference Arg1:E625 Arg2:E693
+R6	Coreference Arg1:E693 Arg2:E178
+R7	Coreference Arg1:E178 Arg2:E879
+R8	Coreference Arg1:E870 Arg2:E956

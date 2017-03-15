@@ -1,0 +1,54 @@
+T1	Conflict_Demonstrate 290 300	protesters
+E880	Conflict_Demonstrate:T1
+A1	Realis E880 Actual
+T2	Contact_Meet 301 309	gathered
+E305	Contact_Meet:T2
+A2	Realis E305 Actual
+T3	Movement_Transport-Person 395 402	driving
+E302	Movement_Transport-Person:T3
+A3	Realis E302 Actual
+T4	Contact_Broadcast 422 429	reports
+E668	Contact_Broadcast:T4
+A4	Realis E668 Actual
+T5	Contact_Contact 464 468	told
+E748	Contact_Contact:T5
+A5	Realis E748 Actual
+T6	Conflict_Demonstrate 437 449	Demonstrator
+E343	Conflict_Demonstrate:T6
+A6	Realis E343 Actual
+T7	Contact_Meet 505 510	visit
+E48	Contact_Meet:T7
+A7	Realis E48 Actual
+T8	Movement_Transport-Person 505 510	visit
+E983	Movement_Transport-Person:T8
+A8	Realis E983 Actual
+T9	Transaction_Transaction 636 639	aid
+E73	Transaction_Transaction:T9
+A9	Realis E73 Generic
+T10	Conflict_Demonstrate 712 725	demonstrators
+E134	Conflict_Demonstrate:T10
+A10	Realis E134 Actual
+T11	Contact_Meet 726 734	gathered
+E470	Contact_Meet:T11
+A11	Realis E470 Actual
+T12	Contact_Broadcast 751 757	demand
+E287	Contact_Broadcast:T12
+A12	Realis E287 Other
+T13	Justice_Release-Parole 767 771	free
+E998	Justice_Release-Parole:T13
+A13	Realis E998 Other
+T14	Justice_Arrest-Jail 790 800	imprisoned
+E220	Justice_Arrest-Jail:T14
+A14	Realis E220 Actual
+T15	Contact_Meet 208 215	greeted
+E874	Contact_Meet:T15
+A15	Realis E874 Other
+T16	Conflict_Attack 518 522	slap
+E288	Conflict_Attack:T16
+A16	Realis E288 Generic
+T17	Life_Injure 518 522	slap
+E356	Life_Injure:T17
+A17	Realis E356 Generic
+T18	Movement_Transport-Person 968 973	heads
+E846	Movement_Transport-Person:T18
+A18	Realis E846 Other

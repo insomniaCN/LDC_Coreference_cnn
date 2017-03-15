@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9b0000000000000138" doc_id="406adae4010757aaaabe1968b69c7f76" source_type="multi_post">
+  <event_mention id="em-43" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="736" length="6">gather</trigger>
+  </event_mention>
+  <event_mention id="em-54" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2259" length="10">assaulting</trigger>
+  </event_mention>
+  <event_mention id="em-213" type="life" subtype="injure" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1573" length="4">cuts</trigger>
+  </event_mention>
+  <event_mention id="em-227" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1301" length="7">smashed</trigger>
+  </event_mention>
+  <event_mention id="em-232" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1918" length="7">chanted</trigger>
+  </event_mention>
+  <event_mention id="em-241" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2472" length="6">Fights</trigger>
+  </event_mention>
+  <event_mention id="em-249" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1506" length="7">smashed</trigger>
+  </event_mention>
+  <event_mention id="em-250" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1863" length="6">jumped</trigger>
+  </event_mention>
+  <event_mention id="em-254" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1396" length="7">paraded</trigger>
+  </event_mention>
+  <event_mention id="em-256" type="life" subtype="injure" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1484" length="7">injured</trigger>
+  </event_mention>
+  <event_mention id="em-342" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2489" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-348" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1735" length="5">riots</trigger>
+  </event_mention>
+  <event_mention id="em-407" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1343" length="8">Carrying</trigger>
+  </event_mention>
+  <event_mention id="em-447" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1325" length="10">vandalised</trigger>
+  </event_mention>
+  <event_mention id="em-466" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1530" length="9">showering</trigger>
+  </event_mention>
+  <event_mention id="em-474" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="993" length="8">rampaged</trigger>
+  </event_mention>
+  <event_mention id="em-490" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1123" length="5">riots</trigger>
+  </event_mention>
+  <event_mention id="em-497" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2100" length="4">came</trigger>
+  </event_mention>
+  <event_mention id="em-501" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1771" length="11">congregated</trigger>
+  </event_mention>
+  <event_mention id="em-525" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2233" length="7">charged</trigger>
+  </event_mention>
+  <event_mention id="em-532" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1607" length="7">reports</trigger>
+  </event_mention>
+  <event_mention id="em-580" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="376" length="7">rampage</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1819" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-678" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2567" length="7">clashed</trigger>
+  </event_mention>
+  <event_mention id="em-791" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1396" length="7">paraded</trigger>
+  </event_mention>
+  <event_mention id="em-810" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2084" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-876" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1428" length="11">threatening</trigger>
+  </event_mention>
+  <event_mention id="em-921" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2170" length="6">unrest</trigger>
+  </event_mention>
+  <event_mention id="em-948" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="993" length="8">rampaged</trigger>
+  </event_mention>
+  <event_mention id="em-949" type="conflict" subtype="attack" realis="actual">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="1630" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-958" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2013" length="7">singing</trigger>
+  </event_mention>
+  <event_mention id="em-976" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="406adae4010757aaaabe1968b69c7f76" offset="2299" length="9">cautioned</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

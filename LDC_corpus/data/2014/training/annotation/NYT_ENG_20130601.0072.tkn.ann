@@ -1,0 +1,63 @@
+T2	Life_Die 227 233	KILLED
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 243 251	FIGHTING
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 320 323;335 342	got message
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T6	Contact_Communicate 496 501	asked
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 634 643	showed up
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T12	Life_Die 899 905	killed
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 937 950	confrontation
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T15	Conflict_Attack 1132 1138;1141 1148	tossed grenade
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T18	Conflict_Attack 1182 1187	fired
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T22	Movement_Transport-Person 1616 1624	was away
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Contact_Communicate 1832 1838	texted
+E23	Contact_Communicate:T23 
+A23	Realis E23 Actual
+T24	Movement_Transport-Person 1892 1898	coming
+E24	Movement_Transport-Person:T24 
+A24	Realis E24 Other
+T25	Contact_Communicate 1932 1952	reached by telephone
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Contact_Communicate 1971 1975	said
+E26	Contact_Communicate:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 2103 2111	battling
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Contact_Communicate 2147 2151	said
+E28	Contact_Communicate:T28 
+A28	Realis E28 Actual
+T29	Life_Die 2238 2244	killed
+E29	Life_Die:T29 
+A29	Realis E29 Actual
+T32	Life_Die 2764 2769	death
+E32	Life_Die:T32 
+A32	Realis E32 Actual
+T33	Life_Die 2826 2832	killed
+E33	Life_Die:T33 
+A33	Realis E33 Generic
+T1	Movement_Transport-Person 2522 2526	went
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T5	Contact_Communicate 1879 1883	said
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual

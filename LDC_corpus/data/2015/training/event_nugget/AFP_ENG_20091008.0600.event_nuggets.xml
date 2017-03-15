@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976200000000000000007" doc_id="AFP_ENG_20091008.0600" source_type="newswire">
+<event_mention id="em-14" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091008.0600" offset="96" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-27" type="life" subtype="injure" realis="actual">
+        <trigger source="AFP_ENG_20091008.0600" offset="107" length="7">wounded</trigger>
+      </event_mention>
+<event_mention id="em-40" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091008.0600" offset="132" length="6">attack</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

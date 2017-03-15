@@ -1,0 +1,97 @@
+T1	Justice_Trial-Hearing 350 355	trial
+E841	Justice_Trial-Hearing:T1
+A1	Realis E841 Actual
+T2	Justice_Trial-Hearing 433 438	trial
+E704	Justice_Trial-Hearing:T2
+A2	Realis E704 Actual
+T3	Justice_Trial-Hearing 219 224	TRIAL
+E205	Justice_Trial-Hearing:T3
+A3	Realis E205 Actual
+T4	Justice_Trial-Hearing 512 517	trial
+E22	Justice_Trial-Hearing:T4
+A4	Realis E22 Actual
+T5	Justice_Trial-Hearing 976 981	trial
+E750	Justice_Trial-Hearing:T5
+A5	Realis E750 Actual
+T6	Justice_Trial-Hearing 2682 2687	trial
+E523	Justice_Trial-Hearing:T6
+A6	Realis E523 Actual
+T7	Justice_Trial-Hearing 709 711	it
+E985	Justice_Trial-Hearing:T7
+A7	Realis E985 Actual
+T8	Justice_Trial-Hearing 756 758	It
+E596	Justice_Trial-Hearing:T8
+A8	Realis E596 Actual
+T9	Justice_Convict 484 493	convicted
+E840	Justice_Convict:T9
+A9	Realis E840 Other
+T10	Contact_Meet 420 423	say
+E780	Contact_Meet:T10
+A10	Realis E780 Actual
+T11	Contact_Meet 198 205	ASSERTS
+E112	Contact_Meet:T11
+A11	Realis E112 Actual
+T12	Contact_Meet 1186 1191	spoke
+E813	Contact_Meet:T12
+A12	Realis E813 Actual
+T13	Contact_Meet 1348 1352	told
+E745	Contact_Meet:T13
+A13	Realis E745 Actual
+T14	Justice_Charge-Indict 669 677	indicted
+E72	Justice_Charge-Indict:T14
+A14	Realis E72 Other
+T15	Contact_Meet 893 900	request
+E520	Contact_Meet:T15
+A15	Realis E520 Actual
+T16	Contact_Broadcast 1129 1139	statements
+E443	Contact_Broadcast:T16
+A16	Realis E443 Other
+T17	Justice_Trial-Hearing 1596 1607	prosecution
+E897	Justice_Trial-Hearing:T17
+A17	Realis E897 Actual
+T18	Justice_Charge-Indict 1817 1824	charged
+E373	Justice_Charge-Indict:T18
+A18	Realis E373 Actual
+T19	Transaction_Transfer-Money 1830 1840	embezzling
+E479	Transaction_Transfer-Money:T19
+A19	Realis E479 Actual
+T20	Conflict_Demonstrate 2351 2359	protests
+E246	Conflict_Demonstrate:T20
+A20	Realis E246 Actual
+T21	Conflict_Demonstrate 2400 2408	protests
+E663	Conflict_Demonstrate:T21
+A21	Realis E663 Actual
+T22	Conflict_Demonstrate 2105 2113	protests
+E166	Conflict_Demonstrate:T22
+A22	Realis E166 Actual
+T23	Contact_Contact 2503 2512	interview
+E778	Contact_Contact:T23
+A23	Realis E778 Actual
+T24	Contact_Broadcast 519 527	streamed
+E314	Contact_Broadcast:T24
+A24	Realis E314 Actual
+T25	Justice_Appeal 1036 1044	appealed
+E991	Justice_Appeal:T25
+A25	Realis E991 Actual
+T26	Justice_Appeal 1084 1090	appeal
+E335	Justice_Appeal:T26
+A26	Realis E335 Actual
+T27	Contact_Broadcast 1390 1396	posted
+E202	Contact_Broadcast:T27
+A27	Realis E202 Actual
+T28	Justice_Arrest-Jail 1684 1690	prison
+E2	Justice_Arrest-Jail:T28
+A28	Realis E2 Actual
+R1	Coreference Arg1:E205 Arg2:E841
+R2	Coreference Arg1:E841 Arg2:E704
+R3	Coreference Arg1:E704 Arg2:E22
+R4	Coreference Arg1:E22 Arg2:E985
+R5	Coreference Arg1:E985 Arg2:E596
+R6	Coreference Arg1:E596 Arg2:E750
+R7	Coreference Arg1:E750 Arg2:E523
+R8	Coreference Arg1:E112 Arg2:E780
+R9	Coreference Arg1:E780 Arg2:E813
+R10	Coreference Arg1:E813 Arg2:E745
+R11	Coreference Arg1:E166 Arg2:E246
+R12	Coreference Arg1:E246 Arg2:E663
+R13	Coreference Arg1:E991 Arg2:E335

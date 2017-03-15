@@ -1,0 +1,60 @@
+T1	Life_Divorce 112 119	Divorce
+E1	Life_Divorce:T1 
+A1	Realis E1 Generic
+T2	Life_Marry 257 262	marry
+E2	Life_Marry:T2 
+A2	Realis E2 Other
+T3	Life_Divorce 343 350	divorce
+E3	Life_Divorce:T3 
+A3	Realis E3 Other
+T4	Life_Divorce 549 556	divorce
+E4	Life_Divorce:T4 
+A4	Realis E4 Generic
+T5	Life_Die 1190 1197	suicide
+E5	Life_Die:T5 
+A5	Realis E5 Generic
+T6	Life_Divorce 1398 1405	divorce
+E6	Life_Divorce:T6 
+A6	Realis E6 Generic
+T7	Life_Divorce 1572 1579	divorce
+E7	Life_Divorce:T7 
+A7	Realis E7 Generic
+T8	Life_Marry 1735 1742	married
+E8	Life_Marry:T8 
+A8	Realis E8 Actual
+T9	Life_Divorce 1764 1772	divorced
+E9	Life_Divorce:T9 
+A9	Realis E9 Actual
+T10	Life_Marry 1860 1867	married
+E10	Life_Marry:T10 
+A10	Realis E10 Actual
+T11	Life_Divorce 1982 1990	divorced
+E11	Life_Divorce:T11 
+A11	Realis E11 Actual
+T12	Life_Divorce 2040 2054;2057 2063	broken up with spouse
+E12	Life_Divorce:T12 
+A12	Realis E12 Actual
+T13	Life_Divorce 2132 2139	divorce
+E13	Life_Divorce:T13 
+A13	Realis E13 Actual
+T14	Life_Divorce 2523 2538	marital breakup
+E14	Life_Divorce:T14 
+A14	Realis E14 Generic
+T15	Life_Divorce 2712 2720	divorced
+E15	Life_Divorce:T15 
+A15	Realis E15 Other
+T16	Life_Marry 2726 2735	remarried
+E16	Life_Marry:T16 
+A16	Realis E16 Other
+T17	Life_Marry 2789 2796	married
+E17	Life_Marry:T17 
+A17	Realis E17 Other
+T18	Life_Marry 2887 2895	marriage
+E18	Life_Marry:T18 
+A18	Realis E18 Other
+T19	Life_Divorce 3029 3036	divorce
+E19	Life_Divorce:T19 
+A19	Realis E19 Generic
+T20	Life_Divorce 2487 2494	divorce
+E20	Life_Divorce:T20 
+A20	Realis E20 Generic

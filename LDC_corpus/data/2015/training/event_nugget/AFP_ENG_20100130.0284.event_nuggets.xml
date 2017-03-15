@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976260000000000000015" doc_id="AFP_ENG_20100130.0284" source_type="newswire">
+<event_mention id="em-36" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="63" length="5">hangs</trigger>
+      </event_mention>
+<event_mention id="em-49" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="177" length="6">hanged</trigger>
+      </event_mention>
+<event_mention id="em-62" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="311" length="8">hangings</trigger>
+      </event_mention>
+<event_mention id="em-75" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="593" length="8">hangings</trigger>
+      </event_mention>
+<event_mention id="em-88" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="73" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-101" type="justice" subtype="convict" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="204" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-114" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="539" length="5">raped</trigger>
+      </event_mention>
+<event_mention id="em-127" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="217" length="6">raping</trigger>
+      </event_mention>
+<event_mention id="em-140" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="1002" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-153" type="justice" subtype="execute" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="794" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-166" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="644" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-179" type="justice" subtype="execute" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="761" length="6">hanged</trigger>
+      </event_mention>
+<event_mention id="em-192" type="justice" subtype="sentence" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="800" length="7">penalty</trigger>
+      </event_mention>
+<event_mention id="em-205" type="justice" subtype="trialhearing" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="890" length="20">judicial proceedings</trigger>
+      </event_mention>
+<event_mention id="em-218" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="921" length="6">Murder</trigger>
+      </event_mention>
+<event_mention id="em-231" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="929" length="4">rape</trigger>
+      </event_mention>
+<event_mention id="em-244" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="935" length="13">armed robbery</trigger>
+      </event_mention>
+<event_mention id="em-257" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100130.0284" offset="955" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-270" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="469" length="11">broken into</trigger>
+      </event_mention>
+<event_mention id="em-283" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20100130.0284" offset="288" length="8">reported</trigger>
+      </event_mention>
+<event_mention id="em-296" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20100130.0284" offset="83" length="7">rapists</trigger>
+      </event_mention>
+<event_mention id="em-309" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="794" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-322" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="921" length="6">Murder</trigger>
+      </event_mention>
+<event_mention id="em-337" type="transaction" subtype="transaction" realis="generic" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20100130.0284" offset="941" length="7">robbery</trigger>
+      </event_mention>
+<event_mention id="em-352" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100130.0284" offset="955" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-367" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="955" length="11">trafficking</trigger>
+      </event_mention>
+<event_mention id="em-382" type="life" subtype="die" realis="generic">
+        <trigger source="AFP_ENG_20100130.0284" offset="1002" length="5">death</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

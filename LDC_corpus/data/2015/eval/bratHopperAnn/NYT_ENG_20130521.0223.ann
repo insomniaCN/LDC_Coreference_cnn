@@ -1,0 +1,148 @@
+T1	Conflict_Attack 190 198	GENOCIDE
+E873	Conflict_Attack:T1
+A1	Realis E873 Other
+T2	Conflict_Attack 312 320	genocide
+E17	Conflict_Attack:T2
+A2	Realis E17 Other
+T3	Conflict_Attack 1034 1042	genocide
+E141	Conflict_Attack:T3
+A3	Realis E141 Actual
+T4	Conflict_Attack 1682 1691	massacres
+E581	Conflict_Attack:T4
+A4	Realis E581 Actual
+T5	Life_Die 190 198	GENOCIDE
+E834	Life_Die:T5
+A5	Realis E834 Other
+T6	Life_Die 312 320	genocide
+E8	Life_Die:T6
+A6	Realis E8 Other
+T7	Life_Die 1034 1042	genocide
+E312	Life_Die:T7
+A7	Realis E312 Other
+T8	Life_Die 1682 1691	massacres
+E146	Life_Die:T8
+A8	Realis E146 Actual
+T9	Justice_Convict 199 209	CONVICTION
+E770	Justice_Convict:T9
+A9	Realis E770 Actual
+T10	Justice_Convict 321 331	conviction
+E95	Justice_Convict:T10
+A10	Realis E95 Actual
+T11	Justice_Convict 603 613	conviction
+E265	Justice_Convict:T11
+A11	Realis E265 Actual
+T12	Justice_Convict 1024 1030	guilty
+E25	Justice_Convict:T12
+A12	Realis E25 Actual
+T13	Personnel_End-Position 213 215	EX
+E200	Personnel_End-Position:T13
+A13	Realis E200 Actual
+T14	Personnel_End-Position 359 365	former
+E152	Personnel_End-Position:T14
+A14	Realis E152 Actual
+T15	Personnel_End-Position 1601 1607	former
+E867	Personnel_End-Position:T15
+A15	Realis E867 Actual
+T16	Justice_Arrest-Jail 336 342	prison
+E306	Justice_Arrest-Jail:T16
+A16	Realis E306 Other
+T17	Justice_Arrest-Jail 736 742	prison
+E189	Justice_Arrest-Jail:T17
+A17	Realis E189 Actual
+T18	Justice_Arrest-Jail 1108 1114	prison
+E763	Justice_Arrest-Jail:T18
+A18	Realis E763 Other
+T19	Justice_Sentence 343 351	sentence
+E379	Justice_Sentence:T19
+A19	Realis E379 Actual
+T20	Justice_Sentence 1083 1092	sentenced
+E806	Justice_Sentence:T20
+A20	Realis E806 Actual
+T21	Movement_Transport-Person 791 802	transferred
+E461	Movement_Transport-Person:T21
+A21	Realis E461 Actual
+T22	Movement_Transport-Person 894 900	return
+E828	Movement_Transport-Person:T22
+A22	Realis E828 Other
+T23	Justice_Arrest-Jail 910 916	arrest
+E144	Justice_Arrest-Jail:T23
+A23	Realis E144 Other
+T24	Justice_Trial-Hearing 420 425	trial
+E753	Justice_Trial-Hearing:T24
+A24	Realis E753 Actual
+T25	Justice_Trial-Hearing 1174 1179	trial
+E660	Justice_Trial-Hearing:T25
+A25	Realis E660 Actual
+T26	Justice_Trial-Hearing 1287 1292	trial
+E727	Justice_Trial-Hearing:T26
+A26	Realis E727 Actual
+T27	Justice_Trial-Hearing 1375 1380	trial
+E512	Justice_Trial-Hearing:T27
+A27	Realis E512 Actual
+T28	Justice_Trial-Hearing 1430 1441	proceedings
+E138	Justice_Trial-Hearing:T28
+A28	Realis E138 Actual
+T29	Justice_Trial-Hearing 1514 1519	trial
+E832	Justice_Trial-Hearing:T29
+A29	Realis E832 Actual
+T30	Justice_Trial-Hearing 1833 1842	testimony
+E478	Justice_Trial-Hearing:T30
+A30	Realis E478 Actual
+T31	Justice_Trial-Hearing 2570 2575	trial
+E553	Justice_Trial-Hearing:T31
+A31	Realis E553 Actual
+T32	Contact_Broadcast 1466 1470	said
+E543	Contact_Broadcast:T32
+A32	Realis E543 Actual
+T33	Conflict_Attack 1696 1701	rapes
+E383	Conflict_Attack:T33
+A33	Realis E383 Actual
+T34	Life_Injure 1696 1701	rapes
+E951	Life_Injure:T34
+A34	Realis E951 Actual
+T35	Movement_Transport-Person 1717 1729	displacement
+E754	Movement_Transport-Person:T35
+A35	Realis E754 Actual
+T36	Contact_Meet 1833 1842	testimony
+E546	Contact_Meet:T36
+A36	Realis E546 Actual
+T37	Conflict_Attack 1910 1924	scorched-earth
+E542	Conflict_Attack:T37
+A37	Realis E542 Actual
+T38	Justice_Acquit 2045 2054	acquitted
+E847	Justice_Acquit:T38
+A38	Realis E847 Actual
+T39	Justice_Acquit 2117 2126	acquittal
+E136	Justice_Acquit:T39
+A39	Realis E136 Actual
+T40	Justice_Arrest-Jail 2165 2175	rearrested
+E272	Justice_Arrest-Jail:T40
+A40	Realis E272 Other
+T41	Justice_Appeal 2231 2237	appeal
+E593	Justice_Appeal:T41
+A41	Realis E593 Other
+T42	Contact_Broadcast 2959 2963	said
+E353	Contact_Broadcast:T42
+A42	Realis E353 Actual
+R1	Coreference Arg1:E873 Arg2:E17
+R2	Coreference Arg1:E17 Arg2:E141
+R3	Coreference Arg1:E141 Arg2:E581
+R4	Coreference Arg1:E834 Arg2:E8
+R5	Coreference Arg1:E8 Arg2:E312
+R6	Coreference Arg1:E312 Arg2:E146
+R7	Coreference Arg1:E770 Arg2:E95
+R8	Coreference Arg1:E95 Arg2:E265
+R9	Coreference Arg1:E265 Arg2:E25
+R10	Coreference Arg1:E200 Arg2:E152
+R11	Coreference Arg1:E152 Arg2:E867
+R12	Coreference Arg1:E306 Arg2:E189
+R13	Coreference Arg1:E189 Arg2:E763
+R14	Coreference Arg1:E379 Arg2:E806
+R15	Coreference Arg1:E753 Arg2:E660
+R16	Coreference Arg1:E660 Arg2:E727
+R17	Coreference Arg1:E727 Arg2:E512
+R18	Coreference Arg1:E512 Arg2:E138
+R19	Coreference Arg1:E138 Arg2:E832
+R20	Coreference Arg1:E832 Arg2:E478
+R21	Coreference Arg1:E478 Arg2:E553
+R22	Coreference Arg1:E847 Arg2:E136

@@ -1,0 +1,4 @@
+T1	Life_Injure 641 649	tortured
+E1	Life_Injure:T1 
+A1	Questionable E1 Mention
+A2	Realis E1 Actual

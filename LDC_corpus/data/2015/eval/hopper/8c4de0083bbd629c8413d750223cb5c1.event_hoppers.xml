@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab20000000000000186" doc_id="8c4de0083bbd629c8413d750223cb5c1" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-243" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="151" length="8">Executed</trigger>
+      </event_mention>
+      <event_mention id="em-926" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="178" length="6">Hanged</trigger>
+      </event_mention>
+      <event_mention id="em-417" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="286" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-87" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="430" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-688" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="499" length="6">hanged</trigger>
+      </event_mention>
+      <event_mention id="em-947" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="574" length="8">Executed</trigger>
+      </event_mention>
+      <event_mention id="em-437" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="601" length="6">Hanged</trigger>
+      </event_mention>
+      <event_mention id="em-337" type="justice" subtype="execute" realis="other">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="1354" length="9">Execution</trigger>
+      </event_mention>
+      <event_mention id="em-875" type="justice" subtype="execute" realis="other">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="1521" length="9">Execution</trigger>
+      </event_mention>
+      <event_mention id="em-836" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="2611" length="8">Executed</trigger>
+      </event_mention>
+      <event_mention id="em-917" type="justice" subtype="execute" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="2638" length="6">Hanged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-147" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="151" length="8">Executed</trigger>
+      </event_mention>
+      <event_mention id="em-818" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="178" length="6">Hanged</trigger>
+      </event_mention>
+      <event_mention id="em-490" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="286" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-966" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="430" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-233" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="499" length="6">hanged</trigger>
+      </event_mention>
+      <event_mention id="em-177" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="574" length="8">Executed</trigger>
+      </event_mention>
+      <event_mention id="em-374" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="601" length="6">Hanged</trigger>
+      </event_mention>
+      <event_mention id="em-168" type="life" subtype="die" realis="other">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="824" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-44" type="life" subtype="die" realis="other">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="1354" length="9">Execution</trigger>
+      </event_mention>
+      <event_mention id="em-73" type="life" subtype="die" realis="other">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="1521" length="9">Execution</trigger>
+      </event_mention>
+      <event_mention id="em-664" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="2611" length="8">Executed</trigger>
+      </event_mention>
+      <event_mention id="em-510" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="2638" length="6">Hanged</trigger>
+      </event_mention>
+      <event_mention id="em-310" type="life" subtype="die" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="2697" length="4">gone</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-512" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="344" length="10">imprisoned</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-383" type="justice" subtype="convict" realis="actual">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="365" length="6">guilty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-250">
+      <event_mention id="em-447" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="879" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-317">
+      <event_mention id="em-72" type="life" subtype="marry" realis="generic">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="2411" length="8">Marriage</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-384">
+      <event_mention id="em-13" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="772" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-399">
+      <event_mention id="em-723" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="8c4de0083bbd629c8413d750223cb5c1" offset="813" length="6">report</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

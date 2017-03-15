@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea450000000000000005" doc_id="NYT_ENG_20130429.0191" source_type="newswire">
+  <event_mention id="em-24" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="778" length="8">bankrupt</trigger>
+  </event_mention>
+  <event_mention id="em-45" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1719" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-50" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="342" length="7">pension</trigger>
+  </event_mention>
+  <event_mention id="em-65" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="923" length="6">settle</trigger>
+  </event_mention>
+  <event_mention id="em-101" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="178" length="8">SPINOFFS</trigger>
+  </event_mention>
+  <event_mention id="em-103" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1719" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-186" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="514" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-221" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="735" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-244" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="1449" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-257" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="905" length="7">pension</trigger>
+  </event_mention>
+  <event_mention id="em-285" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1231" length="6">divest</trigger>
+  </event_mention>
+  <event_mention id="em-295" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1857" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-310" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130429.0191" offset="1403" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-363" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="735" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-389" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1500" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-414" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130429.0191" offset="1890" length="7">advised</trigger>
+  </event_mention>
+  <event_mention id="em-469" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="861" length="5">sales</trigger>
+  </event_mention>
+  <event_mention id="em-477" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1161" length="11">transaction</trigger>
+  </event_mention>
+  <event_mention id="em-481" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="600" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-603" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="278" length="8">spin off</trigger>
+  </event_mention>
+  <event_mention id="em-607" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="1025" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-614" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1857" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-634" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1582" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-656" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130429.0191" offset="580" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-668" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1500" length="7">selling</trigger>
+  </event_mention>
+  <event_mention id="em-702" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="514" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-735" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="600" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-743" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1582" length="4">sell</trigger>
+  </event_mention>
+  <event_mention id="em-745" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="934" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-757" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="456" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-829" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130429.0191" offset="252" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-833" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="1299" length="6">settle</trigger>
+  </event_mention>
+  <event_mention id="em-906" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130429.0191" offset="1208" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-938" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="1118" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-946" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130429.0191" offset="861" length="5">sales</trigger>
+  </event_mention>
+  <event_mention id="em-978" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130429.0191" offset="212" length="10">BANKRUPTCY</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

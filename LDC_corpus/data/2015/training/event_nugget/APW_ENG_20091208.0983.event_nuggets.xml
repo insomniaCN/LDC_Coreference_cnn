@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976410000000000000038" doc_id="APW_ENG_20091208.0983" source_type="newswire">
+<event_mention id="em-46" type="justice" subtype="execute" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="200" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-59" type="justice" subtype="execute" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="63" length="8">executes</trigger>
+      </event_mention>
+<event_mention id="em-72" type="justice" subtype="execute" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="3161" length="9">execution</trigger>
+      </event_mention>
+<event_mention id="em-85" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="746" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-98" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="420" length="4">dead</trigger>
+      </event_mention>
+<event_mention id="em-111" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="859" length="3">die</trigger>
+      </event_mention>
+<event_mention id="em-124" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="1114" length="5">death</trigger>
+      </event_mention>
+<event_mention id="em-137" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="3625" length="5">dying</trigger>
+      </event_mention>
+<event_mention id="em-150" type="justice" subtype="execute" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="2628" length="9">execution</trigger>
+      </event_mention>
+<event_mention id="em-163" type="justice" subtype="execute" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="1869" length="7">execute</trigger>
+      </event_mention>
+<event_mention id="em-176" type="justice" subtype="execute" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="3012" length="9">execution</trigger>
+      </event_mention>
+<event_mention id="em-189" type="justice" subtype="appeal" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="3183" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-202" type="justice" subtype="appeal" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="645" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-215" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20091208.0983" offset="3237" length="13">death penalty</trigger>
+      </event_mention>
+<event_mention id="em-228" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20091208.0983" offset="973" length="13">death penalty</trigger>
+      </event_mention>
+<event_mention id="em-241" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20091208.0983" offset="344" length="10">executions</trigger>
+      </event_mention>
+<event_mention id="em-254" type="justice" subtype="execute" realis="generic">
+        <trigger source="APW_ENG_20091208.0983" offset="1286" length="9">execution</trigger>
+      </event_mention>
+<event_mention id="em-267" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="2125" length="7">hearing</trigger>
+      </event_mention>
+<event_mention id="em-280" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="2333" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-293" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="3465" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-306" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="3535" length="5">drive</trigger>
+      </event_mention>
+<event_mention id="em-319" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="3746" length="7">paroled</trigger>
+      </event_mention>
+<event_mention id="em-332" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20091208.0983" offset="259" length="6">lethal</trigger>
+      </event_mention>
+<event_mention id="em-358" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20091208.0983" offset="2090" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-371" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20091208.0983" offset="1718" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-384" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="2877" length="4">trip</trigger>
+      </event_mention>
+<event_mention id="em-397" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20091208.0983" offset="2805" length="6">saying</trigger>
+      </event_mention>
+<event_mention id="em-410" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20091208.0983" offset="3262" length="6">lethal</trigger>
+      </event_mention>
+<event_mention id="em-423" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="63" length="8">executes</trigger>
+      </event_mention>
+<event_mention id="em-438" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="200" length="8">executed</trigger>
+      </event_mention>
+<event_mention id="em-451" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20091208.0983" offset="1168" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-464" type="life" subtype="die" realis="other">
+        <trigger source="APW_ENG_20091208.0983" offset="1869" length="7">execute</trigger>
+      </event_mention>
+<event_mention id="em-477" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20091208.0983" offset="3465" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-492" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="APW_ENG_20091208.0983" offset="3643" length="10">apologized</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

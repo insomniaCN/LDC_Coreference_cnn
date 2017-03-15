@@ -1,0 +1,49 @@
+<DOC id="NYT_ENG_20130701.0120" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130701/20130701,8691b6238bbca9660e33034ea94831f8.xml">
+<HEADLINE>
+MERGER OF PENGUIN AND RANDOM HOUSE IS COMPLETED
+</HEADLINE>
+<TEXT>
+<P>
+EDS: CLARIFIES in third graf who owns which companies.);
+</P>
+<P>
+Random House and Penguin completed their planned merger Monday, creating the biggest and most powerful book publisher in the world.
+</P>
+<P>
+The new company, called Penguin Random House, will control more than 25 percent of the U.S. trade book market, giving it unmatched leverage against Amazon.com, a growing force in the industry.
+</P>
+<P>
+Bertelsmann, the owner of Random House, and Pearson, the owner of Penguin, announced the merger in October, saying that Bertelsmann would control 53 percent of the company and Penguin 47 percent. Since then, the merger has sailed through regulatory approvals in the United States and Europe, as well as China, Canada and other countries.
+</P>
+<P>
+The new company would have more than 10,000 employees, 250 independent publishing imprints and about $3.9 billion in annual revenues.
+</P>
+<P>
+Markus Dohle, the chairman and chief executive of Random House who will take on the role of chief executive of the new company, announced the finalization of the merger in an email to employees Monday.
+</P>
+<P>
+“Today, we are Penguin Random House,” he wrote. “You should be proud of what you’ve accomplished and what we are all now a part of: the first truly global trade book publishing company. Together, we are even better positioned to fulfill our core purpose: to bridge authors and readers by publishing the very best books.”
+</P>
+<P>
+Bertelsmann acquired Random House in 1998 for more than $1 billion.
+</P>
+<P>
+David Shanks, the chief executive of Penguin Group USA, has stepped down and will be a senior adviser to Dohle and the executive team, Dohle said in his letter to employees. John Makinson, the head of Penguin Group since 2002, will be the chairman of Penguin Random House.
+</P>
+<P>
+“Penguin Random House starts life today as a freshly minted company, but also as a creative enterprise that will draw on the greatest legacies in the history of book publishing,” Makinson said in a statement.
+</P>
+<P>
+Over the last several months, executives at both companies have sought to assure employees on the publishing side that it will be business as usual.
+</P>
+<P>
+There are no immediate plans for laying off employees or shuttering imprints.
+</P>
+<P>
+Executives at Penguin and Random House said the initial focus would be on unifying the infrastructure of the companies, including establishing pay scales, health benefits and new email addresses.
+</P>
+<P>
+There will also be an effort to sort out redundancies. As physical book sales decrease, so does the need for gigantic warehouses to store and ship books; the newly combined company is likely to find ways to trim printing, distribution and storage costs.
+</P>
+</TEXT>
+</DOC>

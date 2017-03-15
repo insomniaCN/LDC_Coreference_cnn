@@ -1,0 +1,243 @@
+T1	Life_Die 261 265	DIES
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 582 586	died
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 701 710	dine with
+E3	Contact_Meet:T3 
+A3	Realis E3 Other
+T4	Life_Die 791 795	died
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Justice_Charge-Indict 1450 1457	charged
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 1500 1508	bombings
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Life_Die 1530 1536	murder
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 1767 1773	former
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Justice_Execute 1818 1826	executed
+E9	Justice_Execute:T9 
+A9	Realis E9 Actual
+T10	Justice_Trial-Hearing 1934 1939	trial
+E10	Justice_Trial-Hearing:T10 
+A10	Realis E10 Actual
+T11	Life_Die 1944 1948	died
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Life_Die 2302 2308	deaths
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Life_Marry 2349 2356	married
+E13	Life_Marry:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 3057 3065	bombings
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Justice_Trial-Hearing 3274 3280	trials
+E15	Justice_Trial-Hearing:T15 
+A15	Realis E15 Actual
+T16	Justice_Convict 3327 3336	convicted
+E16	Justice_Convict:T16 
+A16	Realis E16 Actual
+T17	Justice_Trial-Hearing 3343 3349	trials
+E17	Justice_Trial-Hearing:T17 
+A17	Realis E17 Actual
+T18	Justice_Charge-Indict 3741 3748	charged
+E18	Justice_Charge-Indict:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 3754 3761	attacks
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 3875 3883	bombings
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 4093 4100	torture
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Justice_Execute 4103 4112	execution
+E22	Justice_Execute:T22 
+A22	Realis E22 Actual
+T23	Movement_Transport-Person 4117 4128	deportation
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T24	Justice_Extradite 4290 4300	extradited
+E24	Justice_Extradite:T24 
+A24	Realis E24 Actual
+T25	Justice_Trial-Hearing 4367 4372	trial
+E25	Justice_Trial-Hearing:T25 
+A25	Realis E25 Actual
+T26	Movement_Transport-Person 4390 4400	walked out
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Actual
+T27	Justice_Charge-Indict 4476 4483	charges
+E27	Justice_Charge-Indict:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 4490 4498	attacked
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Justice_Convict 4710 4719	convicted
+E29	Justice_Convict:T29 
+A29	Realis E29 Actual
+T30	Justice_Sentence 4724 4733	sentenced
+E30	Justice_Sentence:T30 
+A30	Realis E30 Actual
+T31	Life_Die 4763 4767	died
+E31	Life_Die:T31 
+A31	Realis E31 Actual
+T32	Life_Be-Born 5150 5154	born
+E32	Life_Be-Born:T32 
+A32	Realis E32 Actual
+T33	Life_Die 5240 5244	died
+E33	Life_Die:T33 
+A33	Realis E33 Actual
+T34	Business_Start-Org 5384 5391	founder
+E34	Business_Start-Org:T34 
+A34	Realis E34 Actual
+T35	Movement_Transport-Person 5531 5537	sailed
+E35	Movement_Transport-Person:T35 
+A35	Realis E35 Actual
+T36	Conflict_Attack 5602 5608	fought
+E36	Conflict_Attack:T36 
+A36	Realis E36 Actual
+T37	Movement_Transport-Person 5950 5959	Returning
+E37	Movement_Transport-Person:T37 
+A37	Realis E37 Actual
+T38	Justice_Convict 6097 6106	convicted
+E38	Justice_Convict:T38 
+A38	Realis E38 Actual
+T39	Life_Die 6118 6125	killing
+E39	Life_Die:T39 
+A39	Realis E39 Actual
+T40	Conflict_Attack 6150 6157	bombing
+E40	Conflict_Attack:T40 
+A40	Realis E40 Actual
+T41	Justice_Sentence 6162 6171	sentenced
+E41	Justice_Sentence:T41 
+A41	Realis E41 Actual
+T42	Conflict_Attack 6249 6257	tortured
+E42	Conflict_Attack:T42 
+A42	Realis E42 Actual
+T43	Justice_Release-Parole 6398 6405	release
+E43	Justice_Release-Parole:T43 
+A43	Realis E43 Other
+T44	Justice_Execute 6412 6421	execution
+E44	Justice_Execute:T44 
+A44	Realis E44 Other
+T45	Justice_Release-Parole 6458 6466	released
+E45	Justice_Release-Parole:T45 
+A45	Realis E45 Actual
+T46	Life_Marry 6517 6524	married
+E46	Life_Marry:T46 
+A46	Realis E46 Actual
+T47	Business_Start-Org 6594 6601	founded
+E47	Business_Start-Org:T47 
+A47	Realis E47 Actual
+T48	Movement_Transport-Person 7258 7263	flown
+E48	Movement_Transport-Person:T48 
+A48	Realis E48 Actual
+T49	Personnel_Start-Position 7449 7454	hired
+E49	Personnel_Start-Position:T49 
+A49	Realis E49 Actual
+T50	Justice_Convict 7475 7484	convicted
+E50	Justice_Convict:T50 
+A50	Realis E50 Actual
+T51	Justice_Sentence 7497 7506	sentenced
+E51	Justice_Sentence:T51 
+A51	Realis E51 Actual
+T52	Personnel_Start-Position 7676 7681	hired
+E52	Personnel_Start-Position:T52 
+A52	Realis E52 Actual
+T53	Justice_Execute 7825 7833	executed
+E53	Justice_Execute:T53 
+A53	Realis E53 Actual
+T54	Justice_Trial-Hearing 7925 7930	trial
+E54	Justice_Trial-Hearing:T54 
+A54	Realis E54 Actual
+T55	Life_Die 7975 7979	died
+E55	Life_Die:T55 
+A55	Realis E55 Actual
+T56	Life_Die 8409 8413	died
+E56	Life_Die:T56 
+A56	Realis E56 Actual
+T57	Life_Die 8637 8641	died
+E57	Life_Die:T57 
+A57	Realis E57 Actual
+T58	Life_Die 984 989	death
+E58	Life_Die:T58 
+A58	Realis E58 Actual
+T59	Justice_Sentence 7543 7551	sentence
+E59	Justice_Sentence:T59 
+A59	Realis E59 Actual
+T60	Justice_Trial-Hearing 7577 7582	trial
+E60	Justice_Trial-Hearing:T60 
+A60	Realis E60 Actual
+T61	Justice_Trial-Hearing 8274 8290	pretrial hearing
+E61	Justice_Trial-Hearing:T61 
+A61	Realis E61 Actual
+T62	Movement_Transport-Person 8200 8211	stormed out
+E62	Movement_Transport-Person:T62 
+A62	Realis E62 Actual
+T63	Life_Die 8457 8466	massacres
+E63	Life_Die:T63 
+A63	Realis E63 Actual
+T64	Conflict_Attack 230 233	WAR
+E64	Conflict_Attack:T64 
+A64	Realis E64 Generic
+T65	Conflict_Attack 492 495	war
+E65	Conflict_Attack:T65 
+A65	Realis E65 Generic
+T66	Conflict_Attack 1588 1591	war
+E66	Conflict_Attack:T66 
+A66	Realis E66 Generic
+T67	Life_Die 1463 1471	genocide
+E67	Life_Die:T67 
+A67	Realis E67 Actual
+T68	Conflict_Attack 1511 1521	hijackings
+E68	Conflict_Attack:T68 
+A68	Realis E68 Actual
+T69	Conflict_Attack 1921 1924	war
+E69	Conflict_Attack:T69 
+A69	Realis E69 Generic
+T70	Life_Die 4132 4137	death
+E70	Life_Die:T70 
+A70	Realis E70 Generic
+T71	Conflict_Attack 4354 4357	war
+E71	Conflict_Attack:T71 
+A71	Realis E71 Generic
+T72	Life_Die 4668 4676	genocide
+E72	Life_Die:T72 
+A72	Realis E72 Generic
+T73	Personnel_Start-Position 5375 5381;5429 5435	became member
+E73	Personnel_Start-Position:T73 
+A73	Realis E73 Actual
+T74	Personnel_Start-Position 5551 5557	joined
+E74	Personnel_Start-Position:T74 
+A74	Realis E74 Actual
+T75	Conflict_Attack 5639 5642	war
+E75	Conflict_Attack:T75 
+A75	Realis E75 Actual
+T76	Life_Be-Born 6532 6535;6540 6548	had children
+E76	Life_Be-Born:T76 
+A76	Realis E76 Actual
+T77	Justice_Arrest-Jail 7211 7219	captured
+E77	Justice_Arrest-Jail:T77 
+A77	Realis E77 Actual
+T78	Life_Be-Born 7434 7438	born
+E78	Life_Be-Born:T78 
+A78	Realis E78 Actual
+T79	Justice_Arrest-Jail 7515 7524	in prison
+E79	Justice_Arrest-Jail:T79 
+A79	Realis E79 Actual
+T80	Justice_Arrest-Jail 7635 7643	captured
+E80	Justice_Arrest-Jail:T80 
+A80	Realis E80 Actual
+T81	Life_Die 8110 8118	genocide
+E81	Life_Die:T81 
+A81	Realis E81 Generic

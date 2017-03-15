@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000560" doc_id="APW_ENG_20101024.0551" source_type="newswire">
+<event_mention id="em-10" type="personnel" subtype="elect" realis="actual">
+        <trigger source="APW_ENG_20101024.0551" offset="67" length="6">elects</trigger>
+      </event_mention>
+<event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20101024.0551" offset="192" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-38" type="personnel" subtype="elect" realis="actual">
+        <trigger source="APW_ENG_20101024.0551" offset="263" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-51" type="personnel" subtype="elect" realis="actual">
+        <trigger source="APW_ENG_20101024.0551" offset="463" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-66" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20101024.0551" offset="536" length="7">settled</trigger>
+      </event_mention>
+<event_mention id="em-79" type="personnel" subtype="elect" realis="actual">
+        <trigger source="APW_ENG_20101024.0551" offset="640" length="3">won</trigger>
+      </event_mention>
+<event_mention id="em-92" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20101024.0551" offset="833" length="10">previously</trigger>
+      </event_mention>
+<event_mention id="em-107" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20101024.0551" offset="917" length="4">said</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

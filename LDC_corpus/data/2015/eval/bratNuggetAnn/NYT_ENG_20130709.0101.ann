@@ -1,0 +1,102 @@
+T1	Contact_Contact 2492 2498	saying
+E84	Contact_Contact:T1
+A1	Realis E84 Actual
+T2	Contact_Contact 1104 1107	ask
+E98	Contact_Contact:T2
+A2	Realis E98 Generic
+T3	Contact_Contact 2830 2833	say
+E101	Contact_Contact:T3
+A3	Realis E101 Other
+T4	Personnel_End-Position 1493 1500	retired
+E121	Personnel_End-Position:T4
+A4	Realis E121 Actual
+T5	Transaction_Transfer-Money 1627 1636	retrieved
+E124	Transaction_Transfer-Money:T5
+A5	Realis E124 Actual
+T6	Contact_Contact 870 874	says
+E138	Contact_Contact:T6
+A6	Realis E138 Actual
+T7	Movement_Transport-Person 471 482	frequenting
+E187	Movement_Transport-Person:T7
+A7	Realis E187 Generic
+T8	Transaction_Transfer-Ownership 608 618	transplant
+E221	Transaction_Transfer-Ownership:T8
+A8	Realis E221 Generic
+T9	Transaction_Transfer-Money 898 901	pay
+E274	Transaction_Transfer-Money:T9
+A9	Realis E274 Other
+T10	Transaction_Transfer-Money 2334 2337	won
+E290	Transaction_Transfer-Money:T10
+A10	Realis E290 Actual
+T11	Transaction_Transfer-Ownership 1585 1595	transplant
+E299	Transaction_Transfer-Ownership:T11
+A11	Realis E299 Other
+T12	Transaction_Transfer-Money 1966 1974	acquired
+E307	Transaction_Transfer-Money:T12
+A12	Realis E307 Actual
+T13	Transaction_Transfer-Money 1923 1927	sold
+E322	Transaction_Transfer-Money:T13
+A13	Realis E322 Actual
+T14	Transaction_Transfer-Money 3215 3219	lose
+E350	Transaction_Transfer-Money:T14
+A14	Realis E350 Other
+T15	Justice_Appeal 2484 2490	appeal
+E390	Justice_Appeal:T15
+A15	Realis E390 Actual
+T16	Movement_Transport-Person 1501 1503	to
+E403	Movement_Transport-Person:T16
+A16	Realis E403 Actual
+T17	Transaction_Transfer-Money 2161 2170	reclaimed
+E415	Transaction_Transfer-Money:T17
+A17	Realis E415 Actual
+T18	Transaction_Transfer-Money 1685 1690	costs
+E432	Transaction_Transfer-Money:T18
+A18	Realis E432 Other
+T19	Transaction_Transfer-Money 2104 2108	sent
+E465	Transaction_Transfer-Money:T19
+A19	Realis E465 Actual
+T20	Contact_Contact 1846 1850	told
+E472	Contact_Contact:T20
+A20	Realis E472 Actual
+T21	Transaction_Transfer-Ownership 1966 1974	acquired
+E488	Transaction_Transfer-Ownership:T21
+A21	Realis E488 Actual
+T22	Transaction_Transfer-Money 2933 2939	cashed
+E513	Transaction_Transfer-Money:T22
+A22	Realis E513 Generic
+T23	Movement_Transport-Person 1382 1387	trips
+E548	Movement_Transport-Person:T23
+A23	Realis E548 Generic
+T24	Contact_Contact 989 993	said
+E608	Contact_Contact:T24
+A24	Realis E608 Actual
+T25	Transaction_Transfer-Money 1450 1457	stashed
+E623	Transaction_Transfer-Money:T25
+A25	Realis E623 Actual
+T26	Transaction_Transfer-Money 1075 1079	give
+E649	Transaction_Transfer-Money:T26
+A26	Realis E649 Generic
+T27	Justice_Appeal 3111 3118	appeals
+E662	Justice_Appeal:T27
+A27	Realis E662 Generic
+T28	Contact_Contact 2611 2615	said
+E665	Contact_Contact:T28
+A28	Realis E665 Actual
+T29	Transaction_Transfer-Money 1037 1041	give
+E675	Transaction_Transfer-Money:T29
+A29	Realis E675 Generic
+T30	Transaction_Transfer-Money 3176 3180	fees
+E677	Transaction_Transfer-Money:T30
+A30	Realis E677 Other
+T31	Contact_Contact 1781 1789	notified
+E686	Contact_Contact:T31
+A31	Realis E686 Actual
+T32	Contact_Contact 2134 2138	said
+E691	Contact_Contact:T32
+A32	Realis E691 Actual
+T33	Transaction_Transfer-Ownership 1923 1927	sold
+E735	Transaction_Transfer-Ownership:T33
+A33	Realis E735 Actual
+T34	Contact_Broadcast 2257 2265	reported
+E794	Contact_Broadcast:T34
+A34	Realis E794 Actual

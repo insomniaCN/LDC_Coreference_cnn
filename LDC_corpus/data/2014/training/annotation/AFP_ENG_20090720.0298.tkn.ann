@@ -1,0 +1,63 @@
+T1	Conflict_Attack 202 207	blast
+E1	Conflict_Attack:T1 
+A1	Realis E1 Other
+T2	Business_Declare-Bankruptcy 335 343	bankrupt
+E2	Business_Declare-Bankruptcy:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 396 403	blow up
+E3	Conflict_Attack:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Money 426 429;442 452	get settlement
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Business_Declare-Bankruptcy 686 703	declared bankrupt
+E5	Business_Declare-Bankruptcy:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 542 548	remove
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 762 769	blow up
+E7	Conflict_Attack:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Money 902 906	paid
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T9	Personnel_End-Position 939 949	laid - off
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 1034 1037	pay
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Other
+T11	Contact_Meet 1151 1156	talks
+E11	Contact_Meet:T11 
+A11	Realis E11 Other
+T12	Transaction_Transfer-Money 1454 1457	pay
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Other
+T13	Conflict_Attack 1559 1566	blow up
+E13	Conflict_Attack:T13 
+A13	Realis E13 Other
+T14	Personnel_End-Position 1609 1619	Laid - off
+E14	Personnel_End-Position:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 1699 1706	blow up
+E15	Conflict_Attack:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 1750 1753	pay
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Personnel_End-Position 1739 1749	redundancy
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Generic
+T18	Conflict_Attack 1813 1818	blast
+E18	Conflict_Attack:T18 
+A18	Realis E18 Other
+T19	Conflict_Attack 1885 1889;1905 1912	took hostage
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Personnel_End-Position 1464 1474	redundancy
+E20	Personnel_End-Position:T20 
+A20	Realis E20 Generic
+T21	Personnel_End-Position 432 441	lay - off
+E21	Personnel_End-Position:T21 
+A21	Realis E21 Generic

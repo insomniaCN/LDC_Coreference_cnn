@@ -1,0 +1,89 @@
+T1	Justice_Extradite 155 166	extradition
+E375	Justice_Extradite:T1
+A1	Realis E375 Other
+T2	Justice_Extradite 990 996	return
+E995	Justice_Extradite:T2
+A2	Realis E995 Actual
+T3	Movement_Transport-Person 290 294	send
+E889	Movement_Transport-Person:T3
+A3	Realis E889 Other
+T4	Movement_Transport-Person 990 996	return
+E675	Movement_Transport-Person:T4
+A4	Realis E675 Other
+T5	Movement_Transport-Person 1041 1052	deportation
+E908	Movement_Transport-Person:T5
+A5	Realis E908 Other
+T6	Movement_Transport-Person 1157 1165	deported
+E288	Movement_Transport-Person:T6
+A6	Realis E288 Other
+T7	Justice_Release-Parole 328 336	released
+E782	Justice_Release-Parole:T7
+A7	Realis E782 Actual
+T8	Justice_Release-Parole 675 683	released
+E318	Justice_Release-Parole:T8
+A8	Realis E318 Actual
+T9	Justice_Release-Parole 1212 1220	released
+E670	Justice_Release-Parole:T9
+A9	Realis E670 Actual
+T10	Justice_Arrest-Jail 345 351	prison
+E822	Justice_Arrest-Jail:T10
+A10	Realis E822 Actual
+T11	Justice_Arrest-Jail 692 698	prison
+E598	Justice_Arrest-Jail:T11
+A11	Realis E598 Actual
+T12	Justice_Arrest-Jail 1226 1232	prison
+E654	Justice_Arrest-Jail:T12
+A12	Realis E654 Actual
+T13	Contact_Broadcast 368 377	statement
+E484	Contact_Broadcast:T13
+A13	Realis E484 Actual
+T14	Transaction_Transfer-Money 453 459	bribed
+E66	Transaction_Transfer-Money:T14
+A14	Realis E66 Actual
+T15	Justice_Extradite 580 590	extradited
+E803	Justice_Extradite:T15
+A15	Realis E803 Actual
+T16	Movement_Transport-Person 580 590	extradited
+E574	Movement_Transport-Person:T16
+A16	Realis E574 Actual
+T17	Justice_Sentence 726 734	sentence
+E676	Justice_Sentence:T17
+A17	Realis E676 Actual
+T18	Contact_Broadcast 810 819	announced
+E440	Contact_Broadcast:T18
+A18	Realis E440 Actual
+T19	Transaction_Transfer-Ownership 852 861	receiving
+E560	Transaction_Transfer-Ownership:T19
+A19	Realis E560 Other
+T20	Contact_Broadcast 1087 1094	reports
+E156	Contact_Broadcast:T20
+A20	Realis E156 Actual
+T21	Justice_Charge-Indict 1132 1139	charges
+E629	Justice_Charge-Indict:T21
+A21	Realis E629 Actual
+T22	Contact_Contact 1287 1293	saying
+E971	Contact_Contact:T22
+A22	Realis E971 Actual
+T23	Contact_Contact 1395 1407	negotiations
+E164	Contact_Contact:T23
+A23	Realis E164 Actual
+T24	Contact_Contact 1452 1464	negotiations
+E992	Contact_Contact:T24
+A24	Realis E992 Actual
+T25	Justice_Extradite 1529 1539	extradited
+E948	Justice_Extradite:T25
+A25	Realis E948 Actual
+T26	Movement_Transport-Person 155 166	extradition
+E845	Movement_Transport-Person:T26
+A26	Realis E845 Other
+T27	Movement_Transport-Person 1529 1539	extradited
+E929	Movement_Transport-Person:T27
+A27	Realis E929 Actual
+R1	Coreference Arg1:E375 Arg2:E995
+R2	Coreference Arg1:E889 Arg2:E675
+R3	Coreference Arg1:E675 Arg2:E908
+R4	Coreference Arg1:E908 Arg2:E288
+R5	Coreference Arg1:E782 Arg2:E318
+R6	Coreference Arg1:E318 Arg2:E670
+R7	Coreference Arg1:E822 Arg2:E598
+R8	Coreference Arg1:E598 Arg2:E654

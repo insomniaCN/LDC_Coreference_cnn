@@ -1,0 +1,21 @@
+T1	Life_Be-Born 155 159	born
+E1	Life_Be-Born:T1 
+A1	Realis E1 Actual
+T2	Personnel_Nominate 1260 1263;1268 1278	won nomination
+E2	Personnel_Nominate:T2 
+A2	Realis E2 Actual
+T3	Personnel_Nominate 4160 4170	nomination
+E3	Personnel_Nominate:T3 
+A3	Realis E3 Actual
+T4	Personnel_Elect 4492 4500	election
+E4	Personnel_Elect:T4 
+A4	Realis E4 Other
+T5	Personnel_Nominate 4537 4547	renominate
+E5	Personnel_Nominate:T5 
+A5	Realis E5 Actual
+T7	Transaction_Transfer-Money 6390 6398	spending
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Actual
+T8	Personnel_Start-Position 211 214;219 223	got jobs
+E8	Personnel_Start-Position:T8 
+A8	Realis E8 Generic

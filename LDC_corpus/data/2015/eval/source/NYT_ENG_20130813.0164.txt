@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130813.0164" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130813/20130813,abb01138b2cb267b550aad41ca98c885.xml">
+<HEADLINE>
+MOUNTAINOUS ROOFTOP ADDITION DRAWS NOTICE IN BEIJING
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+BEIJING - In a city brimming with look-at-me architecture, the sprawling addition that Zhang Biqing, a health care magnate, built atop his 26th-floor apartment is a showstopper.
+</P>
+<P>
+Constructed with ersatz boulders, crisscrossed by trellises and walkways and dotted with the occasional shrub, the two-story aerie resembles the idealized mountains depicted in classical Chinese paintings - except the requisite lonely monk of yore has been replaced by a flashy karaoke parlor.
+</P>
+<P>
+The entire 8,000-square-foot addition, as it turns out, is illegal. On Monday, The Beijing Morning News featured a front-page photograph of Zhang’s garish rooftop expansion, along with disturbing accounts of how the well-connected entrepreneur blithely ignored his neighbors’ complaints during the six years he spent creating his craggy villa atop a luxury gated complex in western Beijing.
+</P>
+<P>
+Tenants were so tortured by the din of nonstop construction - and the resulting leaks and cracked walls - that several of them sold their apartments and moved out. One next-door neighbor was reportedly beaten up after he confronted Zhang about the project, which is said to have cost more than $4 million.
+</P>
+<P>
+The story, zealously covered by much of the Chinese news media on Tuesday, seemed to embody the popular perception that the rich and powerful can simply do as they please. According to news reports, Zhang amassed a fortune through a chain of traditional Chinese medicine clinics he owned, or through private acupuncture sessions.
+</P>
+<P>
+Until recently, he was a local delegate to the Chinese People’s Political Consultative Conference, an advisory body to the ruling Communist Party.
+</P>
+<P>
+Code enforcement officials said they were stymied by Zhang’s refusal to let them into his apartment. The deputy head of the Purple Bamboo Park urban management district said he even dispatched inspectors to the building’s underground parking garage but Zhang managed to evade them. “If we can’t calculate the scope of this illegal construction, we can’t issue a notice requiring him to dismantle it,” the official told the paper.
+</P>
+<P>
+By Tuesday, however, Zhang appeared to run out of luck. Officials slapped a notice on his front door, giving him 15 days to remove the addition or present evidence that it had been legally constructed.
+</P>
+<P>
+He claimed the structure was safe in a brief interview Tuesday evening, but conceded that it might have been a folly after all. “Now I realize it was a huge mistake,” he said, adding that he would dismantle the addition within a week.
+</P>
+</TEXT>
+</DOC>

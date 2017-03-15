@@ -1,0 +1,36 @@
+T1	Life_Marry 361 368	Married
+E271	Life_Marry:T1
+A1	Realis E271 Actual
+T2	Life_Marry 388 401	tied the knot
+E966	Life_Marry:T2
+A2	Realis E966 Actual
+T3	Life_Marry 460 466	maried
+E380	Life_Marry:T3
+A3	Realis E380 Actual
+T4	Life_Marry 629 636	Wedding
+E89	Life_Marry:T4
+A4	Realis E89 Other
+T5	Life_Marry 731 738	wedding
+E680	Life_Marry:T5
+A5	Realis E680 Other
+T6	Life_Marry 836 839	wed
+E476	Life_Marry:T6
+A6	Realis E476 Actual
+T7	Contact_Broadcast 446 453	Tweeted
+E902	Contact_Broadcast:T7
+A7	Realis E902 Actual
+T8	Contact_Broadcast 583 588	Tweet
+E172	Contact_Broadcast:T8
+A8	Realis E172 Actual
+T9	Life_Marry 1486 1493	married
+E890	Life_Marry:T9
+A9	Realis E890 Other
+T10	Life_Marry 1518 1523	marry
+E163	Life_Marry:T10
+A10	Realis E163 Other
+R1	Coreference Arg1:E271 Arg2:E966
+R2	Coreference Arg1:E966 Arg2:E380
+R3	Coreference Arg1:E380 Arg2:E89
+R4	Coreference Arg1:E89 Arg2:E680
+R5	Coreference Arg1:E680 Arg2:E476
+R6	Coreference Arg1:E890 Arg2:E163

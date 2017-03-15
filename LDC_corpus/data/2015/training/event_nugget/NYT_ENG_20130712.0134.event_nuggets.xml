@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000645" doc_id="NYT_ENG_20130712.0134" source_type="newswire">
+<event_mention id="em-10" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="379" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-23" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="432" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-38" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="638" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-53" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="572" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-68" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="672" length="10">sentencing</trigger>
+      </event_mention>
+<event_mention id="em-83" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="703" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-98" type="justice" subtype="fine" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="715" length="5">fines</trigger>
+      </event_mention>
+<event_mention id="em-113" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="760" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-128" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="816" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-143" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="895" length="8">mistrial</trigger>
+      </event_mention>
+<event_mention id="em-156" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="988" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-169" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1028" length="7">retrial</trigger>
+      </event_mention>
+<event_mention id="em-182" type="justice" subtype="acquit" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1011" length="9">acquitted</trigger>
+      </event_mention>
+<event_mention id="em-197" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1067" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-212" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1121" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-227" type="justice" subtype="sue" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1294" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-242" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130712.0134" offset="1357" length="4">hand</trigger>
+      </event_mention>
+<event_mention id="em-257" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130712.0134" offset="1393" length="6">strike</trigger>
+      </event_mention>
+<event_mention id="em-272" type="transaction" subtype="transferownership" realis="other" ways="involuntarynoforce">
+        <trigger source="NYT_ENG_20130712.0134" offset="1451" length="4">hand</trigger>
+      </event_mention>
+<event_mention id="em-285" type="conflict" subtype="attack" realis="generic">
+        <trigger source="NYT_ENG_20130712.0134" offset="1483" length="7">strikes</trigger>
+      </event_mention>
+<event_mention id="em-298" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1749" length="9">detainees</trigger>
+      </event_mention>
+<event_mention id="em-313" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130712.0134" offset="1760" length="9">petitions</trigger>
+      </event_mention>
+<event_mention id="em-328" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="NYT_ENG_20130712.0134" offset="1776" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-343" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1831" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-358" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1900" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-371" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="1966" length="7">retired</trigger>
+      </event_mention>
+<event_mention id="em-386" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="2040" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-401" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130712.0134" offset="2097" length="6">report</trigger>
+      </event_mention>
+<event_mention id="em-416" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130712.0134" offset="2269" length="6">attack</trigger>
+      </event_mention>
+<event_mention id="em-431" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="2337" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-446" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="2398" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-459" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="2552" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-474" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="2597" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-489" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="2648" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-504" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130712.0134" offset="2978" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-519" type="justice" subtype="appeal" realis="other">
+        <trigger source="NYT_ENG_20130712.0134" offset="3020" length="6">appeal</trigger>
+      </event_mention>
+<event_mention id="em-534" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="3266" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-549" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="3317" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-564" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130712.0134" offset="3568" length="6">reveal</trigger>
+      </event_mention>
+<event_mention id="em-579" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="3888" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-594" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="3940" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-609" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="4220" length="6">deadly</trigger>
+      </event_mention>
+<event_mention id="em-624" type="conflict" subtype="attack" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="4238" length="5">siege</trigger>
+      </event_mention>
+<event_mention id="em-639" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="4359" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-654" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="4409" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-669" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="4920" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-684" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="4968" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-699" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5117" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-712" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5316" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-727" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5365" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-740" type="justice" subtype="sue" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5484" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-755" type="justice" subtype="sue" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5591" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-768" type="justice" subtype="sue" realis="other">
+        <trigger source="NYT_ENG_20130712.0134" offset="5629" length="4">sued</trigger>
+      </event_mention>
+<event_mention id="em-781" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5769" length="9">appointed</trigger>
+      </event_mention>
+<event_mention id="em-796" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="5817" length="9">nominated</trigger>
+      </event_mention>
+<event_mention id="em-811" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="6155" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-826" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="6164" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-841" type="justice" subtype="sentence" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="6217" length="10">sentencing</trigger>
+      </event_mention>
+<event_mention id="em-856" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="NYT_ENG_20130712.0134" offset="6247" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-871" type="transaction" subtype="transferownership" realis="other" ways="canttell">
+        <trigger source="NYT_ENG_20130712.0134" offset="6399" length="3">rob</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

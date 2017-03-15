@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000552" doc_id="APW_ENG_20090611.0436" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-224" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="96" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-237" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="268" length="9">murdering</trigger>
+      </event_mention>
+      <event_mention id="em-250" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="462" length="8">slitting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-75">
+      <event_mention id="em-159" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="71" length="7">pardons</trigger>
+      </event_mention>
+      <event_mention id="em-172" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="222" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-185" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="894" length="8">pardoned</trigger>
+      </event_mention>
+      <event_mention id="em-198" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="972" length="6">pardon</trigger>
+      </event_mention>
+      <event_mention id="em-211" type="justice" subtype="pardon" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1618" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-90">
+      <event_mention id="em-263" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="96" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-276" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="268" length="9">murdering</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-131">
+      <event_mention id="em-289" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20090611.0436" offset="341" length="6">return</trigger>
+      </event_mention>
+      <event_mention id="em-302" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20090611.0436" offset="1249" length="12">heading home</trigger>
+      </event_mention>
+      <event_mention id="em-315" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20090611.0436" offset="1646" length="5">leave</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-341">
+      <event_mention id="em-328" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20090611.0436" offset="398" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-358" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20090611.0436" offset="938" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-371" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20090611.0436" offset="1211" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-356">
+      <event_mention id="em-343" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="255" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-384" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="438" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-397" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="569" length="6">guilty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-423">
+      <event_mention id="em-410" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20090611.0436" offset="593" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-438">
+      <event_mention id="em-425" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20090611.0436" offset="693" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-453">
+      <event_mention id="em-440" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="838" length="8">sentence</trigger>
+      </event_mention>
+      <event_mention id="em-485" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1423" length="9">sentenced</trigger>
+      </event_mention>
+      <event_mention id="em-498" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1522" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-468">
+      <event_mention id="em-455" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20090611.0436" offset="998" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-483">
+      <event_mention id="em-470" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20090611.0436" offset="1341" length="7">thanked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-524">
+      <event_mention id="em-511" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20090611.0436" offset="1717" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-539">
+      <event_mention id="em-526" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1814" length="8">traveled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-554">
+      <event_mention id="em-541" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20090611.0436" offset="1268" length="8">reunited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-569">
+      <event_mention id="em-556" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1905" length="10">conviction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-584">
+      <event_mention id="em-571" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1898" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-599">
+      <event_mention id="em-586" type="life" subtype="die" realis="actual">
+        <trigger source="APW_ENG_20090611.0436" offset="1898" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-614">
+      <event_mention id="em-601" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20090611.0436" offset="2056" length="10">nonpayment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-629">
+      <event_mention id="em-616" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20090611.0436" offset="2262" length="4">sent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-644">
+      <event_mention id="em-631" type="life" subtype="die" realis="generic">
+        <trigger source="APW_ENG_20090611.0436" offset="832" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,51 @@
+T1	Transaction_Transfer-Ownership 812 818	bought
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 1020 1023;986 990	for paid
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Business_Start-Org 1855 1862	founded
+E3	Business_Start-Org:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 2128 2135	selling
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 2437 2440	buy
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Other
+T7	Transaction_Transfer-Ownership 3424 3427	buy
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Ownership 3579 3585	bought
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Actual
+T9	Business_Declare-Bankruptcy 3754 3767	went bankrupt
+E9	Business_Declare-Bankruptcy:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 3816 3822	bought
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Ownership 4763 4771	purchase
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 5717 5723	buying
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 2815 2820	moved
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual
+T14	Business_Start-Org 2830 2834	open
+E14	Business_Start-Org:T14 
+A14	Realis E14 Actual
+T15	Personnel_Start-Position 2923 2932	took over
+E15	Personnel_Start-Position:T15 
+A15	Realis E15 Actual
+T6	Business_Start-Org 3841 3855	re-established
+E6	Business_Start-Org:T6 
+A6	Realis E6 Actual
+T16	Movement_Transport-Person 4099 4102	ran
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Other
+T17	Transaction_Transfer-Ownership 5202 5206	sell
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Generic

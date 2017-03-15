@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea810000000000000091" doc_id="NYT_ENG_20130925.0081" source_type="newswire">
+  <event_mention id="em-31" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3990" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-39" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="3337" length="6">tapped</trigger>
+  </event_mention>
+  <event_mention id="em-44" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2436" length="10">nomination</trigger>
+  </event_mention>
+  <event_mention id="em-63" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2409" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-70" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="4321" length="6">filled</trigger>
+  </event_mention>
+  <event_mention id="em-87" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1055" length="8">nominees</trigger>
+  </event_mention>
+  <event_mention id="em-128" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="526" length="14">recommendation</trigger>
+  </event_mention>
+  <event_mention id="em-132" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="3151" length="7">replace</trigger>
+  </event_mention>
+  <event_mention id="em-170" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2185" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-186" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="3151" length="7">replace</trigger>
+  </event_mention>
+  <event_mention id="em-214" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="2204" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-240" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2646" length="10">nomination</trigger>
+  </event_mention>
+  <event_mention id="em-277" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1919" length="6">served</trigger>
+  </event_mention>
+  <event_mention id="em-353" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="451" length="9">nominated</trigger>
+  </event_mention>
+  <event_mention id="em-364" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="3347" length="7">replace</trigger>
+  </event_mention>
+  <event_mention id="em-366" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="687" length="9">nominated</trigger>
+  </event_mention>
+  <event_mention id="em-376" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130925.0081" offset="2345" length="14">assassinations</trigger>
+  </event_mention>
+  <event_mention id="em-378" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2805" length="3">sat</trigger>
+  </event_mention>
+  <event_mention id="em-409" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="4107" length="7">Retired</trigger>
+  </event_mention>
+  <event_mention id="em-421" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="942" length="11">nominations</trigger>
+  </event_mention>
+  <event_mention id="em-428" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3990" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-446" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1437" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-459" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="3100" length="6">became</trigger>
+  </event_mention>
+  <event_mention id="em-482" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="2683" length="7">replace</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130925.0081" offset="5161" length="12">announcement</trigger>
+  </event_mention>
+  <event_mention id="em-575" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2409" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-579" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="178" length="9">nominates</trigger>
+  </event_mention>
+  <event_mention id="em-584" type="life" subtype="marry" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1779" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="personnel" subtype="nominate" realis="generic">
+    <trigger source="NYT_ENG_20130925.0081" offset="4413" length="11">nominations</trigger>
+  </event_mention>
+  <event_mention id="em-591" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="867" length="11">appointment</trigger>
+  </event_mention>
+  <event_mention id="em-606" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3845" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-630" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="824" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-640" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3900" length="5">given</trigger>
+  </event_mention>
+  <event_mention id="em-645" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130925.0081" offset="2390" length="10">memorandum</trigger>
+  </event_mention>
+  <event_mention id="em-652" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130925.0081" offset="955" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-655" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130925.0081" offset="1567" length="9">statement</trigger>
+  </event_mention>
+  <event_mention id="em-662" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="761" length="6">tapped</trigger>
+  </event_mention>
+  <event_mention id="em-666" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="3138" length="9">nominated</trigger>
+  </event_mention>
+  <event_mention id="em-681" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="2683" length="7">replace</trigger>
+  </event_mention>
+  <event_mention id="em-700" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1790" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-729" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="3053" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-757" type="life" subtype="beborn" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2227" length="4">born</trigger>
+  </event_mention>
+  <event_mention id="em-793" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130925.0081" offset="2141" length="10">memorandum</trigger>
+  </event_mention>
+  <event_mention id="em-802" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="3347" length="7">replace</trigger>
+  </event_mention>
+  <event_mention id="em-856" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20130925.0081" offset="2345" length="14">assassinations</trigger>
+  </event_mention>
+  <event_mention id="em-861" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3845" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-867" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2299" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-871" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2299" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-878" type="personnel" subtype="startposition" realis="other">
+    <trigger source="NYT_ENG_20130925.0081" offset="1721" length="8">addition</trigger>
+  </event_mention>
+  <event_mention id="em-886" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1522" length="10">nominating</trigger>
+  </event_mention>
+  <event_mention id="em-889" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130925.0081" offset="898" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-928" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3900" length="5">given</trigger>
+  </event_mention>
+  <event_mention id="em-952" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="2185" length="7">killing</trigger>
+  </event_mention>
+  <event_mention id="em-974" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130925.0081" offset="3797" length="7">donated</trigger>
+  </event_mention>
+  <event_mention id="em-980" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130925.0081" offset="2700" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-990" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130925.0081" offset="1363" length="10">nomination</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

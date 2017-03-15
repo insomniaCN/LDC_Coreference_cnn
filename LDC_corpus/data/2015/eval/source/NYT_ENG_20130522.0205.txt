@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20130522.0205" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130522/20130522,a4c78aec565ab3e4cd3e2b801913a71a.xml">
+<HEADLINE>
+REPORT ON BANGLADESH BUILDING COLLAPSE FINDS WIDESPREAD BLAME
+</HEADLINE>
+<TEXT>
+<P>
+DHAKA, Bangladesh - A factory building that collapsed last month outside Dhaka, killing more than 1,000 workers in the deadliest disaster in the history of the garment industry, was constructed with substandard materials and in blatant disregard for building codes, a high-level government report issued Wednesday concluded.
+</P>
+<P>
+The 400-page report on the collapse of the Rana Plaza building in Savar, an industrial suburb of Dhaka, the capital, found widespread fault for the April 24 disaster, which killed 1,127 people. It blamed the mayor for wrongly granting construction approvals and recommended charges for the building’s owner, Sohel Rana, as well for as the owners of the five garment factories in the building, that could result in life sentences if they are convicted.
+</P>
+<P>
+The factory owners urged workers to return to their jobs despite evidence that the building was unsafe, the report said.
+</P>
+<P>
+“They compelled them to start,” said Main Uddin Khandaker, a high-ranking official in Bangladesh’s Home Ministry, who led the investigation.
+</P>
+<P>
+The Rana Plaza disaster has focused global attention on unsafe conditions in the garment industry in Bangladesh, which is now the world’s second-leading exporter of clothing, trailing only China. Bangladesh has more than 5,000 garment factories, handling orders for nearly all of the world’s top brands and retailers. It has become an export powerhouse largely by delivering lower costs, in part by having the lowest wages in the world for garment workers.
+</P>
+<P>
+Rana Plaza was a disaster waiting to happen, the government report suggested. Rana illegally constructed upper floors to house garment factories employing several thousand workers, it said. Large power generators placed on these upper floors, necessary because of regular power failures, would shake the poorly constructed building whenever they were switched on, according to the report.
+</P>
+<P>
+On April 23, cracks had appeared in the building, shaking the structure enough that many workers fled. An engineer called to inspect the structure warned that it was unsafe. Yet Rana and the factory bosses discounted any concerns and ordered their workers into the building the next morning, the government report concluded. A generator soon switched on, and the building buckled and collapsed, in what became a scene of horror.
+</P>
+<P>
+Khandaker’s report recommended that Rana and the factory owners be charged with culpable homicide. He also suggested that Rana had bribed local officials for construction approvals.
+</P>
+</TEXT>
+</DOC>

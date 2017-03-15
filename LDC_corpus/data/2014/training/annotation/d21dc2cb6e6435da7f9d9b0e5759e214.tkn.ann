@@ -1,0 +1,120 @@
+T1	Contact_Communicate 102 105	say
+E1	Contact_Communicate:T1 
+A1	Realis E1 Other
+T2	Contact_Communicate 128 132	tell
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 203 210	wedding
+E3	Life_Marry:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 250 255;260 265	spend money
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Life_Marry 424 431	wedding
+E5	Life_Marry:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Ownership 444 449	hired
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Life_Marry 484 491	wedding
+E7	Life_Marry:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 755 759	went
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 785 792	flights
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Life_Marry 835 836	d
+E10	Life_Marry:T10 
+A10	Realis E10 Actual
+T11	Life_Marry 1074 1081	wedding
+E11	Life_Marry:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 1117 1121	went
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Life_Marry 1287 1294	wedding
+E13	Life_Marry:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Ownership 1343 1347	Hire
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Ownership 1417 1423	borrow
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Ownership 1440 1443	get
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Other
+T17	Movement_Transport-Person 1560 1564	trip
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Other
+T18	Contact_Communicate 1612 1616	said
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Ownership 1823 1829	buying
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Other
+T20	Transaction_Transfer-Ownership 1846 1850	hire
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Other
+T21	Life_Marry 2113 2120	wedding
+E21	Life_Marry:T21 
+A21	Realis E21 Generic
+T22	Life_Marry 2192 2199	married
+E22	Life_Marry:T22 
+A22	Realis E22 Generic
+T23	Life_Marry 2364 2372	weddings
+E23	Life_Marry:T23 
+A23	Realis E23 Generic
+T24	Life_Marry 2561 2568	married
+E24	Life_Marry:T24 
+A24	Realis E24 Generic
+T25	Life_Marry 2617 2625	weddings
+E25	Life_Marry:T25 
+A25	Realis E25 Generic
+T26	Life_Marry 3133 3140	wedding
+E26	Life_Marry:T26 
+A26	Realis E26 Other
+T27	Life_Marry 3197 3199	it
+E27	Life_Marry:T27 
+A27	Realis E27 Other
+T28	Transaction_Transfer-Money 3372 3377	spend
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Generic
+T29	Transaction_Transfer-Money 3260 3265	spend
+E29	Transaction_Transfer-Money:T29 
+A29	Realis E29 Generic
+T30	Life_Marry 3286 3294	weddings
+E30	Life_Marry:T30 
+A30	Realis E30 Generic
+T31	Contact_Communicate 3428 3437	mentioned
+E31	Contact_Communicate:T31 
+A31	Realis E31 Actual
+T32	Life_Marry 3462 3470	marriage
+E32	Life_Marry:T32 
+A32	Realis E32 Other
+T33	Movement_Transport-Person 3619 3628	honeymoon
+E33	Movement_Transport-Person:T33 
+A33	Realis E33 Other
+T34	Transaction_Transfer-Money 3672 3677	spend
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Other
+T35	Movement_Transport-Person 3717 3724	holiday
+E35	Movement_Transport-Person:T35 
+A35	Realis E35 Other
+T36	Life_Marry 166 174	ceromony
+E36	Life_Marry:T36 
+A36	Realis E36 Actual
+T37	Contact_Meet 1320 1325	party
+E37	Contact_Meet:T37 
+A37	Realis E37 Other
+T38	Contact_Meet 1643 1649	dinner
+E38	Contact_Meet:T38 
+A38	Realis E38 Actual
+T39	Contact_Communicate 1965 1971	invite
+E39	Contact_Communicate:T39 
+A39	Realis E39 Other
+T40	Contact_Meet 3524 3529	party
+E40	Contact_Meet:T40 
+A40	Realis E40 Other

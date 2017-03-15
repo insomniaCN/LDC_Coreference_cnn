@@ -1,0 +1,96 @@
+T1	Contact_Meet 736 742	gather
+E43	Contact_Meet:T1
+A1	Realis E43 Generic
+T2	Conflict_Attack 2259 2269	assaulting
+E54	Conflict_Attack:T2
+A2	Realis E54 Actual
+T3	Life_Injure 1573 1577	cuts
+E213	Life_Injure:T3
+A3	Realis E213 Actual
+T4	Conflict_Attack 1301 1308	smashed
+E227	Conflict_Attack:T4
+A4	Realis E227 Actual
+T5	Contact_Broadcast 1918 1925	chanted
+E232	Contact_Broadcast:T5
+A5	Realis E232 Actual
+T6	Conflict_Attack 2472 2478	Fights
+E241	Conflict_Attack:T6
+A6	Realis E241 Actual
+T7	Conflict_Attack 1506 1513	smashed
+E249	Conflict_Attack:T7
+A7	Realis E249 Actual
+T8	Movement_Transport-Person 1863 1869	jumped
+E250	Movement_Transport-Person:T8
+A8	Realis E250 Actual
+T9	Movement_Transport-Person 1396 1403	paraded
+E254	Movement_Transport-Person:T9
+A9	Realis E254 Actual
+T10	Life_Injure 1484 1491	injured
+E256	Life_Injure:T10
+A10	Realis E256 Actual
+T11	Contact_Broadcast 2489 2497	reported
+E342	Contact_Broadcast:T11
+A11	Realis E342 Actual
+T12	Conflict_Demonstrate 1735 1740	riots
+E348	Conflict_Demonstrate:T12
+A12	Realis E348 Actual
+T13	Movement_Transport-Artifact 1343 1351	Carrying
+E407	Movement_Transport-Artifact:T13
+A13	Realis E407 Actual
+T14	Conflict_Attack 1325 1335	vandalised
+E447	Conflict_Attack:T14
+A14	Realis E447 Actual
+T15	Conflict_Attack 1530 1539	showering
+E466	Conflict_Attack:T15
+A15	Realis E466 Actual
+T16	Conflict_Demonstrate 993 1001	rampaged
+E474	Conflict_Demonstrate:T16
+A16	Realis E474 Actual
+T17	Conflict_Demonstrate 1123 1128	riots
+E490	Conflict_Demonstrate:T17
+A17	Realis E490 Actual
+T18	Movement_Transport-Person 2100 2104	came
+E497	Movement_Transport-Person:T18
+A18	Realis E497 Actual
+T19	Contact_Meet 1771 1782	congregated
+E501	Contact_Meet:T19
+A19	Realis E501 Actual
+T20	Justice_Charge-Indict 2233 2240	charged
+E525	Justice_Charge-Indict:T20
+A20	Realis E525 Actual
+T21	Contact_Broadcast 1607 1614	reports
+E532	Contact_Broadcast:T21
+A21	Realis E532 Actual
+T22	Conflict_Demonstrate 376 383	rampage
+E580	Conflict_Demonstrate:T22
+A22	Realis E580 Actual
+T23	Conflict_Attack 1819 1827	attacked
+E589	Conflict_Attack:T23
+A23	Realis E589 Actual
+T24	Conflict_Attack 2567 2574	clashed
+E678	Conflict_Attack:T24
+A24	Realis E678 Actual
+T25	Conflict_Demonstrate 1396 1403	paraded
+E791	Conflict_Demonstrate:T25
+A25	Realis E791 Actual
+T26	Contact_Contact 2084 2088	said
+E810	Contact_Contact:T26
+A26	Realis E810 Actual
+T27	Contact_Broadcast 1428 1439	threatening
+E876	Contact_Broadcast:T27
+A27	Realis E876 Actual
+T28	Conflict_Demonstrate 2170 2176	unrest
+E921	Conflict_Demonstrate:T28
+A28	Realis E921 Actual
+T29	Movement_Transport-Person 993 1001	rampaged
+E948	Movement_Transport-Person:T29
+A29	Realis E948 Actual
+T30	Conflict_Attack 1630 1638	attacked
+E949	Conflict_Attack:T30
+A30	Realis E949 Actual
+T31	Contact_Broadcast 2013 2020	singing
+E958	Contact_Broadcast:T31
+A31	Realis E958 Actual
+T32	Contact_Broadcast 2299 2308	cautioned
+E976	Contact_Broadcast:T32
+A32	Realis E976 Actual

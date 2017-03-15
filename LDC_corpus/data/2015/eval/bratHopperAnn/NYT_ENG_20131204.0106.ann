@@ -1,0 +1,81 @@
+T1	Manufacture_Artifact 1484 1491	publish
+E222	Manufacture_Artifact:T1
+A1	Realis E222 Other
+T2	Manufacture_Artifact 2143 2153	publishing
+E419	Manufacture_Artifact:T2
+A2	Realis E419 Other
+T3	Manufacture_Artifact 297 308	publication
+E730	Manufacture_Artifact:T3
+A3	Realis E730 Generic
+T4	Contact_Contact 497 506	interview
+E819	Contact_Contact:T4
+A4	Realis E819 Actual
+T5	Transaction_Transfer-Money 582 585	pay
+E773	Transaction_Transfer-Money:T5
+A5	Realis E773 Other
+T6	Transaction_Transfer-Money 619 622	pay
+E531	Transaction_Transfer-Money:T6
+A6	Realis E531 Generic
+T7	Transaction_Transfer-Ownership 1078 1082	sold
+E359	Transaction_Transfer-Ownership:T7
+A7	Realis E359 Actual
+T8	Business_Merge-Org 1190 1196	merged
+E182	Business_Merge-Org:T8
+A8	Realis E182 Actual
+T9	Contact_Broadcast 1428 1437	announced
+E858	Contact_Broadcast:T9
+A9	Realis E858 Actual
+T10	Contact_Broadcast 1711 1720	announced
+E982	Contact_Broadcast:T10
+A10	Realis E982 Actual
+T11	Transaction_Transfer-Money 1638 1643	costs
+E500	Transaction_Transfer-Money:T11
+A11	Realis E500 Actual
+T25	Transaction_Transfer-Ownership 1757 1761	sell
+E508	Transaction_Transfer-Ownership:T25
+A25	Realis E508 Other
+T13	Transaction_Transfer-Ownership 1883 1889	bought
+E635	Transaction_Transfer-Ownership:T13
+A13	Realis E635 Actual
+T14	Personnel_End-Position 1930 1942	stepped down
+E699	Personnel_End-Position:T14
+A14	Realis E699 Actual
+T15	Personnel_Start-Position 2031 2037	became
+E10	Personnel_Start-Position:T15
+A15	Realis E10 Actual
+T16	Personnel_Start-Position 2335 2350	taking the helm
+E285	Personnel_Start-Position:T16
+A16	Realis E285 Actual
+T17	Transaction_Transfer-Money 2123 2128	spend
+E561	Transaction_Transfer-Money:T17
+A17	Realis E561 Other
+T18	Contact_Contact 2205 2216	negotiating
+E454	Contact_Contact:T18
+A18	Realis E454 Actual
+T19	Movement_Transport-Artifact 2235 2247	distributors
+E300	Movement_Transport-Artifact:T19
+A19	Realis E300 Generic
+T20	Manufacture_Artifact 2222 2230	printers
+E935	Manufacture_Artifact:T20
+A20	Realis E935 Generic
+T21	Personnel_End-Position 2362 2368	former
+E560	Personnel_End-Position:T21
+A21	Realis E560 Actual
+T22	Personnel_Start-Position 2432 2437	hires
+E484	Personnel_Start-Position:T22
+A22	Realis E484 Actual
+T23	Manufacture_Artifact 1632 1637	print
+E624	Manufacture_Artifact:T23
+A23	Realis E624 Actual
+T24	Transaction_Transfer-Money 1078 1082	sold
+E973	Transaction_Transfer-Money:T24
+A24	Realis E973 Actual
+T25	Transaction_Transfer-Ownership 1757 1761	sell
+E649	Transaction_Transfer-Ownership:T25
+A25	Realis E649 Other
+T26	Transaction_Transfer-Money 1883 1889	bought
+E714	Transaction_Transfer-Money:T26
+A26	Realis E714 Actual
+R1	Coreference Arg1:E222 Arg2:E419
+R2	Coreference Arg1:E858 Arg2:E982
+R3	Coreference Arg1:E10 Arg2:E285

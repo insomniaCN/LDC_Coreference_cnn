@@ -1,0 +1,48 @@
+T1	Justice_Execute 67 72	Death
+E1	Justice_Execute:T1 
+A1	Realis E1 Generic
+T2	Justice_Sentence 73 80	Penalty
+E2	Justice_Sentence:T2 
+A2	Realis E2 Generic
+T3	Justice_Execute 398 406	executed
+E3	Justice_Execute:T3 
+A3	Realis E3 Generic
+T4	Justice_Release-Parole 622 629	paroled
+E4	Justice_Release-Parole:T4 
+A4	Realis E4 Generic
+T5	Justice_Execute 882 887	death
+E5	Justice_Execute:T5 
+A5	Realis E5 Generic
+T6	Justice_Sentence 888 895	penalty
+E6	Justice_Sentence:T6 
+A6	Realis E6 Generic
+T7	Conflict_Attack 929 933	rape
+E7	Conflict_Attack:T7 
+A7	Realis E7 Generic
+T8	Life_Die 936 942	murder
+E8	Life_Die:T8 
+A8	Realis E8 Generic
+T9	Justice_Execute 1045 1050	death
+E9	Justice_Execute:T9 
+A9	Realis E9 Generic
+T10	Justice_Sentence 1051 1058	penalty
+E10	Justice_Sentence:T10 
+A10	Realis E10 Generic
+T14	Life_Die 1340 1346	murder
+E14	Life_Die:T14 
+A14	Realis E14 Generic
+T15	Life_Die 1377 1383	Murder
+E15	Life_Die:T15 
+A15	Realis E15 Generic
+T16	Life_Die 1387 1393	murder
+E16	Life_Die:T16 
+A16	Realis E16 Generic
+T17	Justice_Arrest-Jail 1750 1756	prison
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Generic
+T18	Justice_Sentence 1757 1766	sentences
+E18	Justice_Sentence:T18 
+A18	Realis E18 Generic
+T19	Justice_Release-Parole 1803 1811	released
+E19	Justice_Release-Parole:T19 
+A19	Realis E19 Other

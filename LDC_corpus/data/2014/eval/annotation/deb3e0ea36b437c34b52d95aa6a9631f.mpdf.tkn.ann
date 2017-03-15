@@ -1,0 +1,120 @@
+T1	Justice_Arrest-Jail 231 239	arrested
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Justice_Charge-Indict 244 251	charged
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Life_Die 257 263	murder
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 362 370	arrested
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Justice_Charge-Indict 375 382	charged
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Actual
+T6	Life_Die 388 394	murder
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 560 563	say
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 580 586;591 598	pulled trigger
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T10	Life_Die 942 948	killer
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Personnel_End-Position 955 961	former
+E11	Personnel_End-Position:T11 
+A11	Realis E11 Actual
+T12	Life_Die 1025 1031	victim
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1191 1195	shot
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Life_Die 1271 1276	death
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T16	Movement_Transport-Person 1323 1329	walked
+E16	Movement_Transport-Person:T16 
+A16	Realis E16 Actual
+T17	Contact_Communicate 1456 1463	goodbye
+E17	Contact_Communicate:T17 
+A17	Realis E17 Generic
+T18	Movement_Transport-Person 1513 1518	drive
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Actual
+T19	Contact_Communicate 1732 1739	goodbye
+E19	Contact_Communicate:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Money 1798 1805	tuition
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 1879 1886	walking
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Actual
+T22	Contact_Communicate 1959 1962	say
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Movement_Transport-Person 2111 2118;2135 2140	went on trips
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T24	Contact_Communicate 2370 2374	said
+E24	Contact_Communicate:T24 
+A24	Realis E24 Actual
+T25	Contact_Communicate 2402 2406	said
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T27	Conflict_Attack 2462 2468	shoots
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Contact_Communicate 2580 2587	goodbye
+E28	Contact_Communicate:T28 
+A28	Realis E28 Generic
+T29	Contact_Communicate 2278 2285	goodbye
+E29	Contact_Communicate:T29 
+A29	Realis E29 Generic
+T30	Justice_Charge-Indict 2627 2634	charged
+E30	Justice_Charge-Indict:T30 
+A30	Realis E30 Actual
+T31	Life_Die 2649 2657	homicide
+E31	Life_Die:T31 
+A31	Realis E31 Actual
+T32	Conflict_Attack 2673 2680	assault
+E32	Conflict_Attack:T32 
+A32	Realis E32 Actual
+T33	Contact_Communicate 2786 2793	goodbye
+E33	Contact_Communicate:T33 
+A33	Realis E33 Generic
+T34	Transaction_Transfer-Money 2857 2868	breadwinner
+E34	Transaction_Transfer-Money:T34 
+A34	Realis E34 Actual
+T35	Conflict_Attack 3090 3097	shooter
+E35	Conflict_Attack:T35 
+A35	Realis E35 Actual
+T36	Life_Die 3182 3194	may not live
+E36	Life_Die:T36 
+A36	Realis E36 Other
+T37	Justice_Trial-Hearing 3204 3209	trial
+E37	Justice_Trial-Hearing:T37 
+A37	Realis E37 Actual
+T38	Justice_Arrest-Jail 3425 3431	prison
+E38	Justice_Arrest-Jail:T38 
+A38	Realis E38 Other
+T39	Life_Die 3441 3451	taken away
+E39	Life_Die:T39 
+A39	Realis E39 Actual
+T40	Contact_Communicate 1142 1149	goodbye
+E40	Contact_Communicate:T40 
+A40	Realis E40 Generic
+T41	Movement_Transport-Person 835 840	drove
+E41	Movement_Transport-Person:T41 
+A41	Realis E41 Actual
+T42	Conflict_Attack 299 307	incident
+E42	Conflict_Attack:T42 
+A42	Realis E42 Actual
+T43	Contact_Communicate 1556 1563	goodbye
+E43	Contact_Communicate:T43 
+A43	Realis E43 Generic

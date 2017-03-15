@@ -1,0 +1,199 @@
+T1	Conflict_Attack 200 203	war
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Demonstrate 204 218	demonstrations
+E2	Conflict_Demonstrate:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 352 360	arrested
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 387 394	clashed
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Demonstrate 436 441	rally
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 475 478	war
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Demonstrate 490 509	took to the streets
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Actual
+T8	Conflict_Demonstrate 572 579	marches
+E8	Conflict_Demonstrate:T8 
+A8	Realis E8 Actual
+T9	Justice_Arrest-Jail 652 660	arrested
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 683 685	go
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Conflict_Demonstrate 712 717	rally
+E11	Conflict_Demonstrate:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 822 829	clashes
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Demonstrate 956 964;969 974	attended rally
+E13	Conflict_Demonstrate:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 1139 1144	rally
+E14	Conflict_Demonstrate:T14 
+T15	Conflict_Attack 1244 1253	terrorism
+E15	Conflict_Attack:T15 
+A14	Realis E15 Actual
+T16	Conflict_Attack 1322 1325	war
+E16	Conflict_Attack:T16 
+T17	Conflict_Attack 1380 1392	intervention
+E17	Conflict_Attack:T17 
+A15	Realis E17 Actual
+T18	Conflict_Attack 1638 1641	war
+E18	Conflict_Attack:T18 
+A16	Realis E18 Actual
+T19	Personnel_Elect 1647 1656	unelected
+E19	Personnel_Elect:T19 
+A17	Realis E19 Other
+T20	Personnel_Elect 1675 1684	unelected
+E20	Personnel_Elect:T20 
+A18	Realis E20 Actual
+T21	Transaction_Transfer-Ownership 1705 1709;1719 1723	Take away
+E21	Transaction_Transfer-Ownership:T21 
+A19	Realis E21 Other
+T22	Movement_Transport-Person 1753 1760	marched
+E22	Movement_Transport-Person:T22 
+A20	Realis E22 Actual
+T23	Conflict_Attack 1858 1874	bombing campaign
+E23	Conflict_Attack:T23 
+A21	Realis E23 Actual
+T24	Movement_Transport-Person 1918 1923	drove
+E24	Movement_Transport-Person:T24 
+A22	Realis E24 Actual
+T25	Conflict_Demonstrate 1954 1960;1965 1970	attend rally
+E25	Conflict_Demonstrate:T25 
+A23	Realis E25 Actual
+T26	Conflict_Attack 2089 2092	war
+E26	Conflict_Attack:T26 
+A24	Realis E26 Actual
+T27	Conflict_Demonstrate 2145 2153	gathered
+E27	Conflict_Demonstrate:T27 
+A25	Realis E27 Actual
+T28	Conflict_Attack 2489 2492	war
+E28	Conflict_Attack:T28 
+A26	Realis E28 Actual
+T29	Conflict_Demonstrate 2526 2534	protests
+E29	Conflict_Demonstrate:T29 
+A27	Realis E29 Actual
+T30	Movement_Transport-Person 2580 2585	bring
+E30	Movement_Transport-Person:T30 
+A28	Realis E30 Other
+T31	Personnel_End-Position 2615 2621	former
+E31	Personnel_End-Position:T31 
+A29	Realis E31 Actual
+T32	Conflict_Attack 2857 2865	Invading
+E32	Conflict_Attack:T32 
+A30	Realis E32 Generic
+T33	Conflict_Attack 2913 2916	war
+E33	Conflict_Attack:T33 
+A31	Realis E33 Generic
+T34	Conflict_Attack 2920 2929	terrorism
+E34	Conflict_Attack:T34 
+A32	Realis E34 Generic
+T35	Conflict_Attack 2989 2994;2995 2999	Bombs Fall
+E35	Conflict_Attack:T35 
+A33	Realis E35 Other
+T36	Conflict_Demonstrate 3035 3043	thronged
+E36	Conflict_Demonstrate:T36 
+A34	Realis E36 Actual
+T37	Justice_Arrest-Jail 3121 3129	arrested
+E37	Justice_Arrest-Jail:T37 
+A35	Realis E37 Actual
+T38	Conflict_Demonstrate 3219 3227	picketed
+E38	Conflict_Demonstrate:T38 
+A36	Realis E38 Actual
+T39	Conflict_Demonstrate 3301 3310	protested
+E39	Conflict_Demonstrate:T39 
+A37	Realis E39 Actual
+T40	Conflict_Attack 3349 3352	war
+E40	Conflict_Attack:T40 
+A38	Realis E40 Actual
+T41	Conflict_Attack 3515 3525	explosions
+E41	Conflict_Attack:T41 
+A39	Realis E41 Generic
+T42	Conflict_Demonstrate 3617 3631	demonstrations
+E42	Conflict_Demonstrate:T42 
+A40	Realis E42 Actual
+T43	Conflict_Attack 3659 3667	invasion
+E43	Conflict_Attack:T43 
+A41	Realis E43 Actual
+T44	Conflict_Demonstrate 3728 3739	turning out
+E44	Conflict_Demonstrate:T44 
+A42	Realis E44 Actual
+T45	Conflict_Attack 3841 3844	war
+E45	Conflict_Attack:T45 
+A43	Realis E45 Actual
+T46	Conflict_Demonstrate 3935 3939	riot
+E46	Conflict_Demonstrate:T46 
+A44	Realis E46 Generic
+T47	Movement_Transport-Person 3946 3950;3956 3961	kept apart
+E47	Movement_Transport-Person:T47 
+A45	Realis E47 Actual
+T48	Conflict_Attack 4070 4073	war
+E48	Conflict_Attack:T48 
+A46	Realis E48 Actual
+T49	Personnel_End-Position 4151 4153	go
+E49	Personnel_End-Position:T49 
+A47	Realis E49 Other
+T50	Personnel_End-Position 4187 4189	it
+E50	Personnel_End-Position:T50 
+A48	Realis E50 Other
+T51	Conflict_Attack 4301 4308	bombing
+E51	Conflict_Attack:T51 
+A49	Realis E51 Actual
+T52	Conflict_Attack 4316 4318	It
+E52	Conflict_Attack:T52 
+A50	Realis E52 Actual
+T53	Life_Die 4575 4579	dead
+E53	Life_Die:T53 
+A51	Realis E53 Other
+T54	Conflict_Attack 4638 4646	fighting
+E54	Conflict_Attack:T54 
+A52	Realis E54 Actual
+T55	Conflict_Attack 4736 4742	fought
+E55	Conflict_Attack:T55 
+A53	Realis E55 Actual
+T56	Conflict_Attack 4768 4771	war
+E56	Conflict_Attack:T56 
+A54	Realis E56 Actual
+T57	Conflict_Demonstrate 4772 4780	protests
+E57	Conflict_Demonstrate:T57 
+A55	Realis E57 Actual
+T58	Conflict_Attack 4842 4849	bombing
+E58	Conflict_Attack:T58 
+A56	Realis E58 Actual
+T59	Conflict_Demonstrate 4903 4922	took to the streets
+E59	Conflict_Demonstrate:T59 
+A57	Realis E59 Actual
+T60	Conflict_Attack 4989 4992	war
+E60	Conflict_Attack:T60 
+A58	Realis E60 Actual
+T61	Conflict_Attack 5021 5024	War
+E61	Conflict_Attack:T61 
+A59	Realis E61 Actual
+T62	Conflict_Demonstrate 5099 5109	turned out
+E62	Conflict_Demonstrate:T62 
+A60	Realis E62 Actual
+T63	Conflict_Demonstrate 5171 5179	gathered
+E63	Conflict_Demonstrate:T63 
+A61	Realis E63 Actual
+T64	Movement_Transport-Person 5308 5313	block
+E64	Movement_Transport-Person:T64 
+A62	Realis E64 Other
+T65	Movement_Transport-Person 5404 5409	snarl
+E65	Movement_Transport-Person:T65 
+A63	Realis E65 Other
+T66	Conflict_Attack 5435 5438	war
+E66	Conflict_Attack:T66 
+A64	Realis E66 Actual
+T67	Justice_Arrest-Jail 5480 5488	arrested
+E67	Justice_Arrest-Jail:T67 
+A65	Realis E67 Actual

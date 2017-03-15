@@ -1,0 +1,54 @@
+T1	Movement_Transport-Person 469 473	came
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 530 534	left
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 584 592	via text
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 708 712	told
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 802 810	messaged
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Meet 1117 1121	meet
+E6	Contact_Meet:T6 
+A6	Realis E6 Other
+T7	Contact_Communicate 1197 1202	speak
+E7	Contact_Communicate:T7 
+A7	Realis E7 Other
+T8	Movement_Transport-Person 1340 1344	went
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 1360 1365	asked
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 1402 1413	coming back
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Other
+T11	Contact_Communicate 1534 1540	texted
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Movement_Transport-Person 2010 2014	went
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 4019 4025	go out
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Other
+T14	Contact_Communicate 4572 4580	messaged
+E14	Contact_Communicate:T14 
+A14	Realis E14 Actual
+T15	Contact_Meet 5596 5601	meets
+E15	Contact_Meet:T15 
+A15	Realis E15 Generic
+T16	Contact_Meet 248 264	seeing eachother
+E16	Contact_Meet:T16 
+A16	Realis E16 Actual
+T17	Contact_Meet 4046 4050	meet
+E17	Contact_Meet:T17 
+A17	Realis E17 Other
+T18	Contact_Meet 4163 4167	meet
+E18	Contact_Meet:T18 
+A18	Realis E18 Other

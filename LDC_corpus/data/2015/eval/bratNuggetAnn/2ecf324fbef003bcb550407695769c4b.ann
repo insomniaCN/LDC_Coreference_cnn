@@ -1,0 +1,138 @@
+T1	Conflict_Attack 1214 1221	killing
+E26	Conflict_Attack:T1
+A1	Realis E26 Actual
+T2	Conflict_Attack 1615 1621	murder
+E37	Conflict_Attack:T2
+A2	Realis E37 Generic
+T3	Transaction_Transfer-Ownership 2747 2757	purchasing
+E50	Transaction_Transfer-Ownership:T3
+A3	Realis E50 Generic
+T4	Life_Injure 1264 1272	wounding
+E56	Life_Injure:T4
+A4	Realis E56 Other
+T5	Life_Marry 2843 2848	marry
+E90	Life_Marry:T5
+A5	Realis E90 Generic
+T6	Conflict_Attack 1524 1528	rape
+E101	Conflict_Attack:T6
+A6	Realis E101 Generic
+T7	Justice_Arrest-Jail 3710 3716	prison
+E113	Justice_Arrest-Jail:T7
+A7	Realis E113 Other
+T8	Conflict_Attack 3449 3455	murder
+E137	Conflict_Attack:T8
+A8	Realis E137 Generic
+T9	Justice_Trial-Hearing 1958 1965	hearing
+E143	Justice_Trial-Hearing:T9
+A9	Realis E143 Generic
+T10	Justice_Charge-Indict 1622 1629	charges
+E147	Justice_Charge-Indict:T10
+A10	Realis E147 Generic
+T11	Justice_Trial-Hearing 1873 1878	trial
+E151	Justice_Trial-Hearing:T11
+A11	Realis E151 Generic
+T12	Conflict_Attack 1514 1520	murder
+E178	Conflict_Attack:T12
+A12	Realis E178 Generic
+T13	Life_Die 3439 3445	Murder
+E211	Life_Die:T13
+A13	Realis E211 Generic
+T14	Conflict_Attack 759 766	killing
+E214	Conflict_Attack:T14
+A14	Realis E214 Actual
+T15	Conflict_Attack 748 754	murder
+E219	Conflict_Attack:T15
+A15	Realis E219 Actual
+T16	Conflict_Attack 1264 1272	wounding
+E221	Conflict_Attack:T16
+A16	Realis E221 Other
+T17	Justice_Trial-Hearing 2634 2640	trials
+E240	Justice_Trial-Hearing:T17
+A17	Realis E240 Generic
+T18	Justice_Charge-Indict 1477 1484	charged
+E247	Justice_Charge-Indict:T18
+A18	Realis E247 Generic
+T19	Justice_Arrest-Jail 1569 1576	arrests
+E251	Justice_Arrest-Jail:T19
+A19	Realis E251 Generic
+T20	Life_Die 1214 1221	killing
+E257	Life_Die:T20
+A20	Realis E257 Actual
+T21	Contact_Broadcast 818 823	Op-ed
+E269	Contact_Broadcast:T21
+A21	Realis E269 Actual
+T22	Life_Die 3286 3294	homicide
+E275	Life_Die:T22
+A22	Realis E275 Actual
+T23	Life_Die 1514 1520	murder
+E335	Life_Die:T23
+A23	Realis E335 Generic
+T24	Conflict_Attack 948 953	abuse
+E343	Conflict_Attack:T24
+A24	Realis E343 Generic
+T25	Conflict_Attack 3606 3614	murdered
+E387	Conflict_Attack:T25
+A25	Realis E387 Actual
+T26	Life_Die 3606 3614	murdered
+E389	Life_Die:T26
+A26	Realis E389 Actual
+T27	Transaction_Transfer-Money 2747 2757	purchasing
+E423	Transaction_Transfer-Money:T27
+A27	Realis E423 Generic
+T28	Justice_Charge-Indict 3582 3589	charged
+E426	Justice_Charge-Indict:T28
+A28	Realis E426 Actual
+T29	Justice_Charge-Indict 3874 3880	charge
+E484	Justice_Charge-Indict:T29
+A29	Realis E484 Generic
+T30	Life_Die 1615 1621	murder
+E553	Life_Die:T30
+A30	Realis E553 Generic
+T31	Justice_Trial-Hearing 1037 1044	hearing
+E554	Justice_Trial-Hearing:T31
+A31	Realis E554 Actual
+T32	Justice_Charge-Indict 708 715	charged
+E559	Justice_Charge-Indict:T32
+A32	Realis E559 Actual
+T33	Life_Die 748 754	murder
+E635	Life_Die:T33
+A33	Realis E635 Actual
+T34	Conflict_Attack 930 937	assault
+E636	Conflict_Attack:T34
+A34	Realis E636 Generic
+T35	Conflict_Attack 3286 3294	homicide
+E683	Conflict_Attack:T35
+A35	Realis E683 Actual
+T36	Conflict_Attack 3439 3445	Murder
+E689	Conflict_Attack:T36
+A36	Realis E689 Generic
+T37	Justice_Trial-Hearing 1081 1086	trial
+E749	Justice_Trial-Hearing:T37
+A37	Realis E749 Other
+T38	Life_Die 3449 3455	murder
+E775	Life_Die:T38
+A38	Realis E775 Generic
+T39	Life_Die 759 766	killing
+E784	Life_Die:T39
+A39	Realis E784 Actual
+T40	Justice_Trial-Hearing 2267 2272	tried
+E833	Justice_Trial-Hearing:T40
+A40	Realis E833 Generic
+T41	Life_Die 959 966	suicide
+E847	Life_Die:T41
+A41	Realis E847 Generic
+T42	Justice_Arrest-Jail 878 885	prisons
+E851	Justice_Arrest-Jail:T42
+A42	Realis E851 Generic
+T43	Justice_Trial-Hearing 628 635	hearing
+E943	Justice_Trial-Hearing:T43
+A43	Realis E943 Actual
+T44	Conflict_Attack 1681 1688	violent
+E951	Conflict_Attack:T44
+A44	Realis E951 Generic
+T45	Life_Injure 1524 1528	rape
+E957	Life_Injure:T45
+A45	Realis E957 Generic
+T46	Contact_Meet 575 581	speaks
+E983	Contact_Meet:T46
+A46	Realis E983 Actual

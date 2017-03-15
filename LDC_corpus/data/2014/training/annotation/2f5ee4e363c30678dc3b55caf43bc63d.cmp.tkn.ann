@@ -1,0 +1,143 @@
+T3	Life_Die 395 401	fallen
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T7	Movement_Transport-Person 1501 1505	sent
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T11	Life_Die 2107 2113	fallen
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Life_Die 2221 2225	kill
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Life_Die 2505 2511	killed
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Life_Die 2568 2578	casualties
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 2667 2670	War
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T20	Conflict_Attack 2901 2907	attack
+E20	Conflict_Attack:T20 
+A20	Realis E20 Generic
+T21	Conflict_Attack 3112 3115	war
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T24	Conflict_Attack 3291 3294	war
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Personnel_Elect 3311 3319	election
+E25	Personnel_Elect:T25 
+A25	Realis E25 Actual
+T27	Conflict_Attack 3470 3473	war
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Conflict_Attack 3497 3500	war
+E28	Conflict_Attack:T28 
+A28	Realis E28 Actual
+T29	Life_Die 3512 3515	die
+E29	Life_Die:T29 
+A29	Realis E29 Generic
+T30	Conflict_Attack 3519 3523	wars
+E30	Conflict_Attack:T30 
+A30	Realis E30 Generic
+T31	Life_Die 3550 3556	Deaths
+E31	Life_Die:T31 
+A31	Realis E31 Actual
+T34	Life_Die 3830 3834	dead
+E34	Life_Die:T34 
+A34	Realis E34 Actual
+T37	Movement_Transport-Person 4125 4129	sent
+E37	Movement_Transport-Person:T37 
+A38	Realis E37 Actual
+T38	Movement_Transport-Person 4182 4186	sent
+E38	Movement_Transport-Person:T38 
+A39	Realis E38 Actual
+T39	Movement_Transport-Person 4349 4354	going
+E39	Movement_Transport-Person:T39 
+A40	Realis E39 Other
+T40	Life_Die 4420 4429	slaughter
+E40	Life_Die:T40 
+A41	Realis E40 Actual
+T42	Contact_Communicate 4648 4652	call
+E42	Contact_Communicate:T42 
+A43	Realis E42 Other
+T43	Conflict_Attack 4817 4821	wars
+E43	Conflict_Attack:T43 
+A44	Realis E43 Actual
+T44	Contact_Communicate 4826 4829	Ask
+E44	Contact_Communicate:T44 
+A45	Realis E44 Other
+T46	Conflict_Attack 4867 4870	war
+E46	Conflict_Attack:T46 
+A47	Realis E46 Actual
+T48	Contact_Communicate 5088 5096	babbling
+E48	Contact_Communicate:T48 
+A49	Realis E48 Actual
+T49	Conflict_Attack 5286 5289	war
+E49	Conflict_Attack:T49 
+A50	Realis E49 Actual
+T52	Conflict_Attack 5465 5468	war
+E52	Conflict_Attack:T52 
+A53	Realis E52 Actual
+T53	Personnel_Elect 5485 5493	election
+E53	Personnel_Elect:T53 
+A54	Realis E53 Actual
+T55	Conflict_Attack 5644 5647	war
+E55	Conflict_Attack:T55 
+A56	Realis E55 Actual
+T56	Conflict_Attack 5671 5674	war
+E56	Conflict_Attack:T56 
+A57	Realis E56 Actual
+T57	Life_Die 5686 5689	die
+E57	Life_Die:T57 
+A58	Realis E57 Generic
+T58	Conflict_Attack 5693 5697	wars
+E58	Conflict_Attack:T58 
+A59	Realis E58 Generic
+T59	Life_Die 5724 5730	Deaths
+E59	Life_Die:T59 
+A60	Realis E59 Actual
+T62	Life_Die 6004 6008	dead
+E62	Life_Die:T62 
+A63	Realis E62 Actual
+T64	Life_Die 6176 6185	decimated
+E64	Life_Die:T64 
+A65	Realis E64 Actual
+T65	Conflict_Attack 6194 6200	attack
+E65	Conflict_Attack:T65 
+A66	Realis E65 Actual
+T67	Conflict_Attack 6558 6561	war
+E67	Conflict_Attack:T67 
+A68	Realis E67 Actual
+T68	Conflict_Attack 6585 6588	war
+E68	Conflict_Attack:T68 
+A69	Realis E68 Actual
+T69	Life_Die 6600 6603	die
+E69	Life_Die:T69 
+A70	Realis E69 Generic
+T70	Conflict_Attack 6607 6611	wars
+E70	Conflict_Attack:T70 
+A71	Realis E70 Generic
+T71	Conflict_Attack 6656 6659	war
+E71	Conflict_Attack:T71 
+A72	Realis E71 Actual
+T72	Movement_Transport-Person 6768 6776	diverted
+E72	Movement_Transport-Person:T72 
+A73	Realis E72 Actual
+T73	Conflict_Attack 6831 6834	war
+E73	Conflict_Attack:T73 
+A74	Realis E73 Actual
+T1	Conflict_Demonstrate 1167 1175	marching
+E1	Conflict_Demonstrate:T1 
+A1	Questionable E1 Realis
+A4	Realis E1 Other
+T4	Movement_Transport-Person 1558 1562	sent
+E4	Movement_Transport-Person:T4 
+A5	Questionable E4 Realis
+A6	Realis E4 Actual
+A8	Questionable E38 Realis
+A2	Questionable E40 Realis
+A9	Questionable E46 Realis

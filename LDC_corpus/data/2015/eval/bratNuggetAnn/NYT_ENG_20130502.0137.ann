@@ -1,0 +1,99 @@
+T1	Conflict_Attack 994 1003	attacking
+E29	Conflict_Attack:T1
+A1	Realis E29 Actual
+T2	Contact_Contact 2004 2016	negotiations
+E42	Contact_Contact:T2
+A2	Realis E42 Actual
+T3	Justice_Arrest-Jail 1134 1146	house arrest
+E79	Justice_Arrest-Jail:T3
+A3	Realis E79 Actual
+T4	Movement_Transport-Person 2087 2092	leave
+E116	Movement_Transport-Person:T4
+A4	Realis E116 Actual
+T5	Justice_Arrest-Jail 811 817	prison
+E228	Justice_Arrest-Jail:T5
+A5	Realis E228 Generic
+T6	Justice_Arrest-Jail 870 874	held
+E270	Justice_Arrest-Jail:T6
+A6	Realis E270 Actual
+T7	Justice_Arrest-Jail 938 942	jail
+E294	Justice_Arrest-Jail:T7
+A7	Realis E294 Other
+T8	Justice_Release-Parole 1775 1782	release
+E324	Justice_Release-Parole:T8
+A8	Realis E324 Actual
+T9	Justice_Convict 981 990	convicted
+E351	Justice_Convict:T9
+A9	Realis E351 Actual
+T10	Movement_Transport-Person 1887 1895	crawling
+E422	Movement_Transport-Person:T10
+A10	Realis E422 Actual
+T11	Contact_Meet 1348 1353	visit
+E434	Contact_Meet:T11
+A11	Realis E434 Actual
+T12	Movement_Transport-Person 1237 1241	fled
+E455	Movement_Transport-Person:T12
+A12	Realis E455 Actual
+T13	Contact_Contact 2364 2368	said
+E512	Contact_Contact:T13
+A13	Realis E512 Actual
+T14	Movement_Transport-Person 516 522	escape
+E527	Movement_Transport-Person:T14
+A14	Realis E527 Actual
+T15	Justice_Arrest-Jail 648 654	prison
+E608	Justice_Arrest-Jail:T15
+A15	Realis E608 Generic
+T16	Contact_Broadcast 289 296	accused
+E613	Contact_Broadcast:T16
+A16	Realis E613 Actual
+T17	Movement_Transport-Person 681 685	send
+E639	Movement_Transport-Person:T17
+A17	Realis E639 Other
+T18	Contact_Broadcast 579 582	say
+E652	Contact_Broadcast:T18
+A18	Realis E652 Actual
+T19	Movement_Transport-Person 1126 1133	escaped
+E653	Movement_Transport-Person:T19
+A19	Realis E653 Actual
+T20	Justice_Sentence 1687 1696	sentenced
+E661	Justice_Sentence:T20
+A20	Realis E661 Actual
+T21	Contact_Contact 413 416	say
+E672	Contact_Contact:T21
+A21	Realis E672 Actual
+T22	Justice_Arrest-Jail 1713 1717	jail
+E684	Justice_Arrest-Jail:T22
+A22	Realis E684 Other
+T23	Life_Injure 960 966	injury
+E695	Life_Injure:T23
+A23	Realis E695 Actual
+T24	Movement_Transport-Person 1846 1852	escape
+E723	Movement_Transport-Person:T24
+A24	Realis E723 Actual
+T25	Contact_Broadcast 178 185	ACCUSED
+E730	Contact_Broadcast:T25
+A25	Realis E730 Actual
+T26	Justice_Sentence 900 909	sentenced
+E777	Justice_Sentence:T26
+A26	Realis E777 Actual
+T27	Contact_Broadcast 778 782	said
+E812	Contact_Broadcast:T27
+A27	Realis E812 Actual
+T28	Contact_Broadcast 1737 1740	say
+E827	Contact_Broadcast:T28
+A28	Realis E827 Actual
+T29	Movement_Transport-Person 1034 1045	broken into
+E833	Movement_Transport-Person:T29
+A29	Realis E833 Actual
+T30	Contact_Broadcast 2255 2260	speak
+E840	Contact_Broadcast:T30
+A30	Realis E840 Generic
+T31	Contact_Broadcast 1465 1471	hailed
+E841	Contact_Broadcast:T31
+A31	Realis E841 Generic
+T32	Justice_Arrest-Jail 1807 1815	confined
+E868	Justice_Arrest-Jail:T32
+A32	Realis E868 Actual
+T33	Justice_Charge-Indict 1757 1764	charges
+E900	Justice_Charge-Indict:T33
+A33	Realis E900 Actual

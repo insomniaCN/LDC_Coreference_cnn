@@ -1,0 +1,46 @@
+<DOC id="NYT_ENG_20130517.0059" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130517/20130517,3ae9485585d1dabb3cde5b1a52a3c841.xml">
+<HEADLINE>
+STUDENT FATALLY SHOT DURING HOME INVASION NEAR HOFSTRA
+</HEADLINE>
+<TEXT>
+<P>
+A 21-year-old college student was shot and killed early Friday on Long Island after an armed man broke into the home she shared with her twin sister, held her hostage and then engaged in a gunbattle with police, authorities said. The man who forced his way into the home was also killed.
+</P>
+<P>
+It was not immediately clear who fired the fatal shots, police said.
+</P>
+<P>
+The violence played out in the middle of the night on an ordinarily quiet residential street, only blocks from Hofstra University, where the victim went to school. Students who were preparing for their last day of exams awoke to the news that one of their own had been killed.
+</P>
+<P>
+The victim, Andrea Rebello, was a junior from Tarrytown, N.Y., and was studying public relations. She shared the home with her twin, Jessica, and another young woman, according to the police. A young man was also staying at the house at the time.
+</P>
+<P>
+The suspect, who was not identified, knocked on the door of the home around 2:15 a.m., and when one of the residents looked to see who was there, he burst in, according to police.
+</P>
+<P>
+He was wearing a ski mask and carrying a pistol, police said. He held the twin sisters and the young man hostage but let the other woman leave, police said.
+</P>
+<P>
+That woman took the opportunity to call 911.
+</P>
+<P>
+“Shortly after our arrival, a shooting took place where the suspect is killed and one of the female victims are killed,” said Deputy Inspector Kenneth Lack of the Nassau County Police Department.
+</P>
+<P>
+The details of the shooting were still under investigation, the police said, but it appeared that the gunman and the police exchanged gunfire.
+</P>
+<P>
+The university sent a text message to students Friday alerting them to the shooting, but providing few details.
+</P>
+<P>
+Hofstra’s president, Stuart Rabinowitz, issued a statement later in the day confirming that a student had been killed.
+</P>
+<P>
+University officials said commencement ceremonies would go on as scheduled this weekend. Students were planning to gather on campus, where the flags were flown at half-staff, on Friday evening to remember Andrea Rebello.
+</P>
+<P>
+The father of the woman who was allowed to leave the house asked that her name not be used and said his daughter was badly shaken.
+</P>
+</TEXT>
+</DOC>

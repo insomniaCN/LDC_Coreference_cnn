@@ -1,0 +1,90 @@
+T1	Conflict_Attack 187 193	attack
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 219 222	one
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 454 462	invasion
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 470 476	attack
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 623 629	attack
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 666 672	attack
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 932 938	attack
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 1202 1215	bombing raids
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 1490 1497	attacks
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Justice_Charge-Indict 1688 1695;1699 1709	issuing indictment
+E10	Justice_Charge-Indict:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 1931 1934	war
+E11	Conflict_Attack:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 2165 2168	war
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 2581 2588	talking
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Personnel_Start-Position 2695 2699	hire
+E14	Personnel_Start-Position:T14 
+A14	Realis E14 Actual
+T15	Conflict_Demonstrate 3204 3209	rally
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Actual
+T16	Conflict_Demonstrate 3265 3270	rally
+E16	Conflict_Demonstrate:T16 
+A16	Realis E16 Actual
+T17	Conflict_Demonstrate 3406 3413	rallies
+E17	Conflict_Demonstrate:T17 
+A17	Realis E17 Actual
+T18	Contact_Meet 3447 3451	told
+E18	Contact_Meet:T18 
+A18	Realis E18 Other
+T19	Movement_Transport-Person 3455 3460	leave
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Other
+T20	Conflict_Demonstrate 3530 3537	rallies
+E20	Conflict_Demonstrate:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 3567 3571	come
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Other
+T22	Justice_Arrest-Jail 3579 3585	arrest
+E22	Justice_Arrest-Jail:T22 
+A22	Realis E22 Other
+T23	Movement_Transport-Person 3699 3703	left
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 4284 4287	war
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Life_Die 4333 4337	kill
+E25	Life_Die:T25 
+A25	Realis E25 Generic
+T26	Contact_Communicate 4507 4511	said
+E26	Contact_Communicate:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 4706 4709	war
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Contact_Communicate 5208 5213	asked
+E28	Contact_Communicate:T28 
+A28	Realis E28 Actual
+T29	Conflict_Attack 5261 5270	overthrew
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 5336 5339	war
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual

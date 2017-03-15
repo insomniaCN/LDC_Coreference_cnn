@@ -1,0 +1,111 @@
+T1	Conflict_Attack 1234 1238	shot
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 1445 1453	stomping
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Life_Injure 1462 1466	shot
+E3	Life_Injure:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 1590 1597	charged
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Justice_Convict 1602 1611	convicted
+E5	Justice_Convict:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 1983 1987	shot
+E6	Conflict_Attack:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 2783 2787	shot
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 2812 2818	attack
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 3616 3620	shot
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Justice_Sue 3879 3882	sue
+E10	Justice_Sue:T10 
+A10	Realis E10 Generic
+T11	Justice_Charge-Indict 4084 4091	charged
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Other
+T12	Life_Die 4133 4137	dead
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T13	Life_Die 4501 4505	dead
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 4731 4735	shot
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 5368 5372	shot
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 5397 5403	attack
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Conflict_Attack 5476 5482	attack
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 5966 5970	shot
+E18	Conflict_Attack:T18 
+A18	Realis E18 Other
+T19	Conflict_Attack 6091 6099	attacked
+E19	Conflict_Attack:T19 
+A19	Realis E19 Other
+T20	Conflict_Attack 6166 6176	ass kicked
+E20	Conflict_Attack:T20 
+A20	Realis E20 Other
+T21	Conflict_Attack 6197 6202	fight
+E21	Conflict_Attack:T21 
+A21	Realis E21 Other
+T22	Conflict_Attack 6264 6272	attacked
+E22	Conflict_Attack:T22 
+A22	Realis E22 Other
+T23	Conflict_Attack 6388 6394	strike
+E23	Conflict_Attack:T23 
+A23	Realis E23 Other
+T24	Conflict_Attack 6496 6514	making it physical
+E24	Conflict_Attack:T24 
+A24	Realis E24 Other
+T25	Movement_Transport-Person 6605 6615	retreating
+E25	Movement_Transport-Person:T25 
+A25	Realis E25 Other
+T26	Movement_Transport-Person 1274 1284	approached
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Actual
+T27	Contact_Meet 1522 1528	taunts
+E27	Contact_Meet:T27 
+A27	Realis E27 Actual
+T28	Contact_Communicate 1826 1838	advise given
+E28	Contact_Communicate:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 1924 1928	came
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Other
+T30	Contact_Meet 1944 1954	threatened
+E30	Contact_Meet:T30 
+A30	Realis E30 Other
+T31	Movement_Transport-Person 2303 2315	driving away
+E31	Movement_Transport-Person:T31 
+A31	Realis E31 Other
+T32	Movement_Transport-Person 2347 2353	follow
+E32	Movement_Transport-Person:T32 
+A32	Realis E32 Actual
+T33	Movement_Transport-Person 2396 2401	chase
+E33	Movement_Transport-Person:T33 
+A33	Realis E33 Other
+T34	Movement_Transport-Person 2597 2606	following
+E34	Movement_Transport-Person:T34 
+A34	Realis E34 Actual
+T35	Contact_Meet 6058 6062	asks
+E35	Contact_Meet:T35 
+A35	Realis E35 Other
+T36	Movement_Transport-Person 6229 6238	goes back
+E36	Movement_Transport-Person:T36 
+A36	Realis E36 Other
+T37	Contact_Meet 6298 6304	orders
+E37	Contact_Meet:T37 
+A37	Realis E37 Other

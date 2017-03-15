@@ -1,0 +1,123 @@
+T1	Justice_Extradite 237 248	extradition
+E381	Justice_Extradite:T1
+A1	Realis E381 Other
+T2	Justice_Extradite 487 498	extradition
+E651	Justice_Extradite:T2
+A2	Realis E651 Other
+T3	Justice_Extradite 612 616	hand
+E815	Justice_Extradite:T3
+A3	Realis E815 Other
+T4	Justice_Extradite 1000 1004	hand
+E940	Justice_Extradite:T4
+A4	Realis E940 Other
+T5	Justice_Extradite 2530 2541	extradition
+E215	Justice_Extradite:T5
+A5	Realis E215 Other
+T6	Justice_Extradite 3411 3422	extradition
+E911	Justice_Extradite:T6
+A6	Realis E911 Other
+T7	Justice_Charge-Indict 669 676	charges
+E788	Justice_Charge-Indict:T7
+A7	Realis E788 Actual
+T8	Justice_Extradite 821 832	extradition
+E498	Justice_Extradite:T8
+A8	Realis E498 Generic
+T9	Justice_Extradite 905 917	extraditions
+E333	Justice_Extradite:T9
+A9	Realis E333 Generic
+T10	Justice_Extradite 2920 2931	extradition
+E180	Justice_Extradite:T10
+A10	Realis E180 Generic
+T11	Movement_Transport-Person 612 616	hand
+E432	Movement_Transport-Person:T11
+A11	Realis E432 Other
+T12	Movement_Transport-Person 1000 1004	hand
+E476	Movement_Transport-Person:T12
+A12	Realis E476 Other
+T13	Movement_Transport-Person 3411 3422	extradition
+E206	Movement_Transport-Person:T13
+A13	Realis E206 Other
+T14	Movement_Transport-Person 237 248	extradition
+E126	Movement_Transport-Person:T14
+A14	Realis E126 Other
+T15	Movement_Transport-Person 487 498	extradition
+E638	Movement_Transport-Person:T15
+A15	Realis E638 Other
+T16	Movement_Transport-Person 2530 2541	extradition
+E810	Movement_Transport-Person:T16
+A16	Realis E810 Other
+T17	Conflict_Demonstrate 454 461	protest
+E784	Conflict_Demonstrate:T17
+A17	Realis E784 Actual
+T18	Justice_Trial-Hearing 1128 1133	trial
+E176	Justice_Trial-Hearing:T18
+A18	Realis E176 Other
+T19	Justice_Trial-Hearing 2542 2549	hearing
+E903	Justice_Trial-Hearing:T19
+A19	Realis E903 Actual
+T20	Contact_Broadcast 2550 2554	said
+E617	Contact_Broadcast:T20
+A20	Realis E617 Actual
+T21	Contact_Correspondence 3494 3501	writing
+E197	Contact_Correspondence:T21
+A21	Realis E197 Other
+T22	Justice_Charge-Indict 3636 3643	charged
+E90	Justice_Charge-Indict:T22
+A22	Realis E90 Other
+T23	Justice_Trial-Hearing 3684 3689	trial
+E928	Justice_Trial-Hearing:T23
+A23	Realis E928 Other
+T24	Justice_Trial-Hearing 3993 3998	trial
+E5	Justice_Trial-Hearing:T24
+A24	Realis E5 Other
+T25	Justice_Trial-Hearing 3722 3731	pre-trial
+E91	Justice_Trial-Hearing:T25
+A25	Realis E91 Other
+T26	Justice_Arrest-Jail 3732 3741	detention
+E547	Justice_Arrest-Jail:T26
+A26	Realis E547 Other
+T27	Conflict_Attack 3980 3987	torture
+E154	Conflict_Attack:T27
+A27	Realis E154 Generic
+T28	Movement_Transport-Person 821 832	extradition
+E145	Movement_Transport-Person:T28
+A28	Realis E145 Generic
+T29	Movement_Transport-Person 905 917	extraditions
+E470	Movement_Transport-Person:T29
+A29	Realis E470 Generic
+T30	Movement_Transport-Person 2920 2931	extradition
+E98	Movement_Transport-Person:T30
+A30	Realis E98 Generic
+T31	Contact_Broadcast 3247 3253	asking
+E23	Contact_Broadcast:T31
+A31	Realis E23 Actual
+T32	Contact_Broadcast 3431 3437	asking
+E642	Contact_Broadcast:T32
+A32	Realis E642 Actual
+T33	Contact_Contact 3272 3277	voice
+E171	Contact_Contact:T33
+A33	Realis E171 Other
+T34	Contact_Contact 3456 3461	voice
+E736	Contact_Contact:T34
+A34	Realis E736 Other
+T35	Contact_Broadcast 4713 4719	posted
+E128	Contact_Broadcast:T35
+A35	Realis E128 Actual
+R1	Coreference Arg1:E381 Arg2:E651
+R2	Coreference Arg1:E651 Arg2:E815
+R3	Coreference Arg1:E815 Arg2:E940
+R4	Coreference Arg1:E940 Arg2:E215
+R5	Coreference Arg1:E215 Arg2:E911
+R6	Coreference Arg1:E498 Arg2:E333
+R7	Coreference Arg1:E333 Arg2:E180
+R8	Coreference Arg1:E126 Arg2:E638
+R9	Coreference Arg1:E638 Arg2:E432
+R10	Coreference Arg1:E432 Arg2:E476
+R11	Coreference Arg1:E476 Arg2:E810
+R12	Coreference Arg1:E810 Arg2:E206
+R13	Coreference Arg1:E928 Arg2:E91
+R14	Coreference Arg1:E91 Arg2:E5
+R15	Coreference Arg1:E145 Arg2:E470
+R16	Coreference Arg1:E470 Arg2:E98
+R17	Coreference Arg1:E23 Arg2:E642
+R18	Coreference Arg1:E171 Arg2:E736

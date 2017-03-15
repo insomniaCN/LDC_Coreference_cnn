@@ -1,0 +1,43 @@
+<DOC id="NYT_ENG_20130819.0202" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130819/20130819,ee007480b72fb9194da9855f134185f7.xml">
+<HEADLINE>
+OFFICIALS IN EGYPT SAID TO ORDER RELEASE OF MUBARAK
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+CAIRO - The judicial authorities in Egypt have ordered the release of former President Hosni Mubarak, who has been detained on a variety of charges since his ouster in 2011, according to state media and security officials Monday. It remained possible, however, that the authorities would find other ways to keep him in detention.
+</P>
+<P>
+The development threatened to inject a volatile new element into the standoff between the country’s military and Islamist supporters of the deposed President Mohammed Morsi as Egypt entered the sixth day of a state of emergency following a bloody crackdown by the military in which hundreds of people have been killed.
+</P>
+<P>
+It was unclear how Egyptians would respond to the release of a despised autocrat whose downfall united Mubarak’s secular and Islamist foes.
+</P>
+<P>
+Just in the past 24 hours, the Egyptian government has acknowledged that its security forces had killed 36 Islamists in its custody, while suspected militants were reported Monday to have killed at least 24 police officers in an attack on their minibuses in the restive northern Sinai region.
+</P>
+<P>
+Mubarak, 85, faces an array of legal challenges including allegations of corruption and a retrial on charges of complicity in the murder of protesters whose revolt forced his ouster in February, 2011.
+</P>
+<P>
+On Monday, Mubarak’s lawyer, Farid el-Deeb, said a court had ordered his release and he might be freed this week. But there was no official confirmation from the military-backed interim government that Mubarak would be released.
+</P>
+<P>
+News reports said that the ambush Monday occurred in a village near the town of Rafah and that three police officers had been wounded.
+</P>
+<P>
+The attackers were initially depicted as Islamist militants firing rocket-propelled grenades at the police minibuses.
+</P>
+<P>
+But there was some confusion, with later reports quoting officials who put the death toll at 25. There was no official confirmation of the events.
+</P>
+<P>
+Ambassadors from the 28-member European Union planned to meet Monday to review the bloc’s relationship with Egypt, confronting a question of whether stability and security outweigh considerations relating to human rights and democracy.
+</P>
+<P>
+In a radio interview Monday, William Hague, the British foreign secretary, said he did not accept that outsiders were powerless to influence events. “But we have to do our best to promote democratic institutions, to promote political dialogue and to keep faith with the majority of Egyptians who just want a free and stable and prosperous country,” he told the BBC.
+</P>
+</TEXT>
+</DOC>

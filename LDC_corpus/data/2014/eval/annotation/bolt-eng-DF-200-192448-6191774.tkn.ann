@@ -1,0 +1,125 @@
+T1	Transaction_Transfer-Money 576 583	funding
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Money 597 600;614 619	get money
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Money 692 699;704 709	getting money
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Generic
+T4	Personnel_Elect 1168 1175	elected
+E4	Personnel_Elect:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 1233 1243	jettisoned
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 1355 1362	funding
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Personnel_Elect 1677 1684	elected
+E7	Personnel_Elect:T7 
+A7	Realis E7 Generic
+T8	Personnel_Elect 1722 1729	elected
+E8	Personnel_Elect:T8 
+A8	Realis E8 Generic
+T9	Personnel_Elect 1766 1773	elected
+E9	Personnel_Elect:T9 
+A9	Realis E9 Generic
+T10	Personnel_Elect 1855 1862	elected
+E10	Personnel_Elect:T10 
+A10	Realis E10 Generic
+T11	Personnel_Elect 1958 1965	elected
+E11	Personnel_Elect:T11 
+A11	Realis E11 Actual
+T12	Personnel_Elect 2066 2073	elected
+E12	Personnel_Elect:T12 
+A12	Questionable E12 Realis
+A13	Realis E12 Actual
+T13	Personnel_Elect 2131 2138	elected
+E13	Personnel_Elect:T13 
+A14	Realis E13 Other
+T14	Personnel_Elect 2412 2419	elected
+E14	Personnel_Elect:T14 
+A15	Realis E14 Actual
+T15	Personnel_Elect 2985 2992	elected
+E15	Personnel_Elect:T15 
+A16	Realis E15 Actual
+T16	Personnel_Elect 3165 3172	elected
+E16	Personnel_Elect:T16 
+A17	Realis E16 Actual
+T17	Personnel_Elect 3206 3213	elected
+E17	Personnel_Elect:T17 
+A18	Realis E17 Generic
+T18	Personnel_Elect 3423 3430	elected
+E18	Personnel_Elect:T18 
+A19	Realis E18 Generic
+T19	Personnel_Elect 3468 3475	elected
+E19	Personnel_Elect:T19 
+A20	Realis E19 Generic
+T20	Personnel_Elect 3512 3519	elected
+E20	Personnel_Elect:T20 
+A21	Realis E20 Actual
+T21	Personnel_Elect 3601 3608	elected
+E21	Personnel_Elect:T21 
+A22	Realis E21 Generic
+T22	Personnel_Elect 3704 3711	elected
+E22	Personnel_Elect:T22 
+A23	Realis E22 Actual
+T23	Personnel_Elect 3812 3819	elected
+E23	Personnel_Elect:T23 
+A24	Realis E23 Actual
+T24	Personnel_Elect 3877 3884	elected
+E24	Personnel_Elect:T24 
+A25	Realis E24 Other
+T25	Personnel_Elect 4261 4268	elected
+E25	Personnel_Elect:T25 
+A26	Realis E25 Generic
+T26	Personnel_Elect 4275 4282	elected
+E26	Personnel_Elect:T26 
+A27	Realis E26 Generic
+T27	Personnel_Elect 4436 4443	elected
+E27	Personnel_Elect:T27 
+A28	Realis E27 Generic
+T28	Personnel_Elect 4619 4626	elected
+E28	Personnel_Elect:T28 
+A29	Realis E28 Actual
+T29	Personnel_Elect 4654 4661	elected
+E29	Personnel_Elect:T29 
+A30	Realis E29 Generic
+T30	Personnel_Elect 5203 5210	elected
+E30	Personnel_Elect:T30 
+A31	Realis E30 Generic
+T31	Personnel_Elect 5338 5345	elected
+E31	Personnel_Elect:T31 
+A32	Realis E31 Generic
+T32	Movement_Transport-Person 8172 8180	deported
+E32	Movement_Transport-Person:T32 
+A33	Realis E32 Generic
+T33	Transaction_Transfer-Money 8990 8996	funded
+E33	Transaction_Transfer-Money:T33 
+A34	Questionable E33 Realis
+A35	Realis E33 Generic
+T34	Transaction_Transfer-Money 9050 9063	flow of money
+E34	Transaction_Transfer-Money:T34 
+A36	Realis E34 Generic
+T35	Transaction_Transfer-Money 10231 10237	funded
+E35	Transaction_Transfer-Money:T35 
+A37	Realis E35 Generic
+T36	Transaction_Transfer-Money 10291 10304	flow of money
+E36	Transaction_Transfer-Money:T36 
+A38	Realis E36 Generic
+T37	Personnel_Elect 10983 10990	elected
+E37	Personnel_Elect:T37 
+A39	Realis E37 Generic
+T38	Personnel_Elect 10997 11004	elected
+E38	Personnel_Elect:T38 
+A40	Realis E38 Generic
+T39	Personnel_Elect 11158 11165	elected
+E39	Personnel_Elect:T39 
+A41	Realis E39 Generic
+T40	Personnel_Elect 11267 11274	elected
+E40	Personnel_Elect:T40 
+A42	Realis E40 Generic
+T41	Movement_Transport-Person 10029 10036	sending
+E41	Movement_Transport-Person:T41 
+A43	Realis E41 Other

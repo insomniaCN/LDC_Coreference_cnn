@@ -1,0 +1,170 @@
+T1	Conflict_Attack 197 209	ASSASSINATED
+E298	Conflict_Attack:T1
+A1	Realis E298 Actual
+T2	Conflict_Attack 621 625	shot
+E138	Conflict_Attack:T2
+A2	Realis E138 Actual
+T3	Conflict_Attack 729 742	assassination
+E275	Conflict_Attack:T3
+A3	Realis E275 Actual
+T4	Conflict_Attack 1374 1387	assassination
+E157	Conflict_Attack:T4
+A4	Realis E157 Actual
+T5	Conflict_Attack 1704 1710	victim
+E913	Conflict_Attack:T5
+A5	Realis E913 Actual
+T6	Conflict_Attack 1794 1800	felled
+E736	Conflict_Attack:T6
+A6	Realis E736 Actual
+T7	Conflict_Attack 1925 1929	shot
+E626	Conflict_Attack:T7
+A7	Realis E626 Actual
+T8	Conflict_Attack 2005 2012	killers
+E811	Conflict_Attack:T8
+A8	Realis E811 Actual
+T9	Conflict_Attack 2379 2392	assassination
+E841	Conflict_Attack:T9
+A9	Realis E841 Actual
+T10	Conflict_Attack 2475 2488	assassination
+E513	Conflict_Attack:T10
+A10	Realis E513 Actual
+T11	Conflict_Attack 3008 3015	killing
+E649	Conflict_Attack:T11
+A11	Realis E649 Actual
+T12	Conflict_Attack 611 620	assassins
+E614	Conflict_Attack:T12
+A12	Realis E614 Actual
+T13	Life_Die 197 209	ASSASSINATED
+E910	Life_Die:T13
+A13	Realis E910 Actual
+T14	Life_Die 265 269	died
+E278	Life_Die:T14
+A14	Realis E278 Actual
+T15	Life_Die 611 620	assassins
+E447	Life_Die:T15
+A15	Realis E447 Actual
+T16	Life_Die 729 742	assassination
+E776	Life_Die:T16
+A16	Realis E776 Actual
+T17	Life_Die 1374 1387	assassination
+E51	Life_Die:T17
+A17	Realis E51 Actual
+T18	Life_Die 2005 2012	killers
+E940	Life_Die:T18
+A18	Realis E940 Actual
+T19	Life_Die 2379 2392	assassination
+E303	Life_Die:T19
+A19	Realis E303 Actual
+T20	Life_Die 2475 2488	assassination
+E78	Life_Die:T20
+A20	Realis E78 Actual
+T21	Life_Die 3008 3015	killing
+E389	Life_Die:T21
+A21	Realis E389 Actual
+T22	Life_Die 1794 1800	felled
+E124	Life_Die:T22
+A22	Realis E124 Actual
+T23	Conflict_Demonstrate 533 546	revolutionary
+E770	Conflict_Demonstrate:T23
+A23	Realis E770 Actual
+T24	Conflict_Demonstrate 1202 1212	revolution
+E752	Conflict_Demonstrate:T24
+A24	Realis E752 Actual
+T25	Conflict_Demonstrate 2817 2827	revolution
+E958	Conflict_Demonstrate:T25
+A25	Realis E958 Actual
+T26	Conflict_Demonstrate 790 798	protests
+E23	Conflict_Demonstrate:T26
+A26	Realis E23 Actual
+T27	Contact_Meet 892 900	gathered
+E88	Contact_Meet:T27
+A27	Realis E88 Actual
+T28	Movement_Transport-Person 1034 1042	deployed
+E240	Movement_Transport-Person:T28
+A28	Realis E240 Actual
+T29	Conflict_Demonstrate 1104 1112	protests
+E595	Conflict_Demonstrate:T29
+A29	Realis E595 Actual
+T30	Conflict_Demonstrate 881 891	protesters
+E312	Conflict_Demonstrate:T30
+A30	Realis E312 Actual
+T31	Conflict_Demonstrate 1268 1281	demonstrators
+E985	Conflict_Demonstrate:T31
+A31	Realis E985 Actual
+T32	Conflict_Attack 1282 1288	burned
+E42	Conflict_Attack:T32
+A32	Realis E42 Actual
+T33	Contact_Broadcast 1352 1361	statement
+E827	Contact_Broadcast:T33
+A33	Realis E827 Actual
+T34	Movement_Transport-Person 2013 2020	escaped
+E821	Movement_Transport-Person:T34
+A34	Realis E821 Actual
+T35	Movement_Transport-Person 2080 2085	taken
+E133	Movement_Transport-Person:T35
+A35	Realis E133 Actual
+T36	Conflict_Demonstrate 2097 2107	protesters
+E515	Conflict_Demonstrate:T36
+A36	Realis E515 Actual
+T37	Conflict_Demonstrate 2287 2297	protesters
+E251	Conflict_Demonstrate:T37
+A37	Realis E251 Actual
+T38	Contact_Meet 2108 2116	gathered
+E990	Contact_Meet:T38
+A38	Realis E990 Actual
+T39	Conflict_Attack 2156 2164	assassin
+E52	Conflict_Attack:T39
+A39	Realis E52 Other
+T40	Life_Die 2156 2164	assassin
+E439	Life_Die:T40
+A40	Realis E439 Actual
+T41	Conflict_Demonstrate 2695 2705	revolution
+E284	Conflict_Demonstrate:T41
+A41	Realis E284 Actual
+T42	Personnel_End-Position 2711 2718	toppled
+E390	Personnel_End-Position:T42
+A42	Realis E390 Actual
+T43	Movement_Transport-Person 2797 2802	exile
+E758	Movement_Transport-Person:T43
+A43	Realis E758 Actual
+T44	Conflict_Demonstrate 2866 2875	uprisings
+E512	Conflict_Demonstrate:T44
+A44	Realis E512 Actual
+T45	Contact_Broadcast 1695 1699	said
+E890	Contact_Broadcast:T45
+A45	Realis E890 Actual
+T46	Contact_Broadcast 2167 2171	said
+E493	Contact_Broadcast:T46
+A46	Realis E493 Actual
+T47	Contact_Broadcast 2214 2221	shouted
+E760	Contact_Broadcast:T47
+A47	Realis E760 Actual
+T48	Contact_Contact 2315 2319	said
+E916	Contact_Contact:T48
+A48	Realis E916 Actual
+T49	Contact_Contact 2985 2994	expressed
+E663	Contact_Contact:T49
+A49	Realis E663 Actual
+R1	Coreference Arg1:E298 Arg2:E614
+R2	Coreference Arg1:E614 Arg2:E138
+R3	Coreference Arg1:E138 Arg2:E275
+R4	Coreference Arg1:E275 Arg2:E157
+R5	Coreference Arg1:E157 Arg2:E913
+R6	Coreference Arg1:E913 Arg2:E736
+R7	Coreference Arg1:E736 Arg2:E626
+R8	Coreference Arg1:E626 Arg2:E811
+R9	Coreference Arg1:E811 Arg2:E841
+R10	Coreference Arg1:E841 Arg2:E513
+R11	Coreference Arg1:E513 Arg2:E649
+R12	Coreference Arg1:E910 Arg2:E278
+R13	Coreference Arg1:E278 Arg2:E447
+R14	Coreference Arg1:E447 Arg2:E776
+R15	Coreference Arg1:E776 Arg2:E51
+R16	Coreference Arg1:E51 Arg2:E124
+R17	Coreference Arg1:E124 Arg2:E940
+R18	Coreference Arg1:E940 Arg2:E303
+R19	Coreference Arg1:E303 Arg2:E78
+R20	Coreference Arg1:E78 Arg2:E389
+R21	Coreference Arg1:E770 Arg2:E752
+R22	Coreference Arg1:E752 Arg2:E958
+R23	Coreference Arg1:E515 Arg2:E251

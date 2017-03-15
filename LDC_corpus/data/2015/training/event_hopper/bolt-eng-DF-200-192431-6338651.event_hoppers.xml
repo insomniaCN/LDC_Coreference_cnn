@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000604" doc_id="bolt-eng-DF-200-192431-6338651" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="contact" subtype="contact" realis="other" audience="canttell" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="333" length="5">phone</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="contact" subtype="contact" realis="other" audience="canttell" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="482" length="5">phone</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="contact" subtype="contact" realis="other" audience="canttell" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="1558" length="4">ring</trigger>
+      </event_mention>
+      <event_mention id="em-107" type="contact" subtype="contact" realis="other" audience="canttell" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="2295" length="5">phone</trigger>
+      </event_mention>
+      <event_mention id="em-163" type="contact" subtype="contact" realis="other" audience="canttell" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="2925" length="5">phone</trigger>
+      </event_mention>
+      <event_mention id="em-176" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="3194" length="4">rang</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-49" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="1531" length="3">get</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="1708" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="1953" length="5">train</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="2016" length="7">journey</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-133">
+      <event_mention id="em-120" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="2422" length="4">talk</trigger>
+      </event_mention>
+      <event_mention id="em-150" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="2606" length="7">talking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-148">
+      <event_mention id="em-135" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="2592" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-202">
+      <event_mention id="em-189" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192431-6338651" offset="3248" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

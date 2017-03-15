@@ -1,0 +1,115 @@
+T1	Personnel_Start-Position 100 106	hiring
+E1	Personnel_Start-Position:T1 
+A1	Realis E1 Other
+T2	Life_Die 117 121	kill
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Charge-Indict 259 266	charged
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+A4	Questionable E2 Realis
+T4	Life_Die 272 281	murdering
+E4	Life_Die:T4 
+A5	Realis E4 Actual
+T5	Personnel_End-Position 286 292	former
+E5	Personnel_End-Position:T5 
+A6	Realis E5 Actual
+T6	Justice_Charge-Indict 427 434	charged
+E6	Justice_Charge-Indict:T6 
+A7	Realis E6 Actual
+T7	Life_Die 444 450	murder
+E7	Life_Die:T7 
+A8	Realis E7 Actual
+T8	Personnel_End-Position 475 481	former
+E8	Personnel_End-Position:T8 
+A9	Realis E8 Actual
+T9	Conflict_Attack 620 624	shot
+E9	Conflict_Attack:T9 
+A10	Realis E9 Actual
+T10	Movement_Transport-Person 698 703	enter
+E10	Movement_Transport-Person:T10 
+A11	Realis E10 Other
+T11	Justice_Charge-Indict 754 761	accused
+E11	Justice_Charge-Indict:T11 
+A12	Realis E11 Actual
+T12	Contact_Meet 830 837	meeting
+E12	Contact_Meet:T12 
+A13	Realis E12 Other
+T13	Life_Die 934 940	murder
+E13	Life_Die:T13 
+A14	Realis E13 Actual
+T14	Conflict_Attack 977 982;987 992	fired shots
+E14	Conflict_Attack:T14 
+A15	Realis E14 Actual
+T15	Movement_Transport-Person 993 997	left
+E15	Movement_Transport-Person:T15 
+A16	Realis E15 Actual
+T16	Life_Die 1027 1033	murder
+E16	Life_Die:T16 
+A17	Realis E16 Actual
+T17	Movement_Transport-Person 1150 1156;1168 1172	driven away
+E17	Movement_Transport-Person:T17 
+A18	Realis E17 Actual
+T18	Life_Die 1195 1201	murder
+E18	Life_Die:T18 
+A19	Realis E18 Actual
+T19	Justice_Charge-Indict 1246 1253	accused
+E19	Justice_Charge-Indict:T19 
+A20	Realis E19 Other
+T20	Contact_Meet 1297 1300	met
+E20	Contact_Meet:T20 
+A21	Questionable E20 Realis
+A22	Realis E20 Other
+T21	Transaction_Transfer-Money 1329 1332	pay
+E21	Transaction_Transfer-Money:T21 
+A23	Realis E21 Other
+T22	Life_Die 1401 1407	killed
+E22	Life_Die:T22 
+A24	Questionable E22 Realis
+A25	Realis E22 Other
+T23	Life_Die 1456 1459	die
+E23	Life_Die:T23 
+A26	Questionable E23 Realis
+A27	Realis E23 Other
+T24	Contact_Meet 1481 1485	told
+E24	Contact_Meet:T24 
+A28	Realis E24 Actual
+T25	Contact_Meet 1539 1543	told
+E25	Contact_Meet:T25 
+A29	Realis E25 Other
+T26	Life_Die 1564 1568	dead
+E26	Life_Die:T26 
+A30	Questionable E26 Realis
+A31	Realis E26 Other
+T27	Personnel_End-Position 1585 1590	fired
+E27	Personnel_End-Position:T27 
+A32	Questionable E27 Realis
+A33	Realis E27 Other
+T28	Personnel_Start-Position 1829 1835	become
+E28	Personnel_Start-Position:T28 
+A34	Realis E28 Other
+T29	Life_Die 1868 1873	death
+E29	Life_Die:T29 
+A35	Questionable E29 Realis
+A36	Realis E29 Other
+T30	Life_Die 2037 2043	murder
+E30	Life_Die:T30 
+A37	Realis E30 Actual
+T31	Conflict_Attack 2070 2078	shooting
+E31	Conflict_Attack:T31 
+A38	Realis E31 Other
+T32	Movement_Transport-Person 2106 2114	came out
+E32	Movement_Transport-Person:T32 
+A39	Realis E32 Actual
+T33	Justice_Charge-Indict 87 94	charged
+E33	Justice_Charge-Indict:T33 
+A40	Realis E33 Actual
+T34	Contact_Meet 1317 1325	promised
+E34	Contact_Meet:T34 
+A41	Realis E34 Actual
+T35	Contact_Meet 1755 1763	promised
+E35	Contact_Meet:T35 
+A42	Realis E35 Actual
+T36	Personnel_Start-Position 1769 1779	employment
+E36	Personnel_Start-Position:T36 
+A43	Realis E36 Other

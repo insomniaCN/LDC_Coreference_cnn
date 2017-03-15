@@ -1,0 +1,33 @@
+T1	Life_Marry 254 261	wedding
+E1	Life_Marry:T1 
+A1	Realis E1 Other
+T2	Personnel_End-Position 434 438	quit
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 1045 1052	married
+E3	Life_Marry:T3 
+A3	Realis E3 Other
+T4	Movement_Transport-Person 1303 1307	left
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 2894 2899	punch
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Personnel_End-Position 2943 2947	quit
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Other
+T7	Contact_Meet 4817 4821	told
+E7	Contact_Meet:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 4881 4888	punched
+E8	Conflict_Attack:T8 
+A8	Realis E8 Other
+T9	Transaction_Transfer-Money 5080 5091	get welfare
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Contact_Meet 832 836	says
+E10	Contact_Meet:T10 
+A10	Realis E10 Actual
+T11	Contact_Meet 412 415	met
+E11	Contact_Meet:T11 
+A11	Realis E11 Actual

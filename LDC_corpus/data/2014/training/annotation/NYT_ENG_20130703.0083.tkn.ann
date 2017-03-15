@@ -1,0 +1,56 @@
+T1	Personnel_End-Position 208 211	OUT
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 636 645	deploying
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 707 713	travel
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Contact_Meet 741 748	meeting
+E4	Contact_Meet:T4 
+A4	Realis E4 Actual
+T5	Personnel_Elect 850 859	elections
+E5	Personnel_Elect:T5 
+A6	Realis E5 Generic
+T7	Movement_Transport-Person 1222 1230	deployed
+E7	Movement_Transport-Person:T7 
+A8	Realis E7 Actual
+T8	Conflict_Demonstrate 1170 1176;1181 1188	filled streets
+E8	Conflict_Demonstrate:T8 
+A9	Questionable E8 Mention
+A10	Realis E8 Actual
+T9	Contact_Meet 1379 1386	meeting
+E9	Contact_Meet:T9 
+A11	Realis E9 Actual
+T10	Personnel_Elect 1931 1938	elected
+E10	Personnel_Elect:T10 
+A12	Realis E10 Actual
+T11	Movement_Transport-Person 2005 2011	moving
+E11	Movement_Transport-Person:T11 
+A13	Realis E11 Actual
+T12	Movement_Transport-Person 2044 2054	headed for
+E12	Movement_Transport-Person:T12 
+A14	Realis E12 Actual
+T13	Conflict_Demonstrate 2238 2246	rallying
+E13	Conflict_Demonstrate:T13 
+A15	Realis E13 Actual
+T14	Conflict_Attack 2415 2423	scuffles
+E14	Conflict_Attack:T14 
+A16	Realis E14 Actual
+T15	Conflict_Attack 2711 2719	takeover
+E15	Conflict_Attack:T15 
+A17	Questionable E15 Type
+A18	Realis E15 Other
+T16	Personnel_Elect 2745 2752	elected
+E16	Personnel_Elect:T16 
+A19	Realis E16 Actual
+T17	Conflict_Attack 3008 3012	coup
+E17	Conflict_Attack:T17 
+A20	Realis E17 Actual
+T18	Movement_Transport-Person 3107 3113	travel
+E18	Movement_Transport-Person:T18 
+A21	Realis E18 Other
+T6	Personnel_End-Position 990 1003	was no longer
+E6	Personnel_End-Position:T6 
+A5	Realis E6 Actual

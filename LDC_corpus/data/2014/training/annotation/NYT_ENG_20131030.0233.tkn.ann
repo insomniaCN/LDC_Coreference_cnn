@@ -1,0 +1,42 @@
+T1	Justice_Trial-Hearing 238 249	COUNTERSUES
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Actual
+T2	Justice_Sue 614 620;633 640	filing lawsuit
+E2	Justice_Sue:T2 
+A2	Realis E2 Actual
+T3	Justice_Sue 790 794	sued
+E3	Justice_Sue:T3 
+A3	Realis E3 Actual
+T4	Justice_Sue 1271 1275	suit
+E4	Justice_Sue:T4 
+A4	Realis E4 Actual
+T5	Justice_Sue 1358 1369;1372 1377	countersuit filed
+E5	Justice_Sue:T5 
+A5	Realis E5 Actual
+T6	Justice_Sue 1422 1426	suit
+E6	Justice_Sue:T6 
+A6	Realis E6 Actual
+T7	Justice_Sue 1643 1647	suit
+E7	Justice_Sue:T7 
+A7	Realis E7 Actual
+T8	Justice_Sue 1968 1972	sued
+E8	Justice_Sue:T8 
+A8	Realis E8 Actual
+T9	Justice_Sue 2294 2298	case
+E9	Justice_Sue:T9 
+A9	Realis E9 Actual
+T10	Life_Die 2306 2310	died
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Justice_Sue 2404 2408	case
+E11	Justice_Sue:T11 
+A11	Realis E11 Actual
+T12	Justice_Sue 2485 2489	suit
+E12	Justice_Sue:T12 
+A12	Realis E12 Actual
+T13	Justice_Sue 2647 2651	case
+E13	Justice_Sue:T13 
+A13	Realis E13 Actual
+T14	Justice_Sue 2672 2677	suits
+E14	Justice_Sue:T14 
+A14	Realis E14 Actual

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea8b0000000000000102" doc_id="068344e8a16fb205a03973082244368f" source_type="multi_post">
+  <event_mention id="em-91" type="conflict" subtype="attack" realis="other">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="439" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-98" type="life" subtype="divorce" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1725" length="2">ex</trigger>
+  </event_mention>
+  <event_mention id="em-103" type="contact" subtype="contact" realis="generic" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="4635" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-129" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1068" length="5">moved</trigger>
+  </event_mention>
+  <event_mention id="em-137" type="life" subtype="divorce" realis="other">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="833" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-153" type="life" subtype="divorce" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="2785" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-233" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3449" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-241" type="contact" subtype="contact" realis="generic" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="2051" length="7">telling</trigger>
+  </event_mention>
+  <event_mention id="em-301" type="life" subtype="divorce" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="2625" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-326" type="life" subtype="divorce" realis="generic">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1966" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-327" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="4798" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-363" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="746" length="4">call</trigger>
+  </event_mention>
+  <event_mention id="em-408" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1083" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-435" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="259" length="5">posts</trigger>
+  </event_mention>
+  <event_mention id="em-450" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="2828" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-462" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3632" length="5">phone</trigger>
+  </event_mention>
+  <event_mention id="em-473" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1656" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-521" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1623" length="10">re-married</trigger>
+  </event_mention>
+  <event_mention id="em-553" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3988" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-583" type="life" subtype="divorce" realis="generic">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1890" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-642" type="life" subtype="divorce" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1044" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-657" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3036" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-680" type="life" subtype="divorce" realis="other">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1583" length="7">divorce</trigger>
+  </event_mention>
+  <event_mention id="em-685" type="contact" subtype="contact" realis="generic" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3286" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-696" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3835" length="4">post</trigger>
+  </event_mention>
+  <event_mention id="em-708" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="852" length="9">confessed</trigger>
+  </event_mention>
+  <event_mention id="em-751" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="4146" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-758" type="life" subtype="marry" realis="other">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="4857" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-779" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="3592" length="3">see</trigger>
+  </event_mention>
+  <event_mention id="em-870" type="life" subtype="marry" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="2070" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-905" type="life" subtype="divorce" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1796" length="2">ex</trigger>
+  </event_mention>
+  <event_mention id="em-954" type="life" subtype="divorce" realis="actual">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1254" length="2">ex</trigger>
+  </event_mention>
+  <event_mention id="em-969" type="life" subtype="divorce" realis="other">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="1755" length="8">divorced</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="life" subtype="divorce" realis="other">
+    <trigger source="068344e8a16fb205a03973082244368f" offset="389" length="7">divorce</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

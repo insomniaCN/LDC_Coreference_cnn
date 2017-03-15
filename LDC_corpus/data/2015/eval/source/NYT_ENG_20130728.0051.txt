@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130728.0051" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130728/20130728,66c1dd5382ab4fbc94c4e1efd0ca939a.xml">
+<HEADLINE>
+RULING PARTY WINS NARROWLY IN CAMBODIAN VOTE
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+PHNOM PENH, Cambodia - After years of near total dominance in Cambodian politics, the party of Prime Minister Hun Sen won a relatively narrow victory in national elections Sunday as a resurgent opposition rode a wave of disenchantment with the prime minister’s 28 years in power.
+</P>
+<P>
+Khieu Kanharith, the Cambodian information minister, told news services that according to a preliminary count, the governing party won 68 seats, or about 55 percent of the National Assembly’s 123 seats. In the assembly being replaced, the governing party controlled a commanding 90 seats.
+</P>
+<P>
+“This is a historical day, a great day for Cambodia,” Sam Rainsy, an opposition leader who returned from exile in France nine days before the election, told a news conference. “People came in great numbers to express their will and democracy seemed to move forward.”
+</P>
+<P>
+The opposition won 55 seats, or about 45 percent of seats in the assembly, which will make it harder for Hun Sen to impose his will.
+</P>
+<P>
+After years of a splintered opposition, the election signaled the arrival, permanent or not, of a de facto two-party system in Cambodia. The two largest opposition parties merged last year to form the Cambodia National Rescue Party.
+</P>
+<P>
+The opposition challenged the governing party, the Cambodian People’s Party, with a strikingly populist platform calling for a sharp rise in civil servants’ salaries, monthly payments to those more than 65 years old, and an increase in the minimum wage. It also included a guaranteed, government-set price for agriculture products, lower gasoline costs and free health care for the poor.
+</P>
+<P>
+Hun Sen’s party, as well as many analysts, questioned whether the opposition would be able to pay for all the proposed measures.
+</P>
+<P>
+But in a country with wide income disparities, where 40 percent of children under 5 years old are malnourished and where more than two-thirds of households lack a flush toilet, the opposition’s program resonated. The opposition also highlighted corruption, land seizures and concessions of wide swaths of forest given to foreign companies, especially from China and Vietnam.
+</P>
+<P>
+Election monitoring groups reported numerous problems with the election. Supposedly indelible ink to prevent people from casting votes more than once, for example, was easily removed with lime juice or bleach, observers said. And scores of voters were turned away because their names were not found on the list, causing minor scuffles at one Phnom Penh voting station.
+</P>
+</TEXT>
+</DOC>

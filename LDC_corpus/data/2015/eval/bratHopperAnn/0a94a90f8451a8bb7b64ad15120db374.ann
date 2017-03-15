@@ -1,0 +1,34 @@
+T1	Conflict_Attack 195 201	terror
+E717	Conflict_Attack:T1
+A1	Realis E717 Generic
+T2	Justice_Trial-Hearing 202 207	trial
+E37	Justice_Trial-Hearing:T2
+A2	Realis E37 Actual
+T3	Justice_Trial-Hearing 425 430	trial
+E456	Justice_Trial-Hearing:T3
+A3	Realis E456 Actual
+T4	Justice_Extradite 240 250	extradited
+E942	Justice_Extradite:T4
+A4	Realis E942 Actual
+T5	Movement_Transport-Person 240 250	extradited
+E32	Movement_Transport-Person:T5
+A5	Realis E32 Actual
+T6	Justice_Charge-Indict 273 280	charges
+E824	Justice_Charge-Indict:T6
+A6	Realis E824 Actual
+T7	Contact_Broadcast 562 566	said
+E796	Contact_Broadcast:T7
+A7	Realis E796 Actual
+T8	Contact_Broadcast 575 585	statements
+E19	Contact_Broadcast:T8
+A8	Realis E19 Other
+T9	Contact_Meet 671 675	told
+E427	Contact_Meet:T9
+A9	Realis E427 Actual
+T10	Life_Injure 890 894	lost
+E434	Life_Injure:T10
+A10	Realis E434 Actual
+T11	Conflict_Attack 905 913	fighting
+E725	Conflict_Attack:T11
+A11	Realis E725 Actual
+R1	Coreference Arg1:E37 Arg2:E456

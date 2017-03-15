@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000611" doc_id="bolt-eng-DF-200-192451-5802600" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="59" length="15">Self-Immolation</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="175" length="4">fire</trigger>
+      </event_mention>
+      <event_mention id="em-36" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="184" length="4">this</trigger>
+      </event_mention>
+      <event_mention id="em-262" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1660" length="4">fire</trigger>
+      </event_mention>
+      <event_mention id="em-275" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1669" length="4">this</trigger>
+      </event_mention>
+      <event_mention id="em-301" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="3703" length="4">fire</trigger>
+      </event_mention>
+      <event_mention id="em-314" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="3712" length="4">this</trigger>
+      </event_mention>
+      <event_mention id="em-435" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="7558" length="4">fire</trigger>
+      </event_mention>
+      <event_mention id="em-448" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="7567" length="4">this</trigger>
+      </event_mention>
+      <event_mention id="em-461" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="7698" length="4">that</trigger>
+      </event_mention>
+      <event_mention id="em-1421" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17176" length="4">fire</trigger>
+      </event_mention>
+      <event_mention id="em-1434" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17185" length="4">this</trigger>
+      </event_mention>
+      <event_mention id="em-1752" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="20189" length="4">this</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-62">
+      <event_mention id="em-49" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="337" length="4">fire</trigger>
+      </event_mention>
+      <event_mention id="em-92" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="517" length="7">funeral</trigger>
+      </event_mention>
+      <event_mention id="em-120" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="644" length="4">kill</trigger>
+      </event_mention>
+      <event_mention id="em-221" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1096" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-1486" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17675" length="6">alight</trigger>
+      </event_mention>
+      <event_mention id="em-1512" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17968" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="405" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-118">
+      <event_mention id="em-105" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="605" length="9">travelled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-146">
+      <event_mention id="em-133" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="821" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-900" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="12574" length="10">protesting</trigger>
+      </event_mention>
+      <event_mention id="em-1138" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="15120" length="10">protesting</trigger>
+      </event_mention>
+      <event_mention id="em-1499" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17719" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-161">
+      <event_mention id="em-148" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="755" length="6">worked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-176">
+      <event_mention id="em-163" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="863" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-208" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1039" length="8">fighting</trigger>
+      </event_mention>
+      <event_mention id="em-517" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="9583" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-530" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="9851" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-595" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="10158" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-621" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="10598" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-699" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11156" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-727" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11501" length="10">conflict's</trigger>
+      </event_mention>
+      <event_mention id="em-766" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11633" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-835" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11980" length="7">attacks</trigger>
+      </event_mention>
+      <event_mention id="em-913" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13297" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-939" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13642" length="10">conflict's</trigger>
+      </event_mention>
+      <event_mention id="em-978" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13774" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-1058" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14162" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-1235" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16234" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-1274" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16355" length="7">killing</trigger>
+      </event_mention>
+      <event_mention id="em-1553" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18581" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-178" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="982" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-608" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="10229" length="5">lives</trigger>
+      </event_mention>
+      <event_mention id="em-634" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="10669" length="5">lives</trigger>
+      </event_mention>
+      <event_mention id="em-647" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="10759" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-660" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="10799" length="4">1000</trigger>
+      </event_mention>
+      <event_mention id="em-673" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11047" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-686" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11087" length="4">1000</trigger>
+      </event_mention>
+      <event_mention id="em-740" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11512" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-753" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11615" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-779" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11760" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-861" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11988" length="4">kill</trigger>
+      </event_mention>
+      <event_mention id="em-952" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13653" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-965" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13756" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-991" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13901" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-1004" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14000" length="5">3,000</trigger>
+      </event_mention>
+      <event_mention id="em-1017" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14027" length="5">2,000</trigger>
+      </event_mention>
+      <event_mention id="em-1045" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14149" length="6">67,000</trigger>
+      </event_mention>
+      <event_mention id="em-1261" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16273" length="4">cost</trigger>
+      </event_mention>
+      <event_mention id="em-1287" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16355" length="7">killing</trigger>
+      </event_mention>
+      <event_mention id="em-1566" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18581" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-206">
+      <event_mention id="em-193" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1009" length="9">displaced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-247">
+      <event_mention id="em-234" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1156" length="7">suicide</trigger>
+      </event_mention>
+      <event_mention id="em-249" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="1237" length="6">alight</trigger>
+      </event_mention>
+      <event_mention id="em-288" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="2119" length="7">suicide</trigger>
+      </event_mention>
+      <event_mention id="em-1447" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17577" length="7">suicide</trigger>
+      </event_mention>
+      <event_mention id="em-1460" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="17607" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-366">
+      <event_mention id="em-353" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="4888" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-368" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="4922" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-396" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="6087" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-409" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="6121" length="5">fight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-394">
+      <event_mention id="em-381" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="5036" length="5">fight</trigger>
+      </event_mention>
+      <event_mention id="em-422" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="6235" length="5">fight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-487">
+      <event_mention id="em-474" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="8415" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-874" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="12191" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-887" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="12420" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-1112" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14727" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-1125" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14966" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-1166" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="12641" length="7">mention</trigger>
+      </event_mention>
+      <event_mention id="em-1179" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="15187" length="7">mention</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-515">
+      <event_mention id="em-502" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="9409" length="4">wars</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-725">
+      <event_mention id="em-712" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11317" length="4">post</trigger>
+      </event_mention>
+      <event_mention id="em-926" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="13458" length="4">post</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-805">
+      <event_mention id="em-792" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11854" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-1099" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14462" length="8">coverage</trigger>
+      </event_mention>
+      <event_mention id="em-1222" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16170" length="9">attention</trigger>
+      </event_mention>
+      <event_mention id="em-1315" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16607" length="9">attention</trigger>
+      </event_mention>
+      <event_mention id="em-1592" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18833" length="9">attention</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-820">
+      <event_mention id="em-807" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="11887" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1043">
+      <event_mention id="em-1030" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14074" length="5">1,000</trigger>
+      </event_mention>
+      <event_mention id="em-1369" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16719" length="5">lives</trigger>
+      </event_mention>
+      <event_mention id="em-1382" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16746" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-1408" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16866" length="7">leaving</trigger>
+      </event_mention>
+      <event_mention id="em-1618" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18945" length="5">lives</trigger>
+      </event_mention>
+      <event_mention id="em-1631" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18972" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-1657" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19092" length="7">leaving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1097">
+      <event_mention id="em-1084" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="14250" length="8">conflict</trigger>
+      </event_mention>
+      <event_mention id="em-1395" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16789" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-1644" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19015" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1164">
+      <event_mention id="em-1151" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="15695" length="9">discussed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1205">
+      <event_mention id="em-1192" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="15899" length="8">conflict</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1220">
+      <event_mention id="em-1207" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="15933" length="7">mention</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1313">
+      <event_mention id="em-1300" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16502" length="5">money</trigger>
+      </event_mention>
+      <event_mention id="em-1579" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18728" length="5">money</trigger>
+      </event_mention>
+      <event_mention id="em-1670" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16988" length="4">sell</trigger>
+      </event_mention>
+      <event_mention id="em-1683" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19214" length="4">sell</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1341">
+      <event_mention id="em-1328" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="16630" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-1605" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18856" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1538">
+      <event_mention id="em-1525" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18070" length="5">shoot</trigger>
+      </event_mention>
+      <event_mention id="em-1540" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="18172" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1709">
+      <event_mention id="em-1696" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19497" length="8">genocide</trigger>
+      </event_mention>
+      <event_mention id="em-1726" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19914" length="8">genocide</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1724">
+      <event_mention id="em-1711" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19497" length="8">genocide</trigger>
+      </event_mention>
+      <event_mention id="em-1739" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="19914" length="8">genocide</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1778">
+      <event_mention id="em-1765" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="20402" length="4">bomb</trigger>
+      </event_mention>
+      <event_mention id="em-1795" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="20531" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1793">
+      <event_mention id="em-1780" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="20457" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1821">
+      <event_mention id="em-1808" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="20900" length="5">money</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1836">
+      <event_mention id="em-1823" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="21083" length="7">attacks</trigger>
+      </event_mention>
+      <event_mention id="em-1853" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="21651" length="7">bombing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1851">
+      <event_mention id="em-1838" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192451-5802600" offset="21134" length="7">killing</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

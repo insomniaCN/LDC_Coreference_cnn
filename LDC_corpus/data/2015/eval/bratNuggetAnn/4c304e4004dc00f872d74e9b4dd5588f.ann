@@ -1,0 +1,84 @@
+T1	Personnel_Elect 2230 2239	elections
+E65	Personnel_Elect:T1
+A1	Realis E65 Generic
+T2	Transaction_Transfer-Ownership 916 922	buying
+E107	Transaction_Transfer-Ownership:T2
+A2	Realis E107 Generic
+T3	Conflict_Demonstrate 2315 2325	protesters
+E113	Conflict_Demonstrate:T3
+A3	Realis E113 Actual
+T4	Transaction_Transfer-Money 466 473	payment
+E161	Transaction_Transfer-Money:T4
+A4	Realis E161 Other
+T5	Justice_Convict 1820 1830	conviction
+E179	Justice_Convict:T5
+A5	Realis E179 Actual
+T6	Contact_Contact 2288 2297	announced
+E184	Contact_Contact:T6
+A6	Realis E184 Other
+T7	Justice_Pardon 2207 2214	amnesty
+E185	Justice_Pardon:T7
+A7	Realis E185 Generic
+T8	Transaction_Transfer-Money 586 592	buying
+E187	Transaction_Transfer-Money:T8
+A8	Realis E187 Generic
+T9	Personnel_End-Position 1832 1838	Ousted
+E227	Personnel_End-Position:T9
+A9	Realis E227 Actual
+T10	Personnel_Elect 2272 2276	vote
+E356	Personnel_Elect:T10
+A10	Realis E356 Other
+T11	Justice_Trial-Hearing 2459 2464	cases
+E409	Justice_Trial-Hearing:T11
+A11	Realis E409 Actual
+T12	Transaction_Transfer-Ownership 784 790	buying
+E442	Transaction_Transfer-Ownership:T12
+A12	Realis E442 Generic
+T13	Conflict_Demonstrate 419 424	rally
+E512	Conflict_Demonstrate:T13
+A13	Realis E512 Actual
+T14	Justice_Pardon 1688 1695	amnesty
+E559	Justice_Pardon:T14
+A14	Realis E559 Other
+T15	Transaction_Transfer-Money 916 922	buying
+E645	Transaction_Transfer-Money:T15
+A15	Realis E645 Generic
+T16	Conflict_Demonstrate 2183 2191	protests
+E679	Conflict_Demonstrate:T16
+A16	Realis E679 Actual
+T17	Transaction_Transfer-Money 784 790	buying
+E698	Transaction_Transfer-Money:T17
+A17	Realis E698 Generic
+T18	Conflict_Demonstrate 1404 1413	protested
+E699	Conflict_Demonstrate:T18
+A18	Realis E699 Actual
+T19	Justice_Arrest-Jail 1783 1790	serving
+E713	Justice_Arrest-Jail:T19
+A19	Realis E713 Other
+T20	Contact_Meet 1137 1146	converged
+E773	Contact_Meet:T20
+A20	Realis E773 Actual
+T21	Transaction_Transfer-Ownership 586 592	buying
+E840	Transaction_Transfer-Ownership:T21
+A21	Realis E840 Generic
+T22	Transaction_Transfer-Money 1194 1202	payments
+E844	Transaction_Transfer-Money:T22
+A22	Realis E844 Other
+T23	Conflict_Attack 1867 1871	coup
+E848	Conflict_Attack:T23
+A23	Realis E848 Actual
+T24	Personnel_End-Position 2514 2521	deposed
+E862	Personnel_End-Position:T24
+A24	Realis E862 Other
+T25	Movement_Transport-Person 388 392	ride
+E867	Movement_Transport-Person:T25
+A25	Realis E867 Actual
+T26	Personnel_Elect 1576 1584	election
+E901	Personnel_Elect:T26
+A26	Realis E901 Actual
+T27	Movement_Transport-Person 1753 1759	return
+E919	Movement_Transport-Person:T27
+A27	Realis E919 Other
+T28	Personnel_Elect 2398 2407	elections
+E981	Personnel_Elect:T28
+A28	Realis E981 Generic

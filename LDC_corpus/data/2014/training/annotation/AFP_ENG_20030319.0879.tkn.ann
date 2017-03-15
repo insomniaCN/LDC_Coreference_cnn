@@ -1,0 +1,51 @@
+T1	Personnel_End-Position 174 181	resigns
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Personnel_End-Position 362 366	quit
+E2	Personnel_End-Position:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 540 547	took on
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 954 964	step aside
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 1051 1055	sale
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1174 1182	received
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 1287 1295	received
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Actual
+T9	Personnel_Start-Position 1587 1594	replace
+E9	Personnel_Start-Position:T9 
+A9	Realis E9 Other
+T10	Personnel_End-Position 1771 1777	ending
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual
+T11	Personnel_End-Position 2022 2029	removal
+E11	Personnel_End-Position:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 2107 2112	sales
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 2173 2177	loss
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Actual
+T15	Transaction_Transfer-Ownership 2781 2790	divesting
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Ownership 2821 2825	take
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Other
+T8	Contact_Communicate 2359 2367	telecoms
+E8	Contact_Communicate:T8 
+A8	Realis E8 Generic
+T14	Transaction_Transfer-Ownership 2570 2574	sale
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T17	Business_Start-Org 2559 2566	spinoff
+E17	Business_Start-Org:T17 
+A17	Realis E17 Other

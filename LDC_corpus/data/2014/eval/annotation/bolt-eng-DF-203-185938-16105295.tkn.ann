@@ -1,0 +1,81 @@
+T1	Contact_Meet 450 454	seen
+E1	Contact_Meet:T1 
+A1	Realis E1 Other
+T2	Movement_Transport-Person 400 403	got
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 470 478;483 491	received e - mail
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 515 522	telling
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Life_Divorce 663 666;669 676	get divorce
+E5	Life_Divorce:T5 
+A5	Realis E5 Actual
+A6	Questionable E5 Realis
+T6	Contact_Meet 708 712	seen
+E6	Contact_Meet:T6 
+A7	Realis E6 Other
+T7	Contact_Communicate 740 744	told
+E7	Contact_Communicate:T7 
+A8	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 854 857	get
+E8	Transaction_Transfer-Ownership:T8 
+A9	Realis E8 Other
+T9	Transaction_Transfer-Money 926 930	paid
+E9	Transaction_Transfer-Money:T9 
+A10	Realis E9 Actual
+T10	Transaction_Transfer-Money 981 987	paying
+E10	Transaction_Transfer-Money:T10 
+A11	Realis E10 Actual
+T11	Transaction_Transfer-Money 1016 1019	pay
+E11	Transaction_Transfer-Money:T11 
+A12	Realis E11 Other
+T12	Movement_Transport-Person 1139 1144	drove
+E12	Movement_Transport-Person:T12 
+A13	Realis E12 Actual
+T13	Life_Divorce 1867 1874	divorce
+E13	Life_Divorce:T13 
+A14	Realis E13 Actual
+T14	Contact_Communicate 2293 2297	talk
+E14	Contact_Communicate:T14 
+A15	Realis E14 Other
+T15	Contact_Communicate 2259 2261	pm
+E15	Contact_Communicate:T15 
+A16	Realis E15 Other
+T16	Life_Divorce 2300 2307	Divorce
+E16	Life_Divorce:T16 
+A17	Realis E16 Generic
+T17	Life_Divorce 2335 2337	it
+E17	Life_Divorce:T17 
+A18	Realis E17 Actual
+T18	Contact_Meet 2660 2664	seen
+E18	Contact_Meet:T18 
+A19	Realis E18 Actual
+T19	Transaction_Transfer-Money 2797 2801	paid
+E19	Transaction_Transfer-Money:T19 
+A20	Realis E19 Actual
+T20	Transaction_Transfer-Money 2860 2864	take
+E20	Transaction_Transfer-Money:T20 
+A21	Realis E20 Other
+T21	Life_Divorce 3112 3119	divorce
+E21	Life_Divorce:T21 
+A22	Realis E21 Generic
+A23	Questionable E21 Realis
+T22	Transaction_Transfer-Ownership 3357 3363	bought
+E22	Transaction_Transfer-Ownership:T22 
+A24	Realis E22 Actual
+T23	Contact_Communicate 3391 3397	talked
+E23	Contact_Communicate:T23 
+A25	Realis E23 Actual
+T24	Life_Divorce 3419 3427	divorced
+E24	Life_Divorce:T24 
+A26	Realis E24 Other
+T25	Transaction_Transfer-Money 3541 3544;3555 3560	get money
+E25	Transaction_Transfer-Money:T25 
+A27	Realis E25 Other
+T26	Justice_Arrest-Jail 4339 4349	be in jail
+E26	Justice_Arrest-Jail:T26 
+A28	Questionable E26 Mention
+A29	Realis E26 Other

@@ -1,0 +1,89 @@
+T1	Conflict_Attack 255 259	shot
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Movement_Transport-Person 427 435	vacation
+E2	Movement_Transport-Person:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 485 494	returning
+E3	Movement_Transport-Person:T3 
+T4	Movement_Transport-Person 502 507	climb
+E4	Movement_Transport-Person:T4 
+A3	Realis E4 Actual
+T5	Contact_Communicate 557 564;571 579	brought telegram
+E5	Contact_Communicate:T5 
+A4	Realis E5 Actual
+T6	Life_Die 656 661	death
+E6	Life_Die:T6 
+A5	Realis E6 Other
+T7	Movement_Transport-Person 702 710	departed
+E7	Movement_Transport-Person:T7 
+A6	Realis E7 Actual
+T8	Movement_Transport-Person 735 742	reached
+E8	Movement_Transport-Person:T8 
+A7	Realis E8 Actual
+T9	Contact_Communicate 818 826;835 843	received telegram
+E9	Contact_Communicate:T9 
+A8	Realis E9 Actual
+T10	Life_Die 876 880	died
+E10	Life_Die:T10 
+A9	Realis E10 Actual
+T11	Movement_Transport-Person 913 920	arrived
+E11	Movement_Transport-Person:T11 
+A10	Realis E11 Actual
+T12	Personnel_Start-Position 957 965	sworn in
+E12	Personnel_Start-Position:T12 
+A11	Realis E12 Actual
+T13	Personnel_Elect 1442 1445	won
+E13	Personnel_Elect:T13 
+A12	Realis E13 Actual
+T14	Conflict_Demonstrate 1623 1637	went on strike
+E14	Conflict_Demonstrate:T14 
+A13	Realis E14 Actual
+T15	Transaction_Transfer-Money 1641 1644;1656 1661	get wages
+E15	Transaction_Transfer-Money:T15 
+A14	Realis E15 Other
+T16	Conflict_Demonstrate 1740 1746	strike
+E16	Conflict_Demonstrate:T16 
+A15	Realis E16 Actual
+T17	Transaction_Transfer-Money 1777 1784;1790 1793	getting pay
+E17	Transaction_Transfer-Money:T17 
+A16	Realis E17 Actual
+T18	Movement_Transport-Person 1875 1881	riding
+E18	Movement_Transport-Person:T18 
+A17	Realis E18 Actual
+T19	Movement_Transport-Person 1918 1922	This
+E19	Movement_Transport-Person:T19 
+A18	Realis E19 Actual
+T20	Movement_Transport-Person 2048 2052	rode
+E20	Movement_Transport-Person:T20 
+A19	Realis E20 Actual
+T21	Movement_Transport-Person 2122 2127	event
+E21	Movement_Transport-Person:T21 
+A20	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 2673 2677	sold
+E22	Transaction_Transfer-Ownership:T22 
+A21	Realis E22 Actual
+T23	Contact_Meet 2866 2922	White House Conference on the Care of Dependent Children
+E23	Contact_Meet:T23 
+A22	Realis E23 Actual
+T24	Movement_Transport-Person 3059 3070	immigration
+E24	Movement_Transport-Person:T24 
+A23	Realis E24 Generic
+T25	Personnel_Elect 3822 3830	election
+E25	Personnel_Elect:T25 
+A24	Realis E25 Actual
+T26	Personnel_Nominate 3896 3905	appointed
+E26	Personnel_Nominate:T26 
+A25	Realis E26 Actual
+T27	Personnel_Nominate 3940 3949	appointed
+E27	Personnel_Nominate:T27 
+A26	Realis E27 Actual
+T28	Personnel_Nominate 3989 3998	appointed
+E28	Personnel_Nominate:T28 
+A27	Realis E28 Actual
+T29	Personnel_Nominate 4197 4206	appointed
+E29	Personnel_Nominate:T29 
+A28	Realis E29 Actual
+T30	Transaction_Transfer-Money 5992 5996;6002 6008	grab wealth
+E30	Transaction_Transfer-Money:T30 
+A29	Realis E30 Other

@@ -1,0 +1,43 @@
+<DOC id="NYT_ENG_20130429.0135" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130429/20130429,810fff99c68b83e5e8ec49b64ae78e78.xml">
+<HEADLINE>
+FIVE ARE CONVICTED IN KOSOVO ORGAN-TRAFFICKING RING
+</HEADLINE>
+<TEXT>
+<P>
+PARIS – Five people were convicted Monday in Pristina, the capital of Kosovo, in connection with an elaborate organ-trafficking network that lured poor people to the country to sell their kidneys and other organs to wealthy transplant recipients from Israel, the United States, Canada and Germany. Organs sold for as much as $130,000 each.
+</P>
+<P>
+The defendants, all Kosovars, were tried before a panel of two European Union judges and one Kosovar judge. A special prosecutor for the union, Jonathan Ratel, called the case a landmark because doctors had been convicted.
+</P>
+<P>
+Dr. Lutfi Dervishi, a urologist and the director of the clinic at the center of the trafficking ring, was sentenced to eight years in prison. His son Arban Dervishi was sentenced to seven years and three months, and Dr. Sokol Hajdini, the clinic’s chief anesthesiologist, to three years. Two other defendants received one-year suspended sentences.
+</P>
+<P>
+In addition to the five who were convicted, two defendants were acquitted of charges of fraud and abuse of authority. All had denied any wrongdoing.
+</P>
+<P>
+“The sole and driving motive for this exploitation of the poor and the indigent was the opportunity for obscene profit and human greed,” Ratel, the prosecutor, said Monday. “In every sense this was a cruel harvest of the poor.”
+</P>
+<P>
+The case has shaken Kosovo, a mostly Muslim country of 2 million that broke away from Serbia in 2008 in the aftermath of the Balkan wars of the 1990s and has been struggling to shed a culture of lawlessness and corruption. This month, Kosovo and Serbia reached an agreement that the Kosovo government hopes will accelerate its integration into the international community, including membership in the United Nations.
+</P>
+<P>
+According to the indictment in the case, traffickers in the network promised payments of up to $26,000 to poor people in Turkey, Moldova and Russia to persuade them to travel to Kosovo and donate an organ. They were asked to sign false documents saying they were donating to a relative for humanitarian reasons.
+</P>
+<P>
+Two dozen donors were taken in by the scheme; many were never given any compensation and were released without adequate medical care.
+</P>
+<P>
+The wealthy, ailing patients who were to receive the organs flew to Pristina for transplant operations at a clinic called Medicus. It was founded by a well-meaning European philanthropist who helped local doctors during the war in Kosovo in 1999, but prosecutors said it was later transformed into an illegal organ transplant hub by Dervishi, a surgeon and professor at Pristina University Hospital.
+</P>
+<P>
+Ratel said the Dervishis were aided by Dr. Yusuf Sonmez, whom he called a notorious international organ trafficker. Sonmez is a fugitive and may be in South Africa, Ratel said.
+</P>
+<P>
+The big breakthrough in the case happened in November 2008, Ratel said, when a young Turkish man was found at the Pristina airport, weak and shaking, with a large surgical scar on his left abdomen. The man told the police that his kidney had been stolen. When the police raided the clinic, they found a frail elderly Israeli man who had paid $90,000 for the kidney.
+</P>
+<P>
+Petrit Selimi, the deputy foreign minister of Kosovo, said the verdict showed that the rule of law was working in the country. “Illegal organ transplants are a scourge of poorer nations from Kamchatka to Kosovo, and we will continue to chase criminals engaged in it,” Selimi said.
+</P>
+</TEXT>
+</DOC>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaaa0000000000000165" doc_id="744e2c0c012432414059ff4ebaeb85d9" source_type="multi_post">
+  <event_mention id="em-145" type="contact" subtype="contact" realis="other" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="1900" length="3">ask</trigger>
+  </event_mention>
+  <event_mention id="em-167" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="525" length="3">get</trigger>
+  </event_mention>
+  <event_mention id="em-215" type="movement" subtype="transportartifact" realis="other">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="3679" length="4">send</trigger>
+  </event_mention>
+  <event_mention id="em-253" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="3796" length="4">call</trigger>
+  </event_mention>
+  <event_mention id="em-345" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="2411" length="3">ask</trigger>
+  </event_mention>
+  <event_mention id="em-364" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="185" length="11">woodworking</trigger>
+  </event_mention>
+  <event_mention id="em-425" type="business" subtype="endorg" realis="actual">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="274" length="13">went belly up</trigger>
+  </event_mention>
+  <event_mention id="em-431" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="871" length="11">shop around</trigger>
+  </event_mention>
+  <event_mention id="em-599" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="627" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-660" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="925" length="4">make</trigger>
+  </event_mention>
+  <event_mention id="em-815" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="627" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-922" type="movement" subtype="transportartifact" realis="generic">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="3362" length="9">delivered</trigger>
+  </event_mention>
+  <event_mention id="em-951" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="1867" length="4">gets</trigger>
+  </event_mention>
+  <event_mention id="em-981" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="744e2c0c012432414059ff4ebaeb85d9" offset="4320" length="4">pass</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

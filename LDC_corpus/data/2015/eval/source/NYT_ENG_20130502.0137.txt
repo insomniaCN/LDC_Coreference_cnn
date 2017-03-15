@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130502.0137" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130502/20130502,6ec5fe1ac5b45a3febd4d3e1bcb2ba2f.xml">
+<HEADLINE>
+CHINA ACCUSED OF DENYING CARE TO DISSIDENT ’ S RELATIVE
+</HEADLINE>
+<TEXT>
+<P>
+BEIJING – Human rights advocates have accused authorities in eastern China of denying urgent medical care to the nephew of dissident Chen Guangcheng, a move they say is aimed at punishing the uncle for his continued anti-government activism abroad after his daring escape to the U.S. Embassy in Beijing.
+</P>
+<P>
+Family members say that the nephew, Chen Kegui, 34, has acute appendicitis but that prison officials are refusing to send him to a hospital.
+</P>
+<P>
+“We’re very worried for his survival,” his father, Chen Guanfu, said Thursday, speaking from the prison in China’s Shandong province where his son is being held.
+</P>
+<P>
+Chen Kegui was sentenced in November to 39 months in jail for “intentional injury” after he was convicted of attacking a government official who had broken into his family’s home in the frantic search for his uncle, who, although blind, had escaped house arrest from a nearby farmhouse.
+</P>
+<P>
+Unknown to local officials, Chen Guangcheng had by then fled to Beijing and, later, to the U.S. Embassy, prompting a diplomatic imbroglio that complicated an official visit by then-Secretary of State Hillary Rodham Clinton.
+</P>
+<P>
+Chen Guangcheng, a self-taught lawyer who was once hailed by the state media for his advocacy work, earned the government’s enmity after he took on the case of thousands of local women who had been subjected to forced abortions and sterilizations.
+</P>
+<P>
+In 2006, he was sentenced to 51 months in jail on what supporters say were trumped-up charges; upon his release, he and his family were confined to their home. His improbable escape – by scaling a wall one night and crawling through fields to freedom – deeply embarrassed the Chinese government.
+</P>
+<P>
+After several days of tense negotiations last May, Chinese officials allowed Chen Guangcheng and his family to leave the embassy for New York.
+</P>
+<P>
+Chen, now studying at New York University Law School, has continued to press for an investigation into his mistreatment and to speak out publicly about what he sees as the lack of rule of law in China. The government’s response, he has said, has been an escalating campaign of intimidation against those he left behind in Dongshigu village.
+</P>
+</TEXT>
+</DOC>

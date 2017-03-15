@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000558" doc_id="APW_ENG_20100917.0504" source_type="newswire">
+<event_mention id="em-10" type="life" subtype="divorce" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="98" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-23" type="life" subtype="divorce" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="252" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-36" type="life" subtype="divorce" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="325" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-49" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100917.0504" offset="409" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-64" type="life" subtype="divorce" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="450" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-77" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="APW_ENG_20100917.0504" offset="515" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-92" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="679" length="8">marriage</trigger>
+      </event_mention>
+<event_mention id="em-107" type="life" subtype="divorce" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="693" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-120" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100917.0504" offset="978" length="9">available</trigger>
+      </event_mention>
+<event_mention id="em-135" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="1072" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-148" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="1143" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-163" type="life" subtype="injure" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="1197" length="7">injured</trigger>
+      </event_mention>
+<event_mention id="em-178" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="1250" length="7">lawsuit</trigger>
+      </event_mention>
+<event_mention id="em-191" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="APW_ENG_20100917.0504" offset="1445" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-206" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100917.0504" offset="1572" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-221" type="life" subtype="divorce" realis="other">
+        <trigger source="APW_ENG_20100917.0504" offset="1636" length="7">divorce</trigger>
+      </event_mention>
+<event_mention id="em-234" type="life" subtype="marry" realis="actual">
+        <trigger source="APW_ENG_20100917.0504" offset="1803" length="8">marriage</trigger>
+      </event_mention>
+<event_mention id="em-247" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100917.0504" offset="1664" length="10">complained</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

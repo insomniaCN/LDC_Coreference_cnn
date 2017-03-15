@@ -1,0 +1,177 @@
+T1	Contact_Broadcast 5302 5311	statement
+E5	Contact_Broadcast:T1
+A1	Realis E5 Actual
+T2	Transaction_Transfer-Money 1255 1268	contributions
+E15	Transaction_Transfer-Money:T2
+A2	Realis E15 Actual
+T3	Movement_Transport-Person 4878 4883	exile
+E80	Movement_Transport-Person:T3
+A3	Realis E80 Actual
+T4	Justice_Arrest-Jail 386 394	arrested
+E87	Justice_Arrest-Jail:T4
+A4	Realis E87 Actual
+T5	Movement_Transport-Person 754 758	fled
+E91	Movement_Transport-Person:T5
+A5	Realis E91 Actual
+T6	Personnel_End-Position 153 155	ex
+E99	Personnel_End-Position:T6
+A6	Realis E99 Actual
+T7	Justice_Arrest-Jail 3230 3236	prison
+E123	Justice_Arrest-Jail:T7
+A7	Realis E123 Other
+T8	Transaction_Transfer-Money 2240 2249	donations
+E133	Transaction_Transfer-Money:T8
+A8	Realis E133 Actual
+T9	Transaction_Transfer-Money 5219 5228	accepting
+E136	Transaction_Transfer-Money:T9
+A9	Realis E136 Actual
+T10	Transaction_Transfer-Money 2918 2927	donations
+E143	Transaction_Transfer-Money:T10
+A10	Realis E143 Actual
+T11	Justice_Charge-Indict 2999 3005	charge
+E170	Justice_Charge-Indict:T11
+A11	Realis E170 Actual
+T12	Contact_Meet 678 688	appearance
+E178	Contact_Meet:T12
+A12	Realis E178 Other
+T13	Contact_Contact 4607 4614	Talking
+E207	Contact_Contact:T13
+A13	Realis E207 Actual
+T14	Justice_Charge-Indict 2131 2138	charged
+E227	Justice_Charge-Indict:T14
+A14	Realis E227 Actual
+T15	Personnel_End-Position 4818 4824	former
+E233	Personnel_End-Position:T15
+A15	Realis E233 Actual
+T16	Justice_Convict 1315 1324	convicted
+E235	Justice_Convict:T16
+A16	Realis E235 Other
+T17	Contact_Contact 4904 4911	talking
+E244	Contact_Contact:T17
+A17	Realis E244 Actual
+T18	Justice_Arrest-Jail 202 209	custody
+E291	Justice_Arrest-Jail:T18
+A18	Realis E291 Actual
+T19	Personnel_End-Position 4474 4480	former
+E292	Personnel_End-Position:T19
+A19	Realis E292 Actual
+T20	Personnel_Elect 2168 2176	election
+E302	Personnel_Elect:T20
+A20	Realis E302 Generic
+T21	Transaction_Transfer-Money 2525 2534	donations
+E305	Transaction_Transfer-Money:T21
+A21	Realis E305 Actual
+T22	Contact_Broadcast 1198 1208	statements
+E369	Contact_Broadcast:T22
+A22	Realis E369 Actual
+T23	Transaction_Transfer-Money 887 900	contributions
+E371	Transaction_Transfer-Money:T23
+A23	Realis E371 Actual
+T24	Justice_Arrest-Jail 616 625	locked up
+E386	Justice_Arrest-Jail:T24
+A24	Realis E386 Other
+T25	Justice_Fine 1366 1370	fine
+E476	Justice_Fine:T25
+A25	Realis E476 Other
+T26	Personnel_End-Position 5001 5007	former
+E482	Personnel_End-Position:T26
+A26	Realis E482 Actual
+T27	Justice_Arrest-Jail 639 648	detention
+E485	Justice_Arrest-Jail:T27
+A27	Realis E485 Generic
+T28	Justice_Arrest-Jail 2719 2725	arrest
+E489	Justice_Arrest-Jail:T28
+A28	Realis E489 Actual
+T29	Personnel_Nominate 2287 2294	nominee
+E501	Personnel_Nominate:T29
+A29	Realis E501 Actual
+T30	Movement_Transport-Person 4851 4859	returned
+E517	Movement_Transport-Person:T30
+A30	Realis E517 Actual
+T31	Personnel_Elect 1970 1978	election
+E522	Personnel_Elect:T31
+A31	Realis E522 Generic
+T32	Justice_Charge-Indict 480 487	charged
+E560	Justice_Charge-Indict:T32
+A32	Realis E560 Actual
+T33	Justice_Charge-Indict 1160 1167	charges
+E585	Justice_Charge-Indict:T33
+A33	Realis E585 Actual
+T34	Transaction_Transfer-Money 1090 1097	finance
+E588	Transaction_Transfer-Money:T34
+A34	Realis E588 Generic
+T35	Transaction_Transfer-Money 554 561	finance
+E607	Transaction_Transfer-Money:T35
+A35	Realis E607 Generic
+T36	Justice_Charge-Indict 1948 1955	charged
+E618	Justice_Charge-Indict:T36
+A36	Realis E618 Actual
+T37	Transaction_Transfer-Money 2814 2827	contributions
+E630	Transaction_Transfer-Money:T37
+A37	Realis E630 Actual
+T38	Justice_Convict 3253 3262	convicted
+E639	Justice_Convict:T38
+A38	Realis E639 Other
+T39	Justice_Extradite 410 420	extradited
+E658	Justice_Extradite:T39
+A39	Realis E658 Actual
+T40	Transaction_Transfer-Money 2902 2913	distributed
+E701	Transaction_Transfer-Money:T40
+A40	Realis E701 Actual
+T41	Movement_Transport-Person 410 420	extradited
+E723	Movement_Transport-Person:T41
+A41	Realis E723 Actual
+T42	Justice_Charge-Indict 2742 2749	charges
+E731	Justice_Charge-Indict:T42
+A42	Realis E731 Actual
+T43	Justice_Arrest-Jail 1353 1359	prison
+E739	Justice_Arrest-Jail:T43
+A43	Realis E739 Other
+T44	Movement_Transport-Person 3588 3593	going
+E743	Movement_Transport-Person:T44
+A44	Realis E743 Other
+T45	Transaction_Transfer-Money 2620 2629	receiving
+E776	Transaction_Transfer-Money:T45
+A45	Realis E776 Other
+T46	Transaction_Transfer-Money 2495 2501	donate
+E802	Transaction_Transfer-Money:T46
+A46	Realis E802 Other
+T47	Justice_Charge-Indict 2410 2416	charge
+E805	Justice_Charge-Indict:T47
+A47	Realis E805 Actual
+T48	Transaction_Transfer-Money 2801 2809	returned
+E837	Transaction_Transfer-Money:T48
+A48	Realis E837 Actual
+T49	Justice_Charge-Indict 508 518	indictment
+E855	Justice_Charge-Indict:T49
+A49	Realis E855 Actual
+T50	Justice_Trial-Hearing 3266 3271	trial
+E863	Justice_Trial-Hearing:T50
+A50	Realis E863 Other
+T51	Justice_Sentence 3061 3069	sentence
+E872	Justice_Sentence:T51
+A51	Realis E872 Other
+T52	Personnel_Elect 4791 4800	elections
+E876	Personnel_Elect:T52
+A52	Realis E876 Generic
+T53	Contact_Contact 1506 1513	reached
+E883	Contact_Contact:T53
+A53	Realis E883 Other
+T54	Personnel_End-Position 351 357	former
+E908	Personnel_End-Position:T54
+A54	Realis E908 Actual
+T55	Justice_Charge-Indict 1426 1433	charged
+E938	Justice_Charge-Indict:T55
+A55	Realis E938 Other
+T56	Personnel_End-Position 2358 2364	former
+E943	Personnel_End-Position:T56
+A56	Realis E943 Actual
+T57	Justice_Charge-Indict 3186 3196	indictment
+E963	Justice_Charge-Indict:T57
+A57	Realis E963 Other
+T58	Transaction_Transfer-Money 5257 5270	contributions
+E985	Transaction_Transfer-Money:T58
+A58	Realis E985 Actual
+T59	Justice_Charge-Indict 5208 5215	charges
+E994	Justice_Charge-Indict:T59
+A59	Realis E994 Actual

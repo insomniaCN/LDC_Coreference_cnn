@@ -1,0 +1,108 @@
+T1	Justice_Pardon 211 218	PARDONS
+E1	Justice_Pardon:T1 
+A1	Realis E1 Actual
+T2	Justice_Pardon 397 405	pardoned
+E2	Justice_Pardon:T2 
+A2	Realis E2 Actual
+T3	Justice_Convict 452 461	convicted
+E3	Justice_Convict:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 492 497	rapes
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Justice_Pardon 642 649	Pardons
+E5	Justice_Pardon:T5 
+A5	Realis E5 Generic
+T6	Justice_Release-Parole 654 661	Paroles
+E6	Justice_Release-Parole:T6 
+A6	Realis E6 Generic
+T7	Justice_Pardon 689 696	pardons
+E7	Justice_Pardon:T7 
+A7	Realis E7 Actual
+T8	Justice_Convict 790 799	convicted
+E8	Justice_Convict:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 803 807	rape
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Life_Die 1099 1103	died
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Justice_Pardon 1270 1277	pardons
+E11	Justice_Pardon:T11 
+A11	Realis E11 Actual
+T12	Justice_Trial-Hearing 1475 1480	tried
+E12	Justice_Trial-Hearing:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1499 1503	rape
+E13	Conflict_Attack:T13 
+A13	Realis E13 Generic
+T14	Conflict_Attack 1512 1517	fight
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 1615 1620	fight
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Justice_Sentence 1644 1653	sentenced
+E16	Justice_Sentence:T16 
+A16	Realis E16 Actual
+T17	Justice_Execute 1674 1679	death
+E17	Justice_Execute:T17 
+A17	Realis E17 Other
+T18	Justice_Convict 1692 1703	convictions
+E18	Justice_Convict:T18 
+A18	Realis E18 Actual
+T19	Justice_Convict 1808 1819	convictions
+E19	Justice_Convict:T19 
+A19	Realis E19 Actual
+T20	Justice_Trial-Hearing 1863 1869	trials
+E20	Justice_Trial-Hearing:T20 
+A20	Realis E20 Actual
+T21	Justice_Appeal 1874 1881	appeals
+E21	Justice_Appeal:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 1921 1925	rape
+E22	Conflict_Attack:T22 
+A22	Realis E22 Generic
+T23	Justice_Charge-Indict 1926 1933	charges
+E23	Justice_Charge-Indict:T23 
+A23	Realis E23 Actual
+T24	Justice_Pardon 2011 2019	pardoned
+E24	Justice_Pardon:T24 
+A24	Realis E24 Actual
+T25	Justice_Convict 2036 2045	convicted
+E25	Justice_Convict:T25 
+A25	Realis E25 Actual
+T26	Justice_Sentence 2056 2065	sentenced
+E26	Justice_Sentence:T26 
+A26	Realis E26 Actual
+T27	Justice_Arrest-Jail 2077 2083	prison
+E27	Justice_Arrest-Jail:T27 
+A27	Realis E27 Actual
+T28	Justice_Execute 2093 2098	death
+E28	Justice_Execute:T28 
+A28	Realis E28 Actual
+T29	Justice_Release-Parole 2150 2157	paroles
+E29	Justice_Release-Parole:T29 
+A29	Realis E29 Actual
+T30	Justice_Pardon 2221 2227	pardon
+E30	Justice_Pardon:T30 
+A30	Realis E30 Actual
+T31	Movement_Transport-Person 2284 2291	escaped
+E31	Movement_Transport-Person:T31 
+A31	Realis E31 Actual
+T32	Justice_Arrest-Jail 2297 2303	prison
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Actual
+T33	Life_Die 2319 2323	died
+E33	Life_Die:T33 
+A33	Realis E33 Actual
+T34	Justice_Pardon 2484 2491	pardons
+E34	Justice_Pardon:T34 
+A34	Realis E34 Actual
+T35	Justice_Trial-Hearing 597 604	hearing
+E35	Justice_Trial-Hearing:T35 
+A35	Realis E35 Actual
+T36	Contact_Communicate 2661 2665	said
+E36	Contact_Communicate:T36 
+A36	Realis E36 Actual

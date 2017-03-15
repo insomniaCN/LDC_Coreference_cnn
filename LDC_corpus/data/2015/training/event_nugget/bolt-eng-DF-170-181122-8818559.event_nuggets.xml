@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000586" doc_id="bolt-eng-DF-170-181122-8818559" source_type="multi_post">
+<event_mention id="em-10" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="182" length="6">Former</trigger>
+      </event_mention>
+<event_mention id="em-23" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="329" length="8">released</trigger>
+      </event_mention>
+<event_mention id="em-38" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="569" length="8">released</trigger>
+      </event_mention>
+<event_mention id="em-51" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="813" length="9">interview</trigger>
+      </event_mention>
+<event_mention id="em-66" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="863" length="9">telephone</trigger>
+      </event_mention>
+<event_mention id="em-81" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="1047" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-96" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="1122" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-113" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="1146" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-128" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="1184" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-141" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="1515" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-156" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="2091" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-171" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="2472" length="4">jail</trigger>
+      </event_mention>
+<event_mention id="em-186" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="2672" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-201" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="2991" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-216" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="5162" length="10">conviction</trigger>
+      </event_mention>
+<event_mention id="em-229" type="justice" subtype="convict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="5369" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-244" type="justice" subtype="convict" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="5439" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-257" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="5468" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-270" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="8833" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-283" type="justice" subtype="convict" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="8932" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-296" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="8903" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-309" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="9239" length="9">convicted</trigger>
+      </event_mention>
+<event_mention id="em-322" type="personnel" subtype="elect" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="9387" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-337" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="910" length="7">reached</trigger>
+      </event_mention>
+<event_mention id="em-352" type="justice" subtype="convict" realis="generic">
+        <trigger source="bolt-eng-DF-170-181122-8818559" offset="8626" length="10">conviction</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

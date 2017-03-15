@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="5589763c0000000000000030" doc_id="AFP_ENG_20101106.0133" source_type="newswire">
+<event_mention id="em-34" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="427" length="7">payment</trigger>
+      </event_mention>
+<event_mention id="em-47" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="93" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-60" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="824" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-73" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="874" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-86" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="1431" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-99" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="AFP_ENG_20101106.0133" offset="292" length="8">air drop</trigger>
+      </event_mention>
+<event_mention id="em-112" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="AFP_ENG_20101106.0133" offset="544" length="7">dropped</trigger>
+      </event_mention>
+<event_mention id="em-125" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="269" length="6">ransom</trigger>
+      </event_mention>
+<event_mention id="em-138" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="AFP_ENG_20101106.0133" offset="611" length="7">sharing</trigger>
+      </event_mention>
+<event_mention id="em-151" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="935" length="6">seized</trigger>
+      </event_mention>
+<event_mention id="em-164" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20101106.0133" offset="981" length="7">heading</trigger>
+      </event_mention>
+<event_mention id="em-177" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20101106.0133" offset="1186" length="9">attacking</trigger>
+      </event_mention>
+<event_mention id="em-190" type="transaction" subtype="transfermoney" realis="generic" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="1370" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-203" type="transaction" subtype="transfermoney" realis="actual" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="1544" length="4">paid</trigger>
+      </event_mention>
+<event_mention id="em-216" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="AFP_ENG_20101106.0133" offset="66" length="3">say</trigger>
+      </event_mention>
+<event_mention id="em-229" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20101106.0133" offset="806" length="9">confirmed</trigger>
+      </event_mention>
+<event_mention id="em-255" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20101106.0133" offset="497" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-268" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20101106.0133" offset="738" length="7">preying</trigger>
+      </event_mention>
+<event_mention id="em-281" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20101106.0133" offset="935" length="6">seized</trigger>
+      </event_mention>
+<event_mention id="em-307" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="AFP_ENG_20101106.0133" offset="995" length="5">laden</trigger>
+      </event_mention>
+<event_mention id="em-322" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20101106.0133" offset="1134" length="10">speedboats</trigger>
+      </event_mention>
+<event_mention id="em-337" type="transaction" subtype="transferownership" realis="generic" ways="involuntaryforce">
+        <trigger source="AFP_ENG_20101106.0133" offset="1307" length="4">hold</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

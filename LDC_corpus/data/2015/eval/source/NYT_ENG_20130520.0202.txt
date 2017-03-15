@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130520.0202" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130520/20130520,ceb2b81f2cfa6bd32b6a9c82f47e34ff.xml">
+<HEADLINE>
+MAN LINKED BY U.S. TO HEZBOLLAH IS ARRESTED IN BRAZIL
+</HEADLINE>
+<TEXT>
+<P>
+RIO DE JANEIRO – The Brazilian police have arrested a businessman listed by the United States as a member of Hezbollah, the powerful Lebanese militant group, under suspicion of operating a fraudulent scheme in the clothing industry – a far cry from the arms, drugs, explosives and counterfeit bills that U.S. officials have suspected him of trafficking in the past.
+</P>
+<P>
+Officials with Brazil’s Civil Police said the suspect, Hamzi Ahmad Barakat, 50, a Lebanese citizen with ties to the Triple Frontier region of Brazil, Argentina and Paraguay, was arrested Thursday in the city of Curitiba in southern Brazil in connection with creating a network of front companies to defraud Lebanese immigrants who had recently arrived in Brazil.
+</P>
+<P>
+The arrest focuses new attention on the Triple Frontier, a smuggler’s haven that has long been under the scrutiny of intelligence agencies from the United States, Israel and South American nations. In 2006, the Treasury Department designated Barakat as a member of Hezbollah and said he owned and managed a store in Paraguay that “served as a source of funding” for the group, which the United States considers a terrorist organization.
+</P>
+<P>
+Cassiano Aufiero, the police investigator in charge of the case, said that officials were aware that Barakat had been linked to Hezbollah but added that their investigation was in connection to other activities. Aufiero said that charges against Barakat would include embezzlement and creating false documents in schemes involving the resale of clothing.
+</P>
+<P>
+“He was preying on his own countrymen, using their identities to create companies to carry out schemes,” Aufiero said.
+</P>
+<P>
+Barakat has been held in a state penitentiary in Curitiba since his arrest, he said.
+</P>
+<P>
+John Sullivan, a spokesman for the Treasury Department in Washington, says that the description of Barakat as a Hezbollah member still stands.
+</P>
+<P>
+After the Treasury Department described the links of Barakat and eight others in the Triple Frontier region to Hezbollah, Brazil’s government responded by saying that there were no signs of terrorism financing in the border region, which has long attracted large numbers of immigrants from the Middle East.
+</P>
+<P>
+In 2004, the Treasury Department called Barakat’s brother, Assad Ahmad Barakat, one of Hezbollah’s “most prominent and influential members,” and said he used an electronics wholesale store in the Triple Frontier as a cover for raising funds for Hezbollah. Brazilian police arrested Assad Ahmad Barakat in 2002 and deported him to Paraguay, where he went to prison for tax evasion.
+</P>
+</TEXT>
+</DOC>

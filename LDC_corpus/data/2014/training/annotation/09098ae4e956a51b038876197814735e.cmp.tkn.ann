@@ -1,0 +1,33 @@
+T1	Life_Die 158 162	died
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Personnel_Elect 197 204	elected
+E2	Personnel_Elect:T2 
+A2	Realis E2 Other
+T3	Movement_Transport-Person 353 361	visiting
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T4	Justice_Pardon 416 425	pardoning
+E4	Justice_Pardon:T4 
+A4	Realis E4 Actual
+T5	Life_Die 720 724	lost
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T10	Contact_Meet 1377 1381	told
+E10	Contact_Meet:T10 
+A10	Realis E10 Actual
+T12	Personnel_End-Position 1505 1509	post
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual
+T13	Personnel_End-Position 1628 1632	post
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Actual
+T15	Movement_Transport-Person 2225 2230	leave
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T17	Justice_Pardon 2616 2622	pardon
+E17	Justice_Pardon:T17 
+A17	Realis E17 Actual
+T21	Life_Die 749 753	lost
+E21	Life_Die:T21 
+A22	Realis E21 Actual

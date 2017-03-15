@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea9c0000000000000140" doc_id="419af0bd651237db24d88b55efad3b95" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-322" type="conflict" subtype="attack" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="366" length="4">beat</trigger>
+      </event_mention>
+      <event_mention id="em-934" type="conflict" subtype="attack" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="1230" length="6">beaten</trigger>
+      </event_mention>
+      <event_mention id="em-380" type="conflict" subtype="attack" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="1244" length="5">blows</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-685" type="life" subtype="injure" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="397" length="5">marks</trigger>
+      </event_mention>
+      <event_mention id="em-626" type="life" subtype="injure" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="1356" length="5">scars</trigger>
+      </event_mention>
+      <event_mention id="em-396" type="life" subtype="injure" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="1365" length="7">bruises</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-886" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="500" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-698" type="justice" subtype="sentence" realis="actual">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="708" length="9">sentenced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-172" type="justice" subtype="fine" realis="actual">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="743" length="5">fined</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-860" type="justice" subtype="convict" realis="actual">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="784" length="6">guilty</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-98">
+      <event_mention id="em-597" type="conflict" subtype="attack" realis="generic">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="803" length="8">violence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-115">
+      <event_mention id="em-272" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="898" length="8">released</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-117">
+      <event_mention id="em-351" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="928" length="4">jail</trigger>
+      </event_mention>
+      <event_mention id="em-764" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="734" length="4">jail</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-158">
+      <event_mention id="em-316" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="419af0bd651237db24d88b55efad3b95" offset="1783" length="4">sent</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

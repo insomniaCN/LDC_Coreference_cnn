@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea8c0000000000000103" doc_id="0a94a90f8451a8bb7b64ad15120db374" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-717" type="conflict" subtype="attack" realis="generic">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="195" length="6">terror</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-37" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="202" length="5">trial</trigger>
+      </event_mention>
+      <event_mention id="em-456" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="425" length="5">trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-942" type="justice" subtype="extradite" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="240" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-32" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="240" length="10">extradited</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-824" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="273" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-796" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="562" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-19" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="575" length="10">statements</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-427" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="671" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-434" type="life" subtype="injure" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="890" length="4">lost</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-725" type="conflict" subtype="attack" realis="actual">
+        <trigger source="0a94a90f8451a8bb7b64ad15120db374" offset="905" length="8">fighting</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

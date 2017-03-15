@@ -1,0 +1,54 @@
+T1	Justice_Acquit 211 220	ACQUITTED
+E1	Justice_Acquit:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 249 257	ARRESTED
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Justice_Acquit 335 344	acquitted
+E3	Justice_Acquit:T3 
+A3	Realis E3 Actual
+T4	Life_Die 367 372	fatal
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 373 381	shooting
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 406 414	arrested
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 581 589	arrested
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Charge-Indict 678 685	charges
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 805 809	shot
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Life_Die 814 820	killed
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Life_Die 944 949	death
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Justice_Charge-Indict 1049 1056	charged
+E12	Justice_Charge-Indict:T12 
+A12	Realis E12 Actual
+T13	Justice_Acquit 1113 1122	acquittal
+E13	Justice_Acquit:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 1146 1154	protests
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Actual
+T15	Justice_Acquit 1273 1282	acquittal
+E15	Justice_Acquit:T15 
+A15	Realis E15 Actual
+T16	Justice_Charge-Indict 1547 1554	charged
+E16	Justice_Charge-Indict:T16 
+A16	Realis E16 Other
+T17	Life_Divorce 1582 1589	divorce
+E17	Life_Divorce:T17 
+A17	Realis E17 Actual
+T18	Justice_Trial-Hearing 1830 1835	trial
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Actual

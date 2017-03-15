@@ -1,0 +1,81 @@
+T1	Justice_Trial-Hearing 72 85	holds hearing
+E1	Justice_Trial-Hearing:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 115 124	detention
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Justice_Trial-Hearing 284 288;291 298	held hearing
+E3	Justice_Trial-Hearing:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 340 349	detention
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 353 359	former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 402 406	held
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 481 488	charges
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 611 619	detained
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 696 702	former
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Justice_Arrest-Jail 716 726	detainment
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Actual
+T11	Justice_Trial-Hearing 815 822	hearing
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Justice_Arrest-Jail 840 848	detained
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 965 972	fleeing
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Other
+T14	Transaction_Transfer-Money 1088 1096;1105 1110	remitted money
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Other
+T15	Justice_Release-Parole 1191 1199	released
+E15	Justice_Release-Parole:T15 
+A15	Realis E15 Other
+T16	Personnel_End-Position 1219 1225	former
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 1253 1261	remitted
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Money 1376 1385	laundered
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Other
+T19	Justice_Release-Parole 1551 1558	release
+E19	Justice_Release-Parole:T19 
+A19	Realis E19 Other
+T20	Transaction_Transfer-Money 1585 1593;1598 1603	returned money
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Actual
+T21	Justice_Trial-Hearing 1681 1688	hearing
+E21	Justice_Trial-Hearing:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 1696 1704	returned
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Justice_Convict 1785 1797	found guilty
+E23	Justice_Convict:T23 
+A23	Realis E23 Actual
+T24	Justice_Sentence 1868 1873;1879 1888	given sentences
+E24	Justice_Sentence:T24 
+A24	Realis E24 Actual
+T25	Justice_Sentence 1930 1939	sentences
+E25	Justice_Sentence:T25 
+A25	Realis E25 Actual
+T26	Justice_Appeal 2131 2139	appealed
+E26	Justice_Appeal:T26 
+A26	Realis E26 Actual
+T27	Personnel_End-Position 1633 1639	former
+E27	Personnel_End-Position:T27 
+A27	Realis E27 Actual

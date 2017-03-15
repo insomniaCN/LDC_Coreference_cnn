@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976270000000000000016" doc_id="AFP_ENG_20100407.0477" source_type="newswire">
+<event_mention id="em-20" type="life" subtype="marry" realis="other">
+        <trigger source="AFP_ENG_20100407.0477" offset="87" length="3">wed</trigger>
+      </event_mention>
+<event_mention id="em-33" type="life" subtype="marry" realis="other">
+        <trigger source="AFP_ENG_20100407.0477" offset="217" length="7">wedding</trigger>
+      </event_mention>
+<event_mention id="em-46" type="life" subtype="marry" realis="actual">
+        <trigger source="AFP_ENG_20100407.0477" offset="451" length="8">nuptials</trigger>
+      </event_mention>
+<event_mention id="em-59" type="life" subtype="marry" realis="other">
+        <trigger source="AFP_ENG_20100407.0477" offset="967" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-72" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20100407.0477" offset="58" length="7">Divorce</trigger>
+      </event_mention>
+<event_mention id="em-85" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20100407.0477" offset="366" length="8">divorced</trigger>
+      </event_mention>
+<event_mention id="em-98" type="life" subtype="divorce" realis="actual">
+        <trigger source="AFP_ENG_20100407.0477" offset="634" length="7">Divorce</trigger>
+      </event_mention>
+<event_mention id="em-111" type="life" subtype="marry" realis="other">
+        <trigger source="AFP_ENG_20100407.0477" offset="892" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-124" type="life" subtype="marry" realis="other">
+        <trigger source="AFP_ENG_20100407.0477" offset="542" length="7">married</trigger>
+      </event_mention>
+<event_mention id="em-137" type="life" subtype="marry" realis="generic">
+        <trigger source="AFP_ENG_20100407.0477" offset="1078" length="7">wedding</trigger>
+      </event_mention>
+<event_mention id="em-150" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+        <trigger source="AFP_ENG_20100407.0477" offset="1183" length="4">quiz</trigger>
+      </event_mention>
+<event_mention id="em-163" type="transaction" subtype="transferownership" realis="actual" ways="involuntarynoforce">
+        <trigger source="AFP_ENG_20100407.0477" offset="1212" length="10">confiscate</trigger>
+      </event_mention>
+<event_mention id="em-176" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20100407.0477" offset="714" length="10">conference</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

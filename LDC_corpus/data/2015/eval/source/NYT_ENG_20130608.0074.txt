@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20130608.0074" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130608/20130608,491450de0ea85b0f964008f0310ef2f0.xml">
+<HEADLINE>
+OBAMA AND CHINESE PRESIDENT OPEN INFORMAL MEETINGS IN CALIFORNIA
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+PALM SPRINGS, Calif. - President Barack Obama and China’s new president, Xi Jinping, arrived at a famed desert estate here Friday evening for their unusually informal weekend meeting, starting with discussions of security issues that bedevil them, including North Korea’s nuclear threat, on which the United States sees a chance at greater cooperation.
+</P>
+<P>
+On Saturday, officials said, the leaders plan to delve into economic issues, including the United States’ accusation that Beijing has encouraged or at least tolerated cyberattacks on U.S. systems in which business and military secrets were stolen.
+</P>
+<P>
+On a day when the temperature here reached 110 degrees, Obama and Xi, along with their interpreters and closest aides, retreated to the comfort of the sprawling Sunnylands estate in nearby Rancho Mirage, built by the publishing magnate Walter H. Annenberg.
+</P>
+<P>
+On the question of tensions with North Korea, inflamed this year by a series of belligerent statements and actions from its young leader, Kim Jong Un, the administration has welcomed what officials have described as a growing impatience in China - on the part of Xi in particular - with its longstanding ally in Pyongyang. That has raised administration hopes of new cooperation.
+</P>
+<P>
+China voted with the rest of the U.N. Security Council to impose new sanctions on North Korea after it tested a nuclear device in February. And when a close adviser to Kim visited China last month, Xi bluntly told him that North Korea should resume international negotiations intended to force it to abandon its nuclear arsenal.
+</P>
+<P>
+Xi also appears to have invested heavily in the meetings here with Obama. Xi, who took office in March, told Obama’s departing national security adviser, Tom Donilon, who arranged the meetings, that the relationship between the United States and China had reached a critical juncture and that he wanted to develop “a new type of great power relationship.”
+</P>
+<P>
+China also offered its own gestures in advance of the Sunnylands summit meeting on one of the prickliest issues with the United States: its treatment of human rights. On Friday, only hours before the two leaders met, China granted passports to the mother and brother of Chen Guangcheng, the blind lawyer and activist whose flight from China last year turned into a diplomatic drama between the two countries.
+</P>
+</TEXT>
+</DOC>

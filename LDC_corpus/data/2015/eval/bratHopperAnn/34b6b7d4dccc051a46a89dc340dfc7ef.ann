@@ -1,0 +1,50 @@
+T1	Transaction_Transfer-Money 150 153	pay
+E168	Transaction_Transfer-Money:T1
+A1	Realis E168 Actual
+T2	Transaction_Transfer-Money 245 249	cost
+E255	Transaction_Transfer-Money:T2
+A2	Realis E255 Actual
+T3	Business_Declare-Bankruptcy 216 220	bust
+E557	Business_Declare-Bankruptcy:T3
+A3	Realis E557 Actual
+T4	Transaction_Transfer-Money 409 413	paid
+E194	Transaction_Transfer-Money:T4
+A4	Realis E194 Actual
+T5	Business_Declare-Bankruptcy 466 470	bust
+E106	Business_Declare-Bankruptcy:T5
+A5	Realis E106 Actual
+T6	Transaction_Transfer-Money 492 496	paid
+E420	Transaction_Transfer-Money:T6
+A6	Realis E420 Actual
+T7	Transaction_Transfer-Money 548 552	paid
+E37	Transaction_Transfer-Money:T7
+A7	Realis E37 Actual
+T8	Contact_Contact 622 630	approach
+E816	Contact_Contact:T8
+A8	Realis E816 Other
+T9	Contact_Correspondence 746 752	letter
+E339	Contact_Correspondence:T9
+A9	Realis E339 Other
+T10	Contact_Contact 888 895	replies
+E981	Contact_Contact:T10
+A10	Realis E981 Other
+T11	Transaction_Transfer-Money 1102 1108	refund
+E726	Transaction_Transfer-Money:T11
+A11	Realis E726 Other
+T12	Contact_Correspondence 1392 1400	feedback
+E514	Contact_Correspondence:T12
+A12	Realis E514 Actual
+T13	Transaction_Transfer-Money 509 513	loan
+E842	Transaction_Transfer-Money:T13
+A13	Realis E842 Actual
+T14	Transaction_Transfer-Money 716 720	loan
+E283	Transaction_Transfer-Money:T14
+A14	Realis E283 Actual
+T15	Transaction_Transfer-Money 760 764	loan
+E85	Transaction_Transfer-Money:T15
+A15	Realis E85 Generic
+T16	Contact_Correspondence 1424 1430	thread
+E430	Contact_Correspondence:T16
+A16	Realis E430 Other
+R1	Coreference Arg1:E168 Arg2:E255
+R2	Coreference Arg1:E842 Arg2:E283

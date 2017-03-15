@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000598" doc_id="bolt-eng-DF-199-192823-6755287" source_type="multi_post">
+<event_mention id="em-10" type="life" subtype="injure" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="583" length="8">tortured</trigger>
+      </event_mention>
+<event_mention id="em-23" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="1250" length="6">rescue</trigger>
+      </event_mention>
+<event_mention id="em-38" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="1737" length="6">posted</trigger>
+      </event_mention>
+<event_mention id="em-53" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="1772" length="4">post</trigger>
+      </event_mention>
+<event_mention id="em-96" type="transaction" subtype="transferownership" realis="actual" ways="canttell">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="64" length="7">rescues</trigger>
+      </event_mention>
+<event_mention id="em-109" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="1829" length="10">statements</trigger>
+      </event_mention>
+<event_mention id="em-124" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="2226" length="5">fatal</trigger>
+      </event_mention>
+<event_mention id="em-139" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-199-192823-6755287" offset="2232" length="12">insurrection</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

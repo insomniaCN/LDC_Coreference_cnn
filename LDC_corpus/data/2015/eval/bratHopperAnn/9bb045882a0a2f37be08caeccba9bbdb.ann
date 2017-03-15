@@ -1,0 +1,81 @@
+T1	Personnel_End-Position 132 134	Ex
+E293	Personnel_End-Position:T1
+A1	Realis E293 Actual
+T2	Personnel_End-Position 329 335	former
+E49	Personnel_End-Position:T2
+A2	Realis E49 Actual
+T3	Personnel_End-Position 987 991	past
+E318	Personnel_End-Position:T3
+A3	Realis E318 Actual
+T4	Life_Die 178 182	dies
+E541	Life_Die:T4
+A4	Realis E541 Actual
+T5	Life_Die 396 400	died
+E588	Life_Die:T5
+A5	Realis E588 Actual
+T6	Life_Die 445 456	passed away
+E37	Life_Die:T6
+A6	Realis E37 Actual
+T7	Life_Die 1340 1351	passed away
+E424	Life_Die:T7
+A7	Realis E424 Actual
+T8	Justice_Release-Parole 587 594	release
+E489	Justice_Release-Parole:T8
+A8	Realis E489 Actual
+T9	Justice_Release-Parole 1386 1394	released
+E835	Justice_Release-Parole:T9
+A9	Realis E835 Actual
+T10	Justice_Arrest-Jail 602 606	jail
+E36	Justice_Arrest-Jail:T10
+A10	Realis E36 Actual
+T11	Justice_Arrest-Jail 1400 1406	prison
+E772	Justice_Arrest-Jail:T11
+A11	Realis E772 Actual
+T12	Justice_Sentence 607 615	sentence
+E995	Justice_Sentence:T12
+A12	Realis E995 Actual
+T13	Justice_Sentence 841 849	sentence
+E816	Justice_Sentence:T13
+A13	Realis E816 Actual
+T14	Justice_Sentence 1482 1490	sentence
+E837	Justice_Sentence:T14
+A14	Realis E837 Actual
+T15	Justice_Trial-Hearing 713 718	tried
+E197	Justice_Trial-Hearing:T15
+A15	Realis E197 Actual
+T16	Contact_Contact 723 734	associating
+E600	Contact_Contact:T16
+A16	Realis E600 Other
+T17	Movement_Transport-Artifact 759 770	trafficking
+E252	Movement_Transport-Artifact:T17
+A17	Realis E252 Generic
+T18	Justice_Arrest-Jail 905 915	imprisoned
+E405	Justice_Arrest-Jail:T18
+A18	Realis E405 Actual
+T19	Contact_Contact 1133 1141	ordering
+E132	Contact_Contact:T19
+A19	Realis E132 Other
+T20	Life_Die 1146 1151	death
+E277	Life_Die:T20
+A20	Realis E277 Other
+T21	Conflict_Attack 1146 1151	death
+E103	Conflict_Attack:T21
+A21	Realis E103 Other
+T22	Transaction_Transfer-Money 1265 1269	fund
+E550	Transaction_Transfer-Money:T22
+A22	Realis E550 Other
+T23	Transaction_Transfer-Money 1240 1248	shifting
+E128	Transaction_Transfer-Money:T23
+A23	Realis E128 Other
+T24	Conflict_Attack 1270 1279	terrorist
+E136	Conflict_Attack:T24
+A24	Realis E136 Generic
+R1	Coreference Arg1:E293 Arg2:E49
+R2	Coreference Arg1:E49 Arg2:E318
+R3	Coreference Arg1:E541 Arg2:E588
+R4	Coreference Arg1:E588 Arg2:E37
+R5	Coreference Arg1:E37 Arg2:E424
+R6	Coreference Arg1:E489 Arg2:E835
+R7	Coreference Arg1:E36 Arg2:E772
+R8	Coreference Arg1:E995 Arg2:E816
+R9	Coreference Arg1:E816 Arg2:E837

@@ -1,0 +1,61 @@
+<DOC id="NYT_ENG_20130626.0136" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130626/20130626,7816680f70794fd51b1ed722f354be6b.xml">
+<HEADLINE>
+MARC RICH, PARDONED FINANCIER, DIES AT 78
+</HEADLINE>
+<TEXT>
+<P>
+Marc Rich, the former fugitive oil trader and founder of the commodities trading giant Glencore International, died on Wednesday in Lucerne, Switzerland. He was 78.
+</P>
+<P>
+The cause was a brain stroke at a hospital, according to a statement from his spokesman.
+</P>
+<P>
+Rich courted controversy throughout his colorful career, and was indicted by the U.S. in the early 1980s on charges of tax evasion and illegally trading with Iran.
+</P>
+<P>
+After being one of the country’s most famous fugitives for the next two decades, Rich eventually received a pardon from President Bill Clinton on his last day in office in early 2001.
+</P>
+<P>
+The pardon brought the oil trader back into the headlines after it was revealed that Rich’s former wife, Denise Eisenberg, had given donations to the Democratic Party in 2000, according to official records.
+</P>
+<P>
+Despite his notoriety, Rich, whose net worth was estimated at $2.5 billion, continued to work in the commodities industry, and founded Marc Rich &amp; Co., the precursor of Glencore International, the commodities trader, which he later sold to the company’s management team in 1993.
+</P>
+<P>
+Rich was born in Antwerp, Belgium, but moved to New York with his family to escape the rise of the Nazis in Germany.
+</P>
+<P>
+He began his career as a metals trader in the early 1970s, and gained prominence during the 1973-74 oil crisis when he circumvented the Arab oil embargo to sell oil to U.S. companies in desperate need of supplies at increasingly high prices.
+</P>
+<P>
+He continued to buy oil from Iran after the country’s 1979 Islamic revolution despite U.S. sanctions against the country, and remained unapologetic about his activities.
+</P>
+<P>
+“They respected the contracts,” Rich told Daniel Ammann, a Swiss journalist, in 2009, in reference to Iran’s national oil company. “We performed a service for them. We bought the oil, we handled the transport and we sold it. They couldn’t do it themselves, so we were able to do it.”
+</P>
+<P>
+His clients also included the apartheid regime of South Africa and the Sandinista government in Nicaragua.
+</P>
+<P>
+From 1973, Rich was similarly one of Israel’s most important oil suppliers for more than 20 years, and he held Israeli, Spanish and Belgian citizenship by the end of his life.
+</P>
+<P>
+In 1983, he fled from the U.S. to Switzerland after he was indicted on charges of fraud, trading with Iran and evading almost $50 million in taxes. All told, the offenses would have led to more than 300 years in prison.
+</P>
+<P>
+Over the years, Rich claimed that U.S. authorities had attempted several times to bring him to justice, including a plan, which was never carried out, to use a helicopter in Switzerland to capture him, according to a book published by Ammann in 2009.
+</P>
+<P>
+After leaving the U.S. and renouncing his citizenship, Rich sold many of his domestic business interests, including 20th Century Fox to Rupert Murdoch for $250 million in 1984.
+</P>
+<P>
+Glencore, the commodities company he founded, recently acquired the mining company Xstrata for around $30 billion, and has become a global giant in a number of commodities, including oil, iron ore and coal.
+</P>
+<P>
+“We are saddened to hear of the death of Marc. He was a friend and one of the great pioneers of the commodities trading industry,” Glencore-Xstrata’s current chief executive, Ivan Glasenberg, said in a statement. “Our deepest sympathies and condolences are with his family at this time.”
+</P>
+<P>
+He is expected to be buried in Israel on Thursday. He is survived by two daughters, Ilona Schacter-Rich and Danielle Kilstock Rich.
+</P>
+</TEXT>
+</DOC>

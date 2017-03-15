@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaaa0000000000000167" doc_id="77e92f84ed414a67a9da32fa389d8ded" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-233" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="155" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-40" type="conflict" subtype="attack" realis="other">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="376" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-399" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="771" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-404" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1835" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-665" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2263" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-492" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2463" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-527" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2497" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-153" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2583" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-499" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2676" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-102" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2785" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-636" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2844" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-488" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2876" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-453" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2993" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-156" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3392" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="conflict" subtype="attack" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3653" length="6">Murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-383" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="155" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-621" type="life" subtype="die" realis="other">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="376" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-734" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="771" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-917" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1835" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-6" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2263" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-27" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2463" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-819" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2497" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-122" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2583" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-551" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2676" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-407" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2785" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-315" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2844" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-354" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2876" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-585" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2993" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-865" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3392" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-119" type="life" subtype="die" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3653" length="6">Murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-988" type="justice" subtype="convict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="162" length="10">conviction</trigger>
+      </event_mention>
+      <event_mention id="em-741" type="justice" subtype="convict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="332" length="10">conviction</trigger>
+      </event_mention>
+      <event_mention id="em-370" type="justice" subtype="convict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="744" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-713" type="justice" subtype="convict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2239" length="6">Guilty</trigger>
+      </event_mention>
+      <event_mention id="em-380" type="justice" subtype="convict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3377" length="10">conviction</trigger>
+      </event_mention>
+      <event_mention id="em-883" type="justice" subtype="convict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3660" length="10">Conviction</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-954" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="176" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-341" type="justice" subtype="appeal" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="274" length="7">appeals</trigger>
+      </event_mention>
+      <event_mention id="em-630" type="justice" subtype="appeal" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="464" length="6">Appeal</trigger>
+      </event_mention>
+      <event_mention id="em-99" type="justice" subtype="appeal" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2609" length="7">Appeals</trigger>
+      </event_mention>
+      <event_mention id="em-257" type="justice" subtype="appeal" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3064" length="7">Appeals</trigger>
+      </event_mention>
+      <event_mention id="em-176" type="justice" subtype="appeal" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3104" length="7">Appeals</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-115" type="justice" subtype="appeal" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="314" length="8">appealed</trigger>
+      </event_mention>
+      <event_mention id="em-415" type="justice" subtype="appeal" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="636" length="6">appeal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-176">
+      <event_mention id="em-168" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="471" length="4">said</trigger>
+      </event_mention>
+      <event_mention id="em-840" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3122" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-290" type="justice" subtype="acquit" realis="other">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1764" length="9">Acquittal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-271">
+      <event_mention id="em-675" type="conflict" subtype="attack" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1275" length="9">murderous</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-286">
+      <event_mention id="em-313" type="life" subtype="die" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1275" length="9">murderous</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-340">
+      <event_mention id="em-758" type="conflict" subtype="attack" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1862" length="6">Murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-355">
+      <event_mention id="em-647" type="life" subtype="die" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1862" length="6">Murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-370">
+      <event_mention id="em-391" type="conflict" subtype="attack" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1913" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-716" type="conflict" subtype="attack" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3166" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-577" type="conflict" subtype="attack" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3449" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-876" type="conflict" subtype="attack" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3604" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-385">
+      <event_mention id="em-640" type="life" subtype="die" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="1913" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-409" type="life" subtype="die" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3166" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-53" type="life" subtype="die" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3449" length="6">Murder</trigger>
+      </event_mention>
+      <event_mention id="em-210" type="life" subtype="die" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3604" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-400">
+      <event_mention id="em-395" type="justice" subtype="convict" realis="other">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2160" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-649">
+      <event_mention id="em-45" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2919" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-690">
+      <event_mention id="em-559" type="justice" subtype="trialhearing" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3020" length="5">Trial</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-770">
+      <event_mention id="em-607" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3242" length="4">hand</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-824">
+      <event_mention id="em-832" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3425" length="6">Charge</trigger>
+      </event_mention>
+      <event_mention id="em-332" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3591" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-10" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="3679" length="6">charge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-956">
+      <event_mention id="em-738" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="526" length="9">discharge</trigger>
+      </event_mention>
+      <event_mention id="em-893" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="587" length="9">discharge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-971">
+      <event_mention id="em-260" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2404" length="5">carry</trigger>
+      </event_mention>
+      <event_mention id="em-16" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="77e92f84ed414a67a9da32fa389d8ded" offset="2946" length="7">carried</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

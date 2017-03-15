@@ -1,0 +1,81 @@
+T1	Conflict_Attack 310 314;320 325	drop bombs
+E1	Conflict_Attack:T1 
+A1	Realis E1 Other
+T2	Life_Die 550 557	killing
+E2	Life_Die:T2 
+A2	Realis E2 Generic
+T3	Conflict_Attack 590 598	Invasion
+E3	Conflict_Attack:T3 
+A3	Realis E3 Other
+T4	Life_Die 650 654	dead
+E4	Life_Die:T4 
+A4	Realis E4 Generic
+T5	Conflict_Attack 811 819	invasion
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Life_Die 859 870	elimination
+E6	Life_Die:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 1074 1078	fire
+E7	Conflict_Attack:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Ownership 1137 1143	return
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Other
+T9	Conflict_Attack 1238 1247	attacking
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 1338 1344	return
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Other
+T11	Conflict_Attack 1656 1660	Coup
+E11	Conflict_Attack:T11 
+A11	Realis E11 Other
+T12	Conflict_Attack 2309 2316;2321 2326	dropped bombs
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 2414 2421	dropped
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 2440 2445;2455 2462	bombs dropped
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Conflict_Attack 2496 2503	dropped
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Justice_Sue 2612 2616	sued
+E16	Justice_Sue:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 2721 2731	paying off
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Money 2801 2811	paying off
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Money 2870 2876	paying
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Actual
+T20	Justice_Sue 3005 3012	lawsuit
+E20	Justice_Sue:T20 
+A20	Realis E20 Actual
+T21	Justice_Arrest-Jail 3089 3097;3105 3112	taken to prisons
+E21	Justice_Arrest-Jail:T21 
+A21	Realis E21 Actual
+T22	Life_Injure 3119 3127	tortured
+E22	Life_Injure:T22 
+A22	Realis E22 Actual
+T23	Justice_Release-Parole 3239 3246	release
+E23	Justice_Release-Parole:T23 
+A23	Realis E23 Actual
+T24	Justice_Sue 3250 3254	sued
+E24	Justice_Sue:T24 
+A24	Realis E24 Actual
+T25	Justice_Sue 3397 3405	lawsuits
+E25	Justice_Sue:T25 
+A25	Realis E25 Generic
+T26	Conflict_Attack 786 794	invasion
+E26	Conflict_Attack:T26 
+A26	Realis E26 Generic
+T27	Conflict_Attack 1971 1974	war
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual

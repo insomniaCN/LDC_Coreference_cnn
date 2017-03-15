@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea550000000000000026" doc_id="NYT_ENG_20130604.0138" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-275" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="178" length="7">travels</trigger>
+      </event_mention>
+      <event_mention id="em-444" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="386" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-672" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="835" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-373" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130604.0138" offset="1176" length="4">goes</trigger>
+      </event_mention>
+      <event_mention id="em-736" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130604.0138" offset="2276" length="6">travel</trigger>
+      </event_mention>
+      <event_mention id="em-137" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="2431" length="7">travels</trigger>
+      </event_mention>
+      <event_mention id="em-596" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="2895" length="6">flight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-645" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="551" length="9">taxpayers</trigger>
+      </event_mention>
+      <event_mention id="em-961" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="2529" length="9">taxpayers</trigger>
+      </event_mention>
+      <event_mention id="em-875" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="2925" length="9">taxpayers</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-434" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="564" length="3">pay</trigger>
+      </event_mention>
+      <event_mention id="em-243" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="2540" length="7">expense</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-426" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130604.0138" offset="594" length="9">transport</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-185" type="personnel" subtype="elect" realis="other">
+        <trigger source="NYT_ENG_20130604.0138" offset="654" length="5">Elect</trigger>
+      </event_mention>
+      <event_mention id="em-728" type="personnel" subtype="elect" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="738" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-786" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="670" length="8">promised</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-133" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130604.0138" offset="939" length="6">travel</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-689" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="879" length="7">Selling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-140" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130604.0138" offset="993" length="7">flights</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-572" type="personnel" subtype="elect" realis="generic">
+        <trigger source="NYT_ENG_20130604.0138" offset="1087" length="7">elected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-212">
+      <event_mention id="em-44" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130604.0138" offset="1116" length="3">fly</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-478" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="1224" length="7">expense</trigger>
+      </event_mention>
+      <event_mention id="em-518" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="2873" length="6">paying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-583" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="1336" length="7">selling</trigger>
+      </event_mention>
+      <event_mention id="em-771" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="1536" length="4">Sale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-270">
+      <event_mention id="em-455" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="1378" length="4">made</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-298">
+      <event_mention id="em-362" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="2096" length="8">purchase</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-313">
+      <event_mention id="em-178" type="contact" subtype="contact" realis="other" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="2234" length="7">provide</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-341">
+      <event_mention id="em-330" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="2367" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-356">
+      <event_mention id="em-641" type="contact" subtype="contact" realis="generic" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="2386" length="11">spokeswoman</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-384">
+      <event_mention id="em-559" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="2459" length="11">predecessor</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-399">
+      <event_mention id="em-176" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="2517" length="8">traveled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-440">
+      <event_mention id="em-342" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="2648" length="5">noted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-455">
+      <event_mention id="em-670" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130604.0138" offset="2802" length="6">events</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-509">
+      <event_mention id="em-126" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="3002" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-524">
+      <event_mention id="em-642" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="3040" length="5">costs</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-539">
+      <event_mention id="em-644" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="3233" length="6">salary</trigger>
+      </event_mention>
+      <event_mention id="em-8" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="3255" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-567">
+      <event_mention id="em-764" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="3313" length="4">says</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-582">
+      <event_mention id="em-27" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130604.0138" offset="3408" length="7">Contact</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-597">
+      <event_mention id="em-159" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="879" length="7">Selling</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-612">
+      <event_mention id="em-701" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="NYT_ENG_20130604.0138" offset="956" length="3">fly</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-627">
+      <event_mention id="em-712" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130604.0138" offset="1271" length="9">in office</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-642">
+      <event_mention id="em-633" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="1336" length="7">selling</trigger>
+      </event_mention>
+      <event_mention id="em-348" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="1536" length="4">Sale</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-670">
+      <event_mention id="em-201" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130604.0138" offset="2096" length="8">purchase</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

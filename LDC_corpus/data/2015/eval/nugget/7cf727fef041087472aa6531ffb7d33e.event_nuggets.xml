@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaae0000000000000174" doc_id="7cf727fef041087472aa6531ffb7d33e" source_type="multi_post">
+  <event_mention id="em-98" type="justice" subtype="fine" realis="actual">
+    <trigger source="7cf727fef041087472aa6531ffb7d33e" offset="207" length="5">fined</trigger>
+  </event_mention>
+  <event_mention id="em-167" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7cf727fef041087472aa6531ffb7d33e" offset="652" length="6">firing</trigger>
+  </event_mention>
+  <event_mention id="em-183" type="justice" subtype="sentence" realis="actual">
+    <trigger source="7cf727fef041087472aa6531ffb7d33e" offset="170" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-531" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7cf727fef041087472aa6531ffb7d33e" offset="536" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-645" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7cf727fef041087472aa6531ffb7d33e" offset="613" length="5">swung</trigger>
+  </event_mention>
+  <event_mention id="em-791" type="conflict" subtype="attack" realis="actual">
+    <trigger source="7cf727fef041087472aa6531ffb7d33e" offset="323" length="8">attacked</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,28 @@
+<DOC id="NYT_ENG_20130427.0061" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130427/20130427,5857e1e62c419b2f4b89b7004ca64399.xml">
+<HEADLINE>
+FOUR BROTHERS DIE IN FIRE AT JORDAN CAMP FOR SYRIAN REFUGEES
+</HEADLINE>
+<TEXT>
+<P>
+JERUSALEM – Four young brothers who had fled the civil war in Syria were killed in a fire that engulfed four tents in the Zaatari refugee camp near Jordan’s northern border, the aid worker who runs the camp said Saturday.
+</P>
+<P>
+Kilian Kleinschmidt of the Office of the U.N. High Commissioner for Refugees said that there were conflicting reports as to whether the Friday night fire was started by a candle or an electrical short-circuit, but that he believed it was accidental, in contrast to previous fires that officials suspect were deliberately set to protest conditions in the camp.
+</P>
+<P>
+“This looks like a genuine fire,” said Kleinschmidt, director of the Zaatari camp. “This tragic incident highlights even more so how vulnerable the kids are in displacement and refuge.”
+</P>
+<P>
+Zaatari, the largest camp of Syrian refugees in the region, has more than 100,000 residents, nearly 60 percent of them children; more than half live in tents.
+</P>
+<P>
+Kleinschmidt said the four brothers from the Mubarak family – Salem, 6; Mahmoud, 5; Yasen, 4; and Mohammad, 3 – had suffered burns over 80 percent of their bodies and died in a local hospital, two Friday night and two Saturday.
+</P>
+<P>
+Kleinschmidt said residents from the area of the camp where the fire broke out had stormed the registration compound Saturday morning to demand that their tents be replaced by the prefabricated units known as caravans. After a series of meetings, Kleinschmidt said, his staff agreed to provide caravans immediately to about half the refugees in the area if they moved to a less crowded spot.
+</P>
+<P>
+“We came to that deal,” he said. “The main thing for me was to keep peace there.”
+</P>
+</TEXT>
+</DOC>

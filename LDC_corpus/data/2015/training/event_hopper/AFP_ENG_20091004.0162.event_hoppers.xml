@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589761f0000000000000005" doc_id="AFP_ENG_20091004.0162" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-30" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="196" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-43" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="72" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-56" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="401" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-69" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="512" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-82" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="798" length="8">fatality</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-95" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="105" length="5">clash</trigger>
+      </event_mention>
+      <event_mention id="em-108" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="243" length="7">clashed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-121" type="life" subtype="injure" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="573" length="8">injuries</trigger>
+      </event_mention>
+      <event_mention id="em-134" type="life" subtype="injure" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="206" length="8">injuries</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-147" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="857" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-160" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="977" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-173" type="life" subtype="injure" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="632" length="7">injured</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-186" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="652" length="10">demolished</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-199" type="conflict" subtype="attack" realis="generic">
+        <trigger source="AFP_ENG_20091004.0162" offset="899" length="8">violence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-212" type="life" subtype="die" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="986" length="7">claimed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-225" type="conflict" subtype="attack" realis="actual">
+        <trigger source="AFP_ENG_20091004.0162" offset="722" length="6">ablaze</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-238" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091004.0162" offset="356" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-251" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20091004.0162" offset="483" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-277">
+      <event_mention id="em-264" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20091004.0162" offset="438" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-292">
+      <event_mention id="em-279" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20091004.0162" offset="325" length="5">match</trigger>
+      </event_mention>
+      <event_mention id="em-294" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20091004.0162" offset="750" length="5">match</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-320">
+      <event_mention id="em-307" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="AFP_ENG_20091004.0162" offset="930" length="7">matches</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,159 @@
+T1	Movement_Transport-Person 76 82	REMOVE
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other
+T2	Justice_Charge-Indict 106 113	CHARGES
+E2	Justice_Charge-Indict:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 268 275	removed
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Justice_Charge-Indict 312 319	charges
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 330 335	abuse
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 368 376	returned
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 482 490	traveled
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 662 671	assaulted
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Life_Die 944 950	deaths
+E9	Life_Die:T9 
+A9	Realis E9 Generic
+T10	Movement_Transport-Person 1117 1121	sent
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Justice_Charge-Indict 1475 1482	charged
+E11	Justice_Charge-Indict:T11 
+A11	Realis E11 Actual
+T12	Justice_Convict 1554 1563	convicted
+E12	Justice_Convict:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 1572 1576	rape
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 1726 1733	assault
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Justice_Arrest-Jail 83 90	INMATES
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 100 105	ABUSE
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Justice_Arrest-Jail 150 156	prison
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Generic
+T18	Contact_Communicate 167 171	said
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T19	Justice_Arrest-Jail 217 224	inmates
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Actual
+T20	Justice_Arrest-Jail 253 259	prison
+E20	Justice_Arrest-Jail:T20 
+A20	Realis E20 Generic
+T21	Justice_Arrest-Jail 355 362	inmates
+E21	Justice_Arrest-Jail:T21 
+A21	Realis E21 Actual
+T22	Contact_Communicate 518 529	accusations
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Justice_Arrest-Jail 535 542	inmates
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Actual
+T24	Justice_Arrest-Jail 551 557	prison
+E24	Justice_Arrest-Jail:T24 
+A24	Realis E24 Generic
+T25	Justice_Arrest-Jail 680 686	prison
+E25	Justice_Arrest-Jail:T25 
+A25	Realis E25 Generic
+T26	Justice_Arrest-Jail 818 825	prisons
+E26	Justice_Arrest-Jail:T26 
+A26	Realis E26 Generic
+T27	Conflict_Attack 912 919	abusive
+E27	Conflict_Attack:T27 
+A27	Realis E27 Generic
+T28	Justice_Arrest-Jail 1036 1042	prison
+E28	Justice_Arrest-Jail:T28 
+A28	Realis E28 Generic
+T29	Justice_Arrest-Jail 1122 1129	inmates
+E29	Justice_Arrest-Jail:T29 
+A29	Realis E29 Actual
+T30	Justice_Arrest-Jail 1169 1175	inmate
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Generic
+T31	Transaction_Transfer-Money 1245 1250	costs
+E31	Transaction_Transfer-Money:T31 
+A31	Realis E31 Generic
+T32	Justice_Arrest-Jail 1308 1314	prison
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Generic
+T33	Movement_Transport-Person 1336 1342	travel
+E33	Movement_Transport-Person:T33 
+A33	Realis E33 Generic
+T34	Justice_Arrest-Jail 1505 1512	inmates
+E34	Justice_Arrest-Jail:T34 
+A34	Realis E34 Actual
+T35	Justice_Arrest-Jail 1611 1618	inmates
+E35	Justice_Arrest-Jail:T35 
+A35	Realis E35 Actual
+T36	Contact_Communicate 1706 1710	said
+E36	Contact_Communicate:T36 
+A36	Realis E36 Actual
+T37	Justice_Arrest-Jail 1949 1955	inmate
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Generic
+T38	Justice_Arrest-Jail 1434 1440	prison
+E38	Justice_Arrest-Jail:T38 
+A38	Realis E38 Generic
+T39	Contact_Meet 1760 1764	jury
+E39	Contact_Meet:T39 
+A39	Realis E39 Other
+T40	Justice_Arrest-Jail 1916 1922	prison
+E40	Justice_Arrest-Jail:T40 
+A40	Realis E40 Generic
+T41	Contact_Meet 1932 1940	have sex
+E41	Contact_Meet:T41 
+A41	Realis E41 Generic
+T42	Justice_Arrest-Jail 2195 2201	prison
+E42	Justice_Arrest-Jail:T42 
+A42	Realis E42 Generic
+T43	Contact_Communicate 2263 2270	arguing
+E43	Contact_Communicate:T43 
+A43	Realis E43 Generic
+T44	Justice_Arrest-Jail 2276 2289	incarceration
+E44	Justice_Arrest-Jail:T44 
+A44	Realis E44 Generic
+T45	Justice_Arrest-Jail 2403 2410	prisons
+E45	Justice_Arrest-Jail:T45 
+A45	Realis E45 Generic
+T46	Transaction_Transfer-Money 2458 2462	cost
+E46	Transaction_Transfer-Money:T46 
+A46	Realis E46 Generic
+T47	Justice_Arrest-Jail 2491 2497	inmate
+E47	Justice_Arrest-Jail:T47 
+A47	Realis E47 Generic
+T48	Justice_Arrest-Jail 2532 2539	prisons
+E48	Justice_Arrest-Jail:T48 
+A48	Realis E48 Generic
+T49	Contact_Communicate 2694 2697	say
+E49	Contact_Communicate:T49 
+A49	Realis E49 Generic
+T50	Justice_Arrest-Jail 2712 2719	prisons
+E50	Justice_Arrest-Jail:T50 
+A50	Realis E50 Generic
+T51	Transaction_Transfer-Money 2750 2754	cost
+E51	Transaction_Transfer-Money:T51 
+A51	Realis E51 Generic
+T52	Justice_Arrest-Jail 2794 2801	inmates
+E52	Justice_Arrest-Jail:T52 
+A52	Realis E52 Actual
+T53	Justice_Arrest-Jail 2820 2827	prisons
+E53	Justice_Arrest-Jail:T53 
+A53	Realis E53 Generic

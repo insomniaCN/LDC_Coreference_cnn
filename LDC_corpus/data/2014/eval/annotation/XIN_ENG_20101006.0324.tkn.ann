@@ -1,0 +1,30 @@
+T1	Transaction_Transfer-Ownership 75 79	buys
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T3	Transaction_Transfer-Ownership 263 272	purchased
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Ownership 379 386	acquire
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Actual
+T6	Transaction_Transfer-Ownership 524 535	transaction
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 593 605	acquisitions
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Generic
+T9	Transaction_Transfer-Money 743 747	cost
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Actual
+T11	Transaction_Transfer-Ownership 878 889	acquisition
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 949 958	purchased
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T14	Transaction_Transfer-Money 1394 1400	income
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 1641 1647	income
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Actual

@@ -1,0 +1,22 @@
+<DOC id= " NYT_ENG_20130916.0160 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130916 / 20130916,9 a6bf3dc301dd7ee58f8b165be6644 a1 . xml " > 
+<HEADLINE> 
+SHOOTING REPORTED AT WASHINGTON NAVY YARD 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+This article is part of TIMES EXPRESS . It is a condensed version of a story that will appear in tomorrow ’s New York Times . ) ; 
+< / P> 
+<P> 
+WASHINGTON - A shooting at a naval headquarters here on Monday left at least four people injured , including one police officer , the police said .
+< / P> 
+<P> 
+The officer , whose condition was unknown , was taken to a hospital . The gunman was barricaded , the police said .
+< / P> 
+<P> 
+An individual fired three shots at 8:20 a.m. at the Washington Navy Yard , in the southeastern part of the city , the Navy said on Twitter . Workers were told to shelter in place , and emergency personnel were on the scene .
+< / P> 
+<P> 
+The shooting occurred at the Naval Sea Systems Command ’s headquarters , where about 3,000 service members , civilians and contractors work on the Navy ’s fleet , the Navy said in a statement .
+< / P> 
+< / TEXT> 
+< / DOC

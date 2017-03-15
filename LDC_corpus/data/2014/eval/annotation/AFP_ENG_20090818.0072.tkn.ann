@@ -1,0 +1,144 @@
+T1	Justice_Appeal 96 102	appeal
+E1	Justice_Appeal:T1 
+A1	Realis E1 Actual
+T4	Justice_Appeal 285 291	appeal
+E4	Justice_Appeal:T4 
+A4	Realis E4 Actual
+T5	Justice_Convict 301 311	conviction
+E5	Justice_Convict:T5 
+A5	Realis E5 Actual
+T6	Justice_Release-Parole 405 409	free
+E6	Justice_Release-Parole:T6 
+A6	Realis E6 Other
+T7	Justice_Arrest-Jail 514 520	jailed
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Life_Die 525 532	killing
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 554 560	moving
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Other
+T10	Justice_Arrest-Jail 577 581	jail
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Generic
+T11	Justice_Release-Parole 585 592	freeing
+E11	Justice_Release-Parole:T11 
+A11	Realis E11 Other
+T12	Justice_Arrest-Jail 625 632;637 639;651 657	keeping in prison
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Other
+T13	Justice_Convict 734 743	convicted
+E13	Justice_Convict:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 754 764	blowing up
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Justice_Arrest-Jail 833 847	remain in jail
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T16	Justice_Arrest-Jail 1010 1014;996 1005	term serve out
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Other
+T17	Justice_Arrest-Jail 1028 1035	serving
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Actual
+T18	Movement_Transport-Person 1140 1146	return
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other
+T19	Justice_Appeal 1235 1241	appeal
+E19	Justice_Appeal:T19 
+A19	Realis E19 Actual
+T20	Life_Die 1507 1510	die
+E20	Life_Die:T20 
+A20	Realis E20 Other
+T21	Movement_Transport-Person 1605 1609	sent
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Other
+T22	Movement_Transport-Person 1632 1640	transfer
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Generic
+T23	Justice_Appeal 1735 1741	appeal
+E23	Justice_Appeal:T23 
+A23	Realis E23 Actual
+T24	Justice_Sentence 1790 1798	sentence
+E24	Justice_Sentence:T24 
+T25	Justice_Trial-Hearing 1896 1903	hearing
+E25	Justice_Trial-Hearing:T25 
+A24	Realis E25 Actual
+T26	Justice_Trial-Hearing 2116 2121	trial
+E26	Justice_Trial-Hearing:T26 
+A25	Realis E26 Actual
+T27	Justice_Appeal 2228 2234	appeal
+E27	Justice_Appeal:T27 
+A26	Realis E27 Actual
+T28	Justice_Sentence 2247 2255	sentence
+E28	Justice_Sentence:T28 
+A27	Realis E28 Actual
+T29	Justice_Appeal 2394 2400	appeal
+E29	Justice_Appeal:T29 
+A28	Realis E29 Actual
+T30	Justice_Release-Parole 2459 2466	release
+E30	Justice_Release-Parole:T30 
+A29	Realis E30 Other
+T31	Justice_Release-Parole 2602 2607	freed
+E31	Justice_Release-Parole:T31 
+A30	Realis E31 Other
+T32	Justice_Trial-Hearing 2672 2679	hearing
+E32	Justice_Trial-Hearing:T32 
+A31	Realis E32 Actual
+T33	Contact_Meet 2712 2715	met
+E33	Contact_Meet:T33 
+A32	Realis E33 Actual
+T34	Justice_Release-Parole 2753 2766	grant freedom
+E34	Justice_Release-Parole:T34 
+A33	Realis E34 Other
+T35	Justice_Sentence 2813 2822	sentenced
+E35	Justice_Sentence:T35 
+A34	Realis E35 Actual
+T37	Justice_Arrest-Jail 3578 3594	stay behind bars
+E37	Justice_Arrest-Jail:T37 
+A36	Realis E37 Other
+T38	Contact_Communicate 3658 3664	letter
+E38	Contact_Communicate:T38 
+A37	Realis E38 Actual
+T39	Justice_Sentence 3715 3723	sentence
+E39	Justice_Sentence:T39 
+A38	Realis E39 Actual
+T40	Justice_Appeal 3802 3808	appeal
+E40	Justice_Appeal:T40 
+A39	Realis E40 Actual
+T41	Justice_Release-Parole 3853 3860	release
+E41	Justice_Release-Parole:T41 
+A40	Realis E41 Other
+T42	Justice_Appeal 3914 3920	appeal
+E42	Justice_Appeal:T42 
+A41	Realis E42 Actual
+T43	Conflict_Attack 3960 3967	bombing
+E43	Conflict_Attack:T43 
+A42	Realis E43 Actual
+T44	Justice_Appeal 4124 4130	appeal
+E44	Justice_Appeal:T44 
+A43	Realis E44 Actual
+T45	Life_Die 4181 4185	died
+E45	Life_Die:T45 
+A44	Realis E45 Actual
+T46	Conflict_Attack 4193 4200	bombing
+E46	Conflict_Attack:T46 
+A45	Realis E46 Actual
+T2	Justice_Convict 1250 1260	conviction
+E2	Justice_Convict:T2 
+A2	Realis E2 Actual
+A3	Realis E24 Actual
+T3	Movement_Transport-Person 2302 2314	repatriation
+E3	Movement_Transport-Person:T3 
+A46	Realis E3 Other
+T47	Movement_Transport-Person 2334 2342	transfer
+E47	Movement_Transport-Person:T47 
+A47	Realis E47 Generic
+T48	Contact_Meet 2731 2740	discussed
+E48	Contact_Meet:T48 
+A48	Realis E48 Actual
+T36	Contact_Communicate 3494 3500	called
+E36	Contact_Communicate:T36 
+A35	Realis E36 Actual

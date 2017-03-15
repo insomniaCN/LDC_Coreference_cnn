@@ -1,0 +1,57 @@
+T1	Life_Die 308 314	killer
+E919	Life_Die:T1
+A1	Realis E919 Actual
+T2	Life_Die 842 848	killer
+E50	Life_Die:T2
+A2	Realis E50 Actual
+T3	Conflict_Attack 308 314	killer
+E223	Conflict_Attack:T3
+A3	Realis E223 Actual
+T4	Conflict_Attack 842 848	killer
+E838	Conflict_Attack:T4
+A4	Realis E838 Actual
+T5	Justice_Execute 340 348	executed
+E199	Justice_Execute:T5
+A5	Realis E199 Actual
+T6	Justice_Execute 526 534	executed
+E583	Justice_Execute:T6
+A6	Realis E583 Actual
+T7	Justice_Execute 571 580	execution
+E415	Justice_Execute:T7
+A7	Realis E415 Actual
+T8	Justice_Appeal 684 691	appeals
+E631	Justice_Appeal:T8
+A8	Realis E631 Actual
+T9	Contact_Broadcast 504 512	reported
+E238	Contact_Broadcast:T9
+A9	Realis E238 Actual
+T10	Life_Die 340 348	executed
+E3	Life_Die:T10
+A10	Realis E3 Actual
+T11	Life_Die 526 534	executed
+E304	Life_Die:T11
+A11	Realis E304 Actual
+T12	Life_Die 571 580	execution
+E141	Life_Die:T12
+A12	Realis E141 Actual
+T13	Life_Die 889 894	death
+E457	Life_Die:T13
+A13	Realis E457 Generic
+T14	Justice_Execute 889 894	death
+E633	Justice_Execute:T14
+A14	Realis E633 Generic
+T15	Justice_Sentence 895 902	penalty
+E493	Justice_Sentence:T15
+A15	Realis E493 Generic
+T16	Contact_Broadcast 185 190	asked
+E250	Contact_Broadcast:T16
+A16	Realis E250 Actual
+T17	Contact_Contact 415 423	requests
+E9	Contact_Contact:T17
+A17	Realis E9 Actual
+R1	Coreference Arg1:E919 Arg2:E50
+R2	Coreference Arg1:E223 Arg2:E838
+R3	Coreference Arg1:E199 Arg2:E583
+R4	Coreference Arg1:E583 Arg2:E415
+R5	Coreference Arg1:E3 Arg2:E304
+R6	Coreference Arg1:E304 Arg2:E141

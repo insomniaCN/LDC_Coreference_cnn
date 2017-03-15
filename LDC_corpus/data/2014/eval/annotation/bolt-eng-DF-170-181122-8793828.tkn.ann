@@ -1,0 +1,117 @@
+T1	Conflict_Attack 80 88	shooting
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 203 207	dead
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 376 380	shot
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Injure 450 456	trauma
+E4	Life_Injure:T4 
+A4	Realis E4 Actual
+T5	Life_Die 561 565	dead
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Injure 578 585	wounded
+E6	Life_Injure:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 830 838	shooting
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 3319 3326	shooter
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 3342 3349	used to
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 3871 3878	shooter
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Personnel_End-Position 3894 3906	used to work
+E11	Personnel_End-Position:T11 
+A11	Realis E11 Actual
+T12	Personnel_End-Position 4669 4674	fired
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Actual
+T13	Personnel_End-Position 5060 5065	fired
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Actual
+T14	Life_Die 5261 5267	killed
+E14	Life_Die:T14 
+A14	Realis E14 Other
+T15	Conflict_Attack 5511 5518	shooter
+E15	Conflict_Attack:T15 
+A15	Realis E15 Actual
+T16	Personnel_End-Position 5534 5546	used to work
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Actual
+T17	Conflict_Attack 6166 6173	shooter
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 6489 6496	shooter
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Personnel_End-Position 6512 6524	used to work
+E19	Personnel_End-Position:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 7144 7151	shooter
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 7497 7504	Shooter
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Justice_Arrest-Jail 7514 7522	arrested
+E22	Justice_Arrest-Jail:T22 
+A22	Realis E22 Actual
+T23	Life_Die 7676 7680	kill
+E23	Life_Die:T23 
+A23	Realis E23 Other
+T24	Life_Die 8038 8042	dead
+E24	Life_Die:T24 
+A24	Realis E24 Actual
+T25	Justice_Arrest-Jail 8050 8060	in custody
+E25	Justice_Arrest-Jail:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 9413 9421	shooting
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 9424 9432	Shooting
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Life_Injure 9473 9477	hurt
+E28	Life_Injure:T28 
+A28	Realis E28 Actual
+T29	Life_Die 9482 9486	dead
+E29	Life_Die:T29 
+A29	Realis E29 Actual
+T30	Life_Die 9737 9741	dead
+E30	Life_Die:T30 
+A30	Realis E30 Actual
+T31	Life_Injure 9746 9753	wounded
+E31	Life_Injure:T31 
+A31	Realis E31 Actual
+T32	Conflict_Attack 9772 9780	shooting
+E32	Conflict_Attack:T32 
+A32	Realis E32 Actual
+T33	Justice_Arrest-Jail 9791 9801	in custody
+E33	Justice_Arrest-Jail:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 10577 10585	shooting
+E34	Conflict_Attack:T34 
+A34	Realis E34 Generic
+T35	Life_Die 12480 12486	killed
+E35	Life_Die:T35 
+A35	Realis E35 Actual
+T36	Life_Injure 260 268	critical
+E36	Life_Injure:T36 
+A36	Realis E36 Actual
+T37	Life_Injure 1073 1080	injured
+E37	Life_Injure:T37 
+A37	Realis E37 Actual
+T38	Conflict_Attack 1017 1025	Shooting
+E38	Conflict_Attack:T38 
+A38	Realis E38 Actual
+T39	Conflict_Attack 1006 1014	shooting
+E39	Conflict_Attack:T39 
+A39	Realis E39 Actual

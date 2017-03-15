@@ -1,0 +1,210 @@
+T1	Life_Die 2263 2269	Murder
+E6	Life_Die:T1
+A1	Realis E6 Actual
+T2	Justice_Charge-Indict 3679 3685	charge
+E10	Justice_Charge-Indict:T2
+A2	Realis E10 Actual
+T3	Movement_Transport-Artifact 2946 2953	carried
+E16	Movement_Transport-Artifact:T3
+A3	Realis E16 Actual
+T4	Life_Die 2463 2469	murder
+E27	Life_Die:T4
+A4	Realis E27 Actual
+T5	Conflict_Attack 376 382	murder
+E40	Conflict_Attack:T5
+A5	Realis E40 Other
+T6	Contact_Broadcast 2919 2923	said
+E45	Contact_Broadcast:T6
+A6	Realis E45 Actual
+T7	Life_Die 3449 3455	Murder
+E53	Life_Die:T7
+A7	Realis E53 Generic
+T8	Conflict_Attack 3653 3659	Murder
+E79	Conflict_Attack:T8
+A8	Realis E79 Actual
+T9	Justice_Appeal 2609 2616	Appeals
+E99	Justice_Appeal:T9
+A9	Realis E99 Generic
+T10	Conflict_Attack 2785 2791	murder
+E102	Conflict_Attack:T10
+A10	Realis E102 Actual
+T11	Justice_Appeal 314 322	appealed
+E115	Justice_Appeal:T11
+A11	Realis E115 Actual
+T12	Life_Die 3653 3659	Murder
+E119	Life_Die:T12
+A12	Realis E119 Actual
+T13	Life_Die 2583 2589	Murder
+E122	Life_Die:T13
+A13	Realis E122 Actual
+T14	Conflict_Attack 2583 2589	Murder
+E153	Conflict_Attack:T14
+A14	Realis E153 Actual
+T15	Conflict_Attack 3392 3398	Murder
+E156	Conflict_Attack:T15
+A15	Realis E156 Actual
+T16	Contact_Broadcast 471 475	said
+E168	Contact_Broadcast:T16
+A16	Realis E168 Actual
+T17	Justice_Appeal 3104 3111	Appeals
+E176	Justice_Appeal:T17
+A17	Realis E176 Generic
+T18	Life_Die 3604 3610	murder
+E210	Life_Die:T18
+A18	Realis E210 Generic
+T19	Conflict_Attack 155 161	murder
+E233	Conflict_Attack:T19
+A19	Realis E233 Actual
+T20	Justice_Appeal 3064 3071	Appeals
+E257	Justice_Appeal:T20
+A20	Realis E257 Generic
+T21	Movement_Transport-Artifact 2404 2409	carry
+E260	Movement_Transport-Artifact:T21
+A21	Realis E260 Actual
+T22	Justice_Acquit 1764 1773	Acquittal
+E290	Justice_Acquit:T22
+A22	Realis E290 Other
+T23	Life_Die 1275 1284	murderous
+E313	Life_Die:T23
+A23	Realis E313 Generic
+T24	Life_Die 2844 2850	Murder
+E315	Life_Die:T24
+A24	Realis E315 Actual
+T25	Justice_Charge-Indict 3591 3598	charged
+E332	Justice_Charge-Indict:T25
+A25	Realis E332 Actual
+T26	Justice_Appeal 274 281	appeals
+E341	Justice_Appeal:T26
+A26	Realis E341 Generic
+T27	Life_Die 2876 2882	Murder
+E354	Life_Die:T27
+A27	Realis E354 Actual
+T28	Justice_Convict 744 753	convicted
+E370	Justice_Convict:T28
+A28	Realis E370 Actual
+T29	Justice_Convict 3377 3387	conviction
+E380	Justice_Convict:T29
+A29	Realis E380 Actual
+T30	Life_Die 155 161	murder
+E383	Life_Die:T30
+A30	Realis E383 Actual
+T31	Conflict_Attack 1913 1919	Murder
+E391	Conflict_Attack:T31
+A31	Realis E391 Generic
+T32	Justice_Convict 2160 2169	convicted
+E395	Justice_Convict:T32
+A32	Realis E395 Other
+T33	Conflict_Attack 771 777	murder
+E399	Conflict_Attack:T33
+A33	Realis E399 Actual
+T34	Conflict_Attack 1835 1841	Murder
+E404	Conflict_Attack:T34
+A34	Realis E404 Actual
+T35	Life_Die 2785 2791	murder
+E407	Life_Die:T35
+A35	Realis E407 Actual
+T36	Life_Die 3166 3172	Murder
+E409	Life_Die:T36
+A36	Realis E409 Generic
+T37	Justice_Appeal 636 642	appeal
+E415	Justice_Appeal:T37
+A37	Realis E415 Actual
+T38	Conflict_Attack 2993 2999	murder
+E453	Conflict_Attack:T38
+A38	Realis E453 Actual
+T39	Conflict_Attack 2876 2882	Murder
+E488	Conflict_Attack:T39
+A39	Realis E488 Actual
+T40	Conflict_Attack 2463 2469	murder
+E492	Conflict_Attack:T40
+A40	Realis E492 Actual
+T41	Conflict_Attack 2676 2682	murder
+E499	Conflict_Attack:T41
+A41	Realis E499 Actual
+T42	Conflict_Attack 2497 2503	murder
+E527	Conflict_Attack:T42
+A42	Realis E527 Actual
+T43	Life_Die 2676 2682	murder
+E551	Life_Die:T43
+A43	Realis E551 Actual
+T44	Justice_Trial-Hearing 3020 3025	Trial
+E559	Justice_Trial-Hearing:T44
+A44	Realis E559 Generic
+T45	Conflict_Attack 3449 3455	Murder
+E577	Conflict_Attack:T45
+A45	Realis E577 Generic
+T46	Life_Die 2993 2999	murder
+E585	Life_Die:T46
+A46	Realis E585 Actual
+T47	Movement_Transport-Artifact 3242 3246	hand
+E607	Movement_Transport-Artifact:T47
+A47	Realis E607 Generic
+T48	Life_Die 376 382	murder
+E621	Life_Die:T48
+A48	Realis E621 Other
+T49	Justice_Appeal 464 470	Appeal
+E630	Justice_Appeal:T49
+A49	Realis E630 Generic
+T50	Conflict_Attack 2844 2850	Murder
+E636	Conflict_Attack:T50
+A50	Realis E636 Actual
+T51	Life_Die 1913 1919	Murder
+E640	Life_Die:T51
+A51	Realis E640 Generic
+T52	Life_Die 1862 1868	Murder
+E647	Life_Die:T52
+A52	Realis E647 Generic
+T53	Conflict_Attack 2263 2269	Murder
+E665	Conflict_Attack:T53
+A53	Realis E665 Actual
+T54	Conflict_Attack 1275 1284	murderous
+E675	Conflict_Attack:T54
+A54	Realis E675 Generic
+T55	Justice_Convict 2239 2245	Guilty
+E713	Justice_Convict:T55
+A55	Realis E713 Actual
+T56	Conflict_Attack 3166 3172	Murder
+E716	Conflict_Attack:T56
+A56	Realis E716 Generic
+T57	Life_Die 771 777	murder
+E734	Life_Die:T57
+A57	Realis E734 Actual
+T58	Justice_Release-Parole 526 535	discharge
+E738	Justice_Release-Parole:T58
+A58	Realis E738 Other
+T59	Justice_Convict 332 342	conviction
+E741	Justice_Convict:T59
+A59	Realis E741 Actual
+T60	Conflict_Attack 1862 1868	Murder
+E758	Conflict_Attack:T60
+A60	Realis E758 Generic
+T61	Life_Die 2497 2503	murder
+E819	Life_Die:T61
+A61	Realis E819 Actual
+T62	Justice_Charge-Indict 3425 3431	Charge
+E832	Justice_Charge-Indict:T62
+A62	Realis E832 Actual
+T63	Contact_Broadcast 3122 3126	said
+E840	Contact_Broadcast:T63
+A63	Realis E840 Actual
+T64	Life_Die 3392 3398	Murder
+E865	Life_Die:T64
+A64	Realis E865 Actual
+T65	Conflict_Attack 3604 3610	murder
+E876	Conflict_Attack:T65
+A65	Realis E876 Generic
+T66	Justice_Convict 3660 3670	Conviction
+E883	Justice_Convict:T66
+A66	Realis E883 Actual
+T67	Justice_Release-Parole 587 596	discharge
+E893	Justice_Release-Parole:T67
+A67	Realis E893 Other
+T68	Life_Die 1835 1841	Murder
+E917	Life_Die:T68
+A68	Realis E917 Actual
+T69	Personnel_End-Position 176 182	former
+E954	Personnel_End-Position:T69
+A69	Realis E954 Actual
+T70	Justice_Convict 162 172	conviction
+E988	Justice_Convict:T70
+A70	Realis E988 Actual

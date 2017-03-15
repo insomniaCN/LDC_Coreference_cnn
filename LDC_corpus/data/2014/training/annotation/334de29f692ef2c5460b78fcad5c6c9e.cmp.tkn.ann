@@ -1,0 +1,60 @@
+T1	Life_Die 141 145	died
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 285 290	spoke
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 654 658	told
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 689 693	left
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Life_Die 1616 1623	killing
+E5	Life_Die:T5 
+A5	Realis E5 Other
+T6	Contact_Meet 1902 1904	go
+E6	Contact_Meet:T6 
+A6	Realis E6 Actual
+T7	Life_Die 2301 2305	gone
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 2481 2485	tell
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 2562 2565	say
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 2586 2590	post
+E10	Contact_Communicate:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 2693 2697	told
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 2950 2955;2964 2970	offer advice
+E12	Contact_Communicate:T12 
+A12	Realis E12 Other
+T13	Contact_Communicate 3074 3077	say
+E13	Contact_Communicate:T13 
+A13	Realis E13 Other
+T14	Life_Die 3613 3619	passed
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Movement_Transport-Person 3665 3669	went
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Actual
+T16	Contact_Communicate 3692 3698	phoned
+E16	Contact_Communicate:T16 
+A16	Realis E16 Actual
+T17	Life_Die 3749 3753	gone
+E17	Life_Die:T17 
+A17	Realis E17 Actual
+T18	Life_Die 4137 4144	passing
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Contact_Meet 4242 4253	counselling
+E19	Contact_Meet:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 4319 4330	counselling
+E20	Contact_Communicate:T20 
+A20	Realis E20 Actual

@@ -1,0 +1,80 @@
+T1	Contact_Communicate 446 452	called
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 474 479	spoke
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 499 508	expressed
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 572 576	said
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 649 653	said
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 657 661	call
+E6	Contact_Communicate:T6 
+A6	Realis E6 Other
+T7	Movement_Transport-Person 826 828	go
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Movement_Transport-Person 933 935	go
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Contact_Meet 949 952	met
+E9	Contact_Meet:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 1016 1021	going
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Other
+T11	Movement_Transport-Person 1073 1080	show up
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Other
+T12	Movement_Transport-Person 1382 1387	going
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Other
+T13	Contact_Meet 1550 1555	asked
+E13	Contact_Meet:T13 
+A13	Questionable E13 Realis
+A14	Realis E13 Generic
+T14	Movement_Transport-Person 1609 1611	go
+E14	Movement_Transport-Person:T14 
+A15	Realis E14 Other
+T15	Contact_Meet 1789 1792	met
+E15	Contact_Meet:T15 
+A16	Realis E15 Actual
+T16	Movement_Transport-Person 1848 1850	go
+E16	Movement_Transport-Person:T16 
+A17	Realis E16 Other
+T17	Movement_Transport-Person 2018 2020	go
+E17	Movement_Transport-Person:T17 
+A18	Realis E17 Other
+T18	Contact_Meet 2110 2117	mention
+E18	Contact_Meet:T18 
+A19	Realis E18 Other
+T19	Contact_Meet 2432 2435	ask
+E19	Contact_Meet:T19 
+A20	Realis E19 Generic
+T20	Movement_Transport-Person 2477 2479	go
+E20	Movement_Transport-Person:T20 
+A21	Realis E20 Other
+T21	Movement_Transport-Person 2677 2679	go
+E21	Movement_Transport-Person:T21 
+A22	Realis E21 Other
+T22	Transaction_Transfer-Ownership 2697 2701;2704 2708	send gift
+E22	Transaction_Transfer-Ownership:T22 
+A23	Realis E22 Other
+T23	Contact_Meet 2867 2875;2887 2896	dish out questions
+E23	Contact_Meet:T23 
+A24	Realis E23 Generic
+T24	Movement_Transport-Person 2899 2904	going
+E24	Movement_Transport-Person:T24 
+A25	Realis E24 Other
+T25	Contact_Meet 2966 2969	met
+E25	Contact_Meet:T25 
+A26	Realis E25 Actual
+T26	Transaction_Transfer-Ownership 3041 3045;3050 3054	drop gift
+E26	Transaction_Transfer-Ownership:T26 
+A27	Questionable E26 Mention
+A28	Realis E26 Other

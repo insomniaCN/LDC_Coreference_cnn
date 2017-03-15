@@ -1,0 +1,33 @@
+T1	Personnel_End-Position 75 81	former
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Justice_Sue 92 96	sues
+E2	Justice_Sue:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 211 217	former
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Justice_Sue 259 266	lawsuit
+E4	Justice_Sue:T4 
+A4	Realis E4 Actual
+T5	Justice_Sue 364 368	sued
+E5	Justice_Sue:T5 
+A5	Realis E5 Actual
+T6	Justice_Sue 583 590	lawsuit
+E6	Justice_Sue:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 747 755	e - mail
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 823 831;836 841	answered phone
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Personnel_Start-Position 906 911	hired
+E9	Personnel_Start-Position:T9 
+A9	Realis E9 Actual
+T10	Contact_Meet 610 617	berated
+E10	Contact_Meet:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 863 871	declined
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual

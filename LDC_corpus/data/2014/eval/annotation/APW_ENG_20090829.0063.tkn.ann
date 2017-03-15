@@ -1,0 +1,33 @@
+T1	Life_Die 103 107	dies
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Life_Die 361 365	died
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Life_Die 511 515	died
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Life_Die 800 805	death
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 882 888	former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1047 1051	sold
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1215 1221	former
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 1323 1335	stepped down
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Personnel_Nominate 1401 1410	nominated
+E9	Personnel_Nominate:T9 
+A9	Realis E9 Actual
+T10	Business_Start-Org 320 328	founding
+E10	Business_Start-Org:T10 
+A10	Realis E10 Actual
+T11	Business_Start-Org 989 996	founded
+E11	Business_Start-Org:T11 
+A11	Realis E11 Actual

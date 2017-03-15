@@ -1,0 +1,96 @@
+T1	Justice_Convict 167 176	convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Justice_Trial-Hearing 204 209	trial
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Actual
+T3	Justice_Appeal 213 219	appeal
+E3	Justice_Appeal:T3 
+A3	Realis E3 Other
+T4	Justice_Sentence 227 236	sentences
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Justice_Convict 299 308	convicted
+E5	Justice_Convict:T5 
+A5	Realis E5 Actual
+T6	Justice_Trial-Hearing 358 363	trial
+E6	Justice_Trial-Hearing:T6 
+A6	Realis E6 Actual
+T8	Justice_Convict 450 458	verdicts
+E8	Justice_Convict:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 512 518	former
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Personnel_End-Position 559 565	former
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual
+T11	Justice_Convict 618 627	convicted
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Money 632 648	receiving bribes
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Actual
+T13	Justice_Trial-Hearing 709 714	trial
+E13	Justice_Trial-Hearing:T13 
+A13	Realis E13 Actual
+T14	Justice_Convict 932 941	convicted
+E14	Justice_Convict:T14 
+A14	Realis E14 Actual
+T15	Justice_Sentence 987 996	sentenced
+E15	Justice_Sentence:T15 
+A15	Realis E15 Actual
+T16	Justice_Appeal 1064 1070	appeal
+E16	Justice_Appeal:T16 
+A16	Realis E16 Other
+T17	Personnel_End-Position 1088 1094	former
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Actual
+T18	Justice_Convict 1159 1168	convicted
+E18	Justice_Convict:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Money 1172 1181;1195 1201	receiving bribes
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Actual
+T20	Justice_Release-Parole 1259 1266	release
+E20	Justice_Release-Parole:T20 
+A20	Realis E20 Actual
+T21	Justice_Sentence 1304 1313	sentenced
+E21	Justice_Sentence:T21 
+A21	Realis E21 Actual
+T22	Justice_Convict 1347 1356	convicted
+E22	Justice_Convict:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Ownership 1360 1369	receiving
+E23	Transaction_Transfer-Ownership:T23 
+A23	Realis E23 Actual
+T24	Justice_Sentence 1447 1456	sentenced
+E24	Justice_Sentence:T24 
+A24	Realis E24 Actual
+T25	Justice_Sentence 1508 1517	sentenced
+E25	Justice_Sentence:T25 
+A25	Realis E25 Actual
+T26	Justice_Appeal 1603 1616	filed appeals
+E26	Justice_Appeal:T26 
+A26	Realis E26 Actual
+T27	Justice_Trial-Hearing 1667 1678	stood trial
+E27	Justice_Trial-Hearing:T27 
+A27	Realis E27 Actual
+T28	Justice_Convict 1739 1748	convicted
+E28	Justice_Convict:T28 
+A28	Realis E28 Actual
+T29	Justice_Acquit 1770 1779	acquitted
+E29	Justice_Acquit:T29 
+A29	Realis E29 Actual
+T30	Justice_Appeal 1918 1924	appeal
+E30	Justice_Appeal:T30 
+A30	Realis E30 Other
+T31	Personnel_End-Position 380 386	former
+E31	Personnel_End-Position:T31 
+A31	Realis E31 Actual
+T7	Justice_Appeal 436 442	appeal
+E7	Justice_Appeal:T7 
+A7	Realis E7 Other
+T32	Justice_Sentence 1932 1941	sentences
+E32	Justice_Sentence:T32 
+A32	Realis E32 Actual

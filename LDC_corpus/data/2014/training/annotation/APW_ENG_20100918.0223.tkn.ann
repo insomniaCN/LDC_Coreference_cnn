@@ -1,0 +1,12 @@
+T1	Life_Injure 118 124	injury
+E1	Life_Injure:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 301 307	injury
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Life_Injure 361 367	injury
+E3	Life_Injure:T3 
+A3	Realis E3 Actual
+T4	Life_Injure 571 577	injury
+E4	Life_Injure:T4 
+A4	Realis E4 Actual

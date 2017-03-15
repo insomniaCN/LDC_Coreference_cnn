@@ -1,0 +1,186 @@
+T1	Contact_Contact 3335 3339	said
+E6	Contact_Contact:T1
+A1	Realis E6 Actual
+T2	Life_Die 208 213	DEATH
+E29	Life_Die:T2
+A2	Realis E29 Actual
+T3	Life_Die 1479 1485	killed
+E56	Life_Die:T3
+A3	Realis E56 Actual
+T4	Movement_Transport-Artifact 2118 2126	carrying
+E62	Movement_Transport-Artifact:T4
+A4	Realis E62 Actual
+T5	Conflict_Attack 1162 1170	run down
+E83	Conflict_Attack:T5
+A5	Realis E83 Actual
+T6	Contact_Broadcast 378 382	said
+E105	Contact_Broadcast:T6
+A6	Realis E105 Actual
+T7	Contact_Meet 2768 2777	interview
+E125	Contact_Meet:T7
+A7	Realis E125 Actual
+T8	Movement_Transport-Person 2528 2536	deported
+E127	Movement_Transport-Person:T8
+A8	Realis E127 Actual
+T9	Conflict_Attack 1418 1426	bombings
+E130	Conflict_Attack:T9
+A9	Realis E130 Actual
+T10	Conflict_Attack 1227 1235	attacked
+E152	Conflict_Attack:T10
+A10	Realis E152 Actual
+T11	Life_Die 513 518	death
+E157	Life_Die:T11
+A11	Realis E157 Actual
+T12	Conflict_Attack 899 908	terrorist
+E158	Conflict_Attack:T12
+A12	Realis E158 Generic
+T13	Justice_Arrest-Jail 2719 2727	arrested
+E177	Justice_Arrest-Jail:T13
+A13	Realis E177 Actual
+T14	Contact_Contact 596 605	confirmed
+E198	Contact_Contact:T14
+A14	Realis E198 Actual
+T15	Justice_Arrest-Jail 2053 2061	arrested
+E214	Justice_Arrest-Jail:T15
+A15	Realis E214 Actual
+T16	Contact_Contact 2468 2472	told
+E217	Contact_Contact:T16
+A16	Realis E217 Actual
+T17	Contact_Contact 2255 2260	spoke
+E223	Contact_Contact:T17
+A17	Realis E223 Other
+T18	Movement_Transport-Person 1272 1280	arriving
+E231	Movement_Transport-Person:T18
+A18	Realis E231 Actual
+T19	Personnel_Start-Position 2629 2636	recruit
+E248	Personnel_Start-Position:T19
+A19	Realis E248 Generic
+T20	Contact_Broadcast 3178 3182	said
+E250	Contact_Broadcast:T20
+A20	Realis E250 Actual
+T21	Contact_Contact 2395 2399	says
+E265	Contact_Contact:T21
+A21	Realis E265 Actual
+T22	Conflict_Demonstrate 3912 3920	protests
+E307	Conflict_Demonstrate:T22
+A22	Realis E307 Actual
+T23	Conflict_Attack 3253 3259	attack
+E326	Conflict_Attack:T23
+A23	Realis E326 Actual
+T24	Conflict_Attack 978 984	attack
+E349	Conflict_Attack:T24
+A24	Realis E349 Actual
+T25	Contact_Broadcast 4168 4175	calling
+E353	Contact_Broadcast:T25
+A25	Realis E353 Actual
+T26	Conflict_Attack 3542 3551	terrorist
+E359	Conflict_Attack:T26
+A26	Realis E359 Generic
+T27	Contact_Broadcast 4444 4451	appeals
+E379	Contact_Broadcast:T27
+A27	Realis E379 Actual
+T28	Contact_Contact 2608 2612	said
+E388	Contact_Contact:T28
+A28	Realis E388 Actual
+T29	Conflict_Attack 1294 1298	shot
+E413	Conflict_Attack:T29
+A29	Realis E413 Actual
+T30	Conflict_Attack 3667 3676	terrorism
+E422	Conflict_Attack:T30
+A30	Realis E422 Generic
+T31	Justice_Arrest-Jail 2925 2931	arrest
+E429	Justice_Arrest-Jail:T31
+A31	Realis E429 Actual
+T32	Contact_Contact 3600 3604	said
+E462	Contact_Contact:T32
+A32	Realis E462 Actual
+T33	Conflict_Attack 4754 4760	attack
+E474	Conflict_Attack:T33
+A33	Realis E474 Actual
+T34	Contact_Broadcast 2162 2171	statement
+E475	Contact_Broadcast:T34
+A34	Realis E475 Actual
+T35	Contact_Broadcast 1997 2007	statements
+E486	Contact_Broadcast:T35
+A35	Realis E486 Actual
+T36	Conflict_Attack 4847 4850	hit
+E487	Conflict_Attack:T36
+A36	Realis E487 Actual
+T37	Contact_Contact 4903 4906	say
+E488	Contact_Contact:T37
+A37	Realis E488 Actual
+T38	Conflict_Attack 4004 4011	clashes
+E533	Conflict_Attack:T38
+A38	Realis E533 Actual
+T39	Justice_Arrest-Jail 2842 2848	arrest
+E539	Justice_Arrest-Jail:T39
+A39	Realis E539 Actual
+T40	Conflict_Attack 3420 3429	terrorist
+E540	Conflict_Attack:T40
+A40	Realis E540 Generic
+T41	Life_Injure 1303 1310	wounded
+E553	Life_Injure:T41
+A41	Realis E553 Actual
+T42	Contact_Broadcast 4073 4081	accounts
+E555	Contact_Broadcast:T42
+A42	Realis E555 Actual
+T43	Contact_Contact 2828 2832	said
+E595	Contact_Contact:T43
+A43	Realis E595 Actual
+T44	Movement_Transport-Person 1441 1448	transit
+E650	Movement_Transport-Person:T44
+A44	Realis E650 Generic
+T45	Life_Die 2985 2990	death
+E659	Life_Die:T45
+A45	Realis E659 Actual
+T46	Justice_Arrest-Jail 762 770	arrested
+E731	Justice_Arrest-Jail:T46
+A46	Realis E731 Actual
+T47	Conflict_Attack 2874 2881	killing
+E739	Conflict_Attack:T47
+A47	Realis E739 Actual
+T48	Contact_Broadcast 1713 1722	statement
+E762	Contact_Broadcast:T48
+A48	Realis E762 Actual
+T49	Personnel_Start-Position 2334 2341	recruit
+E769	Personnel_Start-Position:T49
+A49	Realis E769 Other
+T50	Contact_Broadcast 4903 4906	say
+E779	Contact_Broadcast:T50
+A50	Realis E779 Actual
+T51	Conflict_Attack 1110 1116	attack
+E822	Conflict_Attack:T51
+A51	Realis E822 Actual
+T52	Life_Die 4261 4268	killing
+E823	Life_Die:T52
+A52	Realis E823 Actual
+T53	Life_Die 1692 1697	death
+E843	Life_Die:T53
+A53	Realis E843 Actual
+T54	Conflict_Attack 4189 4196	attacks
+E860	Conflict_Attack:T54
+A54	Realis E860 Generic
+T55	Life_Die 2874 2881	killing
+E862	Life_Die:T55
+A55	Realis E862 Actual
+T56	Conflict_Attack 1366 1372	attack
+E872	Conflict_Attack:T56
+A56	Realis E872 Actual
+T57	Conflict_Attack 1513 1520	bombers
+E889	Conflict_Attack:T57
+A57	Realis E889 Actual
+T58	Conflict_Attack 4261 4268	killing
+E892	Conflict_Attack:T58
+A58	Realis E892 Actual
+T59	Conflict_Attack 474 481	hacking
+E898	Conflict_Attack:T59
+A59	Realis E898 Actual
+T60	Life_Die 4429 4434	death
+E934	Life_Die:T60
+A60	Realis E934 Actual
+T61	Personnel_Start-Position 2486 2497	recruitment
+E950	Personnel_Start-Position:T61
+A61	Realis E950 Other
+T62	Contact_Broadcast 4304 4307	say
+E968	Contact_Broadcast:T62
+A62	Realis E968 Actual

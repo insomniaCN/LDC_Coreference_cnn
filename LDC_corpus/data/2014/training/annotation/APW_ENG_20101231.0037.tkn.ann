@@ -1,0 +1,75 @@
+T1	Conflict_Demonstrate 84 92	Protests
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Demonstrate 233 241	Protests
+E2	Conflict_Demonstrate:T2 
+A2	Realis E2 Actual
+T3	Conflict_Demonstrate 505 512	protest
+E3	Conflict_Demonstrate:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 794 805	resignation
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Other
+T5	Conflict_Demonstrate 1034 1042	protests
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 1179 1186	clashes
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 1235 1240	enter
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 1351 1364	hurled stones
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 1526 1535	set afire
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Life_Injure 1771 1778	injured
+E10	Life_Injure:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 2102 2111	subsidize
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Ownership 2144 2152	smuggled
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Actual
+T13	Conflict_Demonstrate 2229 2237	protests
+E13	Conflict_Demonstrate:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 2600 2607	protest
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Actual
+T15	Conflict_Demonstrate 2830 2838	protests
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Actual
+T17	Conflict_Demonstrate 979 985	strike
+E17	Conflict_Demonstrate:T17 
+A17	Realis E17 Actual
+T18	Conflict_Demonstrate 1137 1142	march
+E18	Conflict_Demonstrate:T18 
+A18	Realis E18 Actual
+T19	Conflict_Attack 1304 1317	used tear gas
+E19	Conflict_Attack:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 1699 1711	disturbances
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Demonstrate 1819 1825;1839 1843	burned flag
+E21	Conflict_Demonstrate:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Money 2344 2360	salary increases
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Other
+T23	Conflict_Demonstrate 2656 2663	protest
+E23	Conflict_Demonstrate:T23 
+A23	Realis E23 Actual
+T16	Conflict_Demonstrate 2964 2972	protests
+E16	Conflict_Demonstrate:T16 
+A16	Realis E16 Actual
+T24	Transaction_Transfer-Money 3235 3245	subsidized
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Transaction_Transfer-Money 3606 3615	subsidies
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Generic

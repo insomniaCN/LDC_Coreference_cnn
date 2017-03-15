@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976420000000000000039" doc_id="APW_ENG_20100120.1272" source_type="newswire">
+<event_mention id="em-64" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100120.1272" offset="232" length="6">return</trigger>
+      </event_mention>
+<event_mention id="em-77" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100120.1272" offset="76" length="6">return</trigger>
+      </event_mention>
+<event_mention id="em-90" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100120.1272" offset="445" length="8">re-entry</trigger>
+      </event_mention>
+<event_mention id="em-103" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100120.1272" offset="3061" length="8">visiting</trigger>
+      </event_mention>
+<event_mention id="em-116" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100120.1272" offset="2020" length="4">sued</trigger>
+      </event_mention>
+<event_mention id="em-129" type="justice" subtype="sue" realis="actual">
+        <trigger source="APW_ENG_20100120.1272" offset="1446" length="4">sued</trigger>
+      </event_mention>
+<event_mention id="em-142" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100120.1272" offset="3773" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-155" type="conflict" subtype="attack" realis="actual">
+        <trigger source="APW_ENG_20100120.1272" offset="1831" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-194" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20100120.1272" offset="2339" length="4">move</trigger>
+      </event_mention>
+<event_mention id="em-207" type="personnel" subtype="startposition" realis="other">
+        <trigger source="APW_ENG_20100120.1272" offset="2358" length="4">take</trigger>
+      </event_mention>
+<event_mention id="em-220" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20100120.1272" offset="2562" length="7">donated</trigger>
+      </event_mention>
+<event_mention id="em-233" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20100120.1272" offset="2595" length="10">gave money</trigger>
+      </event_mention>
+<event_mention id="em-246" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="1897" length="6">saying</trigger>
+      </event_mention>
+<event_mention id="em-259" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+        <trigger source="APW_ENG_20100120.1272" offset="3510" length="10">questioned</trigger>
+      </event_mention>
+<event_mention id="em-272" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="3693" length="9">interview</trigger>
+      </event_mention>
+<event_mention id="em-298" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100120.1272" offset="347" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-311" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100120.1272" offset="1029" length="17">making statements</trigger>
+      </event_mention>
+<event_mention id="em-324" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="1323" length="13">consultations</trigger>
+      </event_mention>
+<event_mention id="em-337" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="1605" length="10">requesting</trigger>
+      </event_mention>
+<event_mention id="em-350" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100120.1272" offset="1689" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-376" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="2426" length="6">spoken</trigger>
+      </event_mention>
+<event_mention id="em-389" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100120.1272" offset="2716" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-415" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="2833" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-428" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="3102" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-441" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="3209" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-467" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="3132" length="5">forum</trigger>
+      </event_mention>
+<event_mention id="em-480" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="3165" length="5">speak</trigger>
+      </event_mention>
+<event_mention id="em-493" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100120.1272" offset="864" length="9">statement</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

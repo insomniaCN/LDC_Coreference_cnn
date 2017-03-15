@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea600000000000000041" doc_id="NYT_ENG_20130629.0099" source_type="newswire">
+  <event_mention id="em-65" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="702" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-84" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="921" length="6">deadly</trigger>
+  </event_mention>
+  <event_mention id="em-94" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130629.0099" offset="417" length="8">advisory</trigger>
+  </event_mention>
+  <event_mention id="em-120" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2181" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-176" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="1211" length="8">attacked</trigger>
+  </event_mention>
+  <event_mention id="em-179" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="884" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-193" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="1473" length="8">violence</trigger>
+  </event_mention>
+  <event_mention id="em-216" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="1110" length="7">stabbed</trigger>
+  </event_mention>
+  <event_mention id="em-258" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="841" length="7">rallies</trigger>
+  </event_mention>
+  <event_mention id="em-262" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2181" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-268" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="982" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-301" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2589" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-322" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="1399" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-325" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="1680" length="7">marches</trigger>
+  </event_mention>
+  <event_mention id="em-329" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="1121" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-349" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="1664" length="8">violence</trigger>
+  </event_mention>
+  <event_mention id="em-375" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="993" length="8">set fire</trigger>
+  </event_mention>
+  <event_mention id="em-399" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="928" length="7">clashes</trigger>
+  </event_mention>
+  <event_mention id="em-401" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="1399" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-419" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130629.0099" offset="1996" length="6">travel</trigger>
+  </event_mention>
+  <event_mention id="em-422" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="189" length="6">KILLED</trigger>
+  </event_mention>
+  <event_mention id="em-433" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130629.0099" offset="1424" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-476" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="2089" length="5">leave</trigger>
+  </event_mention>
+  <event_mention id="em-490" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2385" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-515" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="189" length="6">KILLED</trigger>
+  </event_mention>
+  <event_mention id="em-517" type="personnel" subtype="elect" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="1624" length="9">elections</trigger>
+  </event_mention>
+  <event_mention id="em-534" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2385" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-551" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130629.0099" offset="1181" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-562" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130629.0099" offset="1056" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-608" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="626" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-631" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="626" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-664" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130629.0099" offset="2016" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-694" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="713" length="9">ransacked</trigger>
+  </event_mention>
+  <event_mention id="em-705" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130629.0099" offset="1952" length="6">warned</trigger>
+  </event_mention>
+  <event_mention id="em-758" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130629.0099" offset="1365" length="9">confirmed</trigger>
+  </event_mention>
+  <event_mention id="em-794" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20130629.0099" offset="1902" length="6">deadly</trigger>
+  </event_mention>
+  <event_mention id="em-799" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="2816" length="6">resign</trigger>
+  </event_mention>
+  <event_mention id="em-808" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2505" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-819" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2395" length="7">attacks</trigger>
+  </event_mention>
+  <event_mention id="em-828" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130629.0099" offset="2349" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-873" type="personnel" subtype="endposition" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="1604" length="9">step down</trigger>
+  </event_mention>
+  <event_mention id="em-917" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130629.0099" offset="410" length="6">travel</trigger>
+  </event_mention>
+  <event_mention id="em-938" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130629.0099" offset="1871" length="6">warned</trigger>
+  </event_mention>
+  <event_mention id="em-948" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2472" length="7">took to</trigger>
+  </event_mention>
+  <event_mention id="em-964" type="conflict" subtype="demonstrate" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="1680" length="7">marches</trigger>
+  </event_mention>
+  <event_mention id="em-979" type="conflict" subtype="demonstrate" realis="other">
+    <trigger source="NYT_ENG_20130629.0099" offset="1529" length="8">protests</trigger>
+  </event_mention>
+  <event_mention id="em-980" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="341" length="5">death</trigger>
+  </event_mention>
+  <event_mention id="em-981" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="2600" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-983" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130629.0099" offset="651" length="7">injured</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

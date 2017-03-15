@@ -1,0 +1,18 @@
+T1	Conflict_Attack 431 439	shooting
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 505 512	injured
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 201 209	SHOOTING
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 625 630	taken
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 720 725;732 737	fired shots
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 948 956	shooting
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual

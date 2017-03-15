@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea730000000000000069" doc_id="NYT_ENG_20130731.0159" source_type="newswire">
+  <event_mention id="em-23" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="861" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-44" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1396" length="7">accused</trigger>
+  </event_mention>
+  <event_mention id="em-47" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2490" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-57" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130731.0159" offset="1810" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-123" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="2586" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-172" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="624" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-181" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1653" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-200" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1722" length="9">molesting</trigger>
+  </event_mention>
+  <event_mention id="em-202" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2664" length="8">response</trigger>
+  </event_mention>
+  <event_mention id="em-208" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1426" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-265" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="600" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-293" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130731.0159" offset="915" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-370" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1375" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-406" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1776" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-426" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1565" length="5">lying</trigger>
+  </event_mention>
+  <event_mention id="em-428" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130731.0159" offset="1153" length="7">payment</trigger>
+  </event_mention>
+  <event_mention id="em-481" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="2490" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-511" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="699" length="7">hearing</trigger>
+  </event_mention>
+  <event_mention id="em-529" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1792" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-536" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1701" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-538" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2001" length="6">denied</trigger>
+  </event_mention>
+  <event_mention id="em-570" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1868" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-574" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="454" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-596" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2197" length="9">reporting</trigger>
+  </event_mention>
+  <event_mention id="em-607" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="810" length="7">retired</trigger>
+  </event_mention>
+  <event_mention id="em-615" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1259" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-632" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="1722" length="9">molesting</trigger>
+  </event_mention>
+  <event_mention id="em-656" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130731.0159" offset="216" length="5">TRIAL</trigger>
+  </event_mention>
+  <event_mention id="em-691" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="2432" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-696" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2156" length="8">confront</trigger>
+  </event_mention>
+  <event_mention id="em-714" type="contact" subtype="contact" realis="other" audience="twoway" formality="canttell" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1485" length="6">report</trigger>
+  </event_mention>
+  <event_mention id="em-732" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130731.0159" offset="2623" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-754" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2586" length="9">testified</trigger>
+  </event_mention>
+  <event_mention id="em-783" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="530" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-815" type="contact" subtype="meet" realis="generic" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1291" length="7">perjury</trigger>
+  </event_mention>
+  <event_mention id="em-830" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="385" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-831" type="life" subtype="injure" realis="other">
+    <trigger source="NYT_ENG_20130731.0159" offset="1426" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-856" type="justice" subtype="trialhearing" realis="other">
+    <trigger source="NYT_ENG_20130731.0159" offset="521" length="5">trial</trigger>
+  </event_mention>
+  <event_mention id="em-890" type="life" subtype="injure" realis="other">
+    <trigger source="NYT_ENG_20130731.0159" offset="2432" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-909" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2352" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-915" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2397" length="6">emails</trigger>
+  </event_mention>
+  <event_mention id="em-918" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2374" length="5">wrote</trigger>
+  </event_mention>
+  <event_mention id="em-937" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2062" length="6">emails</trigger>
+  </event_mention>
+  <event_mention id="em-958" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130731.0159" offset="600" length="5">abuse</trigger>
+  </event_mention>
+  <event_mention id="em-995" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="1927" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-998" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130731.0159" offset="2269" length="7">message</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

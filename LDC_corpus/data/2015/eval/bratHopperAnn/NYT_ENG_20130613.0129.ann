@@ -1,0 +1,69 @@
+T1	Conflict_Attack 207 214	ATTACKS
+E970	Conflict_Attack:T1
+A1	Realis E970 Generic
+T2	Conflict_Attack 481 488	attacks
+E524	Conflict_Attack:T2
+A2	Realis E524 Generic
+T3	Contact_Broadcast 589 596	reports
+E358	Contact_Broadcast:T3
+A3	Realis E358 Actual
+T4	Contact_Broadcast 1010 1017	reports
+E77	Contact_Broadcast:T4
+A4	Realis E77 Actual
+T5	Conflict_Attack 661 664	war
+E144	Conflict_Attack:T5
+A5	Realis E144 Generic
+T6	Conflict_Attack 2500 2505	fight
+E814	Conflict_Attack:T6
+A6	Realis E814 Generic
+T7	Conflict_Attack 2673 2681	violence
+E648	Conflict_Attack:T7
+A7	Realis E648 Generic
+T8	Conflict_Attack 2706 2713	killing
+E686	Conflict_Attack:T8
+A8	Realis E686 Generic
+T9	Contact_Meet 712 715	met
+E372	Contact_Meet:T9
+A9	Realis E372 Actual
+T10	Conflict_Attack 935 942	attacks
+E817	Conflict_Attack:T10
+A10	Realis E817 Actual
+T11	Contact_Contact 1030 1039	described
+E966	Contact_Contact:T11
+A11	Realis E966 Actual
+T12	Contact_Contact 1119 1126	discuss
+E910	Contact_Contact:T12
+A12	Realis E910 Other
+T13	Movement_Transport-Person 1176 1181	moved
+E628	Movement_Transport-Person:T13
+A13	Realis E628 Actual
+T14	Movement_Transport-Artifact 1176 1181	moved
+E477	Movement_Transport-Artifact:T14
+A14	Realis E477 Actual
+T15	Personnel_End-Position 1442 1449	toppled
+E578	Personnel_End-Position:T15
+A15	Realis E578 Other
+T16	Movement_Transport-Person 1841 1847	flying
+E899	Movement_Transport-Person:T16
+A16	Realis E899 Generic
+T17	Conflict_Attack 1919 1928	offensive
+E185	Conflict_Attack:T17
+A17	Realis E185 Other
+T18	Contact_Contact 2358 2367	conferred
+E455	Contact_Contact:T18
+A18	Realis E455 Actual
+T19	Contact_Contact 2441 2445	told
+E122	Contact_Contact:T19
+A19	Realis E122 Actual
+T20	Life_Die 2706 2713	killing
+E294	Life_Die:T20
+A20	Realis E294 Generic
+T21	Contact_Broadcast 2758 2762	said
+E312	Contact_Broadcast:T21
+A21	Realis E312 Actual
+R1	Coreference Arg1:E970 Arg2:E524
+R2	Coreference Arg1:E358 Arg2:E77
+R3	Coreference Arg1:E144 Arg2:E814
+R4	Coreference Arg1:E814 Arg2:E648
+R5	Coreference Arg1:E648 Arg2:E686
+R6	Coreference Arg1:E966 Arg2:E910

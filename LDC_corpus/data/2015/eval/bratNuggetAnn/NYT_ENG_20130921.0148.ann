@@ -1,0 +1,93 @@
+T1	Transaction_Transfer-Ownership 1225 1228	bid
+E6	Transaction_Transfer-Ownership:T1
+A1	Realis E6 Other
+T2	Contact_Broadcast 862 871	announced
+E21	Contact_Broadcast:T2
+A2	Realis E21 Actual
+T3	Contact_Contact 1298 1302	said
+E59	Contact_Contact:T3
+A3	Realis E59 Actual
+T4	Transaction_Transfer-Ownership 214 217	BID
+E159	Transaction_Transfer-Ownership:T4
+A4	Realis E159 Other
+T5	Contact_Contact 665 670	talks
+E160	Contact_Contact:T5
+A5	Realis E160 Actual
+T6	Business_Start-Org 2125 2133	founders
+E165	Business_Start-Org:T6
+A6	Realis E165 Generic
+T7	Transaction_Transfer-Ownership 436 439	bid
+E167	Transaction_Transfer-Ownership:T7
+A7	Realis E167 Other
+T8	Personnel_End-Position 2225 2239	pass the baton
+E177	Personnel_End-Position:T8
+A8	Realis E177 Other
+T9	Transaction_Transfer-Money 436 439	bid
+E208	Transaction_Transfer-Money:T9
+A9	Realis E208 Other
+T10	Personnel_Start-Position 1744 1758	ceding control
+E222	Personnel_Start-Position:T10
+A10	Realis E222 Actual
+T11	Transaction_Transfer-Ownership 1334 1340	buyout
+E243	Transaction_Transfer-Ownership:T11
+A11	Realis E243 Generic
+T12	Contact_Contact 197 201	SAID
+E289	Contact_Contact:T12
+A12	Realis E289 Actual
+T13	Contact_Correspondence 1089 1096	comment
+E312	Contact_Correspondence:T13
+A13	Realis E312 Other
+T14	Personnel_End-Position 1707 1719	stepped down
+E315	Personnel_End-Position:T14
+A14	Realis E315 Actual
+T15	Contact_Contact 1152 1157	talks
+E416	Contact_Contact:T15
+A15	Realis E416 Actual
+T16	Business_Start-Org 183 193	CO-FOUNDER
+E428	Business_Start-Org:T16
+A16	Realis E428 Actual
+T17	Transaction_Transfer-Ownership 714 718	bids
+E437	Transaction_Transfer-Ownership:T17
+A17	Realis E437 Other
+T18	Personnel_Start-Position 2225 2239	pass the baton
+E438	Personnel_Start-Position:T18
+A18	Realis E438 Other
+T19	Business_Start-Org 306 316	co-founder
+E449	Business_Start-Org:T19
+A19	Realis E449 Actual
+T20	Contact_Contact 2070 2074	said
+E453	Contact_Contact:T20
+A20	Realis E453 Actual
+T21	Business_Start-Org 1464 1474	co-founded
+E483	Business_Start-Org:T21
+A21	Realis E483 Actual
+T22	Transaction_Transfer-Money 214 217	BID
+E517	Transaction_Transfer-Money:T22
+A22	Realis E517 Other
+T23	Contact_Correspondence 1045 1052	comment
+E548	Contact_Correspondence:T23
+A23	Realis E548 Other
+T24	Contact_Broadcast 1131 1139	reported
+E554	Contact_Broadcast:T24
+A24	Realis E554 Actual
+T25	Transaction_Transfer-Money 1225 1228	bid
+E618	Transaction_Transfer-Money:T25
+A25	Realis E618 Other
+T26	Business_Start-Org 2213 2221	founders
+E640	Business_Start-Org:T26
+A26	Realis E640 Generic
+T27	Transaction_Transfer-Money 570 575	offer
+E843	Transaction_Transfer-Money:T27
+A27	Realis E843 Other
+T28	Personnel_End-Position 2039 2048	departure
+E846	Personnel_End-Position:T28
+A28	Realis E846 Actual
+T29	Transaction_Transfer-Money 1334 1340	buyout
+E873	Transaction_Transfer-Money:T29
+A29	Realis E873 Generic
+T30	Transaction_Transfer-Money 714 718	bids
+E918	Transaction_Transfer-Money:T30
+A30	Realis E918 Other
+T31	Personnel_End-Position 335 347	stepped down
+E978	Personnel_End-Position:T31
+A31	Realis E978 Actual

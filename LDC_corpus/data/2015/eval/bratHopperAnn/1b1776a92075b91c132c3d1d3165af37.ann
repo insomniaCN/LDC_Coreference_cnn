@@ -1,0 +1,84 @@
+T1	Movement_Transport-Person 174 180	hikers
+E741	Movement_Transport-Person:T1
+A1	Realis E741 Generic
+T2	Justice_Arrest-Jail 181 187	jailed
+E91	Justice_Arrest-Jail:T2
+A2	Realis E91 Actual
+T3	Justice_Arrest-Jail 529 535	prison
+E40	Justice_Arrest-Jail:T3
+A3	Realis E40 Actual
+T4	Justice_Arrest-Jail 1084 1093	captivity
+E706	Justice_Arrest-Jail:T4
+A4	Realis E706 Actual
+T5	Justice_Arrest-Jail 1233 1241	arrested
+E871	Justice_Arrest-Jail:T5
+A5	Realis E871 Actual
+T6	Movement_Transport-Person 212 220	straying
+E93	Movement_Transport-Person:T6
+A6	Realis E93 Actual
+T7	Movement_Transport-Person 1307 1314	crossed
+E36	Movement_Transport-Person:T7
+A7	Realis E36 Actual
+T8	Life_Marry 266 273	married
+E466	Life_Marry:T8
+A8	Realis E466 Other
+T9	Life_Marry 299 307	ceremony
+E735	Life_Marry:T9
+A9	Realis E735 Other
+T10	Life_Marry 384 391	wedding
+E415	Life_Marry:T10
+A10	Realis E415 Actual
+T11	Life_Marry 951 958	wedding
+E779	Life_Marry:T11
+A11	Realis E779 Other
+T12	Life_Marry 1712 1719	wedding
+E401	Life_Marry:T12
+A12	Realis E401 Actual
+T13	Contact_Contact 338 347	statement
+E79	Contact_Contact:T13
+A13	Realis E79 Actual
+T14	Contact_Contact 762 771	statement
+E471	Contact_Contact:T14
+A14	Realis E471 Actual
+T15	Contact_Contact 876 885	statement
+E611	Contact_Contact:T15
+A15	Realis E611 Actual
+T16	Contact_Contact 897 906	statement
+E798	Contact_Contact:T16
+A16	Realis E798 Actual
+T17	Contact_Contact 1191 1200	statement
+E193	Contact_Contact:T17
+A17	Realis E193 Actual
+T18	Transaction_Transfer-Ownership 1688 1694	bought
+E538	Transaction_Transfer-Ownership:T18
+A18	Realis E538 Other
+T19	Transaction_Transfer-Money 1688 1694	bought
+E84	Transaction_Transfer-Money:T19
+A19	Realis E84 Other
+T20	Transaction_Transfer-Ownership 1720 1727	present
+E56	Transaction_Transfer-Ownership:T20
+A20	Realis E56 Other
+T21	Movement_Transport-Person 1834 1840	hiking
+E337	Movement_Transport-Person:T21
+A21	Realis E337 Other
+T22	Transaction_Transfer-Ownership 1846 1853	selling
+E832	Transaction_Transfer-Ownership:T22
+A22	Realis E832 Other
+T23	Transaction_Transfer-Money 1846 1853	selling
+E491	Transaction_Transfer-Money:T23
+A23	Realis E491 Other
+T24	Movement_Transport-Person 2096 2100	hike
+E399	Movement_Transport-Person:T24
+A24	Realis E399 Other
+R1	Coreference Arg1:E91 Arg2:E40
+R2	Coreference Arg1:E40 Arg2:E706
+R3	Coreference Arg1:E706 Arg2:E871
+R4	Coreference Arg1:E93 Arg2:E36
+R5	Coreference Arg1:E466 Arg2:E735
+R6	Coreference Arg1:E735 Arg2:E415
+R7	Coreference Arg1:E415 Arg2:E779
+R8	Coreference Arg1:E779 Arg2:E401
+R9	Coreference Arg1:E79 Arg2:E471
+R10	Coreference Arg1:E471 Arg2:E611
+R11	Coreference Arg1:E611 Arg2:E798
+R12	Coreference Arg1:E798 Arg2:E193

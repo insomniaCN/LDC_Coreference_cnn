@@ -1,0 +1,100 @@
+T1	Movement_Transport-Person 479 482	lam
+E165	Movement_Transport-Person:T1
+A1	Realis E165 Actual
+T2	Movement_Transport-Person 2242 2246	fled
+E243	Movement_Transport-Person:T2
+A2	Realis E243 Actual
+T3	Personnel_End-Position 697 703	former
+E437	Personnel_End-Position:T3
+A3	Realis E437 Other
+T4	Justice_Arrest-Jail 917 923	arrest
+E441	Justice_Arrest-Jail:T4
+A4	Realis E441 Actual
+T5	Justice_Arrest-Jail 2451 2457	arrest
+E269	Justice_Arrest-Jail:T5
+A5	Realis E269 Other
+T6	Justice_Extradite 964 975	extradition
+E756	Justice_Extradite:T6
+A6	Realis E756 Other
+T7	Justice_Extradite 1604 1615	extradition
+E78	Justice_Extradite:T7
+A7	Realis E78 Other
+T8	Movement_Transport-Person 964 975	extradition
+E418	Movement_Transport-Person:T8
+A8	Realis E418 Other
+T9	Movement_Transport-Person 1604 1615	extradition
+E378	Movement_Transport-Person:T9
+A9	Realis E378 Other
+T10	Justice_Sentence 1007 1015	sentence
+E684	Justice_Sentence:T10
+A10	Realis E684 Actual
+T11	Justice_Sentence 1690 1699	sentenced
+E579	Justice_Sentence:T11
+A11	Realis E579 Actual
+T12	Justice_Trial-Hearing 1085 1092	hearing
+E866	Justice_Trial-Hearing:T12
+A12	Realis E866 Actual
+T13	Justice_Trial-Hearing 1496 1503	hearing
+E547	Justice_Trial-Hearing:T13
+A13	Realis E547 Actual
+T14	Justice_Release-Parole 1145 1150	freed
+E377	Justice_Release-Parole:T14
+A14	Realis E377 Other
+T15	Justice_Trial-Hearing 1208 1215	hearing
+E764	Justice_Trial-Hearing:T15
+A15	Realis E764 Actual
+T16	Justice_Arrest-Jail 1451 1455	cell
+E777	Justice_Arrest-Jail:T16
+A16	Realis E777 Actual
+T17	Justice_Arrest-Jail 1580 1587	custody
+E903	Justice_Arrest-Jail:T17
+A17	Realis E903 Actual
+T18	Justice_Trial-Hearing 1616 1627	proceedings
+E769	Justice_Trial-Hearing:T18
+A18	Realis E769 Other
+T19	Justice_Arrest-Jail 1726 1732	prison
+E3	Justice_Arrest-Jail:T19
+A19	Realis E3 Other
+T20	Justice_Trial-Hearing 1745 1750	tried
+E930	Justice_Trial-Hearing:T20
+A20	Realis E930 Actual
+T21	Justice_Convict 1767 1776	convicted
+E494	Justice_Convict:T21
+A21	Realis E494 Actual
+T22	Transaction_Transaction 1780 1789	extortion
+E573	Transaction_Transaction:T22
+A22	Realis E573 Actual
+T23	Transaction_Transaction 1020 1029	extortion
+E911	Transaction_Transaction:T23
+A23	Realis E911 Actual
+T24	Conflict_Attack 2365 2372	killing
+E167	Conflict_Attack:T24
+A24	Realis E167 Other
+T25	Life_Die 2365 2372	killing
+E295	Life_Die:T25
+A25	Realis E295 Other
+T26	Contact_Broadcast 2353 2360	ordered
+E358	Contact_Broadcast:T26
+A26	Realis E358 Actual
+T27	Contact_Broadcast 2427 2433	issued
+E213	Contact_Broadcast:T27
+A27	Realis E213 Actual
+T28	Transaction_Transfer-Money 207 211	BAIL
+E217	Transaction_Transfer-Money:T28
+A28	Realis E217 Other
+T29	Transaction_Transfer-Money 885 889	bail
+E837	Transaction_Transfer-Money:T29
+A29	Realis E837 Other
+T30	Transaction_Transfer-Money 1528 1532	bail
+E943	Transaction_Transfer-Money:T30
+A30	Realis E943 Other
+R1	Coreference Arg1:E165 Arg2:E243
+R2	Coreference Arg1:E441 Arg2:E269
+R3	Coreference Arg1:E756 Arg2:E78
+R4	Coreference Arg1:E418 Arg2:E378
+R5	Coreference Arg1:E684 Arg2:E579
+R6	Coreference Arg1:E866 Arg2:E547
+R7	Coreference Arg1:E777 Arg2:E903
+R8	Coreference Arg1:E911 Arg2:E573
+R9	Coreference Arg1:E217 Arg2:E837
+R10	Coreference Arg1:E837 Arg2:E943

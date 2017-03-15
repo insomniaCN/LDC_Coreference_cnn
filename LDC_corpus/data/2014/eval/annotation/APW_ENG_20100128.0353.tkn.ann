@@ -1,0 +1,9 @@
+T1	Justice_Convict 164 173	convicted
+E1	Justice_Convict:T1 
+A1	Realis E1 Actual
+T2	Justice_Execute 212 220	executed
+E2	Justice_Execute:T2 
+A2	Realis E2 Actual
+T3	Justice_Charge-Indict 194 201	charges
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual

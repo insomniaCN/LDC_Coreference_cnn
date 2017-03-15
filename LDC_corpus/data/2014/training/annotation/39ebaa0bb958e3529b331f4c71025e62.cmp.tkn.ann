@@ -1,0 +1,61 @@
+T1	Justice_Charge-Indict 170 181	impeachment
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 287 301	gone to prison
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Generic
+T3	Personnel_End-Position 306 310;317 321	lost jobs
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Generic
+T4	Justice_Acquit 456 465	acquitted
+E4	Justice_Acquit:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 547 554	run out
+E5	Personnel_End-Position:T5 
+A5	Questionable E5 Realis
+A6	Realis E5 Other
+T7	Justice_Sue 1309 1317	lawsuits
+E7	Justice_Sue:T7 
+A9	Realis E7 Generic
+T8	Personnel_End-Position 1983 2001	loss of employment
+E8	Personnel_End-Position:T8 
+A10	Questionable E8 Realis
+A11	Realis E8 Other
+T9	Justice_Sue 2235 2240	suing
+E9	Justice_Sue:T9 
+A12	Realis E9 Generic
+T11	Personnel_End-Position 2341 2346	fired
+E11	Personnel_End-Position:T11 
+A14	Realis E11 Generic
+T12	Personnel_End-Position 2435 2449	getting rid of
+E12	Personnel_End-Position:T12 
+A15	Realis E12 Generic
+T13	Life_Divorce 2950 2958	divorces
+E13	Life_Divorce:T13 
+A16	Realis E13 Generic
+T14	Life_Marry 2964 2973	marriages
+E14	Life_Marry:T14 
+A17	Realis E14 Generic
+T15	Life_Divorce 3452 3456	dump
+E15	Life_Divorce:T15 
+A18	Realis E15 Actual
+T16	Life_Divorce 3848 3852	dump
+E16	Life_Divorce:T16 
+A19	Realis E16 Generic
+T17	Life_Divorce 4063 4065	ex
+E17	Life_Divorce:T17 
+A20	Realis E17 Actual
+T6	Transaction_Transfer-Money 1787 1799	got millions
+E6	Transaction_Transfer-Money:T6 
+A7	Realis E6 Actual
+A8	Questionable E15 Realis
+T10	Transaction_Transfer-Money 3416 3429	child support
+E10	Transaction_Transfer-Money:T10 
+A13	Questionable E10 Realis
+A21	Realis E10 Actual
+#1	AnnotatorNotes E10	"Child support" is legally defined as a type of payment
+T18	Transaction_Transfer-Money 3812 3825	child support
+E18	Transaction_Transfer-Money:T18 
+A22	Questionable E18 Realis
+A23	Realis E18 Actual
+#2	AnnotatorNotes E18	"Child support" is legally defined as a type of payment

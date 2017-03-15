@@ -1,0 +1,132 @@
+T1	Transaction_Transfer-Ownership 228 234	SEIZED
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 668 674	seized
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 717 723	former
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Personnel_End-Position 848 852;857 864	left company
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 956 961	stole
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 992 998	resold
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 1420 1426	seized
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Ownership 1469 1477	returned
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Other
+T9	Transaction_Transfer-Ownership 1774 1780	seized
+E9	Transaction_Transfer-Ownership:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Ownership 1808 1814	bought
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Ownership 1853 1859	bought
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Justice_Charge-Indict 1954 1961	charged
+E12	Justice_Charge-Indict:T12 
+A12	Realis E12 Other
+T13	Justice_Sentence 4134 4144	sentencing
+E13	Justice_Sentence:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Ownership 3872 3881	purchases
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Ownership 3966 3974	stealing
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Ownership 3618 3624	bought
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Actual
+T17	Life_Marry 3653 3660	married
+E17	Life_Marry:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 3682 3690	returned
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Ownership 3496 3502	bought
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Ownership 3228 3234	seized
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Money 1104 1111	forfeit
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Other
+T22	Transaction_Transfer-Ownership 1205 1210	steal
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Ownership 1514 1524	laid claim
+E23	Transaction_Transfer-Ownership:T23 
+A23	Realis E23 Actual
+T24	Contact_Communicate 1892 1907	phone interview
+E24	Contact_Communicate:T24 
+A24	Realis E24 Actual
+T25	Transaction_Transfer-Ownership 2153 2160	seizure
+E25	Transaction_Transfer-Ownership:T25 
+A25	Realis E25 Other
+T26	Transaction_Transfer-Ownership 2166 2176	forfeiture
+E26	Transaction_Transfer-Ownership:T26 
+A26	Realis E26 Generic
+T27	Transaction_Transfer-Ownership 2349 2356	forfeit
+E27	Transaction_Transfer-Ownership:T27 
+A27	Realis E27 Other
+T28	Transaction_Transfer-Money 2399 2405	stolen
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Other
+T29	Transaction_Transfer-Ownership 2489 2495	stolen
+E29	Transaction_Transfer-Ownership:T29 
+A29	Realis E29 Other
+T30	Transaction_Transfer-Ownership 2560 2570	forfeiture
+E30	Transaction_Transfer-Ownership:T30 
+A30	Realis E30 Other
+T31	Transaction_Transfer-Ownership 2728 2738	forfeiture
+E31	Transaction_Transfer-Ownership:T31 
+A31	Realis E31 Other
+T32	Transaction_Transfer-Ownership 2777 2787	forfeiture
+E32	Transaction_Transfer-Ownership:T32 
+A32	Realis E32 Generic
+T33	Justice_Trial-Hearing 2859 2863	case
+E33	Justice_Trial-Hearing:T33 
+A33	Realis E33 Actual
+T34	Transaction_Transfer-Ownership 2885 2890	stole
+E34	Transaction_Transfer-Ownership:T34 
+A34	Realis E34 Actual
+T35	Personnel_End-Position 2964 2970	former
+E35	Personnel_End-Position:T35 
+A35	Realis E35 Actual
+T36	Transaction_Transfer-Ownership 3019 3029	forfeiture
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Generic
+T37	Transaction_Transfer-Ownership 3301 3307	return
+E37	Transaction_Transfer-Ownership:T37 
+A37	Realis E37 Other
+T38	Transaction_Transfer-Ownership 3433 3442	forfeited
+E38	Transaction_Transfer-Ownership:T38 
+A38	Realis E38 Other
+T39	Life_Marry 3571 3578	wedding
+E39	Life_Marry:T39 
+A39	Realis E39 Actual
+T40	Transaction_Transfer-Ownership 3720 3730	forfeiture
+E40	Transaction_Transfer-Ownership:T40 
+A40	Realis E40 Other
+T41	Transaction_Transfer-Ownership 4030 4040	forfeiture
+E41	Transaction_Transfer-Ownership:T41 
+A41	Realis E41 Generic
+T42	Transaction_Transfer-Ownership 4264 4268;4274 4285	make restitution
+E42	Transaction_Transfer-Ownership:T42 
+A42	Realis E42 Other
+T43	Transaction_Transfer-Money 4322 4327	given
+E43	Transaction_Transfer-Money:T43 
+A43	Realis E43 Actual
+T44	Transaction_Transfer-Ownership 1606 1616	forfeiture
+E44	Transaction_Transfer-Ownership:T44 
+A44	Realis E44 Generic

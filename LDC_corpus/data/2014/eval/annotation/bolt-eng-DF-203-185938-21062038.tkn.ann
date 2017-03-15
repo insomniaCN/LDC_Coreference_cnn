@@ -1,0 +1,49 @@
+T1	Contact_Meet 96 100	meet
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Contact_Meet 320 323	met
+E2	Contact_Meet:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 352 359	WEDDING
+E3	Life_Marry:T3 
+A3	Realis E3 Actual
+T4	Life_Marry 125 132	wedding
+E4	Life_Marry:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 367 370	met
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 382 388	skyped
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Life_Marry 440 447	married
+E7	Life_Marry:T7 
+A7	Realis E7 Other
+A8	Questionable E7 Realis
+T8	Life_Marry 1439 1448	marriages
+E8	Life_Marry:T8 
+A9	Realis E8 Generic
+T9	Contact_Meet 1902 1906	meet
+E9	Contact_Meet:T9 
+A10	Realis E9 Other
+T10	Contact_Meet 2149 2153	meet
+E10	Contact_Meet:T10 
+A11	Realis E10 Other
+T11	Contact_Meet 4244 4251	visited
+E11	Contact_Meet:T11 
+A12	Realis E11 Other
+T12	Life_Marry 492 499	wedding
+E12	Life_Marry:T12 
+A13	Realis E12 Actual
+T13	Contact_Communicate 628 633	Skype
+E13	Contact_Communicate:T13 
+A14	Realis E13 Actual
+T14	Life_Divorce 951 956	split
+E14	Life_Divorce:T14 
+A15	Realis E14 Other
+T15	Contact_Communicate 2668 2673	Skype
+E15	Contact_Communicate:T15 
+A16	Realis E15 Actual
+T16	Transaction_Transfer-Ownership 4218 4224	bought
+E16	Transaction_Transfer-Ownership:T16 
+A17	Realis E16 Other

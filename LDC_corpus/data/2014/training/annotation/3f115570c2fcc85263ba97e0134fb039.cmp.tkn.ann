@@ -1,0 +1,36 @@
+T1	Transaction_Transfer-Money 285 292	funding
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Business_End-Org 401 413	bit the dust
+E2	Business_End-Org:T2 
+A2	Realis E2 Actual
+T3	Business_Declare-Bankruptcy 519 539	filed for bankruptcy
+E3	Business_Declare-Bankruptcy:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 639 647	received
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 687 690;711 720	cut workforce
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 1226 1232	wasted
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 1264 1274	go to jail
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Generic
+T8	Transaction_Transfer-Money 1462 1468	wasted
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+T9	Justice_Arrest-Jail 1500 1510	go to jail
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Generic
+T10	Movement_Transport-Person 1835 1839	gone
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Contact_Meet 1854 1863	interview
+E11	Contact_Meet:T11 
+A11	Realis E11 Actual
+T12	Transaction_Transfer-Money 1954 1967	throwing cash
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic

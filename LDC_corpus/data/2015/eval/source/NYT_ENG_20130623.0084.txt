@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130623.0084" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130623/20130623,b77952f981b461f8cc01df78f67032a3.xml">
+<HEADLINE>
+ABBAS ACCEPTS PRIME MINISTER'S RESIGNATION
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+JERUSALEM - President Mahmoud Abbas of the Palestinian Authority on Sunday accepted the resignation of his prime minister, Rami Hamdallah, who had asked to quit two weeks after being sworn into office.
+</P>
+<P>
+The latest power struggles in the West Bank, where the Palestinian Authority exercises limited self-rule, deepened the image of political disarray, days before Secretary of State John Kerry was expected back in the region to try to revive peace talks with Israel.
+</P>
+<P>
+But in what appeared to be an effort to project a minimal level of stability, a spokesman for Abbas told the official Palestinian news agency Wafa that Abbas asked Hamdallah to stay on in a caretaker role until a replacement could be found.
+</P>
+<P>
+Hamdallah had replaced Salam Fayyad, an internationally respected economist who served as prime minister for six years. Fayyad quit in April, partly because of a dispute over his powers, but he stayed on as a caretaker until Hamdallah’s appointment.
+</P>
+<P>
+Palestinian officials said that Hamdallah had resigned because of a conflict over his authority and responsibilities, and they suggested that his primary problem was with his two deputy prime ministers.
+</P>
+<P>
+A university dean and professor of linguistics, Hamdallah took office with no experience in politics or government, but he was known to be close to Fatah, Abbas’ mainstream party. When Hamdallah was tapped for the post of prime minister, some Palestinian analysts said they expected him to be compliant and not clash with Abbas, an assumption that made Hamdallah’s swift resignation all the more surprising.
+</P>
+<P>
+Mahdi Abdul Hadi, the director of the Palestinian Academic Society for the Study of International Affairs, an independent research institute in East Jerusalem, said the Palestinian Authority was at “a real impasse,” stuck between the Israeli occupation and halfhearted efforts to reconcile with Hamas, the rival Islamic group that controls the coastal Palestinian territory of Gaza.
+</P>
+<P>
+“It is not a question of who the prime minister is,” Abdul Hadi said, “but of where the Palestinian Authority is heading.”
+</P>
+<P>
+The Palestinian public, which reacted largely with apathy to the political disarray, found some unifying cheer this weekend after a singer from Gaza, Muhammad Assaf, 23, won the title of “Arab Idol” in a popular, pan-Arab singing contest fashioned on the British and U.S. versions.
+</P>
+</TEXT>
+</DOC>

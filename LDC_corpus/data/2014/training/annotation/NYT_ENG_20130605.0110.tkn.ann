@@ -1,0 +1,44 @@
+T1	Justice_Fine 529 533	fine
+E1	Justice_Fine:T1 
+A1	Realis E1 Actual
+T2	Justice_Fine 841 845	fine
+E2	Justice_Fine:T2 
+A2	Realis E2 Actual
+T3	Justice_Fine 905 909	fine
+E3	Justice_Fine:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 1021 1024	pay
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Justice_Trial-Hearing 1188 1195	hearing
+E5	Justice_Trial-Hearing:T5 
+A5	Realis E5 Other
+T6	Conflict_Attack 1634 1641	assault
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1909 1917	resigned
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Money 2089 2092	pay
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Other
+T9	Justice_Fine 220 225	FINED
+E9	Justice_Fine:T9 
+A9	Questionable E9 Realis
+A10	Realis E9 Actual
+T10	Personnel_End-Position 372 378	former
+E10	Personnel_End-Position:T10 
+A11	Realis E10 Actual
+T11	Justice_Fine 349 353	fine
+E11	Justice_Fine:T11 
+A12	Realis E11 Other
+T12	Personnel_End-Position 455 461	former
+E12	Personnel_End-Position:T12 
+A13	Realis E12 Actual
+T13	Transaction_Transfer-Money 995 999	cost
+E13	Transaction_Transfer-Money:T13 
+A14	Questionable E13 Mention
+A15	Realis E13 Other
+T14	Personnel_End-Position 1871 1877	former
+E14	Personnel_End-Position:T14 
+A16	Realis E14 Actual

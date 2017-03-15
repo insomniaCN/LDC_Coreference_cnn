@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea990000000000000132" doc_id="36bf36807ecd91631efdf3dd1db1b3b1" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-195" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="249" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-372" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="385" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-556" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="620" length="6">arrest</trigger>
+      </event_mention>
+      <event_mention id="em-984" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="1150" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-249" type="conflict" subtype="attack" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="284" length="4">raid</trigger>
+      </event_mention>
+      <event_mention id="em-209" type="conflict" subtype="attack" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="475" length="4">raid</trigger>
+      </event_mention>
+      <event_mention id="em-866" type="conflict" subtype="attack" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="612" length="7">violent</trigger>
+      </event_mention>
+      <event_mention id="em-494" type="conflict" subtype="attack" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="1028" length="9">firefight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-162" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="461" length="8">protests</trigger>
+      </event_mention>
+      <event_mention id="em-446" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="978" length="7">protest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-919" type="conflict" subtype="attack" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="535" length="7">clashes</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-190" type="life" subtype="die" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="578" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-968" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="601" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-178">
+      <event_mention id="em-415" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="708" length="10">protesters</trigger>
+      </event_mention>
+      <event_mention id="em-721" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="729" length="13">demonstrating</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-245">
+      <event_mention id="em-64" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="1167" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-260">
+      <event_mention id="em-682" type="conflict" subtype="attack" realis="generic">
+        <trigger source="36bf36807ecd91631efdf3dd1db1b3b1" offset="1179" length="9">terrorism</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

@@ -1,0 +1,120 @@
+T1	Contact_Broadcast 435 443	reported
+E204	Contact_Broadcast:T1
+A1	Realis E204 Actual
+T2	Contact_Broadcast 811 817	report
+E754	Contact_Broadcast:T2
+A2	Realis E754 Actual
+T3	Movement_Transport-Person 494 506	test-driving
+E466	Movement_Transport-Person:T3
+A3	Realis E466 Actual
+T4	Movement_Transport-Person 623 627	trip
+E847	Movement_Transport-Person:T4
+A4	Realis E847 Actual
+T5	Movement_Transport-Artifact 697 703	riding
+E742	Movement_Transport-Artifact:T5
+A5	Realis E742 Actual
+T6	Contact_Contact 788 796	tweeting
+E539	Contact_Contact:T6
+A6	Realis E539 Actual
+T7	Contact_Correspondence 766 776	fired back
+E592	Contact_Correspondence:T7
+A7	Realis E592 Actual
+T8	Movement_Transport-Person 911 917	detour
+E357	Movement_Transport-Person:T8
+A8	Realis E357 Actual
+T9	Movement_Transport-Person 1152 1158	detour
+E150	Movement_Transport-Person:T9
+A9	Realis E150 Generic
+T10	Contact_Broadcast 1189 1197	declared
+E573	Contact_Broadcast:T10
+A10	Realis E573 Generic
+T11	Transaction_Transfer-Money 1224 1227	aid
+E616	Transaction_Transfer-Money:T11
+A11	Realis E616 Generic
+T12	Manufacture_Artifact 1236 1239	put
+E490	Manufacture_Artifact:T12
+A12	Realis E490 Other
+T13	Transaction_Transfer-Money 1312 1320	invested
+E2	Transaction_Transfer-Money:T13
+A13	Realis E2 Actual
+T14	Transaction_Transfer-Money 1341 1347	grants
+E310	Transaction_Transfer-Money:T14
+A14	Realis E310 Generic
+T15	Transaction_Transfer-Money 1360 1365	loans
+E732	Transaction_Transfer-Money:T15
+A15	Realis E732 Generic
+T16	Transaction_Transfer-Money 1407 1410	tax
+E791	Transaction_Transfer-Money:T16
+A16	Realis E791 Generic
+T17	Transaction_Transfer-Ownership 1425 1431	buyers
+E95	Transaction_Transfer-Ownership:T17
+A17	Realis E95 Generic
+T18	Transaction_Transfer-Ownership 1448 1454	bought
+E387	Transaction_Transfer-Ownership:T18
+A18	Realis E387 Generic
+T19	Transaction_Transfer-Money 1425 1431	buyers
+E913	Transaction_Transfer-Money:T19
+A19	Realis E913 Generic
+T20	Transaction_Transfer-Money 1448 1454	bought
+E782	Transaction_Transfer-Money:T20
+A20	Realis E782 Generic
+T21	Contact_Meet 1968 1977	symposium
+E935	Contact_Meet:T21
+A21	Realis E935 Actual
+T22	Contact_Meet 4269 4280	symposiums
+E440	Contact_Meet:T22
+A22	Realis E440 Actual
+T23	Transaction_Transfer-Money 2529 2533	loan
+E137	Transaction_Transfer-Money:T23
+A23	Realis E137 Other
+T24	Transaction_Transfer-Ownership 2601 2606	sales
+E958	Transaction_Transfer-Ownership:T24
+A24	Realis E958 Generic
+T25	Transaction_Transfer-Money 2601 2606	sales
+E193	Transaction_Transfer-Money:T25
+A25	Realis E193 Generic
+T26	Manufacture_Artifact 2896 2903	factory
+E631	Manufacture_Artifact:T26
+A26	Realis E631 Generic
+T27	Contact_Broadcast 2926 2935	statement
+E317	Contact_Broadcast:T27
+A27	Realis E317 Actual
+T28	Transaction_Transfer-Money 2957 2965	taxpayer
+E824	Transaction_Transfer-Money:T28
+A28	Realis E824 Generic
+T29	Manufacture_Artifact 3001 3006	maker
+E481	Manufacture_Artifact:T29
+A29	Realis E481 Generic
+T30	Transaction_Transfer-Money 3038 3044	funded
+E745	Transaction_Transfer-Money:T30
+A30	Realis E745 Generic
+T31	Manufacture_Artifact 3065 3071	makers
+E644	Manufacture_Artifact:T31
+A31	Realis E644 Generic
+T32	Business_Declare-Bankruptcy 3082 3090	bankrupt
+E907	Business_Declare-Bankruptcy:T32
+A32	Realis E907 Actual
+T33	Movement_Transport-Person 5170 5176	passed
+E41	Movement_Transport-Person:T33
+A33	Realis E41 Generic
+T34	Contact_Contact 217 223	saying
+E640	Contact_Contact:T34
+A34	Realis E640 Generic
+T35	Contact_Broadcast 3320 3324	sang
+E423	Contact_Broadcast:T35
+A35	Realis E423 Actual
+T36	Contact_Contact 3924 3928	told
+E23	Contact_Contact:T36
+A36	Realis E23 Actual
+T37	Transaction_Transfer-Money 4171 4176	costs
+E953	Transaction_Transfer-Money:T37
+A37	Realis E953 Generic
+T38	Contact_Contact 4528 4536	remarked
+E106	Contact_Contact:T38
+A38	Realis E106 Actual
+R1	Coreference Arg1:E204 Arg2:E754
+R2	Coreference Arg1:E466 Arg2:E847
+R3	Coreference Arg1:E592 Arg2:E539
+R4	Coreference Arg1:E95 Arg2:E387
+R5	Coreference Arg1:E913 Arg2:E782
+R6	Coreference Arg1:E935 Arg2:E440

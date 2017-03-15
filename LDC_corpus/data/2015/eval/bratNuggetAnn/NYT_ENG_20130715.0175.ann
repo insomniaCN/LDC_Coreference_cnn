@@ -1,0 +1,75 @@
+T1	Movement_Transport-Artifact 2309 2321	distribution
+E37	Movement_Transport-Artifact:T1
+A1	Realis E37 Generic
+T2	Contact_Broadcast 983 987	said
+E58	Contact_Broadcast:T2
+A2	Realis E58 Actual
+T3	Transaction_Transaction 1161 1172	transaction
+E63	Transaction_Transaction:T3
+A3	Realis E63 Other
+T4	Transaction_Transfer-Ownership 199 202	BUY
+E66	Transaction_Transfer-Ownership:T4
+A4	Realis E66 Other
+T5	Contact_Broadcast 2934 2940	saying
+E96	Contact_Broadcast:T5
+A5	Realis E96 Actual
+T6	Contact_Broadcast 311 315	said
+E145	Contact_Broadcast:T6
+A6	Realis E145 Actual
+T7	Transaction_Transfer-Money 2823 2830	revenue
+E176	Transaction_Transfer-Money:T7
+A7	Realis E176 Other
+T8	Transaction_Transfer-Money 1235 1241	bought
+E260	Transaction_Transfer-Money:T8
+A8	Realis E260 Actual
+T9	Transaction_Transfer-Money 337 344	acquire
+E274	Transaction_Transfer-Money:T9
+A9	Realis E274 Other
+T10	Transaction_Transaction 843 851	exchange
+E289	Transaction_Transaction:T10
+A10	Realis E289 Other
+T11	Transaction_Transfer-Ownership 2342 2348	buying
+E344	Transaction_Transfer-Ownership:T11
+A11	Realis E344 Generic
+T12	Contact_Contact 1548 1558	conference
+E351	Contact_Contact:T12
+A12	Realis E351 Actual
+T13	Contact_Meet 1902 1909	meeting
+E409	Contact_Meet:T13
+A13	Realis E409 Actual
+T14	Transaction_Transfer-Money 582 590	acquired
+E508	Transaction_Transfer-Money:T14
+A14	Realis E508 Actual
+T15	Contact_Meet 1759 1766	meeting
+E597	Contact_Meet:T15
+A15	Realis E597 Actual
+T16	Transaction_Transaction 1952 1963	transaction
+E614	Transaction_Transaction:T16
+A16	Realis E614 Other
+T17	Transaction_Transfer-Money 199 202	BUY
+E615	Transaction_Transfer-Money:T17
+A17	Realis E615 Other
+T18	Transaction_Transfer-Ownership 337 344	acquire
+E664	Transaction_Transfer-Ownership:T18
+A18	Realis E664 Other
+T19	Transaction_Transfer-Ownership 1235 1241	bought
+E669	Transaction_Transfer-Ownership:T19
+A19	Realis E669 Actual
+T20	Transaction_Transaction 1695 1706	transaction
+E732	Transaction_Transaction:T20
+A20	Realis E732 Other
+T21	Contact_Contact 3157 3161	said
+E757	Contact_Contact:T21
+A21	Realis E757 Actual
+T22	Business_Start-Org 658 665	opening
+E819	Business_Start-Org:T22
+A22	Realis E819 Other
+T23	Contact_Contact 1645 1651	spoken
+E831	Contact_Contact:T23
+A23	Realis E831 Generic
+T24	Transaction_Transfer-Ownership 582 590	acquired
+E897	Transaction_Transfer-Ownership:T24
+A24	Realis E897 Actual
+T25	Transaction_Transfer-Money 2342 2348	buying
+E980	Transaction_Transfer-Money:T25
+A25	Realis E980 Generic

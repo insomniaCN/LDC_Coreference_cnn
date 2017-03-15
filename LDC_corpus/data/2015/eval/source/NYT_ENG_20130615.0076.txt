@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130615.0076" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130615/20130615,5763d161d23461a6ca191dbd02bdd779.xml">
+<HEADLINE>
+COURT IN VENEZUELA ORDERS RELEASE OF A JUDGE SCORNED BY CH Á VEZ
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+During the three and a half years that she was held in prison or under house arrest, Judge Lourdes Afiuni became a symbol of political persecution for many in Venezuela under President Hugo Chávez. On Friday, a court in Caracas, acting at the government’s request, ordered Afiuni to be set free in the latest sign of a shifting political landscape in post-Chávez Venezuela.
+</P>
+<P>
+Afiuni was jailed in December 2009 after issuing a court ruling that infuriated Chávez, who went on television and demanded that she be sentenced to 30 years in prison. For years Chávez ignored international appeals for her release, including from the American leftist intellectual Noam Chomsky.
+</P>
+<P>
+Chávez, a charismatic socialist, died in March, leaving a bitterly divided country.
+</P>
+<P>
+His handpicked successor, Nicolás Maduro, was elected by a slim margin in April and since then has confronted political turmoil and serious economic difficulties that have tested his nascent leadership skills. As Maduro lurches from one crisis to the next, the quality he seems to have honed most is delivering mixed messages at top volume.
+</P>
+<P>
+He branded President Barack Obama “the big boss of the devils” and then sent his foreign minister to shake hands with Secretary of State John Kerry and call for warmer relations.
+</P>
+<P>
+He assailed capitalists for causing soaring inflation and rampant product shortages and then sat down with the head of the country’s biggest private company to discuss the economy.
+</P>
+<P>
+“There are lots of mixed signals,” said Elsa Cardozo, a professor of political science at the Central University of Venezuela. “It is clear the government of President Maduro is in a situation that is forcing it to make some changes in direction. What we don’t know is if they are permanent changes or tactical changes.”
+</P>
+<P>
+Afiuni’s release may actually be intended to counter an opposition campaign to take its message abroad, with leaders visiting countries around the world to make the case that Maduro was unfairly declared the winner of a flawed election and that his government is repressive. The opposition routinely points to Afiuni as the most prominent among a group of what it calls political prisoners.
+</P>
+<P>
+Her lawyer, José Amalio Graterol, confirmed reports last year that she was raped while in prison, became pregnant and had an abortion, which led to other health problems. She was moved to house arrest in Caracas in 2011. Afiuni’s trial began in November and is continuing, although she has not attended it.
+</P>
+</TEXT>
+</DOC>

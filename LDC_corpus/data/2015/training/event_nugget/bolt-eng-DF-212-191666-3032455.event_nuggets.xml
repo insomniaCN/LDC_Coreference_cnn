@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000636" doc_id="bolt-eng-DF-212-191666-3032455" source_type="multi_post">
+<event_mention id="em-10" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="734" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-23" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="1267" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-36" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="1446" length="8">bringing</trigger>
+      </event_mention>
+<event_mention id="em-51" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="1556" length="9">returning</trigger>
+      </event_mention>
+<event_mention id="em-66" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="1599" length="10">manuvering</trigger>
+      </event_mention>
+<event_mention id="em-79" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="2008" length="8">election</trigger>
+      </event_mention>
+<event_mention id="em-92" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="2990" length="5">speak</trigger>
+      </event_mention>
+<event_mention id="em-120" type="business" subtype="endorg" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="4425" length="12">extinguished</trigger>
+      </event_mention>
+<event_mention id="em-135" type="business" subtype="endorg" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="4789" length="12">extinguished</trigger>
+      </event_mention>
+<event_mention id="em-148" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="5908" length="6">attack</trigger>
+      </event_mention>
+<event_mention id="em-163" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="5936" length="5">force</trigger>
+      </event_mention>
+<event_mention id="em-176" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="6218" length="10">ex-members</trigger>
+      </event_mention>
+<event_mention id="em-191" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="6311" length="6">attack</trigger>
+      </event_mention>
+<event_mention id="em-204" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="6454" length="4">it's</trigger>
+      </event_mention>
+<event_mention id="em-217" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="7070" length="3">aid</trigger>
+      </event_mention>
+<event_mention id="em-232" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="7165" length="2">it</trigger>
+      </event_mention>
+<event_mention id="em-245" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="7513" length="8">attacked</trigger>
+      </event_mention>
+<event_mention id="em-260" type="personnel" subtype="elect" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="7928" length="7">elected</trigger>
+      </event_mention>
+<event_mention id="em-273" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8107" length="8">bringing</trigger>
+      </event_mention>
+<event_mention id="em-286" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8217" length="9">returning</trigger>
+      </event_mention>
+<event_mention id="em-299" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8260" length="10">manuvering</trigger>
+      </event_mention>
+<event_mention id="em-312" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8399" length="8">conflict</trigger>
+      </event_mention>
+<event_mention id="em-327" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8570" length="11">ex-military</trigger>
+      </event_mention>
+<event_mention id="em-342" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8749" length="7">article</trigger>
+      </event_mention>
+<event_mention id="em-357" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8789" length="5">board</trigger>
+      </event_mention>
+<event_mention id="em-370" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8808" length="4">post</trigger>
+      </event_mention>
+<event_mention id="em-385" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8841" length="3">war</trigger>
+      </event_mention>
+<event_mention id="em-400" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8859" length="4">site</trigger>
+      </event_mention>
+<event_mention id="em-415" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8937" length="4">post</trigger>
+      </event_mention>
+<event_mention id="em-428" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8942" length="2">it</trigger>
+      </event_mention>
+<event_mention id="em-441" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="8508" length="4">tell</trigger>
+      </event_mention>
+<event_mention id="em-456" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="9372" length="4">tell</trigger>
+      </event_mention>
+<event_mention id="em-471" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="9434" length="11">ex-military</trigger>
+      </event_mention>
+<event_mention id="em-484" type="contact" subtype="meet" realis="generic" audience="twoway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="9824" length="4">meet</trigger>
+      </event_mention>
+<event_mention id="em-497" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="10643" length="8">conflict</trigger>
+      </event_mention>
+<event_mention id="em-510" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="10752" length="4">tell</trigger>
+      </event_mention>
+<event_mention id="em-523" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="10814" length="11">ex-military</trigger>
+      </event_mention>
+<event_mention id="em-536" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="10951" length="12">relinquished</trigger>
+      </event_mention>
+<event_mention id="em-551" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="11225" length="3">War</trigger>
+      </event_mention>
+<event_mention id="em-566" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="9046" length="4">kick</trigger>
+      </event_mention>
+<event_mention id="em-581" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="10385" length="4">kick</trigger>
+      </event_mention>
+<event_mention id="em-594" type="personnel" subtype="endposition" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="11599" length="4">kick</trigger>
+      </event_mention>
+<event_mention id="em-609" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="11893" length="3">was</trigger>
+      </event_mention>
+<event_mention id="em-624" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="11943" length="3">aid</trigger>
+      </event_mention>
+<event_mention id="em-637" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="12038" length="2">it</trigger>
+      </event_mention>
+<event_mention id="em-650" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="7020" length="3">was</trigger>
+      </event_mention>
+<event_mention id="em-663" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="12423" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-678" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="12633" length="7">wealthy</trigger>
+      </event_mention>
+<event_mention id="em-693" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="12645" length="12">impoverished</trigger>
+      </event_mention>
+<event_mention id="em-708" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="9610" length="4">take</trigger>
+      </event_mention>
+<event_mention id="em-723" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="13310" length="4">take</trigger>
+      </event_mention>
+<event_mention id="em-736" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="14068" length="3">buy</trigger>
+      </event_mention>
+<event_mention id="em-749" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="14278" length="7">wealthy</trigger>
+      </event_mention>
+<event_mention id="em-762" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-212-191666-3032455" offset="14290" length="12">impoverished</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

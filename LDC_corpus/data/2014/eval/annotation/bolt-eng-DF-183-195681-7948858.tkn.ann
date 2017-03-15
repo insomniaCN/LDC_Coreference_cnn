@@ -1,0 +1,30 @@
+T1	Transaction_Transfer-Money 550 558	salaries
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T2	Justice_Appeal 674 682	appealed
+E2	Justice_Appeal:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Money 726 731	repay
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Money 775 785	collecting
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Business_Declare-Bankruptcy 1795 1805	bankruptcy
+E5	Business_Declare-Bankruptcy:T5 
+A5	Realis E5 Generic
+T6	Transaction_Transfer-Money 2291 2298	funding
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Transaction_Transfer-Money 2551 2558	shifted
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Actual
+T8	Personnel_End-Position 2734 2742	quitting
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Personnel_Start-Position 2806 2812	become
+E9	Personnel_Start-Position:T9 
+A9	Realis E9 Other
+T10	Personnel_End-Position 3378 3385	retired
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual

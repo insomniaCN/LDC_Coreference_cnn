@@ -1,0 +1,75 @@
+T1	Personnel_Elect 1252 1255	won
+E21	Personnel_Elect:T1
+A1	Realis E21 Actual
+T2	Personnel_Elect 794 797	won
+E79	Personnel_Elect:T2
+A2	Realis E79 Actual
+T3	Contact_Broadcast 716 720	told
+E109	Contact_Broadcast:T3
+A3	Realis E109 Actual
+T4	Transaction_Transfer-Money 1869 1873	wage
+E141	Transaction_Transfer-Money:T4
+A4	Realis E141 Generic
+T5	Movement_Transport-Person 1145 1149	came
+E270	Movement_Transport-Person:T5
+A5	Realis E270 Actual
+T6	Personnel_End-Position 888 896	replaced
+E274	Personnel_End-Position:T6
+A6	Realis E274 Other
+T7	Movement_Transport-Person 1066 1071	exile
+E297	Movement_Transport-Person:T7
+A7	Realis E297 Actual
+T8	Contact_Broadcast 2567 2575	reported
+E302	Contact_Broadcast:T8
+A8	Realis E302 Actual
+T9	Personnel_Elect 2603 2611	election
+E344	Personnel_Elect:T9
+A9	Realis E344 Generic
+T10	Transaction_Transfer-Ownership 2468 2473	given
+E457	Transaction_Transfer-Ownership:T10
+A10	Realis E457 Generic
+T11	Transaction_Transfer-Money 2112 2115	pay
+E500	Transaction_Transfer-Money:T11
+A11	Realis E500 Other
+T12	Contact_Meet 1113 1117	told
+E562	Contact_Meet:T12
+A12	Realis E562 Actual
+T13	Personnel_Elect 185 189	WINS
+E569	Personnel_Elect:T13
+A13	Realis E569 Actual
+T14	Personnel_Elect 2540 2548	Election
+E583	Personnel_Elect:T14
+A14	Realis E583 Generic
+T15	Business_Start-Org 1571 1575	form
+E594	Business_Start-Org:T15
+A15	Realis E594 Actual
+T16	Personnel_Elect 1423 1431	election
+E719	Personnel_Elect:T16
+A16	Realis E719 Generic
+T17	Transaction_Transfer-Ownership 2418 2426	seizures
+E755	Transaction_Transfer-Ownership:T17
+A17	Realis E755 Generic
+T18	Personnel_Elect 1103 1111	election
+E857	Personnel_Elect:T18
+A18	Realis E857 Generic
+T19	Transaction_Transfer-Money 1778 1786	salaries
+E881	Transaction_Transfer-Money:T19
+A19	Realis E881 Generic
+T20	Business_Merge-Org 1551 1557	merged
+E905	Business_Merge-Org:T20
+A20	Realis E905 Actual
+T21	Personnel_Elect 492 495	won
+E913	Personnel_Elect:T21
+A21	Realis E913 Actual
+T22	Transaction_Transfer-Money 2183 2189	income
+E961	Transaction_Transfer-Money:T22
+A22	Realis E961 Generic
+T23	Movement_Transport-Person 1052 1060	returned
+E963	Movement_Transport-Person:T23
+A23	Realis E963 Actual
+T24	Transaction_Transfer-Money 1796 1804	payments
+E994	Transaction_Transfer-Money:T24
+A24	Realis E994 Generic
+T25	Personnel_Elect 536 545	elections
+E998	Personnel_Elect:T25
+A25	Realis E998 Generic

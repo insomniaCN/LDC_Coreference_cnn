@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab40000000000000190" doc_id="91a347901fbd27c4f8fa3b66b12695eb" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-804" type="conflict" subtype="attack" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="200" length="6">attack</trigger>
+      </event_mention>
+      <event_mention id="em-221" type="conflict" subtype="attack" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="872" length="6">attack</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-749" type="conflict" subtype="attack" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="224" length="6">mobbed</trigger>
+      </event_mention>
+      <event_mention id="em-155" type="conflict" subtype="attack" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="576" length="8">attacked</trigger>
+      </event_mention>
+      <event_mention id="em-186" type="conflict" subtype="attack" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="622" length="5">threw</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-651" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="255" length="13">demonstrators</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-103" type="conflict" subtype="attack" realis="generic">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="461" length="7">attacks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-720" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="667" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-225" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="786" length="4">went</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-137">
+      <event_mention id="em-315" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="1650" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-591" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="inperson" schedule="canttell">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="953" length="8">graffiti</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-985" type="conflict" subtype="attack" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="1014" length="6">alight</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-381" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="91a347901fbd27c4f8fa3b66b12695eb" offset="1398" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

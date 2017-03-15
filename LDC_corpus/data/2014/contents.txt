@@ -1,0 +1,61 @@
+./contents.txt
+
+  This file
+
+./eval/token_counts_2014_eval.tab
+
+  Token counts for source docs in ./eval/source/
+
+./eval/annotation/*
+
+  This directory holds all data annotated for the 2014 eval in the BRAT
+  format (in .ann).  The combined annotation of all 200 files in the 
+  evaluation format is also included here, in the file "annotation.tbf".
+
+./eval/source/*
+
+  This directory holds all the tokenized source docs (in .txt) used in
+  the 2014 eval, 99 of which are discussion forum documents and 101 of
+  which are newswire documents.
+
+./eval/token_offset/*
+
+  This directory holds all the token tab files (in .tab) corresponding 
+  to the source docs in ./eval/source/ 
+  All files have the following 4 tab delimited fields:
+  
+        token_id: the token ID
+        token_str: the text string of the token
+        tkn_begin: beginning offset of the token
+        tkn_end: ending offset of the token
+		
+  All files are tokenized using LDC's internal tokenizer.
+
+./training/token_counts_2014_training.tab
+
+  Token counts for source docs in ./training/source/
+
+./training/annotation/*
+
+  This directory holds all training data annotated in support of the 2014 eval
+  in the BRAT format (in .ann).  The combined annotation of all 151 files in the 
+  evaluation format is also included here, in the file "annotation.tbf".
+
+./training/source/*
+
+  This directory holds all the tokenized source docs (in .txt) utilized for the 
+  2014 training annotations, 74 of which are discussion forum documents and 77
+  of which are newswire documents.
+
+./training/token_offset/*
+
+  This directory holds all the token tab files (in .tab) corresponding 
+  to the source docs in ./training/source/ 
+  All files have the following 4 tab delimited fields:
+  
+        token_id: the token ID
+        token_str: the text string of the token
+        tkn_begin: beginning offset of the token
+        tkn_end: ending offset of the token
+
+  All files are tokenized using LDC's internal tokenizer.

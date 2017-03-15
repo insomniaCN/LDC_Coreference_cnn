@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea440000000000000002" doc_id="NYT_ENG_20130426.0212" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-678" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="215" length="4">DIES</trigger>
+      </event_mention>
+      <event_mention id="em-744" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="422" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-659" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="493" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-384" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="279" length="11">contributed</trigger>
+      </event_mention>
+      <event_mention id="em-629" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="563" length="7">donated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-510" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="396" length="7">founded</trigger>
+      </event_mention>
+      <event_mention id="em-860" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="766" length="7">founded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-919" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="806" length="6">awards</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-540" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="1037" length="8">financed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-772" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="1307" length="6">giving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-811" type="life" subtype="beborn" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="1531" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-404" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="1828" length="5">visit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-562" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="1782" length="12">globetrotter</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-850" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="1941" length="2">to</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-636" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130426.0212" offset="1873" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-764" type="life" subtype="marry" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="1970" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-686" type="life" subtype="die" realis="actual">
+        <trigger source="NYT_ENG_20130426.0212" offset="2008" length="4">died</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-270">
+      <event_mention id="em-799" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130426.0212" offset="2328" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-298">
+      <event_mention id="em-549" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="1097" length="7">provide</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-313">
+      <event_mention id="em-579" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130426.0212" offset="2382" length="4">left</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

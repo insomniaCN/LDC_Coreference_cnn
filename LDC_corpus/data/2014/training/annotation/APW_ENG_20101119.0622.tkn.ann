@@ -1,0 +1,50 @@
+T1	Justice_Arrest-Jail 239 247	arrested
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Justice_Trial-Hearing 374 381	hearing
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Actual
+T3	Justice_Charge-Indict 433 440	charged
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 592 610	criminal complaint
+E5	Justice_Charge-Indict:T4 
+A6	Realis E5 Actual
+T5	Transaction_Transfer-Money 626 630	gave
+E6	Transaction_Transfer-Money:T5 
+A7	Realis E6 Actual
+T6	Justice_Convict 703 712	convicted
+E7	Justice_Convict:T6 
+T7	Transaction_Transfer-Money 780 791	transaction
+E8	Transaction_Transfer-Money:T7 
+A8	Realis E8 Actual
+T8	Transaction_Transfer-Money 795 798;823 828	get money
+E9	Transaction_Transfer-Money:T8 
+A9	Realis E9 Other
+T9	Justice_Charge-Indict 878 887	complaint
+E10	Justice_Charge-Indict:T9 
+A10	Realis E10 Actual
+T10	Life_Marry 949 956	married
+E11	Life_Marry:T10 
+A11	Realis E11 Actual
+T11	Movement_Transport-Person 963 971	entering
+E12	Movement_Transport-Person:T11 
+A12	Realis E12 Actual
+T12	Conflict_Attack 115 121	attack
+E13	Conflict_Attack:T12 
+A13	Realis E13 Other
+T13	Justice_Trial-Hearing 129 134	court
+E14	Justice_Trial-Hearing:T13 
+A14	Realis E14 Other
+T14	Conflict_Attack 300 307	bombing
+E15	Conflict_Attack:T14 
+A15	Realis E15 Other
+T15	Conflict_Attack 568 574	attack
+E4	Conflict_Attack:T15 
+A4	Realis E4 Other
+T16	Justice_Charge-Indict 503 510	accused
+E16	Justice_Charge-Indict:T16 
+A5	Realis E16 Other
+T17	Conflict_Attack 720 727	bombing
+E17	Conflict_Attack:T17 
+A16	Realis E17 Other

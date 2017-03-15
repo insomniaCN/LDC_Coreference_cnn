@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea630000000000000046" doc_id="NYT_ENG_20130710.0158" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-155" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="194" length="6">RETURN</trigger>
+      </event_mention>
+      <event_mention id="em-435" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="437" length="8">returned</trigger>
+      </event_mention>
+      <event_mention id="em-569" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="698" length="7">arrived</trigger>
+      </event_mention>
+      <event_mention id="em-881" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="798" length="4">trip</trigger>
+      </event_mention>
+      <event_mention id="em-648" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130710.0158" offset="1371" length="6">return</trigger>
+      </event_mention>
+      <event_mention id="em-975" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="2286" length="6">return</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-566" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="567" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-717" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="1684" length="6">urging</trigger>
+      </event_mention>
+      <event_mention id="em-716" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="2033" length="8">pressing</trigger>
+      </event_mention>
+      <event_mention id="em-66" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="2312" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-90">
+      <event_mention id="em-384" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="884" length="4">left</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-792" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="958" length="11">withdrawing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-972" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="1018" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-913" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130710.0158" offset="1129" length="13">manufacturing</trigger>
+      </event_mention>
+      <event_mention id="em-555" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="NYT_ENG_20130710.0158" offset="1820" length="9">operation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-287" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="923" length="10">production</trigger>
+      </event_mention>
+      <event_mention id="em-849" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="NYT_ENG_20130710.0158" offset="2689" length="9">producing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-751" type="movement" subtype="transportperson" realis="other">
+        <trigger source="NYT_ENG_20130710.0158" offset="1224" length="5">visit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-606" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="NYT_ENG_20130710.0158" offset="1306" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-663" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="1500" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-344">
+      <event_mention id="em-869" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130710.0158" offset="2403" length="9">exchanges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-372">
+      <event_mention id="em-646" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130710.0158" offset="2456" length="6">attack</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-387">
+      <event_mention id="em-660" type="conflict" subtype="attack" realis="other">
+        <trigger source="NYT_ENG_20130710.0158" offset="2535" length="14">counterattacks</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

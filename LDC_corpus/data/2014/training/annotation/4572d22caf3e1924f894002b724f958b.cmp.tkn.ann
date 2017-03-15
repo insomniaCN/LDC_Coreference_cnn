@@ -1,0 +1,79 @@
+T1	Transaction_Transfer-Money 342 348	afford
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Generic
+T3	Justice_Acquit 420 443	gotten away with murder
+E3	Justice_Acquit:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 772 778	afford
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Generic
+T5	Transaction_Transfer-Money 1300 1304	debt
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Generic
+#1	AnnotatorNotes E5	debt is money not yet paid and so qualifies as an other transfer.money event, but since it is generic, also, I'll mark it generic
+T6	Transaction_Transfer-Money 1263 1268	taxes
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Generic
+T7	Transaction_Transfer-Money 1395 1399	debt
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Generic
+T8	Justice_Pardon 1754 1761	pardons
+E8	Justice_Pardon:T8 
+A8	Realis E8 Generic
+T9	Justice_Trial-Hearing 1906 1911	trial
+E9	Justice_Trial-Hearing:T9 
+A9	Realis E9 Generic
+T10	Justice_Pardon 2114 2122	pardoned
+E10	Justice_Pardon:T10 
+A10	Realis E10 Actual
+T11	Justice_Pardon 2193 2199	pardon
+E11	Justice_Pardon:T11 
+T12	Justice_Pardon 2293 2300	pardons
+E12	Justice_Pardon:T12 
+A11	Realis E12 Generic
+T13	Justice_Arrest-Jail 2573 2579	prison
+E13	Justice_Arrest-Jail:T13 
+A12	Realis E13 Generic
+T14	Justice_Arrest-Jail 2599 2605	prison
+E14	Justice_Arrest-Jail:T14 
+A13	Realis E14 Generic
+A14	Realis E11 Actual
+T15	Transaction_Transfer-Money 3133 3138	taken
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Generic
+T16	Transaction_Transfer-Money 3229 3234	given
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 3522 3528	income
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Generic
+T18	Justice_Trial-Hearing 4263 4267	case
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Generic
+T19	Justice_Trial-Hearing 183 187	case
+E19	Justice_Trial-Hearing:T19 
+A19	Realis E19 Actual
+T20	Contact_Communicate 4479 4486	reports
+E20	Contact_Communicate:T20 
+A20	Realis E20 Generic
+T21	Transaction_Transfer-Money 4797 4805	embezzle
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Generic
+T22	Justice_Release-Parole 4876 4885	probation
+E22	Justice_Release-Parole:T22 
+A22	Realis E22 Generic
+T23	Justice_Arrest-Jail 4917 4926;4931 4937	a year in county
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Generic
+T24	Transaction_Transfer-Ownership 4940 4945	Steel
+E24	Transaction_Transfer-Ownership:T24 
+A24	Realis E24 Generic
+T25	Life_Die 5084 5090	killed
+E25	Life_Die:T25 
+A25	Realis E25 Generic
+T2	Life_Die 437 443	murder
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T28	Personnel_End-Position 1886 1892	former
+E28	Personnel_End-Position:T28 
+A28	Realis E28 Generic

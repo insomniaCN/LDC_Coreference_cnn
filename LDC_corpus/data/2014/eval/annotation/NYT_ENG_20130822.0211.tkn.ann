@@ -1,0 +1,126 @@
+T1	Conflict_Attack 762 768	attack
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 774 780	killed
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 890 893	met
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T4	Contact_Meet 897 907	deliberate
+E4	Contact_Meet:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 972 982	airstrikes
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Movement_Transport-Person 1207 1212	moved
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1213 1219	former
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 1272 1278	arrest
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Release-Parole 1313 1319;1343 1356	ending incarceration
+E9	Justice_Release-Parole:T9 
+A9	Realis E9 Actual
+T10	Justice_Pardon 1379 1387;1397 1404	granting freedom
+E10	Justice_Pardon:T10 
+A10	Realis E10 Other
+T11	Justice_Release-Parole 1411 1418	release
+E11	Justice_Release-Parole:T11 
+A11	Realis E11 Actual
+T12	Conflict_Demonstrate 1483 1493	protesting
+E12	Conflict_Demonstrate:T12 
+A12	Realis E12 Actual
+T13	Personnel_End-Position 1564 1570	ouster
+E13	Personnel_End-Position:T13 
+A13	Realis E13 Actual
+T14	Justice_Arrest-Jail 1575 1584	detention
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Ownership 1791 1798	Trading
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Generic
+T16	Justice_Arrest-Jail 2936 2944	prisoner
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 3081 3087	robbed
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 3090 3096	beaten
+E18	Conflict_Attack:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 3214 3222	returned
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Justice_Sue 4723 4731	lawsuits
+E20	Justice_Sue:T20 
+A20	Realis E20 Actual
+T21	Life_Die 4818 4822	died
+E21	Life_Die:T21 
+A21	Realis E21 Actual
+T22	Personnel_End-Position 5055 5061	resign
+E22	Personnel_End-Position:T22 
+A22	Realis E22 Other
+T23	Contact_Meet 5206 5210	meet
+E23	Contact_Meet:T23 
+A23	Realis E23 Other
+T24	Transaction_Transfer-Money 5265 5271	paying
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Other
+T25	Conflict_Attack 5968 5980	gunning down
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Justice_Trial-Hearing 6198 6205	hearing
+E26	Justice_Trial-Hearing:T26 
+A26	Realis E26 Actual
+T27	Justice_Release-Parole 6258 6264	parole
+E27	Justice_Release-Parole:T27 
+A27	Realis E27 Other
+T28	Life_Die 6283 6291	massacre
+E28	Life_Die:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 6627 6634	arrived
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Actual
+T30	Personnel_Start-Position 6769 6775	become
+E30	Personnel_Start-Position:T30 
+A30	Realis E30 Other
+T31	Justice_Release-Parole 7067 7074	paroled
+E31	Justice_Release-Parole:T31 
+A31	Realis E31 Other
+T32	Justice_Arrest-Jail 7080 7086	prison
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Actual
+T33	Justice_Sentence 7122 7130	sentence
+E33	Justice_Sentence:T33 
+A33	Realis E33 Actual
+T34	Contact_Meet 7682 7685	met
+E34	Contact_Meet:T34 
+A34	Realis E34 Actual
+T35	Life_Injure 7728 7735	injured
+E35	Life_Injure:T35 
+A35	Realis E35 Actual
+T36	Contact_Meet 7779 7789	encounters
+E36	Contact_Meet:T36 
+A36	Realis E36 Actual
+T37	Justice_Trial-Hearing 8186 8191	trial
+E37	Justice_Trial-Hearing:T37 
+A37	Realis E37 Actual
+T38	Transaction_Transfer-Money 8221 8225;8249 8255	took bribes
+E38	Transaction_Transfer-Money:T38 
+A38	Realis E38 Actual
+T39	Conflict_Attack 533 539	ATTACK
+E39	Conflict_Attack:T39 
+A39	Realis E39 Actual
+T40	Life_Die 5854 5862	KILLINGS
+E40	Life_Die:T40 
+A40	Realis E40 Actual
+T41	Conflict_Attack 6109 6112	war
+E41	Conflict_Attack:T41 
+A41	Realis E41 Actual
+T42	Justice_Trial-Hearing 7987 7992	TRIAL
+E42	Justice_Trial-Hearing:T42 
+A42	Realis E42 Actual

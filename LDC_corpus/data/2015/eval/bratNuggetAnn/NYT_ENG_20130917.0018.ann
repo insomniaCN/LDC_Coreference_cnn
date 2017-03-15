@@ -1,0 +1,153 @@
+T1	Transaction_Transfer-Ownership 705 711	bought
+E1	Transaction_Transfer-Ownership:T1
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Money 593 599	buyers
+E6	Transaction_Transfer-Money:T2
+A2	Realis E6 Generic
+T3	Movement_Transport-Person 1904 1908	runs
+E14	Movement_Transport-Person:T3
+A3	Realis E14 Actual
+T4	Transaction_Transfer-Money 2869 2879	purchasing
+E25	Transaction_Transfer-Money:T4
+A4	Realis E25 Other
+T5	Conflict_Attack 1343 1353	discharged
+E28	Conflict_Attack:T5
+A5	Realis E28 Actual
+T6	Transaction_Transfer-Ownership 475 478	buy
+E45	Transaction_Transfer-Ownership:T6
+A6	Realis E45 Other
+T7	Conflict_Attack 3082 3088	killed
+E48	Conflict_Attack:T7
+A7	Realis E48 Actual
+T8	Life_Die 1297 1303	lethal
+E63	Life_Die:T8
+A8	Realis E63 Generic
+T9	Life_Die 3082 3088	killed
+E67	Life_Die:T9
+A9	Realis E67 Actual
+T10	Transaction_Transfer-Money 705 711	bought
+E93	Transaction_Transfer-Money:T10
+A10	Realis E93 Actual
+T11	Conflict_Attack 3210 3216	killed
+E98	Conflict_Attack:T11
+A11	Realis E98 Actual
+T12	Movement_Transport-Person 795 803	rampaged
+E111	Movement_Transport-Person:T12
+A12	Realis E111 Actual
+T13	Life_Die 3210 3216	killed
+E150	Life_Die:T13
+A13	Realis E150 Actual
+T14	Life_Injure 3231 3238	wounded
+E168	Life_Injure:T14
+A14	Realis E168 Actual
+T15	Conflict_Attack 1143 1148	fired
+E202	Conflict_Attack:T15
+A15	Realis E202 Actual
+T16	Conflict_Attack 270 278	SHOOTING
+E226	Conflict_Attack:T16
+A16	Realis E226 Actual
+T17	Life_Injure 3104 3111	wounded
+E252	Life_Injure:T17
+A17	Realis E252 Actual
+T18	Conflict_Attack 795 803	rampaged
+E255	Conflict_Attack:T18
+A18	Realis E255 Actual
+T19	Transaction_Transfer-Ownership 1831 1835	took
+E300	Transaction_Transfer-Ownership:T19
+A19	Realis E300 Actual
+T20	Contact_Broadcast 2439 2449	statements
+E305	Contact_Broadcast:T20
+A20	Realis E305 Actual
+T21	Transaction_Transfer-Ownership 202 208	BUYING
+E341	Transaction_Transfer-Ownership:T21
+A21	Realis E341 Other
+T22	Conflict_Attack 1673 1678	shoot
+E402	Conflict_Attack:T22
+A22	Realis E402 Other
+T23	Conflict_Attack 3231 3238	wounded
+E438	Conflict_Attack:T23
+A23	Realis E438 Actual
+T24	Movement_Transport-Artifact 1831 1835	took
+E461	Movement_Transport-Artifact:T24
+A24	Realis E461 Actual
+T25	Transaction_Transfer-Ownership 2869 2879	purchasing
+E488	Transaction_Transfer-Ownership:T25
+A25	Realis E488 Other
+T26	Transaction_Transfer-Ownership 556 560	sale
+E513	Transaction_Transfer-Ownership:T26
+A26	Realis E513 Generic
+T27	Movement_Transport-Person 1019 1023	went
+E522	Movement_Transport-Person:T27
+A27	Realis E522 Actual
+T28	Contact_Contact 831 835	said
+E560	Contact_Contact:T28
+A28	Realis E560 Actual
+T29	Contact_Contact 992 996	said
+E564	Contact_Contact:T29
+A29	Realis E564 Actual
+T30	Conflict_Attack 3104 3111	wounded
+E568	Conflict_Attack:T30
+A30	Realis E568 Actual
+T31	Personnel_End-Position 3126 3132	former
+E572	Personnel_End-Position:T31
+A31	Realis E572 Actual
+T32	Conflict_Attack 1600 1606	firing
+E588	Conflict_Attack:T32
+A32	Realis E588 Actual
+T33	Contact_Correspondence 2075 2079	said
+E671	Contact_Correspondence:T33
+A33	Realis E671 Actual
+T34	Transaction_Transfer-Money 202 208	BUYING
+E689	Transaction_Transfer-Money:T34
+A34	Realis E689 Other
+T35	Conflict_Attack 2121 2125	shot
+E699	Conflict_Attack:T35
+A35	Realis E699 Actual
+T36	Conflict_Attack 339 345	killed
+E701	Conflict_Attack:T36
+A36	Realis E701 Actual
+T37	Movement_Transport-Person 1868 1874	headed
+E715	Movement_Transport-Person:T37
+A37	Realis E715 Actual
+T38	Life_Die 339 345	killed
+E719	Life_Die:T38
+A38	Realis E719 Actual
+T39	Transaction_Transfer-Money 556 560	sale
+E722	Transaction_Transfer-Money:T39
+A39	Realis E722 Generic
+T40	Conflict_Attack 1927 1937	cranks off
+E763	Conflict_Attack:T40
+A40	Realis E763 Actual
+T41	Conflict_Attack 2041 2047	shoots
+E767	Conflict_Attack:T41
+A41	Realis E767 Actual
+T42	Transaction_Transfer-Money 475 478	buy
+E779	Transaction_Transfer-Money:T42
+A42	Realis E779 Other
+T43	Movement_Transport-Person 1976 1981	heads
+E797	Movement_Transport-Person:T43
+A43	Realis E797 Actual
+T44	Conflict_Attack 1803 1807	shot
+E810	Conflict_Attack:T44
+A44	Realis E810 Actual
+T45	Conflict_Attack 283 291	SHOOTING
+E828	Conflict_Attack:T45
+A45	Realis E828 Actual
+T46	Contact_Contact 1424 1428	said
+E870	Contact_Contact:T46
+A46	Realis E870 Actual
+T47	Transaction_Transfer-Ownership 593 599	buyers
+E893	Transaction_Transfer-Ownership:T47
+A47	Realis E893 Generic
+T48	Conflict_Attack 3044 3052	shooters
+E895	Conflict_Attack:T48
+A48	Realis E895 Generic
+T49	Contact_Meet 1747 1757	confronted
+E942	Contact_Meet:T49
+A49	Realis E942 Actual
+T50	Contact_Meet 2012 2021	confronts
+E991	Contact_Meet:T50
+A50	Realis E991 Actual
+T51	Contact_Contact 2300 2310	interviews
+E994	Contact_Contact:T51
+A51	Realis E994 Actual

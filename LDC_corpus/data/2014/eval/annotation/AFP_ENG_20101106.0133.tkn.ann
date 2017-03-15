@@ -1,0 +1,39 @@
+T1	Transaction_Transfer-Money 101 105	paid
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Money 256 264;299 305	received ransom
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Money 466 473	payment
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 662 669	sharing
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 885 889	paid
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Money 937 941	paid
+E6	Transaction_Transfer-Money:T6 
+A6	Questionable E6 Realis
+A7	Realis E6 Actual
+T7	Transaction_Transfer-Ownership 1003 1009	seized
+E7	Transaction_Transfer-Ownership:T7 
+A8	Realis E7 Actual
+T8	Movement_Transport-Person 1050 1057	heading
+E8	Movement_Transport-Person:T8 
+A9	Questionable E8 Mention
+A10	Realis E8 Actual
+T9	Conflict_Attack 1262 1271	attacking
+E9	Conflict_Attack:T9 
+A11	Realis E9 Generic
+T10	Transaction_Transfer-Money 1453 1457	paid
+E10	Transaction_Transfer-Money:T10 
+A12	Realis E10 Generic
+T11	Transaction_Transfer-Money 1519 1523	paid
+E11	Transaction_Transfer-Money:T11 
+A13	Questionable E11 Realis
+A14	Realis E11 Actual
+T12	Transaction_Transfer-Money 1637 1641	paid
+E12	Transaction_Transfer-Money:T12 
+A15	Realis E12 Actual

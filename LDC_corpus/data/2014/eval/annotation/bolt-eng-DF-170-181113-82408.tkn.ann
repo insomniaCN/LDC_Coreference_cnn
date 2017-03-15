@@ -1,0 +1,139 @@
+T1	Business_Declare-Bankruptcy 78 97	declares bankruptcy
+E1	Business_Declare-Bankruptcy:T1 
+A1	Realis E1 Actual
+T2	Business_Declare-Bankruptcy 289 294;299 309	filed bankruptcy
+E2	Business_Declare-Bankruptcy:T2 
+A2	Realis E2 Actual
+T3	Business_Declare-Bankruptcy 420 425;432 442	filed Chapter 11
+E3	Business_Declare-Bankruptcy:T3 
+A3	Realis E3 Actual
+T5	Transaction_Transfer-Money 782 789	bailout
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 1184 1187	pay
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Business_Declare-Bankruptcy 1207 1212;1217 1227	filed bankruptcy
+E7	Business_Declare-Bankruptcy:T7 
+A7	Realis E7 Actual
+T8	Business_Declare-Bankruptcy 1697 1707	Bankruptcy
+E8	Business_Declare-Bankruptcy:T8 
+A8	Realis E8 Generic
+T9	Business_Declare-Bankruptcy 2059 2069	bankruptsy
+E9	Business_Declare-Bankruptcy:T9 
+A9	Questionable E9 Realis
+A10	Realis E9 Actual
+T10	Transaction_Transfer-Money 2485 2491	paying
+E10	Transaction_Transfer-Money:T10 
+A11	Realis E10 Generic
+T11	Transaction_Transfer-Money 2522 2529	payment
+E11	Transaction_Transfer-Money:T11 
+A12	Realis E11 Generic
+T12	Business_Declare-Bankruptcy 2912 2922	bankruptsy
+E12	Business_Declare-Bankruptcy:T12 
+A13	Questionable E12 Realis
+A14	Realis E12 Actual
+T13	Transaction_Transfer-Money 3338 3344	paying
+E13	Transaction_Transfer-Money:T13 
+A15	Realis E13 Generic
+T14	Transaction_Transfer-Money 3375 3382	payment
+E14	Transaction_Transfer-Money:T14 
+A16	Realis E14 Generic
+T15	Business_Declare-Bankruptcy 3635 3645	Bankruptcy
+E15	Business_Declare-Bankruptcy:T15 
+A17	Realis E15 Generic
+T16	Business_End-Org 3728 3748	went out of business
+E16	Business_End-Org:T16 
+A18	Realis E16 Actual
+T17	Business_End-Org 3765 3771	closed
+E17	Business_End-Org:T17 
+A19	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 3804 3807	got
+E18	Transaction_Transfer-Ownership:T18 
+A20	Realis E18 Actual
+T19	Business_Declare-Bankruptcy 4061 4071	bankruptsy
+E19	Business_Declare-Bankruptcy:T19 
+A21	Questionable E19 Realis
+A22	Realis E19 Actual
+T20	Transaction_Transfer-Money 4487 4493	paying
+E20	Transaction_Transfer-Money:T20 
+A23	Realis E20 Generic
+T21	Transaction_Transfer-Money 4524 4531	payment
+E21	Transaction_Transfer-Money:T21 
+A24	Realis E21 Generic
+T22	Business_Declare-Bankruptcy 5304 5314	Bankruptcy
+E22	Business_Declare-Bankruptcy:T22 
+A25	Realis E22 Generic
+T23	Business_End-Org 5711 5721	goes under
+E23	Business_End-Org:T23 
+A26	Realis E23 Other
+T24	Transaction_Transfer-Ownership 5787 5794	selling
+E24	Transaction_Transfer-Ownership:T24 
+A27	Questionable E24 Realis
+A28	Realis E24 Generic
+T25	Transaction_Transfer-Ownership 5813 5818	sells
+E25	Transaction_Transfer-Ownership:T25 
+A29	Realis E25 Generic
+T26	Transaction_Transfer-Ownership 5833 5838	sells
+E26	Transaction_Transfer-Ownership:T26 
+A30	Realis E26 Generic
+T27	Business_Declare-Bankruptcy 6052 6062	bankruptsy
+E27	Business_Declare-Bankruptcy:T27 
+A31	Realis E27 Generic
+T28	Transaction_Transfer-Money 6478 6484	paying
+E28	Transaction_Transfer-Money:T28 
+A32	Realis E28 Generic
+T29	Transaction_Transfer-Money 6515 6522	payment
+E29	Transaction_Transfer-Money:T29 
+A33	Realis E29 Generic
+T30	Transaction_Transfer-Ownership 7711 7718	selling
+E30	Transaction_Transfer-Ownership:T30 
+A34	Realis E30 Generic
+T31	Transaction_Transfer-Ownership 7737 7742	sells
+E31	Transaction_Transfer-Ownership:T31 
+A35	Realis E31 Actual
+T32	Transaction_Transfer-Ownership 7757 7762	sells
+E32	Transaction_Transfer-Ownership:T32 
+A36	Realis E32 Generic
+T33	Business_Declare-Bankruptcy 8045 8063	declare Bankruptcy
+E33	Business_Declare-Bankruptcy:T33 
+A37	Realis E33 Other
+T34	Business_Declare-Bankruptcy 8892 8910	declare Bankruptcy
+E34	Business_Declare-Bankruptcy:T34 
+A38	Realis E34 Other
+T35	Conflict_Demonstrate 9444 9458	went on strike
+E35	Conflict_Demonstrate:T35 
+A39	Realis E35 Generic
+T36	Business_End-Org 9505 9525	gone out of business
+E36	Business_End-Org:T36 
+A40	Realis E36 Other
+T37	Transaction_Transfer-Ownership 10145 10148	buy
+E37	Transaction_Transfer-Ownership:T37 
+A41	Realis E37 Other
+T38	Business_Declare-Bankruptcy 10510 10515;10520 10530	filed bankruptcy
+E38	Business_Declare-Bankruptcy:T38 
+A42	Realis E38 Actual
+T4	Business_Declare-Bankruptcy 10641 10646;10653 10663	filed Chapter 11
+E4	Business_Declare-Bankruptcy:T4 
+A4	Realis E4 Actual
+T39	Transaction_Transfer-Ownership 10920 10923	buy
+E39	Transaction_Transfer-Ownership:T39 
+A43	Realis E39 Generic
+T40	Conflict_Demonstrate 11159 11173	went on strike
+E40	Conflict_Demonstrate:T40 
+A44	Realis E40 Generic
+T41	Business_End-Org 11220 11240	gone out of business
+E41	Business_End-Org:T41 
+A45	Realis E41 Other
+T42	Business_Declare-Bankruptcy 450 460	bankruptcy
+E42	Business_Declare-Bankruptcy:T42 
+A46	Realis E42 Generic
+T43	Business_End-Org 4795 4806	liquidation
+E43	Business_End-Org:T43 
+A47	Realis E43 Other
+T44	Business_End-Org 7635 7645	goes under
+E44	Business_End-Org:T44 
+A48	Realis E44 Other
+T45	Business_Declare-Bankruptcy 10671 10681	bankruptcy
+E45	Business_Declare-Bankruptcy:T45 
+A49	Realis E45 Generic

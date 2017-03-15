@@ -1,0 +1,104 @@
+T1	Transaction_Transfer-Ownership 480 485	given
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Generic
+T2	Transaction_Transfer-Money 1069 1074	spent
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Generic
+T3	Transaction_Transfer-Money 1370 1375	spent
+E3	Transaction_Transfer-Money:T3 
+A3	Realis E3 Generic
+T4	Transaction_Transfer-Money 1710 1717;1722 1733	donated inheritence
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Personnel_Start-Position 1912 1918	joined
+E5	Personnel_Start-Position:T5 
+A5	Realis E5 Actual
+T6	Business_Merge-Org 1994 2006	incorporated
+E6	Business_Merge-Org:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 2197 2201;2217 2228	give inheritance
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Money 2319 2322;2325 2330	get check
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Actual
+T9	Life_Die 2351 2362	passed away
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Transaction_Transfer-Money 2452 2466	gave that away
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 2495 2502	gave it
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Business_Start-Org 2546 2557	established
+E12	Business_Start-Org:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Money 2772 2783	inheritance
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Money 2851 2858;2868 2873	pass on money
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Other
+T15	Transaction_Transfer-Money 2979 2984	spent
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Money 3070 3076	funded
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Actual
+T17	Transaction_Transfer-Money 3153 3156;3162 3167	got money
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Money 3228 3235;3241 3246	receive funds
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Money 3249 3253	That
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Actual
+T20	Business_Start-Org 3490 3498;3513 3525	starting organization
+E20	Business_Start-Org:T20 
+A20	Realis E20 Actual
+T21	Business_Merge-Org 3531 3537	merged
+E21	Business_Merge-Org:T21 
+A21	Realis E21 Actual
+T22	Contact_Meet 3586 3593	Explain
+E22	Contact_Meet:T22 
+A22	Realis E22 Other
+T23	Business_Start-Org 3625 3630;3633 3638	began group
+E23	Business_Start-Org:T23 
+T24	Business_Start-Org 3768 3774	set up
+E24	Business_Start-Org:T24 
+A23	Realis E24 Other
+T25	Movement_Transport-Person 3973 3977	come
+E25	Movement_Transport-Person:T25 
+A24	Realis E25 Generic
+T26	Contact_Meet 3985 3988	say
+E26	Contact_Meet:T26 
+A25	Realis E26 Generic
+T27	Business_Merge-Org 4443 4450	combine
+E27	Business_Merge-Org:T27 
+A26	Realis E27 Other
+T28	Movement_Transport-Person 4514 4528	bring together
+E28	Movement_Transport-Person:T28 
+A27	Realis E28 Other
+T29	Movement_Transport-Person 4557 4571	bring together
+E29	Movement_Transport-Person:T29 
+A28	Realis E29 Other
+T30	Life_Die 4694 4705	passed away
+E30	Life_Die:T30 
+A29	Realis E30 Actual
+T31	Contact_Meet 4723 4733	conference
+E31	Contact_Meet:T31 
+A30	Realis E31 Actual
+T32	Personnel_Start-Position 4757 4764	step on
+E32	Personnel_Start-Position:T32 
+A31	Realis E32 Actual
+T33	Contact_Meet 4910 4921	convocation
+E33	Contact_Meet:T33 
+A32	Realis E33 Actual
+T34	Life_Die 1806 1810	died
+E34	Life_Die:T34 
+A33	Realis E34 Actual
+T35	Transaction_Transfer-Money 1826 1833;1838 1849	donated inheritance
+E35	Transaction_Transfer-Money:T35 
+A34	Realis E35 Actual

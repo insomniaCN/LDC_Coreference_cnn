@@ -1,0 +1,50 @@
+T1	Business_Declare-Bankruptcy 309 326	declared bankrupt
+E1	Business_Declare-Bankruptcy:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Ownership 467 478	take - over
+E2	Transaction_Transfer-Ownership:T2 
+A2	Questionable E2 Type
+A3	Realis E2 Other
+T3	Transaction_Transfer-Ownership 647 658	take - over
+E3	Transaction_Transfer-Ownership:T3 
+A4	Questionable E3 Type
+A5	Realis E3 Other
+T4	Business_Declare-Bankruptcy 692 699;704 712	declare bankrupt
+E4	Business_Declare-Bankruptcy:T4 
+T5	Personnel_Start-Position 1139 1148	appointed
+E5	Personnel_Start-Position:T5 
+A6	Questionable E5 Type
+A7	Realis E5 Actual
+T6	Business_Declare-Bankruptcy 1201 1211	bankruptcy
+E6	Business_Declare-Bankruptcy:T6 
+A8	Questionable E6 Realis
+A9	Realis E6 Other
+T7	Movement_Transport-Person 1379 1386	leaving
+E7	Movement_Transport-Person:T7 
+A10	Realis E7 Actual
+T8	Transaction_Transfer-Money 1526 1530	sold
+E8	Transaction_Transfer-Money:T8 
+A11	Realis E8 Other
+T9	Transaction_Transfer-Money 1698 1706	withdrew
+E9	Transaction_Transfer-Money:T9 
+A12	Realis E9 Generic
+T10	Transaction_Transfer-Money 1794 1802	deposits
+E10	Transaction_Transfer-Money:T10 
+A13	Realis E10 Generic
+T11	Transaction_Transfer-Money 1850 1856	profit
+E11	Transaction_Transfer-Money:T11 
+A14	Realis E11 Actual
+T12	Transaction_Transfer-Money 2293 2298	claim
+E12	Transaction_Transfer-Money:T12 
+A15	Realis E12 Generic
+T13	Transaction_Transfer-Money 2344 2351	deposit
+E13	Transaction_Transfer-Money:T13 
+A16	Realis E13 Generic
+A17	Questionable E12 Realis
+A18	Realis E4 Other
+T14	Justice_Trial-Hearing 793 800	hearing
+E14	Justice_Trial-Hearing:T14 
+A19	Realis E14 Other
+T15	Justice_Sue 1642 1654	lodge claims
+E15	Justice_Sue:T15 
+A20	Realis E15 Actual

@@ -1,0 +1,88 @@
+T1	Conflict_Demonstrate 152 162	protesters
+E84	Conflict_Demonstrate:T1
+A1	Realis E84 Actual
+T2	Conflict_Demonstrate 203 210	protest
+E322	Conflict_Demonstrate:T2
+A2	Realis E322 Actual
+T3	Conflict_Demonstrate 494 504	protesters
+E308	Conflict_Demonstrate:T3
+A3	Realis E308 Actual
+T4	Conflict_Demonstrate 1617 1624	protest
+E871	Conflict_Demonstrate:T4
+A4	Realis E871 Actual
+T5	Life_Marry 180 188	marriage
+E36	Life_Marry:T5
+A5	Realis E36 Generic
+T6	Life_Marry 278 286	marriage
+E589	Life_Marry:T6
+A6	Realis E589 Generic
+T7	Life_Marry 402 410	marriage
+E488	Life_Marry:T7
+A7	Realis E488 Generic
+T8	Life_Marry 746 754	marriage
+E690	Life_Marry:T8
+A8	Realis E690 Generic
+T9	Life_Marry 921 929	marriage
+E343	Life_Marry:T9
+A9	Realis E343 Generic
+T10	Movement_Transport-Person 195 202	landing
+E309	Movement_Transport-Person:T10
+A10	Realis E309 Actual
+T11	Movement_Transport-Person 329 336	landing
+E160	Movement_Transport-Person:T11
+A11	Realis E160 Actual
+T12	Movement_Transport-Person 1775 1783	landings
+E282	Movement_Transport-Person:T12
+A12	Realis E282 Actual
+T13	Business_Start-Org 230 236	formed
+E345	Business_Start-Org:T13
+A13	Realis E345 Actual
+T14	Conflict_Demonstrate 240 247	protest
+E894	Conflict_Demonstrate:T14
+A14	Realis E894 Other
+T15	Movement_Transport-Person 505 517	disembarking
+E273	Movement_Transport-Person:T15
+A15	Realis E273 Actual
+T16	Justice_Release-Parole 643 650	Liberez
+E24	Justice_Release-Parole:T16
+A16	Realis E24 Other
+T17	Conflict_Demonstrate 676 685	protester
+E800	Conflict_Demonstrate:T17
+A17	Realis E800 Generic
+T18	Justice_Arrest-Jail 694 700	jailed
+E662	Justice_Arrest-Jail:T18
+A18	Realis E662 Actual
+T19	Conflict_Demonstrate 730 737	protest
+E978	Conflict_Demonstrate:T19
+A19	Realis E978 Actual
+T20	Conflict_Demonstrate 930 943	demonstration
+E549	Conflict_Demonstrate:T20
+A20	Realis E549 Actual
+T21	Conflict_Demonstrate 819 826	protest
+E459	Conflict_Demonstrate:T21
+A21	Realis E459 Actual
+T22	Justice_Arrest-Jail 839 845	prison
+E163	Justice_Arrest-Jail:T22
+A22	Realis E163 Other
+T23	Movement_Transport-Person 949 953	fled
+E688	Movement_Transport-Person:T23
+A23	Realis E688 Actual
+T24	Justice_Arrest-Jail 998 1004	caught
+E260	Justice_Arrest-Jail:T24
+A24	Realis E260 Actual
+T25	Contact_Broadcast 439 445	posted
+E407	Contact_Broadcast:T25
+A25	Realis E407 Actual
+T26	Contact_Meet 971 975	gave
+E949	Contact_Meet:T26
+A26	Realis E949 Actual
+R1	Coreference Arg1:E84 Arg2:E322
+R2	Coreference Arg1:E322 Arg2:E308
+R3	Coreference Arg1:E308 Arg2:E871
+R4	Coreference Arg1:E36 Arg2:E589
+R5	Coreference Arg1:E589 Arg2:E488
+R6	Coreference Arg1:E488 Arg2:E690
+R7	Coreference Arg1:E690 Arg2:E343
+R8	Coreference Arg1:E309 Arg2:E160
+R9	Coreference Arg1:E160 Arg2:E282
+R10	Coreference Arg1:E978 Arg2:E549

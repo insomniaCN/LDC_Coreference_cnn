@@ -1,0 +1,54 @@
+T1	Personnel_Start-Position 1031 1037	became
+E1	Personnel_Start-Position:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 1436 1448;1453 1461	carrying out bombings
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 378 386	bombings
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Die 1470 1476	killed
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Life_Injure 1494 1501	injured
+E5	Life_Injure:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 1585 1592	charged
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 1602 1610	bombings
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Justice_Charge-Indict 2019 2026	charges
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Other
+T9	Conflict_Attack 2042 2050	bombings
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Justice_Release-Parole 2055 2063	released
+E10	Justice_Release-Parole:T10 
+A10	Realis E10 Actual
+T11	Justice_Trial-Hearing 2115 2122	hearing
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Justice_Release-Parole 2236 2244	released
+E12	Justice_Release-Parole:T12 
+A12	Realis E12 Actual
+T13	Justice_Trial-Hearing 2286 2291	trial
+E13	Justice_Trial-Hearing:T13 
+A13	Realis E13 Other
+T14	Justice_Release-Parole 2453 2460	release
+E14	Justice_Release-Parole:T14 
+A14	Realis E14 Actual
+T15	Justice_Arrest-Jail 1624 1628	held
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T16	Justice_Arrest-Jail 2077 2084	custody
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Actual
+T17	Justice_Arrest-Jail 2538 2544	arrest
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Other
+T18	Justice_Arrest-Jail 2701 2707	arrest
+E18	Justice_Arrest-Jail:T18 
+A18	Realis E18 Other

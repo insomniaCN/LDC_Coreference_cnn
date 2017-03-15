@@ -1,0 +1,87 @@
+T1	Transaction_Transfer-Ownership 1893 1899	seized
+E95	Transaction_Transfer-Ownership:T1
+A1	Realis E95 Actual
+T2	Life_Die 680 685	death
+E120	Life_Die:T2
+A2	Realis E120 Generic
+T3	Life_Die 2050 2056	deaths
+E130	Life_Die:T3
+A3	Realis E130 Actual
+T4	Life_Die 1418 1424	killed
+E144	Life_Die:T4
+A4	Realis E144 Actual
+T5	Conflict_Attack 245 253	Tortured
+E182	Conflict_Attack:T5
+A5	Realis E182 Actual
+T6	Conflict_Attack 1064 1071	torture
+E211	Conflict_Attack:T6
+A6	Realis E211 Actual
+T7	Justice_Acquit 1207 1218	exoneration
+E213	Justice_Acquit:T7
+A7	Realis E213 Actual
+T8	Conflict_Attack 1418 1424	killed
+E315	Conflict_Attack:T8
+A8	Realis E315 Actual
+T9	Personnel_End-Position 1510 1516	former
+E328	Personnel_End-Position:T9
+A9	Realis E328 Actual
+T10	Transaction_Transfer-Ownership 1839 1845	retake
+E330	Transaction_Transfer-Ownership:T10
+A10	Realis E330 Other
+T11	Justice_Convict 1621 1630	convicted
+E355	Justice_Convict:T11
+A11	Realis E355 Actual
+T12	Justice_Acquit 175 184	Acquitted
+E356	Justice_Acquit:T12
+A12	Realis E356 Actual
+T13	Life_Die 1800 1808	perished
+E369	Life_Die:T13
+A13	Realis E369 Actual
+T14	Justice_Sentence 1692 1701	sentenced
+E402	Justice_Sentence:T14
+A14	Realis E402 Actual
+T15	Life_Die 258 264	Killed
+E524	Life_Die:T15
+A15	Realis E524 Actual
+T16	Conflict_Attack 258 264	Killed
+E559	Conflict_Attack:T16
+A16	Realis E559 Actual
+T17	Justice_Arrest-Jail 2072 2080	detained
+E598	Justice_Arrest-Jail:T17
+A17	Realis E598 Actual
+T18	Conflict_Attack 1893 1899	seized
+E608	Conflict_Attack:T18
+A18	Realis E608 Actual
+T19	Justice_Arrest-Jail 284 293	Detainees
+E622	Justice_Arrest-Jail:T19
+A19	Realis E622 Actual
+T20	Justice_Arrest-Jail 1128 1136	detained
+E675	Justice_Arrest-Jail:T20
+A20	Realis E675 Actual
+T21	Justice_Acquit 565 574	acquitted
+E742	Justice_Acquit:T21
+A21	Realis E742 Actual
+T22	Contact_Broadcast 474 480	Posted
+E777	Contact_Broadcast:T22
+A22	Realis E777 Actual
+T23	Contact_Broadcast 1291 1297	cables
+E805	Contact_Broadcast:T23
+A23	Realis E805 Actual
+T24	Conflict_Attack 2107 2111	raid
+E808	Conflict_Attack:T24
+A24	Realis E808 Actual
+T25	Transaction_Transfer-Ownership 330 337	Passing
+E821	Transaction_Transfer-Ownership:T25
+A25	Realis E821 Actual
+T26	Conflict_Attack 719 728	massacres
+E868	Conflict_Attack:T26
+A26	Realis E868 Actual
+T27	Justice_Acquit 1041 1050	acquitted
+E948	Justice_Acquit:T27
+A27	Realis E948 Actual
+T28	Conflict_Attack 1405 1413	tortured
+E978	Conflict_Attack:T28
+A28	Realis E978 Actual
+T29	Life_Die 719 728	massacres
+E982	Life_Die:T29
+A29	Realis E982 Actual

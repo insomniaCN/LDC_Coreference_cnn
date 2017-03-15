@@ -1,0 +1,65 @@
+T1	Personnel_Nominate 319 329	nominating
+E852	Personnel_Nominate:T1
+A1	Realis E852 Actual
+T2	Personnel_Nominate 502 508	choice
+E347	Personnel_Nominate:T2
+A2	Realis E347 Actual
+T3	Personnel_Nominate 717 727	nomination
+E129	Personnel_Nominate:T3
+A3	Realis E129 Actual
+T4	Conflict_Attack 440 446	attack
+E764	Conflict_Attack:T4
+A4	Realis E764 Actual
+T5	Conflict_Attack 889 895	attack
+E469	Conflict_Attack:T5
+A5	Realis E469 Actual
+T6	Life_Die 901 907	killed
+E599	Life_Die:T6
+A6	Realis E599 Actual
+T7	Contact_Broadcast 985 990	email
+E232	Contact_Broadcast:T7
+A7	Realis E232 Actual
+T8	Contact_Broadcast 1027 1035	warnings
+E779	Contact_Broadcast:T8
+A8	Realis E779 Actual
+T9	Conflict_Attack 1039 1048	terrorism
+E58	Conflict_Attack:T9
+A9	Realis E58 Generic
+T10	Movement_Transport-Person 2006 2014	withdraw
+E326	Movement_Transport-Person:T10
+A10	Realis E326 Other
+T11	Personnel_Nominate 1471 1480	nominated
+E307	Personnel_Nominate:T11
+A11	Realis E307 Actual
+T12	Personnel_End-Position 1604 1611	leaving
+E827	Personnel_End-Position:T12
+A12	Realis E827 Other
+T13	Personnel_End-Position 1574 1583	replacing
+E346	Personnel_End-Position:T13
+A13	Realis E346 Other
+T14	Personnel_Start-Position 1636 1642	become
+E331	Personnel_Start-Position:T14
+A14	Realis E331 Other
+T15	Personnel_End-Position 1880 1887	retired
+E647	Personnel_End-Position:T15
+A15	Realis E647 Actual
+T16	Contact_Contact 415 422	talking
+E274	Contact_Contact:T16
+A16	Realis E274 Generic
+T17	Contact_Contact 834 841	talking
+E755	Contact_Contact:T17
+A17	Realis E755 Generic
+T18	Personnel_End-Position 531 537	former
+E620	Personnel_End-Position:T18
+A18	Realis E620 Actual
+T19	Contact_Contact 538 549	spokeswoman
+E815	Contact_Contact:T19
+A19	Realis E815 Generic
+T20	Personnel_Start-Position 1574 1583	replacing
+E6	Personnel_Start-Position:T20
+A20	Realis E6 Other
+R1	Coreference Arg1:E852 Arg2:E347
+R2	Coreference Arg1:E347 Arg2:E129
+R3	Coreference Arg1:E764 Arg2:E469
+R4	Coreference Arg1:E346 Arg2:E827
+R5	Coreference Arg1:E274 Arg2:E755

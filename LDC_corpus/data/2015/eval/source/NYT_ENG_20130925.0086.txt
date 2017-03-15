@@ -1,0 +1,52 @@
+<DOC id="NYT_ENG_20130925.0086" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130925/20130925,4aead5338141b9fd408fb760bf7bb178.xml">
+<HEADLINE>
+FORMER LEADER WEDS, COMPLICATING CZECH BRIBE CASE
+</HEADLINE>
+<TEXT>
+<P>
+EDS: SUBS for writethru; NEW headline.); Jana Marie Preiss contributed reporting from Prague.
+</P>
+<P>
+No, they were not on a hiking trip in the Carpathians.
+</P>
+<P>
+Eluding frenzied Czech media, the disgraced former prime minister of the Czech Republic, Petr Necas, and his onetime chief of staff were married in a secret ceremony Saturday, the Czech media reported Tuesday.
+</P>
+<P>
+With the couple ensnared in the most exhaustive anticorruption sting operation in the Czech Republic since the fall of Communism, their marriage was variously viewed by analysts as a misguided love story or a cynical ploy to avoid prosecution.
+</P>
+<P>
+In June, Necas, 48, once nicknamed “Mr. Clean Hands” for his anticorruption campaigning, was forced to resign after his chief of staff and mistress, Jana Nagyova, was charged with abuse of office for using the country’s secret intelligence service to spy on Necas’ wife, whom he divorced in August. Nagyova was also accused of trying to bribe three members of Parliament, who opposed a government austerity plan, with offers of posts in state-owned companies.
+</P>
+<P>
+Prosecutors have been seeking to prove that Necas, a churchgoing father of four, was also involved in bribing members of Parliament.
+</P>
+<P>
+But Tuesday, Nagyova dealt prosecutors a blow when she walked into a police station in Prague and introduced herself as Mrs. Jana Necasova, her lawyer, Eduard Bruna, told the Czech media. Under Czech law, family members cannot be compelled to testify against one another, and analysts said this could make it difficult for prosecutors to prove that any order to offer bribes came from the former prime minister.
+</P>
+<P>
+“The heart of the bribery case has been whether she was acting alone or on behalf of Mr. Necas, and now it will be very difficult to prove whether he was giving her directions,” said Jaroslav Plesl, deputy editor of Tyden, a leading political magazine.
+</P>
+<P>
+Speculation that Necas and Nagyova married in a secret ceremony had been building for days, after they were spotted at Chateau Mcely, a 17th-century chateau near Prague with a manicured English park, a spa and a lake with a white sand beach. Tabloids have been offering big rewards for recent photographs or videos of the couple.
+</P>
+<P>
+The two had been engaged for years in a surreptitious relationship that Necas finally acknowledged in July, telling Tyden that being romantically involved with a senior aide while he was prime minister was probably a bad idea.
+</P>
+<P>
+“Interconnecting a personal relationship with a working relationship is simply not correct, and I knew that,” he told the magazine, explaining that the heart had won out over the head.
+</P>
+<P>
+Necas has not been charged with a crime and has denied any wrongdoing. Nagyova has also professed her innocence and was released in July after a month in jail pending trial. On Tuesday, Bruna, her lawyer, told the Czech media that Nagyova had declined to give a statement to the police, saying she was “not yet ready.”
+</P>
+<P>
+The inquiry, which included wiretaps of Necas’ phone calls with Nagyova, turned up $8 million in cash and stashes of gold that prosecutors suspect was linked to influence peddling, the authorities said.
+</P>
+<P>
+When Nagyova’s home was searched in June before her arrest, the police discovered receipts for Louis Vuitton handbags totaling 120,000 euros, about $162,000. But it is unclear whether they were gifts or merely the accessories of a woman referred to as “tsarina” because of her luxurious tastes.
+</P>
+<P>
+The case has riveted the country in a region that has struggled to shed a culture of corruption in the aftermath of the Communist era. Corruption in the Czech Republic is so endemic that one industrious young Czech recently started a “crony safari” bus tour. The stops include the modernist villas of influential lobbyists and a single address registered to hundreds of companies.
+</P>
+</TEXT>
+</DOC>

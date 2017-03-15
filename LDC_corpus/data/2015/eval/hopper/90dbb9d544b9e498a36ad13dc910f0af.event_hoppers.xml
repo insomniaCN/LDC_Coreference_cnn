@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab30000000000000189" doc_id="90dbb9d544b9e498a36ad13dc910f0af" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-834" type="conflict" subtype="attack" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="236" length="3">War</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-853" type="justice" subtype="pardon" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="258" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-425" type="life" subtype="injure" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="318" length="9">castrated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-719" type="life" subtype="die" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="369" length="7">suicide</trigger>
+      </event_mention>
+      <event_mention id="em-791" type="life" subtype="die" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1305" length="7">suicide</trigger>
+      </event_mention>
+      <event_mention id="em-74" type="life" subtype="die" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1496" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-806" type="life" subtype="die" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1450" length="2">it</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-989" type="justice" subtype="convict" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="431" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-933" type="justice" subtype="convict" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="600" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-140" type="justice" subtype="convict" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1010" length="11">convictions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-283" type="justice" subtype="pardon" realis="other">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="583" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-878" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="677" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-363" type="justice" subtype="pardon" realis="other">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="752" length="6">pardon</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-647" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="893" length="7">reports</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-182">
+      <event_mention id="em-351" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1212" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-223">
+      <event_mention id="em-60" type="conflict" subtype="attack" realis="other">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1496" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-238">
+      <event_mention id="em-837" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="880" length="11">application</trigger>
+      </event_mention>
+      <event_mention id="em-548" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="90dbb9d544b9e498a36ad13dc910f0af" offset="1153" length="12">applications</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

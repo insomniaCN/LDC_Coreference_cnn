@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea7d0000000000000086" doc_id="NYT_ENG_20130912.0240" source_type="newswire">
+  <event_mention id="em-8" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="3362" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-11" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="2588" length="5">taxes</trigger>
+  </event_mention>
+  <event_mention id="em-28" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="543" length="10">interviews</trigger>
+  </event_mention>
+  <event_mention id="em-90" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="3388" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-92" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="2767" length="6">burial</trigger>
+  </event_mention>
+  <event_mention id="em-104" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="933" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-106" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="436" length="8">accusing</trigger>
+  </event_mention>
+  <event_mention id="em-113" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="1329" length="7">remarks</trigger>
+  </event_mention>
+  <event_mention id="em-149" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="1614" length="5">rally</trigger>
+  </event_mention>
+  <event_mention id="em-150" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="1839" length="5">spoke</trigger>
+  </event_mention>
+  <event_mention id="em-165" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="1959" length="6">saying</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="2515" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-297" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="919" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-314" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="178" length="7">ACCUSES</trigger>
+  </event_mention>
+  <event_mention id="em-484" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="2415" length="5">taxes</trigger>
+  </event_mention>
+  <event_mention id="em-500" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="722" length="11">predecessor</trigger>
+  </event_mention>
+  <event_mention id="em-501" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="3034" length="5">asked</trigger>
+  </event_mention>
+  <event_mention id="em-505" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="2440" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-525" type="personnel" subtype="nominate" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="343" length="10">nomination</trigger>
+  </event_mention>
+  <event_mention id="em-534" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="1754" length="10">interviews</trigger>
+  </event_mention>
+  <event_mention id="em-540" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="1769" length="12">acknowledged</trigger>
+  </event_mention>
+  <event_mention id="em-542" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="2960" length="6">burial</trigger>
+  </event_mention>
+  <event_mention id="em-668" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="2429" length="7">earners</trigger>
+  </event_mention>
+  <event_mention id="em-689" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="3189" length="7">brought</trigger>
+  </event_mention>
+  <event_mention id="em-774" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="2611" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-785" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="3049" length="8">received</trigger>
+  </event_mention>
+  <event_mention id="em-792" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="2748" length="7">visited</trigger>
+  </event_mention>
+  <event_mention id="em-853" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="585" length="8">spending</trigger>
+  </event_mention>
+  <event_mention id="em-885" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130912.0240" offset="2895" length="7">entered</trigger>
+  </event_mention>
+  <event_mention id="em-897" type="personnel" subtype="nominate" realis="other">
+    <trigger source="NYT_ENG_20130912.0240" offset="1595" length="10">nomination</trigger>
+  </event_mention>
+  <event_mention id="em-921" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="3004" length="9">addressed</trigger>
+  </event_mention>
+  <event_mention id="em-925" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130912.0240" offset="621" length="5">taxes</trigger>
+  </event_mention>
+  <event_mention id="em-994" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130912.0240" offset="2151" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-996" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="2658" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-998" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130912.0240" offset="377" length="10">criticized</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

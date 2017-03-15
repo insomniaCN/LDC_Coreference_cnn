@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab60000000000000194" doc_id="98c029f7e4a5a5dc7a200159c9487219" source_type="multi_post">
+  <event_mention id="em-93" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="502" length="8">had been</trigger>
+  </event_mention>
+  <event_mention id="em-99" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="157" length="5">fired</trigger>
+  </event_mention>
+  <event_mention id="em-113" type="life" subtype="marry" realis="actual">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="288" length="13">tied the knot</trigger>
+  </event_mention>
+  <event_mention id="em-216" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="591" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-414" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="341" length="4">lost</trigger>
+  </event_mention>
+  <event_mention id="em-517" type="life" subtype="marry" realis="other">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="470" length="3">wed</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="life" subtype="marry" realis="other">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="276" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-641" type="life" subtype="marry" realis="generic">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="741" length="8">marriage</trigger>
+  </event_mention>
+  <event_mention id="em-754" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="432" length="7">telling</trigger>
+  </event_mention>
+  <event_mention id="em-809" type="life" subtype="marry" realis="generic">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="790" length="2">it</trigger>
+  </event_mention>
+  <event_mention id="em-954" type="life" subtype="marry" realis="actual">
+    <trigger source="98c029f7e4a5a5dc7a200159c9487219" offset="650" length="7">married</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

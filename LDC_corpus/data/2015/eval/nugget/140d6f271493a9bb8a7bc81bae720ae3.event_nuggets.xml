@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea8e0000000000000109" doc_id="140d6f271493a9bb8a7bc81bae720ae3" source_type="multi_post">
+  <event_mention id="em-254" type="justice" subtype="sue" realis="actual">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="1024" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-258" type="justice" subtype="fine" realis="generic">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="886" length="9">penalties</trigger>
+  </event_mention>
+  <event_mention id="em-484" type="justice" subtype="sue" realis="actual">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="271" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-571" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="484" length="5">costs</trigger>
+  </event_mention>
+  <event_mention id="em-845" type="justice" subtype="sue" realis="actual">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="551" length="5">suing</trigger>
+  </event_mention>
+  <event_mention id="em-951" type="justice" subtype="sue" realis="actual">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="688" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-969" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="140d6f271493a9bb8a7bc81bae720ae3" offset="473" length="6">recoup</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9f0000000000000147" doc_id="4b154463b5d8c96024a03946f55d7966" source_type="multi_post">
+  <event_mention id="em-48" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="505" length="5">visit</trigger>
+  </event_mention>
+  <event_mention id="em-73" type="transaction" subtype="transaction" realis="generic" ways="voluntary">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="636" length="3">aid</trigger>
+  </event_mention>
+  <event_mention id="em-134" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="712" length="13">demonstrators</trigger>
+  </event_mention>
+  <event_mention id="em-220" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="790" length="10">imprisoned</trigger>
+  </event_mention>
+  <event_mention id="em-287" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="751" length="6">demand</trigger>
+  </event_mention>
+  <event_mention id="em-288" type="conflict" subtype="attack" realis="generic">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="518" length="4">slap</trigger>
+  </event_mention>
+  <event_mention id="em-302" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="395" length="7">driving</trigger>
+  </event_mention>
+  <event_mention id="em-305" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="301" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-343" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="437" length="12">Demonstrator</trigger>
+  </event_mention>
+  <event_mention id="em-356" type="life" subtype="injure" realis="generic">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="518" length="4">slap</trigger>
+  </event_mention>
+  <event_mention id="em-470" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="726" length="8">gathered</trigger>
+  </event_mention>
+  <event_mention id="em-668" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="422" length="7">reports</trigger>
+  </event_mention>
+  <event_mention id="em-748" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="464" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-846" type="movement" subtype="transportperson" realis="other">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="968" length="5">heads</trigger>
+  </event_mention>
+  <event_mention id="em-874" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="208" length="7">greeted</trigger>
+  </event_mention>
+  <event_mention id="em-880" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="290" length="10">protesters</trigger>
+  </event_mention>
+  <event_mention id="em-983" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="505" length="5">visit</trigger>
+  </event_mention>
+  <event_mention id="em-998" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="4b154463b5d8c96024a03946f55d7966" offset="767" length="4">free</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,78 @@
+T1	Personnel_End-Position 464 471	leaving
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Money 510 516	salary
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 573 578	leave
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Other
+T4	Personnel_End-Position 619 627	quitting
+E4	Personnel_End-Position:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Money 722 728	salary
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 1080 1087;1091 1094	leaving job
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Other
+T7	Personnel_End-Position 1280 1284	quit
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Other
+T8	Personnel_Start-Position 1367 1372	hired
+E8	Personnel_Start-Position:T8 
+A8	Realis E8 Other
+T9	Personnel_Start-Position 1475 1480	start
+E9	Personnel_Start-Position:T9 
+A9	Realis E9 Other
+T10	Personnel_End-Position 1510 1517;1523 1529	hand in notice
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Other
+T11	Transaction_Transfer-Money 1532 1535;1550 1553	get pay
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Personnel_End-Position 1708 1712	quit
+E12	Personnel_End-Position:T12 
+A12	Realis E12 Other
+T13	Transaction_Transfer-Money 1755 1761	salary
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Generic
+T14	Personnel_End-Position 1794 1798	fire
+E14	Personnel_End-Position:T14 
+A14	Questionable E14 Realis
+A15	Realis E14 Actual
+T15	Personnel_End-Position 1871 1880	walk away
+E15	Personnel_End-Position:T15 
+A16	Realis E15 Other
+T16	Personnel_End-Position 2215 2219	quit
+E16	Personnel_End-Position:T16 
+A17	Realis E16 Other
+T17	Personnel_Start-Position 2497 2502	start
+E17	Personnel_Start-Position:T17 
+A18	Realis E17 Other
+T18	Personnel_Start-Position 2688 2693	start
+E18	Personnel_Start-Position:T18 
+A19	Realis E18 Other
+T19	Personnel_Start-Position 2976 2988	changed jobs
+E19	Personnel_Start-Position:T19 
+A20	Questionable E19 Mention
+A21	Realis E19 Actual
+T20	Personnel_Start-Position 3198 3203	start
+E20	Personnel_Start-Position:T20 
+A22	Realis E20 Other
+T21	Personnel_End-Position 3453 3458	quite
+E21	Personnel_End-Position:T21 
+A23	Realis E21 Other
+T22	Personnel_End-Position 3772 3776	quit
+E22	Personnel_End-Position:T22 
+A24	Realis E22 Other
+T23	Personnel_End-Position 3934 3941	vacated
+E23	Personnel_End-Position:T23 
+A25	Realis E23 Other
+T24	Personnel_End-Position 4451 4454;4464 4467	get out
+E24	Personnel_End-Position:T24 
+A26	Questionable E24 Mention
+A27	Realis E24 Other
+T25	Personnel_Start-Position 267 274	changed
+E25	Personnel_Start-Position:T25 
+A28	Realis E25 Actual

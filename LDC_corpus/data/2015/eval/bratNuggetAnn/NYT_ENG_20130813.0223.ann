@@ -1,0 +1,111 @@
+T1	Justice_Arrest-Jail 304 314	imprisoned
+E4	Justice_Arrest-Jail:T1
+A1	Realis E4 Actual
+T2	Manufacture_Artifact 2953 2964	development
+E41	Manufacture_Artifact:T2
+A2	Realis E41 Actual
+T3	Justice_Sentence 972 981	sentenced
+E76	Justice_Sentence:T3
+A3	Realis E76 Actual
+T4	Justice_Arrest-Jail 181 187	INMATE
+E95	Justice_Arrest-Jail:T4
+A4	Realis E95 Actual
+T5	Contact_Broadcast 2218 2227	broadcast
+E142	Contact_Broadcast:T5
+A5	Realis E142 Actual
+T6	Justice_Release-Parole 3438 3445	release
+E157	Justice_Release-Parole:T6
+A6	Realis E157 Other
+T7	Movement_Transport-Person 1760 1764	come
+E169	Movement_Transport-Person:T7
+A7	Realis E169 Other
+T8	Justice_Arrest-Jail 917 927	imprisoned
+E176	Justice_Arrest-Jail:T8
+A8	Realis E176 Actual
+T9	Contact_Meet 541 550	interview
+E187	Contact_Meet:T9
+A9	Realis E187 Actual
+T10	Contact_Meet 228 233	VISIT
+E223	Contact_Meet:T10
+A10	Realis E223 Other
+T11	Justice_Arrest-Jail 2415 2419	held
+E252	Justice_Arrest-Jail:T11
+A11	Realis E252 Generic
+T12	Movement_Transport-Person 1698 1702	come
+E258	Movement_Transport-Person:T12
+A12	Realis E258 Other
+T13	Contact_Meet 1590 1599	interview
+E274	Contact_Meet:T13
+A13	Realis E274 Actual
+T14	Movement_Transport-Person 1561 1567	return
+E309	Movement_Transport-Person:T14
+A14	Realis E309 Other
+T15	Contact_Contact 2208 2217	interview
+E324	Contact_Contact:T15
+A15	Realis E324 Actual
+T16	Justice_Charge-Indict 333 340	charges
+E343	Justice_Charge-Indict:T16
+A16	Realis E343 Actual
+T17	Contact_Contact 2784 2792	dialogue
+E463	Contact_Contact:T17
+A17	Realis E463 Other
+T18	Contact_Meet 3014 3021	visited
+E487	Contact_Meet:T18
+A18	Realis E487 Actual
+T19	Contact_Contact 2354 2362	dialogue
+E607	Contact_Contact:T19
+A19	Realis E607 Other
+T20	Justice_Pardon 3416 3423	amnesty
+E653	Justice_Pardon:T20
+A20	Realis E653 Other
+T21	Contact_Meet 1838 1845	request
+E661	Contact_Meet:T21
+A21	Realis E661 Other
+T22	Justice_Release-Parole 2502 2509	release
+E683	Justice_Release-Parole:T22
+A22	Realis E683 Generic
+T23	Contact_Meet 1370 1379	interview
+E719	Contact_Meet:T23
+A23	Realis E719 Actual
+T24	Contact_Meet 2455 2461	visits
+E741	Contact_Meet:T24
+A24	Realis E741 Generic
+T25	Contact_Correspondence 2116 2123	letters
+E774	Contact_Correspondence:T25
+A25	Realis E774 Actual
+T26	Justice_Charge-Indict 2432 2439	charges
+E785	Justice_Charge-Indict:T26
+A26	Realis E785 Generic
+T27	Justice_Release-Parole 505 509	free
+E820	Justice_Release-Parole:T27
+A27	Realis E820 Other
+T28	Movement_Transport-Person 1712 1717	bring
+E864	Movement_Transport-Person:T28
+A28	Realis E864 Other
+T29	Justice_Arrest-Jail 1216 1224	arrested
+E899	Justice_Arrest-Jail:T29
+A29	Realis E899 Actual
+T30	Justice_Release-Parole 1872 1879	release
+E913	Justice_Release-Parole:T30
+A30	Realis E913 Other
+T31	Movement_Transport-Person 827 832	moved
+E919	Movement_Transport-Person:T31
+A31	Realis E919 Actual
+T32	Movement_Transport-Person 453 457	send
+E938	Movement_Transport-Person:T32
+A32	Realis E938 Other
+T33	Justice_Pardon 1548 1556	pardoned
+E941	Justice_Pardon:T33
+A33	Realis E941 Other
+T34	Justice_Pardon 1858 1864	pardon
+E945	Justice_Pardon:T34
+A34	Realis E945 Other
+T35	Contact_Meet 2623 2628	visit
+E949	Contact_Meet:T35
+A35	Realis E949 Other
+T36	Movement_Transport-Person 1116 1124	visitors
+E967	Movement_Transport-Person:T36
+A36	Realis E967 Actual
+T37	Contact_Contact 2868 2878	engagement
+E986	Contact_Contact:T37
+A37	Realis E986 Other

@@ -1,0 +1,48 @@
+T1	Life_Die 195 201	killer
+E1	Life_Die:T1 
+A1	Realis E1 Other
+T3	Movement_Transport-Person 403 407	left
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Actual
+T5	Justice_Release-Parole 418 424	parole
+E5	Justice_Release-Parole:T5 
+T6	Justice_Arrest-Jail 453 464	behind bars
+E6	Justice_Arrest-Jail:T6 
+A5	Realis E6 Actual
+T7	Life_Die 488 495	murders
+E7	Life_Die:T7 
+A6	Realis E7 Actual
+T8	Movement_Transport-Person 589 593	left
+E8	Movement_Transport-Person:T8 
+A7	Realis E8 Actual
+T9	Justice_Arrest-Jail 598 604	prison
+E9	Justice_Arrest-Jail:T9 
+A8	Realis E9 Actual
+T10	Justice_Sentence 757 766	sentenced
+E10	Justice_Sentence:T10 
+A9	Realis E10 Actual
+T11	Justice_Arrest-Jail 778 784	prison
+E11	Justice_Arrest-Jail:T11 
+A10	Realis E11 Actual
+T12	Life_Die 793 799	murder
+E13	Life_Die:T12 
+A12	Realis E13 Actual
+A13	Questionable E13 Mention
+T13	Life_Die 966 970	died
+E14	Life_Die:T13 
+A14	Realis E14 Actual
+T14	Justice_Release-Parole 1026 1033	paroled
+E15	Justice_Release-Parole:T14 
+A15	Realis E15 Actual
+T15	Justice_Arrest-Jail 1093 1104	behind bars
+E16	Justice_Arrest-Jail:T15 
+A16	Realis E16 Actual
+T16	Movement_Transport-Person 1129 1133	left
+E17	Movement_Transport-Person:T16 
+A17	Realis E17 Actual
+T18	Justice_Release-Parole 1318 1324	parole
+E19	Justice_Release-Parole:T18 
+A19	Realis E19 Actual
+T19	Justice_Release-Parole 202 213	leaves jail
+E20	Justice_Release-Parole:T19 
+A20	Realis E20 Actual

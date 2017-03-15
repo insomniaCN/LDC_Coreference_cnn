@@ -1,0 +1,72 @@
+T1	Movement_Transport-Person 1307 1314	crossed
+E36	Movement_Transport-Person:T1
+A1	Realis E36 Actual
+T2	Justice_Arrest-Jail 529 535	prison
+E40	Justice_Arrest-Jail:T2
+A2	Realis E40 Actual
+T3	Transaction_Transfer-Ownership 1720 1727	present
+E56	Transaction_Transfer-Ownership:T3
+A3	Realis E56 Other
+T4	Contact_Contact 338 347	statement
+E79	Contact_Contact:T4
+A4	Realis E79 Actual
+T5	Transaction_Transfer-Money 1688 1694	bought
+E84	Transaction_Transfer-Money:T5
+A5	Realis E84 Other
+T6	Justice_Arrest-Jail 181 187	jailed
+E91	Justice_Arrest-Jail:T6
+A6	Realis E91 Actual
+T7	Movement_Transport-Person 212 220	straying
+E93	Movement_Transport-Person:T7
+A7	Realis E93 Actual
+T8	Contact_Contact 1191 1200	statement
+E193	Contact_Contact:T8
+A8	Realis E193 Actual
+T9	Movement_Transport-Person 1834 1840	hiking
+E337	Movement_Transport-Person:T9
+A9	Realis E337 Other
+T10	Movement_Transport-Person 2096 2100	hike
+E399	Movement_Transport-Person:T10
+A10	Realis E399 Other
+T11	Life_Marry 1712 1719	wedding
+E401	Life_Marry:T11
+A11	Realis E401 Actual
+T12	Life_Marry 384 391	wedding
+E415	Life_Marry:T12
+A12	Realis E415 Actual
+T13	Life_Marry 266 273	married
+E466	Life_Marry:T13
+A13	Realis E466 Other
+T14	Contact_Contact 762 771	statement
+E471	Contact_Contact:T14
+A14	Realis E471 Actual
+T15	Transaction_Transfer-Money 1846 1853	selling
+E491	Transaction_Transfer-Money:T15
+A15	Realis E491 Other
+T16	Transaction_Transfer-Ownership 1688 1694	bought
+E538	Transaction_Transfer-Ownership:T16
+A16	Realis E538 Other
+T17	Contact_Contact 876 885	statement
+E611	Contact_Contact:T17
+A17	Realis E611 Actual
+T18	Justice_Arrest-Jail 1084 1093	captivity
+E706	Justice_Arrest-Jail:T18
+A18	Realis E706 Actual
+T19	Life_Marry 299 307	ceremony
+E735	Life_Marry:T19
+A19	Realis E735 Other
+T20	Movement_Transport-Person 174 180	hikers
+E741	Movement_Transport-Person:T20
+A20	Realis E741 Generic
+T21	Life_Marry 951 958	wedding
+E779	Life_Marry:T21
+A21	Realis E779 Other
+T22	Contact_Contact 897 906	statement
+E798	Contact_Contact:T22
+A22	Realis E798 Actual
+T23	Transaction_Transfer-Ownership 1846 1853	selling
+E832	Transaction_Transfer-Ownership:T23
+A23	Realis E832 Other
+T24	Justice_Arrest-Jail 1233 1241	arrested
+E871	Justice_Arrest-Jail:T24
+A24	Realis E871 Actual

@@ -1,0 +1,30 @@
+T1	Movement_Transport-Person 91 100	returning
+E1	Movement_Transport-Person:T1 
+A1	Realis E1 Other
+T2	Justice_Release-Parole 76 81	freed
+E2	Justice_Release-Parole:T2 
+A2	Realis E2 Actual
+T3	Justice_Release-Parole 249 257	released
+E3	Justice_Release-Parole:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 342 348	return
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Other
+T5	Movement_Transport-Person 533 539	travel
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Other
+T6	Justice_Arrest-Jail 941 949	arrested
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 954 964	imprisoned
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 301 310	in prison
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Release-Parole 776 780	free
+E9	Justice_Release-Parole:T9 
+A9	Realis E9 Actual
+T10	Justice_Release-Parole 812 819	freedom
+E10	Justice_Release-Parole:T10 
+A10	Realis E10 Other

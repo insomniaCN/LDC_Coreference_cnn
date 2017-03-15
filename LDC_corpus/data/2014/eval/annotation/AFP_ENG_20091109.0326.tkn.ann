@@ -1,0 +1,35 @@
+T1	Justice_Sentence 76 81;87 95	given sentence
+E1	Justice_Sentence:T1 
+A1	Realis E1 Actual
+T2	Justice_Sentence 249 258	sentenced
+E2	Justice_Sentence:T2 
+A2	Realis E2 Actual
+T4	Justice_Sentence 575 581	ruling
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 614 622	arrested
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Justice_Appeal 864 870	appeal
+E6	Justice_Appeal:T6 
+A6	Realis E6 Other
+T7	Justice_Sentence 931 939	sentence
+E7	Justice_Sentence:T7 
+A7	Realis E7 Actual
+T8	Justice_Sentence 1012 1018	ruling
+E8	Justice_Sentence:T8 
+A8	Realis E8 Actual
+T9	Justice_Execute 1031 1044	death penalty
+E9	Justice_Execute:T9 
+A9	Questionable E9 Realis
+A10	Realis E9 Other
+T10	Life_Die 1127 1132	death
+E10	Life_Die:T10 
+A11	Questionable E10 Type
+A12	Realis E10 Generic
+T11	Justice_Execute 1154 1160	hanged
+E11	Justice_Execute:T11 
+A13	Realis E11 Generic
+T12	Justice_Charge-Indict 1199 1206	charges
+E12	Justice_Charge-Indict:T12 
+A14	Realis E12 Generic

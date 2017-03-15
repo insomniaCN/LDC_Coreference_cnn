@@ -1,0 +1,36 @@
+T1	Justice_Acquit 415 426	gotten away
+E1	Justice_Acquit:T1 
+A1	Realis E1 Actual
+T2	Life_Die 432 438	murder
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Justice_Pardon 2343 2349	pardon
+E3	Justice_Pardon:T3 
+A3	Realis E3 Actual
+T4	Justice_Pardon 2443 2450	pardons
+E4	Justice_Pardon:T4 
+A4	Realis E4 Generic
+T5	Justice_Arrest-Jail 2720 2729	in prison
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 2987 2994	in jail
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Justice_Arrest-Jail 5256 5266	in prision
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 4308 4315	in jail
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Money 1413 1418	taxes
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Generic
+T10	Justice_Pardon 1904 1911	pardons
+E10	Justice_Pardon:T10 
+A10	Realis E10 Generic
+T11	Justice_Trial-Hearing 2022 2029;2053 2061	putting on trial
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Justice_Pardon 2264 2272	pardoned
+E12	Justice_Pardon:T12 
+A12	Realis E12 Actual

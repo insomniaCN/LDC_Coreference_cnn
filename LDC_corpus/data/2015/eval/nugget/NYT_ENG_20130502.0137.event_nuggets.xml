@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea470000000000000007" doc_id="NYT_ENG_20130502.0137" source_type="newswire">
+  <event_mention id="em-29" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="994" length="9">attacking</trigger>
+  </event_mention>
+  <event_mention id="em-42" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="2004" length="12">negotiations</trigger>
+  </event_mention>
+  <event_mention id="em-79" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1134" length="12">house arrest</trigger>
+  </event_mention>
+  <event_mention id="em-116" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="2087" length="5">leave</trigger>
+  </event_mention>
+  <event_mention id="em-228" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130502.0137" offset="811" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-270" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="870" length="4">held</trigger>
+  </event_mention>
+  <event_mention id="em-294" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130502.0137" offset="938" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-324" type="justice" subtype="releaseparole" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1775" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-351" type="justice" subtype="convict" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="981" length="9">convicted</trigger>
+  </event_mention>
+  <event_mention id="em-422" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1887" length="8">crawling</trigger>
+  </event_mention>
+  <event_mention id="em-434" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="1348" length="5">visit</trigger>
+  </event_mention>
+  <event_mention id="em-455" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1237" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-512" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0137" offset="2364" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-527" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="516" length="6">escape</trigger>
+  </event_mention>
+  <event_mention id="em-608" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130502.0137" offset="648" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-613" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="289" length="7">accused</trigger>
+  </event_mention>
+  <event_mention id="em-639" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130502.0137" offset="681" length="4">send</trigger>
+  </event_mention>
+  <event_mention id="em-652" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="579" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-653" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1126" length="7">escaped</trigger>
+  </event_mention>
+  <event_mention id="em-661" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1687" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-672" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0137" offset="413" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-684" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="NYT_ENG_20130502.0137" offset="1713" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-695" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="960" length="6">injury</trigger>
+  </event_mention>
+  <event_mention id="em-723" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1846" length="6">escape</trigger>
+  </event_mention>
+  <event_mention id="em-730" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="178" length="7">ACCUSED</trigger>
+  </event_mention>
+  <event_mention id="em-777" type="justice" subtype="sentence" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="900" length="9">sentenced</trigger>
+  </event_mention>
+  <event_mention id="em-812" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="778" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-827" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130502.0137" offset="1737" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-833" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1034" length="11">broken into</trigger>
+  </event_mention>
+  <event_mention id="em-840" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="2255" length="5">speak</trigger>
+  </event_mention>
+  <event_mention id="em-841" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130502.0137" offset="1465" length="6">hailed</trigger>
+  </event_mention>
+  <event_mention id="em-868" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1807" length="8">confined</trigger>
+  </event_mention>
+  <event_mention id="em-900" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="NYT_ENG_20130502.0137" offset="1757" length="7">charges</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

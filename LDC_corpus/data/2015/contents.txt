@@ -1,0 +1,77 @@
+./contents.txt
+
+  This file
+
+./eval/event_nugget_stats_2015_eval.tab
+
+  Annotation counts for each document in ./eval/source/
+
+./eval/word_counts_2015_eval.tab
+
+  Word counts for each document in ./eval/source/
+
+./eval/bratHopperAnn/*
+
+  This directory holds all event hopper and nugget annotation data
+  produced for the 2015 eval in brat format (in .ann).
+
+./eval/bratNuggetAnn/*
+
+  This directory holds all event nugget annotation data produced
+  for the 2015 eval in brat format (in .ann).
+
+./eval/hopper/*
+
+  This directory holds all event hopper and nugget annotation data
+  produced for the 2015 eval in XML format (in .xml).
+
+./eval/nugget/*
+
+  This directory holds all event nugget annotation data produced
+  for the 2015 eval in XML format (in .xml).
+
+./eval/source/*
+
+  This directory holds all the tokenized source docs (in .txt) used in
+  the 2015 eval, 104 of which are discussion forum documents and 98 of
+  which are newswire documents.
+
+./eval/tbf/*
+
+  This directory holds all event hopper and nugget annotation data
+  produced for the 2015 eval in tbf format (in .tbf) as required by the
+  scorer.
+
+./eval/tkn/*
+
+  This directory holds all the token tab files (in .tab) corresponding 
+  to the source docs in ./eval/source/ 
+  All files have the following 4 tab delimited fields:
+  
+        token_id: the token ID
+        token_str: the text string of the token
+        tkn_begin: beginning offset of the token
+        tkn_end: ending offset of the token
+
+  The token files are produced by a tokenizer based on the tokenizer in
+  the Stanford CoreNLP tool.
+
+./training/event_nugget_stats_2015_training.tab
+
+  Annotation and token counts for each document in ./training/source/
+
+./training/event_hopper/*
+
+  This directory holds all event hopper and nugget annotation training
+  data produced in support of the 2015 eval in XML format (in .xml).
+
+./training/event_nugget/*
+
+  This directory holds all event nugget annotation training data
+  produced in support of the 2015 eval in XML format (in .xml).
+
+./training/source/*
+
+  This directory holds all the tokenized source docs (in .txt) utilized
+  for the 2015 training annotations, 77 of which are discussion forum
+  documents and 81 of which are newswire documents.

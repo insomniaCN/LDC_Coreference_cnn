@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea660000000000000049" doc_id="NYT_ENG_20130715.0115" source_type="newswire">
+  <event_mention id="em-48" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="626" length="6">strike</trigger>
+  </event_mention>
+  <event_mention id="em-78" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="2481" length="9">prisoners</trigger>
+  </event_mention>
+  <event_mention id="em-83" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="NYT_ENG_20130715.0115" offset="2638" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-108" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130715.0115" offset="806" length="8">transfer</trigger>
+  </event_mention>
+  <event_mention id="em-131" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="2649" length="9">prisoners</trigger>
+  </event_mention>
+  <event_mention id="em-220" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="NYT_ENG_20130715.0115" offset="2473" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-228" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130715.0115" offset="2387" length="10">threatened</trigger>
+  </event_mention>
+  <event_mention id="em-256" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130715.0115" offset="945" length="6">called</trigger>
+  </event_mention>
+  <event_mention id="em-283" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="1804" length="9">prisoners</trigger>
+  </event_mention>
+  <event_mention id="em-297" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130715.0115" offset="1250" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-325" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="427" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-343" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="541" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-349" type="justice" subtype="releaseparole" realis="other">
+    <trigger source="NYT_ENG_20130715.0115" offset="765" length="7">release</trigger>
+  </event_mention>
+  <event_mention id="em-350" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130715.0115" offset="407" length="9">declaring</trigger>
+  </event_mention>
+  <event_mention id="em-385" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="2509" length="8">appealed</trigger>
+  </event_mention>
+  <event_mention id="em-444" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="1377" length="11">confinement</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="1616" length="6">prison</trigger>
+  </event_mention>
+  <event_mention id="em-580" type="justice" subtype="sue" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="1355" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-586" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="2275" length="7">prisons</trigger>
+  </event_mention>
+  <event_mention id="em-620" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="1124" length="9">prisoners</trigger>
+  </event_mention>
+  <event_mention id="em-648" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="790" length="7">inmates</trigger>
+  </event_mention>
+  <event_mention id="em-680" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="206" length="7">PRISONS</trigger>
+  </event_mention>
+  <event_mention id="em-700" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="906" length="7">prisons</trigger>
+  </event_mention>
+  <event_mention id="em-768" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130715.0115" offset="1814" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-943" type="justice" subtype="arrestjail" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="673" length="11">confinement</trigger>
+  </event_mention>
+  <event_mention id="em-947" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="NYT_ENG_20130715.0115" offset="1020" length="4">bars</trigger>
+  </event_mention>
+  <event_mention id="em-964" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130715.0115" offset="1710" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-974" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20130715.0115" offset="864" length="6">deadly</trigger>
+  </event_mention>
+  <event_mention id="em-980" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130715.0115" offset="2185" length="8">declared</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

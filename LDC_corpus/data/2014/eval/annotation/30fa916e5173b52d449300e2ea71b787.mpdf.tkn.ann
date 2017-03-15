@@ -1,0 +1,102 @@
+T1	Life_Marry 185 192	married
+E1	Life_Marry:T1 
+A1	Realis E1 Actual
+T2	Personnel_Start-Position 299 306;313 316	started job
+E2	Personnel_Start-Position:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 429 446	previous employer
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 476 480	said
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 516 520;523 527	sent form
+E5	Contact_Communicate:T5 
+A5	Realis E5 Other
+T6	Contact_Communicate 579 586	hearing
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 597 602	asked
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 750 757	comment
+E8	Contact_Communicate:T8 
+A8	Realis E8 Other
+T9	Life_Marry 797 804	wedding
+E9	Life_Marry:T9 
+A9	Realis E9 Other
+T10	Life_Marry 834 841	wedding
+E10	Life_Marry:T10 
+A10	Realis E10 Actual
+T11	Movement_Transport-Person 1109 1111	go
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Other
+T12	Contact_Meet 1204 1208	told
+E12	Contact_Meet:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 1507 1511	told
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Contact_Meet 1925 1928	see
+E14	Contact_Meet:T14 
+A14	Realis E14 Other
+T15	Movement_Transport-Person 2023 2025	go
+E15	Movement_Transport-Person:T15 
+A15	Realis E15 Other
+T16	Contact_Meet 2039 2042	see
+E16	Contact_Meet:T16 
+A16	Realis E16 Other
+T17	Movement_Transport-Person 2907 2914	driving
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Actual
+T19	Movement_Transport-Person 3052 3056	went
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 3745 3752	leaving
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Other
+T21	Movement_Transport-Person 3794 3798	move
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Other
+T22	Movement_Transport-Person 3853 3857	been
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Other
+T23	Contact_Communicate 3926 3933	insists
+E23	Contact_Communicate:T23 
+A23	Realis E23 Actual
+T24	Transaction_Transfer-Money 3951 3954	buy
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Other
+T25	Contact_Communicate 4093 4097	told
+E25	Contact_Communicate:T25 
+A25	Realis E25 Actual
+T26	Contact_Communicate 4135 4139	told
+E26	Contact_Communicate:T26 
+A26	Realis E26 Actual
+T27	Movement_Transport-Person 4471 4476	moved
+E27	Movement_Transport-Person:T27 
+A27	Realis E27 Actual
+T28	Movement_Transport-Person 4563 4565	go
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Other
+T29	Movement_Transport-Person 4883 4885	go
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Other
+T30	Transaction_Transfer-Money 4953 4959	paying
+E30	Transaction_Transfer-Money:T30 
+A30	Realis E30 Actual
+T31	Transaction_Transfer-Money 4968 4972	debt
+E31	Transaction_Transfer-Money:T31 
+A31	Realis E31 Other
+T32	Movement_Transport-Person 5071 5073	go
+E32	Movement_Transport-Person:T32 
+A32	Realis E32 Other
+T33	Life_Marry 167 174	married
+E33	Life_Marry:T33 
+A33	Realis E33 Actual
+T34	Movement_Transport-Person 1731 1739	get home
+E34	Movement_Transport-Person:T34 
+A34	Realis E34 Actual
+T18	Movement_Transport-Person 4923 4928	going
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Other

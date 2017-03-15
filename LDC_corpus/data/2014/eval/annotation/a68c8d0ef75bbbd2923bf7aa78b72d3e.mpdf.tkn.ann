@@ -1,0 +1,27 @@
+T1	Life_Injure 571 575	hurt
+E1	Life_Injure:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 752 755	hit
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Life_Die 1489 1495	killed
+E3	Life_Die:T3 
+A3	Realis E3 Other
+T4	Justice_Charge-Indict 1509 1516	charged
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Other
+T5	Life_Die 1532 1538	murder
+E5	Life_Die:T5 
+A5	Realis E5 Other
+T6	Life_Die 1653 1657	kill
+E6	Life_Die:T6 
+A6	Realis E6 Actual
+T7	Life_Die 1670 1676	murder
+E7	Life_Die:T7 
+A7	Realis E7 Other
+T8	Life_Die 1713 1717	kill
+E8	Life_Die:T8 
+A8	Realis E8 Other
+T9	Life_Injure 1940 1944	hurt
+E9	Life_Injure:T9 
+A9	Realis E9 Other

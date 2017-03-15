@@ -1,0 +1,175 @@
+T1	Justice_Acquit 185 194	ACQUITTED
+E181	Justice_Acquit:T1
+A1	Realis E181 Actual
+T2	Life_Die 198 205	KILLING
+E133	Life_Die:T2
+A2	Realis E133 Actual
+T3	Life_Die 584 591	fatally
+E907	Life_Die:T3
+A3	Realis E907 Actual
+T4	Life_Die 757 763	murder
+E934	Life_Die:T4
+A4	Realis E934 Actual
+T5	Life_Die 790 802	manslaughter
+E673	Life_Die:T5
+A5	Realis E673 Actual
+T6	Life_Die 1066 1071	death
+E39	Life_Die:T6
+A6	Realis E39 Actual
+T7	Life_Die 1287 1293	murder
+E25	Life_Die:T7
+A7	Realis E25 Actual
+T8	Life_Die 1297 1309	manslaughter
+E621	Life_Die:T8
+A8	Realis E621 Actual
+T9	Life_Die 1652 1656	lost
+E78	Life_Die:T9
+A9	Realis E78 Actual
+T10	Conflict_Attack 198 205	KILLING
+E746	Conflict_Attack:T10
+A10	Realis E746 Actual
+T11	Conflict_Attack 592 596	shot
+E776	Conflict_Attack:T11
+A11	Realis E776 Actual
+T12	Conflict_Attack 757 763	murder
+E302	Conflict_Attack:T12
+A12	Realis E302 Actual
+T13	Conflict_Attack 1100 1104	shot
+E593	Conflict_Attack:T13
+A13	Realis E593 Actual
+T14	Conflict_Attack 1287 1293	murder
+E836	Conflict_Attack:T14
+A14	Realis E836 Actual
+T15	Conflict_Attack 1371 1379	shooting
+E255	Conflict_Attack:T15
+A15	Realis E255 Actual
+T16	Conflict_Attack 3163 3169	firing
+E502	Conflict_Attack:T16
+A16	Realis E502 Actual
+T17	Conflict_Attack 790 802	manslaughter
+E512	Conflict_Attack:T17
+A17	Realis E512 Actual
+T18	Conflict_Attack 1297 1309	manslaughter
+E920	Conflict_Attack:T18
+A18	Realis E920 Actual
+T19	Contact_Contact 660 666	debate
+E240	Contact_Contact:T19
+A19	Realis E240 Generic
+T20	Justice_Acquit 777 786	acquitted
+E826	Justice_Acquit:T20
+A20	Realis E826 Actual
+T21	Justice_Charge-Indict 813 819	charge
+E299	Justice_Charge-Indict:T21
+A21	Realis E299 Actual
+T22	Movement_Transport-Person 951 958	pursued
+E853	Movement_Transport-Person:T22
+A22	Realis E853 Other
+T23	Contact_Contact 1092 1096	said
+E216	Contact_Contact:T23
+A23	Realis E216 Actual
+T24	Contact_Meet 1320 1326	agreed
+E580	Contact_Meet:T24
+A24	Realis E580 Actual
+T25	Life_Injure 1418 1422	harm
+E269	Life_Injure:T25
+A25	Realis E269 Other
+T26	Life_Die 1426 1431	death
+E220	Life_Die:T26
+A26	Realis E220 Other
+T27	Contact_Broadcast 1479 1483	read
+E17	Contact_Broadcast:T27
+A27	Realis E17 Actual
+T28	Contact_Broadcast 2752 2756	read
+E658	Contact_Broadcast:T28
+A28	Realis E658 Actual
+T29	Contact_Broadcast 1736 1745	statement
+E705	Contact_Broadcast:T29
+A29	Realis E705 Actual
+T30	Contact_Meet 2142 2146	told
+E964	Contact_Meet:T30
+A30	Realis E964 Actual
+T31	Conflict_Demonstrate 2385 2395	protesters
+E23	Conflict_Demonstrate:T31
+A31	Realis E23 Actual
+T32	Conflict_Demonstrate 2812 2822	protesters
+E984	Conflict_Demonstrate:T32
+A32	Realis E984 Actual
+T33	Contact_Meet 2540 2548	chanting
+E223	Contact_Meet:T33
+A33	Realis E223 Actual
+T34	Contact_Meet 2653 2661	chanting
+E841	Contact_Meet:T34
+A34	Realis E841 Actual
+T35	Contact_Meet 2592 2600	lined up
+E369	Contact_Meet:T35
+A35	Realis E369 Actual
+T36	Movement_Transport-Person 2826 2831	leave
+E403	Movement_Transport-Person:T36
+A36	Realis E403 Actual
+T37	Justice_Arrest-Jail 2976 2982	prison
+E844	Justice_Arrest-Jail:T37
+A37	Realis E844 Generic
+T38	Contact_Meet 2989 2993	said
+E346	Contact_Meet:T38
+A38	Realis E346 Actual
+T39	Movement_Transport-Person 2968 2972	went
+E655	Movement_Transport-Person:T39
+A39	Realis E655 Other
+T40	Contact_Broadcast 3103 3107	said
+E545	Contact_Broadcast:T40
+A40	Realis E545 Actual
+T41	Contact_Contact 3273 3277	said
+E85	Contact_Contact:T41
+A41	Realis E85 Actual
+T42	Movement_Transport-Person 3385 3391	attend
+E755	Movement_Transport-Person:T42
+A42	Realis E755 Other
+T43	Contact_Meet 3385 3391	attend
+E636	Contact_Meet:T43
+A43	Realis E636 Other
+T44	Contact_Broadcast 3546 3550	post
+E879	Contact_Broadcast:T44
+A44	Realis E879 Actual
+T45	Contact_Meet 851 860	testimony
+E197	Contact_Meet:T45
+A45	Realis E197 Actual
+T46	Conflict_Attack 1044 1049	fight
+E898	Conflict_Attack:T46
+A46	Realis E898 Actual
+T47	Conflict_Attack 1208 1215	slammed
+E38	Conflict_Attack:T47
+A47	Realis E38 Actual
+T48	Conflict_Attack 1192 1199	punched
+E481	Conflict_Attack:T48
+A48	Realis E481 Actual
+T49	Conflict_Attack 1165 1172	knocked
+E500	Conflict_Attack:T49
+A49	Realis E500 Actual
+T50	Contact_Broadcast 3479 3484	asked
+E267	Contact_Broadcast:T50
+A50	Realis E267 Actual
+T51	Contact_Broadcast 3668 3672	read
+E656	Contact_Broadcast:T51
+A51	Realis E656 Actual
+T52	Contact_Meet 2409 2418	gathering
+E567	Contact_Meet:T52
+A52	Realis E567 Actual
+R1	Coreference Arg1:E133 Arg2:E907
+R2	Coreference Arg1:E907 Arg2:E934
+R3	Coreference Arg1:E934 Arg2:E673
+R4	Coreference Arg1:E673 Arg2:E39
+R5	Coreference Arg1:E39 Arg2:E25
+R6	Coreference Arg1:E25 Arg2:E621
+R7	Coreference Arg1:E621 Arg2:E78
+R8	Coreference Arg1:E746 Arg2:E776
+R9	Coreference Arg1:E776 Arg2:E302
+R10	Coreference Arg1:E302 Arg2:E512
+R11	Coreference Arg1:E512 Arg2:E593
+R12	Coreference Arg1:E593 Arg2:E836
+R13	Coreference Arg1:E836 Arg2:E920
+R14	Coreference Arg1:E920 Arg2:E255
+R15	Coreference Arg1:E255 Arg2:E502
+R16	Coreference Arg1:E17 Arg2:E658
+R17	Coreference Arg1:E23 Arg2:E984
+R18	Coreference Arg1:E223 Arg2:E841
+R19	Coreference Arg1:E267 Arg2:E656

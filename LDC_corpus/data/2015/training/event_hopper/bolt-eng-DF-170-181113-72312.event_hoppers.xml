@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000574" doc_id="bolt-eng-DF-170-181113-72312" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="366" length="9">transport</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="380" length="10">broadcasts</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="412" length="6">strike</trigger>
+      </event_mention>
+      <event_mention id="em-171" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="1107" length="6">Strike</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="456" length="7">marched</trigger>
+      </event_mention>
+      <event_mention id="em-128" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="777" length="7">marched</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="494" length="7">protest</trigger>
+      </event_mention>
+      <event_mention id="em-184" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="1134" length="7">Marches</trigger>
+      </event_mention>
+      <event_mention id="em-283" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="3642" length="8">marching</trigger>
+      </event_mention>
+      <event_mention id="em-296" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="3890" length="8">marching</trigger>
+      </event_mention>
+      <event_mention id="em-337" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="4494" length="8">marching</trigger>
+      </event_mention>
+      <event_mention id="em-391" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="5340" length="8">marching</trigger>
+      </event_mention>
+      <event_mention id="em-497" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="6798" length="8">marching</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-83" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="510" length="8">spending</trigger>
+      </event_mention>
+      <event_mention id="em-227" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="2506" length="8">spending</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-98" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="645" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-113" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="760" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-141" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="808" length="7">meeting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-169">
+      <event_mention id="em-156" type="conflict" subtype="demonstrate" realis="actual">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="945" length="7">strikes</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-197" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="1556" length="3">ask</trigger>
+      </event_mention>
+      <event_mention id="em-270" type="contact" subtype="contact" realis="generic" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="3325" length="11">encouraging</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-212" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="1658" length="4">gave</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-253">
+      <event_mention id="em-240" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="2686" length="5">riots</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-268">
+      <event_mention id="em-309" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="4065" length="7">rioting</trigger>
+      </event_mention>
+      <event_mention id="em-350" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="4669" length="7">rioting</trigger>
+      </event_mention>
+      <event_mention id="em-404" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="5515" length="7">rioting</trigger>
+      </event_mention>
+      <event_mention id="em-510" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="6973" length="7">rioting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-335">
+      <event_mention id="em-322" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="4125" length="5">riots</trigger>
+      </event_mention>
+      <event_mention id="em-363" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="4729" length="5">riots</trigger>
+      </event_mention>
+      <event_mention id="em-417" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="5575" length="5">riots</trigger>
+      </event_mention>
+      <event_mention id="em-523" type="conflict" subtype="demonstrate" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="7033" length="5">riots</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-389">
+      <event_mention id="em-376" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="5026" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-430" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="5872" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-456" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="6245" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-484" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="6542" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-590" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="7609" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-616" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="7906" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-795" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="9984" length="10">for income</trigger>
+      </event_mention>
+      <event_mention id="em-821" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="10285" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-1049" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="13172" length="10">for income</trigger>
+      </event_mention>
+      <event_mention id="em-1075" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="13473" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-1233" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="15941" length="10">for income</trigger>
+      </event_mention>
+      <event_mention id="em-1259" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="16242" length="6">income</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-482">
+      <event_mention id="em-469" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="6378" length="5">spend</trigger>
+      </event_mention>
+      <event_mention id="em-603" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="7742" length="5">spend</trigger>
+      </event_mention>
+      <event_mention id="em-756" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="9619" length="8">spending</trigger>
+      </event_mention>
+      <event_mention id="em-808" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="10121" length="5">spend</trigger>
+      </event_mention>
+      <event_mention id="em-1062" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="13309" length="5">spend</trigger>
+      </event_mention>
+      <event_mention id="em-1246" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="16078" length="5">spend</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-549">
+      <event_mention id="em-536" type="conflict" subtype="demonstrate" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="7283" length="18">out in the streets</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-642">
+      <event_mention id="em-629" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="8264" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-657">
+      <event_mention id="em-644" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="8511" length="5">spend</trigger>
+      </event_mention>
+      <event_mention id="em-704" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="9151" length="5">spend</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-672">
+      <event_mention id="em-659" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="8592" length="3">buy</trigger>
+      </event_mention>
+      <event_mention id="em-717" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="9232" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-687">
+      <event_mention id="em-674" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="8743" length="5">steal</trigger>
+      </event_mention>
+      <event_mention id="em-730" type="transaction" subtype="transfermoney" realis="generic" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="9383" length="5">steal</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-702">
+      <event_mention id="em-689" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="8812" length="7">robbing</trigger>
+      </event_mention>
+      <event_mention id="em-743" type="transaction" subtype="transfermoney" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="9452" length="7">robbing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-847">
+      <event_mention id="em-1140" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="14041" length="4">make</trigger>
+      </event_mention>
+      <event_mention id="em-1153" type="manufacture" subtype="artifact" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="10853" length="4">make</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-862">
+      <event_mention id="em-849" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="10720" length="6">income</trigger>
+      </event_mention>
+      <event_mention id="em-1101" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="13908" length="6">income</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-877">
+      <event_mention id="em-864" type="transaction" subtype="transfermoney" realis="actual" ways="involuntarynoforce">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="10768" length="8">pocketed</trigger>
+      </event_mention>
+      <event_mention id="em-1114" type="transaction" subtype="transfermoney" realis="actual" ways="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="13956" length="8">pocketed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-892">
+      <event_mention id="em-879" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="10830" length="10">taken away</trigger>
+      </event_mention>
+      <event_mention id="em-1127" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="14018" length="10">taken away</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-907">
+      <event_mention id="em-894" type="transaction" subtype="transaction" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="11382" length="5">spent</trigger>
+      </event_mention>
+      <event_mention id="em-1166" type="transaction" subtype="transaction" realis="generic" ways="canttell">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="14570" length="5">spent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-922">
+      <event_mention id="em-909" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="11875" length="6">bought</trigger>
+      </event_mention>
+      <event_mention id="em-1179" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="15063" length="6">bought</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-937">
+      <event_mention id="em-924" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="11911" length="4">sold</trigger>
+      </event_mention>
+      <event_mention id="em-1192" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="15099" length="4">sold</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-952">
+      <event_mention id="em-939" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="11919" length="6">leased</trigger>
+      </event_mention>
+      <event_mention id="em-1205" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="15107" length="6">leased</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-967">
+      <event_mention id="em-954" type="business" subtype="startorg" realis="other">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12654" length="4">form</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-982">
+      <event_mention id="em-969" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12906" length="3">War</trigger>
+      </event_mention>
+      <event_mention id="em-984" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12910" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-997" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12914" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-1010" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12918" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-1023" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12922" length="3">war</trigger>
+      </event_mention>
+      <event_mention id="em-1036" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="12926" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-1231">
+      <event_mention id="em-1218" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181113-72312" offset="15621" length="10">laundering</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

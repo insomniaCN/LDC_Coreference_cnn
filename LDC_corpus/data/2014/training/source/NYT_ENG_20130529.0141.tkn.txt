@@ -1,0 +1,37 @@
+<DOC id= " NYT_ENG_20130529.0141 " type= " story " from_file= " / newswire / daily_process / nyt / english / source_data / 20130529 / 20130529,787182cd1b2ee6ff372688c65c2d99 a8 . xml " > 
+<HEADLINE> 
+LAST MAN CHARGED IN OFFICER'S KILLING IS CONVICTED 
+< / HEADLINE> 
+<TEXT> 
+<P> 
+NEW YORK - A Queens man who participated in a botched drug robbery that led to the shooting death of a New York City police officer was convicted of second - degree murder and burglary Wednesday , becoming the fourth member of his robbery crew to be convicted or plead guilty .
+< / P> 
+<P> 
+Prosecutors argued during his trial that the man , Kevin Santos , was one of the first to barge into the basement apartment of a marijuana dealer living in Brooklyn , ransacking the place in search of drugs and cash before fleeing when the police arrived . Another man , Lamont Pride , shot the police officer , Peter J . Figoski , during the melee , but Santos was convicted of murder because under state law , if someone is killed during a felony , the person who committed the felony can be charged with murder even if he did not directly cause the death .
+< / P> 
+<P> 
+In state Supreme Court in Brooklyn on Wednesday , Santos , 32 , hardly moved when the jury forewoman read the guilty verdict . A lawyer for Santos , Harold Baker , said outside the courtroom that his client was “ calm and determined to pursue his appeal . ” 
+< / P> 
+<P> 
+After Santos was led away , police officers in the courtroom gallery hugged the prosecutors who handled the case , Kenneth Taub and Howard Jackson . Members of Figoski ’s family sighed in relief .
+< / P> 
+<P> 
+The conviction of Santos concludes the second trial stemming from Figoski ’s death . Last week , Nelson Morales , who was tried alongside Santos but in front of a separate jury , was convicted of second - degree murder . At an earlier trial , Pride was convicted of murder ; Michael Velez , who drove the others to the apartment but said he did not know their intentions , was acquitted . The fifth and last member of the crew , Ariel Tejada , pleaded guilty and testified for the prosecution in both trials as part of a cooperation agreement .
+< / P> 
+<P> 
+By all accounts , Santos was among those who frequented the Queens apartment of Morales , a drug dealer and stickup man who used his criminal ties to identify other drug dealers to rob . Early in the morning of Dec . 12 , 2011 , Santos and the four other men drove to the home of a drug dealer living in Brooklyn , according to prosecutors .
+< / P> 
+<P> 
+Prosecutors said that when police officers arrived , Santos tussled with Figoski ’s partner , officer Glenn Estrada , before sprinting off . But Baker , the defense lawyer , said in closing arguments this week that the prosecution ’s account was a fabrication , built on false evidence from unscrupulous police detectives and Tejada , who would say anything to save himself . Baker said Santos had never entered the house and ran from the scene only because he heard a gunshot .
+< / P> 
+<P> 
+“ The police are not honoring the memory of Peter Figoski by coming in here and lying to you , ” Baker told the jurors , causing the prosecutors to shift in their chairs .
+< / P> 
+<P> 
+One of the prosecutors , Jackson , disputed that statement , saying it lacked a shred of evidence .
+< / P> 
+<P> 
+Santos is scheduled to be sentenced on June 20 . He faces a maximum sentence of 25 years to life in prison .
+< / P> 
+< / TEXT> 
+< / DOC

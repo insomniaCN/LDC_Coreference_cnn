@@ -1,0 +1,90 @@
+T1	Life_Die 1441 1447	taking
+E3	Life_Die:T1
+A1	Realis E3 Other
+T2	Justice_Release-Parole 1208 1216	released
+E5	Justice_Release-Parole:T2
+A2	Realis E5 Other
+T3	Transaction_Transfer-Money 2145 2155	settlement
+E19	Transaction_Transfer-Money:T3
+A3	Realis E19 Other
+T4	Justice_Arrest-Jail 445 449	cell
+E47	Justice_Arrest-Jail:T4
+A4	Realis E47 Actual
+T5	Justice_Arrest-Jail 1257 1261	cell
+E76	Justice_Arrest-Jail:T5
+A5	Realis E76 Actual
+T6	Transaction_Transfer-Money 603 606	pay
+E90	Transaction_Transfer-Money:T6
+A6	Realis E90 Other
+T7	Movement_Transport-Person 1238 1243	taken
+E103	Movement_Transport-Person:T7
+A7	Realis E103 Actual
+T8	Transaction_Transfer-Money 172 182	SETTLEMENT
+E165	Transaction_Transfer-Money:T8
+A8	Realis E165 Other
+T9	Justice_Arrest-Jail 203 207	CELL
+E228	Justice_Arrest-Jail:T9
+A9	Realis E228 Actual
+T10	Contact_Meet 1160 1171	interviewed
+E231	Contact_Meet:T10
+A10	Realis E231 Actual
+T11	Justice_Arrest-Jail 911 920	picked up
+E285	Justice_Arrest-Jail:T11
+A11	Realis E285 Actual
+T12	Contact_Meet 787 791	said
+E287	Contact_Meet:T12
+A12	Realis E287 Actual
+T13	Justice_Arrest-Jail 2074 2078	cell
+E336	Justice_Arrest-Jail:T13
+A13	Realis E336 Actual
+T14	Contact_Correspondence 1492 1496	note
+E457	Contact_Correspondence:T14
+A14	Realis E457 Other
+T15	Contact_Broadcast 658 662	said
+E501	Contact_Broadcast:T15
+A15	Realis E501 Actual
+T16	Life_Die 1610 1615	death
+E538	Life_Die:T16
+A16	Realis E538 Other
+T17	Justice_Arrest-Jail 1361 1365	cell
+E539	Justice_Arrest-Jail:T17
+A17	Realis E539 Actual
+T18	Contact_Contact 1970 1974	said
+E556	Contact_Contact:T18
+A18	Realis E556 Actual
+T19	Contact_Contact 2160 2169	confirmed
+E588	Contact_Contact:T19
+A19	Realis E588 Actual
+T20	Life_Injure 1474 1481	scratch
+E647	Life_Injure:T20
+A20	Realis E647 Actual
+T21	Justice_Arrest-Jail 2179 2188	detention
+E728	Justice_Arrest-Jail:T21
+A21	Realis E728 Generic
+T22	Contact_Contact 1861 1865	said
+E787	Contact_Contact:T22
+A22	Realis E787 Actual
+T23	Movement_Transport-Person 1125 1130	taken
+E837	Movement_Transport-Person:T23
+A23	Realis E837 Actual
+T24	Contact_Broadcast 2019 2025	issued
+E844	Contact_Broadcast:T24
+A24	Realis E844 Actual
+T25	Contact_Meet 998 1006	gathered
+E853	Contact_Meet:T25
+A25	Realis E853 Actual
+T26	Contact_Broadcast 1770 1774	said
+E857	Contact_Broadcast:T26
+A26	Realis E857 Actual
+T27	Transaction_Transfer-Money 526 536	compensate
+E872	Transaction_Transfer-Money:T27
+A27	Realis E872 Other
+T28	Transaction_Transfer-Money 837 847	settlement
+E881	Transaction_Transfer-Money:T28
+A28	Realis E881 Other
+T29	Transaction_Transfer-Money 710 717	seeking
+E888	Transaction_Transfer-Money:T29
+A29	Realis E888 Other
+T30	Contact_Contact 2130 2137	comment
+E997	Contact_Contact:T30
+A30	Realis E997 Other

@@ -1,0 +1,18 @@
+T2	Conflict_Attack 651 657	attack
+E2	Conflict_Attack:T2 
+A2	Realis E2 Other
+T3	Movement_Transport-Person 850 854;866 869	pull out
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T6	Transaction_Transfer-Money 939 944	debts
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Other
+T7	Conflict_Attack 1125 1128	war
+E7	Conflict_Attack:T7 
+A7	Realis E7 Other
+T11	Transaction_Transfer-Money 1681 1686	spend
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Other
+T12	Transaction_Transfer-Ownership 1894 1899	trade
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Generic

@@ -1,0 +1,147 @@
+T1	Transaction_Transaction 742 753	deal-making
+E8	Transaction_Transaction:T1
+A1	Realis E8 Generic
+T2	Transaction_Transaction 2841 2845	deal
+E36	Transaction_Transaction:T2
+A2	Realis E36 Other
+T3	Manufacture_Artifact 2796 2805	drugmaker
+E74	Manufacture_Artifact:T3
+A3	Realis E74 Generic
+T4	Transaction_Transfer-Money 1919 1925	buyout
+E89	Transaction_Transfer-Money:T4
+A4	Realis E89 Actual
+T5	Business_Merge-Org 877 883	merger
+E91	Business_Merge-Org:T5
+A5	Realis E91 Generic
+T6	Transaction_Transfer-Money 512 515	pay
+E95	Transaction_Transfer-Money:T6
+A6	Realis E95 Other
+T7	Transaction_Transaction 713 717	deal
+E103	Transaction_Transaction:T7
+A7	Realis E103 Other
+T8	Transaction_Transfer-Money 536 544	investor
+E126	Transaction_Transfer-Money:T8
+A8	Realis E126 Generic
+T9	Transaction_Transfer-Ownership 972 981	takeovers
+E137	Transaction_Transfer-Ownership:T9
+A9	Realis E137 Generic
+T10	Transaction_Transfer-Ownership 1919 1925	buyout
+E186	Transaction_Transfer-Ownership:T10
+A10	Realis E186 Actual
+T11	Transaction_Transfer-Ownership 2751 2759	takeover
+E201	Transaction_Transfer-Ownership:T11
+A11	Realis E201 Other
+T12	Transaction_Transfer-Ownership 183 186	BUY
+E214	Transaction_Transfer-Ownership:T12
+A12	Realis E214 Other
+T13	Transaction_Transfer-Ownership 2328 2332	sale
+E228	Transaction_Transfer-Ownership:T13
+A13	Realis E228 Other
+T14	Transaction_Transfer-Money 308 312	sell
+E258	Transaction_Transfer-Money:T14
+A14	Realis E258 Other
+T15	Transaction_Transfer-Money 183 186	BUY
+E269	Transaction_Transfer-Money:T15
+A15	Realis E269 Other
+T16	Transaction_Transfer-Ownership 1830 1838	takeover
+E272	Transaction_Transfer-Ownership:T16
+A16	Realis E272 Other
+T17	Transaction_Transfer-Money 2099 2107	investor
+E281	Transaction_Transfer-Money:T17
+A17	Realis E281 Generic
+T18	Transaction_Transfer-Ownership 3343 3347	sale
+E283	Transaction_Transfer-Ownership:T18
+A18	Realis E283 Other
+T19	Transaction_Transaction 3644 3655	deal-making
+E315	Transaction_Transaction:T19
+A19	Realis E315 Other
+T20	Transaction_Transfer-Money 2011 2019	dividend
+E361	Transaction_Transfer-Money:T20
+A20	Realis E361 Actual
+T21	Transaction_Transfer-Money 1217 1225	purchase
+E376	Transaction_Transfer-Money:T21
+A21	Realis E376 Actual
+T22	Transaction_Transfer-Money 1599 1606	revenue
+E426	Transaction_Transfer-Money:T22
+A22	Realis E426 Generic
+T23	Transaction_Transfer-Money 3343 3347	sale
+E471	Transaction_Transfer-Money:T23
+A23	Realis E471 Other
+T24	Contact_Contact 2419 2424	talks
+E509	Contact_Contact:T24
+A24	Realis E509 Actual
+T25	Contact_Broadcast 867 876	Announced
+E517	Contact_Broadcast:T25
+A25	Realis E517 Actual
+T26	Transaction_Transfer-Money 2557 2563	paying
+E534	Transaction_Transfer-Money:T26
+A26	Realis E534 Other
+T27	Transaction_Transaction 3386 3397	transaction
+E567	Transaction_Transaction:T27
+A27	Realis E567 Other
+T28	Transaction_Transaction 2136 2140	deal
+E591	Transaction_Transaction:T28
+A28	Realis E591 Other
+T29	Transaction_Transfer-Ownership 1065 1077	acquisitions
+E610	Transaction_Transfer-Ownership:T29
+A29	Realis E610 Generic
+T30	Transaction_Transaction 2987 2998	transaction
+E691	Transaction_Transaction:T30
+A30	Realis E691 Other
+T31	Transaction_Transaction 804 807	buy
+E707	Transaction_Transaction:T31
+A31	Realis E707 Generic
+T32	Manufacture_Artifact 1328 1333	maker
+E711	Manufacture_Artifact:T32
+A32	Realis E711 Actual
+T33	Transaction_Transfer-Money 694 698	debt
+E748	Transaction_Transfer-Money:T33
+A33	Realis E748 Other
+T34	Transaction_Transfer-Money 640 645	spend
+E763	Transaction_Transfer-Money:T34
+A34	Realis E763 Other
+T35	Transaction_Transaction 493 497	deal
+E764	Transaction_Transaction:T35
+A35	Realis E764 Other
+T36	Transaction_Transfer-Money 2328 2332	sale
+E794	Transaction_Transfer-Money:T36
+A36	Realis E794 Other
+T37	Transaction_Transfer-Ownership 1294 1300	Adding
+E820	Transaction_Transfer-Ownership:T37
+A37	Realis E820 Other
+T38	Transaction_Transfer-Money 3256 3266	investment
+E836	Transaction_Transfer-Money:T38
+A38	Realis E836 Actual
+T39	Transaction_Transfer-Money 2038 2042	paid
+E837	Transaction_Transfer-Money:T39
+A39	Realis E837 Actual
+T40	Transaction_Transfer-Money 668 673	repay
+E852	Transaction_Transfer-Money:T40
+A40	Realis E852 Other
+T41	Transaction_Transfer-Money 1857 1863	payday
+E856	Transaction_Transfer-Money:T41
+A41	Realis E856 Actual
+T42	Transaction_Transfer-Ownership 3626 3638	acquisitions
+E859	Transaction_Transfer-Ownership:T42
+A42	Realis E859 Other
+T43	Transaction_Transfer-Ownership 308 312	sell
+E894	Transaction_Transfer-Ownership:T43
+A43	Realis E894 Other
+T44	Transaction_Transfer-Money 2179 2185	return
+E899	Transaction_Transfer-Money:T44
+A44	Realis E899 Other
+T45	Transaction_Transaction 1136 1140	deal
+E913	Transaction_Transaction:T45
+A45	Realis E913 Other
+T46	Contact_Correspondence 1733 1742	interview
+E973	Contact_Correspondence:T46
+A46	Realis E973 Actual
+T47	Contact_Contact 2881 2886	talks
+E996	Contact_Contact:T47
+A47	Realis E996 Actual
+T48	Transaction_Transfer-Money 2225 2235	investment
+E997	Transaction_Transfer-Money:T48
+A48	Realis E997 Actual
+T49	Transaction_Transfer-Ownership 1217 1225	purchase
+E999	Transaction_Transfer-Ownership:T49
+A49	Realis E999 Actual

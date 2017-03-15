@@ -1,0 +1,82 @@
+<DOC id="NYT_ENG_20130518.0159" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130518/20130518,ad5c2ca20b88a657e71adeb853d7e84d.xml">
+<HEADLINE>
+TRANSOCEAN SHAREHOLDERS OUST CHAIRMAN, BUT REJECT ICAHN DIVIDEND PROPOSAL
+</HEADLINE>
+<TEXT>
+<P>
+Transocean shareholders Friday ousted board chairman J. Michael Talbert and installed one of billionaire investor Carl Icahn’s nominees as a director, but they rejected Icahn’s proposal for a $4-per-share dividend as too risky at a time when the company still faces financial uncertainties from the Gulf of Mexico oil spill.
+</P>
+<P>
+According to vote totals announced at the company’s annual meeting in Zug, Switzerland, shareholders chose by a big margin to go with the company’s $2.24-a-share dividend proposal.
+</P>
+<P>
+It will be payable in four quarterly installments, set for June, September and December of this year and March of 2014.
+</P>
+<P>
+In the vote for directors, shareholders chose Icahn nominee Samuel Merksamer and rejected Talbert, who said this week he would step down before next year’s meeting if he was re-elected. Shareholders approved the rest of the company’s director nominees, rejecting Icahn candidates Jose Maria Alapont and John Lipinski.
+</P>
+<P>
+CEO Steven Newman said in a telephone interview that the shareholders’ decisions were largely a victory for the company and its goals, and that the dividend vote in particular was ''an overwhelming endorsement.''
+</P>
+<P>
+He noted that more than 75 percent of shares voted favored the company’s proposal. And he praised the departing board chairman, who also served formerly as CEO.
+</P>
+<P>
+''He has been instrumental in shepherding this company through growth, through an unprecedented industrial crisis and more recently helping the board and the management teams focus on the right priorities,'' Newman said.
+</P>
+<P>
+The defeat on the dividend proposal was a big loss for Icahn, who disclosed earlier this year that he had bought a large block of Transocean shares and would pursue change aggressively at the world’s largest offshore drilling contractor. But with one of his nominees on the board, he could increase his influence in company decisions in the future.
+</P>
+<P>
+Prior to the vote, Icahn had cited the company’s poor stock performance. Its share price has dropped by more than a third since the day before an undersea well blew out in 2010 and triggered an explosion on the Transocean-owned Deepwater Horizon rig in the Gulf of Mexico that killed 11 workers. The resulting oil spill was the worst offshore spill in U.S. history.
+</P>
+<P>
+Transocean shares closed Friday down 70 cents at $54.03 in New York trading.
+</P>
+<P>
+Icahn had proposed that shareholders oust directors Talbert, Robert Sprague and Thomas Cason, replacing them with Alapont, former CEO of Federal-Mogul Corp., Merksamer, managing director at Icahn Capital, and Lipinski, CEO and president of CVR Energy. Shareholders concurred only in voting out Talbert and electing Merksamer.
+</P>
+<P>
+In a statement after the votes were announced, Icahn said he was pleased with the support Merksamer received from shareholders.
+</P>
+<P>
+He said he believes shareholders ''sent an unequivocal and vocal message to the incumbent directors and management, by voting out the chairman, that immediate discipline must be brought to all fiscal and capital allocation decisions.''
+</P>
+<P>
+He added, ''We expect that the newly constituted board will take prompt action to deliver that sorely needed change.''
+</P>
+<P>
+His statement made no mention of the dividend defeat.
+</P>
+<P>
+The board’s governance committee will lead the process of selecting a new chairman, but the company did not detail plans for that Friday or give a timetable.
+</P>
+<P>
+optional
+</P>
+<P>
+Talbert had been a long-time board member of Transocean and former CEO of the company. Sprague is an engineer by education who served for years as an executive at Royal Dutch Shell before retiring from the company. Cason owns and manages equipment dealership related to the agricultural industry and is a former chief financial officer at oil field services firm Baker Hughes.
+</P>
+<P>
+Also at the meeting, Newman was re-elected to the board for a three-year term and company nominee Frederico Curado, who is chief of Brazilian aircraft maker Embraer S.A., was elected to join the board for a three-year term.
+</P>
+<P>
+Other business on the agenda for the meeting included the re-adoption of the company’s authorized share capital for another two years. The proposal was rejected because it did not receive enough votes in favor, according to a company statement.
+</P>
+<P>
+end optional
+</P>
+<P>
+Newman said a silver lining of the proxy contest is that it increased shareholder engagement. Now, he said, it’s back to work.
+</P>
+<P>
+Transocean has to continue to build on its assets, create shareholder value and remove uncertainties clouding the company, he said.
+</P>
+<P>
+''I think everybody wants the stock price to continue to improve,'' Newman said.
+</P>
+<P>
+One of the big uncertainties is the still-pending litigation in federal court in New Orleans over the Gulf oil spill. XXX - End of Story&lt;3D&gt;
+</P>
+</TEXT>
+</DOC>

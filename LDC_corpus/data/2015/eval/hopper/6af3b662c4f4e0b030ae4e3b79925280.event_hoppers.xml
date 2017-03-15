@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaa60000000000000159" doc_id="6af3b662c4f4e0b030ae4e3b79925280" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-697" type="justice" subtype="execute" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="139" length="12">executioners</trigger>
+      </event_mention>
+      <event_mention id="em-432" type="justice" subtype="execute" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="920" length="12">executioners</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-284" type="justice" subtype="execute" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="193" length="6">hanged</trigger>
+      </event_mention>
+      <event_mention id="em-112" type="justice" subtype="execute" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="391" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-887" type="justice" subtype="execute" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="582" length="9">execution</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-6" type="life" subtype="die" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="193" length="6">hanged</trigger>
+      </event_mention>
+      <event_mention id="em-389" type="life" subtype="die" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="391" length="8">executed</trigger>
+      </event_mention>
+      <event_mention id="em-327" type="life" subtype="die" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="845" length="6">hanged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-454" type="justice" subtype="convict" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="214" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-29" type="conflict" subtype="attack" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="227" length="8">stabbing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-696" type="life" subtype="die" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="239" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-556" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="282" length="8">protests</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-152">
+      <event_mention id="em-546" type="justice" subtype="execute" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="554" length="10">executions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-167">
+      <event_mention id="em-91" type="life" subtype="die" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="554" length="10">executions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-221">
+      <event_mention id="em-676" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="667" length="8">escorted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-236">
+      <event_mention id="em-287" type="manufacture" subtype="artifact" realis="actual">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="698" length="7">erected</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-251">
+      <event_mention id="em-280" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="785" length="5">spoke</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-266">
+      <event_mention id="em-585" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="807" length="7">uttered</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-294">
+      <event_mention id="em-496" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="863" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-322">
+      <event_mention id="em-957" type="life" subtype="die" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="1669" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-352">
+      <event_mention id="em-398" type="justice" subtype="convict" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="1961" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-367">
+      <event_mention id="em-342" type="conflict" subtype="attack" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="1971" length="9">murderers</trigger>
+      </event_mention>
+      <event_mention id="em-275" type="conflict" subtype="attack" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="2115" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-382">
+      <event_mention id="em-515" type="life" subtype="die" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="1971" length="9">murderers</trigger>
+      </event_mention>
+      <event_mention id="em-288" type="life" subtype="die" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="2115" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-423">
+      <event_mention id="em-240" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="2538" length="8">cast out</trigger>
+      </event_mention>
+      <event_mention id="em-437" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="2819" length="8">cast out</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-438">
+      <event_mention id="em-315" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="2591" length="4">move</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-466">
+      <event_mention id="em-657" type="life" subtype="beborn" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="3551" length="4">born</trigger>
+      </event_mention>
+      <event_mention id="em-741" type="life" subtype="beborn" realis="generic">
+        <trigger source="6af3b662c4f4e0b030ae4e3b79925280" offset="4452" length="4">born</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

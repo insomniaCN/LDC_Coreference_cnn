@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eab80000000000000197" doc_id="9d0952989f28fbbb2ff27f64836b6b1e" source_type="multi_post">
+  <event_mention id="em-57" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="1238" length="5">loans</trigger>
+  </event_mention>
+  <event_mention id="em-121" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="511" length="8">mortgage</trigger>
+  </event_mention>
+  <event_mention id="em-179" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="1201" length="8">Mortgage</trigger>
+  </event_mention>
+  <event_mention id="em-197" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="1255" length="5">loans</trigger>
+  </event_mention>
+  <event_mention id="em-222" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="852" length="7">lending</trigger>
+  </event_mention>
+  <event_mention id="em-225" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="662" length="7">lending</trigger>
+  </event_mention>
+  <event_mention id="em-249" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="780" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-269" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="520" length="6">lender</trigger>
+  </event_mention>
+  <event_mention id="em-294" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="300" length="7">lending</trigger>
+  </event_mention>
+  <event_mention id="em-470" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="1274" length="8">payments</trigger>
+  </event_mention>
+  <event_mention id="em-543" type="justice" subtype="sue" realis="actual">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="265" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-580" type="justice" subtype="sue" realis="actual">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="434" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-715" type="transaction" subtype="transferownership" realis="generic" ways="involuntarynoforce">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="868" length="12">foreclosures</trigger>
+  </event_mention>
+  <event_mention id="em-781" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="730" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-933" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="911" length="5">wrote</trigger>
+  </event_mention>
+  <event_mention id="em-980" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="9d0952989f28fbbb2ff27f64836b6b1e" offset="1059" length="7">lending</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

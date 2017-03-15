@@ -1,0 +1,111 @@
+T1	Transaction_Transfer-Money 1160 1170	auctioning
+E35	Transaction_Transfer-Money:T1
+A1	Realis E35 Other
+T2	Transaction_Transfer-Money 314 323	borrowing
+E75	Transaction_Transfer-Money:T2
+A2	Realis E75 Generic
+T3	Personnel_Start-Position 3403 3413	appointees
+E115	Personnel_Start-Position:T3
+A3	Realis E115 Generic
+T4	Transaction_Transfer-Money 3074 3082	spending
+E221	Transaction_Transfer-Money:T4
+A4	Realis E221 Generic
+T5	Conflict_Demonstrate 3438 3445	chained
+E246	Conflict_Demonstrate:T5
+A5	Realis E246 Generic
+T6	Transaction_Transfer-Ownership 1492 1500	transfer
+E297	Transaction_Transfer-Ownership:T6
+A6	Realis E297 Other
+T7	Transaction_Transfer-Money 898 907	subsidize
+E348	Transaction_Transfer-Money:T7
+A7	Realis E348 Other
+T8	Contact_Contact 3147 3156	summation
+E350	Contact_Contact:T8
+A8	Realis E350 Actual
+T9	Transaction_Transfer-Money 251 257	raking
+E364	Transaction_Transfer-Money:T9
+A9	Realis E364 Generic
+T10	Manufacture_Artifact 1055 1059	make
+E466	Manufacture_Artifact:T10
+A10	Realis E466 Other
+T11	Manufacture_Artifact 402 415	manufacturing
+E490	Manufacture_Artifact:T11
+A11	Realis E490 Generic
+T12	Transaction_Transfer-Money 4237 4243	sucked
+E494	Transaction_Transfer-Money:T12
+A12	Realis E494 Generic
+T13	Transaction_Transfer-Money 980 987	awarded
+E501	Transaction_Transfer-Money:T13
+A13	Realis E501 Actual
+T14	Transaction_Transfer-Money 1135 1138	pay
+E526	Transaction_Transfer-Money:T14
+A14	Realis E526 Other
+T15	Personnel_Start-Position 3240 3249	appointed
+E540	Personnel_Start-Position:T15
+A15	Realis E540 Generic
+T16	Transaction_Transfer-Money 301 309	spending
+E542	Transaction_Transfer-Money:T16
+A16	Realis E542 Generic
+T17	Transaction_Transfer-Ownership 1231 1238	auction
+E556	Transaction_Transfer-Ownership:T17
+A17	Realis E556 Actual
+T18	Transaction_Transfer-Money 2800 2808	spending
+E583	Transaction_Transfer-Money:T18
+A18	Realis E583 Generic
+T19	Transaction_Transfer-Ownership 507 511	give
+E613	Transaction_Transfer-Ownership:T19
+A19	Realis E613 Other
+T20	Business_Declare-Bankruptcy 959 967	bankrupt
+E619	Business_Declare-Bankruptcy:T20
+A20	Realis E619 Actual
+T21	Personnel_End-Position 3925 3932	get out
+E636	Personnel_End-Position:T21
+A21	Realis E636 Other
+T22	Personnel_Start-Position 3390 3394	came
+E652	Personnel_Start-Position:T22
+A22	Realis E652 Actual
+T23	Transaction_Transfer-Ownership 1433 1437	sale
+E660	Transaction_Transfer-Ownership:T23
+A23	Realis E660 Actual
+T24	Transaction_Transfer-Money 1147 1156	investors
+E661	Transaction_Transfer-Money:T24
+A24	Realis E661 Actual
+T25	Personnel_End-Position 3167 3174	retired
+E671	Personnel_End-Position:T25
+A25	Realis E671 Actual
+T26	Transaction_Transfer-Money 1433 1437	sale
+E700	Transaction_Transfer-Money:T26
+A26	Realis E700 Actual
+T27	Transaction_Transfer-Money 2886 2894	spending
+E722	Transaction_Transfer-Money:T27
+A27	Realis E722 Generic
+T28	Personnel_End-Position 3562 3568	Former
+E767	Personnel_End-Position:T28
+A28	Realis E767 Actual
+T29	Transaction_Transfer-Money 1231 1238	auction
+E768	Transaction_Transfer-Money:T29
+A29	Realis E768 Actual
+T30	Transaction_Transfer-Money 677 686	taxpayers
+E836	Transaction_Transfer-Money:T30
+A30	Realis E836 Generic
+T31	Transaction_Transfer-Money 846 850	gave
+E844	Transaction_Transfer-Money:T31
+A31	Realis E844 Actual
+T32	Contact_Broadcast 2469 2476	posting
+E850	Contact_Broadcast:T32
+A32	Realis E850 Actual
+T33	Manufacture_Artifact 1568 1576	produces
+E853	Manufacture_Artifact:T33
+A33	Realis E853 Generic
+T34	Transaction_Transfer-Ownership 1160 1170	auctioning
+E859	Transaction_Transfer-Ownership:T34
+A34	Realis E859 Other
+T35	Business_Declare-Bankruptcy 1105 1113	bankrupt
+E895	Business_Declare-Bankruptcy:T35
+A35	Realis E895 Actual
+T36	Manufacture_Artifact 908 914	making
+E924	Manufacture_Artifact:T36
+A36	Realis E924 Other
+T37	Transaction_Transfer-Money 385 396	well-paying
+E999	Transaction_Transfer-Money:T37
+A37	Realis E999 Generic

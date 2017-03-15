@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000655" doc_id="XIN_ENG_20100206.0090" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="79" length="7">charged</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="236" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="249" length="9">murdering</trigger>
+      </event_mention>
+      <event_mention id="em-81" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="413" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-152" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="882" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-191" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="970" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-247" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1131" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-316" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1326" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-441" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1930" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-510" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="109" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-53" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="249" length="9">murdering</trigger>
+      </event_mention>
+      <event_mention id="em-94" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="413" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="882" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-204" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="970" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-260" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1131" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-329" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1326" length="6">killed</trigger>
+      </event_mention>
+      <event_mention id="em-342" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1375" length="3">die</trigger>
+      </event_mention>
+      <event_mention id="em-385" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1476" length="4">dead</trigger>
+      </event_mention>
+      <event_mention id="em-413" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1770" length="5">death</trigger>
+      </event_mention>
+      <event_mention id="em-454" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1930" length="6">murder</trigger>
+      </event_mention>
+      <event_mention id="em-523" type="life" subtype="die" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="109" length="4">kill</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-66" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="396" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="442" length="6">former</trigger>
+      </event_mention>
+      <event_mention id="em-536" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="263" length="6">former</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="579" length="4">shot</trigger>
+      </event_mention>
+      <event_mention id="em-178" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="920" length="5">fired</trigger>
+      </event_mention>
+      <event_mention id="em-467" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1961" length="8">shooting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100206.0090" offset="780" length="7">meeting</trigger>
+      </event_mention>
+      <event_mention id="em-288" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="planned">
+        <trigger source="XIN_ENG_20100206.0090" offset="1226" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-230">
+      <event_mention id="em-217" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1086" length="6">driven</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-245">
+      <event_mention id="em-232" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20100206.0090" offset="1047" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-286">
+      <event_mention id="em-273" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20100206.0090" offset="1201" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-314">
+      <event_mention id="em-301" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="XIN_ENG_20100206.0090" offset="1258" length="3">pay</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-368">
+      <event_mention id="em-355" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20100206.0090" offset="1398" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-383">
+      <event_mention id="em-370" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="XIN_ENG_20100206.0090" offset="1451" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-411">
+      <event_mention id="em-398" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1496" length="5">fired</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-439">
+      <event_mention id="em-426" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20100206.0090" offset="1820" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-493">
+      <event_mention id="em-480" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="1997" length="4">came</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-508">
+      <event_mention id="em-495" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="XIN_ENG_20100206.0090" offset="92" length="6">hiring</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-562">
+      <event_mention id="em-549" type="movement" subtype="transportperson" realis="other">
+        <trigger source="XIN_ENG_20100206.0090" offset="656" length="5">enter</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-577">
+      <event_mention id="em-564" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="XIN_ENG_20100206.0090" offset="1706" length="6">saying</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-592">
+      <event_mention id="em-579" type="personnel" subtype="startposition" realis="other">
+        <trigger source="XIN_ENG_20100206.0090" offset="1731" length="6">become</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

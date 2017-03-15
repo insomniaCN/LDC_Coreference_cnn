@@ -1,0 +1,147 @@
+T1	Justice_Trial-Hearing 3080 3087	hearing
+E54	Justice_Trial-Hearing:T1
+A1	Realis E54 Actual
+T2	Transaction_Transfer-Money 2316 2322	income
+E61	Transaction_Transfer-Money:T2
+A2	Realis E61 Other
+T3	Justice_Trial-Hearing 2173 2180	hearing
+E101	Justice_Trial-Hearing:T3
+A3	Realis E101 Actual
+T4	Contact_Contact 3399 3403	said
+E158	Contact_Contact:T4
+A4	Realis E158 Actual
+T5	Contact_Contact 1115 1121	citing
+E177	Contact_Contact:T5
+A5	Realis E177 Actual
+T6	Justice_Release-Parole 1813 1817	free
+E181	Justice_Release-Parole:T6
+A6	Realis E181 Other
+T7	Contact_Contact 3917 3925	informed
+E201	Contact_Contact:T7
+A7	Realis E201 Actual
+T8	Justice_Sentence 194 203	SENTENCES
+E209	Justice_Sentence:T8
+A8	Realis E209 Actual
+T9	Justice_Release-Parole 830 838	released
+E220	Justice_Release-Parole:T9
+A9	Realis E220 Other
+T10	Personnel_End-Position 2642 2650	followed
+E226	Personnel_End-Position:T10
+A10	Realis E226 Actual
+T11	Contact_Meet 228 236	INFORMER
+E228	Contact_Meet:T11
+A11	Realis E228 Actual
+T12	Contact_Contact 4410 4419	described
+E248	Contact_Contact:T12
+A12	Realis E248 Actual
+T13	Justice_Arrest-Jail 852 859	custody
+E250	Justice_Arrest-Jail:T13
+A13	Realis E250 Actual
+T14	Justice_Sentence 1601 1609	sentence
+E264	Justice_Sentence:T14
+A14	Realis E264 Actual
+T15	Contact_Meet 4137 4144	ordered
+E272	Contact_Meet:T15
+A15	Realis E272 Actual
+T16	Justice_Arrest-Jail 1854 1867	incarceration
+E278	Justice_Arrest-Jail:T16
+A16	Realis E278 Actual
+T17	Contact_Contact 4264 4271	comment
+E281	Contact_Contact:T17
+A17	Realis E281 Other
+T18	Contact_Contact 4472 4476	told
+E303	Contact_Contact:T18
+A18	Realis E303 Generic
+T19	Contact_Contact 4352 4356	said
+E309	Contact_Contact:T19
+A19	Realis E309 Generic
+T20	Justice_Trial-Hearing 1457 1464	hearing
+E311	Justice_Trial-Hearing:T20
+A20	Realis E311 Actual
+T21	Personnel_Start-Position 2642 2650	followed
+E318	Personnel_Start-Position:T21
+A21	Realis E318 Actual
+T22	Contact_Correspondence 3557 3566	responses
+E321	Contact_Correspondence:T22
+A22	Realis E321 Other
+T23	Contact_Broadcast 3512 3521	statement
+E337	Contact_Broadcast:T23
+A23	Realis E337 Other
+T24	Conflict_Attack 2941 2948	murders
+E350	Conflict_Attack:T24
+A24	Realis E350 Actual
+T25	Justice_Arrest-Jail 1155 1167	incarcerated
+E372	Justice_Arrest-Jail:T25
+A25	Realis E372 Actual
+T26	Contact_Meet 3057 3061	said
+E390	Contact_Meet:T26
+A26	Realis E390 Actual
+T27	Contact_Contact 2721 2729	informer
+E414	Contact_Contact:T27
+A27	Realis E414 Actual
+T28	Justice_Sentence 1105 1113	sentence
+E429	Justice_Sentence:T28
+A28	Realis E429 Actual
+T29	Justice_Release-Parole 3796 3803	release
+E460	Justice_Release-Parole:T29
+A29	Realis E460 Other
+T30	Life_Die 2941 2948	murders
+E463	Life_Die:T30
+A30	Realis E463 Actual
+T31	Justice_Release-Parole 2030 2038	released
+E469	Justice_Release-Parole:T31
+A31	Realis E469 Other
+T32	Contact_Meet 433 440	testify
+E480	Contact_Meet:T32
+A32	Realis E480 Actual
+T33	Contact_Meet 1788 1792	said
+E528	Contact_Meet:T33
+A33	Realis E528 Actual
+T34	Personnel_End-Position 781 787	former
+E599	Personnel_End-Position:T34
+A34	Realis E599 Actual
+T35	Justice_Sentence 1683 1691	sentence
+E653	Justice_Sentence:T35
+A35	Realis E653 Actual
+T36	Justice_Convict 2922 2931	convicted
+E671	Justice_Convict:T36
+A36	Realis E671 Actual
+T37	Contact_Correspondence 3428 3439	reached out
+E683	Contact_Correspondence:T37
+A37	Realis E683 Actual
+T38	Contact_Correspondence 3480 3487	inquire
+E724	Contact_Correspondence:T38
+A38	Realis E724 Actual
+T39	Contact_Meet 3163 3172	statement
+E725	Contact_Meet:T39
+A39	Realis E725 Actual
+T40	Contact_Contact 1567 1576	arguments
+E731	Contact_Contact:T40
+A40	Realis E731 Actual
+T41	Contact_Contact 1237 1245	provided
+E743	Contact_Contact:T41
+A41	Realis E743 Actual
+T42	Justice_Sentence 709 717	sentence
+E745	Justice_Sentence:T42
+A42	Realis E745 Actual
+T43	Contact_Contact 2158 2162	said
+E758	Contact_Contact:T43
+A43	Realis E758 Actual
+T44	Contact_Contact 4162 4171	associate
+E840	Contact_Contact:T44
+A44	Realis E840 Generic
+T45	Contact_Contact 896 905	requested
+E859	Contact_Contact:T45
+A45	Realis E859 Actual
+T46	Transaction_Transfer-Money 2241 2247	income
+E875	Transaction_Transfer-Money:T46
+A46	Realis E875 Other
+T47	Contact_Meet 3109 3117	speaking
+E897	Contact_Meet:T47
+A47	Realis E897 Actual
+T48	Contact_Contact 1190 1203	conversations
+E911	Contact_Contact:T48
+A48	Realis E911 Actual
+T49	Justice_Arrest-Jail 751 757	prison
+E958	Justice_Arrest-Jail:T49
+A49	Realis E958 Generic

@@ -1,0 +1,93 @@
+T1	Justice_Pardon 1819 1827	clemency
+E89	Justice_Pardon:T1
+A1	Realis E89 Other
+T2	Life_Injure 1004 1011	injured
+E99	Life_Injure:T2
+A2	Realis E99 Actual
+T3	Contact_Broadcast 751 760	statement
+E141	Contact_Broadcast:T3
+A3	Realis E141 Actual
+T4	Justice_Convict 562 571	convicted
+E159	Justice_Convict:T4
+A4	Realis E159 Actual
+T5	Contact_Correspondence 1944 1949	wrote
+E171	Contact_Correspondence:T5
+A5	Realis E171 Actual
+T6	Conflict_Attack 1623 1629	blasts
+E178	Conflict_Attack:T6
+A6	Realis E178 Actual
+T7	Life_Die 318 322	died
+E195	Life_Die:T7
+A7	Realis E195 Actual
+T8	Conflict_Attack 211 218	BEATING
+E239	Conflict_Attack:T8
+A8	Realis E239 Actual
+T9	Conflict_Attack 1118 1127	assaulted
+E319	Conflict_Attack:T9
+A9	Realis E319 Actual
+T10	Contact_Contact 1367 1371	said
+E339	Contact_Contact:T10
+A10	Realis E339 Actual
+T11	Life_Die 855 860	death
+E348	Life_Die:T11
+A11	Realis E348 Actual
+T12	Contact_Broadcast 391 395	said
+E364	Contact_Broadcast:T12
+A12	Realis E364 Actual
+T13	Conflict_Attack 600 608	bombings
+E366	Conflict_Attack:T13
+A13	Realis E366 Actual
+T14	Justice_Appeal 1741 1749	appealed
+E451	Justice_Appeal:T14
+A14	Realis E451 Actual
+T15	Justice_Pardon 2007 2013	pardon
+E503	Justice_Pardon:T15
+A15	Realis E503 Other
+T16	Conflict_Attack 335 343	attacked
+E559	Conflict_Attack:T16
+A16	Realis E559 Actual
+T17	Life_Injure 1251 1259	injuries
+E571	Life_Injure:T17
+A17	Realis E571 Actual
+T18	Conflict_Attack 729 737	attacked
+E582	Conflict_Attack:T18
+A18	Realis E582 Actual
+T19	Justice_Execute 278 283	death
+E594	Justice_Execute:T19
+A19	Realis E594 Generic
+T20	Contact_Contact 1403 1409	spoken
+E598	Contact_Contact:T20
+A20	Realis E598 Actual
+T21	Justice_Convict 1559 1568	convicted
+E627	Justice_Convict:T21
+A21	Realis E627 Actual
+T22	Movement_Transport-Person 1274 1279	taken
+E651	Movement_Transport-Person:T22
+A22	Realis E651 Actual
+T23	Life_Die 441 445	died
+E729	Life_Die:T23
+A23	Realis E729 Actual
+T24	Contact_Contact 1413 1420	threats
+E739	Contact_Contact:T24
+A24	Realis E739 Actual
+T25	Movement_Transport-Person 1151 1155	left
+E742	Movement_Transport-Person:T25
+A25	Realis E742 Actual
+T26	Movement_Transport-Person 1832 1842	repatriate
+E826	Movement_Transport-Person:T26
+A26	Realis E826 Other
+T27	Life_Die 200 204	DIES
+E856	Life_Die:T27
+A27	Realis E856 Actual
+T28	Movement_Transport-Person 989 999	repatriate
+E869	Movement_Transport-Person:T28
+A28	Realis E869 Other
+T29	Life_Die 1635 1641	killed
+E918	Life_Die:T29
+A29	Realis E918 Actual
+T30	Justice_Execute 1448 1455	hanging
+E947	Justice_Execute:T30
+A30	Realis E947 Actual
+T31	Justice_Arrest-Jail 179 187	PRISONER
+E999	Justice_Arrest-Jail:T31
+A31	Realis E999 Actual

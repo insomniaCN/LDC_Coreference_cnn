@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea440000000000000003" doc_id="NYT_ENG_20130427.0061" source_type="newswire">
+  <event_mention id="em-40" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="1884" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-49" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="1716" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-70" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130427.0061" offset="1742" length="7">provide</trigger>
+  </event_mention>
+  <event_mention id="em-104" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="1469" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-150" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="564" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-155" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="1232" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-189" type="movement" subtype="transportperson" realis="other">
+    <trigger source="NYT_ENG_20130427.0061" offset="1818" length="5">moved</trigger>
+  </event_mention>
+  <event_mention id="em-352" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="296" length="4">fled</trigger>
+  </event_mention>
+  <event_mention id="em-353" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="1693" length="8">meetings</trigger>
+  </event_mention>
+  <event_mention id="em-435" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="1539" length="7">stormed</trigger>
+  </event_mention>
+  <event_mention id="em-442" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="186" length="3">DIE</trigger>
+  </event_mention>
+  <event_mention id="em-545" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="NYT_ENG_20130427.0061" offset="1636" length="13">prefabricated</trigger>
+  </event_mention>
+  <event_mention id="em-638" type="movement" subtype="transportperson" realis="generic">
+    <trigger source="NYT_ENG_20130427.0061" offset="1016" length="12">displacement</trigger>
+  </event_mention>
+  <event_mention id="em-639" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="463" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-670" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="1344" length="5">burns</trigger>
+  </event_mention>
+  <event_mention id="em-708" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="597" length="7">reports</trigger>
+  </event_mention>
+  <event_mention id="em-721" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130427.0061" offset="890" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-813" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="311" length="3">war</trigger>
+  </event_mention>
+  <event_mention id="em-855" type="conflict" subtype="demonstrate" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="815" length="7">protest</trigger>
+  </event_mention>
+  <event_mention id="em-892" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="808" length="3">set</trigger>
+  </event_mention>
+  <event_mention id="em-893" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="1386" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-992" type="contact" subtype="meet" realis="actual" audience="twoway" formality="canttell" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130427.0061" offset="1593" length="6">demand</trigger>
+  </event_mention>
+  <event_mention id="em-999" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130427.0061" offset="329" length="6">killed</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

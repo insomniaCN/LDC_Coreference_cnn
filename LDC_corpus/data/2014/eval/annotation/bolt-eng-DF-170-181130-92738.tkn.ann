@@ -1,0 +1,147 @@
+T1	Justice_Charge-Indict 78 85	charged
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Life_Die 91 97	murder
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 102 110	shooting
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 274 282	Shooting
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Justice_Charge-Indict 245 252	Charged
+E5	Justice_Charge-Indict:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 432 437;445 452	filed charges
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T7	Life_Die 615 619	kill
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Life_Die 438 444	murder
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T9	Justice_Charge-Indict 673 680	charged
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Life_Die 707 713	murder
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 734 750	attempted murder
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Life_Die 744 750	murder
+E12	Life_Die:T12 
+A12	Realis E12 Generic
+T13	Conflict_Attack 782 788	attack
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Justice_Convict 794 803	convicted
+E14	Justice_Convict:T14 
+A14	Realis E14 Other
+T15	Justice_Sentence 831 839	sentence
+E15	Justice_Sentence:T15 
+A15	Realis E15 Other
+T16	Life_Die 939 943	kill
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Justice_Charge-Indict 1757 1767	indictment
+E17	Justice_Charge-Indict:T17 
+A17	Realis E17 Actual
+T18	Justice_Arrest-Jail 2047 2053	serves
+E18	Justice_Arrest-Jail:T18 
+A18	Realis E18 Other
+T19	Contact_Communicate 2183 2202	telephone interview
+E19	Contact_Communicate:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 2592 2599	arrived
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Actual
+T21	Movement_Transport-Person 2777 2787	approached
+E21	Movement_Transport-Person:T21 
+A21	Realis E21 Actual
+T22	Movement_Transport-Person 2627 2635	followed
+E22	Movement_Transport-Person:T22 
+A22	Realis E22 Actual
+T23	Justice_Charge-Indict 3106 3116	indictment
+E23	Justice_Charge-Indict:T23 
+A23	Realis E23 Actual
+T24	Conflict_Attack 3134 3138	shot
+E24	Conflict_Attack:T24 
+A24	Realis E24 Actual
+T25	Justice_Charge-Indict 3252 3262	indictment
+E25	Justice_Charge-Indict:T25 
+A25	Realis E25 Actual
+T26	Movement_Transport-Person 3281 3288	boarded
+E26	Movement_Transport-Person:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 3363 3367	shot
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T28	Life_Die 3372 3378	killed
+E28	Life_Die:T28 
+A28	Realis E28 Actual
+T29	Conflict_Attack 3468 3474	firing
+E29	Conflict_Attack:T29 
+A29	Realis E29 Actual
+T30	Justice_Extradite 3781 3791	extradited
+E30	Justice_Extradite:T30 
+A30	Realis E30 Other
+T31	Justice_Trial-Hearing 3806 3811	trial
+E31	Justice_Trial-Hearing:T31 
+A31	Realis E31 Other
+T32	Justice_Extradite 3953 3963	extradited
+E32	Justice_Extradite:T32 
+A32	Realis E32 Other
+T33	Justice_Trial-Hearing 3978 3983	trial
+E33	Justice_Trial-Hearing:T33 
+A33	Realis E33 Other
+T34	Justice_Acquit 4056 4060	walk
+E34	Justice_Acquit:T34 
+A34	Realis E34 Other
+T35	Justice_Trial-Hearing 4072 4077	tried
+E35	Justice_Trial-Hearing:T35 
+A35	Realis E35 Other
+T36	Justice_Extradite 4244 4254	extradited
+E36	Justice_Extradite:T36 
+A36	Realis E36 Other
+T37	Justice_Trial-Hearing 4269 4274	trial
+E37	Justice_Trial-Hearing:T37 
+A37	Realis E37 Other
+T38	Justice_Extradite 4604 4614	extradited
+E38	Justice_Extradite:T38 
+A38	Realis E38 Other
+T39	Justice_Trial-Hearing 4629 4634	trial
+E39	Justice_Trial-Hearing:T39 
+A39	Realis E39 Other
+T40	Justice_Extradite 5049 5059	extradited
+E40	Justice_Extradite:T40 
+A40	Realis E40 Other
+T41	Justice_Trial-Hearing 5074 5079	trial
+E41	Justice_Trial-Hearing:T41 
+A41	Realis E41 Other
+T42	Justice_Acquit 5152 5156	walk
+E42	Justice_Acquit:T42 
+A42	Realis E42 Other
+T43	Justice_Trial-Hearing 5168 5173	tried
+E43	Justice_Trial-Hearing:T43 
+A43	Realis E43 Other
+T44	Justice_Extradite 5446 5456	extradited
+E44	Justice_Extradite:T44 
+A44	Realis E44 Other
+T45	Justice_Trial-Hearing 5471 5476	trial
+E45	Justice_Trial-Hearing:T45 
+A45	Realis E45 Other
+T46	Justice_Trial-Hearing 1822 1827	trial
+E46	Justice_Trial-Hearing:T46 
+A46	Realis E46 Other
+T47	Justice_Release-Parole 2030 2037	release
+E47	Justice_Release-Parole:T47 
+A47	Realis E47 Other
+T48	Justice_Charge-Indict 3637 3644	Charged
+E48	Justice_Charge-Indict:T48 
+A48	Realis E48 Actual
+T49	Conflict_Attack 3666 3674	Shooting
+E49	Conflict_Attack:T49 
+A49	Realis E49 Actual

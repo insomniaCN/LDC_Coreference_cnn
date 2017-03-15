@@ -1,0 +1,39 @@
+T1	Justice_Release-Parole 148 155	paroled
+E456	Justice_Release-Parole:T1
+A1	Realis E456 Actual
+T2	Conflict_Attack 156 162	rapist
+E931	Conflict_Attack:T2
+A2	Realis E931 Actual
+T3	Justice_Arrest-Jail 167 175	arrested
+E772	Justice_Arrest-Jail:T3
+A3	Realis E772 Actual
+T4	Conflict_Attack 196 205	attacking
+E809	Conflict_Attack:T4
+A4	Realis E809 Actual
+T5	Contact_Contact 252 256	said
+E821	Contact_Contact:T5
+A5	Realis E821 Actual
+T6	Movement_Transport-Person 302 309	walking
+E241	Movement_Transport-Person:T6
+A6	Realis E241 Actual
+T7	Conflict_Attack 411 418	grabbed
+E333	Conflict_Attack:T7
+A7	Realis E333 Actual
+T8	Conflict_Attack 424 429	threw
+E445	Conflict_Attack:T8
+A8	Realis E445 Actual
+T9	Conflict_Attack 466 473	slammed
+E503	Conflict_Attack:T9
+A9	Realis E503 Actual
+T10	Movement_Transport-Person 539 543	came
+E616	Movement_Transport-Person:T10
+A10	Realis E616 Actual
+T11	Contact_Broadcast 666 672	yelled
+E955	Contact_Broadcast:T11
+A11	Realis E955 Actual
+T12	Life_Injure 156 162	rapist
+E905	Life_Injure:T12
+A12	Realis E905 Generic
+T13	Contact_Correspondence 694 698	call
+E829	Contact_Correspondence:T13
+A13	Realis E829 Other

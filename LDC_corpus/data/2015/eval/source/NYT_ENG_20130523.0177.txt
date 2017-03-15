@@ -1,0 +1,58 @@
+<DOC id="NYT_ENG_20130523.0177" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130523/20130523,9a6fb0791a0bc1b734896ca652dcd2ed.xml">
+<HEADLINE>
+
+</HEADLINE>
+<TEXT>
+<P>
+WASHINGTON – A Mexican drug cartel member pleaded guilty in U.S. District Court here Thursday to the murder of U.S. Immigration and Customs Enforcement special agent Jaime Zapata of Brownsville during an ambush in Mexico.
+</P>
+<P>
+Julian Zapata Espinoza, 32, known as ''El Piolin’' or ''Tweety Bird,'' also pleaded guilty to the attempted murder of ICE special agent Victor Avila, according to Justice Department officials.
+</P>
+<P>
+''Special agent Zapata died for his country in a senseless brutal attack, and special agent Avila was grievously wounded in the same ambush by members of the Los Zetas cartel,'' said Mythili(CQ) Raman(CQ), acting assistant U.S. attorney.
+</P>
+<P>
+Following the plea, the federal court unsealed documents that revealed the guilty pleas of three other defendants in the Mexico ambush who were also charged with murder, attempted murder and racketeering.
+</P>
+<P>
+Ruben Dario Venegas Rivera, 25 and Jose Ismael Nava Villagran, 30, pleaded guilty to murder and attempted murder. Francisco Carbajal Flores, 38, pleaded guilty to racketeering.
+</P>
+<P>
+Espinoza, Rivera and Villagran admitted to being members of a Los Zetas hit squad who participated in the Feb. 15, 2011 ambush of the special agents.
+</P>
+<P>
+The agents were serving as ICE agents in Mexico when they were surrounded and forced off the highway while traveling between Mexico City and Monterrey, near San Luis Potosi.
+</P>
+<P>
+Espinoza ordered the agents out of the vehicle. When the agents refused and tried to identify themselves as American diplomats from the U.S. Embassy, the hit squad members fired into the vehicle.
+</P>
+<P>
+The Zeta members continued to fire at the vehicle as the agents tried to escape by driving away.
+</P>
+<P>
+Zapata died from gunshot wounds he suffered in the attack.
+</P>
+<P>
+The suspects were later captured by Mexican authorities. Espinoza was extradited to Washington to face murder and attempted murder charges.
+</P>
+<P>
+Ronald Machen(CQ), the U.S. attorney for the District of Columbia, said the attack on U.S. agents demanded ''an intense, dedicated and forceful response.''
+</P>
+<P>
+Machen said the response served as a message to others that if you commit an act against a U.S. law enforcement agent in a foreign land, ''we will not forget, we will not falter and we will not rest until you are brought to justice.''
+</P>
+<P>
+The 2011 attack on the two U.S. agents in Mexico also led to the arrest and conviction on weapons violations of a Dallas-area man, Otilio Osorio, who illegally sold a replica AK-47 assault rifle that was found at the murder scene.
+</P>
+<P>
+The attack also prompted outrage in Congress.
+</P>
+<P>
+A bipartisan bill passed last year, and spearheaded by Rep. Michael McCaul, R-Austin; Rep. Henry Cuellar, D-Laredo; and Rep. Blake Farenthold, R-Corpus Christi, authorized $10 million over five years for cross-border training for U.S. and Mexican law enforcement and military.
+</P>
+<P>
+The bipartisan bill was named for agent Zapata, 32, who served in Laredo before he was transferred to the U.S. Department of Homeland Security investigations unit on human trafficking and smuggling in Mexico.
+</P>
+</TEXT>
+</DOC>

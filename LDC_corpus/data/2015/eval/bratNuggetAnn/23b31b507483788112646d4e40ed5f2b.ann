@@ -1,0 +1,129 @@
+T1	Justice_Sue 1431 1437	claims
+E22	Justice_Sue:T1
+A1	Realis E22 Generic
+T2	Transaction_Transfer-Money 1510 1513	pay
+E126	Transaction_Transfer-Money:T2
+A2	Realis E126 Other
+T3	Transaction_Transfer-Ownership 3236 3239	get
+E140	Transaction_Transfer-Ownership:T3
+A3	Realis E140 Other
+T4	Justice_Sue 2324 2334	litigation
+E150	Justice_Sue:T4
+A4	Realis E150 Actual
+T5	Contact_Contact 1170 1178	disclose
+E163	Contact_Contact:T5
+A5	Realis E163 Other
+T6	Business_Declare-Bankruptcy 2408 2418	bankruptcy
+E190	Business_Declare-Bankruptcy:T6
+A6	Realis E190 Generic
+T7	Contact_Contact 4619 4625	outcry
+E205	Contact_Contact:T7
+A7	Realis E205 Generic
+T8	Justice_Sue 483 489	claims
+E210	Justice_Sue:T8
+A8	Realis E210 Generic
+T9	Business_Declare-Bankruptcy 1046 1056	bankruptcy
+E239	Business_Declare-Bankruptcy:T9
+A9	Realis E239 Generic
+T10	Justice_Sue 2269 2277	lawsuits
+E253	Justice_Sue:T10
+A10	Realis E253 Generic
+T11	Contact_Contact 1159 1166	refuses
+E330	Contact_Contact:T11
+A11	Realis E330 Actual
+T12	Justice_Sue 735 743	lawsuits
+E332	Justice_Sue:T12
+A12	Realis E332 Generic
+T13	Justice_Sue 2017 2023	claims
+E359	Justice_Sue:T13
+A13	Realis E359 Generic
+T14	Contact_Contact 4186 4192	outcry
+E372	Contact_Contact:T14
+A14	Realis E372 Generic
+T15	Transaction_Transfer-Money 1111 1115	pays
+E400	Transaction_Transfer-Money:T15
+A15	Realis E400 Other
+T16	Manufacture_Artifact 264 276	manufactured
+E406	Manufacture_Artifact:T16
+A16	Realis E406 Generic
+T17	Life_Injure 476 482	injury
+E451	Life_Injure:T17
+A17	Realis E451 Generic
+T18	Business_Declare-Bankruptcy 1326 1336	bankruptcy
+E468	Business_Declare-Bankruptcy:T18
+A18	Realis E468 Other
+T19	Justice_Sue 4017 4022	suing
+E472	Justice_Sue:T19
+A19	Realis E472 Other
+T20	Business_Declare-Bankruptcy 155 165	bankruptcy
+E479	Business_Declare-Bankruptcy:T20
+A20	Realis E479 Actual
+T21	Transaction_Transfer-Ownership 3585 3588	get
+E484	Transaction_Transfer-Ownership:T21
+A21	Realis E484 Other
+T22	Business_Declare-Bankruptcy 2148 2158	bankruptcy
+E489	Business_Declare-Bankruptcy:T22
+A22	Realis E489 Actual
+T23	Justice_Sue 790 800	litigation
+E508	Justice_Sue:T23
+A23	Realis E508 Actual
+T24	Life_Injure 2010 2016	injury
+E526	Life_Injure:T24
+A24	Realis E526 Generic
+T25	Business_Declare-Bankruptcy 2580 2590	bankruptcy
+E541	Business_Declare-Bankruptcy:T25
+A25	Realis E541 Generic
+T26	Business_Declare-Bankruptcy 614 624	bankruptcy
+E657	Business_Declare-Bankruptcy:T26
+A26	Realis E657 Actual
+T27	Business_Declare-Bankruptcy 874 884	bankruptcy
+E685	Business_Declare-Bankruptcy:T27
+A27	Realis E685 Generic
+T28	Contact_Contact 2368 2372	said
+E689	Contact_Contact:T28
+A28	Realis E689 Actual
+T29	Justice_Sue 1593 1598	claim
+E753	Justice_Sue:T29
+A29	Realis E753 Other
+T30	Justice_Sue 189 195	claims
+E765	Justice_Sue:T30
+A30	Realis E765 Generic
+T31	Contact_Contact 1343 1349	advice
+E780	Contact_Contact:T31
+A31	Realis E780 Actual
+T32	Justice_Sue 1130 1139	claimants
+E795	Justice_Sue:T32
+A32	Realis E795 Generic
+T33	Transaction_Transfer-Ownership 3960 3963	get
+E823	Transaction_Transfer-Ownership:T33
+A33	Realis E823 Other
+T34	Contact_Contact 1247 1254	offered
+E828	Contact_Contact:T34
+A34	Realis E828 Actual
+T35	Justice_Sue 984 990	claims
+E836	Justice_Sue:T35
+A35	Realis E836 Generic
+T36	Justice_Sue 1753 1759	claims
+E844	Justice_Sue:T36
+A36	Realis E844 Generic
+T37	Contact_Contact 834 838	said
+E867	Contact_Contact:T37
+A37	Realis E867 Actual
+T38	Justice_Sue 3642 3647	suing
+E879	Justice_Sue:T38
+A38	Realis E879 Other
+T39	Justice_Sue 3293 3298	suing
+E880	Justice_Sue:T39
+A39	Realis E880 Other
+T40	Contact_Contact 4436 4442	outcry
+E922	Contact_Contact:T40
+A40	Realis E922 Generic
+T41	Justice_Sue 2664 2673	claimants
+E940	Justice_Sue:T41
+A41	Realis E940 Generic
+T42	Justice_Sue 2518 2524	claims
+E988	Justice_Sue:T42
+A42	Realis E988 Generic
+T43	Transaction_Transfer-Money 2645 2649	pays
+E993	Transaction_Transfer-Money:T43
+A43	Realis E993 Other

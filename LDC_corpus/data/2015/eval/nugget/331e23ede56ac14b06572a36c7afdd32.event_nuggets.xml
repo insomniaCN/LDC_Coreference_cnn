@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea980000000000000129" doc_id="331e23ede56ac14b06572a36c7afdd32" source_type="multi_post">
+  <event_mention id="em-7" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="879" length="5">sales</trigger>
+  </event_mention>
+  <event_mention id="em-82" type="life" subtype="die" realis="actual">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="1240" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-91" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="576" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-130" type="life" subtype="die" realis="actual">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="565" length="4">died</trigger>
+  </event_mention>
+  <event_mention id="em-233" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="1399" length="9">interview</trigger>
+  </event_mention>
+  <event_mention id="em-442" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="303" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-496" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="441" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-509" type="life" subtype="marry" realis="actual">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="262" length="7">married</trigger>
+  </event_mention>
+  <event_mention id="em-512" type="business" subtype="startorg" realis="actual">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="1015" length="7">founded</trigger>
+  </event_mention>
+  <event_mention id="em-589" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="879" length="5">sales</trigger>
+  </event_mention>
+  <event_mention id="em-602" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="441" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-712" type="manufacture" subtype="artifact" realis="actual">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="783" length="4">make</trigger>
+  </event_mention>
+  <event_mention id="em-757" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="835" length="6">profit</trigger>
+  </event_mention>
+  <event_mention id="em-786" type="life" subtype="die" realis="generic">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="194" length="3">die</trigger>
+  </event_mention>
+  <event_mention id="em-951" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="576" length="4">sold</trigger>
+  </event_mention>
+  <event_mention id="em-974" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="331e23ede56ac14b06572a36c7afdd32" offset="303" length="6">bought</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

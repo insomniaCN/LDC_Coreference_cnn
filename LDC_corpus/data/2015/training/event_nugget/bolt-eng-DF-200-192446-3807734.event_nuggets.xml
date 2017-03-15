@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000606" doc_id="bolt-eng-DF-200-192446-3807734" source_type="multi_post">
+<event_mention id="em-10" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="98" length="8">Snatched</trigger>
+      </event_mention>
+<event_mention id="em-23" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="348" length="7">retired</trigger>
+      </event_mention>
+<event_mention id="em-38" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="430" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-53" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="430" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-66" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="470" length="7">charges</trigger>
+      </event_mention>
+<event_mention id="em-81" type="movement" subtype="transportartifact" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="496" length="8">exported</trigger>
+      </event_mention>
+<event_mention id="em-96" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="585" length="8">escorted</trigger>
+      </event_mention>
+<event_mention id="em-122" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="838" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-148" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="838" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-161" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1118" length="7">arrived</trigger>
+      </event_mention>
+<event_mention id="em-176" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1280" length="7">walking</trigger>
+      </event_mention>
+<event_mention id="em-191" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1330" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-206" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1330" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-219" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1758" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-232" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1758" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-245" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1853" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-258" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1853" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-271" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1935" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-284" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="1935" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-297" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2286" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-312" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2286" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-325" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2402" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-340" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2402" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-353" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2629" length="7">charged</trigger>
+      </event_mention>
+<event_mention id="em-366" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2681" length="10">imprisoned</trigger>
+      </event_mention>
+<event_mention id="em-381" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2856" length="10">purchasing</trigger>
+      </event_mention>
+<event_mention id="em-396" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2909" length="6">supply</trigger>
+      </event_mention>
+<event_mention id="em-409" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2909" length="6">supply</trigger>
+      </event_mention>
+<event_mention id="em-424" type="justice" subtype="extradite" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2946" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-452" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="3747" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-480" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="3994" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-495" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="4473" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-508" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="4473" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-521" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="4811" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-534" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="4811" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-547" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="4927" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-560" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="4927" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-573" type="justice" subtype="arrestjail" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5206" length="10">imprisoned</trigger>
+      </event_mention>
+<event_mention id="em-586" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5381" length="10">purchasing</trigger>
+      </event_mention>
+<event_mention id="em-599" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5434" length="6">supply</trigger>
+      </event_mention>
+<event_mention id="em-612" type="movement" subtype="transportartifact" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5434" length="6">supply</trigger>
+      </event_mention>
+<event_mention id="em-625" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5471" length="10">extradited</trigger>
+      </event_mention>
+<event_mention id="em-651" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6354" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-664" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6354" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-677" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6396" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-692" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6603" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-720" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6865" length="8">murdered</trigger>
+      </event_mention>
+<event_mention id="em-735" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6954" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-750" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7016" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-765" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7049" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-780" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7098" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-795" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7152" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-810" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7152" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-823" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7486" length="8">murdered</trigger>
+      </event_mention>
+<event_mention id="em-836" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7575" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-849" type="personnel" subtype="startposition" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7637" length="5">hired</trigger>
+      </event_mention>
+<event_mention id="em-862" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7670" length="4">kill</trigger>
+      </event_mention>
+<event_mention id="em-875" type="justice" subtype="chargeindict" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7719" length="6">charge</trigger>
+      </event_mention>
+<event_mention id="em-888" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7773" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-901" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7773" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-914" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="7917" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-927" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8004" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-940" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8062" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-953" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8062" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-966" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8258" length="7">leaving</trigger>
+      </event_mention>
+<event_mention id="em-981" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8480" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-994" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8480" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1007" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8522" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1033" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8729" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-1046" type="justice" subtype="trialhearing" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="8865" length="5">trial</trigger>
+      </event_mention>
+<event_mention id="em-1061" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9098" length="3">try</trigger>
+      </event_mention>
+<event_mention id="em-1074" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9275" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-1087" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9462" length="7">retired</trigger>
+      </event_mention>
+<event_mention id="em-1100" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9487" length="4">sold</trigger>
+      </event_mention>
+<event_mention id="em-1115" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9513" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-1130" type="transaction" subtype="transaction" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9570" length="4">sell</trigger>
+      </event_mention>
+<event_mention id="em-1145" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9738" length="8">arrested</trigger>
+      </event_mention>
+<event_mention id="em-1160" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9820" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1173" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="9887" length="4">send</trigger>
+      </event_mention>
+<event_mention id="em-1188" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="10025" length="6">deport</trigger>
+      </event_mention>
+<event_mention id="em-1203" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="10062" length="4">walk</trigger>
+      </event_mention>
+<event_mention id="em-1218" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="10251" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1246" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="10293" length="7">selling</trigger>
+      </event_mention>
+<event_mention id="em-1261" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="10682" length="7">exports</trigger>
+      </event_mention>
+<event_mention id="em-1276" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="10804" length="6">export</trigger>
+      </event_mention>
+<event_mention id="em-1291" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11013" length="6">export</trigger>
+      </event_mention>
+<event_mention id="em-1304" type="movement" subtype="transportartifact" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11108" length="4">send</trigger>
+      </event_mention>
+<event_mention id="em-1319" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11147" length="9">picked up</trigger>
+      </event_mention>
+<event_mention id="em-1334" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11453" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1349" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11453" length="9">extradite</trigger>
+      </event_mention>
+<event_mention id="em-1362" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11622" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1377" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="11622" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1390" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="12382" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1416" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="385" length="11">handed over</trigger>
+      </event_mention>
+<event_mention id="em-1431" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="997" length="11">handed over</trigger>
+      </event_mention>
+<event_mention id="em-1446" type="justice" subtype="extradite" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5801" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1459" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="5843" length="11">extradition</trigger>
+      </event_mention>
+<event_mention id="em-1485" type="transaction" subtype="transaction" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="12940" length="6">giving</trigger>
+      </event_mention>
+<event_mention id="em-1500" type="justice" subtype="trialhearing" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="6050" length="5">tried</trigger>
+      </event_mention>
+<event_mention id="em-1513" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192446-3807734" offset="2219" length="4">take</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,105 @@
+T1	Contact_Contact 3362 3371	interview
+E8	Contact_Contact:T1
+A1	Realis E8 Actual
+T2	Transaction_Transfer-Money 2588 2593	taxes
+E11	Transaction_Transfer-Money:T2
+A2	Realis E11 Generic
+T3	Contact_Contact 543 553	interviews
+E28	Contact_Contact:T3
+A3	Realis E28 Actual
+T4	Contact_Contact 3388 3391	say
+E90	Contact_Contact:T4
+A4	Realis E90 Actual
+T5	Life_Die 2767 2773	burial
+E92	Life_Die:T5
+A5	Realis E92 Actual
+T6	Contact_Contact 933 937	said
+E104	Contact_Contact:T6
+A6	Realis E104 Actual
+T7	Contact_Contact 436 444	accusing
+E106	Contact_Contact:T7
+A7	Realis E106 Actual
+T8	Contact_Contact 1329 1336	remarks
+E113	Contact_Contact:T8
+A8	Realis E113 Actual
+T9	Conflict_Demonstrate 1614 1619	rally
+E149	Conflict_Demonstrate:T9
+A9	Realis E149 Actual
+T10	Contact_Broadcast 1839 1844	spoke
+E150	Contact_Broadcast:T10
+A10	Realis E150 Actual
+T11	Contact_Broadcast 1959 1965	saying
+E165	Contact_Broadcast:T11
+A11	Realis E165 Actual
+T12	Contact_Broadcast 2515 2519	said
+E282	Contact_Broadcast:T12
+A12	Realis E282 Actual
+T13	Contact_Contact 919 928	interview
+E297	Contact_Contact:T13
+A13	Realis E297 Actual
+T14	Contact_Contact 178 185	ACCUSES
+E314	Contact_Contact:T14
+A14	Realis E314 Actual
+T15	Transaction_Transfer-Money 2415 2420	taxes
+E484	Transaction_Transfer-Money:T15
+A15	Realis E484 Generic
+T16	Personnel_End-Position 722 733	predecessor
+E500	Personnel_End-Position:T16
+A16	Realis E500 Actual
+T17	Contact_Meet 3034 3039	asked
+E501	Contact_Meet:T17
+A17	Realis E501 Actual
+T18	Transaction_Transfer-Money 2440 2443	pay
+E505	Transaction_Transfer-Money:T18
+A18	Realis E505 Other
+T19	Personnel_Nominate 343 353	nomination
+E525	Personnel_Nominate:T19
+A19	Realis E525 Actual
+T20	Contact_Contact 1754 1764	interviews
+E534	Contact_Contact:T20
+A20	Realis E534 Actual
+T21	Contact_Broadcast 1769 1781	acknowledged
+E540	Contact_Broadcast:T21
+A21	Realis E540 Actual
+T22	Life_Die 2960 2966	burial
+E542	Life_Die:T22
+A22	Realis E542 Actual
+T23	Transaction_Transfer-Money 2429 2436	earners
+E668	Transaction_Transfer-Money:T23
+A23	Realis E668 Generic
+T24	Movement_Transport-Artifact 3189 3196	brought
+E689	Movement_Transport-Artifact:T24
+A24	Realis E689 Actual
+T25	Contact_Broadcast 2611 2615	said
+E774	Contact_Broadcast:T25
+A25	Realis E774 Actual
+T26	Transaction_Transfer-Ownership 3049 3057	received
+E785	Transaction_Transfer-Ownership:T26
+A26	Realis E785 Actual
+T27	Movement_Transport-Person 2748 2755	visited
+E792	Movement_Transport-Person:T27
+A27	Realis E792 Actual
+T28	Transaction_Transfer-Money 585 593	spending
+E853	Transaction_Transfer-Money:T28
+A28	Realis E853 Generic
+T29	Movement_Transport-Person 2895 2902	entered
+E885	Movement_Transport-Person:T29
+A29	Realis E885 Actual
+T30	Personnel_Nominate 1595 1605	nomination
+E897	Personnel_Nominate:T30
+A30	Realis E897 Other
+T31	Contact_Contact 3004 3013	addressed
+E921	Contact_Contact:T31
+A31	Realis E921 Actual
+T32	Transaction_Transfer-Money 621 626	taxes
+E925	Transaction_Transfer-Money:T32
+A32	Realis E925 Generic
+T33	Contact_Broadcast 2151 2155	said
+E994	Contact_Broadcast:T33
+A33	Realis E994 Actual
+T34	Contact_Broadcast 2658 2662	said
+E996	Contact_Broadcast:T34
+A34	Realis E996 Actual
+T35	Contact_Contact 377 387	criticized
+E998	Contact_Contact:T35
+A35	Realis E998 Actual

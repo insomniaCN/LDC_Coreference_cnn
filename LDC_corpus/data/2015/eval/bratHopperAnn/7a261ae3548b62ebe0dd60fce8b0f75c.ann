@@ -1,0 +1,96 @@
+T1	Justice_Sue 212 219	lawsuit
+E484	Justice_Sue:T1
+A1	Realis E484 Actual
+T2	Justice_Sue 775 782	lawsuit
+E116	Justice_Sue:T2
+A2	Realis E116 Actual
+T3	Personnel_End-Position 231 237	former
+E822	Personnel_End-Position:T3
+A3	Realis E822 Actual
+T4	Personnel_End-Position 445 451	former
+E234	Personnel_End-Position:T4
+A4	Realis E234 Actual
+T5	Conflict_Attack 281 285	shot
+E643	Conflict_Attack:T5
+A5	Realis E643 Actual
+T6	Conflict_Attack 491 495	shot
+E850	Conflict_Attack:T6
+A6	Realis E850 Actual
+T7	Conflict_Attack 675 683	shooting
+E268	Conflict_Attack:T7
+A7	Realis E268 Actual
+T8	Conflict_Attack 819 824	force
+E99	Conflict_Attack:T8
+A8	Realis E99 Actual
+T9	Transaction_Transfer-Ownership 563 569	stolen
+E883	Transaction_Transfer-Ownership:T9
+A9	Realis E883 Other
+T10	Justice_Acquit 602 611	acquitted
+E417	Justice_Acquit:T10
+A10	Realis E417 Actual
+T11	Justice_Charge-Indict 660 667	charges
+E330	Justice_Charge-Indict:T11
+A11	Realis E330 Actual
+T12	Justice_Appeal 737 744	appeals
+E265	Justice_Appeal:T12
+A12	Realis E265 Actual
+T13	Justice_Appeal 877 884	Appeals
+E357	Justice_Appeal:T13
+A13	Realis E357 Actual
+T14	Contact_Contact 842 846	said
+E120	Contact_Contact:T14
+A14	Realis E120 Actual
+T15	Conflict_Attack 1428 1437	murderous
+E948	Conflict_Attack:T15
+A15	Realis E948 Generic
+T16	Life_Die 1428 1437	murderous
+E797	Life_Die:T16
+A16	Realis E797 Generic
+T17	Justice_Trial-Hearing 1902 1907	trial
+E44	Justice_Trial-Hearing:T17
+A17	Realis E44 Actual
+T18	Contact_Contact 2303 2307	said
+E30	Contact_Contact:T18
+A18	Realis E30 Actual
+T19	Life_Injure 281 285	shot
+E695	Life_Injure:T19
+A19	Realis E695 Actual
+T20	Life_Injure 491 495	shot
+E693	Life_Injure:T20
+A20	Realis E693 Actual
+T21	Life_Injure 675 683	shooting
+E682	Life_Injure:T21
+A21	Realis E682 Actual
+T22	Life_Injure 819 824	force
+E537	Life_Injure:T22
+A22	Realis E537 Actual
+T23	Contact_Broadcast 1246 1253	release
+E19	Contact_Broadcast:T23
+A23	Realis E19 Other
+T24	Justice_Appeal 1735 1742	Appeals
+E505	Justice_Appeal:T24
+A24	Realis E505 Generic
+T25	Justice_Trial-Hearing 1955 1960	Trial
+E121	Justice_Trial-Hearing:T25
+A25	Realis E121 Generic
+T26	Contact_Contact 2092 2098	stated
+E977	Contact_Contact:T26
+A26	Realis E977 Generic
+T27	Contact_Contact 2197 2204	claimed
+E274	Contact_Contact:T27
+A27	Realis E274 Actual
+T28	Contact_Contact 2527 2534	claimed
+E392	Contact_Contact:T28
+A28	Realis E392 Actual
+T29	Contact_Contact 2590 2597	claimed
+E28	Contact_Contact:T29
+A29	Realis E28 Actual
+R1	Coreference Arg1:E484 Arg2:E116
+R2	Coreference Arg1:E822 Arg2:E234
+R3	Coreference Arg1:E643 Arg2:E850
+R4	Coreference Arg1:E850 Arg2:E268
+R5	Coreference Arg1:E268 Arg2:E99
+R6	Coreference Arg1:E265 Arg2:E357
+R7	Coreference Arg1:E695 Arg2:E693
+R8	Coreference Arg1:E693 Arg2:E682
+R9	Coreference Arg1:E682 Arg2:E537

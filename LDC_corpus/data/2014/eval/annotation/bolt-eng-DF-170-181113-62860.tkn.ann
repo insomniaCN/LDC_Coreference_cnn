@@ -1,0 +1,54 @@
+T1	Transaction_Transfer-Ownership 69 78	acquiring
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Other
+T2	Justice_Sue 229 236	lawsuit
+E2	Justice_Sue:T2 
+A2	Realis E2 Actual
+T3	Business_Merge-Org 653 659	merger
+E3	Business_Merge-Org:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Ownership 824 830	aquire
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Other
+T5	Transaction_Transfer-Ownership 1015 1021	aquire
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Other
+T6	Business_Merge-Org 1183 1189	merger
+E6	Business_Merge-Org:T6 
+A6	Realis E6 Other
+T7	Contact_Communicate 1328 1334	Letter
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Business_Merge-Org 1366 1372	Merger
+E8	Business_Merge-Org:T8 
+A8	Realis E8 Other
+T9	Business_Merge-Org 1754 1760	merger
+E9	Business_Merge-Org:T9 
+A9	Realis E9 Other
+T10	Business_Merge-Org 1779 1785	merger
+E10	Business_Merge-Org:T10 
+A10	Realis E10 Other
+T11	Business_Merge-Org 1864 1870	merger
+E11	Business_Merge-Org:T11 
+A11	Realis E11 Other
+T12	Business_Merge-Org 1982 1988	merger
+E12	Business_Merge-Org:T12 
+A12	Realis E12 Other
+T13	Business_Merge-Org 2065 2071	merger
+E13	Business_Merge-Org:T13 
+A13	Realis E13 Other
+T14	Business_Merge-Org 2441 2448	merging
+E14	Business_Merge-Org:T14 
+A14	Realis E14 Generic
+T15	Business_Merge-Org 3336 3343	merging
+E15	Business_Merge-Org:T15 
+A15	Realis E15 Generic
+T16	Transaction_Transfer-Ownership 2942 2945	buy
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Ownership 3630 3636	buying
+E17	Transaction_Transfer-Ownership:T17 
+A17	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 3682 3688	buying
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Actual

@@ -1,0 +1,75 @@
+T1	Conflict_Demonstrate 85 93	protests
+E1	Conflict_Demonstrate:T1 
+A1	Realis E1 Actual
+T2	Conflict_Demonstrate 222 232	protesting
+E2	Conflict_Demonstrate:T2 
+A2	Realis E2 Actual
+T3	Conflict_Demonstrate 347 355	protests
+E3	Conflict_Demonstrate:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 366 371	wages
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Generic
+T5	Conflict_Attack 414 419	fired
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 433 451	used water cannons
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Demonstrate 691 699	protests
+E7	Conflict_Demonstrate:T7 
+A7	Realis E7 Actual
+T8	Transaction_Transfer-Money 719 724	wages
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Generic
+T9	Conflict_Attack 756 769	hurled bricks
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T11	Movement_Transport-Person 1156 1166	walked out
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+T12	Conflict_Demonstrate 1195 1203	protests
+E12	Conflict_Demonstrate:T12 
+A12	Realis E12 Actual
+T13	Conflict_Demonstrate 1280 1288	protests
+E13	Conflict_Demonstrate:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Money 1298 1303	wages
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Generic
+T15	Conflict_Demonstrate 1554 1562	protests
+E15	Conflict_Demonstrate:T15 
+A15	Realis E15 Actual
+T17	Movement_Transport-Person 1689 1699	brought in
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Actual
+T18	Conflict_Demonstrate 1719 1723	riot
+E18	Conflict_Demonstrate:T18 
+A18	Realis E18 Generic
+T19	Transaction_Transfer-Money 1890 1895	wages
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Generic
+T20	Transaction_Transfer-Money 1965 1969	wage
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Generic
+T21	Transaction_Transfer-Money 2047 2055	salaries
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 2249 2256	exports
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Generic
+T23	Contact_Communicate 2412 2417	wrote
+E23	Contact_Communicate:T23 
+A23	Realis E23 Actual
+T24	Transaction_Transfer-Money 2484 2488	wage
+E24	Transaction_Transfer-Money:T24 
+A24	Realis E24 Generic
+T25	Transaction_Transfer-Money 2522 2527	wages
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Generic
+T26	Contact_Communicate 2615 2621	letter
+E26	Contact_Communicate:T26 
+A26	Realis E26 Actual
+T27	Contact_Communicate 2452 2462	requesting
+E27	Contact_Communicate:T27 
+A27	Realis E27 Actual

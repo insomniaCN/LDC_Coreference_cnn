@@ -1,0 +1,51 @@
+T1	Justice_Arrest-Jail 292 298	jailed
+E1	Justice_Arrest-Jail:T1 
+A1	Realis E1 Actual
+T2	Contact_Meet 408 411	met
+E2	Contact_Meet:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 917 926	contacted
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 963 969	raided
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Justice_Arrest-Jail 1069 1077	arrested
+E5	Justice_Arrest-Jail:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Ownership 1102 1108	seized
+E6	Transaction_Transfer-Ownership:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1186 1192	former
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 8335 8341	posted
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 8445 8450	asked
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Contact_Communicate 8457 8462	reply
+E10	Contact_Communicate:T10 
+A10	Realis E10 Other
+T11	Life_Marry 9999 10006	married
+E11	Life_Marry:T11 
+A11	Realis E11 Actual
+T12	Life_Marry 10422 10429	married
+E12	Life_Marry:T12 
+A12	Realis E12 Actual
+T13	Life_Marry 11025 11032	married
+E13	Life_Marry:T13 
+A13	Realis E13 Actual
+T14	Life_Marry 11547 11554	married
+E14	Life_Marry:T14 
+A14	Realis E14 Actual
+T15	Life_Marry 13153 13160	married
+E15	Life_Marry:T15 
+A15	Realis E15 Actual
+T16	Transaction_Transfer-Ownership 2239 2249	references
+E16	Transaction_Transfer-Ownership:T16 
+A16	Realis E16 Actual
+T17	Personnel_End-Position 13840 13844;13849 13852	lost job
+E17	Personnel_End-Position:T17 
+A17	Realis E17 Other

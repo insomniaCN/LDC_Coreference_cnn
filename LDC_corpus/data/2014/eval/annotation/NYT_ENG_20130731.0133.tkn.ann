@@ -1,0 +1,87 @@
+T1	Life_Die 261 265	DIES
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Business_Start-Org 330 337	founder
+E2	Business_Start-Org:T2 
+A2	Realis E2 Actual
+T3	Life_Die 455 459	died
+E3	Life_Die:T3 
+A3	Realis E3 Actual
+T4	Business_Start-Org 976 986	co-founder
+E4	Business_Start-Org:T4 
+A4	Realis E4 Actual
+T5	Life_Die 1045 1052	murders
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Life_Die 1067 1073	killed
+E6	Life_Die:T6 
+A6	Realis E6 Other
+T7	Justice_Convict 1228 1237	convicted
+E7	Justice_Convict:T7 
+A7	Realis E7 Actual
+T8	Justice_Arrest-Jail 1265 1272;1289 1291;1300 1306	serving in prison
+E8	Justice_Arrest-Jail:T8 
+A8	Realis E8 Actual
+T9	Justice_Arrest-Jail 1525 1531	served
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Actual
+T10	Justice_Arrest-Jail 1559 1565;1583 1592	served in prison
+E10	Justice_Arrest-Jail:T10 
+A10	Realis E10 Actual
+T11	Justice_Release-Parole 2139 2147	released
+E11	Justice_Release-Parole:T11 
+A11	Realis E11 Actual
+T12	Justice_Arrest-Jail 2175 2192	eturned to prison
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Actual
+T13	Justice_Charge-Indict 2205 2212	charged
+E13	Justice_Charge-Indict:T13 
+A13	Realis E13 Actual
+T14	Justice_Extradite 2267 2277	extradited
+E14	Justice_Extradite:T14 
+A14	Realis E14 Actual
+T15	Justice_Convict 2317 2326	convicted
+E15	Justice_Convict:T15 
+A15	Realis E15 Actual
+T16	Justice_Extradite 2439 2450	extradition
+E16	Justice_Extradite:T16 
+A16	Realis E16 Actual
+T17	Justice_Extradite 2559 2570	extradition
+E17	Justice_Extradite:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Ownership 2701 2707	seized
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Actual
+T19	Justice_Release-Parole 2809 2816	release
+E19	Justice_Release-Parole:T19 
+A19	Realis E19 Actual
+T20	Justice_Extradite 3044 3054	extradited
+E20	Justice_Extradite:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Ownership 1142 1150	smuggled
+E21	Transaction_Transfer-Ownership:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Ownership 1246 1257	trafficking
+E22	Transaction_Transfer-Ownership:T22 
+A22	Realis E22 Actual
+T23	Business_Start-Org 251 258	FOUNDER
+E23	Business_Start-Org:T23 
+A23	Realis E23 Actual
+T24	Personnel_Start-Position 1201 1208	joining
+E24	Personnel_Start-Position:T24 
+A24	Realis E24 Actual
+T25	Justice_Sentence 1280 1288	sentence
+E25	Justice_Sentence:T25 
+A25	Realis E25 Actual
+T26	Justice_Sentence 1509 1518	sentences
+E26	Justice_Sentence:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 1734 1740	poison
+E27	Conflict_Attack:T27 
+A27	Realis E27 Other
+T28	Justice_Arrest-Jail 2368 2375	serving
+E28	Justice_Arrest-Jail:T28 
+T29	Justice_Sentence 2388 2396	sentence
+E29	Justice_Sentence:T29 
+A28	Realis E29 Actual
+A29	Realis E28 Actual

@@ -1,0 +1,81 @@
+T1	Conflict_Attack 212 217	fight
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T3	Contact_Communicate 356 364	babbling
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 670 675	Lynch
+E4	Conflict_Attack:T4 
+A4	Realis E4 Generic
+T5	Life_Die 914 919	fatal
+E5	Life_Die:T5 
+A5	Realis E5 Generic
+T6	Conflict_Attack 920 928	shooting
+E6	Conflict_Attack:T6 
+A6	Realis E6 Generic
+T7	Movement_Transport-Person 962 968	taking
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Generic
+T8	Contact_Meet 992 1003	questioning
+E8	Contact_Meet:T8 
+A8	Realis E8 Generic
+T9	Justice_Arrest-Jail 1079 1087	arrested
+E9	Justice_Arrest-Jail:T9 
+A9	Realis E9 Other
+T10	Conflict_Attack 1096 1103	lynched
+E10	Conflict_Attack:T10 
+A10	Realis E10 Other
+T11	Life_Die 1869 1874	fatal
+E11	Life_Die:T11 
+A11	Realis E11 Generic
+T12	Conflict_Attack 1875 1883	shooting
+E12	Conflict_Attack:T12 
+A12	Realis E12 Generic
+T13	Movement_Transport-Person 1917 1923	taking
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Generic
+T14	Contact_Meet 1947 1958	questioning
+E14	Contact_Meet:T14 
+A14	Realis E14 Generic
+T15	Justice_Arrest-Jail 2034 2042	arrested
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Other
+T16	Conflict_Attack 2051 2058	lynched
+E16	Conflict_Attack:T16 
+A16	Realis E16 Other
+T20	Justice_Release-Parole 3580 3588	released
+E20	Justice_Release-Parole:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 3829 3834	lynch
+E21	Conflict_Attack:T21 
+A21	Realis E21 Generic
+T22	Contact_Communicate 4172 4175;4180 4184	got word
+E22	Contact_Communicate:T22 
+A22	Realis E22 Actual
+T23	Movement_Transport-Person 4277 4282	taken
+E23	Movement_Transport-Person:T23 
+A23	Realis E23 Other
+T24	Contact_Meet 4318 4329	questioning
+E24	Contact_Meet:T24 
+A24	Realis E24 Other
+T25	Life_Die 4358 4363	fatal
+E25	Life_Die:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 4364 4372	shooting
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Justice_Release-Parole 5000 5008	released
+E27	Justice_Release-Parole:T27 
+A27	Realis E27 Actual
+T30	Transaction_Transfer-Ownership 5372 5383	confiscated
+E30	Transaction_Transfer-Ownership:T30 
+A30	Realis E30 Other
+T2	Justice_Arrest-Jail 4975 4993	taken into custody
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T17	Movement_Transport-Person 5249 5255	pursue
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Actual
+T18	Contact_Communicate 5284 5288	told
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual

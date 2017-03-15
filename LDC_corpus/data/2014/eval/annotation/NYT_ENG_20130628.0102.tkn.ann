@@ -1,0 +1,243 @@
+T2	Transaction_Transfer-Ownership 565 573	purchase
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Generic
+T3	Personnel_Elect 796 803	elected
+E3	Personnel_Elect:T3 
+A3	Realis E3 Actual
+T4	Life_Die 856 862	murder
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Life_Die 889 895	killed
+E5	Life_Die:T5 
+A5	Realis E5 Actual
+T6	Justice_Convict 957 969	found guilty
+E6	Justice_Convict:T6 
+A6	Realis E6 Actual
+T7	Justice_Convict 1135 1144	convicted
+E7	Justice_Convict:T7 
+A7	Realis E7 Actual
+T9	Justice_Charge-Indict 1637 1644	charged
+E9	Justice_Charge-Indict:T9 
+A9	Realis E9 Actual
+T10	Justice_Convict 1666 1675	convicted
+E10	Justice_Convict:T10 
+A10	Realis E10 Actual
+T11	Life_Die 1756 1762	murder
+E11	Life_Die:T11 
+A11	Realis E11 Generic
+T12	Transaction_Transfer-Ownership 1727 1738	trafficking
+E12	Transaction_Transfer-Ownership:T12 
+A12	Realis E12 Generic
+T13	Justice_Convict 2012 2021	convicted
+E13	Justice_Convict:T13 
+A13	Realis E13 Other
+T14	Justice_Arrest-Jail 2042 2055	going to jail
+E14	Justice_Arrest-Jail:T14 
+A14	Realis E14 Other
+T15	Justice_Charge-Indict 2145 2152	charges
+E15	Justice_Charge-Indict:T15 
+A15	Realis E15 Actual
+T16	Justice_Trial-Hearing 2156 2162	trials
+E16	Justice_Trial-Hearing:T16 
+A16	Realis E16 Actual
+T17	Justice_Charge-Indict 2294 2301	charges
+E17	Justice_Charge-Indict:T17 
+A17	Realis E17 Actual
+T18	Justice_Trial-Hearing 2852 2857	tried
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Money 3138 3142	paid
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Generic
+T20	Personnel_Elect 3146 3153	elected
+E20	Personnel_Elect:T20 
+A20	Realis E20 Generic
+T21	Justice_Trial-Hearing 3050 3055	tried
+E21	Justice_Trial-Hearing:T21 
+A21	Realis E21 Other
+T22	Personnel_Elect 3855 3862	elected
+E22	Personnel_Elect:T22 
+A22	Realis E22 Generic
+T23	Justice_Arrest-Jail 4220 4226	arrest
+E23	Justice_Arrest-Jail:T23 
+A23	Realis E23 Other
+T24	Justice_Convict 4260 4272	found guilty
+E24	Justice_Convict:T24 
+T25	Transaction_Transfer-Money 4284 4296	embezzlement
+E25	Transaction_Transfer-Money:T25 
+A24	Realis E25 Actual
+T26	Justice_Arrest-Jail 4324 4332	imprison
+E26	Justice_Arrest-Jail:T26 
+A25	Realis E26 Other
+T27	Justice_Arrest-Jail 4488 4496	arrested
+E27	Justice_Arrest-Jail:T27 
+A26	Realis E27 Actual
+T28	Contact_Meet 4512 4517	visit
+E28	Contact_Meet:T28 
+A27	Realis E28 Other
+T29	Conflict_Demonstrate 4605 4612	protest
+E29	Conflict_Demonstrate:T29 
+A28	Realis E29 Generic
+T30	Transaction_Transfer-Money 4745 4753	stealing
+E30	Transaction_Transfer-Money:T30 
+A29	Realis E30 Actual
+T31	Conflict_Attack 5227 5231	shot
+E31	Conflict_Attack:T31 
+A30	Realis E31 Actual
+T32	Life_Die 5232 5236	dead
+E32	Life_Die:T32 
+A31	Realis E32 Actual
+T33	Life_Die 5319 5326	killing
+E33	Life_Die:T33 
+A32	Realis E33 Actual
+T34	Personnel_Elect 5478 5485	elected
+E34	Personnel_Elect:T34 
+A33	Realis E34 Actual
+T35	Justice_Charge-Indict 5518 5527	impeached
+E35	Justice_Charge-Indict:T35 
+A34	Realis E35 Actual
+T36	Justice_Charge-Indict 5556 5563	charges
+E36	Justice_Charge-Indict:T36 
+A35	Realis E36 Actual
+T37	Personnel_Elect 5655 5662	elected
+E37	Personnel_Elect:T37 
+A36	Realis E37 Actual
+T38	Justice_Convict 5918 5927	convicted
+E38	Justice_Convict:T38 
+A37	Realis E38 Generic
+T39	Justice_Sentence 5932 5941	sentenced
+E39	Justice_Sentence:T39 
+A38	Realis E39 Actual
+T40	Personnel_End-Position 6053 6059	former
+E40	Personnel_End-Position:T40 
+A39	Realis E40 Actual
+T41	Justice_Sentence 6107 6116	sentenced
+E41	Justice_Sentence:T41 
+A40	Realis E41 Actual
+T42	Justice_Convict 6238 6250	found guilty
+E42	Justice_Convict:T42 
+A41	Realis E42 Actual
+T43	Justice_Convict 6451 6460	convicted
+E43	Justice_Convict:T43 
+A42	Realis E43 Actual
+T44	Justice_Arrest-Jail 6489 6496;6503 6512	serving sentences
+E44	Justice_Arrest-Jail:T44 
+A43	Realis E44 Other
+T45	Justice_Arrest-Jail 6581 6593	gone to jail
+E45	Justice_Arrest-Jail:T45 
+A44	Realis E45 Other
+T46	Personnel_End-Position 6742 6761	removed from office
+E46	Personnel_End-Position:T46 
+A45	Realis E46 Generic
+T47	Justice_Convict 7104 7116	found guilty
+E47	Justice_Convict:T47 
+A46	Realis E47 Actual
+T48	Life_Die 7141 7147	murder
+E48	Life_Die:T48 
+A47	Realis E48 Actual
+T49	Life_Die 7206 7213	killing
+E49	Life_Die:T49 
+A48	Realis E49 Actual
+T50	Justice_Release-Parole 7373 7380	paroled
+E50	Justice_Release-Parole:T50 
+A49	Realis E50 Other
+T51	Personnel_End-Position 7804 7815;7820 7824	stripped of seat
+E51	Personnel_End-Position:T51 
+A50	Realis E51 Actual
+T52	Justice_Convict 7827 7836	convicted
+E52	Justice_Convict:T52 
+A51	Realis E52 Actual
+T53	Justice_Arrest-Jail 7849 7855	prison
+E53	Justice_Arrest-Jail:T53 
+A52	Realis E53 Actual
+T54	Justice_Charge-Indict 7891 7898	charges
+E54	Justice_Charge-Indict:T54 
+A53	Realis E54 Actual
+T55	Personnel_Start-Position 8158 8162	hire
+E55	Personnel_Start-Position:T55 
+A54	Realis E55 Actual
+T56	Personnel_Elect 8392 8399	elected
+E56	Personnel_Elect:T56 
+A55	Realis E56 Actual
+T57	Conflict_Demonstrate 9316 9324	protests
+E57	Conflict_Demonstrate:T57 
+A56	Realis E57 Actual
+T58	Personnel_End-Position 9350 9358	resigned
+E58	Personnel_End-Position:T58 
+A57	Realis E58 Actual
+T59	Transaction_Transfer-Money 9416 9420	paid
+E59	Transaction_Transfer-Money:T59 
+A58	Realis E59 Actual
+T60	Personnel_Start-Position 9723 9734;9748 9752	returned to post
+E60	Personnel_Start-Position:T60 
+A59	Realis E60 Actual
+T8	Movement_Transport-Person 1340 1349;1354 1361	taking to streets
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T61	Transaction_Transfer-Money 1606 1610	paid
+E61	Transaction_Transfer-Money:T61 
+A60	Realis E61 Actual
+T62	Justice_Arrest-Jail 2614 2618	jail
+E62	Justice_Arrest-Jail:T62 
+A61	Realis E62 Generic
+T63	Transaction_Transfer-Money 6187 6193	buying
+E63	Transaction_Transfer-Money:T63 
+A62	Realis E63 Actual
+T64	Conflict_Attack 7658 7666;7675 7679	throwing into
+E64	Conflict_Attack:T64 
+A63	Realis E64 Actual
+T1	Transaction_Transfer-Money 973 982	diverting
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T65	Transaction_Transfer-Money 1463 1468	taxes
+E65	Transaction_Transfer-Money:T65 
+A64	Realis E65 Generic
+T66	Transaction_Transfer-Money 1693 1709	money laundering
+E66	Transaction_Transfer-Money:T66 
+A65	Realis E66 Generic
+T67	Transaction_Transfer-Money 1712 1719	bribery
+E67	Transaction_Transfer-Money:T67 
+A66	Realis E67 Generic
+T68	Transaction_Transfer-Money 2313 2322;2334 2339	siphoning funds
+E68	Transaction_Transfer-Money:T68 
+A67	Realis E68 Actual
+T69	Justice_Arrest-Jail 5294 5306	imprisonment
+E69	Justice_Arrest-Jail:T69 
+A68	Realis E69 Other
+T70	Transaction_Transfer-Money 5805 5814	profiting
+E70	Transaction_Transfer-Money:T70 
+A69	Realis E70 Other
+T71	Personnel_End-Position 5987 5991;5998 6003	lose seats
+E71	Personnel_End-Position:T71 
+A70	Realis E71 Generic
+T72	Personnel_End-Position 6274 6283	expulsion
+E72	Personnel_End-Position:T72 
+A71	Realis E72 Other
+T73	Personnel_End-Position 6373 6381	unseated
+E73	Personnel_End-Position:T73 
+A72	Realis E73 Other
+T74	Personnel_Start-Position 7274 7278;7283 7287	take seat
+E74	Personnel_Start-Position:T74 
+A73	Realis E74 Actual
+T75	Justice_Appeal 7305 7312	appeals
+E75	Justice_Appeal:T75 
+A74	Realis E75 Generic
+T76	Justice_Arrest-Jail 7386 7392	prison
+E76	Justice_Arrest-Jail:T76 
+A75	Realis E76 Actual
+T77	Life_Die 7588 7593	death
+E77	Life_Die:T77 
+A76	Realis E77 Generic
+T78	Conflict_Attack 7696 7708	dismembering
+E78	Conflict_Attack:T78 
+A77	Realis E78 Actual
+T79	Personnel_Elect 7745 7748	won
+E79	Personnel_Elect:T79 
+A78	Realis E79 Actual
+T80	Transaction_Transfer-Money 7983 7991	salaries
+E80	Transaction_Transfer-Money:T80 
+A79	Realis E80 Generic
+T81	Transaction_Transfer-Money 8033 8041	stipends
+E81	Transaction_Transfer-Money:T81 
+A80	Realis E81 Generic
+A81	Realis E24 Actual

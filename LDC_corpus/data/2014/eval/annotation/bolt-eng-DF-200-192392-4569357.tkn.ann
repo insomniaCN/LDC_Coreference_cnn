@@ -1,0 +1,27 @@
+T1	Contact_Communicate 435 439	talk
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 527 534	talking
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Contact_Communicate 667 671;678 683	send texts
+E3	Contact_Communicate:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 715 719	talk
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 1123 1130	telling
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Contact_Communicate 1192 1196	lies
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 1322 1327	talks
+E7	Contact_Communicate:T7 
+A7	Realis E7 Actual
+T8	Contact_Communicate 2079 2091	conversation
+E8	Contact_Communicate:T8 
+A8	Realis E8 Other
+T9	Conflict_Attack 2421 2425	slap
+E9	Conflict_Attack:T9 
+A9	Realis E9 Other

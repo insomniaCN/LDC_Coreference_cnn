@@ -1,0 +1,114 @@
+T1	Life_Die 657 662	death
+E1	Life_Die:T1 
+A1	Realis E1 Other
+T2	Conflict_Attack 896 902	attack
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Justice_Trial-Hearing 1054 1059	tried
+E3	Justice_Trial-Hearing:T3 
+A3	Realis E3 Actual
+T4	Life_Die 1226 1230	died
+E4	Life_Die:T4 
+A4	Realis E4 Other
+T5	Life_Die 1306 1311	death
+E5	Life_Die:T5 
+A5	Realis E5 Other
+T6	Justice_Trial-Hearing 1624 1631	hearing
+E6	Justice_Trial-Hearing:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 1706 1716	indictment
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 1821 1827	attack
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Demonstrate 2316 2330	demonstrations
+E9	Conflict_Demonstrate:T9 
+A9	Realis E9 Actual
+T10	Conflict_Demonstrate 2617 2631	demonstrations
+E10	Conflict_Demonstrate:T10 
+A10	Realis E10 Actual
+T11	Justice_Trial-Hearing 10064 10069	trial
+E11	Justice_Trial-Hearing:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 10199 10204	fight
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Justice_Trial-Hearing 10356 10363	hearing
+E13	Justice_Trial-Hearing:T13 
+A13	Realis E13 Actual
+T14	Contact_Meet 10486 10491	visit
+E14	Contact_Meet:T14 
+A14	Realis E14 Other
+T15	Justice_Arrest-Jail 10791 10793;10819 10825	in prison
+E15	Justice_Arrest-Jail:T15 
+A15	Realis E15 Actual
+T16	Justice_Trial-Hearing 429 434	Trial
+E16	Justice_Trial-Hearing:T16 
+A16	Realis E16 Actual
+T17	Conflict_Attack 575 584	explosion
+E17	Conflict_Attack:T17 
+A17	Realis E17 Other
+T18	Justice_Trial-Hearing 799 804	trial
+E18	Justice_Trial-Hearing:T18 
+A18	Realis E18 Actual
+T19	Justice_Charge-Indict 940 947	accused
+E19	Justice_Charge-Indict:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 1257 1281	disperse poisonous gases
+E20	Conflict_Attack:T20 
+A20	Realis E20 Other
+T21	Life_Die 1749 1756	suicide
+E21	Life_Die:T21 
+A21	Realis E21 Generic
+T22	Conflict_Attack 1757 1764	bombers
+E22	Conflict_Attack:T22 
+A22	Realis E22 Generic
+T23	Conflict_Demonstrate 4766 4773	marches
+E23	Conflict_Demonstrate:T23 
+A23	Realis E23 Actual
+T24	Conflict_Demonstrate 4925 4932	marched
+E24	Conflict_Demonstrate:T24 
+A24	Realis E24 Actual
+T25	Conflict_Demonstrate 5170 5177	marches
+E25	Conflict_Demonstrate:T25 
+A25	Realis E25 Actual
+T26	Conflict_Demonstrate 5506 5513	marched
+E26	Conflict_Demonstrate:T26 
+A26	Realis E26 Actual
+T27	Conflict_Demonstrate 5751 5758	marches
+E27	Conflict_Demonstrate:T27 
+A27	Realis E27 Actual
+T28	Transaction_Transfer-Money 6420 6425	spent
+E28	Transaction_Transfer-Money:T28 
+A28	Realis E28 Generic
+T29	Life_Die 6433 6437;6447 6452	cost lives
+E29	Life_Die:T29 
+A29	Realis E29 Generic
+T30	Conflict_Attack 6603 6608	fight
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Conflict_Attack 7258 7280	releasing toxic clouds
+E31	Conflict_Attack:T31 
+A31	Realis E31 Other
+T32	Transaction_Transfer-Ownership 9697 9705	captured
+E32	Transaction_Transfer-Ownership:T32 
+A32	Realis E32 Actual
+T33	Conflict_Attack 9949 9959	explosions
+E33	Conflict_Attack:T33 
+A33	Realis E33 Other
+T34	Conflict_Attack 9976 9985;9990 10005	dispersed toxic chemicals
+E34	Conflict_Attack:T34 
+A34	Realis E34 Other
+T35	Conflict_Attack 10123 10128;10133 10138	threw shoes
+E35	Conflict_Attack:T35 
+A35	Realis E35 Actual
+T36	Life_Die 10163 10168	death
+E36	Life_Die:T36 
+A36	Realis E36 Actual
+T37	Justice_Arrest-Jail 10228 10236	captured
+E37	Justice_Arrest-Jail:T37 
+A37	Realis E37 Actual
+T38	Conflict_Attack 10248 10256	fighting
+E38	Conflict_Attack:T38 
+A38	Realis E38 Actual

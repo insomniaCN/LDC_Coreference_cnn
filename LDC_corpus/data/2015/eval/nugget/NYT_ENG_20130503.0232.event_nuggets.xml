@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea480000000000000009" doc_id="NYT_ENG_20130503.0232" source_type="newswire">
+  <event_mention id="em-35" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130503.0232" offset="4212" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-101" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130503.0232" offset="942" length="8">acquired</trigger>
+  </event_mention>
+  <event_mention id="em-104" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130503.0232" offset="3476" length="7">Appeals</trigger>
+  </event_mention>
+  <event_mention id="em-122" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130503.0232" offset="3216" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-160" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130503.0232" offset="545" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-166" type="justice" subtype="sue" realis="actual">
+    <trigger source="NYT_ENG_20130503.0232" offset="632" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-277" type="business" subtype="declarebankruptcy" realis="actual">
+    <trigger source="NYT_ENG_20130503.0232" offset="979" length="10">bankruptcy</trigger>
+  </event_mention>
+  <event_mention id="em-319" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="NYT_ENG_20130503.0232" offset="3499" length="4">hear</trigger>
+  </event_mention>
+  <event_mention id="em-354" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130503.0232" offset="4536" length="9">appellate</trigger>
+  </event_mention>
+  <event_mention id="em-360" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130503.0232" offset="3286" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-381" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130503.0232" offset="4019" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-405" type="justice" subtype="sue" realis="other">
+    <trigger source="NYT_ENG_20130503.0232" offset="3124" length="9">defending</trigger>
+  </event_mention>
+  <event_mention id="em-429" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130503.0232" offset="334" length="9">appellate</trigger>
+  </event_mention>
+  <event_mention id="em-478" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130503.0232" offset="867" length="5">lease</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130503.0232" offset="5187" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-545" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130503.0232" offset="2353" length="7">appeals</trigger>
+  </event_mention>
+  <event_mention id="em-611" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130503.0232" offset="3559" length="3">ask</trigger>
+  </event_mention>
+  <event_mention id="em-791" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130503.0232" offset="2279" length="9">Appellate</trigger>
+  </event_mention>
+  <event_mention id="em-829" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130503.0232" offset="2273" length="5">wrote</trigger>
+  </event_mention>
+  <event_mention id="em-866" type="justice" subtype="appeal" realis="actual">
+    <trigger source="NYT_ENG_20130503.0232" offset="2745" length="6">appeal</trigger>
+  </event_mention>
+  <event_mention id="em-984" type="justice" subtype="appeal" realis="generic">
+    <trigger source="NYT_ENG_20130503.0232" offset="472" length="9">Appellate</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

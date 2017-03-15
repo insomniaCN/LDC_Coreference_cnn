@@ -1,0 +1,52 @@
+<DOC id="NYT_ENG_20130527.0112" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130527/20130527,95a040799514ebd83b9b639aacd91c58.xml">
+<HEADLINE>
+VALEANT TO BUY BAUSCH &amp;amp;  LOMB FOR $8.7 BILLION
+</HEADLINE>
+<TEXT>
+<P>
+Bausch &amp; Lomb, the eye care company, agreed Monday to sell itself to Valeant Pharmaceuticals International of Canada for about $8.7 billion, sidestepping the lengthier process of an initial public offering.
+</P>
+<P>
+Under the terms of the deal, Valeant will pay $4.5 billion to the investor group that owns Bausch &amp; Lomb, led by the private equity firm Warburg Pincus. It will also spend about $4.2 billion to repay Bausch &amp; Lomb’s debt.
+</P>
+<P>
+The deal continues the flurry of deal-making in the health care industry, as companies seek to buy the growth they are hard-pressed to generate on their own. Announced merger volume in the sector this year is up 14 percent from the period a year earlier, even as takeovers have fallen 8 percent.
+</P>
+<P>
+Valeant, which is based in Laval, Quebec, has made acquisitions a core part of its growth strategy. The Bausch &amp; Lomb deal is the company’s biggest yet, over three times larger than the $2.6 billion purchase of the skin care company Medicis Pharmaceutical last year.
+</P>
+<P>
+Adding Bausch &amp; Lomb, a giant maker of contact lens solution and surgical devices, will significantly bolster Valeant’s offerings in the sector. Bausch &amp; Lomb will absorb its new parent’s existing ophthalmology operations, creating a business that is expected to generate over $3.5 billion in net revenue this year.
+</P>
+<P>
+“We believe it’s a great move for the company,” J. Michael Pearson, Valeant’s chief executive, said in an interview by phone. “There’s an opportunity for a lot of singles and doubles here.”
+</P>
+<P>
+The takeover also means a tidy payday for Warburg Pincus, which led a $4.5 billion leveraged buyout of Bausch &amp; Lomb in 2007. The firm already benefited from a $772 million special dividend Bausch &amp; Lomb paid out in March, the bulk of which went to its controlling investor group.
+</P>
+<P>
+Through the deal, Warburg Pincus is expected to reap a return of as much as three times its original investment, according to a person briefed on the matter.
+</P>
+<P>
+Warburg Pincus had begun exploring a sale or initial public offering for Bausch &amp; Lomb late last year, and held preliminary talks with a number of potential bidders. Among them was Valeant, though Pearson said that at the time he and his board could not justify paying the more than $10 billion Warburg Pincus was seeking.
+</P>
+<P>
+Instead, Bausch &amp; Lomb filed for an initial public offering in March.
+</P>
+<P>
+Until last month, Valeant was pursuing a takeover of a different company, the generic drugmaker Actavis, in what would have been a deal worth over $13 billion. When those talks collapsed, Valeant then pivoted to Bausch &amp; Lomb. Pearson said the bulk of the work on Monday’s transaction took place over last week, with much of the initial due diligence having been completed already.
+</P>
+<P>
+Though Valeant’s offer was lower than the valuation Bausch &amp; Lomb would have fetched in an initial offering, it allowed Warburg Pincus to exit its investment quickly. Taking the eye care company public would have meant a more gradual sale over two to three years.
+</P>
+<P>
+The transaction is expected to close in the third quarter, pending regulatory approval.
+</P>
+<P>
+Pearson said that while integrating Bausch &amp; Lomb would take some time, Valeant will continue to pursue what he described as smaller “tuck in” acquisitions. But deal-making will remain a core part of the company’s growth plans.
+</P>
+<P>
+“Our strategy is our strategy,” he said. “Our aspiration is to become the most valuable pharmaceutical company in the world.”
+</P>
+</TEXT>
+</DOC>

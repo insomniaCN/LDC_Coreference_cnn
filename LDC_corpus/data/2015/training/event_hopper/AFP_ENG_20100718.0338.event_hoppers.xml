@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="5589763b0000000000000028" doc_id="AFP_ENG_20100718.0338" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-38" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="788" length="9">abduction</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="207" length="8">abducted</trigger>
+      </event_mention>
+      <event_mention id="em-64" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="1071" length="11">kidnappings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-10">
+      <event_mention id="em-77" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="AFP_ENG_20100718.0338" offset="319" length="4">paid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-12">
+      <event_mention id="em-90" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="AFP_ENG_20100718.0338" offset="385" length="4">call</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-14">
+      <event_mention id="em-103" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="AFP_ENG_20100718.0338" offset="527" length="3">met</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-16">
+      <event_mention id="em-116" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="1266" length="6">seized</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-18">
+      <event_mention id="em-129" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="AFP_ENG_20100718.0338" offset="1560" length="12">collect cash</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-20">
+      <event_mention id="em-142" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100718.0338" offset="1588" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-22">
+      <event_mention id="em-155" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="AFP_ENG_20100718.0338" offset="1508" length="8">revenues</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-24">
+      <event_mention id="em-168" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="1524" length="10">abductions</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-26">
+      <event_mention id="em-181" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="AFP_ENG_20100718.0338" offset="673" length="11">Kidnappings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-28">
+      <event_mention id="em-194" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="1396" length="11">kidnappings</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-30">
+      <event_mention id="em-207" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100718.0338" offset="358" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-32">
+      <event_mention id="em-220" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="AFP_ENG_20100718.0338" offset="611" length="16">making their way</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-34">
+      <event_mention id="em-233" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="AFP_ENG_20100718.0338" offset="1022" length="10">called for</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

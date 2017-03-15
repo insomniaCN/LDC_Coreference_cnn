@@ -1,0 +1,45 @@
+T1	Life_Die 91 97	killed
+E1	Life_Die:T1 
+A1	Realis E1 Actual
+T2	Justice_Arrest-Jail 212 218;231 241	served in lock up
+E2	Justice_Arrest-Jail:T2 
+A2	Realis E2 Actual
+T3	Justice_Arrest-Jail 272 278	arrest
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Justice_Sentence 401 410	sentenced
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 659 665	kicked
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 668 675	punched
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Conflict_Attack 680 687	stomped
+E7	Conflict_Attack:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 719 726	beating
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Life_Injure 744 753	fractured
+E9	Life_Injure:T9 
+A9	Realis E9 Actual
+T10	Life_Injure 783 791	injuries
+E10	Life_Injure:T10 
+A10	Realis E10 Actual
+T11	Justice_Arrest-Jail 838 844	arrest
+E11	Justice_Arrest-Jail:T11 
+A11	Realis E11 Actual
+T12	Life_Die 879 885	murder
+E12	Life_Die:T12 
+A12	Realis E12 Actual
+T14	Life_Die 1059 1065	murder
+E14	Life_Die:T14 
+A15	Realis E14 Actual
+T15	Life_Injure 1131 1136	hurts
+E15	Life_Injure:T15 
+A16	Realis E15 Other
+T16	Life_Die 190 196	murder
+E16	Life_Die:T16 
+A17	Realis E16 Actual

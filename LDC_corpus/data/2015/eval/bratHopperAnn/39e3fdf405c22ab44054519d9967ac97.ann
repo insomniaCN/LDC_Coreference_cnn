@@ -1,0 +1,51 @@
+T1	Contact_Contact 242 246	told
+E951	Contact_Contact:T1
+A1	Realis E951 Actual
+T2	Contact_Correspondence 473 477	text
+E330	Contact_Correspondence:T2
+A2	Realis E330 Actual
+T3	Personnel_End-Position 263 265	Ex
+E546	Personnel_End-Position:T3
+A3	Realis E546 Actual
+T4	Contact_Broadcast 513 519	speech
+E724	Contact_Broadcast:T4
+A4	Realis E724 Actual
+T5	Contact_Meet 551 561	conference
+E121	Contact_Meet:T5
+A5	Realis E121 Actual
+T6	Contact_Contact 579 583	said
+E727	Contact_Contact:T6
+A6	Realis E727 Actual
+T7	Personnel_End-Position 584 586	ex
+E339	Personnel_End-Position:T7
+A7	Realis E339 Actual
+T8	Personnel_Start-Position 686 692	hiring
+E912	Personnel_Start-Position:T8
+A8	Realis E912 Actual
+T9	Personnel_Start-Position 765 771	became
+E269	Personnel_Start-Position:T9
+A9	Realis E269 Actual
+T10	Personnel_End-Position 693 695	ex
+E414	Personnel_End-Position:T10
+A10	Realis E414 Actual
+T11	Personnel_End-Position 812 821	resigning
+E208	Personnel_End-Position:T11
+A11	Realis E208 Actual
+T12	Justice_Arrest-Jail 877 883	jailed
+E975	Justice_Arrest-Jail:T12
+A12	Realis E975 Actual
+T13	Transaction_Transfer-Money 984 991	funding
+E850	Transaction_Transfer-Money:T13
+A13	Realis E850 Generic
+T14	Personnel_Elect 1225 1233	election
+E223	Personnel_Elect:T14
+A14	Realis E223 Generic
+T15	Contact_Broadcast 605 611	claims
+E884	Contact_Broadcast:T15
+A15	Realis E884 Actual
+T16	Contact_Contact 1317 1321	said
+E251	Contact_Contact:T16
+A16	Realis E251 Actual
+R1	Coreference Arg1:E951 Arg2:E330
+R2	Coreference Arg1:E912 Arg2:E269
+R3	Coreference Arg1:E414 Arg2:E208

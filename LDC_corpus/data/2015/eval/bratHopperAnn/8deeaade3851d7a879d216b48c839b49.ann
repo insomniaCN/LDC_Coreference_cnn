@@ -1,0 +1,46 @@
+T1	Conflict_Demonstrate 161 171	protesting
+E613	Conflict_Demonstrate:T1
+A1	Realis E613 Actual
+T2	Conflict_Demonstrate 1191 1198	protest
+E353	Conflict_Demonstrate:T2
+A2	Realis E353 Actual
+T3	Life_Marry 189 197	marriage
+E323	Life_Marry:T3
+A3	Realis E323 Generic
+T4	Life_Marry 530 538	marriage
+E48	Life_Marry:T4
+A4	Realis E48 Generic
+T5	Movement_Transport-Person 247 254	skipped
+E559	Movement_Transport-Person:T5
+A5	Realis E559 Actual
+T6	Conflict_Demonstrate 312 319	protest
+E68	Conflict_Demonstrate:T6
+A6	Realis E68 Actual
+T7	Conflict_Demonstrate 852 862	protesting
+E643	Conflict_Demonstrate:T7
+A7	Realis E643 Other
+T8	Conflict_Demonstrate 1246 1253	protest
+E502	Conflict_Demonstrate:T8
+A8	Realis E502 Actual
+T9	Contact_Contact 1088 1092	said
+E917	Contact_Contact:T9
+A9	Realis E917 Actual
+T10	Life_Marry 1154 1162	marriage
+E968	Life_Marry:T10
+A10	Realis E968 Generic
+T11	Conflict_Attack 2093 2098	smack
+E95	Conflict_Attack:T11
+A11	Realis E95 Other
+T12	Contact_Broadcast 505 512	chanted
+E889	Contact_Broadcast:T12
+A12	Realis E889 Actual
+T13	Conflict_Demonstrate 752 759	protest
+E320	Conflict_Demonstrate:T13
+A13	Realis E320 Actual
+T14	Contact_Contact 786 790	said
+E128	Contact_Contact:T14
+A14	Realis E128 Actual
+R1	Coreference Arg1:E613 Arg2:E353
+R2	Coreference Arg1:E323 Arg2:E48
+R3	Coreference Arg1:E68 Arg2:E643
+R4	Coreference Arg1:E643 Arg2:E502

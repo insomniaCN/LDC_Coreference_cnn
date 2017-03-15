@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa00000000000000149" doc_id="50cbed21ce59843155d2481299d85946" source_type="multi_post">
+  <event_mention id="em-11" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="1247" length="3">get</trigger>
+  </event_mention>
+  <event_mention id="em-64" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="1038" length="4">made</trigger>
+  </event_mention>
+  <event_mention id="em-169" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="952" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-173" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="148" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-190" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="148" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-255" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="1247" length="3">get</trigger>
+  </event_mention>
+  <event_mention id="em-387" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="952" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-496" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="222" length="9">recommend</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="notinperson" schedule="planned">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="705" length="7">comment</trigger>
+  </event_mention>
+  <event_mention id="em-567" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="544" length="12">manufacturer</trigger>
+  </event_mention>
+  <event_mention id="em-811" type="manufacture" subtype="artifact" realis="generic">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="1290" length="13">manufacturers</trigger>
+  </event_mention>
+  <event_mention id="em-986" type="business" subtype="mergeorg" realis="actual">
+    <trigger source="50cbed21ce59843155d2481299d85946" offset="998" length="6">merged</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

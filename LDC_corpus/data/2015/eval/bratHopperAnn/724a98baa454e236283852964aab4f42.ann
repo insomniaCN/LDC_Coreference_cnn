@@ -1,0 +1,155 @@
+T1	Transaction_Transfer-Money 316 320	gave
+E638	Transaction_Transfer-Money:T1
+A1	Realis E638 Actual
+T2	Transaction_Transfer-Money 922 926	hand
+E681	Transaction_Transfer-Money:T2
+A2	Realis E681 Actual
+T3	Contact_Contact 429 436	contact
+E719	Contact_Contact:T3
+A3	Realis E719 Generic
+T4	Contact_Contact 560 564	says
+E21	Contact_Contact:T4
+A4	Realis E21 Actual
+T5	Life_Divorce 628 636	divorced
+E264	Life_Divorce:T5
+A5	Realis E264 Actual
+T6	Life_Divorce 788 790	ex
+E847	Life_Divorce:T6
+A6	Realis E847 Actual
+T7	Contact_Meet 697 700	met
+E238	Contact_Meet:T7
+A7	Realis E238 Other
+T8	Transaction_Transfer-Money 735 739	gave
+E863	Transaction_Transfer-Money:T8
+A8	Realis E863 Other
+T9	Personnel_End-Position 1436 1442	resign
+E371	Personnel_End-Position:T9
+A9	Realis E371 Other
+T10	Personnel_End-Position 1493 1504	resignation
+E267	Personnel_End-Position:T10
+A10	Realis E267 Other
+T11	Personnel_End-Position 1938 1947	resigning
+E330	Personnel_End-Position:T11
+A11	Realis E330 Other
+T12	Personnel_End-Position 2216 2224	resigned
+E954	Personnel_End-Position:T12
+A12	Realis E954 Actual
+T13	Personnel_End-Position 2282 2293	resignation
+E410	Personnel_End-Position:T13
+A13	Realis E410 Actual
+T14	Personnel_End-Position 2462 2473	resignation
+E404	Personnel_End-Position:T14
+A14	Realis E404 Actual
+T15	Personnel_End-Position 4179 4187	resigned
+E896	Personnel_End-Position:T15
+A15	Realis E896 Actual
+T16	Personnel_End-Position 1768 1782	bites the dust
+E486	Personnel_End-Position:T16
+A16	Realis E486 Actual
+T17	Justice_Trial-Hearing 1637 1645	sessions
+E526	Justice_Trial-Hearing:T17
+A17	Realis E526 Actual
+T18	Contact_Broadcast 1961 1971	announcing
+E724	Contact_Broadcast:T18
+A18	Realis E724 Other
+T19	Personnel_Elect 2009 2017	election
+E104	Personnel_Elect:T19
+A19	Realis E104 Other
+T20	Personnel_End-Position 2245 2251	resign
+E888	Personnel_End-Position:T20
+A20	Realis E888 Generic
+T21	Justice_Convict 2318 2324	guilty
+E924	Justice_Convict:T21
+A21	Realis E924 Actual
+T22	Transaction_Transfer-Money 2340 2347	finance
+E985	Transaction_Transfer-Money:T22
+A22	Realis E985 Generic
+T23	Contact_Broadcast 2376 2386	conference
+E138	Contact_Broadcast:T23
+A23	Realis E138 Other
+T24	Contact_Broadcast 2424 2436	announcement
+E788	Contact_Broadcast:T24
+A24	Realis E788 Other
+T25	Justice_Charge-Indict 2440 2447	charges
+E599	Justice_Charge-Indict:T25
+A25	Realis E599 Other
+T26	Justice_Charge-Indict 2497 2504	charges
+E227	Justice_Charge-Indict:T26
+A26	Realis E227 Other
+T27	Justice_Charge-Indict 3166 3173	charges
+E586	Justice_Charge-Indict:T27
+A27	Realis E586 Actual
+T28	Transaction_Transfer-Money 3230 3239	donations
+E436	Transaction_Transfer-Money:T28
+A28	Realis E436 Actual
+T29	Transaction_Transfer-Money 3479 3492	contributions
+E63	Transaction_Transfer-Money:T29
+A29	Realis E63 Other
+T30	Transaction_Transfer-Money 3553 3566	contributions
+E475	Transaction_Transfer-Money:T30
+A30	Realis E475 Actual
+T31	Transaction_Transfer-Money 3398 3406	funneled
+E348	Transaction_Transfer-Money:T31
+A31	Realis E348 Actual
+T32	Contact_Contact 3325 3329	said
+E837	Contact_Contact:T32
+A32	Realis E837 Actual
+T33	Contact_Broadcast 3618 3626	reported
+E616	Contact_Broadcast:T33
+A33	Realis E616 Actual
+T34	Transaction_Transfer-Money 3942 3945	pay
+E899	Transaction_Transfer-Money:T34
+A34	Realis E899 Actual
+T35	Justice_Fine 4226 4230	fine
+E215	Justice_Fine:T35
+A35	Realis E215 Actual
+T36	Justice_Arrest-Jail 4370 4374	jail
+E322	Justice_Arrest-Jail:T36
+A36	Realis E322 Other
+T37	Justice_Charge-Indict 4483 4490	charges
+E430	Justice_Charge-Indict:T37
+A37	Realis E430 Actual
+T38	Transaction_Transfer-Money 5117 5127	laundering
+E185	Transaction_Transfer-Money:T38
+A38	Realis E185 Generic
+T39	Contact_Broadcast 135 141	rumors
+E34	Contact_Broadcast:T39
+A39	Realis E34 Generic
+T40	Contact_Broadcast 1505 1511	rumors
+E140	Contact_Broadcast:T40
+A40	Realis E140 Generic
+T41	Contact_Broadcast 388 393	lists
+E424	Contact_Broadcast:T41
+A41	Realis E424 Actual
+T42	Contact_Broadcast 1345 1351	tweets
+E864	Contact_Broadcast:T42
+A42	Realis E864 Actual
+T43	Contact_Contact 1488 1492	deny
+E8	Contact_Contact:T43
+A43	Realis E8 Other
+T44	Contact_Contact 1660 1664	word
+E172	Contact_Contact:T44
+A44	Realis E172 Other
+T45	Contact_Broadcast 3149 3158	announced
+E768	Contact_Broadcast:T45
+A45	Realis E768 Actual
+T46	Contact_Broadcast 4069 4077	comments
+E947	Contact_Broadcast:T46
+A46	Realis E947 Generic
+T47	Contact_Broadcast 4980 4986	saying
+E458	Contact_Broadcast:T47
+A47	Realis E458 Generic
+R1	Coreference Arg1:E638 Arg2:E681
+R2	Coreference Arg1:E264 Arg2:E847
+R3	Coreference Arg1:E371 Arg2:E267
+R4	Coreference Arg1:E267 Arg2:E486
+R5	Coreference Arg1:E486 Arg2:E330
+R6	Coreference Arg1:E330 Arg2:E954
+R7	Coreference Arg1:E954 Arg2:E410
+R8	Coreference Arg1:E410 Arg2:E404
+R9	Coreference Arg1:E404 Arg2:E896
+R10	Coreference Arg1:E138 Arg2:E788
+R11	Coreference Arg1:E599 Arg2:E227
+R12	Coreference Arg1:E436 Arg2:E63
+R13	Coreference Arg1:E63 Arg2:E475
+R14	Coreference Arg1:E34 Arg2:E140

@@ -1,0 +1,24 @@
+T1	Life_Injure 948 954	injury
+E1	Life_Injure:T1 
+A1	Realis E1 Actual
+T2	Life_Injure 1396 1403	injured
+E2	Life_Injure:T2 
+A2	Realis E2 Actual
+T3	Life_Injure 1696 1702	injury
+E3	Life_Injure:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 2028 2034	talked
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 2206 2213	talking
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 2574 2579	going
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Generic
+T7	Contact_Meet 1728 1731	met
+E7	Contact_Meet:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 3034 3039	going
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other

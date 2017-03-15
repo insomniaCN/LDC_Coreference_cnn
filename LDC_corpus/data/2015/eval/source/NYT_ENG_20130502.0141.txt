@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130502.0141" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130502/20130502,748f34f3a096bd36e2a353c4d74f124b.xml">
+<HEADLINE>
+NORTH KOREA SENTENCES AMERICAN TO 15 YEARS OF HARD LABOR
+</HEADLINE>
+<TEXT>
+<P>
+SEOUL, South Korea – North Korea said Thursday that its Supreme Court had sentenced a U.S. citizen to 15 years of hard labor for committing hostile acts against its government.
+</P>
+<P>
+Kenneth Bae, 44, a Korean-American from Washington state who ran a tour business out of China, was arrested in the special economic zone of Rason in northeastern North Korea in November after leading a group of businessmen there from Yanji, China. On Saturday, the North said it was indicting him on charges that he tried to overthrow Pyongyang’s government.
+</P>
+<P>
+On Thursday, the North’s official Korean Central News Agency said the Supreme Court had sentenced Bae during a hearing Tuesday. The court convicted him of “hostile acts,” a charge less grave than the original charge that prosecutors pressed. The crime of trying to overthrow the government could have resulted in the death penalty.
+</P>
+<P>
+Under North Korean law, Bae should be transferred to a labor camp within 10 days of the ruling.
+</P>
+<P>
+The ruling came amid high tensions between Pyongyang and Washington and could complicate Washington’s diplomatic balancing act as it tries to hold a tough line with North Korea over its nuclear program.
+</P>
+<P>
+South Korean human rights advocates have said Bae not only ran tours to North Korea but also was interested in helping orphans there. They said security officials in the North might have been offended by pictures of orphans that Bae had taken and stored in his computer.
+</P>
+<P>
+North Korea has often used the plight of detained Americans as a bargaining chip in its dealings with Washington. Some were freed only after former U.S. presidents traveled to the North to seek their release.
+</P>
+<P>
+In 2009, North Korea arrested two U.S. journalists, Laura Ling and Euna Lee, who it said had entered illegally and committed “hostile acts.” They were sentenced to 12 years of hard labor, but were released five months later, after former President Bill Clinton visited Pyongyang, the North’s capital, and met with Kim Jong Il, the leader at the time.
+</P>
+<P>
+The North has been locked in a standoff with the United States and South Korea since detonating a nuclear bomb in February. Some analysts say the nation’s leader, Kim Jong Un, might be chafing at his inability to shift those two countries, which have refused to offer the North aid in order to relieve tensions, from their tough stance.
+</P>
+<P>
+In January, Bill Richardson, a former U.S. ambassador to the United Nations, tried to see Bae during a private trip to the North, but he said the government had rebuffed him.
+</P>
+</TEXT>
+</DOC>

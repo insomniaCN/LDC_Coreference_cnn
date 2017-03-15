@@ -1,0 +1,168 @@
+T1	Justice_Sentence 238 245;249 256	penalty imposed
+E1	Justice_Sentence:T1 
+A1	Realis E1 Generic
+T2	Life_Die 457 462	death
+E2	Life_Die:T2 
+A2	Realis E2 Generic
+T3	Justice_Execute 481 489	executed
+E3	Justice_Execute:T3 
+A3	Realis E3 Generic
+T4	Life_Die 541 546	death
+E4	Life_Die:T4 
+A4	Realis E4 Generic
+T5	Justice_Sentence 613 626	Death Penalty
+E5	Justice_Sentence:T5 
+A5	Realis E5 Generic
+T6	Justice_Execute 815 822	execute
+E6	Justice_Execute:T6 
+A6	Realis E6 Generic
+T7	Justice_Execute 1150 1158	executed
+E7	Justice_Execute:T7 
+A7	Realis E7 Generic
+T9	Justice_Execute 1359 1367	executed
+E9	Justice_Execute:T9 
+A9	Realis E9 Actual
+T10	Justice_Convict 1642 1651	convicted
+E10	Justice_Convict:T10 
+A10	Realis E10 Generic
+T11	Justice_Execute 1669 1677	executed
+E11	Justice_Execute:T11 
+A11	Realis E11 Actual
+T12	Justice_Trial-Hearing 1784 1789	trial
+E12	Justice_Trial-Hearing:T12 
+A12	Realis E12 Actual
+T13	Justice_Convict 1814 1823	convicted
+E13	Justice_Convict:T13 
+A13	Realis E13 Actual
+T14	Life_Die 1938 1944	murder
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T15	Justice_Convict 2282 2291	convicted
+E15	Justice_Convict:T15 
+A15	Realis E15 Actual
+T16	Justice_Sentence 2312 2321	sentenced
+E16	Justice_Sentence:T16 
+A16	Realis E16 Actual
+T17	Justice_Trial-Hearing 2420 2427	hearing
+E17	Justice_Trial-Hearing:T17 
+A17	Realis E17 Actual
+T18	Life_Die 2495 2501	murder
+E18	Life_Die:T18 
+A18	Realis E18 Actual
+T19	Justice_Execute 2742 2751	execution
+E19	Justice_Execute:T19 
+A19	Realis E19 Other
+T20	Justice_Convict 2816 2826	conviction
+E20	Justice_Convict:T20 
+A20	Realis E20 Actual
+T21	Justice_Execute 2914 2923	execution
+E21	Justice_Execute:T21 
+A21	Realis E21 Actual
+T22	Justice_Appeal 2957 2963	appeal
+E22	Justice_Appeal:T22 
+A22	Realis E22 Actual
+T23	Justice_Appeal 3109 3115	appeal
+E23	Justice_Appeal:T23 
+A23	Realis E23 Actual
+T24	Justice_Execute 3661 3670	execution
+E24	Justice_Execute:T24 
+A24	Realis E24 Actual
+T25	Justice_Sentence 3844 3857	death penalty
+E25	Justice_Sentence:T25 
+A25	Realis E25 Generic
+T26	Justice_Sentence 4006 4019	death penalty
+E26	Justice_Sentence:T26 
+A26	Realis E26 Generic
+T27	Life_Die 4045 4052	murders
+E27	Life_Die:T27 
+A27	Realis E27 Actual
+T28	Life_Die 4162 4167	death
+E28	Life_Die:T28 
+A28	Realis E28 Actual
+T29	Justice_Sentence 4197 4210	death penalty
+E29	Justice_Sentence:T29 
+A29	Realis E29 Generic
+T30	Justice_Arrest-Jail 4303 4309	prison
+E30	Justice_Arrest-Jail:T30 
+A30	Realis E30 Other
+T31	Life_Die 4320 4323	die
+E31	Life_Die:T31 
+A31	Realis E31 Other
+T32	Justice_Arrest-Jail 4653 4659	prison
+E32	Justice_Arrest-Jail:T32 
+A32	Realis E32 Other
+T33	Life_Die 232 237	death
+E33	Life_Die:T33 
+A33	Realis E33 Generic
+T34	Justice_Acquit 525 535	exonerated
+E34	Justice_Acquit:T34 
+A34	Realis E34 Generic
+T35	Life_Die 613 618	Death
+E35	Life_Die:T35 
+A35	Realis E35 Generic
+T36	Justice_Sentence 665 683	capital punishment
+E36	Justice_Sentence:T36 
+A36	Realis E36 Generic
+T8	Justice_Trial-Hearing 1263 1268	Cases
+E8	Justice_Trial-Hearing:T8 
+A8	Realis E8 Generic
+T37	Conflict_Attack 1901 1919	pulled the trigger
+E37	Conflict_Attack:T37 
+A37	Realis E37 Actual
+T38	Justice_Arrest-Jail 541 550	death row
+E38	Justice_Arrest-Jail:T38 
+A38	Realis E38 Generic
+T39	Justice_Trial-Hearing 1965 1970	trial
+E39	Justice_Trial-Hearing:T39 
+A39	Realis E39 Actual
+T40	Contact_Meet 2026 2030	said
+E40	Contact_Meet:T40 
+A40	Realis E40 Actual
+T41	Conflict_Attack 2074 2092	pulled the trigger
+E41	Conflict_Attack:T41 
+A41	Realis E41 Actual
+T42	Contact_Meet 2111 2118	vouched
+E42	Contact_Meet:T42 
+A42	Realis E42 Actual
+T43	Conflict_Attack 2187 2195	shooting
+E43	Conflict_Attack:T43 
+A43	Realis E43 Actual
+T44	Life_Die 2325 2330	death
+E44	Life_Die:T44 
+A44	Realis E44 Generic
+T45	Justice_Execute 2335 2348	Texasexecuted
+E45	Justice_Execute:T45 
+A45	Realis E45 Actual
+T46	Contact_Communicate 2478 2487	confessed
+E46	Contact_Communicate:T46 
+A46	Realis E46 Actual
+T47	Justice_Execute 2533 2546	Texasexecuted
+E47	Justice_Execute:T47 
+A47	Realis E47 Actual
+T48	Personnel_End-Position 2619 2625	former
+E48	Personnel_End-Position:T48 
+A48	Realis E48 Actual
+T49	Contact_Communicate 2661 2668	stating
+E49	Contact_Communicate:T49 
+A49	Realis E49 Actual
+T50	Justice_Execute 2968 2984	Virginiaexecuted
+E50	Justice_Execute:T50 
+A50	Realis E50 Actual
+T51	Life_Die 3844 3849	death
+E51	Life_Die:T51 
+A51	Realis E51 Generic
+T52	Life_Die 4006 4011	death
+E52	Life_Die:T52 
+A52	Realis E52 Generic
+T53	Life_Die 4197 4202	death
+E53	Life_Die:T53 
+A53	Realis E53 Generic
+T54	Justice_Arrest-Jail 4381 4388	prisons
+E54	Justice_Arrest-Jail:T54 
+A54	Realis E54 Generic
+T55	Justice_Arrest-Jail 4466 4473	prisons
+E55	Justice_Arrest-Jail:T55 
+A55	Realis E55 Generic
+T56	Justice_Arrest-Jail 4611 4617	caught
+E56	Justice_Arrest-Jail:T56 
+A56	Realis E56 Other

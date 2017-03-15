@@ -1,0 +1,93 @@
+T1	Justice_Appeal 194 200	appeal
+E1	Justice_Appeal:T1 
+A1	Realis E1 Actual
+T2	Justice_Convict 216 226	conviction
+E2	Justice_Convict:T2 
+A2	Realis E2 Actual
+T3	Justice_Appeal 339 345	appeal
+E3	Justice_Appeal:T3 
+A3	Realis E3 Actual
+T4	Justice_Arrest-Jail 350 356	jailed
+E4	Justice_Arrest-Jail:T4 
+A4	Realis E4 Actual
+T5	Personnel_End-Position 357 363	former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T6	Justice_Convict 413 423	conviction
+E6	Justice_Convict:T6 
+A6	Realis E6 Actual
+T7	Justice_Convict 538 545	verdict
+E7	Justice_Convict:T7 
+A7	Realis E7 Actual
+T8	Justice_Convict 607 612;619 625	found guilty
+E8	Justice_Convict:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 652 658	former
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Justice_Appeal 764 770	appeal
+E10	Justice_Appeal:T10 
+A10	Realis E10 Other
+T11	Justice_Convict 864 871	verdict
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T12	Justice_Appeal 975 981	appeal
+E12	Justice_Appeal:T12 
+A12	Realis E12 Actual
+T13	Justice_Release-Parole 1127 1135	released
+E13	Justice_Release-Parole:T13 
+A13	Realis E13 Other
+T14	Justice_Appeal 1234 1240	appeal
+E14	Justice_Appeal:T14 
+A14	Realis E14 Other
+T15	Justice_Convict 1300 1310	conviction
+E15	Justice_Convict:T15 
+A15	Realis E15 Actual
+T16	Justice_Charge-Indict 1326 1333	charges
+E16	Justice_Charge-Indict:T16 
+A16	Realis E16 Actual
+T17	Justice_Arrest-Jail 1428 1435;1460 1468	serving sentence
+E17	Justice_Arrest-Jail:T17 
+A17	Realis E17 Actual
+T18	Personnel_End-Position 1534 1539	fired
+E18	Personnel_End-Position:T18 
+A18	Realis E18 Actual
+T19	Conflict_Demonstrate 1638 1646	protests
+E19	Conflict_Demonstrate:T19 
+A19	Realis E19 Actual
+T20	Justice_Arrest-Jail 1678 1686	arrested
+E20	Justice_Arrest-Jail:T20 
+A20	Realis E20 Actual
+T21	Justice_Charge-Indict 1689 1696	charged
+E21	Justice_Charge-Indict:T21 
+A21	Realis E21 Actual
+T22	Justice_Convict 1702 1711	convicted
+E22	Justice_Convict:T22 
+A22	Realis E22 Actual
+T23	Justice_Charge-Indict 1737 1744	charges
+E23	Justice_Charge-Indict:T23 
+A23	Realis E23 Actual
+T24	Justice_Convict 1926 1933	verdict
+E24	Justice_Convict:T24 
+A24	Realis E24 Actual
+T25	Justice_Appeal 2860 2866	appeal
+E25	Justice_Appeal:T25 
+A25	Realis E25 Actual
+T26	Justice_Convict 2923 2932	convicted
+E26	Justice_Convict:T26 
+A26	Realis E26 Actual
+T27	Justice_Sentence 2984 2993	sentenced
+E27	Justice_Sentence:T27 
+A27	Realis E27 Actual
+T28	Justice_Release-Parole 3046 3050	free
+E28	Justice_Release-Parole:T28 
+A28	Realis E28 Actual
+T29	Justice_Appeal 3067 3073	appeal
+E29	Justice_Appeal:T29 
+A29	Realis E29 Other
+T30	Justice_Sentence 3102 3109	ordered
+E30	Justice_Sentence:T30 
+A30	Realis E30 Actual
+T31	Justice_Charge-Indict 1765 1772	charges
+E31	Justice_Charge-Indict:T31 
+A31	Realis E31 Actual

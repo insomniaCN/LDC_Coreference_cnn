@@ -1,0 +1,22 @@
+T1	Personnel_End-Position 316 322	resign
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Business_End-Org 568 578	bring down
+E2	Business_End-Org:T2 
+A2	Realis E2 Actual
+T3	Justice_Sue 675 679	sued
+E3	Justice_Sue:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 830 837	telling
+E4	Contact_Communicate:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 2229 2237	paid for
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Other
+A6	Questionable E5 Mention
+T6	Personnel_End-Position 1556 1562	former
+E6	Personnel_End-Position:T6 
+A7	Realis E6 Actual
+T7	Life_Die 1810 1814	kill
+E7	Life_Die:T7 
+A8	Realis E7 Generic

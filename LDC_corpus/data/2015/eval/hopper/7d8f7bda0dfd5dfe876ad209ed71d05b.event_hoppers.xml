@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eaae0000000000000175" doc_id="7d8f7bda0dfd5dfe876ad209ed71d05b" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-776" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="266" length="6">prison</trigger>
+      </event_mention>
+      <event_mention id="em-761" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1113" length="6">prison</trigger>
+      </event_mention>
+      <event_mention id="em-774" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1688" length="7">serving</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-532" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="760" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-355" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="931" length="9">responded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-200" type="contact" subtype="correspondence" realis="generic" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1177" length="14">communications</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-621" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1304" length="7">posting</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-598" type="conflict" subtype="attack" realis="generic">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1448" length="3">war</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-560" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1652" length="8">released</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-406" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1721" length="6">charge</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-165">
+      <event_mention id="em-994" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="288" length="9">declaring</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-180">
+      <event_mention id="em-767" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="7d8f7bda0dfd5dfe876ad209ed71d05b" offset="1539" length="9">interview</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

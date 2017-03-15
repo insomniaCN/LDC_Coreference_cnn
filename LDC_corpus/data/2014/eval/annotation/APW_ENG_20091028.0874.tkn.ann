@@ -1,0 +1,63 @@
+T1	Transaction_Transfer-Money 104 107	pay
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Other
+T2	Transaction_Transfer-Money 244 253	defrauded
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Other
+T3	Justice_Sue 311 314	sue
+E3	Justice_Sue:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Money 368 372	pays
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T5	Justice_Sue 432 435	sue
+E5	Justice_Sue:T5 
+A5	Realis E5 Other
+T6	Transaction_Transfer-Money 439 446;451 456	collect prize
+E6	Transaction_Transfer-Money:T6 
+A6	Questionable E6 Mention
+A7	Realis E6 Actual
+T7	Contact_Communicate 489 494;500 506	wrote letter
+E7	Contact_Communicate:T7 
+A8	Questionable E7 Mention
+A9	Realis E7 Actual
+T8	Personnel_End-Position 542 548	former
+E8	Personnel_End-Position:T8 
+A10	Realis E8 Actual
+T9	Transaction_Transfer-Ownership 596 602	bought
+E9	Transaction_Transfer-Ownership:T9 
+A11	Realis E9 Actual
+T10	Contact_Communicate 654 661	telling
+E10	Contact_Communicate:T10 
+A12	Questionable E10 Realis
+A13	Realis E10 Other
+T11	Transaction_Transfer-Ownership 712 718	bought
+E11	Transaction_Transfer-Ownership:T11 
+A14	Realis E11 Actual
+T12	Transaction_Transfer-Money 749 756;760 762	cashing in
+E12	Transaction_Transfer-Money:T12 
+A15	Realis E12 Actual
+T13	Transaction_Transfer-Money 850 861	transferred
+E13	Transaction_Transfer-Money:T13 
+A16	Realis E13 Actual
+T14	Justice_Charge-Indict 906 913	charged
+E14	Justice_Charge-Indict:T14 
+A17	Realis E14 Actual
+T15	Transaction_Transfer-Money 919 927;938 943	claiming prize
+E15	Transaction_Transfer-Money:T15 
+A18	Realis E15 Actual
+T16	Transaction_Transfer-Money 983 988;998 1007	money recovered
+E16	Transaction_Transfer-Money:T16 
+A19	Realis E16 Actual
+T17	Transaction_Transfer-Money 1080 1085	given
+E17	Transaction_Transfer-Money:T17 
+A20	Realis E17 Other
+T18	Transaction_Transfer-Money 1169 1172	get
+E18	Transaction_Transfer-Money:T18 
+A21	Realis E18 Other
+T19	Contact_Meet 1238 1242	meet
+E19	Contact_Meet:T19 
+A22	Realis E19 Other
+T20	Transaction_Transfer-Ownership 1445 1451	bought
+E20	Transaction_Transfer-Ownership:T20 
+A23	Realis E20 Actual

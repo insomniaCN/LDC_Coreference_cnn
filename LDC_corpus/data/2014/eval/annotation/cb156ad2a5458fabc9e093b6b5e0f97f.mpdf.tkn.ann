@@ -1,0 +1,51 @@
+T1	Contact_Communicate 488 500	conversation
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 510 514	told
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Personnel_Start-Position 604 608	hire
+E3	Personnel_Start-Position:T3 
+A3	Realis E3 Other
+T4	Conflict_Attack 628 635	beat up
+E4	Conflict_Attack:T4 
+A4	Realis E4 Other
+T5	Conflict_Demonstrate 645 658	demonstrators
+E5	Conflict_Demonstrate:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 682 693	firebombing
+E6	Conflict_Attack:T6 
+A6	Realis E6 Other
+T7	Transaction_Transfer-Ownership 724 732	stealing
+E7	Transaction_Transfer-Ownership:T7 
+A7	Realis E7 Other
+T8	Contact_Communicate 1046 1064	phone conversation
+E8	Contact_Communicate:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 1104 1108	said
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Personnel_Elect 1290 1298	Re-elect
+E10	Personnel_Elect:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 1387 1392	spend
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Other
+T12	Personnel_Start-Position 1486 1495	appointed
+E12	Personnel_Start-Position:T12 
+A12	Realis E12 Actual
+T13	Transaction_Transfer-Ownership 1686 1694	burglary
+E13	Transaction_Transfer-Ownership:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 3134 3145	firebombing
+E14	Conflict_Attack:T14 
+A14	Realis E14 Other
+T15	Life_Die 2750 2767	taking a dirt nap
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T16	Life_Die 3256 3260	dead
+E16	Life_Die:T16 
+A16	Realis E16 Actual
+T17	Personnel_Elect 447 455	re-elect
+E18	Personnel_Elect:T17 
+A18	Realis E18 Actual

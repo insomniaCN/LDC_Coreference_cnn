@@ -1,0 +1,57 @@
+T1	Justice_Sentence 220 229	sentenced
+E457	Justice_Sentence:T1
+A1	Realis E457 Actual
+T2	Justice_Sentence 926 935	sentenced
+E877	Justice_Sentence:T2
+A2	Realis E877 Actual
+T3	Justice_Arrest-Jail 257 263	prison
+E550	Justice_Arrest-Jail:T3
+A3	Realis E550 Other
+T4	Justice_Arrest-Jail 378 384	prison
+E512	Justice_Arrest-Jail:T4
+A4	Realis E512 Actual
+T5	Justice_Arrest-Jail 939 945	prison
+E981	Justice_Arrest-Jail:T5
+A5	Realis E981 Other
+T6	Justice_Arrest-Jail 1140 1146	prison
+E904	Justice_Arrest-Jail:T6
+A6	Realis E904 Actual
+T7	Contact_Broadcast 318 327	declaring
+E507	Contact_Broadcast:T7
+A7	Realis E507 Actual
+T8	Contact_Broadcast 446 456	statements
+E546	Contact_Broadcast:T8
+A8	Realis E546 Actual
+T9	Justice_Release-Parole 364 372	released
+E732	Justice_Release-Parole:T9
+A9	Realis E732 Actual
+T10	Justice_Release-Parole 1296 1303	release
+E680	Justice_Release-Parole:T10
+A10	Realis E680 Other
+T11	Personnel_End-Position 417 423	former
+E697	Personnel_End-Position:T11
+A11	Realis E697 Actual
+T12	Justice_Charge-Indict 657 664	charged
+E737	Justice_Charge-Indict:T12
+A12	Realis E737 Actual
+T13	Transaction_Transaction 719 730	Transaction
+E263	Transaction_Transaction:T13
+A13	Realis E263 Generic
+T14	Contact_Broadcast 739 752	disseminating
+E471	Contact_Broadcast:T14
+A14	Realis E471 Generic
+T15	Justice_Fine 960 965	fined
+E654	Justice_Fine:T15
+A15	Realis E654 Actual
+T16	Contact_Broadcast 1103 1112	statement
+E754	Contact_Broadcast:T16
+A16	Realis E754 Actual
+T17	Contact_Meet 1125 1132	visited
+E822	Contact_Meet:T17
+A17	Realis E822 Actual
+R1	Coreference Arg1:E457 Arg2:E877
+R2	Coreference Arg1:E550 Arg2:E512
+R3	Coreference Arg1:E512 Arg2:E981
+R4	Coreference Arg1:E981 Arg2:E904
+R5	Coreference Arg1:E507 Arg2:E546
+R6	Coreference Arg1:E732 Arg2:E680

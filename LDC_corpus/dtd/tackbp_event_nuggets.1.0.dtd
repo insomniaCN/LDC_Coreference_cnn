@@ -1,0 +1,49 @@
+<!--
+
+DTD for Rich ERE Event Nuggets  (nuggets only) XML
+Xiaoyi Ma, LDC 
+xma@ldc.upenn.edu
+DTD version 1.0
+August 17, 2015
+
+Notes for using Rich ERE XML from LDC: 
+   Character offsets and lengths for text extents are calculated based on "raw"
+   text before escaping XML metacharacters. For example, the raw string "R&D" 
+   will have length 3 but will be printed into the XML file as "R&amp;D". An XML
+   parser is required to correctly ingest data for offsets to be meaningful. 
+   Using regular expressions without an XML parser will not unescape 
+   metacharacters properly. 
+
+-->
+
+<!-- ELEMENTS -->
+
+<!ELEMENT deft_ere_event_nuggets_only (event_mention+)>
+<!ELEMENT event_mention (trigger)>
+<!ELEMENT trigger ANY> 
+
+<!-- ATTRIBUTES In alphabetical order -->
+
+<!ATTLIST deft_ere_event_nuggets_only             kit_id                CDATA      #REQUIRED>
+<!ATTLIST deft_ere_event_nuggets_only             doc_id                 CDATA      #IMPLIED>  
+<!ATTLIST deft_ere_event_nuggets_only             conversation_id       ID         #IMPLIED>
+<!ATTLIST deft_ere_event_nuggets_only             source_type           (newswire|multi_post)   #REQUIRED> 
+
+<!ATTLIST event_mention       id                    ID         #REQUIRED>
+<!ATTLIST event_mention       type  		    (business|conflict|contact|justice|life|manufacture|
+												movement|personnel|transaction) #REQUIRED>
+<!ATTLIST event_mention       subtype 		    (acquit|appeal|arrestjail|artifact|attack|beborn|broadcast|chargeindict|contact|convict|correspondence|declarebankruptcy|demonstrate|die|divorce|elect|endorg|endposition|execute|extradite|fine|injure|marry|meet|mergeorg|nominate|pardon|releaseparole|sentence|startorg|startposition|sue|transaction|transfermoney|transferownership|transportartifact|transportperson|trialhearing)           #REQUIRED>
+<!ATTLIST event_mention       realis  (actual|generic|other) #REQUIRED>
+
+<!-- contact only attributes -->
+<!ATTLIST event_mention      audience     (oneway|twoway|canttell) #IMPLIED>
+<!ATTLIST event_mention      formality    (formal|informal|canttell) #IMPLIED>
+<!ATTLIST event_mention      medium       (inperson|notinperson|canttell) #IMPLIED>
+<!ATTLIST event_mention      schedule     (planned|spontaneous|canttell) #IMPLIED>
+
+<!-- transaction only attribute -->
+<!ATTLIST event_mention      ways         (voluntary|involuntaryforce|involuntarynoforce|canttell) #IMPLIED>
+
+<!ATTLIST trigger           source                   CDATA      #REQUIRED>
+<!ATTLIST trigger           offset                   CDATA      #REQUIRED>
+<!ATTLIST trigger           length                   CDATA      #REQUIRED>

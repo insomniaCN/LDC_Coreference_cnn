@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20130715.0175" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130715/20130715,f112b7cea0cd1b85a02118a1c78d5b5c.xml">
+<HEADLINE>
+CANADA'S LARGEST GROCER TO BUY COUNTRY'S BIGGEST PHARMACY CHAIN
+</HEADLINE>
+<TEXT>
+<P>
+OTTAWA - Loblaw Cos. Ltd., Canada’s largest grocer, said Monday that it would acquire Shoppers Drug Mart, the country’s biggest pharmacy chain, for $11.9 billion in cash and stock.
+</P>
+<P>
+Family-owned Loblaw is facing several challenges to its core business. Last month, Sobeys, another family-owned grocery store chain, acquired the Canadian stores of Safeway for $5.8 billion in cash. Target is opening its first Canadian stores, many of which include extensive grocery sections. And Wal-Mart Canada has been enlarging food departments at many of its stores.
+</P>
+<P>
+Loblaw will exchange the equivalent of 33.18 Canadian dollars in cash and 0.5965 of a common share for each Shoppers Drug Mart share. The grocery chain said the combined value was 61.54 Canadian dollars, or $59.05, a 29.4 percent premium to the average share price of the drug chain over the last 20 days. The deal is the largest transaction between two Canadian companies since 2009, when Suncor Energy bought Petro-Canada for $15 billion.
+</P>
+<P>
+Under the current plan, Shoppers Drug Mart shareholders can choose either 61.54 Canadian dollars in cash or 1.29417 Loblaw shares plus one Canadian cent for each of their shares. Shoppers Drug Mart shareholders would own 29 percent of the combined company. In a news conference, Galen G. Weston, executive chairman of Loblaw, said that while the two companies had spoken informally over the years, he proposed the transaction to Holger Kluge, the chairman of Shoppers, during a meeting “in a minivan on a country road on Thursday morning.” The unusual venue appears to be the result of Kluge’s attending an out-of-office meeting.
+</P>
+<P>
+Weston said repeatedly that the transaction was part of a “vision that combined health, wellness and nutrition” for the company. Loblaw, which has long been associated with high-margin, high-quality house brand merchandise, has been promoting a line of products it says are more healthful and posting extensive nutritional information in stores.
+</P>
+<P>
+Loblaw said it planned to use its distribution network and grocery-buying power to improve the food sections at Shoppers stores, which have been greatly expanded in recent years. Those sections will eventually start carrying Loblaw’s “President’s Choice” house brand line of products as well as more fresh food.
+</P>
+<P>
+Domenic Pilla, president and chief executive of Shoppers, will manage the pharmacy as a separate unit that will continue to operate under its own brand names, which include Pharmaprix in Quebec. The combined company would have revenue of 42 billion Canadian dollars.
+</P>
+<P>
+Loblaw’s executives played down potential antitrust concerns, saying their company controls about 5 percent of the Canadian pharmacy business while Shoppers holds 25 percent. But David Soberman, a professor of marketing at the Rotman School of Management at the University of Toronto, said there might be problems because the national figures did not reflect the outsized market share of both companies in Ontario, the county’s most populous province.
+</P>
+</TEXT>
+</DOC>

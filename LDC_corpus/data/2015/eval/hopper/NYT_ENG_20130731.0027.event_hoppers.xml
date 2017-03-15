@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8ea730000000000000068" doc_id="NYT_ENG_20130731.0027" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-310" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="374" length="6">report</trigger>
+      </event_mention>
+      <event_mention id="em-793" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="723" length="6">report</trigger>
+      </event_mention>
+      <event_mention id="em-538" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="1137" length="6">report</trigger>
+      </event_mention>
+      <event_mention id="em-206" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="1653" length="6">report</trigger>
+      </event_mention>
+      <event_mention id="em-410" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="2189" length="6">report</trigger>
+      </event_mention>
+      <event_mention id="em-882" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="2662" length="6">report</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-87" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="canttell">
+        <trigger source="NYT_ENG_20130731.0027" offset="814" length="9">interview</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-79" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="1061" length="4">sent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-563" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130731.0027" offset="1189" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-894" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130731.0027" offset="1189" length="3">buy</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-850" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="1160" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-964" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="1237" length="7">emailed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-830" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130731.0027" offset="1249" length="11">resignation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-162" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="1338" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-184">
+      <event_mention id="em-167" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130731.0027" offset="1520" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-199">
+      <event_mention id="em-250" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130731.0027" offset="1574" length="8">notified</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-214">
+      <event_mention id="em-823" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="1772" length="5">reach</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-229">
+      <event_mention id="em-443" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130731.0027" offset="1894" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-244">
+      <event_mention id="em-723" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="NYT_ENG_20130731.0027" offset="2071" length="6">salary</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-259">
+      <event_mention id="em-209" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="2158" length="7">discuss</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-274">
+      <event_mention id="em-483" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="informal" medium="notinperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="2345" length="9">exchanged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-289">
+      <event_mention id="em-731" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="998" length="8">comments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-317">
+      <event_mention id="em-210" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="1387" length="4">told</trigger>
+      </event_mention>
+      <event_mention id="em-562" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130731.0027" offset="1360" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-345">
+      <event_mention id="em-607" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130731.0027" offset="2024" length="6">worked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-373">
+      <event_mention id="em-430" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="2230" length="7">talking</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-388">
+      <event_mention id="em-42" type="life" subtype="beborn" realis="other">
+        <trigger source="NYT_ENG_20130731.0027" offset="2297" length="4">have</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-403">
+      <event_mention id="em-705" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130731.0027" offset="2449" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-418">
+      <event_mention id="em-565" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="2519" length="8">comments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-433">
+      <event_mention id="em-143" type="contact" subtype="contact" realis="actual" audience="twoway" formality="informal" medium="canttell" schedule="spontaneous">
+        <trigger source="NYT_ENG_20130731.0027" offset="2599" length="5">asked</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

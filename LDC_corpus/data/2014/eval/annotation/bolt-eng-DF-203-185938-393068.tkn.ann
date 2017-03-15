@@ -1,0 +1,69 @@
+T1	Transaction_Transfer-Money 2720 2726	paying
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Money 2954 2957	pay
+E2	Transaction_Transfer-Money:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 3415 3422	married
+E3	Life_Marry:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 3752 3755	pay
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Money 4103 4109	paying
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+T6	Transaction_Transfer-Money 4315 4318	pay
+E6	Transaction_Transfer-Money:T6 
+A6	Realis E6 Actual
+T7	Transaction_Transfer-Money 191 194	pay
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Money 361 367	paying
+E8	Transaction_Transfer-Money:T8 
+A8	Realis E8 Generic
+T9	Transaction_Transfer-Money 522 530	payments
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Money 628 631	pay
+E10	Transaction_Transfer-Money:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 779 783	paid
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 891 895	call
+E12	Contact_Communicate:T12 
+A12	Realis E12 Other
+T13	Transaction_Transfer-Money 959 966	payment
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Generic
+T14	Transaction_Transfer-Money 1079 1082	pay
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Money 1160 1166	paying
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Other
+T16	Transaction_Transfer-Money 1333 1340	payment
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T17	Transaction_Transfer-Money 1377 1381	paid
+E17	Transaction_Transfer-Money:T17 
+A17	Realis E17 Other
+T18	Transaction_Transfer-Money 1487 1490	pay
+E18	Transaction_Transfer-Money:T18 
+A18	Realis E18 Actual
+T19	Transaction_Transfer-Money 1583 1586	pay
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Other
+T20	Transaction_Transfer-Money 1999 2002	pay
+E20	Transaction_Transfer-Money:T20 
+A20	Realis E20 Actual
+T21	Transaction_Transfer-Money 2125 2128	pay
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Actual
+T22	Transaction_Transfer-Money 2290 2293	pay
+E22	Transaction_Transfer-Money:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Money 2507 2510	pay
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Actual

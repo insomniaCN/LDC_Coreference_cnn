@@ -1,0 +1,108 @@
+T1	Justice_Charge-Indict 209 216	CHARGED
+E1	Justice_Charge-Indict:T1 
+A1	Realis E1 Actual
+T2	Justice_Trial-Hearing 336 341	trial
+E2	Justice_Trial-Hearing:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 597 604	married
+E3	Life_Marry:T3 
+A3	Realis E3 Actual
+T4	Justice_Trial-Hearing 707 711	case
+E4	Justice_Trial-Hearing:T4 
+A4	Realis E4 Actual
+T5	Business_End-Org 864 873	shut down
+E5	Business_End-Org:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 936 939	was
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1053 1056	was
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Actual
+T8	Personnel_Start-Position 1086 1095	succeeded
+E8	Personnel_Start-Position:T8 
+A8	Realis E8 Actual
+T9	Personnel_End-Position 1134 1139	until
+E9	Personnel_End-Position:T9 
+A9	Realis E9 Actual
+T10	Justice_Trial-Hearing 1194 1198	case
+E10	Justice_Trial-Hearing:T10 
+A10	Realis E10 Actual
+T11	Life_Marry 1281 1288	married
+E11	Life_Marry:T11 
+A11	Realis E11 Actual
+T12	Life_Marry 1308 1315	married
+E12	Life_Marry:T12 
+A12	Realis E12 Actual
+T13	Life_Marry 1342 1349	married
+E13	Life_Marry:T13 
+A13	Realis E13 Actual
+T14	Life_Divorce 1363 1371	divorced
+E14	Life_Divorce:T14 
+A14	Realis E14 Actual
+T15	Life_Marry 1389 1396	married
+E15	Life_Marry:T15 
+A15	Realis E15 Actual
+T16	Justice_Trial-Hearing 1467 1471	case
+E16	Justice_Trial-Hearing:T16 
+A16	Realis E16 Actual
+T17	Personnel_Elect 1617 1625	election
+E17	Personnel_Elect:T17 
+A17	Realis E17 Actual
+T18	Justice_Charge-Indict 1897 1904	charged
+E18	Justice_Charge-Indict:T18 
+A18	Realis E18 Actual
+T19	Movement_Transport-Person 2150 2158	abducted
+E19	Movement_Transport-Person:T19 
+A19	Realis E19 Actual
+T20	Life_Die 2183 2187	dead
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Contact_Communicate 2883 2889;2930 2937	letter written
+E21	Contact_Communicate:T21 
+A21	Realis E21 Actual
+T22	Justice_Charge-Indict 3515 3522	charged
+E22	Justice_Charge-Indict:T22 
+A22	Realis E22 Actual
+T23	Justice_Charge-Indict 3561 3568	charged
+E23	Justice_Charge-Indict:T23 
+A23	Realis E23 Actual
+T24	Justice_Trial-Hearing 3935 3940	trial
+E24	Justice_Trial-Hearing:T24 
+A24	Realis E24 Actual
+T25	Transaction_Transfer-Money 4174 4181	payoffs
+E25	Transaction_Transfer-Money:T25 
+A25	Realis E25 Generic
+T26	Justice_Charge-Indict 4249 4256	charges
+E26	Justice_Charge-Indict:T26 
+A26	Realis E26 Actual
+T27	Justice_Charge-Indict 4406 4413	charges
+E27	Justice_Charge-Indict:T27 
+A27	Realis E27 Actual
+T28	Justice_Trial-Hearing 423 428	court
+E28	Justice_Trial-Hearing:T28 
+A28	Realis E28 Actual
+T29	Justice_Trial-Hearing 561 566	trial
+E29	Justice_Trial-Hearing:T29 
+A29	Realis E29 Actual
+T30	Personnel_Start-Position 999 1004	moved
+E30	Personnel_Start-Position:T30 
+A30	Realis E30 Actual
+T31	Justice_Trial-Hearing 1214 1219	court
+E31	Justice_Trial-Hearing:T31 
+A31	Realis E31 Actual
+T32	Contact_Communicate 2270 2283	messages left
+E32	Contact_Communicate:T32 
+A32	Realis E32 Actual
+T33	Personnel_Start-Position 2668 2673	hired
+E33	Personnel_Start-Position:T33 
+A33	Realis E33 Actual
+T34	Justice_Trial-Hearing 3239 3244	court
+E34	Justice_Trial-Hearing:T34 
+A34	Realis E34 Actual
+T35	Justice_Charge-Indict 4040 4047	accused
+E35	Justice_Charge-Indict:T35 
+A35	Realis E35 Actual
+T36	Justice_Charge-Indict 4321 4328	accused
+E36	Justice_Charge-Indict:T36 
+A36	Realis E36 Actual

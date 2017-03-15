@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea990000000000000133" doc_id="38c9f2c8e6285f3b960aa1a70335ce13" source_type="multi_post">
+  <event_mention id="em-31" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="355" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-58" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="3066" length="4">make</trigger>
+  </event_mention>
+  <event_mention id="em-80" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2817" length="6">expect</trigger>
+  </event_mention>
+  <event_mention id="em-176" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1718" length="12">compensation</trigger>
+  </event_mention>
+  <event_mention id="em-194" type="personnel" subtype="startposition" realis="generic">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2348" length="4">hire</trigger>
+  </event_mention>
+  <event_mention id="em-197" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="131" length="7">Lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-237" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1846" length="7">comment</trigger>
+  </event_mention>
+  <event_mention id="em-243" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2426" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-263" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2132" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="544" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-359" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="281" length="7">Lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-384" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2745" length="6">expect</trigger>
+  </event_mention>
+  <event_mention id="em-448" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2000" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-494" type="personnel" subtype="endposition" realis="other">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1889" length="6">let go</trigger>
+  </event_mention>
+  <event_mention id="em-555" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1815" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-573" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1744" length="2">ex</trigger>
+  </event_mention>
+  <event_mention id="em-574" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2384" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-591" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="644" length="2">ex</trigger>
+  </event_mention>
+  <event_mention id="em-614" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1032" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-639" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="916" length="10">terminated</trigger>
+  </event_mention>
+  <event_mention id="em-644" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2491" length="4">paid</trigger>
+  </event_mention>
+  <event_mention id="em-688" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="618" length="12">compensation</trigger>
+  </event_mention>
+  <event_mention id="em-707" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="746" length="7">comment</trigger>
+  </event_mention>
+  <event_mention id="em-713" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1231" length="7">Lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-739" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="715" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-756" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1381" length="7">Lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-788" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="2016" length="10">terminated</trigger>
+  </event_mention>
+  <event_mention id="em-861" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1644" length="4">suit</trigger>
+  </event_mention>
+  <event_mention id="em-864" type="justice" subtype="sue" realis="actual">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="1455" length="7">lawsuit</trigger>
+  </event_mention>
+  <event_mention id="em-896" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="900" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-979" type="personnel" subtype="endposition" realis="other">
+    <trigger source="38c9f2c8e6285f3b960aa1a70335ce13" offset="789" length="6">let go</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130516.0253" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130516/20130516,dc226322915039a8473488d5718fd2e3.xml">
+<HEADLINE>
+FORMER BP CHIEF EMERGES AS INTERIM CHAIRMAN AT GLENCORE XSTRATA
+</HEADLINE>
+<TEXT>
+<P>
+LONDON - Tony Hayward was appointed interim chairman of the mining company Glencore Xstrata on Thursday, almost three years after he resigned as chief executive of BP in the wake of a huge oil spill in the Gulf of Mexico.
+</P>
+<P>
+The appointment of Hayward, currently a senior independent director at the company, comes after the departure of Glencore Xstrata’s chairman, John Bond, who failed to receive enough shareholder support at an investor meeting Thursday to retain his position.
+</P>
+<P>
+The new role represents a significant turnaround for Hayward, who was widely criticized for his role in the aftermath of the Deepwater Horizon oil spill in 2010. Since leaving BP, Hayward has become chief executive of Genel Energy, which is exploring for energy reserves in northern Iraq.
+</P>
+<P>
+Hayward will step down from his new position at Glencore Xstrata as soon as a new chairman is appointed, according to a company statement.
+</P>
+<P>
+The executive shuffle at the top of Glencore Xstrata is the most recent management change after the commodities giant Glencore International completed its $30 billion all-stock takeover of the mining company Xstrata on May 2.
+</P>
+<P>
+As part of the deal, Xstrata’s chief executive, Mick Davis, announced that he was leaving the merged company earlier than had been expected, while a number of his top lieutenants have also departed. Steve Robson, a company director, announced his resignation Thursday.
+</P>
+<P>
+Bond, 71, a former chief executive and chairman of the British bank HSBC, had previously said he would step down as Glencore Xstrata chairman as soon as a successor could be found. He had faced anger in November when shareholders voted against multimillion-dollar bonuses that were aimed at retaining some of Xstrata’s senior managers.
+</P>
+<P>
+On Thursday, however, Bond, who received less than 20 percent approval from investors to be reappointed chairman, told shareholders he did not have enough support to continue in his role.
+</P>
+<P>
+“I recognize and respect the strong opposition among many to the retention arrangements which the board felt appropriate to ensure management stability,” Bond said in a statement, in reference to the vetoed bonuses.
+</P>
+<P>
+The changes come as the chief executive, Ivan Glasenberg, has announced plans to reduce costs at Glencore Xstrata.
+</P>
+</TEXT>
+</DOC>

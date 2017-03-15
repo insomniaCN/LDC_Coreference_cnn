@@ -1,0 +1,36 @@
+T1	Contact_Meet 271 278	meeting
+E1	Contact_Meet:T1 
+A1	Realis E1 Actual
+T2	Contact_Meet 519 526	meeting
+E2	Contact_Meet:T2 
+A2	Realis E2 Actual
+T3	Personnel_End-Position 597 603	former
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T4	Justice_Charge-Indict 657 667	indictment
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Actual
+T5	Personnel_Start-Position 868 874	became
+E5	Personnel_Start-Position:T5 
+A5	Realis E5 Actual
+T6	Personnel_End-Position 929 937;938 942	stepped  down
+E6	Personnel_End-Position:T6 
+A6	Realis E6 Actual
+T7	Personnel_Elect 990 997	elected
+E7	Personnel_Elect:T7 
+A7	Realis E7 Actual
+T8	Contact_Meet 78 85	meeting
+E8	Contact_Meet:T8 
+A8	Realis E8 Actual
+T9	Contact_Communicate 487 491	said
+E9	Contact_Communicate:T9 
+A9	Realis E9 Actual
+T10	Personnel_End-Position 623 635	stepped down
+E10	Personnel_End-Position:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Money 719 724	funds
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Generic
+T12	Contact_Communicate 956 964	e - mail
+E12	Contact_Communicate:T12 
+A12	Realis E12 Other

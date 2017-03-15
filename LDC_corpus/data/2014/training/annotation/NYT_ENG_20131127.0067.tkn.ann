@@ -1,0 +1,102 @@
+T1	Transaction_Transfer-Ownership 345 353	purchase
+E1	Transaction_Transfer-Ownership:T1 
+A1	Realis E1 Other
+T2	Contact_Communicate 375 382	calling
+E2	Contact_Communicate:T2 
+A2	Realis E2 Other
+T3	Transaction_Transfer-Ownership 504 508	sale
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Other
+T4	Transaction_Transfer-Ownership 568 576	takeover
+E4	Transaction_Transfer-Ownership:T4 
+A4	Realis E4 Other
+T7	Transaction_Transfer-Money 798 805;810 815	writing check
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Other
+T8	Transaction_Transfer-Ownership 938 945	acquire
+E8	Transaction_Transfer-Ownership:T8 
+A8	Realis E8 Other
+T11	Transaction_Transfer-Ownership 202 210	TAKEOVER
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Other
+T13	Business_Merge-Org 1260 1267	mergers
+E13	Business_Merge-Org:T13 
+A13	Realis E13 Generic
+T14	Transaction_Transfer-Ownership 1272 1284	acquisitions
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Generic
+T15	Transaction_Transfer-Ownership 1530 1545	Pac - Man deals
+E15	Transaction_Transfer-Ownership:T15 
+A15	Realis E15 Actual
+T18	Transaction_Transfer-Ownership 1708 1711	buy
+E18	Transaction_Transfer-Ownership:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Ownership 1748 1753	deals
+E19	Transaction_Transfer-Ownership:T19 
+A19	Realis E19 Actual
+T20	Transaction_Transfer-Ownership 1340 1344	deal
+E20	Transaction_Transfer-Ownership:T20 
+A20	Realis E20 Other
+T24	Business_Merge-Org 1933 1939	merged
+E24	Business_Merge-Org:T24 
+A24	Realis E24 Actual
+T29	Transaction_Transfer-Ownership 2318 2322	deal
+E29	Transaction_Transfer-Ownership:T29 
+A29	Realis E29 Other
+T32	Transaction_Transfer-Ownership 2496 2500	deal
+E32	Transaction_Transfer-Ownership:T32 
+A32	Realis E32 Other
+T33	Contact_Communicate 2636 2647	discussions
+E33	Contact_Communicate:T33 
+A33	Realis E33 Other
+T36	Transaction_Transfer-Ownership 3042 3046	deal
+E36	Transaction_Transfer-Ownership:T36 
+A36	Realis E36 Other
+T37	Business_Merge-Org 3165 3176	combination
+E37	Business_Merge-Org:T37 
+A37	Realis E37 Other
+T41	Transaction_Transfer-Money 3349 3357	earnings
+E41	Transaction_Transfer-Money:T41 
+A41	Realis E41 Actual
+T44	Business_Merge-Org 3562 3568	merger
+E44	Business_Merge-Org:T44 
+A44	Realis E44 Other
+T46	Transaction_Transfer-Ownership 3634 3644	purchasing
+E46	Transaction_Transfer-Ownership:T46 
+A46	Realis E46 Generic
+T47	Personnel_End-Position 3810 3814	exit
+E47	Personnel_End-Position:T47 
+A47	Realis E47 Other
+T53	Transaction_Transfer-Ownership 4154 4158	deal
+E53	Transaction_Transfer-Ownership:T53 
+A53	Realis E53 Other
+T54	Transaction_Transfer-Money 4198 4207;4213 4217	taking on debt
+E54	Transaction_Transfer-Money:T54 
+A54	Realis E54 Other
+T56	Business_Merge-Org 4311 4319	combined
+E56	Business_Merge-Org:T56 
+A56	Realis E56 Other
+T57	Transaction_Transfer-Ownership 4449 4457	acquirer
+E57	Transaction_Transfer-Ownership:T57 
+A57	Realis E57 Other
+T58	Business_Merge-Org 4467 4478	combination
+E58	Business_Merge-Org:T58 
+A58	Realis E58 Other
+T59	Business_Merge-Org 4554 4565	integration
+E59	Business_Merge-Org:T59 
+A59	Realis E59 Other
+T72	Contact_Meet 5353 5358	talks
+E72	Contact_Meet:T72 
+A72	Realis E72 Other
+T75	Transaction_Transfer-Ownership 5561 5576	Pac - Man deals
+E75	Transaction_Transfer-Ownership:T75 
+A75	Realis E75 Actual
+T77	Transaction_Transfer-Ownership 5636 5640	deal
+E77	Transaction_Transfer-Ownership:T77 
+A77	Realis E77 Other
+T5	Transaction_Transfer-Ownership 745 750;753 757	doing deal
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Other
+T6	Business_Start-Org 1943 1949	create
+E6	Business_Start-Org:T6 
+A6	Realis E6 Actual

@@ -1,0 +1,28 @@
+T1	Transaction_Transfer-Ownership 602 611	purchased
+E21	Transaction_Transfer-Ownership:T1
+A1	Realis E21 Actual
+T2	Contact_Contact 692 697	asked
+E800	Contact_Contact:T2
+A2	Realis E800 Actual
+T3	Contact_Broadcast 926 933	tweeted
+E111	Contact_Broadcast:T3
+A3	Realis E111 Actual
+T4	Movement_Transport-Person 1419 1426	driving
+E845	Movement_Transport-Person:T4
+A4	Realis E845 Actual
+T5	Movement_Transport-Person 1436 1443	driving
+E847	Movement_Transport-Person:T5
+A5	Realis E847 Actual
+T6	Movement_Transport-Person 1671 1679	speeding
+E928	Movement_Transport-Person:T6
+A6	Realis E928 Actual
+T7	Movement_Transport-Person 1838 1844	chased
+E3	Movement_Transport-Person:T7
+A7	Realis E3 Actual
+T8	Conflict_Attack 1921 1924	hit
+E608	Conflict_Attack:T8
+A8	Realis E608 Other
+T9	Transaction_Transfer-Money 602 611	purchased
+E127	Transaction_Transfer-Money:T9
+A9	Realis E127 Actual
+R1	Coreference Arg1:E845 Arg2:E847

@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130613.0129" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130613/20130613,880e98d5532f08dd82377beffeedf83e.xml">
+<HEADLINE>
+SYRIAN FORCES SEEN STEPPING UP AIR ATTACKS ON REBELS
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+WASHINGTON - The forces of President Bashar Assad of Syria have substantially stepped up their air attacks, exploiting a crucial offensive advantage against Syrian rebels, according to American intelligence reports.
+</P>
+<P>
+The reports paint an increasingly dire picture of the war in Syria as top Obama administration officials met Wednesday to review military options to help the rebels reverse their deteriorating position.
+</P>
+<P>
+The Syrian military’s use of warplanes and helicopters has increased. It has carried out at least 500 air to ground attacks against rebels and civilians in May, according to the intelligence reports, which were described by officials who declined to be identified because they were not authorized to discuss them.
+</P>
+<P>
+Several hundred transport flights moved Syrian government troops, allied Hezbollah fighters and supplies around the battlefield last month, the reports said.
+</P>
+<P>
+The Obama administration has long insisted that Assad’s days in power are numbered and that it is only a matter of time before he is toppled. But the intelligence reports indicate that the Assad government has regained the tactical initiative, drawing on Hezbollah fighters, Syria government militias and its advantage in heavy weaponry.
+</P>
+<P>
+The government’s capture of Qusair, a major town near the border with Lebanon, has enabled Assad’s forces to cut an important rebel supply line. Syrian government helicopters have been flying Hezbollah and Iraqi Shiite fighters so they can join in an anticipated offensive to take control of Aleppo, Syria’s largest city, according to American officials and members of the Syrian opposition.
+</P>
+<P>
+One result of the changed fortunes on the battlefield, according to American officials, is that the credibility of the moderate Syrian opposition, which the United States has been publicly backing, may have been diminished and that extremist factions may gain influence. Secretary of State John Kerry conferred here on Wednesday with the British foreign secretary, William Hague, who told reporters that Assad appeared determined to press the fight with the rebels with the help of Hezbollah and Iran.
+</P>
+<P>
+“What we have been pushing for, all of us involved in this effort, is a political solution that ends the violence, saves Syria, stops the killing and destruction of an entire nation,” Kerry said. “So it’s not a question to me whether or not the opposition can, quote, 'win.' It’s a question of whether or not we can get to this political solution.”
+</P>
+</TEXT>
+</DOC>

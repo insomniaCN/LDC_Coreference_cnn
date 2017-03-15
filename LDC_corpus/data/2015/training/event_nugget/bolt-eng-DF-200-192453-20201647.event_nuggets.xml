@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="557748760000000000000612" doc_id="bolt-eng-DF-200-192453-20201647" source_type="multi_post">
+<event_mention id="em-10" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="267" length="7">joyride</trigger>
+      </event_mention>
+<event_mention id="em-23" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="357" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-38" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="484" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-51" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="905" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-64" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1111" length="5">fight</trigger>
+      </event_mention>
+<event_mention id="em-79" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1118" length="4">Send</trigger>
+      </event_mention>
+<event_mention id="em-94" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1177" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-111" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1177" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-124" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1337" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-137" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1520" length="5">fight</trigger>
+      </event_mention>
+<event_mention id="em-150" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1527" length="4">Send</trigger>
+      </event_mention>
+<event_mention id="em-163" type="conflict" subtype="attack" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1586" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-176" type="life" subtype="die" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1586" length="6">killed</trigger>
+      </event_mention>
+<event_mention id="em-189" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1663" length="10">pulled out</trigger>
+      </event_mention>
+<event_mention id="em-204" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="1827" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-217" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="2212" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-232" type="justice" subtype="fine" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="2234" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-247" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="3101" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-260" type="justice" subtype="arrestjail" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="3494" length="6">prison</trigger>
+      </event_mention>
+<event_mention id="em-273" type="justice" subtype="fine" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="3516" length="4">fine</trigger>
+      </event_mention>
+<event_mention id="em-286" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4296" length="7">joyride</trigger>
+      </event_mention>
+<event_mention id="em-299" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4386" length="6">Deport</trigger>
+      </event_mention>
+<event_mention id="em-312" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4538" length="9">deporting</trigger>
+      </event_mention>
+<event_mention id="em-325" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4513" length="2">go</trigger>
+      </event_mention>
+<event_mention id="em-340" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4942" length="9">deporting</trigger>
+      </event_mention>
+<event_mention id="em-353" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4963" length="4">kick</trigger>
+      </event_mention>
+<event_mention id="em-368" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="4930" length="11">waste money</trigger>
+      </event_mention>
+<event_mention id="em-383" type="transaction" subtype="transfermoney" realis="other" ways="canttell">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="5635" length="11">waste money</trigger>
+      </event_mention>
+<event_mention id="em-396" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="5647" length="9">deporting</trigger>
+      </event_mention>
+<event_mention id="em-409" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="5668" length="4">kick</trigger>
+      </event_mention>
+<event_mention id="em-422" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="6128" length="8">deported</trigger>
+      </event_mention>
+<event_mention id="em-437" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-200-192453-20201647" offset="6149" length="9">joyriding</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

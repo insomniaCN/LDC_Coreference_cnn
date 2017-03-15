@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000658" doc_id="XIN_ENG_20100613.0159" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="110" length="6">attack</trigger>
+      </event_mention>
+      <event_mention id="em-23" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="275" length="8">attacked</trigger>
+      </event_mention>
+      <event_mention id="em-66" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="423" length="8">attacked</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-49">
+      <event_mention id="em-36" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="230" length="11">fanning out</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-51" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="XIN_ENG_20100613.0159" offset="364" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="life" subtype="injure" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="474" length="8">injuring</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-94" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="522" length="4">fled</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="conflict" subtype="attack" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="547" length="11">opened fire</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="XIN_ENG_20100613.0159" offset="617" length="11">disappeared</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

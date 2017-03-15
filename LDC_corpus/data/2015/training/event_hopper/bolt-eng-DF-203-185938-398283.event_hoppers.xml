@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000624" doc_id="bolt-eng-DF-203-185938-398283" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="informal" medium="notinperson" schedule="canttell">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="83" length="3">ask</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="332" length="7">wedding</trigger>
+      </event_mention>
+      <event_mention id="em-53" type="life" subtype="marry" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="761" length="7">wedding</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="363" length="8">vacation</trigger>
+      </event_mention>
+      <event_mention id="em-66" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="864" length="8">vacation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-92">
+      <event_mention id="em-79" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="918" length="9">vacations</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-107">
+      <event_mention id="em-94" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="3482" length="7">married</trigger>
+      </event_mention>
+      <event_mention id="em-109" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="4271" length="7">married</trigger>
+      </event_mention>
+      <event_mention id="em-122" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="4407" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-161">
+      <event_mention id="em-148" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="5198" length="8">vacation</trigger>
+      </event_mention>
+      <event_mention id="em-208" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="6017" length="8">vacation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-176">
+      <event_mention id="em-163" type="life" subtype="marry" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="5377" length="7">married</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-178" type="life" subtype="beborn" realis="generic">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="5504" length="9">have kids</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-206">
+      <event_mention id="em-193" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="5714" length="3">get</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-234">
+      <event_mention id="em-221" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-203-185938-398283" offset="6046" length="4">trip</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

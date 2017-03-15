@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea7d0000000000000087" doc_id="NYT_ENG_20130917.0018" source_type="newswire">
+  <event_mention id="em-1" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="705" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-6" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="593" length="6">buyers</trigger>
+  </event_mention>
+  <event_mention id="em-14" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1904" length="4">runs</trigger>
+  </event_mention>
+  <event_mention id="em-25" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="2869" length="10">purchasing</trigger>
+  </event_mention>
+  <event_mention id="em-28" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1343" length="10">discharged</trigger>
+  </event_mention>
+  <event_mention id="em-45" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="475" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-48" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3082" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-63" type="life" subtype="die" realis="generic">
+    <trigger source="NYT_ENG_20130917.0018" offset="1297" length="6">lethal</trigger>
+  </event_mention>
+  <event_mention id="em-67" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3082" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-93" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="705" length="6">bought</trigger>
+  </event_mention>
+  <event_mention id="em-98" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3210" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-111" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="795" length="8">rampaged</trigger>
+  </event_mention>
+  <event_mention id="em-150" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3210" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-168" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3231" length="7">wounded</trigger>
+  </event_mention>
+  <event_mention id="em-202" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1143" length="5">fired</trigger>
+  </event_mention>
+  <event_mention id="em-226" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="270" length="8">SHOOTING</trigger>
+  </event_mention>
+  <event_mention id="em-252" type="life" subtype="injure" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3104" length="7">wounded</trigger>
+  </event_mention>
+  <event_mention id="em-255" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="795" length="8">rampaged</trigger>
+  </event_mention>
+  <event_mention id="em-300" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+    <trigger source="NYT_ENG_20130917.0018" offset="1831" length="4">took</trigger>
+  </event_mention>
+  <event_mention id="em-305" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130917.0018" offset="2439" length="10">statements</trigger>
+  </event_mention>
+  <event_mention id="em-341" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="202" length="6">BUYING</trigger>
+  </event_mention>
+  <event_mention id="em-402" type="conflict" subtype="attack" realis="other">
+    <trigger source="NYT_ENG_20130917.0018" offset="1673" length="5">shoot</trigger>
+  </event_mention>
+  <event_mention id="em-438" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3231" length="7">wounded</trigger>
+  </event_mention>
+  <event_mention id="em-461" type="movement" subtype="transportartifact" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1831" length="4">took</trigger>
+  </event_mention>
+  <event_mention id="em-488" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="2869" length="10">purchasing</trigger>
+  </event_mention>
+  <event_mention id="em-513" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="556" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-522" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1019" length="4">went</trigger>
+  </event_mention>
+  <event_mention id="em-560" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130917.0018" offset="831" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-564" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130917.0018" offset="992" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-568" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3104" length="7">wounded</trigger>
+  </event_mention>
+  <event_mention id="em-572" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="3126" length="6">former</trigger>
+  </event_mention>
+  <event_mention id="em-588" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1600" length="6">firing</trigger>
+  </event_mention>
+  <event_mention id="em-671" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130917.0018" offset="2075" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-689" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="202" length="6">BUYING</trigger>
+  </event_mention>
+  <event_mention id="em-699" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="2121" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-701" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="339" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-715" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1868" length="6">headed</trigger>
+  </event_mention>
+  <event_mention id="em-719" type="life" subtype="die" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="339" length="6">killed</trigger>
+  </event_mention>
+  <event_mention id="em-722" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="556" length="4">sale</trigger>
+  </event_mention>
+  <event_mention id="em-763" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1927" length="10">cranks off</trigger>
+  </event_mention>
+  <event_mention id="em-767" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="2041" length="6">shoots</trigger>
+  </event_mention>
+  <event_mention id="em-779" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="475" length="3">buy</trigger>
+  </event_mention>
+  <event_mention id="em-797" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1976" length="5">heads</trigger>
+  </event_mention>
+  <event_mention id="em-810" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="1803" length="4">shot</trigger>
+  </event_mention>
+  <event_mention id="em-828" type="conflict" subtype="attack" realis="actual">
+    <trigger source="NYT_ENG_20130917.0018" offset="283" length="8">SHOOTING</trigger>
+  </event_mention>
+  <event_mention id="em-870" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130917.0018" offset="1424" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-893" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+    <trigger source="NYT_ENG_20130917.0018" offset="593" length="6">buyers</trigger>
+  </event_mention>
+  <event_mention id="em-895" type="conflict" subtype="attack" realis="generic">
+    <trigger source="NYT_ENG_20130917.0018" offset="3044" length="8">shooters</trigger>
+  </event_mention>
+  <event_mention id="em-942" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130917.0018" offset="1747" length="10">confronted</trigger>
+  </event_mention>
+  <event_mention id="em-991" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+    <trigger source="NYT_ENG_20130917.0018" offset="2012" length="9">confronts</trigger>
+  </event_mention>
+  <event_mention id="em-994" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130917.0018" offset="2300" length="10">interviews</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

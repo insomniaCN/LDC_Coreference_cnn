@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8f3120000000000000001" doc_id="NYT_ENG_20130921.0148" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-428" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="183" length="10">CO-FOUNDER</trigger>
+      </event_mention>
+      <event_mention id="em-449" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="306" length="10">co-founder</trigger>
+      </event_mention>
+      <event_mention id="em-483" type="business" subtype="startorg" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="1464" length="10">co-founded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-159" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="214" length="3">BID</trigger>
+      </event_mention>
+      <event_mention id="em-167" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="436" length="3">bid</trigger>
+      </event_mention>
+      <event_mention id="em-437" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="714" length="4">bids</trigger>
+      </event_mention>
+      <event_mention id="em-6" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="1225" length="3">bid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-517" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="214" length="3">BID</trigger>
+      </event_mention>
+      <event_mention id="em-208" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="436" length="3">bid</trigger>
+      </event_mention>
+      <event_mention id="em-843" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="570" length="5">offer</trigger>
+      </event_mention>
+      <event_mention id="em-918" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="714" length="4">bids</trigger>
+      </event_mention>
+      <event_mention id="em-618" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="1225" length="3">bid</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-978" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="335" length="12">stepped down</trigger>
+      </event_mention>
+      <event_mention id="em-846" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="2039" length="9">departure</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-146">
+      <event_mention id="em-160" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="665" length="5">talks</trigger>
+      </event_mention>
+      <event_mention id="em-416" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="1152" length="5">talks</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-187">
+      <event_mention id="em-21" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="862" length="9">announced</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-202">
+      <event_mention id="em-548" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="1045" length="7">comment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-217">
+      <event_mention id="em-312" type="contact" subtype="correspondence" realis="other" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="1089" length="7">comment</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-271">
+      <event_mention id="em-243" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="1334" length="6">buyout</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-286">
+      <event_mention id="em-873" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="NYT_ENG_20130921.0148" offset="1334" length="6">buyout</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-314">
+      <event_mention id="em-315" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="1707" length="12">stepped down</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-329">
+      <event_mention id="em-222" type="personnel" subtype="startposition" realis="actual">
+        <trigger source="NYT_ENG_20130921.0148" offset="1744" length="14">ceding control</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-357">
+      <event_mention id="em-165" type="business" subtype="startorg" realis="generic">
+        <trigger source="NYT_ENG_20130921.0148" offset="2125" length="8">founders</trigger>
+      </event_mention>
+      <event_mention id="em-640" type="business" subtype="startorg" realis="generic">
+        <trigger source="NYT_ENG_20130921.0148" offset="2213" length="8">founders</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-385">
+      <event_mention id="em-438" type="personnel" subtype="startposition" realis="other">
+        <trigger source="NYT_ENG_20130921.0148" offset="2225" length="14">pass the baton</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-400">
+      <event_mention id="em-177" type="personnel" subtype="endposition" realis="other">
+        <trigger source="NYT_ENG_20130921.0148" offset="2225" length="14">pass the baton</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-415">
+      <event_mention id="em-453" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="2070" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-430">
+      <event_mention id="em-59" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130921.0148" offset="1298" length="4">said</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-445">
+      <event_mention id="em-554" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="NYT_ENG_20130921.0148" offset="1131" length="8">reported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-460">
+      <event_mention id="em-289" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="NYT_ENG_20130921.0148" offset="197" length="4">SAID</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

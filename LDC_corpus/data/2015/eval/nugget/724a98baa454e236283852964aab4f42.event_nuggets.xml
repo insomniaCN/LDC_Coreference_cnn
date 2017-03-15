@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8eaa80000000000000163" doc_id="724a98baa454e236283852964aab4f42" source_type="multi_post">
+  <event_mention id="em-8" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1488" length="4">deny</trigger>
+  </event_mention>
+  <event_mention id="em-21" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="560" length="4">says</trigger>
+  </event_mention>
+  <event_mention id="em-34" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="135" length="6">rumors</trigger>
+  </event_mention>
+  <event_mention id="em-63" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3479" length="13">contributions</trigger>
+  </event_mention>
+  <event_mention id="em-104" type="personnel" subtype="elect" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2009" length="8">election</trigger>
+  </event_mention>
+  <event_mention id="em-138" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2376" length="10">conference</trigger>
+  </event_mention>
+  <event_mention id="em-140" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1505" length="6">rumors</trigger>
+  </event_mention>
+  <event_mention id="em-172" type="contact" subtype="contact" realis="other" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1660" length="4">word</trigger>
+  </event_mention>
+  <event_mention id="em-185" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="5117" length="10">laundering</trigger>
+  </event_mention>
+  <event_mention id="em-215" type="justice" subtype="fine" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="4226" length="4">fine</trigger>
+  </event_mention>
+  <event_mention id="em-227" type="justice" subtype="chargeindict" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2497" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-238" type="contact" subtype="meet" realis="other" audience="twoway" formality="canttell" medium="inperson" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="697" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-264" type="life" subtype="divorce" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="628" length="8">divorced</trigger>
+  </event_mention>
+  <event_mention id="em-267" type="personnel" subtype="endposition" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1493" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-322" type="justice" subtype="arrestjail" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="4370" length="4">jail</trigger>
+  </event_mention>
+  <event_mention id="em-330" type="personnel" subtype="endposition" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1938" length="9">resigning</trigger>
+  </event_mention>
+  <event_mention id="em-348" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3398" length="8">funneled</trigger>
+  </event_mention>
+  <event_mention id="em-371" type="personnel" subtype="endposition" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1436" length="6">resign</trigger>
+  </event_mention>
+  <event_mention id="em-404" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2462" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-410" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2282" length="11">resignation</trigger>
+  </event_mention>
+  <event_mention id="em-424" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="388" length="5">lists</trigger>
+  </event_mention>
+  <event_mention id="em-430" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="4483" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-436" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3230" length="9">donations</trigger>
+  </event_mention>
+  <event_mention id="em-458" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="4980" length="6">saying</trigger>
+  </event_mention>
+  <event_mention id="em-475" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3553" length="13">contributions</trigger>
+  </event_mention>
+  <event_mention id="em-486" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1768" length="14">bites the dust</trigger>
+  </event_mention>
+  <event_mention id="em-526" type="justice" subtype="trialhearing" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1637" length="8">sessions</trigger>
+  </event_mention>
+  <event_mention id="em-586" type="justice" subtype="chargeindict" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3166" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-599" type="justice" subtype="chargeindict" realis="other">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2440" length="7">charges</trigger>
+  </event_mention>
+  <event_mention id="em-616" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3618" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-638" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="316" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-681" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="922" length="4">hand</trigger>
+  </event_mention>
+  <event_mention id="em-719" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="notinperson" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="429" length="7">contact</trigger>
+  </event_mention>
+  <event_mention id="em-724" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1961" length="10">announcing</trigger>
+  </event_mention>
+  <event_mention id="em-768" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3149" length="9">announced</trigger>
+  </event_mention>
+  <event_mention id="em-788" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2424" length="12">announcement</trigger>
+  </event_mention>
+  <event_mention id="em-837" type="contact" subtype="contact" realis="actual" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3325" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-847" type="life" subtype="divorce" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="788" length="2">ex</trigger>
+  </event_mention>
+  <event_mention id="em-863" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="735" length="4">gave</trigger>
+  </event_mention>
+  <event_mention id="em-864" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="1345" length="6">tweets</trigger>
+  </event_mention>
+  <event_mention id="em-888" type="personnel" subtype="endposition" realis="generic">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2245" length="6">resign</trigger>
+  </event_mention>
+  <event_mention id="em-896" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="4179" length="8">resigned</trigger>
+  </event_mention>
+  <event_mention id="em-899" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="3942" length="3">pay</trigger>
+  </event_mention>
+  <event_mention id="em-924" type="justice" subtype="convict" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2318" length="6">guilty</trigger>
+  </event_mention>
+  <event_mention id="em-947" type="contact" subtype="broadcast" realis="generic" audience="oneway" formality="informal" medium="notinperson" schedule="canttell">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="4069" length="8">comments</trigger>
+  </event_mention>
+  <event_mention id="em-954" type="personnel" subtype="endposition" realis="actual">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2216" length="8">resigned</trigger>
+  </event_mention>
+  <event_mention id="em-985" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+    <trigger source="724a98baa454e236283852964aab4f42" offset="2340" length="7">finance</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

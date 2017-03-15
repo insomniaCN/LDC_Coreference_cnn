@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab10000000000000183" doc_id="898eb7110068491fb43a480f32089286" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-171" type="justice" subtype="sue" realis="actual">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="297" length="7">lawsuit</trigger>
+      </event_mention>
+      <event_mention id="em-672" type="justice" subtype="sue" realis="actual">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="507" length="7">lawsuit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-443" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="383" length="9">statement</trigger>
+      </event_mention>
+      <event_mention id="em-862" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1214" length="9">statement</trigger>
+      </event_mention>
+      <event_mention id="em-251" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1476" length="9">statement</trigger>
+      </event_mention>
+      <event_mention id="em-839" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1666" length="9">statement</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-64">
+      <event_mention id="em-750" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="607" length="9">contacted</trigger>
+      </event_mention>
+      <event_mention id="em-877" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="827" length="5">asked</trigger>
+      </event_mention>
+      <event_mention id="em-450" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="903" length="7">replied</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-79">
+      <event_mention id="em-513" type="movement" subtype="transportperson" realis="other">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="697" length="8">vacation</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-94">
+      <event_mention id="em-646" type="contact" subtype="meet" realis="other" audience="twoway" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="709" length="5">visit</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-109">
+      <event_mention id="em-128" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="934" length="4">rent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-124">
+      <event_mention id="em-39" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="canttell" medium="notinperson" schedule="canttell">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="987" length="5">calls</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-139">
+      <event_mention id="em-218" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1050" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-195">
+      <event_mention id="em-844" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1496" length="9">complaint</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-210">
+      <event_mention id="em-780" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1599" length="7">damages</trigger>
+      </event_mention>
+      <event_mention id="em-996" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="2623" length="7">damages</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-203" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="1622" length="4">fees</trigger>
+      </event_mention>
+      <event_mention id="em-891" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="2646" length="4">fees</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-266">
+      <event_mention id="em-25" type="business" subtype="endorg" realis="other">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="2159" length="5">close</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-281">
+      <event_mention id="em-465" type="transaction" subtype="transferownership" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="2168" length="4">sell</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-348">
+      <event_mention id="em-365" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="934" length="4">rent</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-363">
+      <event_mention id="em-729" type="transaction" subtype="transfermoney" realis="other" ways="voluntary">
+        <trigger source="898eb7110068491fb43a480f32089286" offset="2168" length="4">sell</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

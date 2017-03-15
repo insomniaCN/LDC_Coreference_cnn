@@ -1,0 +1,156 @@
+T1	Conflict_Attack 188 192	SHOT
+E213	Conflict_Attack:T1
+A1	Realis E213 Actual
+T2	Conflict_Attack 284 288	shot
+E617	Conflict_Attack:T2
+A2	Realis E617 Actual
+T3	Conflict_Attack 766 772	victim
+E776	Conflict_Attack:T3
+A3	Realis E776 Actual
+T4	Conflict_Attack 915 921	victim
+E765	Conflict_Attack:T4
+A4	Realis E765 Actual
+T5	Conflict_Attack 894 900	killed
+E758	Conflict_Attack:T5
+A5	Realis E758 Actual
+T6	Conflict_Attack 1688 1694	killed
+E972	Conflict_Attack:T6
+A6	Realis E972 Actual
+T7	Conflict_Attack 2165 2171	killed
+E510	Conflict_Attack:T7
+A7	Realis E510 Actual
+T8	Life_Die 180 187	FATALLY
+E849	Life_Die:T8
+A8	Realis E849 Actual
+T9	Life_Die 293 299	killed
+E755	Life_Die:T9
+A9	Realis E755 Actual
+T10	Life_Die 894 900	killed
+E274	Life_Die:T10
+A10	Realis E274 Actual
+T11	Life_Die 915 921	victim
+E607	Life_Die:T11
+A11	Realis E607 Actual
+T12	Life_Die 1688 1694	killed
+E608	Life_Die:T12
+A12	Realis E608 Actual
+T13	Life_Die 2165 2171	killed
+E977	Life_Die:T13
+A13	Realis E977 Actual
+T14	Life_Die 766 772	victim
+E222	Life_Die:T14
+A14	Realis E222 Actual
+T15	Conflict_Attack 205 213	INVASION
+E251	Conflict_Attack:T15
+A15	Realis E251 Actual
+T16	Conflict_Attack 439 448	gunbattle
+E784	Conflict_Attack:T16
+A16	Realis E784 Actual
+T17	Conflict_Attack 1606 1614	shooting
+E757	Conflict_Attack:T17
+A17	Realis E757 Actual
+T18	Conflict_Attack 1800 1808	shooting
+E782	Conflict_Attack:T18
+A18	Realis E782 Actual
+T19	Conflict_Attack 1915 1922	gunfire
+E649	Conflict_Attack:T19
+A19	Realis E649 Actual
+T20	Conflict_Attack 2008 2016	shooting
+E265	Conflict_Attack:T20
+A20	Realis E265 Actual
+T21	Conflict_Attack 629 637	violence
+E83	Conflict_Attack:T21
+A21	Realis E83 Actual
+T22	Contact_Contact 474 478	said
+E125	Contact_Contact:T22
+A22	Realis E125 Actual
+T23	Contact_Contact 1852 1856	said
+E29	Contact_Contact:T23
+A23	Realis E29 Actual
+T24	Life_Die 530 536	killed
+E74	Life_Die:T24
+A24	Realis E74 Actual
+T25	Life_Die 1647 1653	killed
+E435	Life_Die:T25
+A25	Realis E435 Actual
+T26	Conflict_Attack 580 585	fired
+E584	Conflict_Attack:T26
+A26	Realis E584 Actual
+T27	Movement_Transport-Person 1493 1498	leave
+E161	Movement_Transport-Person:T27
+A27	Realis E161 Actual
+T28	Movement_Transport-Person 2455 2460	leave
+E408	Movement_Transport-Person:T28
+A28	Realis E408 Actual
+T29	Contact_Correspondence 1557 1561	call
+E829	Contact_Correspondence:T29
+A29	Realis E829 Actual
+T30	Movement_Transport-Person 1595 1602	arrival
+E229	Movement_Transport-Person:T30
+A30	Realis E229 Actual
+T31	Contact_Contact 1697 1701	said
+E918	Contact_Contact:T31
+A31	Realis E918 Actual
+T32	Contact_Broadcast 1960 1967	message
+E717	Contact_Broadcast:T32
+A32	Realis E717 Actual
+T33	Contact_Broadcast 2103 2112	statement
+E56	Contact_Broadcast:T33
+A33	Realis E56 Actual
+T34	Contact_Broadcast 2203 2207	said
+E676	Contact_Broadcast:T34
+A34	Realis E676 Actual
+T35	Contact_Meet 2221 2231	ceremonies
+E461	Contact_Meet:T35
+A35	Realis E461 Other
+T36	Contact_Meet 2297 2303	gather
+E846	Contact_Meet:T36
+A36	Realis E846 Actual
+T37	Contact_Contact 2471 2476	asked
+E936	Contact_Contact:T37
+A37	Realis E936 Actual
+T38	Contact_Contact 2507 2511	said
+E659	Contact_Contact:T38
+A38	Realis E659 Actual
+T39	Life_Die 590 595	fatal
+E870	Life_Die:T39
+A39	Realis E870 Actual
+T40	Conflict_Attack 530 536	killed
+E647	Conflict_Attack:T40
+A40	Realis E647 Actual
+T41	Conflict_Attack 1647 1653	killed
+E504	Conflict_Attack:T41
+A41	Realis E504 Actual
+T42	Movement_Transport-Person 347 357	broke into
+E858	Movement_Transport-Person:T42
+A42	Realis E858 Actual
+T43	Movement_Transport-Person 1316 1324	burst in
+E268	Movement_Transport-Person:T43
+A43	Realis E268 Actual
+T44	Movement_Transport-Person 492 498	forced
+E437	Movement_Transport-Person:T44
+A44	Realis E437 Actual
+R1	Coreference Arg1:E213 Arg2:E617
+R2	Coreference Arg1:E617 Arg2:E776
+R3	Coreference Arg1:E776 Arg2:E758
+R4	Coreference Arg1:E758 Arg2:E765
+R5	Coreference Arg1:E765 Arg2:E972
+R6	Coreference Arg1:E972 Arg2:E510
+R7	Coreference Arg1:E849 Arg2:E755
+R8	Coreference Arg1:E755 Arg2:E222
+R9	Coreference Arg1:E222 Arg2:E274
+R10	Coreference Arg1:E274 Arg2:E607
+R11	Coreference Arg1:E607 Arg2:E608
+R12	Coreference Arg1:E608 Arg2:E977
+R13	Coreference Arg1:E784 Arg2:E83
+R14	Coreference Arg1:E83 Arg2:E757
+R15	Coreference Arg1:E757 Arg2:E782
+R16	Coreference Arg1:E782 Arg2:E649
+R17	Coreference Arg1:E649 Arg2:E265
+R18	Coreference Arg1:E125 Arg2:E29
+R19	Coreference Arg1:E74 Arg2:E435
+R20	Coreference Arg1:E161 Arg2:E408
+R21	Coreference Arg1:E936 Arg2:E659
+R22	Coreference Arg1:E647 Arg2:E504
+R23	Coreference Arg1:E858 Arg2:E437
+R24	Coreference Arg1:E437 Arg2:E268

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000608" doc_id="bolt-eng-DF-200-192446-3810611" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-25" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="76" length="7">Stabbed</trigger>
+      </event_mention>
+      <event_mention id="em-128" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2599" length="7">stabbed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-23">
+      <event_mention id="em-10" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="88" length="6">Killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="875" length="4">beat</trigger>
+      </event_mention>
+      <event_mention id="em-171" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2928" length="4">beat</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="movement" subtype="transportperson" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="1098" length="7">came in</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="1128" length="4">beat</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-83" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="1444" length="8">stabbing</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-98" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2308" length="11">decapitated</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-113" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2475" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-154">
+      <event_mention id="em-141" type="conflict" subtype="attack" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2627" length="8">punching</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-169">
+      <event_mention id="em-156" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2659" length="7">run out</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-197">
+      <event_mention id="em-184" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="2966" length="7">stabbed</trigger>
+      </event_mention>
+      <event_mention id="em-199" type="conflict" subtype="attack" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="930" length="7">stabbed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-225">
+      <event_mention id="em-212" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="3083" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-240">
+      <event_mention id="em-227" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="3210" length="6">murder</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-255">
+      <event_mention id="em-242" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="3807" length="6">parole</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-270">
+      <event_mention id="em-257" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-200-192446-3810611" offset="355" length="6">killed</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

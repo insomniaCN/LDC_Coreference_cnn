@@ -1,0 +1,129 @@
+T1	Justice_Sentence 184 193	SENTENCES
+E725	Justice_Sentence:T1
+A1	Realis E725 Actual
+T2	Justice_Sentence 326 335	sentenced
+E29	Justice_Sentence:T2
+A2	Realis E29 Actual
+T3	Justice_Sentence 894 903	sentenced
+E711	Justice_Sentence:T3
+A3	Realis E711 Actual
+T4	Justice_Sentence 1235 1241	ruling
+E203	Justice_Sentence:T4
+A4	Realis E203 Actual
+T5	Justice_Sentence 1256 1262	ruling
+E601	Justice_Sentence:T5
+A5	Realis E601 Actual
+T6	Contact_Broadcast 285 289	said
+E715	Contact_Broadcast:T6
+A6	Realis E715 Actual
+T7	Contact_Broadcast 867 871	said
+E188	Contact_Broadcast:T7
+A7	Realis E188 Actual
+T8	Justice_Arrest-Jail 537 545	arrested
+E958	Justice_Arrest-Jail:T8
+A8	Realis E958 Actual
+T9	Movement_Transport-Person 630 637	leading
+E311	Movement_Transport-Person:T9
+A9	Realis E311 Actual
+T10	Contact_Broadcast 709 713	said
+E968	Contact_Broadcast:T10
+A10	Realis E968 Actual
+T11	Justice_Charge-Indict 721 730	indicting
+E574	Justice_Charge-Indict:T11
+A11	Realis E574 Actual
+T12	Justice_Charge-Indict 738 745	charges
+E4	Justice_Charge-Indict:T12
+A12	Realis E4 Actual
+T13	Justice_Charge-Indict 1015 1021	charge
+E542	Justice_Charge-Indict:T13
+A13	Realis E542 Actual
+T14	Justice_Trial-Hearing 917 924	hearing
+E806	Justice_Trial-Hearing:T14
+A14	Realis E806 Actual
+T15	Justice_Convict 944 953	convicted
+E394	Justice_Convict:T15
+A15	Realis E394 Actual
+T16	Justice_Charge-Indict 979 985	charge
+E76	Justice_Charge-Indict:T16
+A16	Realis E76 Actual
+T17	Justice_Execute 1123 1128	death
+E842	Justice_Execute:T17
+A17	Realis E842 Generic
+T18	Life_Die 1123 1128	death
+E895	Life_Die:T18
+A18	Realis E895 Generic
+T19	Justice_Sentence 1129 1136	penalty
+E31	Justice_Sentence:T19
+A19	Realis E31 Generic
+T20	Movement_Transport-Person 1185 1196	transferred
+E432	Movement_Transport-Person:T20
+A20	Realis E432 Actual
+T21	Movement_Transport-Person 1527 1532	tours
+E964	Movement_Transport-Person:T21
+A21	Realis E964 Generic
+T22	Justice_Arrest-Jail 1785 1793	detained
+E500	Justice_Arrest-Jail:T22
+A22	Realis E500 Actual
+T23	Justice_Release-Parole 1868 1873	freed
+E521	Justice_Release-Parole:T23
+A23	Realis E521 Actual
+T24	Justice_Release-Parole 1944 1951	release
+E150	Justice_Release-Parole:T24
+A24	Realis E150 Actual
+T25	Movement_Transport-Person 1908 1916	traveled
+E893	Movement_Transport-Person:T25
+A25	Realis E893 Actual
+T26	Justice_Arrest-Jail 1983 1991	arrested
+E928	Justice_Arrest-Jail:T26
+A26	Realis E928 Actual
+T27	Movement_Transport-Person 2055 2062	entered
+E754	Movement_Transport-Person:T27
+A27	Realis E754 Actual
+T28	Justice_Sentence 2113 2122	sentenced
+E248	Justice_Sentence:T28
+A28	Realis E248 Actual
+T29	Justice_Release-Parole 2159 2167	released
+E481	Justice_Release-Parole:T29
+A29	Realis E481 Actual
+T30	Movement_Transport-Person 2223 2230	visited
+E996	Movement_Transport-Person:T30
+A30	Realis E996 Actual
+T31	Contact_Meet 2267 2270	met
+E138	Contact_Meet:T31
+A31	Realis E138 Actual
+T32	Transaction_Transaction 2584 2589	offer
+E585	Transaction_Transaction:T32
+A32	Realis E585 Other
+T33	Personnel_End-Position 2699 2705	former
+E58	Personnel_End-Position:T33
+A33	Realis E58 Actual
+T34	Contact_Meet 2754 2757	see
+E607	Contact_Meet:T34
+A34	Realis E607 Other
+T35	Movement_Transport-Person 2779 2783	trip
+E448	Movement_Transport-Person:T35
+A35	Realis E448 Actual
+T36	Movement_Transport-Person 505 509	tour
+E618	Movement_Transport-Person:T36
+A36	Realis E618 Generic
+T37	Contact_Contact 1505 1509	said
+E925	Contact_Contact:T37
+A37	Realis E925 Generic
+T38	Contact_Contact 1603 1607	said
+E539	Contact_Contact:T38
+A38	Realis E539 Generic
+T39	Contact_Contact 2460 2463	say
+E47	Contact_Contact:T39
+A39	Realis E47 Generic
+T40	Contact_Contact 2805 2809	said
+E449	Contact_Contact:T40
+A40	Realis E449 Actual
+R1	Coreference Arg1:E725 Arg2:E29
+R2	Coreference Arg1:E29 Arg2:E711
+R3	Coreference Arg1:E711 Arg2:E203
+R4	Coreference Arg1:E203 Arg2:E601
+R5	Coreference Arg1:E715 Arg2:E188
+R6	Coreference Arg1:E574 Arg2:E4
+R7	Coreference Arg1:E4 Arg2:E542
+R8	Coreference Arg1:E521 Arg2:E150
+R9	Coreference Arg1:E925 Arg2:E539

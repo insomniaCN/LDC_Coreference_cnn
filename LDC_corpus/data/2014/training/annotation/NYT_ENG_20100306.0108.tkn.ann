@@ -1,0 +1,160 @@
+T1	Justice_Pardon 250 256	PARDON
+E1	Justice_Pardon:T1 
+A1	Realis E1 Actual
+T2	Justice_Pardon 341 349	pardoned
+E2	Justice_Pardon:T2 
+A2	Realis E2 Actual
+T3	Movement_Transport-Person 483 494	deportation
+E3	Movement_Transport-Person:T3 
+A3	Realis E3 Other
+T4	Movement_Transport-Person 551 561	immigrated
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Justice_Sentence 660 669	sentenced
+E5	Justice_Sentence:T5 
+A5	Realis E5 Actual
+T7	Movement_Transport-Person 956 967	deportation
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Other
+T8	Justice_Pardon 1179 1185	saving
+E8	Justice_Pardon:T8 
+A8	Realis E8 Actual
+T9	Movement_Transport-Person 1337 1348	immigration
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Generic
+T10	Movement_Transport-Person 1491 1498	removal
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Other
+T12	Justice_Arrest-Jail 1623 1631	remained
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 1776 1781	taken
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 2001 2009	muggings
+E14	Conflict_Attack:T14 
+A14	Realis E14 Actual
+T15	Justice_Trial-Hearing 2163 2170;2175 2179	hearing case
+E15	Justice_Trial-Hearing:T15 
+A15	Realis E15 Actual
+T16	Justice_Arrest-Jail 2346 2355	detention
+E16	Justice_Arrest-Jail:T16 
+A16	Realis E16 Actual
+T17	Movement_Transport-Person 2361 2372	deportation
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Other
+T19	Justice_Pardon 2499 2505	pardon
+E19	Justice_Pardon:T19 
+A19	Realis E19 Actual
+T20	Movement_Transport-Person 2559 2568	deporting
+E20	Movement_Transport-Person:T20 
+A20	Realis E20 Other
+T21	Justice_Pardon 2724 2730	pardon
+E21	Justice_Pardon:T21 
+A21	Realis E21 Actual
+T23	Personnel_End-Position 2817 2825	resigned
+E23	Personnel_End-Position:T23 
+A23	Realis E23 Actual
+T24	Personnel_End-Position 2854 2865	resignation
+E24	Personnel_End-Position:T24 
+A24	Realis E24 Other
+T28	Justice_Pardon 3058 3066	pardoned
+E28	Justice_Pardon:T28 
+A28	Realis E28 Actual
+T29	Movement_Transport-Person 3132 3138	remova
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Other
+#1	AnnotatorNotes E29	Tool won't allow me to grab the whole word
+T30	Justice_Trial-Hearing 3141 3152	proceedings
+E30	Justice_Trial-Hearing:T30 
+A30	Realis E30 Actual
+T31	Justice_Release-Parole 3157 3166	releasing
+E31	Justice_Release-Parole:T31 
+A31	Realis E31 Other
+T32	Justice_Sentence 3227 3236	sentenced
+E32	Justice_Sentence:T32 
+A32	Realis E32 Actual
+T33	Contact_Communicate 3333 3338	wrote
+E33	Contact_Communicate:T33 
+A33	Realis E33 Actual
+T34	Personnel_End-Position 3352 3359	retired
+E34	Personnel_End-Position:T34 
+A34	Realis E34 Actual
+T35	Contact_Meet 3403 3411;3422 3431	promises exchanged
+E35	Contact_Meet:T35 
+A35	Realis E35 Actual
+T36	Justice_Sentence 3439 3449	sentencing
+E36	Justice_Sentence:T36 
+A36	Realis E36 Actual
+T37	Justice_Trial-Hearing 3492 3496	case
+E37	Justice_Trial-Hearing:T37 
+A37	Realis E37 Actual
+T38	Contact_Meet 3560 3564	told
+E38	Contact_Meet:T38 
+A38	Realis E38 Actual
+T39	Contact_Meet 3781 3786	added
+E39	Contact_Meet:T39 
+A39	Realis E39 Actual
+T41	Justice_Pardon 3943 3948;3951 3957	grant pardon
+E41	Justice_Pardon:T41 
+A41	Realis E41 Other
+T42	Contact_Communicate 4026 4032	called
+E42	Contact_Communicate:T42 
+A42	Realis E42 Actual
+T43	Justice_Pardon 4121 4129	pardoned
+E43	Justice_Pardon:T43 
+A43	Realis E43 Actual
+T44	Justice_Convict 4146 4156	conviction
+E44	Justice_Convict:T44 
+A44	Realis E44 Actual
+T45	Personnel_Start-Position 4200 4207	joining
+E45	Personnel_Start-Position:T45 
+A45	Realis E45 Other
+T46	Justice_Arrest-Jail 4302 4310	arrested
+E46	Justice_Arrest-Jail:T46 
+A46	Realis E46 Actual
+T47	Personnel_Start-Position 4386 4392	joined
+E47	Personnel_Start-Position:T47 
+A47	Realis E47 Actual
+T48	Justice_Release-Parole 4412 4419	release
+E48	Justice_Release-Parole:T48 
+A48	Realis E48 Actual
+T49	Justice_Arrest-Jail 4425 4431	prison
+E49	Justice_Arrest-Jail:T49 
+A49	Realis E49 Generic
+T50	Justice_Pardon 4504 4510	pardon
+E50	Justice_Pardon:T50 
+A50	Realis E50 Actual
+T51	Movement_Transport-Person 4517 4521	left
+E51	Movement_Transport-Person:T51 
+A51	Realis E51 Actual
+T52	Justice_Convict 4628 4637	convicted
+E52	Justice_Convict:T52 
+A52	Realis E52 Actual
+T53	Life_Die 4659 4665	murder
+E53	Life_Die:T53 
+A53	Realis E53 Other
+T54	Justice_Pardon 4694 4702	pardoned
+E54	Justice_Pardon:T54 
+A54	Realis E54 Actual
+T55	Movement_Transport-Person 4769 4780	deportation
+E55	Movement_Transport-Person:T55 
+A55	Realis E55 Other
+T6	Justice_Release-Parole 931 937	pardon
+E6	Justice_Release-Parole:T6 
+A6	Realis E6 Actual
+T11	Justice_Release-Parole 1321 1325	free
+E11	Justice_Release-Parole:T11 
+A11	Realis E11 Other
+T56	Justice_Arrest-Jail 1349 1353	jail
+E56	Justice_Arrest-Jail:T56 
+A56	Realis E56 Actual
+T57	Movement_Transport-Person 1793 1804	immigration
+E57	Movement_Transport-Person:T57 
+A57	Realis E57 Generic
+T18	Contact_Communicate 3381 3390	reminding
+E18	Contact_Communicate:T18 
+A18	Realis E18 Actual
+T22	Personnel_Start-Position 3673 3676;3679 3682	get job
+E22	Personnel_Start-Position:T22 
+A22	Realis E22 Other

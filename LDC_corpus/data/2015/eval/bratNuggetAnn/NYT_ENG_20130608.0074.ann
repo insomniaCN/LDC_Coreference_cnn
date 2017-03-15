@@ -1,0 +1,57 @@
+T1	Transaction_Transfer-Ownership 996 1002	stolen
+E104	Transaction_Transfer-Ownership:T1
+A1	Realis E104 Actual
+T2	Contact_Meet 2443 2450	meeting
+E180	Contact_Meet:T2
+A2	Realis E180 Other
+T3	Manufacture_Artifact 1217 1222	built
+E204	Manufacture_Artifact:T3
+A3	Realis E204 Actual
+T4	Contact_Meet 2190 2198	meetings
+E284	Contact_Meet:T4
+A4	Realis E284 Generic
+T5	Contact_Meet 569 576	meeting
+E335	Contact_Meet:T5
+A5	Realis E335 Actual
+T6	Movement_Transport-Person 2694 2700	flight
+E418	Movement_Transport-Person:T6
+A6	Realis E418 Actual
+T7	Contact_Meet 214 222	MEETINGS
+E486	Contact_Meet:T7
+A7	Realis E486 Actual
+T8	Movement_Transport-Person 479 486	arrived
+E505	Movement_Transport-Person:T8
+A8	Realis E505 Actual
+T9	Contact_Meet 1877 1881	told
+E526	Contact_Meet:T9
+A9	Realis E526 Actual
+T10	Contact_Meet 2054 2062	meetings
+E597	Contact_Meet:T10
+A10	Realis E597 Generic
+T11	Contact_Meet 2110 2114	told
+E663	Contact_Meet:T11
+A11	Realis E663 Actual
+T12	Contact_Broadcast 779 783	said
+E671	Contact_Broadcast:T12
+A12	Realis E671 Actual
+T13	Movement_Transport-Person 1840 1847	visited
+E675	Movement_Transport-Person:T13
+A13	Realis E675 Actual
+T14	Contact_Broadcast 1371 1381	statements
+E712	Contact_Broadcast:T14
+A14	Realis E712 Generic
+T15	Personnel_Start-Position 2088 2099	took office
+E771	Personnel_Start-Position:T15
+A15	Realis E771 Actual
+T16	Personnel_End-Position 2123 2132	departing
+E780	Personnel_End-Position:T16
+A16	Realis E780 Other
+T17	Contact_Meet 2583 2586	met
+E838	Contact_Meet:T17
+A17	Realis E838 Other
+T18	Contact_Contact 1931 1943	negotiations
+E871	Contact_Contact:T18
+A18	Realis E871 Other
+T19	Movement_Transport-Person 1132 1141	retreated
+E887	Movement_Transport-Person:T19
+A19	Realis E887 Actual

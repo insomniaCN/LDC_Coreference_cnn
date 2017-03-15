@@ -1,0 +1,75 @@
+T1	Justice_Acquit 192 201	acquitted
+E1	Justice_Acquit:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 217 224	warfare
+E2	Conflict_Attack:T2 
+A2	Realis E2 Generic
+T3	Justice_Charge-Indict 433 440	accused
+E3	Justice_Charge-Indict:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 409 416	warfare
+E4	Conflict_Attack:T4 
+A4	Realis E4 Generic
+T5	Conflict_Attack 456 462	poison
+E5	Conflict_Attack:T5 
+A5	Realis E5 Other
+T6	Justice_Acquit 499 508	acquitted
+E6	Justice_Acquit:T6 
+A6	Realis E6 Actual
+T7	Justice_Charge-Indict 614 621	accused
+E7	Justice_Charge-Indict:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 708 718	destroying
+E8	Conflict_Attack:T8 
+A8	Realis E8 Other
+T9	Justice_Appeal 836 843	appeals
+E9	Justice_Appeal:T9 
+A9	Realis E9 Generic
+T10	Justice_Trial-Hearing 897 902	tried
+E10	Justice_Trial-Hearing:T10 
+A10	Realis E10 Other
+T11	Justice_Acquit 917 926	acquittal
+E11	Justice_Acquit:T11 
+A11	Realis E11 Actual
+T13	Justice_Trial-Hearing 373 378	retry
+E13	Justice_Trial-Hearing:T13 
+A14	Realis E13 Other
+T14	Justice_Appeal 998 1004	appeal
+E14	Justice_Appeal:T14 
+A15	Realis E14 Actual
+T15	Justice_Trial-Hearing 1088 1093	trial
+E15	Justice_Trial-Hearing:T15 
+A16	Realis E15 Actual
+T16	Justice_Appeal 1178 1184	appeal
+E16	Justice_Appeal:T16 
+A17	Realis E16 Generic
+T17	Justice_Trial-Hearing 1343 1348	trial
+E17	Justice_Trial-Hearing:T17 
+A18	Realis E17 Actual
+T18	Conflict_Attack 1492 1500	poisoned
+E18	Conflict_Attack:T18 
+A19	Realis E18 Actual
+T19	Justice_Charge-Indict 1753 1760	accused
+E19	Justice_Charge-Indict:T19 
+A20	Realis E19 Actual
+T20	Transaction_Transfer-Money 1764 1773	siphoning
+E20	Transaction_Transfer-Money:T20 
+A21	Realis E20 Other
+T21	Transaction_Transfer-Money 1817 1824	finance
+E21	Transaction_Transfer-Money:T21 
+A22	Realis E21 Other
+T22	Transaction_Transfer-Ownership 1871 1878	selling
+E22	Transaction_Transfer-Ownership:T22 
+A23	Realis E22 Other
+T12	Justice_Charge-Indict 529 536	charges
+E12	Justice_Charge-Indict:T12 
+A12	Realis E12 Actual
+T24	Justice_Trial-Hearing 740 746	ruling
+E24	Justice_Trial-Hearing:T24 
+A13	Realis E24 Other
+T25	Justice_Trial-Hearing 331 336	ruled
+E25	Justice_Trial-Hearing:T25 
+A25	Realis E25 Other
+T23	Personnel_End-Position 1605 1611	former
+E23	Personnel_End-Position:T23 
+A24	Realis E23 Actual

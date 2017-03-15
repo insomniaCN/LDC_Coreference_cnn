@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000599" doc_id="bolt-eng-DF-199-192823-6760150" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="193" length="5">drove</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="contact" subtype="contact" realis="actual" audience="canttell" formality="informal" medium="inperson" schedule="planned">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="246" length="10">confronted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="374" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-53" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="477" length="4">flew</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-68" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="558" length="7">charged</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-96">
+      <event_mention id="em-83" type="transaction" subtype="transferownership" realis="actual" ways="involuntaryforce">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="589" length="8">burglary</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-111">
+      <event_mention id="em-98" type="movement" subtype="transportperson" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="795" length="4">trip</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-126">
+      <event_mention id="em-113" type="justice" subtype="releaseparole" realis="actual">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="998" length="6">arrest</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-141">
+      <event_mention id="em-201" type="movement" subtype="transportperson" realis="generic">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="1226" length="8">deported</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-156">
+      <event_mention id="em-143" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="2516" length="5">spoke</trigger>
+      </event_mention>
+      <event_mention id="em-158" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="2552" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-184">
+      <event_mention id="em-171" type="contact" subtype="meet" realis="actual" audience="twoway" formality="informal" medium="inperson" schedule="spontaneous">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="856" length="4">told</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-186">
+      <event_mention id="em-188" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="1032" length="9">recovered</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-214">
+      <event_mention id="em-128" type="justice" subtype="extradite" realis="generic">
+        <trigger source="bolt-eng-DF-199-192823-6760150" offset="1226" length="8">deported</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

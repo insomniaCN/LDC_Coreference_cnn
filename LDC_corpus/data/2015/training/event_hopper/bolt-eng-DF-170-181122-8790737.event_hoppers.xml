@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000578" doc_id="bolt-eng-DF-170-181122-8790737" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="481" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-38" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="552" length="4">lose</trigger>
+      </event_mention>
+      <event_mention id="em-51" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="584" length="12">assasination</trigger>
+      </event_mention>
+      <event_mention id="em-152" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="2776" length="13">Assassination</trigger>
+      </event_mention>
+      <event_mention id="em-165" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="2638" length="13">Assassination</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="life" subtype="die" realis="other">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="516" length="4">lost</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-77">
+      <event_mention id="em-64" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="1481" length="4">died</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="1525" length="5">death</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-105">
+      <event_mention id="em-92" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="1654" length="3">die</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-120">
+      <event_mention id="em-107" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="1815" length="11">passed away</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-135">
+      <event_mention id="em-122" type="life" subtype="beborn" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="1864" length="4">Born</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-150">
+      <event_mention id="em-137" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="2048" length="7">awarded</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-191">
+      <event_mention id="em-178" type="life" subtype="die" realis="actual">
+        <trigger source="bolt-eng-DF-170-181122-8790737" offset="3486" length="7">passing</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

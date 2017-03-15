@@ -1,0 +1,34 @@
+<DOC id="NYT_ENG_20130727.0049" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130727/20130727,33642f89a2f82851d374092deaf063da.xml">
+<HEADLINE>
+SOLDIERS' MASS EXECUTION REPORTED BY SYRIAN GROUP
+</HEADLINE>
+<TEXT>
+<P>
+This article is part of TIMES EXPRESS. It is a condensed version of a story that will appear in tomorrow’s New York Times.);
+</P>
+<P>
+BEIRUT - Islamist extremists in Syria’s insurgency killed 150 soldiers in a battle for control of an Aleppo suburb this week, including 51 who were executed after they had surrendered, according to a Syrian monitoring group that has been chronicling casualties and evidence of atrocities.
+</P>
+<P>
+The group, the Britain-based Syrian Observatory for Human Rights, which sympathizes with the opposition and reports daily tallies of combat and violence from a network of contacts on the ground in Syria, corroborated its assertion Friday with a video posted on the Internet.
+</P>
+<P>
+The video, dated Wednesday, showed what appeared to be an execution ground, with dozens of lifeless bodies clumped against a wall pockmarked with bullet holes. The video’s authenticity could not be independently confirmed, but Rami Abdulrahman, the Syrian Observatory founder, quoted witnesses as saying 51 soldiers taken prisoner were later shot. Among the total who had surrendered, he said, “very few were taken hostage.”
+</P>
+<P>
+Abdulrahman said the killers were members of the Nusra Front and Ansar al-Khalafa al-Islamiya Brigade, among the many jihadist groups, some affiliated with al-Qaida and populated with foreign fighters, that have entered Syria to join the insurgency battling the forces of President Bashar Assad in the conflict, now in its third year.
+</P>
+<P>
+If his assertions are confirmed, the killings would rank among the worst mass executions carried out by the rebel side and could aggravate the image problems for the coalition of insurgent forces, which are riven by internal conflict and have been losing territory to Assad’s side in recent weeks.
+</P>
+<P>
+At the United Nations on Friday, a delegation of Syrian opposition leaders met informally with Security Council members for the first time, to press their contention that Assad has no interest in negotiating a peace deal as long as he believes he is winning on the battlefield. Delegation members told reporters they had asked Russia, the Syrian government’s most powerful foreign backer, to stop supplying weapons to Assad.
+</P>
+<P>
+The delegation, led by the coalition’s newly elected president, Ahmed al-Jarba, met the day before with Secretary of State John Kerry during his visit to the United Nations and beseeched him to expedite U.S. military aid to opposition fighters.
+</P>
+<P>
+Al-Jarba has publicly rejected any alliance with the jihadists who have joined the insurgency and has repeatedly stressed what he has called the coalition’s commitment to a pluralistic democracy in Syria should the opposition prevail.
+</P>
+</TEXT>
+</DOC>

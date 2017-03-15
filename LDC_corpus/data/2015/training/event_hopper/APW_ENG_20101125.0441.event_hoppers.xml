@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="557748760000000000000562" doc_id="APW_ENG_20101125.0441" source_type="newswire">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-10" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20101125.0441" offset="58" length="9">Convicted</trigger>
+      </event_mention>
+      <event_mention id="em-53" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20101125.0441" offset="194" length="9">convicted</trigger>
+      </event_mention>
+      <event_mention id="em-92" type="justice" subtype="convict" realis="actual">
+        <trigger source="APW_ENG_20101125.0441" offset="344" length="9">convicted</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-23" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="68" length="4">bomb</trigger>
+      </event_mention>
+      <event_mention id="em-66" type="conflict" subtype="attack" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="229" length="4">blow</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-38" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="87" length="7">release</trigger>
+      </event_mention>
+      <event_mention id="em-79" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="296" length="7">release</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-118">
+      <event_mention id="em-105" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="430" length="9">traveling</trigger>
+      </event_mention>
+      <event_mention id="em-120" type="movement" subtype="transportperson" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="528" length="8">departed</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-146">
+      <event_mention id="em-133" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20101125.0441" offset="559" length="9">sentenced</trigger>
+      </event_mention>
+      <event_mention id="em-148" type="justice" subtype="sentence" realis="actual">
+        <trigger source="APW_ENG_20101125.0441" offset="619" length="8">sentence</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-174">
+      <event_mention id="em-161" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="681" length="6">parole</trigger>
+      </event_mention>
+      <event_mention id="em-176" type="justice" subtype="releaseparole" realis="other">
+        <trigger source="APW_ENG_20101125.0441" offset="791" length="8">released</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-202">
+      <event_mention id="em-189" type="justice" subtype="trialhearing" realis="actual">
+        <trigger source="APW_ENG_20101125.0441" offset="814" length="7">hearing</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

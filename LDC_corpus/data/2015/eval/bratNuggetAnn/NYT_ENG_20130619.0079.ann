@@ -1,0 +1,93 @@
+T5	Transaction_Transfer-Money 3011 3014	pay
+E15	Transaction_Transfer-Money:T5
+A5	Realis E15 Other
+T2	Transaction_Transfer-Money 1158 1169	restitution
+E25	Transaction_Transfer-Money:T2
+A2	Realis E25 Other
+T3	Contact_Broadcast 2069 2082	solicitations
+E83	Contact_Broadcast:T3
+A3	Realis E83 Actual
+T4	Contact_Broadcast 1723 1732	statement
+E102	Contact_Broadcast:T4
+A4	Realis E102 Actual
+T5	Transaction_Transfer-Money 3011 3014	pay
+E208	Transaction_Transfer-Money:T5
+A5	Realis E208 Other
+T6	Transaction_Transfer-Money 2734 2742	payments
+E307	Transaction_Transfer-Money:T6
+A6	Realis E307 Other
+T7	Transaction_Transfer-Ownership 368 372	sell
+E336	Transaction_Transfer-Ownership:T7
+A7	Realis E336 Actual
+T8	Transaction_Transfer-Ownership 2450 2456	bought
+E357	Transaction_Transfer-Ownership:T8
+A8	Realis E357 Actual
+T9	Transaction_Transfer-Money 2670 2674	paid
+E374	Transaction_Transfer-Money:T9
+A9	Realis E374 Generic
+T10	Transaction_Transfer-Money 2931 2942	restitution
+E420	Transaction_Transfer-Money:T10
+A10	Realis E420 Other
+T11	Contact_Broadcast 1321 1330	statement
+E463	Contact_Broadcast:T11
+A11	Realis E463 Actual
+T12	Transaction_Transfer-Money 1117 1123	relief
+E486	Transaction_Transfer-Money:T12
+A12	Realis E486 Other
+T13	Transaction_Transfer-Money 3392 3398	grants
+E506	Transaction_Transfer-Money:T13
+A13	Realis E506 Actual
+T14	Transaction_Transfer-Money 2450 2456	bought
+E546	Transaction_Transfer-Money:T14
+A14	Realis E546 Actual
+T15	Contact_Contact 522 526	said
+E561	Contact_Contact:T15
+A15	Realis E561 Actual
+T16	Transaction_Transfer-Money 1659 1662	pay
+E566	Transaction_Transfer-Money:T16
+A16	Realis E566 Other
+T17	Transaction_Transfer-Money 2626 2632	refund
+E584	Transaction_Transfer-Money:T17
+A17	Realis E584 Other
+T18	Justice_Fine 1665 1669	fine
+E623	Justice_Fine:T18
+A18	Realis E623 Actual
+T19	Transaction_Transfer-Money 762 773	restitution
+E627	Transaction_Transfer-Money:T19
+A19	Realis E627 Other
+T20	Contact_Broadcast 1032 1041	statement
+E683	Contact_Broadcast:T20
+A20	Realis E683 Actual
+T21	Transaction_Transfer-Ownership 2589 2598	purchased
+E771	Transaction_Transfer-Ownership:T21
+A21	Realis E771 Actual
+T22	Conflict_Attack 2028 2031	War
+E774	Conflict_Attack:T22
+A22	Realis E774 Actual
+T23	Transaction_Transfer-Money 2589 2598	purchased
+E775	Transaction_Transfer-Money:T23
+A23	Realis E775 Actual
+T24	Transaction_Transfer-Money 791 800	penalties
+E792	Transaction_Transfer-Money:T24
+A24	Realis E792 Actual
+T25	Transaction_Transfer-Money 2901 2904	pay
+E795	Transaction_Transfer-Money:T25
+A25	Realis E795 Other
+T26	Contact_Broadcast 2051 2055	mail
+E800	Contact_Broadcast:T26
+A26	Realis E800 Generic
+T27	Transaction_Transfer-Money 368 372	sell
+E827	Transaction_Transfer-Money:T27
+A27	Realis E827 Actual
+T28	Transaction_Transfer-Money 3210 3213	pay
+E858	Transaction_Transfer-Money:T28
+A28	Realis E858 Other
+T29	Transaction_Transfer-Money 454 457	pay
+E893	Transaction_Transfer-Money:T29
+A29	Realis E893 Other
+T30	Transaction_Transfer-Money 1450 1456	return
+E940	Transaction_Transfer-Money:T30
+A30	Realis E940 Other
+T31	Transaction_Transfer-Money 3067 3071	fund
+E984	Transaction_Transfer-Money:T31
+A31	Realis E984 Other

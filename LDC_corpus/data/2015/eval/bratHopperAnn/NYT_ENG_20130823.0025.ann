@@ -1,0 +1,73 @@
+T1	Personnel_End-Position 188 195	RESIGNS
+E448	Personnel_End-Position:T1
+A1	Realis E448 Actual
+T2	Personnel_End-Position 411 419	resigned
+E573	Personnel_End-Position:T2
+A2	Realis E573 Actual
+T3	Personnel_End-Position 970 981	resignation
+E33	Personnel_End-Position:T3
+A3	Realis E33 Actual
+T4	Personnel_End-Position 992 1001	step down
+E883	Personnel_End-Position:T4
+A4	Realis E883 Other
+T5	Personnel_End-Position 1625 1636	resignation
+E802	Personnel_End-Position:T5
+A5	Realis E802 Actual
+T6	Personnel_End-Position 2427 2438	resignation
+E378	Personnel_End-Position:T6
+A6	Realis E378 Other
+T7	Personnel_End-Position 664 672	went out
+E702	Personnel_End-Position:T7
+A7	Realis E702 Actual
+T8	Contact_Broadcast 812 824	announcement
+E653	Contact_Broadcast:T8
+A8	Realis E653 Actual
+T9	Contact_Broadcast 692 696	said
+E54	Contact_Broadcast:T9
+A9	Realis E54 Actual
+T10	Contact_Broadcast 1101 1109	comments
+E720	Contact_Broadcast:T10
+A10	Realis E720 Actual
+T11	Contact_Meet 850 857	meeting
+E129	Contact_Meet:T11
+A11	Realis E129 Actual
+T12	Contact_Broadcast 1286 1291	voice
+E140	Contact_Broadcast:T12
+A12	Realis E140 Actual
+T13	Transaction_Transfer-Money 1455 1459	give
+E614	Transaction_Transfer-Money:T13
+A13	Realis E614 Other
+T14	Transaction_Transfer-Money 1487 1491	fees
+E66	Transaction_Transfer-Money:T14
+A14	Realis E66 Other
+T15	Personnel_End-Position 1897 1904	retired
+E238	Personnel_End-Position:T15
+A15	Realis E238 Actual
+T16	Personnel_End-Position 1971 1977	former
+E937	Personnel_End-Position:T16
+A16	Realis E937 Actual
+T17	Justice_Sue 2058 2065	lawsuit
+E484	Justice_Sue:T17
+A17	Realis E484 Actual
+T18	Justice_Sue 2345 2352	lawsuit
+E78	Justice_Sue:T18
+A18	Realis E78 Actual
+T19	Personnel_Elect 2540 2548	election
+E843	Personnel_Elect:T19
+A19	Realis E843 Other
+T20	Personnel_Elect 2863 2871	election
+E559	Personnel_Elect:T20
+A20	Realis E559 Other
+T21	Personnel_Start-Position 2825 2830	serve
+E393	Personnel_Start-Position:T21
+A21	Realis E393 Other
+R1	Coreference Arg1:E448 Arg2:E573
+R2	Coreference Arg1:E573 Arg2:E702
+R3	Coreference Arg1:E702 Arg2:E33
+R4	Coreference Arg1:E33 Arg2:E883
+R5	Coreference Arg1:E883 Arg2:E802
+R6	Coreference Arg1:E802 Arg2:E378
+R7	Coreference Arg1:E54 Arg2:E653
+R8	Coreference Arg1:E653 Arg2:E720
+R9	Coreference Arg1:E484 Arg2:E78
+R10	Coreference Arg1:E843 Arg2:E559

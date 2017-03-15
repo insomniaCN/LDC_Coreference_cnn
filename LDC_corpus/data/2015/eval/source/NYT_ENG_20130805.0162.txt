@@ -1,0 +1,31 @@
+<DOC id="NYT_ENG_20130805.0162" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130805/20130805,eb9e0b142b9602b795ce39de87fc0266.xml">
+<HEADLINE>
+BERLUSCONI SAYS PARTY TO BACK ITALY'S COALITION
+</HEADLINE>
+<TEXT>
+<P>
+ROME - A visibly shaken Silvio Berlusconi, the former Italian prime minister, said Sunday that his center-right party would continue to support Italy’s fragile coalition government, releasing some of the political tension that has built in the country since a court upheld his conviction for tax fraud last week.
+</P>
+<P>
+“We have said clearly and directly that the government must forge ahead and approve the economic measures that we have requested and were agreed,” Berlusconi said in his first public appearance since the conviction, speaking at a rally his party had organized in front of his residence here.
+</P>
+<P>
+Italy’s prime minister, Enrico Letta, watched the rally on television and took note of Berlusconi’s intentions. But he made clear that he expected concrete action, like support for a package of economic measures that are scheduled to be voted on in Parliament next week, a member of Letta’s staff said.
+</P>
+<P>
+“I can promise you,” Berlusconi told his supporters, almost in tears. “Here I am. I am staying here. I won’t surrender.”
+</P>
+<P>
+An estimated 2,000 people attended the rally to express anger and bewilderment at the ruling. “This party carries 10 million votes,” Raffaele Fitto, a former government minister from Berlusconi’s People of Liberty party, told the television network La7 from the rally. “It cannot be canceled with a pen stroke.”
+</P>
+<P>
+Last week, Italy’s highest court upheld a four-year prison sentence for Berlusconi, which had been effectively reduced to one year, for tax fraud. He was found guilty of a plot in which his Mediaset broadcasting company bought the rights to show U.S. movies on their networks and inflated the prices, using offshore companies to evade taxes.
+</P>
+<P>
+After the ruling, lawmakers from the People of Liberty party offered to resign and have been demanding that President Giorgio Napolitano pardon Berlusconi, but experts say that is highly unlikely.
+</P>
+<P>
+By Oct. 15, Berlusconi must decide whether he prefers to serve his time in jail, under house arrest or do community service.
+</P>
+</TEXT>
+</DOC>

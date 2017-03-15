@@ -1,0 +1,77 @@
+T1	Contact_Communicate 286 294;298 306	received e - mail
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Transaction_Transfer-Ownership 386 390	sold
+E2	Transaction_Transfer-Ownership:T2 
+A2	Realis E2 Actual
+T3	Transaction_Transfer-Ownership 423 429	return
+E3	Transaction_Transfer-Ownership:T3 
+A3	Realis E3 Actual
+T4	Transaction_Transfer-Money 646 655	take back
+E4	Transaction_Transfer-Money:T4 
+A4	Realis E4 Other
+T6	Business_Declare-Bankruptcy 1126 1134	bankrupt
+E6	Business_Declare-Bankruptcy:T6 
+A6	Realis E6 Actual
+T7	Personnel_End-Position 1864 1875	Getting rid
+E7	Personnel_End-Position:T7 
+A7	Realis E7 Generic
+T8	Personnel_End-Position 1939 1946	removed
+E8	Personnel_End-Position:T8 
+A8	Realis E8 Actual
+T9	Transaction_Transfer-Money 2477 2480	pay
+E9	Transaction_Transfer-Money:T9 
+A9	Realis E9 Other
+T10	Movement_Transport-Person 2617 2628	driving off
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Actual
+T11	Life_Die 3457 3461	died
+E11	Life_Die:T11 
+A11	Realis E11 Actual
+T12	Business_Declare-Bankruptcy 3483 3491	bankrupt
+E12	Business_Declare-Bankruptcy:T12 
+A12	Realis E12 Actual
+T13	Business_Merge-Org 3513 3519	merged
+E13	Business_Merge-Org:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Ownership 4295 4301	bought
+E14	Transaction_Transfer-Ownership:T14 
+A14	Realis E14 Actual
+T15	Transaction_Transfer-Ownership 4965 4971	bought
+E15	Transaction_Transfer-Ownership:T15 
+T16	Business_End-Org 4558 4565	closing
+E16	Business_End-Org:T16 
+A15	Realis E16 Actual
+T17	Business_End-Org 3888 3895	closing
+E17	Business_End-Org:T17 
+A16	Realis E17 Actual
+T18	Transaction_Transfer-Ownership 3046 3055	picked up
+E18	Transaction_Transfer-Ownership:T18 
+A17	Realis E18 Other
+T19	Transaction_Transfer-Ownership 368 374	return
+E19	Transaction_Transfer-Ownership:T19 
+A18	Realis E19 Actual
+T20	Contact_Communicate 328 338	requesting
+E20	Contact_Communicate:T20 
+A19	Realis E20 Actual
+T5	Transaction_Transfer-Money 804 811	costing
+E5	Transaction_Transfer-Money:T5 
+A5	Realis E5 Actual
+T21	Transaction_Transfer-Money 1536 1540;1547 1552	make bucks
+E21	Transaction_Transfer-Money:T21 
+A20	Realis E21 Generic
+T22	Transaction_Transfer-Ownership 2498 2509	redelivered
+E22	Transaction_Transfer-Ownership:T22 
+A21	Realis E22 Other
+T23	Movement_Transport-Person 2543 2548	going
+E23	Movement_Transport-Person:T23 
+A22	Realis E23 Other
+T24	Transaction_Transfer-Ownership 4262 4268	stolen
+E24	Transaction_Transfer-Ownership:T24 
+A23	Realis E24 Other
+T25	Transaction_Transfer-Ownership 4932 4938	stolen
+E25	Transaction_Transfer-Ownership:T25 
+A24	Realis E25 Other
+T26	Movement_Transport-Person 5292 5297	drive
+E26	Movement_Transport-Person:T26 
+A25	Realis E26 Other

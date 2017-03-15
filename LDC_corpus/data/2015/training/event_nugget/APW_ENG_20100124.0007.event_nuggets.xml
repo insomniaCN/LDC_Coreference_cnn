@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="558976450000000000000041" doc_id="APW_ENG_20100124.0007" source_type="newswire">
+<event_mention id="em-44" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="377" length="5">calls</trigger>
+      </event_mention>
+<event_mention id="em-57" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="207" length="6">phoned</trigger>
+      </event_mention>
+<event_mention id="em-70" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="635" length="5">calls</trigger>
+      </event_mention>
+<event_mention id="em-96" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="530" length="4">told</trigger>
+      </event_mention>
+<event_mention id="em-109" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100124.0007" offset="609" length="7">discuss</trigger>
+      </event_mention>
+<event_mention id="em-122" type="personnel" subtype="endposition" realis="actual">
+        <trigger source="APW_ENG_20100124.0007" offset="892" length="6">former</trigger>
+      </event_mention>
+<event_mention id="em-135" type="personnel" subtype="elect" realis="actual">
+        <trigger source="APW_ENG_20100124.0007" offset="1598" length="3">won</trigger>
+      </event_mention>
+<event_mention id="em-148" type="personnel" subtype="elect" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="1713" length="11">re-election</trigger>
+      </event_mention>
+<event_mention id="em-161" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="1764" length="11">discussions</trigger>
+      </event_mention>
+<event_mention id="em-174" type="personnel" subtype="nominate" realis="actual">
+        <trigger source="APW_ENG_20100124.0007" offset="2066" length="10">nomination</trigger>
+      </event_mention>
+<event_mention id="em-187" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="APW_ENG_20100124.0007" offset="2650" length="8">bailouts</trigger>
+      </event_mention>
+<event_mention id="em-200" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100124.0007" offset="2822" length="6">phoned</trigger>
+      </event_mention>
+<event_mention id="em-213" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100124.0007" offset="2912" length="5">calls</trigger>
+      </event_mention>
+<event_mention id="em-226" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100124.0007" offset="968" length="9">statement</trigger>
+      </event_mention>
+<event_mention id="em-239" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="1260" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-252" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+        <trigger source="APW_ENG_20100124.0007" offset="2942" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-265" type="personnel" subtype="endposition" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="1399" length="7">expires</trigger>
+      </event_mention>
+<event_mention id="em-278" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="1460" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-291" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+        <trigger source="APW_ENG_20100124.0007" offset="1740" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-304" type="transaction" subtype="transferownership" realis="generic" ways="voluntary">
+        <trigger source="APW_ENG_20100124.0007" offset="2748" length="12">foreclosures</trigger>
+      </event_mention>
+<event_mention id="em-317" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="90" length="3">win</trigger>
+      </event_mention>
+<event_mention id="em-330" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="328" length="9">confirmed</trigger>
+      </event_mention>
+<event_mention id="em-343" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="486" length="12">confirmation</trigger>
+      </event_mention>
+<event_mention id="em-356" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="699" length="12">confirmation</trigger>
+      </event_mention>
+<event_mention id="em-369" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+        <trigger source="APW_ENG_20100124.0007" offset="744" length="4">said</trigger>
+      </event_mention>
+<event_mention id="em-384" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="1843" length="12">confirmation</trigger>
+      </event_mention>
+<event_mention id="em-397" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="2251" length="12">confirmation</trigger>
+      </event_mention>
+<event_mention id="em-410" type="personnel" subtype="nominate" realis="other">
+        <trigger source="APW_ENG_20100124.0007" offset="2479" length="12">confirmation</trigger>
+      </event_mention>
+</deft_ere_event_nuggets_only>

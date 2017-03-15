@@ -1,0 +1,60 @@
+T2	Justice_Convict 996 1005	convicted
+E2	Justice_Convict:T2 
+A2	Realis E2 Generic
+T3	Justice_Convict 1055 1066	convictions
+E3	Justice_Convict:T3 
+A3	Realis E3 Generic
+T4	Justice_Charge-Indict 1107 1114	charged
+E4	Justice_Charge-Indict:T4 
+A4	Realis E4 Generic
+T5	Justice_Convict 1166 1175	convicted
+E5	Justice_Convict:T5 
+A5	Realis E5 Generic
+T6	Justice_Sentence 1200 1208	sentence
+E6	Justice_Sentence:T6 
+A6	Realis E6 Generic
+T7	Justice_Arrest-Jail 1216 1225	in prison
+E7	Justice_Arrest-Jail:T7 
+A7	Realis E7 Generic
+T8	Justice_Release-Parole 1249 1256	paroled
+E8	Justice_Release-Parole:T8 
+A8	Realis E8 Generic
+T9	Justice_Pardon 1342 1348	pardon
+E9	Justice_Pardon:T9 
+A9	Realis E9 Generic
+T11	Transaction_Transfer-Money 2341 2344	buy
+E11	Transaction_Transfer-Money:T11 
+A11	Realis E11 Generic
+T12	Transaction_Transfer-Money 2426 2429	buy
+E12	Transaction_Transfer-Money:T12 
+A12	Realis E12 Generic
+T13	Transaction_Transfer-Money 2694 2704	bought off
+E13	Transaction_Transfer-Money:T13 
+A13	Realis E13 Other
+T14	Life_Die 3091 3097	murder
+E14	Life_Die:T14 
+A14	Realis E14 Actual
+T17	Justice_Charge-Indict 4139 4145	charge
+E17	Justice_Charge-Indict:T17 
+A17	Realis E17 Generic
+T18	Justice_Sue 4200 4203	sue
+E18	Justice_Sue:T18 
+A18	Realis E18 Other
+T19	Transaction_Transfer-Money 4520 4530	resitution
+E19	Transaction_Transfer-Money:T19 
+A19	Realis E19 Other
+T20	Life_Injure 4577 4584	injured
+E20	Life_Injure:T20 
+A20	Realis E20 Generic
+T21	Transaction_Transfer-Money 4656 4660	paid
+E21	Transaction_Transfer-Money:T21 
+A21	Realis E21 Actual
+T22	Justice_Charge-Indict 4730 4737	charges
+E22	Justice_Charge-Indict:T22 
+A22	Realis E22 Actual
+T23	Transaction_Transfer-Money 4758 4762	paid
+E23	Transaction_Transfer-Money:T23 
+A23	Realis E23 Actual
+T24	Personnel_Elect 4791 4802	re-election
+E24	Personnel_Elect:T24 
+A24	Realis E24 Other

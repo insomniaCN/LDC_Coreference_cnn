@@ -1,0 +1,78 @@
+T1	Conflict_Attack 73 78	SHOOT
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Life_Die 82 87	DEATH
+E2	Life_Die:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 202 206	shot
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Life_Die 211 217	killed
+E4	Life_Die:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 247 255	burglary
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Conflict_Attack 356 364	shooting
+E6	Conflict_Attack:T6 
+A6	Realis E6 Actual
+T7	Life_Die 365 371	deaths
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Life_Die 491 499	killings
+E8	Life_Die:T8 
+A8	Realis E8 Actual
+T10	Life_Die 585 591	killed
+E10	Life_Die:T10 
+A10	Realis E10 Actual
+T11	Transaction_Transfer-Ownership 599 607	burglary
+E11	Transaction_Transfer-Ownership:T11 
+A11	Realis E11 Actual
+T12	Justice_Arrest-Jail 667 673;686 695	served in prison
+E12	Justice_Arrest-Jail:T12 
+A12	Realis E12 Actual
+T14	Justice_Release-Parole 705 712	paroled
+E14	Justice_Release-Parole:T14 
+A14	Realis E14 Actual
+T15	Life_Die 791 799	killings
+E15	Life_Die:T15 
+A15	Realis E15 Actual
+T18	Movement_Transport-Person 951 959	traveled
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Actual
+T20	Life_Die 1071 1079	killings
+E20	Life_Die:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 1105 1113	shooting
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 1281 1285	shot
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 1374 1378	shot
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Life_Die 1555 1563	killings
+E24	Life_Die:T24 
+A24	Realis E24 Actual
+T27	Conflict_Attack 1635 1644	shootings
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T29	Movement_Transport-Person 1922 1932	backing up
+E29	Movement_Transport-Person:T29 
+A29	Realis E29 Actual
+T30	Movement_Transport-Person 1966 1973	arrived
+E30	Movement_Transport-Person:T30 
+A30	Realis E30 Actual
+T32	Conflict_Attack 2002 2013	opened fire
+E32	Conflict_Attack:T32 
+A32	Realis E32 Actual
+T33	Life_Die 2022 2028	killed
+E33	Life_Die:T33 
+A33	Realis E33 Actual
+T34	Conflict_Attack 2048 2053	fired
+E34	Conflict_Attack:T34 
+A34	Realis E34 Actual
+T35	Justice_Convict 2090 2099	convicted
+E35	Justice_Convict:T35 
+A35	Realis E35 Actual

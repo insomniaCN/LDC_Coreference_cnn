@@ -1,0 +1,45 @@
+T1	Conflict_Attack 646 654	conflict
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 908 915	advised
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 1095 1098	war
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Contact_Communicate 1516 1528	Negotiations
+E4	Contact_Communicate:T4 
+A4	Realis E4 Other
+T5	Contact_Communicate 1734 1741	meeting
+E5	Contact_Communicate:T5 
+A5	Realis E5 Other
+T6	Contact_Communicate 1953 1960;1963 1977	placing telephone call
+E6	Contact_Communicate:T6 
+A6	Realis E6 Actual
+T7	Contact_Communicate 2052 2058	spoken
+E7	Contact_Communicate:T7 
+A7	Realis E7 Other
+T8	Conflict_Attack 2112 2115	war
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Conflict_Attack 2525 2532	antiwar
+E9	Conflict_Attack:T9 
+A9	Realis E9 Other
+T10	Conflict_Attack 2717 2720	war
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Contact_Communicate 3075 3080	spoke
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T12	Conflict_Attack 3300 3303	war
+E12	Conflict_Attack:T12 
+A12	Realis E12 Actual
+T13	Conflict_Attack 3713 3716	war
+E13	Conflict_Attack:T13 
+A13	Realis E13 Actual
+T14	Transaction_Transfer-Money 3936 3944	revenues
+E14	Transaction_Transfer-Money:T14 
+A14	Realis E14 Generic
+T15	Transaction_Transfer-Money 3978 3986	revenues
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Generic

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets kit_id="55c8eab60000000000000195" doc_id="98c9b1c903b37983538ff5b208aeda77" source_type="multi_post">
+  <hoppers>
+    <hopper id="h-8">
+      <event_mention id="em-26" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="164" length="6">Bribes</trigger>
+      </event_mention>
+      <event_mention id="em-87" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="574" length="8">accepted</trigger>
+      </event_mention>
+      <event_mention id="em-445" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="726" length="8">accepted</trigger>
+      </event_mention>
+      <event_mention id="em-416" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="610" length="6">bribes</trigger>
+      </event_mention>
+      <event_mention id="em-950" type="transaction" subtype="transfermoney" realis="actual" ways="voluntary">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="740" length="8">payments</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-36">
+      <event_mention id="em-390" type="business" subtype="startorg" realis="other">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="197" length="4">Open</trigger>
+      </event_mention>
+      <event_mention id="em-15" type="business" subtype="startorg" realis="other">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="780" length="7">opening</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-51">
+      <event_mention id="em-735" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="272" length="8">arrested</trigger>
+      </event_mention>
+      <event_mention id="em-404" type="justice" subtype="arrestjail" realis="actual">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="853" length="8">arrested</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-66">
+      <event_mention id="em-254" type="justice" subtype="chargeindict" realis="actual">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="423" length="7">charges</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-81">
+      <event_mention id="em-278" type="transaction" subtype="transfermoney" realis="generic" ways="voluntary">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="415" length="7">bribery</trigger>
+      </event_mention>
+    </hopper>
+    <hopper id="h-122">
+      <event_mention id="em-653" type="contact" subtype="contact" realis="actual" audience="twoway" formality="canttell" medium="canttell" schedule="canttell">
+        <trigger source="98c9b1c903b37983538ff5b208aeda77" offset="712" length="9">requested</trigger>
+      </event_mention>
+    </hopper>
+  </hoppers>
+</deft_ere_event_nuggets>

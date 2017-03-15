@@ -1,0 +1,54 @@
+T1	Transaction_Transfer-Ownership 74 80	seizes
+E1	Transaction_Transfer-Ownership:T1 
+T2	Transaction_Transfer-Ownership 234 240	seized
+E2	Transaction_Transfer-Ownership:T2 
+A1	Realis E2 Actual
+A2	Realis E1 Actual
+T3	Justice_Arrest-Jail 270 278	arrested
+E3	Justice_Arrest-Jail:T3 
+A3	Realis E3 Actual
+T4	Movement_Transport-Person 293 301	visiting
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T5	Transaction_Transfer-Ownership 401 407	seized
+E5	Transaction_Transfer-Ownership:T5 
+A5	Realis E5 Actual
+T6	Justice_Arrest-Jail 452 460	arrested
+E6	Justice_Arrest-Jail:T6 
+A6	Realis E6 Actual
+T7	Movement_Transport-Person 567 575	entering
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Generic
+T8	Justice_Charge-Indict 1062 1073	prosecution
+E8	Justice_Charge-Indict:T8 
+A8	Realis E8 Generic
+T9	Movement_Transport-Person 1082 1087	enter
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Generic
+T10	Transaction_Transfer-Ownership 1173 1179	seized
+E10	Transaction_Transfer-Ownership:T10 
+A10	Realis E10 Actual
+T11	Movement_Transport-Person 1200 1206	headed
+E11	Movement_Transport-Person:T11 
+A11	Realis E11 Actual
+T12	Justice_Sentence 1402 1411	sentenced
+E12	Justice_Sentence:T12 
+A12	Realis E12 Actual
+T13	Justice_Arrest-Jail 1446 1455	in prison
+E13	Justice_Arrest-Jail:T13 
+A13	Realis E13 Actual
+T14	Movement_Transport-Person 1461 1469	visiting
+E14	Movement_Transport-Person:T14 
+A14	Realis E14 Actual
+T15	Justice_Release-Parole 1498 1506	released
+E15	Justice_Release-Parole:T15 
+A15	Realis E15 Actual
+T16	Conflict_Attack 1613 1617	wars
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Conflict_Attack 1730 1733	war
+E17	Conflict_Attack:T17 
+A17	Realis E17 Actual
+T18	Movement_Transport-Person 100 105	visit
+E18	Movement_Transport-Person:T18 
+A18	Realis E18 Actual

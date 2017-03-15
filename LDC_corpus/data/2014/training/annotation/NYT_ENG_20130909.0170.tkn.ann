@@ -1,0 +1,88 @@
+T1	Contact_Communicate 648 655	calling
+E1	Contact_Communicate:T1 
+A1	Realis E1 Actual
+T2	Contact_Communicate 749 755	called
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Life_Marry 798 805	married
+E3	Life_Marry:T3 
+A3	Realis E3 Actual
+T4	Life_Divorce 890 898	divorced
+E4	Life_Divorce:T4 
+A4	Realis E4 Actual
+T5	Contact_Communicate 929 934	wrote
+E5	Contact_Communicate:T5 
+A5	Realis E5 Actual
+T6	Life_Be-Born 1053 1057	born
+E6	Life_Be-Born:T6 
+A6	Realis E6 Other
+A7	Questionable E6 Realis
+T7	Contact_Communicate 1166 1172	phoned
+E7	Contact_Communicate:T7 
+A8	Realis E7 Actual
+T8	Conflict_Attack 1207 1212	raped
+E8	Conflict_Attack:T8 
+A9	Realis E8 Actual
+T9	Contact_Communicate 1250 1254	told
+E9	Contact_Communicate:T9 
+A10	Realis E9 Actual
+T10	Contact_Communicate 1469 1477;1482 1487	answered phone
+E10	Contact_Communicate:T10 
+A11	Realis E10 Actual
+T11	Contact_Communicate 1650 1655	spoke
+E11	Contact_Communicate:T11 
+A12	Realis E11 Actual
+T12	Contact_Communicate 1666 1672;1685 1686	letter i
+E12	Contact_Communicate:T12 
+A13	Realis E12 Actual
+T13	Contact_Communicate 1828 1835	written
+E13	Contact_Communicate:T13 
+A14	Realis E13 Actual
+T14	Life_Die 1923 1928	death
+E14	Life_Die:T14 
+A15	Realis E14 Actual
+T15	Life_Die 1954 1960	killed
+E15	Life_Die:T15 
+A16	Realis E15 Actual
+T16	Contact_Communicate 2013 2017	said
+E16	Contact_Communicate:T16 
+A17	Realis E16 Actual
+T17	Contact_Communicate 2094 2101	phoning
+E17	Contact_Communicate:T17 
+A18	Realis E17 Actual
+T18	Contact_Communicate 2217 2222;2234 2238	calls made
+E18	Contact_Communicate:T18 
+A19	Realis E18 Other
+T19	Contact_Communicate 2262 2265	one
+E19	Contact_Communicate:T19 
+A20	Realis E19 Other
+T20	Contact_Communicate 2317 2324	another
+E20	Contact_Communicate:T20 
+A21	Realis E20 Other
+T21	Contact_Communicate 2401 2405;2412 2417	made calls
+E21	Contact_Communicate:T21 
+A22	Realis E21 Other
+T22	Contact_Communicate 2492 2497	calls
+E22	Contact_Communicate:T22 
+A23	Realis E22 Generic
+T23	Contact_Communicate 2551 2555	call
+E23	Contact_Communicate:T23 
+A24	Realis E23 Generic
+T24	Conflict_Attack 2632 2640	violence
+E24	Conflict_Attack:T24 
+A25	Realis E24 Generic
+T25	Contact_Communicate 2664 2669	write
+E25	Contact_Communicate:T25 
+A26	Realis E25 Generic
+T26	Contact_Communicate 2737 2743	answer
+E26	Contact_Communicate:T26 
+A27	Realis E26 Other
+T27	Contact_Communicate 2997 3001	call
+E27	Contact_Communicate:T27 
+A28	Realis E27 Other
+T28	Contact_Communicate 697 701	Call
+E28	Contact_Communicate:T28 
+A29	Realis E28 Generic
+T29	Conflict_Attack 1978 1985	robbery
+E29	Conflict_Attack:T29 
+A30	Realis E29 Actual

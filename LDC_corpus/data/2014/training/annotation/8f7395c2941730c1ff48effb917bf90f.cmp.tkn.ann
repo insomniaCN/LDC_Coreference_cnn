@@ -1,0 +1,99 @@
+T1	Conflict_Attack 294 298	shot
+E1	Conflict_Attack:T1 
+A1	Realis E1 Actual
+T2	Conflict_Attack 513 521	struggle
+E2	Conflict_Attack:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 548 553	shots
+E3	Conflict_Attack:T3 
+A3	Realis E3 Actual
+T4	Conflict_Attack 608 613	fight
+E4	Conflict_Attack:T4 
+A4	Realis E4 Actual
+T5	Conflict_Attack 747 760	confrontation
+E5	Conflict_Attack:T5 
+A5	Realis E5 Actual
+T6	Justice_Charge-Indict 790 797	charges
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Other
+T7	Movement_Transport-Person 815 824	following
+E7	Movement_Transport-Person:T7 
+A7	Realis E7 Actual
+T8	Movement_Transport-Person 853 863	break into
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Other
+T9	Conflict_Attack 956 969	confrontation
+E9	Conflict_Attack:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 1058 1063	fight
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Conflict_Attack 1105 1116	CONFRONTING
+E11	Conflict_Attack:T11 
+A11	Realis E11 Actual
+T12	Contact_Communicate 1202 1210	babbling
+E12	Contact_Communicate:T12 
+A12	Realis E12 Actual
+T13	Contact_Communicate 1389 1398	parroting
+E13	Contact_Communicate:T13 
+A13	Realis E13 Actual
+T14	Conflict_Attack 1516 1521	Lynch
+E14	Conflict_Attack:T14 
+A14	Realis E14 Generic
+T15	Life_Die 1760 1765	fatal
+E15	Life_Die:T15 
+A15	Realis E15 Generic
+T16	Conflict_Attack 1766 1774	shooting
+E16	Conflict_Attack:T16 
+A16	Realis E16 Actual
+T17	Movement_Transport-Person 1808 1814	taking
+E17	Movement_Transport-Person:T17 
+A17	Realis E17 Generic
+T18	Contact_Meet 1838 1849	questioning
+E18	Contact_Meet:T18 
+A18	Realis E18 Generic
+T19	Justice_Arrest-Jail 1925 1933	arrested
+E19	Justice_Arrest-Jail:T19 
+A19	Realis E19 Other
+T20	Life_Die 1942 1949	lynched
+E20	Life_Die:T20 
+A20	Realis E20 Other
+T21	Conflict_Attack 2573 2581	shooting
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Personnel_Nominate 2686 2695	appointed
+E22	Personnel_Nominate:T22 
+A22	Realis E22 Actual
+T23	Conflict_Attack 3097 3105	incident
+E23	Conflict_Attack:T23 
+A23	Realis E23 Actual
+T24	Justice_Release-Parole 3166 3174	released
+E24	Justice_Release-Parole:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 3415 3420	lynch
+E25	Conflict_Attack:T25 
+A25	Realis E25 Generic
+T26	Justice_Release-Parole 3510 3514	free
+E26	Justice_Release-Parole:T26 
+A26	Realis E26 Actual
+T27	Movement_Transport-Person 3863 3868	taken
+E27	Movement_Transport-Person:T27 
+A27	Realis E27 Other
+T28	Contact_Meet 3904 3915	questioning
+E28	Contact_Meet:T28 
+A28	Realis E28 Other
+T29	Life_Die 3944 3949	fatal
+E29	Life_Die:T29 
+A29	Realis E29 Actual
+T30	Conflict_Attack 3950 3958	shooting
+E30	Conflict_Attack:T30 
+A30	Realis E30 Actual
+T31	Justice_Arrest-Jail 4561 4579	taken into custody
+E31	Justice_Arrest-Jail:T31 
+A31	Realis E31 Actual
+T32	Justice_Release-Parole 4586 4594	released
+E32	Justice_Release-Parole:T32 
+A32	Realis E32 Actual
+T33	Justice_Trial-Hearing 4844 4849	court
+E33	Justice_Trial-Hearing:T33 
+A33	Realis E33 Generic

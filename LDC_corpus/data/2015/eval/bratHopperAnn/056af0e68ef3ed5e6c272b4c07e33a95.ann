@@ -1,0 +1,41 @@
+T1	Life_Die 444 449	death
+E807	Life_Die:T1
+A1	Realis E807 Actual
+T2	Life_Die 532 541	succumbed
+E300	Life_Die:T2
+A2	Realis E300 Actual
+T3	Personnel_End-Position 430 436	vacant
+E540	Personnel_End-Position:T3
+A3	Realis E540 Actual
+T4	Personnel_End-Position 514 520	former
+E698	Personnel_End-Position:T4
+A4	Realis E698 Actual
+T5	Personnel_Nominate 583 592	nominated
+E836	Personnel_Nominate:T5
+A5	Realis E836 Actual
+T6	Personnel_Nominate 999 1009	nomination
+E720	Personnel_Nominate:T6
+A6	Realis E720 Actual
+T7	Personnel_Nominate 1038 1044	picked
+E137	Personnel_Nominate:T7
+A7	Realis E137 Other
+T8	Personnel_Nominate 737 747	nomination
+E273	Personnel_Nominate:T8
+A8	Realis E273 Other
+T9	Personnel_Nominate 794 802	nominees
+E651	Personnel_Nominate:T9
+A9	Realis E651 Other
+T10	Contact_Meet 748 755	meeting
+E653	Contact_Meet:T10
+A10	Realis E653 Other
+T11	Contact_Correspondence 929 938	interview
+E311	Contact_Correspondence:T11
+A11	Realis E311 Actual
+T12	Personnel_Elect 369 380	by-election
+E901	Personnel_Elect:T12
+A12	Realis E901 Other
+R1	Coreference Arg1:E807 Arg2:E300
+R2	Coreference Arg1:E540 Arg2:E698
+R3	Coreference Arg1:E836 Arg2:E720
+R4	Coreference Arg1:E720 Arg2:E137
+R5	Coreference Arg1:E273 Arg2:E651

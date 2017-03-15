@@ -1,0 +1,38 @@
+T1	Movement_Transport-Person 473 479	flight
+E152	Movement_Transport-Person:T1
+A1	Realis E152 Actual
+T2	Contact_Broadcast 769 778	announced
+E931	Contact_Broadcast:T2
+A2	Realis E931 Actual
+T3	Contact_Broadcast 1022 1026	said
+E84	Contact_Broadcast:T3
+A3	Realis E84 Actual
+T4	Contact_Broadcast 1294 1298	said
+E548	Contact_Broadcast:T4
+A4	Realis E548 Actual
+T5	Justice_Charge-Indict 1722 1729	charges
+E346	Justice_Charge-Indict:T5
+A5	Realis E346 Actual
+T6	Contact_Broadcast 1635 1640	wrote
+E888	Contact_Broadcast:T6
+A6	Realis E888 Actual
+T7	Contact_Broadcast 1852 1857	wrote
+E365	Contact_Broadcast:T7
+A7	Realis E365 Actual
+T8	Movement_Transport-Person 1981 1986	visit
+E547	Movement_Transport-Person:T8
+A8	Realis E547 Generic
+T9	Life_Injure 2054 2060	nipped
+E535	Life_Injure:T9
+A9	Realis E535 Actual
+T10	Contact_Broadcast 2356 2362	posted
+E758	Contact_Broadcast:T10
+A10	Realis E758 Actual
+T11	Contact_Broadcast 2603 2612	announced
+E323	Contact_Broadcast:T11
+A11	Realis E323 Actual
+T12	Contact_Broadcast 2156 2161	wrote
+E705	Contact_Broadcast:T12
+A12	Realis E705 Actual
+R1	Coreference Arg1:E931 Arg2:E84
+R2	Coreference Arg1:E84 Arg2:E548

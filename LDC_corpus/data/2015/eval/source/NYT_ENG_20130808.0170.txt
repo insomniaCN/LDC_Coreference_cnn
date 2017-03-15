@@ -1,0 +1,37 @@
+<DOC id="NYT_ENG_20130808.0170" type="story" from_file="/newswire/daily_process/nyt/english/source_data/20130808/20130808,b1b6667becd88d163dbeb21a861e5b2b.xml">
+<HEADLINE>
+T-MOBILE US REPORTS LARGEST CUSTOMER GROWTH IN 4 YEARS
+</HEADLINE>
+<TEXT>
+<P>
+SAN FRANCISCO - T-Mobile US, the fourth-largest U.S. carrier, lost thousands of customers over the past few years to rivals that offered cooler phones. But it appears to be getting its groove back.
+</P>
+<P>
+The company Thursday said it had gained 1.1 million customers, including 685,000 contract subscribers, over its second quarter. That compares with losing 557,000 contract subscribers, the most valuable type of customer, in the same period a year ago. The uptick represents its largest customer growth in four years.
+</P>
+<P>
+The company, based in Bellevue, Wash., only started offering the iPhone in April, when it also began offering new phone plans that address common frustrations with wireless companies, like confusing contracts and expensive data plans.
+</P>
+<P>
+“By fixing the things that drive them mad, like contracts and upgrades, and freeing them from the two-year sentences imposed on them by our competitors, they are choosing the new T-Mobile in unprecedented numbers,” John Legere, the chief executive of T-Mobile US, said in a news release.
+</P>
+<P>
+Over the past several years, T-Mobile lost many customers largely because it lacked the iPhone, and customers were unhappy with its service. But this year has been jam-packed with change for the company: It finally landed a deal with Apple to sell the iPhone, it began an overhaul of its network and it started offering lower-cost plans to lure customers from competitors. The company also has extra muscle from its merger with the smaller carrier MetroPCS, which was completed in May.
+</P>
+<P>
+The change is costing T-Mobile. The company posted a loss of $16 million for the quarter, compared with a profit of $207 million last year in the same period. But it also reported revenue of $6.23 billion, up from $4.9 billion last year.
+</P>
+<P>
+The net income was above the expectations of Wall Street analysts. They had expected revenue of $6.01 billion, according to a survey by Thomson Reuters.
+</P>
+<P>
+In March, T-Mobile discontinued two-year contracts, instead allowing customers to buy a smartphone for a lower upfront cost and adding the cost of the device to their monthly bill. It also continued to offer plans with unlimited data, an option that the top two carriers, Verizon Wireless and AT&amp;T, killed years ago.
+</P>
+<P>
+In general, T-Mobile’s plans are also cheaper than its competitors’ - for $70 a month, a customer can have unlimited minutes, text messages and data. The plans offered by AT&amp;T and Verizon cost upward of roughly $100 a month.
+</P>
+<P>
+T-Mobile expects the growth to continue. For the full year, it said it expected to add between 1 million and 1.2 million contract subscribers.
+</P>
+</TEXT>
+</DOC>

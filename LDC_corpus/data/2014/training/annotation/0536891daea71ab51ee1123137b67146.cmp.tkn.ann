@@ -1,0 +1,54 @@
+T1	Personnel_Nominate 279 289	nominating
+E1	Personnel_Nominate:T1 
+A1	Realis E1 Actual
+T3	Personnel_End-Position 3919 3925	Former
+E3	Personnel_End-Position:T3 
+A3	Realis E3 Actual
+T2	Life_Marry 5535 5542	married
+E2	Life_Marry:T2 
+A2	Realis E2 Actual
+T4	Life_Divorce 5668 5676	divorced
+E4	Life_Divorce:T4 
+A4	Realis E4 Actual
+T5	Life_Marry 5732 5739	married
+E5	Life_Marry:T5 
+A5	Realis E5 Actual
+T6	Life_Marry 5942 5949	married
+E6	Life_Marry:T6 
+A6	Realis E6 Actual
+T7	Life_Marry 6112 6118;6141 6145	become wife
+E11	Life_Marry:T7 
+A16	Realis E11 Actual
+T8	Personnel_End-Position 6190 6196	Former
+E12	Personnel_End-Position:T8 
+A17	Realis E12 Actual
+T9	Personnel_Start-Position 3858 3865;3877 3881	created jobs
+E13	Personnel_Start-Position:T9 
+A18	Realis E13 Generic
+T10	Personnel_Start-Position 4023 4035	jobs created
+E14	Personnel_Start-Position:T10 
+A19	Realis E14 Generic
+T11	Contact_Meet 4647 4654	debates
+E15	Contact_Meet:T11 
+A20	Realis E15 Actual
+A21	Questionable E15 Mention
+T12	Contact_Meet 4727 4736	responses
+E16	Contact_Meet:T12 
+A22	Questionable E16 Mention
+A23	Realis E16 Actual
+T13	Contact_Meet 4786 4793	replies
+E17	Contact_Meet:T13 
+A24	Questionable E17 Mention
+A25	Realis E17 Actual
+T14	Contact_Meet 4885 4889;4901 4907	give answer
+E19	Contact_Meet:T14 
+A28	Realis E19 Other
+T15	Contact_Meet 5181 5187	answer
+E7	Contact_Meet:T15 
+A7	Realis E7 Other
+T16	Contact_Meet 5442 5449	debates
+E8	Contact_Meet:T16 
+A8	Realis E8 Actual
+T17	Contact_Meet 3570 3577	debates
+E9	Contact_Meet:T17 
+A9	Realis E9 Actual

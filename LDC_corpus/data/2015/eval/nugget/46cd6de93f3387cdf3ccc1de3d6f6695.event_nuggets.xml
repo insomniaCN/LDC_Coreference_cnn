@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea9e0000000000000144" doc_id="46cd6de93f3387cdf3ccc1de3d6f6695" source_type="multi_post">
+  <event_mention id="em-8" type="transaction" subtype="transferownership" realis="actual" ways="voluntary">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="563" length="5">given</trigger>
+  </event_mention>
+  <event_mention id="em-24" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="379" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-107" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="597" length="8">declared</trigger>
+  </event_mention>
+  <event_mention id="em-312" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="789" length="7">request</trigger>
+  </event_mention>
+  <event_mention id="em-373" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="333" length="8">arrested</trigger>
+  </event_mention>
+  <event_mention id="em-375" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="506" length="7">entered</trigger>
+  </event_mention>
+  <event_mention id="em-434" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="649" length="7">respond</trigger>
+  </event_mention>
+  <event_mention id="em-503" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="147" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-566" type="justice" subtype="arrestjail" realis="actual">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="743" length="6">arrest</trigger>
+  </event_mention>
+  <event_mention id="em-729" type="movement" subtype="transportperson" realis="other">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="777" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-736" type="justice" subtype="extradite" realis="generic">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="777" length="11">extradition</trigger>
+  </event_mention>
+  <event_mention id="em-978" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="831" length="4">told</trigger>
+  </event_mention>
+  <event_mention id="em-986" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="46cd6de93f3387cdf3ccc1de3d6f6695" offset="488" length="4">told</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

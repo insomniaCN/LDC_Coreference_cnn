@@ -1,0 +1,45 @@
+T1	Transaction_Transfer-Money 349 353	paid
+E1	Transaction_Transfer-Money:T1 
+A1	Realis E1 Other
+T2	Contact_Communicate 424 428	call
+E2	Contact_Communicate:T2 
+A2	Realis E2 Actual
+T3	Contact_Meet 574 577	met
+E3	Contact_Meet:T3 
+A3	Realis E3 Actual
+T5	Movement_Transport-Person 233 241	abducted
+E5	Movement_Transport-Person:T5 
+A5	Realis E5 Actual
+T6	Movement_Transport-Person 851 860	abduction
+E6	Movement_Transport-Person:T6 
+A6	Realis E6 Actual
+T8	Movement_Transport-Person 1353 1359	seized
+E8	Movement_Transport-Person:T8 
+A8	Realis E8 Actual
+T15	Transaction_Transfer-Money 1658 1670	collect cash
+E15	Transaction_Transfer-Money:T15 
+A15	Realis E15 Generic
+T16	Transaction_Transfer-Money 1686 1694	payments
+E16	Transaction_Transfer-Money:T16 
+A16	Realis E16 Generic
+T11	Contact_Communicate 443 449	saying
+E11	Contact_Communicate:T11 
+A11	Realis E11 Actual
+T4	Movement_Transport-Person 661 667;674 681	making way out
+E4	Movement_Transport-Person:T4 
+A4	Realis E4 Actual
+T7	Transaction_Transfer-Money 1604 1612	revenues
+E7	Transaction_Transfer-Money:T7 
+A7	Realis E7 Generic
+T9	Movement_Transport-Person 1621 1631	abductions
+E9	Movement_Transport-Person:T9 
+A9	Realis E9 Actual
+T10	Movement_Transport-Person 728 739	Kidnappings
+E10	Movement_Transport-Person:T10 
+A10	Realis E10 Generic
+T12	Movement_Transport-Person 1148 1159	kidnappings
+E12	Movement_Transport-Person:T12 
+A12	Realis E12 Actual
+T13	Movement_Transport-Person 1491 1502	kidnappings
+E13	Movement_Transport-Person:T13 
+A13	Realis E13 Actual

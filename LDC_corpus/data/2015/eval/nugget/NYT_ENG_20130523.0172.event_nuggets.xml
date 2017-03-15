@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere_event_nuggets_only kit_id="55c8ea500000000000000019" doc_id="NYT_ENG_20130523.0172" source_type="newswire">
+  <event_mention id="em-4" type="personnel" subtype="startposition" realis="actual">
+    <trigger source="NYT_ENG_20130523.0172" offset="1736" length="3">new</trigger>
+  </event_mention>
+  <event_mention id="em-8" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130523.0172" offset="2411" length="7">visited</trigger>
+  </event_mention>
+  <event_mention id="em-82" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="203" length="8">DIALOGUE</trigger>
+  </event_mention>
+  <event_mention id="em-120" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="1307" length="4">them</trigger>
+  </event_mention>
+  <event_mention id="em-121" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="2271" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-132" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="3168" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-141" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="1080" length="5">talks</trigger>
+  </event_mention>
+  <event_mention id="em-203" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="992" length="5">talks</trigger>
+  </event_mention>
+  <event_mention id="em-222" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="789" length="5">talks</trigger>
+  </event_mention>
+  <event_mention id="em-224" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="3087" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-277" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="3545" length="5">visit</trigger>
+  </event_mention>
+  <event_mention id="em-282" type="contact" subtype="contact" realis="generic" audience="canttell" formality="canttell" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="3594" length="7">apology</trigger>
+  </event_mention>
+  <event_mention id="em-357" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="178" length="4">SAYS</trigger>
+  </event_mention>
+  <event_mention id="em-363" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="515" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-367" type="movement" subtype="transportartifact" realis="other">
+    <trigger source="NYT_ENG_20130523.0172" offset="820" length="7">removal</trigger>
+  </event_mention>
+  <event_mention id="em-392" type="contact" subtype="contact" realis="other" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="358" length="8">dialogue</trigger>
+  </event_mention>
+  <event_mention id="em-414" type="contact" subtype="broadcast" realis="other" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="2013" length="7">reports</trigger>
+  </event_mention>
+  <event_mention id="em-419" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="391" length="8">reported</trigger>
+  </event_mention>
+  <event_mention id="em-433" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="1440" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-476" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="1693" length="5">visit</trigger>
+  </event_mention>
+  <event_mention id="em-537" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="3316" length="4">meet</trigger>
+  </event_mention>
+  <event_mention id="em-542" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="3536" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-564" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="2138" length="8">meetings</trigger>
+  </event_mention>
+  <event_mention id="em-652" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="3197" length="5">visit</trigger>
+  </event_mention>
+  <event_mention id="em-687" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="3228" length="12">announcement</trigger>
+  </event_mention>
+  <event_mention id="em-690" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="2865" length="3">say</trigger>
+  </event_mention>
+  <event_mention id="em-754" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="281" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-758" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="2401" length="4">said</trigger>
+  </event_mention>
+  <event_mention id="em-773" type="contact" subtype="contact" realis="actual" audience="canttell" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="501" length="8">comments</trigger>
+  </event_mention>
+  <event_mention id="em-776" type="contact" subtype="meet" realis="actual" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="565" length="3">met</trigger>
+  </event_mention>
+  <event_mention id="em-788" type="contact" subtype="correspondence" realis="actual" audience="twoway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="2476" length="6">advice</trigger>
+  </event_mention>
+  <event_mention id="em-799" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="2036" length="7">meeting</trigger>
+  </event_mention>
+  <event_mention id="em-824" type="contact" subtype="meet" realis="other" audience="twoway" formality="formal" medium="inperson" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="458" length="5">talks</trigger>
+  </event_mention>
+  <event_mention id="em-834" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="notinperson" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="722" length="6">quoted</trigger>
+  </event_mention>
+  <event_mention id="em-890" type="contact" subtype="contact" realis="generic" audience="twoway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="2220" length="13">interlocutors</trigger>
+  </event_mention>
+  <event_mention id="em-919" type="movement" subtype="transportperson" realis="actual">
+    <trigger source="NYT_ENG_20130523.0172" offset="266" length="8">visiting</trigger>
+  </event_mention>
+  <event_mention id="em-932" type="movement" subtype="transportartifact" realis="other">
+    <trigger source="NYT_ENG_20130523.0172" offset="1010" length="5">strip</trigger>
+  </event_mention>
+  <event_mention id="em-934" type="contact" subtype="broadcast" realis="actual" audience="oneway" formality="formal" medium="canttell" schedule="canttell">
+    <trigger source="NYT_ENG_20130523.0172" offset="1838" length="6">quoted</trigger>
+  </event_mention>
+  <event_mention id="em-988" type="contact" subtype="contact" realis="actual" audience="twoway" formality="formal" medium="canttell" schedule="planned">
+    <trigger source="NYT_ENG_20130523.0172" offset="316" length="8">proposal</trigger>
+  </event_mention>
+</deft_ere_event_nuggets_only>

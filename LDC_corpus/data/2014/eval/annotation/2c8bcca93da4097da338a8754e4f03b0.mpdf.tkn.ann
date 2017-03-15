@@ -1,0 +1,84 @@
+T1	Personnel_End-Position 196 202	former
+E1	Personnel_End-Position:T1 
+A1	Realis E1 Actual
+T2	Justice_Convict 259 268	convicted
+E2	Justice_Convict:T2 
+A2	Realis E2 Actual
+T3	Conflict_Attack 272 275	war
+E3	Conflict_Attack:T3 
+A3	Realis E3 Generic
+T4	Justice_Sentence 308 317	sentenced
+E4	Justice_Sentence:T4 
+A4	Realis E4 Actual
+T6	Justice_Charge-Indict 435 445	indictment
+E6	Justice_Charge-Indict:T6 
+A6	Realis E6 Actual
+T7	Life_Die 456 461	death
+E7	Life_Die:T7 
+A7	Realis E7 Actual
+T8	Conflict_Attack 486 490	shot
+E8	Conflict_Attack:T8 
+A8	Realis E8 Actual
+T9	Life_Die 491 495	dead
+E9	Life_Die:T9 
+A9	Realis E9 Actual
+T10	Conflict_Attack 538 546	uprising
+E10	Conflict_Attack:T10 
+A10	Realis E10 Actual
+T11	Justice_Convict 568 580	found guilty
+E11	Justice_Convict:T11 
+A11	Realis E11 Actual
+T12	Justice_Appeal 786 792	appeal
+E12	Justice_Appeal:T12 
+A12	Realis E12 Other
+T13	Life_Die 880 887	killing
+E13	Life_Die:T13 
+A13	Realis E13 Actual
+T14	Conflict_Demonstrate 912 920	protests
+E14	Conflict_Demonstrate:T14 
+A14	Realis E14 Actual
+T15	Justice_Trial-Hearing 935 940	trial
+E15	Justice_Trial-Hearing:T15 
+A15	Realis E15 Actual
+T16	Personnel_End-Position 1038 1049	ex-minister
+E16	Personnel_End-Position:T16 
+A16	Realis E16 Actual
+T17	Justice_Convict 1065 1074	convicted
+E17	Justice_Convict:T17 
+A17	Realis E17 Actual
+T18	Conflict_Attack 1220 1223	war
+E18	Conflict_Attack:T18 
+A18	Realis E18 Generic
+T19	Life_Die 1321 1325	died
+E19	Life_Die:T19 
+A19	Realis E19 Actual
+T20	Conflict_Attack 1352 1360	uprising
+E20	Conflict_Attack:T20 
+A20	Realis E20 Actual
+T21	Conflict_Attack 1387 1393	revolt
+E21	Conflict_Attack:T21 
+A21	Realis E21 Actual
+T22	Conflict_Attack 1441 1453	intervention
+E22	Conflict_Attack:T22 
+A22	Realis E22 Actual
+T23	Justice_Execute 1511 1519	executed
+E23	Justice_Execute:T23 
+A23	Realis E23 Actual
+T24	Justice_Arrest-Jail 1541 1547	prison
+E24	Justice_Arrest-Jail:T24 
+A24	Realis E24 Actual
+T25	Conflict_Attack 1838 1844	revolt
+E25	Conflict_Attack:T25 
+A25	Realis E25 Actual
+T26	Conflict_Attack 1892 1904	intervention
+E26	Conflict_Attack:T26 
+A26	Realis E26 Actual
+T27	Conflict_Attack 1962 1968	revolt
+E27	Conflict_Attack:T27 
+A27	Realis E27 Actual
+T5	Personnel_End-Position 760 766	former
+E5	Personnel_End-Position:T5 
+A5	Realis E5 Actual
+T28	Movement_Transport-Person 1561 1570	emigrated
+E28	Movement_Transport-Person:T28 
+A28	Realis E28 Actual
