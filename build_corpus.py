@@ -2,9 +2,13 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
+import sys
+sys.path.append("./TFNN/util/")
+from stanford_util import POSTagger 
 from util import read_all_lines
 import os
 import re
+from dataset import return_voc
 from lxml import etree
 try:
     import xml.etree.cElementTree as ET
@@ -199,7 +203,7 @@ def events2str(event, doc_id):
         # current sentence | event mention 
         event_str = event[0]['id'] + '|' + event[0]['type'] + '|' + event[0]['subtype'] + '|' + \
             event[0]['realis'] + '|' + str(relative_pos) + '|' + \
-            selected_sen.strip('\n') + '|' + event[2] + '\n'
+            selected_sen.strip('\n') + '|' + event[2] + '|' + doc_id + '\n'
 
         return event_str
     else:
@@ -208,7 +212,7 @@ def events2str(event, doc_id):
         return event_str
 
 
-# def events2str(event, doc_id):
+def events2str_2(event, doc_id):
 #     """
 #     将event由list转化为string，取其中一部分的attributes.
 # 
@@ -218,31 +222,42 @@ def events2str(event, doc_id):
 #     Returns:
 #         event_str: event string
 #     """
-#     source_file = SOURCE_PATH + doc_id + '.txt'
-#     current_paragraph = ''  # 事件所在的段落
-# 
-#     all_lines, paragraph_length = textWithString(source_file)
-#     # print(paragraph_length)
-#     for i in range(len(paragraph_length)-2):
-# 
-#         if int(event[1]['offset']) > paragraph_length[i] and int(event[1]['offset']) <= paragraph_length[i+1]:
-#             current_paragraph = all_lines[i]
-#             # print(all_lines[i])
-#             break
-# 
-#     parag_split = re.split(r'\W', current_paragraph)
-#     # print(parag_split)
-#     # parag_split = current_paragraph.strip().split(' ')    #分词
-#     # print(parag_split, event[2])
-#     relative_pos = parag_split.index(event[2])  # 词在句子中的相对位置
-# 
-#     # event id|event type|event subtype|event realis|trigger relative position|sentence|trigger word
-#     event_str = event[0]['id'] + '|' + event[0]['type'] + '|' + event[0]['subtype'] + '|' + \
-#         event[0]['realis'] + '|' + str(relative_pos) + '|' + \
-#         current_paragraph.strip('\n')+ '|' + event[2] + '\n'
-# 
-#     return event_str
-# 
+    source_file = SOURCE_PATH + doc_id + '.txt'
+    text_str = open(source_file, 'r').read()
+    sent_start_pos = 0
+    sent_end_pos = 0
+    for i in range(int(event[1]['offset']), 0, -1):
+        if text_str[i] == '.' or text_str[i] == '!' or text_str[i] == '?' or text_str[i] == '\n' or text_str[i] == '>':
+            sent_start_pos = i
+            break
+    for i in range(int(event[1]['offset']), len(text_str) , 1):
+        if text_str[i] == '.' or text_str[i] == '!' or text_str[i] == '?' or text_str[i] == '\n' or text_str[i] == '<':
+            sent_end_pos = i
+            break
+    sentence = text_str[sent_start_pos+1:  sent_end_pos+1]
+    pattern = re.compile("[^A-Za-z0-9\\-]")
+    sentence_split = re.split(pattern, sentence)
+
+    relative_pos = sentence_split.index(event[2].split(' ')[0])  # 词在句子中的相对位置 
+    if len(sentence_split) > 40:  # 对长度大于70的句子取词前后10个作为句子
+        if len(sentence_split[relative_pos:]) > 15 and len(sentence_split[:relative_pos]) > 15:
+            sentence_split = sentence_split[relative_pos-15:relative_pos+15]
+            sentence = " ".join(sentence_split)
+        elif len(sentence_split[relative_pos:]) <= 15:
+            sentence_split = sentence_split[relative_pos-15:]
+            sentence = " ".join(sentence_split)
+        else:
+            sentence_split = sentence_split[:relative_pos+15]
+            sentence = " ".join(sentence_split)
+        # event hopper id | event type | event subtype | event realis | relative position |
+        # current sentence | event mention | doc_id
+    event_str = event[0]['id'] + '|' + event[0]['type'] + '|' + event[0]['subtype'] + '|' + \
+        event[0]['realis'] + '|' + str(relative_pos) + '|' + \
+        sentence.strip('\n') + '|' + event[2] + '|' + doc_id + '\n'
+
+    return event_str
+
+
 def build_corpus(event_hopper_clusters, doc_id):
     """
     将语料处理为event-pair形式，一个pair在文本中占两行
@@ -255,7 +270,7 @@ def build_corpus(event_hopper_clusters, doc_id):
     """
 
     # train_pos = CORPUS_HANDLE_PATH+'train_pos.txt'
-    # train_neg = CORPUS_HANDLE_PATH+'train_neg.txt'
+    # train_neg = CORPUS_HANDLE_PATH+'train_neg.txt'  # SOURCE_PATH也要修改
     train_pos = CORPUS_HANDLE_PATH+'test_pos.txt'
     train_neg = CORPUS_HANDLE_PATH+'test_neg.txt'
 
@@ -270,7 +285,7 @@ def build_corpus(event_hopper_clusters, doc_id):
     f_neg = open(train_neg, 'a')
     if event_hopper_clusters == []:
         print("doc_id: %s has no hoppers!" % doc_id)
-
+    
     for event_hopper_cluster in event_hopper_clusters:
         try:
             # print(event_hopper_cluster)
@@ -282,18 +297,18 @@ def build_corpus(event_hopper_clusters, doc_id):
             for i in range(0, len(events)-1):
 
                 # print(events[i])
-                event_strI = events2str(events[i], doc_id)
+                event_strI = events2str_2(events[i], doc_id)
                 if event_strI == '':
                     continue
                 for j in range(i+1, len(events)):
 
-                    event_strJ = events2str(events[j], doc_id)
+                    event_strJ = events2str_2(events[j], doc_id)
                     if event_strJ == '':
                         continue
                     if event_strI.split('|')[5] == event_strJ.split('|')[5]:
                         # 对完全一样的句子不做处理
                         continue
-                    f_pos.write(event_strI+event_strJ)  # pos_examples
+                    f_pos.write(event_strI + event_strJ)  # pos_examples
 
             intra_events = []   # 其余hoppers中所有的events
             for event_hopper_cluster2 in event_hopper_clusters:
@@ -307,24 +322,76 @@ def build_corpus(event_hopper_clusters, doc_id):
                 intra_events.extend(each_events)
 
             for e1 in events:
-                e1_str = events2str(e1, doc_id)
+                e1_str = events2str_2(e1, doc_id)
                 if e1_str == '':  # 对未能正确找到所在句子的事件做跳过处理
                     continue
                 for e2 in intra_events:
-                    e2_str = events2str(e2, doc_id)
+                    e2_str = events2str_2(e2, doc_id)
                     if e2_str == '':
                         continue
-                    f_neg.write(e1_str+e2_str)  # neg_examples
+                    f_neg.write(e1_str + e2_str)  # neg_examples
         except ValueError:
             print("event has been skipped..")
-
     f_pos.close()
     f_neg.close()
 
 
+def add_pos_tag(file_path):
+    """
+    语料添加词性特征
+    Args:
+        file_path: path_to_train/test files
+    Returns:
+        None
+    """
+    all_lines = read_all_lines(file_path)
+    stanford_path = '/home/zhlu/stanford_tools/stanford-postagger-full-2015-12-09/'
+    path_to_jar = stanford_path + 'stanford-postagger.jar'
+    en_model_filename = stanford_path + 'models/english-bidirectional-distsim.tagger'
+    tagger = POSTagger(path_to_jar, en_model_filename)
+    lines_with_pos = []
+    processed = []
+    processed_tagger = []
+    for line in all_lines:
+        _,words = return_voc(line)
+        if words in processed:
+            tags = processed_tagger[processed.index(words)]
+        else:
+            tags = tagger.en_pos_tag(words, True)
+            processed.append(words)
+            processed_tagger.append(tags)
+        print(words)
+        new_line = line.strip('\n') + '|' + ' '.join(tags) + '\n'
+        lines_with_pos.append(new_line)
+    with open(file_path, 'w') as fw:
+        for line in lines_with_pos:
+            fw.write(line)
+    print(file_path, 'has been done!\n')
+
+# def parallel_process():
+#     print("load data...")
+#     all_files = []
+#     files_path = ["/home/zhlu/Documents/LDC_Coreference/corpus_handle/test_neg.txt",
+#                   "/home/zhlu/Documents/LDC_Coreference/corpus_handle/test_pos.txt",
+#                  "/home/zhlu/Documents/LDC_Coreference/corpus_handle/train_neg.txt",
+#                  "/home/zhlu/Documents/LDC_Coreference/corpus_handle/train_pos.txt"]
+#     
+#     ppserver = ()
+#     if len(sys.argv) > 1:
+#         ncpus = int(sys.argv[1])
+#         job_server = pp.Server(ncpus, ppservers=ppservers)
+#     else:
+#         job_server = pp.Server(ppservers=ppservers)
+#     print("Starting pp with", job_server.get_ncpus(), "workers")
+#     for files in files_path:
+#         job_server.submit(add_pos_tag, (files_path,), 
+#                           (read_all_lines, return_voc, en_pos_tag),
+#                          ("util", "stanford_util", "dataset"))
+
+
 def build_train_corpus():
     """
-    构建测试语料
+    构建测试语
 
     Args:
         None
@@ -358,5 +425,6 @@ def build_test_corpus():
 
 if __name__ == '__main__':
     # build_train_corpus()
-    build_test_corpus()
+    # build_test_corpus()
+    add_pos_tag("./corpus_handle/train_pos.txt")
     print("Congrats! Done! ")

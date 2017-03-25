@@ -7,7 +7,8 @@ import numpy as np
 from collections import defaultdict
 from util import read_all_lines
 from embedding import word2vec
-
+from nltk.corpus import wordnet as wn
+from nltk.corpus.reader.wordnet import WordNetError
 
 def init_position_voc(position_voc, word_count, index):
     """
@@ -61,7 +62,7 @@ def data_count(path_train, path_test):
         max(max_len): int, 单句最大长
     """
     max_len = set()
-    word_voc, position_voc, type_voc = defaultdict(int), set(), set([0, 1])
+    word_voc, position_voc, type_voc = defaultdict(int), set(), set(["coreference", "non-coreference"])
 
     positive_train, positive_test, rel_type = positive_or_negative(path_train, path_test, 1)
     negative_train, negative_test, rel_type = positive_or_negative(path_train, path_test, 0)  # 负例
@@ -81,8 +82,7 @@ def data_count(path_train, path_test):
         position_dict[item[1]] = item[0] + 1
     type_dict = defaultdict()
     for item in enumerate(sorted(type_voc)):
-        type_dict[item[1]] = item[0] + 1
-
+        type_dict[item[1]] = item[0]
     return word_dict, position_dict, type_dict, max(max_len)
 
 
@@ -201,8 +201,104 @@ def return_voc(corpus_line):
     corpus_line = re.sub('\s+', ' ', corpus_line)
     item = corpus_line.split('|')
     pos = int(item[4])
-    words = item[5].split(' ')
+    #add by 2017/3/25
+    words = item[5].strip().split(' ')
     return pos, words
+
+
+def return_actors(corpus_line):
+    """
+    处理单行语料
+
+    Args:
+        corpus_line: str, 单行语料
+    Returns:
+        type_: str, 事件类型
+        subtype: str, 事件子类型
+        realis: str, 事件realis
+        mention: str, event mention
+    """ 
+    corpus_line = re.sub('\s+', ' ', corpus_line)
+    item = corpus_line.split("|")
+    type_, subtype, realis, mention = \
+        item[1], item[2], item[3], item[6]
+    return type_, subtype, realis, mention
+
+
+def load_actors():
+    """
+    加载事件论元特征
+
+    Args:
+        None
+    Returns:
+    """
+    path_train = './LDC_corpus/corpus_handle/'
+    path_test = './LDC_corpus/corpus_handle/'
+    positive_train, positive_test, rel_type = positive_or_negative(path_train, path_test, 1)
+    negative_train, negative_test, rel_type = positive_or_negative(path_train, path_test, 0)  # 负例
+    positive_lines = read_all_lines(positive_train)
+    negative_lines = read_all_lines(negative_train)
+    
+    # 随机抽取负例样本
+    neg_pair_lines = []
+    for i in range(0, len(negative_lines), 2):
+        neg_pair_lines.append([negative_lines[i], negative_lines[i+1]])
+    np.random.shuffle(neg_pair_lines)
+    neg_pair_lines = neg_pair_lines[:10000]  # 对负例样本打乱随机选取12500个样本
+    negative_lines = []
+    for line in neg_pair_lines:
+        negative_lines.append(line[0])
+        negative_lines.append(line[1])
+    del neg_pair_lines
+    
+    sentence_count = len(positive_lines + negative_lines)  # 语料总行数
+    similarity_tensor = np.zeros((int(sentence_count/2), 4), dtype='int32')  # 论元相似度tensor,\
+                                                                             # shape=(样本数,论元数)
+    fst_actors, sec_actors= [], []
+    for i in range(int(len(positive_lines))/2):
+        fst_temp = []
+        sec_temp = []
+        fst_type_, fst_subtype, fst_realis, fst_mention = \
+            return_actors(positive_lines[i])
+        sec_type_, sec_subtype, sec_realis, sec_mention = \
+            return_actors(positive_lines[i+1])
+        fst_temp.extend([fst_type_, fst_subtype, fst_realis, fst_mention])
+        sec_temp.extend([sec_type_, sec_subtype, sec_realis, sec_mention])
+        fst_actors.append(fst_temp)
+        sec_actors.append(sec_temp)
+    for i in range(int(len(negative_lines))/2):  # add negative examples' actors
+        fst_temp = []
+        sec_temp = []
+        fst_type_, fst_subtype, fst_realis, fst_mention = \
+            return_actors(positive_lines[i])
+        sec_type_, sec_subtype, sec_realis, sec_mention = \
+            return_actors(positive_lines[i+1])
+        fst_temp.extend([fst_type_, fst_subtype, fst_realis, fst_mention])
+        sec_temp.extend([sec_type_, sec_subtype, sec_realis, sec_mention])
+        fst_actors.append(fst_temp)
+        sec_actors.append(sec_temp)
+    for i in range(len(fst_actors)):
+        similarity_tensor[i] = map(lambda x,y: int(x == y), fst_actors[i], sec_actors[i])
+        # 触发词计算WordNet相似度
+        mention_A, mention_B = fst_actors[i][3].split(' ')[0], sec_actors[i][3].split(' ')[0]
+        synset_a, synset_b = None, None
+        try:
+            synset_a = wn.synset('%s.v.01' % mention_A)
+        except WordNetError:
+            print("no lemma", mention_A, "with part of speech 'verb'!")
+        try:
+            synset_b = wn.synset('%s.v.01' % mention_B)
+        except WordNetError:
+            print("no lemma", mention_B, "with part of speech 'verb'!")
+        if not synset_a:
+            synset_a = wn.synsets(mention_A)[0]
+        if not synset_b:
+            synset_b = wn.synsets(mention_B)[0]
+        if synset_a and synset_b:
+            similarity_tensor[i][3] = synset_a.wup_similarity(synset_b)
+    
+    return similarity_tensor
 
 
 def load_data_nostatic(pos_embed_dim=50):
@@ -225,9 +321,19 @@ def load_data_nostatic(pos_embed_dim=50):
     word_voc, position_voc, type_voc, max_len = data_count(path_train, path_test)
     positive_train, positive_test, rel_type = positive_or_negative(path_train, path_test, 1)
     negative_train, negative_test, rel_type = positive_or_negative(path_train, path_test, 0)  # 负例
-    positive_lines = read_all_lines(positive_train) + read_all_lines(positive_test)
-    negative_lines = read_all_lines(negative_train) + read_all_lines(negative_test)
-    negative_lines = negative_lines[:25000]
+    positive_lines = read_all_lines(positive_train) # + read_all_lines(positive_test)
+    negative_lines = read_all_lines(negative_train) # + read_all_lines(negative_test)
+# 随机抽取负例样本
+    neg_pair_lines = []
+    for i in range(0, len(negative_lines), 2):
+        neg_pair_lines.append([negative_lines[i], negative_lines[i+1]])
+    np.random.shuffle(neg_pair_lines)
+    neg_pair_lines = neg_pair_lines[:10000]  # 对负例样本打乱随机选取12500个样本
+    negative_lines = []
+    for line in neg_pair_lines:
+        negative_lines.append(line[0])
+        negative_lines.append(line[1])
+    del neg_pair_lines
 
     sentence_count = len(positive_lines + negative_lines)  # 语料总行数
     fst_data_sentences = np.zeros((int(sentence_count/2), max_len), dtype='int32')  # 事件1所在句子
@@ -244,7 +350,7 @@ def load_data_nostatic(pos_embed_dim=50):
     for i in range(0, len(positive_lines), 2):
         fst_pos, fst_words = return_voc(positive_lines[i])
         sec_pos, sec_words = return_voc(positive_lines[i+1])
-        rel_type = 1
+        rel_type = "coreference"
         fst_sentence = format_sentence(fst_words, word_voc, max_len)  # 词转换成id
         sec_sentence = format_sentence(sec_words, word_voc, max_len)
         fst_data_sentences[int(i/2), :] = fst_sentence
@@ -259,7 +365,7 @@ def load_data_nostatic(pos_embed_dim=50):
     for i in range(0, len(negative_lines), 2):
         fst_pos, fst_words = return_voc(negative_lines[i])
         sec_pos, sec_words = return_voc(negative_lines[i+1])
-        rel_type = 0
+        rel_type = "non-coreference"
         fst_sentence = format_sentence(fst_words, word_voc, max_len)  # 词转换成id
         sec_sentence = format_sentence(sec_words, word_voc, max_len)
         fst_data_sentences[int(i/2)+positive_pairs, :] = fst_sentence
@@ -271,11 +377,12 @@ def load_data_nostatic(pos_embed_dim=50):
                                                                          sec_pos, position_voc, 
                                                                          len(position_voc.items()))
         labels.append(type_voc[rel_type])  # 类别id
-
+    del positive_lines, negative_lines
     return fst_data_sentences, sec_data_sentences, fst_data_positions, sec_data_positions, labels, word_embed_weights, pos_embed_weights, \
         type_voc, max_len
 
 
 if __name__ == '__main__':
-    data_sentences, data_positions, labels, word_embed_weights, pos_embed_weights, \
-        type_voc, max_len = load_data_nostatic(50)
+    #fst_data_sentences, sec_data_sentences, fst_data_positions, sec_data_positions, labels,\
+    #    word_embed_weights, pos_embed_weights, type_voc, max_len = load_data_nostatic(50)
+    load_actors()

@@ -90,10 +90,13 @@ def write2pk():
     word2vec_model = defaultdict()
     for line in lines[1:]:
         items = line.split(' ')
-        word = item[0]
-        vec = np.array(item[1:], dtype='float32')
+        word = items[0]
+        vec = np.array(items[1:], dtype='float32')
         word2vec_model[word] = vec
-    pk_file = open('~/Documents/wordvectors/EN.GoogleNews.100B.300d.pk', 'wb')
+    pk_file = open('~/wordvectors/EN.GoogleNews.100B.300d.pk', 'wb')
     pickle.dump(word2vec_model, pk_file)
     pk_file.close()
     print("done in %d s." % (time()-t0))
+
+if __name__ == "__main__":
+    write2pk()

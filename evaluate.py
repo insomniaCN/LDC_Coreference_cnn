@@ -4,33 +4,35 @@
 """
 import nltk 
 import numpy as np
+import codecs
 
-def sim_compute(pro_labels, right_labels, ignore_label=None):
+def sim_compute(pre_labels, right_labels, ignore_label=None):
     """
     simple evaluate...
-    @param pro_labels list : predict labels
+    @param pre_labels list : predict labels
     @param right_labels list : right labels
     @param ignore_label int : the label should be ignored
     @return acc, rec, f
     """
-    assert len(pro_labels) == len(right_labels)
-    acc_pro_labels, acc_right_labels = [], []
-    rec_pro_labels, rec_right_labels = [], []
-    labels_len = len(pro_labels)
+    assert len(pre_labels) == len(right_labels), \
+            "预测值与正确值长度不相等"
+    acc_pre_labels, acc_right_labels = [], []
+    rec_pre_labels, rec_right_labels = [], []
+    labels_len = len(pre_labels)
     for i in range(labels_len):
-        pro_label = pro_labels[i]
-        if pro_label != ignore_label:  # 
-            acc_pro_labels.append(pro_label)
+        pre_label = pre_labels[i]
+        if pre_label != ignore_label:  # 
+            acc_pre_labels.append(pre_label)
             acc_right_labels.append(right_labels[i])
         if right_labels[i] != ignore_label:
-            rec_pro_labels.append(pro_label)
+            rec_pre_labels.append(pre_label)
             rec_right_labels.append(right_labels[i])
-    acc_pro_labels, acc_right_labels = np.array(acc_pro_labels, dtype='int32'), \
+    acc_pre_labels, acc_right_labels = np.array(acc_pre_labels, dtype='int32'), \
                                        np.array(acc_right_labels, dtype='int32')
-    rec_pro_labels, rec_right_labels = np.array(rec_pro_labels, dtype='int32'), \
+    rec_pre_labels, rec_right_labels = np.array(rec_pre_labels, dtype='int32'), \
                                        np.array(rec_right_labels, dtype='int32')
-    acc = len(np.where(acc_pro_labels == acc_right_labels)[0]) / float(len(acc_pro_labels))
-    rec = len(np.where(rec_pro_labels == rec_right_labels)[0]) / float(len(rec_pro_labels))
+    acc = len(np.where(acc_pre_labels == acc_right_labels)[0]) / float(len(acc_pre_labels))
+    rec = len(np.where(rec_pre_labels == rec_right_labels)[0]) / float(len(rec_pre_labels))
     f = (acc * rec * 2) / (acc + rec)
     return acc, rec, f
 
@@ -44,10 +46,10 @@ def get_max_label_len(classes_dict):
             max_len = len(item)
     return max_len
 
-def compute(pro_labels, right_labels, ignore_label, classes_dict, result_path):
+def compute(pre_labels, right_labels, ignore_label, classes_dict, result_path):
     """
     with details
-    @param pro_labels
+    @param pre_labels
     @param right_labels
     @param ignore_label
     @param classes_dict
@@ -59,10 +61,10 @@ def compute(pro_labels, right_labels, ignore_label, classes_dict, result_path):
     classes_num = len(classes_dict.items())
     each_class2others = np.zeros((classes_num, classes_num), dtype='int32')
     for i in range(len(right_labels)):
-        right_label, pro_label = right_labels[i], pro_labels[i]
-        each_class2others[right_label, pro_label] += 1
+        right_label, pre_label = right_labels[i], pre_labels[i]
+        each_class2others[right_label, pre_label] += 1
     max_class_len = get_max_label_len(classes_dict)
-    file_result = open(result_path, 'w', encoding='utf-8')
+    file_result = codecs.open(result_path, 'w', encoding='utf-8')
     # head
     file_result.write('%s' % (' '*(max_class_len+3)))
     for i in range(classes_num):
@@ -92,7 +94,7 @@ def compute(pro_labels, right_labels, ignore_label, classes_dict, result_path):
     file_result.write(('%'+str(max_class_len+3)+'s') % 'sum')
     for i in range(classes_num):
         file_result.write('%6d' % sum(each_class2others[:, i]))
-    acc, rec, f = sim_compute(pro_labels, right_labels, ignore_label)
+    acc, rec, f = sim_compute(pre_labels, right_labels, ignore_label)
     file_result.write(
         '%6d%6.2f%6.2f%6.2f' % 
 	(np.sum(each_class2others), acc*100, rec*100, f*100)
@@ -102,10 +104,10 @@ def compute(pro_labels, right_labels, ignore_label, classes_dict, result_path):
     return acc, rec, f
 
 if __name__ == '__main__':
-    pro_labels =   [1,2,3,4,0,6,7,0,2,8]
+    pre_labels =   [1,2,3,4,0,6,7,0,2,8]
     right_labels = [0,2,3,6,5,4,7,1,0,3]
     ignore_label = 0
-    acc, rec, f = sim_compute(pro_labels, right_labels, ignore_label)
+    acc, rec, f = sim_compute(pre_labels, right_labels, ignore_label)
     print('acc:', acc)
     print('rec:', rec)
     print('  f:', f)
